@@ -1,5 +1,7 @@
-.git
+.git/**
+.github/**
 .ignore
 .DS_Store
 config.yml
 sources.txt
+_redirects
