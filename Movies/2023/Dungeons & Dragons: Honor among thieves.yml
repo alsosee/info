@@ -1,3 +1,39 @@
 name: "Dungeons & Dragons: Honor among thieves"
+website: https://www.paramountmovies.com/movies/dungeons-dragons-honor-among-thieves
+imdb: https://www.imdb.com/title/tt2906216/
+instagram: https://www.instagram.com/dungeonsanddragonsmovie
+facebook: https://www.facebook.com/DungeonsandDragonsMovie
+twitter: https://twitter.com/DnDMovie
+tiktok: https://www.tiktok.com/@dungeonsanddragonsmovie
+description: >
+  A charming thief and a band of unlikely adventurers undertake an epic heist
+  to retrieve a lost relic, but things go dangerously awry when they run afoul
+  of the wrong people in this hilarious and action-packed adventure.
+genres:
+  - action
+  - adventure
+rating: RG-13
+length: 2h14m
+trailer: https://www.youtube.com/watch?v=IiMinixSXII
 refs:
-  - Games/Tabletop/Dungeons and Dragons
+  - Games/Tabletop/Dungeons & Dragons
+directors:
+  - John Francis Daley
+  - Jonathan Goldstein
+writers:
+  - Johathan Goldstein
+  - John Francis Daley
+  - Michael Gilio
+characters:
+  - name: Edgin
+    actor: Chris Pine
+  - name: Holga
+    actor: Michelle Rodriguez
+  - name: Xenk
+    actor: Regé-Jean Page
+  - name: Simon
+    actor: Justice Smith
+  - name: Doric
+    actor: Sophia Lillis
+  - name: Forge
+    actor: Hugh Grant
