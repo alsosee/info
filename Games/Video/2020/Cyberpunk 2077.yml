@@ -1,0 +1,43 @@
+name: Cyberpunk 2077
+description: >
+  Cyberpunk 2077 is a 2020 action role-playing video game developed by CD Projekt Red
+  and published by CD Projekt, based on video game designer
+  Mike Pondsmith's game series.
+website: https://www.cyberpunk.net/
+developers: CD Projekt Red
+trailer: https://www.youtube.com/watch?v=Ugb80d5lxEM
+wikipedia: https://en.wikipedia.org/wiki/Cyberpunk_2077
+x: https://twitter.com/CyberpunkGame
+instagram: https://instagram.com/cyberpunkgame
+facebook: https://facebook.com/CyberpunkGame
+imdb: https://www.imdb.com/title/tt3810192
+xbox: https://www.xbox.com/en-US/games/store/cyberpunk-2077-ultimate-edition/9P9G5WX8C0VH/0010
+playstation: https://store.playstation.com/en-us/product/UP4497-PPSA03974_00-EXPANSION1B00000
+gog: https://www.gog.com/game/cyberpunk_2077_ultimate_edition
+steam: https://cdn-l-cyberpunk.cdprojektred.com/store/digital-steam.png
+epic: https://store.epicgames.com/p/cyberpunk-2077--ultimate-edition
+twitch: https://www.twitch.tv/cdprojektred
+discord: https://discord.gg/cyberpunkgame
+youtube: https://www.youtube.com/user/CyberPunkGame
+fandom: https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
+characters:
+  - name: V
+    description: The protagonist
+  - name: Johnny Silverhand
+    description: A digital ghost
+    actor: Keanu Reeves
+  - name: Jackie Welles
+    description: V's friend
+    actor: Jason Hightower
+  - name: Judy Alvarez
+    description: Braindance technician
+    actor: Carla Tassara
+  - name: Evelyn Parker
+    description: Braindance technician
+    actor: Jaimi Barbakoff
+  - name: Dexter DeShawn
+    description: Fixer
+    actor: Michael-Leon Wooley
+  - name: Takemura
+    description: Arasaka agent
+    actor: Hideo Kimura
