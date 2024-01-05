@@ -12,6 +12,7 @@ description: >
 genres:
   - action
   - adventure
+  - comedy
 rating: RG-13
 length: 2h14m
 trailer: https://www.youtube.com/watch?v=IiMinixSXII
@@ -25,15 +26,23 @@ writers:
   - John Francis Daley
   - Michael Gilio
 characters:
-  - name: Edgin
+  - name: Edgin Darvis
     actor: Chris Pine
-  - name: Holga
+  - name: Holga Kilgore
     actor: Michelle Rodriguez
-  - name: Xenk
+  - name: Xenk Yendar
     actor: Regé-Jean Page
-  - name: Simon
+  - name: Simon Aumar
     actor: Justice Smith
   - name: Doric
     actor: Sophia Lillis
-  - name: Forge
+  - name: Forge Fitzwilliam
     actor: Hugh Grant
+  - name: Kira Darvis
+    actor: Chloe Coleman
+  - name: Sofina
+    actor: Daisy Head
+  - name: Dralas
+    actor: Jason Wong
+  - name: Marlamin
+    actor: Bradley Cooper
