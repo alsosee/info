@@ -23,6 +23,7 @@ fandom: https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
 characters:
   - name: V
     description: The protagonist
+    # voice: Cherami Leigh, Gavin Drea
   - name: Johnny Silverhand
     description: A digital ghost
     actor: Keanu Reeves
@@ -33,11 +34,14 @@ characters:
     description: Braindance technician
     actor: Carla Tassara
   - name: Evelyn Parker
-    description: Braindance technician
-    actor: Jaimi Barbakoff
+    description: Doll
+    actor: Kari Wahlgren
   - name: Dexter DeShawn
     description: Fixer
-    actor: Michael-Leon Wooley
-  - name: Takemura
+    actor: Thierry Mercier
+  - name: Goro Takemura
     description: Arasaka agent
-    actor: Hideo Kimura
+    actor: Rome Kanda
+  - name: Panam Palmer
+    description: Nomad
+    actor: Emily Woo Zeller
