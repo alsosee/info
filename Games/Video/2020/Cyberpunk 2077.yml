@@ -20,6 +20,7 @@ twitch: https://www.twitch.tv/cdprojektred
 discord: https://discord.gg/cyberpunkgame
 youtube: https://www.youtube.com/user/CyberPunkGame
 fandom: https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
+ign: https://www.ign.com/games/cyberpunk-2077
 characters:
   - name: V
     description: The protagonist
@@ -45,3 +46,6 @@ characters:
   - name: Panam Palmer
     description: Nomad
     actor: Emily Woo Zeller
+  - name: Kerry Eurodyne
+    description: Rockerboy
+    actor: Matthew Yang King
