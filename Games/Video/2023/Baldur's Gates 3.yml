@@ -1,3 +1,76 @@
 name: Baldur's Gates 3
+description: >
+  Baldur's Gate 3 is a 2023 role-playing video game developed by Larian Studios
+  and published by Wizards of the Coast, based on video game designer
+  Mike Mearls's game series.
+websites:
+  - https://baldursgate3.game/
+  - https://bg3.wiki/
+developers: Larian Studios
+wikipedia: "https://en.wikipedia.org/wiki/Baldur's_Gate_3"
+twitter: https://twitter.com/baldursgate3
+facebook: https://facebook.com/baldursgate3
+imdb: https://www.imdb.com/title/tt13258344/
+steam: https://store.steampowered.com/agecheck/app/1086940/
+xbox: https://www.microsoft.com/store/productid/9nd58lqtg09t
+playstation: https://store.playstation.com/concept/10007460/
+gog: https://www.gog.com/game/baldurs_gate_iii?utm_medium=link&utm_source=Larian&utm_campaign=partner_links
+fandom: https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_III
+reddit: https://www.reddit.com/r/BaldursGate3/
+ign: https://www.ign.com/wikis/baldurs-gate-3
+characters:
+  - name: Lae'zel
+    description: Githyanki warrior
+    actor: Devora Wilde
+  - name: Shadowheart
+    actor: Jennifer English
+    description: Half-elf cleric
+  - name: Astarion
+    actor: Neil Newbon
+    description: High elf vampire rogue
+  - name: Gale
+    actor: Tim Downie
+    description: Human wizard
+  - name: Wyll
+    actor: Theo Solomon
+    description: Human warlock
+  - name: Karlach
+    actor: Samantha Béart
+    description: Tiefling barbarian
+  - name: Halsin
+    actor: Dave Jones
+    description: Wood elf druid
+  - name: Jaheira
+    actor: Tracy Wiles
+    description: Half-elf druid
+  - name: Minsc
+    actor: Mettew Mercer
+    description: Human ranger
+  - name: Minthara
+    actor: Emma Gregory
+    description: Drow paladin
+  - name: General Ketheric Thorm
+    actor: J. K. Simmons
+  - name: Lord Enver Gortash
+    actor: Jason Isaacs
+  - name: Orin the Red
+    actor: Maggie Robertson
+  - name: Raphael
+    actor: Andrew Wincott
+    description: A devil with a penchant for making deals
+  - name: Bhaal
+    actor: Doug Cockle
+    description: The God of Murder
+  - name: Mystra
+    actor: Jane Perry
+    description: Goddess of Magic
+  - name: Volo
+    actor: Stephen Hogan
+    description: An unlucky writer
+  - name: Mizora
+    actor: Tamaryn Payne
+    description: A manipulative demon with a connection to Wyll
+  - name: Narrator
+    actor: Amelia Tyler
 refs:
   - Games/Tabletop/Dungeons & Dragons
