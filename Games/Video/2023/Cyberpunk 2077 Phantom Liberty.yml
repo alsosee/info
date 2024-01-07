@@ -1,0 +1,51 @@
+name: "Cyberpunk 2077: Phantom Liberty"
+description: >
+  Cyberpunk 2077: Phantom Liberty is an action role-playing video game developed by CD Projekt RED.
+  An expansion pack for Cyberpunk 2077, it introduces a new district and a new quest line.
+website: https://www.cyberpunk.net/us/en/phantom-liberty
+developers: CD Projekt RED
+trailer: https://www.youtube.com/watch?v=P39n86v-T7w
+wikipedia: https://en.wikipedia.org/wiki/Cyberpunk_2077:_Phantom_Liberty
+playstation: https://store.playstation.com/en-us/product/UP4497-PPSA03974_00-EXPANSION1000000
+xbox: https://www.xbox.com/en-US/games/store/cyberpunk-2077-phantom-liberty/9NMJD11KCRL0/0010
+gog: https://www.gog.com/en/game/cyberpunk_2077_phantom_liberty
+steam: https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty/
+epic: https://store.epicgames.com/en-US/p/cyberpunk-2077--phantom-liberty
+imdb: https://www.imdb.com/title/tt25808274/
+ign: https://www.ign.com/wikis/cyberpunk-2077/Cyberpunk_2077_Phantom_Liberty
+characters:
+  - name: V (female)
+    description: The protagonist
+    actor: Cherami Leigh
+  - name: V (male)
+    description: The protagonist
+    actor: Gavin Drea
+  - name: Johnny Silverhand
+    description: A digital ghost
+    actor: Keanu Reeves
+  - name: Rosalind Myers
+    description: President of the NUSA
+    actor: Kay Bess
+  - name: Song So Mi 'Songbird'
+    description: Netrunner
+    actor: Minji Chang
+  - name: Solomon Reed
+    description: FIA agent
+    actor: Idris Elba
+  - name: Alena 'Alex' Xenakis
+    description: FIA agent
+    actor: Yvonne Senat Jones
+  - name: Kurt Hansen
+    description: The leader of the BARGHEST faction
+    actor: Eliah Mountjoy
+  - name: Mr. Hands
+    description: Fixer
+    actor: Alex Jordan
+  - name: Aurore Cassel
+    description: Netrunner
+    actor: Leonie Schliesing
+  - name: Aymeric Cassel
+    description: Netrunner
+    actor: André Refig
+refs:
+  - Games/Video/2020/Cyberpunk 2077
