@@ -22,9 +22,12 @@ youtube: https://www.youtube.com/user/CyberPunkGame
 fandom: https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
 ign: https://www.ign.com/games/cyberpunk-2077
 characters:
-  - name: V
+  - name: V (female)
     description: The protagonist
-    # voice: Cherami Leigh, Gavin Drea
+    actor: Cherami Leigh
+  - name: V (male)
+    description: The protagonist
+    actor: Gavin Drea
   - name: Johnny Silverhand
     description: A digital ghost
     actor: Keanu Reeves
@@ -49,3 +52,12 @@ characters:
   - name: Kerry Eurodyne
     description: Rockerboy
     actor: Matthew Yang King
+  - name: Rogue Amendiares
+    description: Smuggler
+    actor: Jane Perry
+  - name: Adam Smasher
+    description: Cyborg
+    actor: Alec Newman
+# refs:
+#   - Books/1986/Do Androids Dream of Electric Sheep?
+#   - Books/1984/Neuromancer
