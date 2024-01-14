@@ -1,0 +1,81 @@
+name: "Cyberpunk: Edgerunners"
+based_on: Games/Video/2020/Cyberpunk 2077
+website: https://www.cyberpunk.net/en/edgerunners
+wikipedia: https://en.wikipedia.org/wiki/Cyberpunk%3A_Edgerunners
+imdb: https://www.imdb.com/title/tt12590266
+netflix: https://www.netflix.com/title/81054853
+rotten_tomatoes: https://www.rottentomatoes.com/tv/cyberpunk_edgerunners/s01
+twitter: https://twitter.com/edgerunners
+facebook: https://www.facebook.com/edgerunners
+instagram: https://www.instagram.com/edgerunners/
+fandom: https://cyberpunk.fandom.com/wiki/Cyberpunk:_Edgerunners
+ign: https://www.ign.com/tv/cyberpunk-edgerunners
+spotify: https://open.spotify.com/album/0j3Idieeln2mEJKdhfCzPb
+description: >
+  Cyberpunk: Edgerunners tells a standalone, 10-episode story about a street kid trying to survive in a technology and body modification-obsessed city of the future.
+  Having everything to lose, he chooses to stay alive by becoming an edgerunner — a mercenary outlaw also known as a cyberpunk.
+characters:
+  - name: David Martinez
+    voice: Zach Aguilar
+    voice_jp: Ken'ichirō Ōhashi
+    description: >
+      A Latino American teenager who is a top student at the prestigious Arasaka Academy.
+      Due to coming from a poor family, he is relentlessly bullied by his classmates and feels like he does not belong at school.
+      A sudden and devastating tragedy leads him to abandon his education and puts him on the path of becoming an edgerunner.
+  - name: Lucyna "Lucy" Kushinada
+    voice: Emi Lo
+    voice_jp: Aoi Yabusaki
+    description: >
+      A young netrunner who becomes romantically involved with David and introduces him to the criminal underworld of Night City.
+      She has a particular hatred towards Arasaka and dreams of traveling to the Moon.
+  - name: Rebecca
+    voice: Alex Cazares
+    voice_jp: Tomoyo Kurosawa
+    description: >
+      A trigger-happy edgerunner and a member of Maine's crew.
+      She is also Pilar's younger sister.
+  - name: Maine
+    voice: William C. Stephens
+    voice_jp: Hiroki Tōchi
+    description: >
+      A veteran edgerunner who commands his own crew.
+      He is one of Gloria's clients and allows David to join the crew under his guidance.
+  - name: Dorio
+    voice: Marie Westbrook
+    voice_jp: Michiko Kaiden
+    description: >
+      Maine's girlfriend and second-in-command.
+  - name: Pilar
+    voice: Ian James Corlett
+    voice_jp: Wataru Takagi
+    description: >
+      A foul-mouthed techie and a member of Maine's crew.
+      He is also Rebecca's older brother.
+  - name: Kiwi
+    voice: Stephanie Wong
+    voice_jp: Takako Honda
+    description: A veteran netrunner who is often cold and stoic, and a member of Maine's crew.
+  - name: Falco
+    voice: Matthew Mercer
+    voice_jp: Yasuyuki Kase
+    description: A member of Maine's crew who works as the group's getaway driver.
+  - name: Faraday
+    voice: Giancarlo Esposito
+    voice_jp: Kazuhiko Inoue
+    description: >
+      A fixer who works for Militech.
+      He has a business relationship with Maine's crew and often hires them to conduct jobs that usually involve them performing corporate espionage against Arasaka.
+  - name: Ripperdoc
+    voice: Borge Etienne
+    voice_jp: Kenjiro Tsuda
+    description: A local ripperdoc who helps upgrade and install David's cybernetic implants, as well as providing him with the required immunosuppressants.
+  - name: Gloria Martinez
+    voice: Gloria Garayua
+    voice_jp: Yurika Hino
+    description: David's mother and a paramedic who works herself to the bone to pay for his tuition at the Arasaka Academy.
+  - name: Adam Smasher
+    voice: Alec Newman
+    voice_jp: Yukihiro Misono
+    description: >
+      A bloodthirsty and fully cybernetic supersoldier who works for Arasaka as their chief of security.
+      His English voice actor, Alec Newman, reprises the role from Cyberpunk 2077.
