@@ -1,0 +1,92 @@
+name: Harry Potter and the Philosopher's Stone
+imdb: https://www.imdb.com/title/tt0241527/
+wikipedia: https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone_(film)
+spotify: https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N?si=xtH5VDHdSuKDH94WMangqw
+description: >
+  Harry Potter and the Philosopher's Stone is a 2001 fantasy film directed by Chris Columbus and produced by David Heyman, from a screenplay by Steve Kloves, based on the 1997 novel of the same name by J. K. Rowling.
+  It is the first instalment in the Harry Potter film series.
+series: Harry Potter
+genres:
+  - adventure
+  - family
+  - fantasy
+  - mystery
+  - thriller
+length: 2h32m
+rating: PG
+director: Chris Columbus
+writers:
+  - J. K. Rowling
+  - Steve Kloves
+distributor: Warner Bros. Pictures
+music: John Williams
+cinematography: John Seale
+producers: David Heyman
+editor: Richard Francis-Bruce
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+  - 1492 Pictures
+based_on:
+  - Books/1997/Harry Potter and the Philosopher's Stone
+characters:
+  - name: Harry Potter
+    description: The protagonist
+    actor: Daniel Radcliffe
+  - name: Ron Weasley
+    description: Harry's best friend
+    actor: Rupert Grint
+  - name: Hermione Granger
+    description: Harry's best friend
+    actor: Emma Watson
+  - name: Albus Dumbledore
+    description: Headmaster of Hogwarts
+    actor: Richard Harris
+  - name: Professor McGonagall
+    description: Transfiguration teacher
+    actor: Maggie Smith
+  - name: Rubeus Hagrid
+    description: Groundskeeper of Hogwarts
+    actor: Robbie Coltrane
+  - name: Severus Snape
+    description: Potions teacher
+    actor: Alan Rickman
+  - name: Draco Malfoy
+    description: Harry's rival
+    actor: Tom Felton
+  - name: Neville Longbottom
+    description: Harry's friend
+    actor: Matthew Lewis
+  - name: Fred Weasley
+    description: Ron's brother
+    actor: James Phelps
+  - name: George Weasley
+    description: Ron's brother
+    actor: Oliver Phelps
+  - name: Ginny Weasley
+    description: Ron's sister
+    actor: Bonnie Wright
+  - name: Percy Weasley
+    description: Ron's brother
+    actor: Chris Rankin
+  - name: Aunt Petunia Dursley
+    description: Harry's aunt
+    actor: Fiona Shaw
+  - name: Uncle Vernon Dursley
+    description: Harry's uncle
+    actor: Richard Griffiths
+  - name: Dudley Dursley
+    description: Harry's cousin
+    actor: Harry Melling
+  - name: Professor Quirrell
+    description: Defence Against the Dark Arts teacher
+    actor: Ian Hart
+  - name: Mr. Ollivander
+    description: Wandmaker
+    actor: John Hurt
+  - name: Nearly Headless Nick
+    description: Gryffindor house ghost
+    actor: John Cleese
+  - name: The sorting hat
+    description: A magical hat
+    voice: Leslie Phillips
