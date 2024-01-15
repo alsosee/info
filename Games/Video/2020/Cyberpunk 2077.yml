@@ -3,6 +3,7 @@ description: >
   Cyberpunk 2077 is a 2020 action role-playing video game developed by CD Projekt Red
   and published by CD Projekt, based on video game designer
   Mike Pondsmith's game series.
+based_on: Games/Tabletop/Cyberpunk
 website: https://www.cyberpunk.net/
 developers: CD Projekt Red
 trailer: https://www.youtube.com/watch?v=Ugb80d5lxEM
@@ -21,43 +22,48 @@ discord: https://discord.gg/cyberpunkgame
 youtube: https://www.youtube.com/user/CyberPunkGame
 fandom: https://cyberpunk.fandom.com/wiki/Cyberpunk_Wiki
 ign: https://www.ign.com/games/cyberpunk-2077
+spotify: https://open.spotify.com/album/1B2QrHbMox8vPXUY7rXAFp
+genres:
+  - action
+  - crime
+  - drama
 characters:
   - name: V (female)
     description: The protagonist
-    actor: Cherami Leigh
+    voice: Cherami Leigh
   - name: V (male)
     description: The protagonist
-    actor: Gavin Drea
+    voice: Gavin Drea
   - name: Johnny Silverhand
     description: A digital ghost
     actor: Keanu Reeves
   - name: Jackie Welles
     description: V's friend
-    actor: Jason Hightower
+    voice: Jason Hightower
   - name: Judy Alvarez
     description: Braindance technician
-    actor: Carla Tassara
+    voice: Carla Tassara
   - name: Evelyn Parker
     description: Doll
-    actor: Kari Wahlgren
+    voice: Kari Wahlgren
   - name: Dexter DeShawn
     description: Fixer
-    actor: Thierry Mercier
+    voice: Thierry Mercier
   - name: Goro Takemura
     description: Arasaka agent
-    actor: Rome Kanda
+    voice: Rome Kanda
   - name: Panam Palmer
     description: Nomad
-    actor: Emily Woo Zeller
+    voice: Emily Woo Zeller
   - name: Kerry Eurodyne
     description: Rockerboy
-    actor: Matthew Yang King
+    voice: Matthew Yang King
   - name: Rogue Amendiares
     description: Smuggler
-    actor: Jane Perry
+    voice: Jane Perry
   - name: Adam Smasher
     description: Cyborg
-    actor: Alec Newman
+    voice: Alec Newman
 # refs:
 #   - Books/1986/Do Androids Dream of Electric Sheep?
 #   - Books/1984/Neuromancer

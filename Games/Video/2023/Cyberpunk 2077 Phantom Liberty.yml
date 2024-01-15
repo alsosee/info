@@ -13,39 +13,40 @@ steam: https://store.steampowered.com/app/2138330/Cyberpunk_2077_Phantom_Liberty
 epic: https://store.epicgames.com/en-US/p/cyberpunk-2077--phantom-liberty
 imdb: https://www.imdb.com/title/tt25808274/
 ign: https://www.ign.com/wikis/cyberpunk-2077/Cyberpunk_2077_Phantom_Liberty
+spotify: https://open.spotify.com/album/7JuqioZeC7PFuW8zrXJSLh
 characters:
   - name: V (female)
     description: The protagonist
-    actor: Cherami Leigh
+    voice: Cherami Leigh
   - name: V (male)
     description: The protagonist
-    actor: Gavin Drea
+    voice: Gavin Drea
   - name: Johnny Silverhand
     description: A digital ghost
     actor: Keanu Reeves
   - name: Rosalind Myers
     description: President of the NUSA
-    actor: Kay Bess
+    voice: Kay Bess
   - name: Song So Mi 'Songbird'
     description: Netrunner
-    actor: Minji Chang
+    voice: Minji Chang
   - name: Solomon Reed
     description: FIA agent
     actor: Idris Elba
   - name: Alena 'Alex' Xenakis
     description: FIA agent
-    actor: Yvonne Senat Jones
+    voice: Yvonne Senat Jones
   - name: Kurt Hansen
     description: The leader of the BARGHEST faction
-    actor: Eliah Mountjoy
+    voice: Eliah Mountjoy
   - name: Mr. Hands
     description: Fixer
-    actor: Alex Jordan
+    voice: Alex Jordan
   - name: Aurore Cassel
     description: Netrunner
-    actor: Leonie Schliesing
+    voice: Leonie Schliesing
   - name: Aymeric Cassel
     description: Netrunner
-    actor: André Refig
+    voice: André Refig
 refs:
   - Games/Video/2020/Cyberpunk 2077
