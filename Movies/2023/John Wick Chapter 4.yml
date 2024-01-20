@@ -5,7 +5,6 @@ description: >
 website: https://www.johnwick.movie/film/john-wick-4
 wikipedia: https://en.wikipedia.org/wiki/John_Wick%3A_Chapter_4
 imdb: https://www.imdb.com/title/tt10366206
-directors: Chad Stahelski
 amazon: https://www.amazon.com/gp/video/detail/0N421U2QYF2O8XQ7EDF3VUHC2H
 apple_tv: https://tv.apple.com/us/movie/john-wick-chapter-4/umc.cmc.5qacjvwsjrto1bqr8bweu81r4
 google_play: https://play.google.com/store/movies/details/John_Wick_Chapter_4?id=vjT2U7xk-1A.P&hl=en_US&gl=US
@@ -14,6 +13,7 @@ redbox: https://www.redbox.com/ondemand-movies/john-wick-chapter-4
 row8: https://row8.com/movie-details/112890817/t:John_Wick_Chapter_4
 vudu: https://www.vudu.com/content/movies/details/John-Wick-Chapter-4/2278926
 youtube: https://www.youtube.com/watch?v=cbdeMfi4aHM
+directors: Chad Stahelski
 writers:
   - Shay Hatten
   - Michael Finch

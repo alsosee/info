@@ -1,0 +1,31 @@
+name: John Wick
+series: John Wick
+description: >
+  John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad.
+wikipedia: https://en.wikipedia.org/wiki/John_Wick_(film)
+imdb: https://www.imdb.com/title/tt2911666
+rotten_tomatoes: https://www.rottentomatoes.com/m/john_wick
+directors:
+  - Chad Stahelski
+  - David Leitch
+writers: Derek Kolstad
+producers: Darren Blumenthal
+characters:
+  - name: John Wick
+    actor: Keanu Reeves
+  - name: Helen
+    actor: Bridget Moynahan
+  - name: Charon
+    actor: Lance Reddick
+  - name: Viggo Tarasov
+    actor: Michael Nyqvist
+  - name: Iosef Tarasov
+    actor: Alfie Allen
+  - name: Winston
+    actor: Ian Mcshane
+  - name: Ms. Perkins
+    actor: Adrianne Palicki
+  - name: Aurelio
+    actor: John Leguizamo
+  - name: Marcus
+    actor: Willem Dafoe
