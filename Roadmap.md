@@ -2,7 +2,7 @@
 
 [x] Add audio theme to Movie/Game
 [x] Movie that based on a Book
-[ ] Book that is about Movie (like John Wick) or Person (like Steve Jobs)
+[x] Book that is about Movie (like John Wick) or Person (like Steve Jobs)
 [ ] Not to be confused with...
 [ ] Companies
 [ ] Game/Movie series
