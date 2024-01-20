@@ -1,11 +1,11 @@
 # Missing
 
 <ul class="connections">
-{{- range $to, $from := missing }}
+{{- range $m := missing }}
 <li>
-    {{ $to }}
+    {{ $m.To }}
     <ul class="connections flat">
-        {{ template "connections" $from }}
+        {{ template "connections" $m.From }}
     </ul>
 </li>
 {{- end }}
