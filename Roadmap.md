@@ -1,21 +1,21 @@
 # Roadmap
 
-- Movie that based on a Book
-- Book that is about Movie (like John Wick) or Person (like Steve Jobs)
-- Add audio theme to Movie/Game
-- Not to be confused with...
-- Companies
-- Game/Movie series
-- TV Shows
-- Universe (DC, Marvel, etc.)
-- Movie where Character is another person, like in Oppenheimer
-- Game where Character can be voiced by different people, like V in Cyberpunk 2077
-- Movie that based on Event
-- Quotes from Movies by Characters
-- Quotes about Events by People
-- Awards concept: Game, Movie; showing it on Game/Movie page, by the actor if applicable
-- Locations
-- YouTube shows
-- Multiple covers for Movie, Game, Book, etc.
-- Federation
-- Extensions
+[x] Add audio theme to Movie/Game
+[x] Movie that based on a Book
+[ ] Book that is about Movie (like John Wick) or Person (like Steve Jobs)
+[ ] Not to be confused with...
+[ ] Companies
+[ ] Game/Movie series
+[ ] TV Shows
+[ ] Universe (DC, Marvel, etc.)
+[ ] Movie where Character is another person, like in Oppenheimer
+[ ] Game where Character can be voiced by different people, like V in Cyberpunk 2077
+[ ] Movie that based on Event
+[ ] Quotes from Movies by Characters
+[ ] Quotes about Events by People
+[ ] Awards concept: Game, Movie; showing it on Game/Movie page, by the actor if applicable
+[ ] Locations
+[ ] YouTube shows
+[ ] Multiple covers for Movie, Game, Book, etc.
+[ ] Federation
+[ ] Extensions
