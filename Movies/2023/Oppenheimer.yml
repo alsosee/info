@@ -1,0 +1,72 @@
+name: Oppenheimer
+description: A biographical drama film about J. Robert Oppenheimer, the physicist who played a key role in the development of the atomic bomb during World War II.
+wikipedia: https://en.wikipedia.org/wiki/Oppenheimer_(film)
+imdb: https://www.imdb.com/title/tt15398776/
+tmdb: https://www.themoviedb.org/movie/872585-oppenheimer
+twitter: https://twitter.com/OppenheimerFilm
+instagram: https://instagram.com/oppenheimermovie
+facebook: https://facebook.com/OppenheimerMovie
+rotten_tomatoes: https://www.rottentomatoes.com/m/oppenheimer_2023
+prime_video: https://www.amazon.com/gp/video/detail/B0CKRXGGQB/
+youtube: https://www.youtube.com/watch?v=PQg_at1ICjU
+google_play: https://play.google.com/store/movies/details/Oppenheimer?id=vvL-UTgh1w8.P
+trailer: https://www.youtube.com/watch?v=bK6ldnjE3Y0
+directors: Christopher Nolan
+distributor: Universal Pictures
+length: 181m
+based_on: Books/2005/American Prometheus
+genres:
+  - biography
+  - drama
+  - history
+writers:
+  - Christopher Nolan
+  - Kai Bird
+  - Martin Sherwin
+characters:
+  - name: J. Robert Oppenheimer
+    actor: Cillian Murphy
+  - name: Kitty Oppenheimer
+    actor: Emily Blunt
+  - name: Lewis Strauss
+    actor: Robert Downey Jr.
+  - name: Leslie Groves
+    actor: Matt Damon
+  - name: Jean Tatlock
+    actor: Florence Pugh
+  - name: Ernest Lawrence
+    actor: John Hartnett
+  - name: Boris Pash
+    actor: Casey Affleck
+  - name: David Hill
+    actor: Rami Malek
+  - name: Neils Bohr
+    actor: Kenneth Branagh
+  - name: Edward Teller
+    actor: Benny Safdie
+  - name: Roger Robb
+    actor: Jason Clarke
+  - name: Frank Oppenheimer
+    actor: Dylan Arnold
+  - name: Albert Einstein
+    actor: Tom Conti
+  - name: Richard Feynman
+    actor: Jack Quaid
+  # - name: Patrick Blackett
+  #   actor: James D'Arcy
+  # - name: William Borden
+  #   actor: David Dastmalchain
+  # - name: Kenneth Nichols
+  #   actor: Dane DeHaan
+  # - name: Senate Aide
+  #   actor: Alden Ehrenreich
+  # - name: Gordon Gray
+  #   actor: Tony Goldwyn
+  # - name: Haakon Chevalier
+  #   actor: Jefferson Hall
+  # - name: Isidor Rabi
+  #   actor: David Krumholtz
+  # - name: Vannevar Bush
+  #   actor: Matthew Modine
+  # - name: Counsel
+  #   actor: Stocc Grimes
