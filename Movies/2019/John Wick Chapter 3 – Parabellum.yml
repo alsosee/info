@@ -15,6 +15,7 @@ vudu: https://www.vudu.com/content/movies/details/John-Wick-Chapter-3-Parabellum
 youtube: https://www.youtube.com/watch?v=KlNJeURHIjU
 netflix: https://www.netflix.com/br-en/title/81168939
 rotten_tomatoes: https://www.rottentomatoes.com/m/john_wick_chapter_3_parabellum
+spotify: https://open.spotify.com/album/6QuW1gjC44CMeSo71jvc5Z
 directors: Chad Stahelski
 writers: Derek Kolstad
 producers: Darren Blumenthal
@@ -42,7 +43,7 @@ characters:
   - name: Tick Tock Man
     actor: Jason Mantzoukas
   - name: Zero's Student 1
-    actor: Cecep Rahman 
+    actor: Cecep Rahman
   - name: Zero's Student 2
     actor: Yayan Ruhian
   - name: The Doctor
