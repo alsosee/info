@@ -1,0 +1,87 @@
+name: Oscar 2023
+website: https://www.oscars.org/oscars/ceremonies/2023
+wikipedia: https://en.wikipedia.org/wiki/95th_Academy_Awards
+imdb: https://www.imdb.com/event/ev0000003/2023/1
+youtube: https://www.youtube.com/watch?v=u336g7VZlmg
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Brendan Fraser
+      movie: The Whale
+  - name: Actor in a supporting role
+    winner:
+      actor: Ke Huy Quan
+      movie: Everything Everywhere All at Once
+  - name: Actress in a leading role
+    winner:
+      actor: Michelle Yeoh
+      movie: Everything Everywhere All at Once
+  - name: Actress in a supporting role
+    winner:
+      actor: Jamie Lee Curtis
+      movie: Everything Everywhere All at Once
+  - name: Animated feature film
+    winner:
+      movie: Guillermo del Toro's Pinocchio
+  - name: Cinematography
+    winner:
+      movie: All quiet on the Western Front
+  - name: Costume Design
+    winner:
+      movie: "Black Panther: Wakanda Forever"
+  - name: Directing
+    winner:
+      movie: "Everything Everywhere All at Once"
+      directors:
+        - Daniel Kwan
+        - Daniel Scheinert
+  - name: Documentary Feature Film
+    winner:
+      movie: Navalny
+  - name: Documentary Short Subject
+    winner:
+      movie: The Elephant Whisperers
+  - name: Film Editing
+    winner:
+      movie: Everything Everywhere All at Once
+  - name: International Feature Film
+    winner:
+      movie: All quiet on the Western Front
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Whale
+  - name: Music (Original Score)
+    winner:
+      movie: All quiet on the Western Front
+  - name: Music (Original Song)
+    winner:
+      movie: RRR
+      track: Naatu Naatu
+  - name: Best Picture
+    winner:
+      movie: Everything Everywhere All at Once
+  - name: Production Design
+    winner:
+      movie: All quiet on the Western Front
+  - name: Short Film (Animated)
+    winner:
+      movie: The boy, the mole, the fox and the horse
+  - name: Short Film (Live Action)
+    winner:
+      movie: An Irish Goodbye
+  - name: Sound
+    winner:
+      movie: "Top Gun: Maverick"
+  - name: Visual Effects
+    winner:
+      movie: "Avatar: The Way of Water"
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Women Talking
+      writers: Sarah Polley
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Everything Everywhere All at Once
+      writers:
+        - Daniel Kwan
+        - Daniel Scheinert
