@@ -1,0 +1,97 @@
+title: The Game Awards 2023
+categories:
+  - name: Game of the Year
+    winner:
+      game: Baldur's Gate 3
+  - name: Best Game Direction
+    winner:
+      game: Alan Wake 2
+  - name: Best Narrative
+    winner:
+      game: Alan Wake 2
+  - name: Best Art Direction
+    winner:
+      game: Alan Wake 2
+  - name: Best Score and Music
+    winner:
+      game: Final Fantasy XVI
+      composer: Masayoshi Soken
+  - name: Best Audio Design
+    winner:
+      game: Hi-Fi Rush
+  - name: Best Performance
+    winner:
+      game: Baldur's Gate 3
+      actor: Neil Newbon
+  - name: Innovation in Accessibility
+    winner:
+      game: Forza Motorsport
+  - name: Game for Impact
+    winner:
+      game: Tchia
+  - name: Best Ongoing
+    winner:
+      game: Cyberpunk 2077
+  - name: Best Community Support
+    winner:
+      game: Baldur's Gate 3
+  - name: Best Independent Game
+    winner:
+      game: Sea of Stars
+  - name: Best Debug Indie Game
+    winner:
+      game: Cocoon
+  - name: Best Mobile Game
+    winner:
+      game: "Honkai: Star Rail"
+  - name: Best AR/VR
+    winner:
+      game: Resident Evil Village
+  - name: Best Action Game
+    winner:
+      game: "Armored Core 6: Fires of Rubicon"
+  - name: Best Action/Adventure
+    winner:
+      game: "The Legend of Zelda: Tears of the Kingdom"
+  - name: Best RPG
+    winner:
+      game: Baldur's Gate 3
+  - name: Best Fighting
+    winner:
+      game: Street Fighter 6
+  - name: Best Family
+    winner:
+      game: Super Mario Bros. Wonder
+  - name: Best Sim/Strategy
+    winner:
+      game: Pikmin 4
+  - name: Best sports/racing
+    winner:
+      game: Forza Motorsport
+  - name: Best Multiplayer
+    winner:
+      game: Baldur's Gate 3
+  - name: Best Adaptation
+    winner:
+      series: The Last of Us
+  - name: Most Anticipated Game
+    winner:
+      game: Final Fantasy VII Rebirth
+  # - name: Content Creator of the Year
+  #   winner:
+  #     ?: Ironmouse
+  - name: Best Esports Game
+    winner:
+      game: Valorant
+  - name: Best Esports Athlete
+    winner:
+      person: Lee "Faker" Sang-Hyeok
+  # - name: Best Esports Team
+  #   winner:
+  #     team: JD Gaming
+  - name: Best Esports Coach
+    winner:
+      person: Christine "Potter" Chi
+  # - name: Best Esports Event
+  #   winner:
+  #     event: League of Legends World Championship
