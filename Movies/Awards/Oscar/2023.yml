@@ -1,4 +1,4 @@
-name: Oscar 2023
+title: Oscar 2023
 website: https://www.oscars.org/oscars/ceremonies/2023
 wikipedia: https://en.wikipedia.org/wiki/95th_Academy_Awards
 imdb: https://www.imdb.com/event/ev0000003/2023/1
@@ -44,6 +44,7 @@ categories:
   - name: Film Editing
     winner:
       movie: Everything Everywhere All at Once
+      editor: Paul Rogers
   - name: International Feature Film
     winner:
       movie: All quiet on the Western Front
