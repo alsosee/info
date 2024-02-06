@@ -1,4 +1,4 @@
-name: Baldur's Gates 3
+name: Baldur's Gate 3
 description: >
   Baldur's Gate 3 is a 2023 role-playing video game developed by Larian Studios
   and published by Wizards of the Coast, based on video game designer
@@ -72,7 +72,5 @@ characters:
     description: A manipulative demon with a connection to Wyll
   - name: Narrator
     actor: Amelia Tyler
-  - name: Narrator
-    actor: Neil Newbon
 refs:
   - Games/Tabletop/Dungeons & Dragons
