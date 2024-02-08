@@ -31,7 +31,7 @@ categories:
       game: Tchia
   - name: Best Ongoing
     winner:
-      game: Cyberpunk 2077
+      ref: Games/Video/2020/Cyberpunk 2077
   - name: Best Community Support
     winner:
       game: Baldur's Gate 3
