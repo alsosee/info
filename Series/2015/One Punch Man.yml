@@ -1,5 +1,4 @@
 name: One Punch Man
-series: One-Punch Man
 description: >
   Saitama looks like an average guy, but his problem is anything but average.
   After training hard enough for all his hair to fall out, he's become so overwhelmingly powerful that no villain can stop him.
@@ -25,6 +24,7 @@ hulu: https://www.hulu.com/series/one-punch-man-54a25fcf-a472-4d40-9968-13e2957e
 apple_tv: https://tv.apple.com/us/show/one-punch-man/umc.cmc.3wyhw8ch5v6dgcrany0gn47db
 google_play: https://play.google.com/store/tv/show/One_Punch_Man?id=eLbGB56qJNqYuP2reb1Wxw
 fandom: https://onepunchman.fandom.com/wiki/One-Punch_Man_Wiki
+spotify: https://open.spotify.com/playlist/1FqeafEbP4EdxhMz1yGmFZ
 network: TV Tokyo
 directors: Shingo Natsume
 producers:
@@ -35,9 +35,23 @@ producers:
 writers: Tomohiro Suzuki
 characters:
   - name: Saitama
+    voice_jp: Makoto Furukawa
   - name: Genos
-  - name: Sonic
+    voice_jp: Kaito Ishikawa
+  - name: Speed-o'-Sound Sonic
+    voice_jp: Yūki Kaji
+  - name: Doctor Genus
+
+  - name: Carnage Kabuto
+  - name: Mumen Rider
+  - name: Silver Fang
+    voice_jp: Kazuhiro Yamaji
+  - name: Atomic Samurai
+    voice_jp: Kenjiro Tsuda
   - name: Tatsumaki
-  - name: Fubuki
-  - name: Garou
-  - name: Psykos
+    voice_jp: Aoi Yūki
+  - name: Puripuri Prisoner
+  - name: Deep Sea King
+  - name: Melzargard
+  - name: Geruganshoop
+  - name: Lord Boros
