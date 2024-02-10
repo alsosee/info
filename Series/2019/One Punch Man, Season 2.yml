@@ -18,6 +18,7 @@ based_on: Comics/2009/One Punch Man
 wikipedia: https://en.wikipedia.org/wiki/One-Punch_Man_(season_2)
 trailer: https://www.youtube.com/watch?v=78ngg0SRlEI
 website: https://onepunchman-anime.net/
+anime_news_network: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=21282
 spotify: https://open.spotify.com/playlist/1k0cgWjZTnZ0ib2yMK72Co
 amazon: https://www.amazon.com/One-Punch-Man-English-Season-2/dp/B08LR15X3X
 rotten_tomatoes: https://www.rottentomatoes.com/tv/one_punch_man/s02
@@ -28,6 +29,8 @@ google_play: https://play.google.com/store/tv/show/One_Punch_Man?id=eLbGB56qJNqY
 microsoft_store: https://www.microsoft.com/en-us/p/one-punch-man/8d6kgwx88k92?activetab=pivot%3aoverviewtab
 vudu: https://www.vudu.com/content/movies/details/One-Punch-Man-English-Dubbed-Season-2/1328009
 fandom: https://onepunchman.fandom.com/wiki/One-Punch_Man_Wiki
+twitter: https://twitter.com/opm_hachaca
+instagram: https://www.instagram.com/opm_anime/
 directors: Chikara Sakurai
 network: TV Tokyo
 producers:
@@ -38,34 +41,46 @@ writers: Tomohiro Suzuki
 characters:
   - name: Saitama
     voice_jp: Makoto Furukawa
+    voice: Max Mittelman
   - name: Genos
     voice_jp: Kaito Ishikawa
+    voice: Zach Aguilar
   - name: King
     voice_jp: Hiroki Yasumoto
+    voice: Rich Brown
   - name: Speed-o'-Sound Sonic
     voice_jp: Yūki Kaji
+    voice: Erik Scott Kimerer
   - name: Tatsumaki
     voice_jp: Aoi Yūki
+    voice: Corina Boettger
   - name: Fubuki
     voice_jp: Saori Hayami
+    voice: Laura Post
   - name: Garou
     voice_jp: Hikari Midorikawa
-  - name: Psykos
-  - name: Terrible Tornado
-  - name: Hellish Blizzard
+    voice: Greg Chun
   - name: Silver Fang
     voice_jp: Kazuhiro Yamaji
+    voice: John Demita
   - name: Atomic Samurai
     voice_jp: Kenjiro Tsuda
-  - name: Vaccine Man
+    voice: Kyle Hebert
   - name: Child Emperor
     voice_jp: Minami Takayama
+    voice: Sara Cravens
   - name: Pig God
     voice_jp: Namikawa Daisuke
+    voice: Brook Chalmers
   - name: Watchdog Man
     voice_jp: Yuuji Ueda
+    voice: Arnie Pantoja
   - name: Metal Bat
     voice_jp: Wataru Hatano
-  - name: Puripuri Prisoner
+    voice: Sam Regal
+  - name: Puri-Puri Prisoner
+    voice_jp: Masaya Onozaka
+    voice: Ray Chase
   - name: Mumen Rider
     voice_jp: Yuichi Nakamura
+    voice: Robbie Daymond

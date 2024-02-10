@@ -17,8 +17,10 @@ rating: TVMA
 based_on: Comics/2009/One Punch Man
 website: https://onepunchman-anime.net/
 wikipedia: https://en.wikipedia.org/wiki/One-Punch_Man
+anime_news_network: https://www.animenewsnetwork.com/encyclopedia/anime.php?id=16840
 trailer: https://www.youtube.com/watch?v=Poo5lqoWSGw
 twitter: https://twitter.com/opm_hachaca
+instagram: https://www.instagram.com/opm_anime/
 imdb: https://www.imdb.com/title/tt4508902/
 hulu: https://www.hulu.com/series/one-punch-man-54a25fcf-a472-4d40-9968-13e2957e5abf
 apple_tv: https://tv.apple.com/us/show/one-punch-man/umc.cmc.3wyhw8ch5v6dgcrany0gn47db
@@ -36,22 +38,49 @@ writers: Tomohiro Suzuki
 characters:
   - name: Saitama
     voice_jp: Makoto Furukawa
+    voice: Max Mittelman
   - name: Genos
     voice_jp: Kaito Ishikawa
+    voice: Zach Aguilar
   - name: Speed-o'-Sound Sonic
     voice_jp: Yūki Kaji
+    voice: Erik Scott Kimerer
   - name: Doctor Genus
-
+    voice_jp: Daisuke Namikawa
+    voice: Ray Chase
   - name: Carnage Kabuto
+    voice_jp: Unshō Ishizuka
+    voice: Mike McFarland
   - name: Mumen Rider
+    voice_jp: Yūichi Nakamura
+    voice: Robbie Daymond
   - name: Silver Fang
     voice_jp: Kazuhiro Yamaji
+    voice: Will Barret
   - name: Atomic Samurai
     voice_jp: Kenjiro Tsuda
+    voice: Kyle Hebert
   - name: Tatsumaki
     voice_jp: Aoi Yūki
-  - name: Puripuri Prisoner
+    voice: Marieve Herington
   - name: Deep Sea King
+    voice_jp: Rikiya Koyama
+    voice: Keith Silverstein
   - name: Melzargard
+    voice_jp: Kōki Uchiyama
+    voice: Vic Mignogna
   - name: Geruganshoop
+    voice_jp: Hiroki Gotō
+    voice: Brian Beacock
   - name: Lord Boros
+    voice_jp: Toshiyuki Morikawa
+    voice: Chris Jai Alex
+  - name: Metal Bat
+    voice_jp: Wataru Hatano
+    voice: Sam Riegel
+  - name: Child Emperor
+    voice_jp: Minami Takayama
+    voice: Sara Cravens
+  - name: Puri-Puri Prisoner
+    voice_jp: Masaya Onosaka
+    voice: Ray Chase
