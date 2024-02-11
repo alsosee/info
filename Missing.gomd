@@ -3,7 +3,7 @@
 <ul class="connections">
 {{- range $m := missing }}
 <li>
-    {{ $m.To }}
+    {{ template "reference" dict "Path" $m.To "Fallback" (base $m.To) "HideType" true }}
     <ul class="connections flat">
         {{ template "connections" $m.From }}
     </ul>
