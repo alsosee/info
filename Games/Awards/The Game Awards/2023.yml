@@ -1,4 +1,7 @@
 title: The Game Awards 2023
+website: https://thegameawards.com/
+wikipedia: https://en.wikipedia.org/wiki/The_Game_Awards_2023
+youtube: https://www.youtube.com/watch?v=Zu2z5M4gmno
 categories:
   - name: Game of the Year
     winner:
@@ -38,7 +41,7 @@ categories:
   - name: Best Independent Game
     winner:
       game: Sea of Stars
-  - name: Best Debug Indie Game
+  - name: Best Debut Indie Game
     winner:
       game: Cocoon
   - name: Best Mobile Game
