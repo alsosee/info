@@ -1,8 +1,14 @@
 name: "John Wick: Chapter 4"
 series: John Wick
 previous: Movies/2019/John Wick Chapter 3 – Parabellum
+genres:
+  - action
+  - crime
+  - triller
 description: >
   John Wick: Chapter 4 is a 2023 American epic neo-noir action thriller film directed and co-produced by Chad Stahelski and written by Shay Hatten and Michael Finch.
+length: 169m
+rating: R
 website: https://www.johnwick.movie/film/john-wick-4
 wikipedia: https://en.wikipedia.org/wiki/John_Wick%3A_Chapter_4
 imdb: https://www.imdb.com/title/tt10366206
@@ -15,6 +21,7 @@ row8: https://row8.com/movie-details/112890817/t:John_Wick_Chapter_4
 vudu: https://www.vudu.com/content/movies/details/John-Wick-Chapter-4/2278926
 youtube: https://www.youtube.com/watch?v=cbdeMfi4aHM
 spotify: https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN
+distributor: Lionsgate
 directors: Chad Stahelski
 writers:
   - Shay Hatten

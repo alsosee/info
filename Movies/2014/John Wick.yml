@@ -2,6 +2,12 @@ name: John Wick
 series: John Wick
 description: >
   John Wick is a 2014 American action thriller film directed by Chad Stahelski and written by Derek Kolstad.
+generes:
+  - action
+  - crime
+  - thriller
+rating: R
+length: 101m
 wikipedia: https://en.wikipedia.org/wiki/John_Wick_(film)
 imdb: https://www.imdb.com/title/tt2911666
 rotten_tomatoes: https://www.rottentomatoes.com/m/john_wick
@@ -11,6 +17,7 @@ directors:
   - David Leitch
 writers: Derek Kolstad
 producers: Darren Blumenthal
+distributor: Summit Entertainment
 characters:
   - name: John Wick
     actor: Keanu Reeves

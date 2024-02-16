@@ -3,6 +3,10 @@ series: John Wick
 previous: Movies/2017/John Wick Chapter 2
 description: >
   John Wick: Chapter 3 – Parabellum is a 2019 American neo-noir action thriller film directed by Chad Stahelski and written by Derek Kolstad.
+genres:
+  - action
+  - crime
+  - triller
 website: https://www.johnwick.movie/film/john-wick-chapter-3-parabellum
 imdb: https://www.imdb.com/title/tt6146586
 wikipedia: https://en.wikipedia.org/wiki/John_Wick:_Chapter_3_%E2%80%93_Parabellum
@@ -20,6 +24,9 @@ spotify: https://open.spotify.com/album/6QuW1gjC44CMeSo71jvc5Z
 directors: Chad Stahelski
 writers: Derek Kolstad
 producers: Darren Blumenthal
+distributor: Lionsgate
+length: 131m
+rating: R
 characters:
   - name: John Wick
     actor: Keanu Reeves

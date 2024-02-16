@@ -3,6 +3,12 @@ series: John Wick
 previous: Movies/2014/John Wick
 description: >
   John Wick: Chapter 2 is a 2017 American neo-noir action thriller film directed by Chad Stahelski and written by Derek Kolstad.
+length: 122m
+genres:
+  - action
+  - crime
+  - triller
+rating: R
 website: https://www.johnwick.movie/film/john-wick/john-wick-chapter-2
 wikipedia: https://en.wikipedia.org/wiki/John_Wick%3A_Chapter_2
 facebook: https://www.facebook.com/JohnWick2AU
@@ -22,6 +28,7 @@ directors:
   - David Leitch
 writers: Derek Kolstad
 producers: Darren Blumenthal
+distributor: Lionsgate
 characters:
   - name: John Wick
     actor: Keanu Reeves
