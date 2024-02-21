@@ -1,0 +1,30 @@
+name: "The Last of Us: Left Behind"
+description: >
+  It is a downloadable expansion pack to the 2013 game The Last of Us.
+  Set in a post-apocalyptic world, the game switches between two stories: the first, set three weeks before the events of The Last of Us, follows Ellie as she spends time with her best friend Riley in an abandoned mall in Boston; the second takes place between the Fall and Winter chapters of The Last of Us and focuses on Ellie's attempts to scour an abandoned mall in Colorado for medical supplies to heal Joel while dealing with enemies.
+genres:
+  - action-adventure
+  - survival horror
+wikipedia: https://en.wikipedia.org/wiki/The_Last_of_Us:_Left_Behind
+based_on: Comics/2013/The Last of Us American Dreams
+metacritic: https://www.metacritic.com/game/the-last-of-us-left-behind/
+ign: https://www.ign.com/games/the-last-of-us-left-behind
+fandom: https://thelastofus.fandom.com/wiki/The_Last_of_Us:_Left_Behind
+developers: Naughty Dog
+publishers: Sony Computer Entertainment
+directors:
+  - Neil Druckmann
+  - Bruce Straley
+# designers: Jacob Minkoff
+# programmers:
+#   - Travis McIntosh
+#   - Jason Gregory
+artists: Erick Pangilinan
+writers: Neil Druckmann
+composers: Gustavo Santaolalla
+released: 2014-02-14
+characters:
+  - name: Ellie
+    actor: Ashley Johnson
+  - name: Riley
+    actor: Yaani King

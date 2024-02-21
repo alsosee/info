@@ -1,0 +1,17 @@
+name: HBO's The Last of Us Podcast
+description: >
+  The official companion podcast for the new HBO Original series The Last of Us, based on the critically acclaimed video game of the same name.
+  Each week, join Host Troy Baker (who played Joel in the video game) as he breaks down episodes of the TV series with Showrunners Craig Mazin and Neil Druckmann.
+  Together they’ll dive into key moments and reveal behind the scenes stories from the making of this action survival series starring Pedro Pascal and Bella Ramsey.
+genres:
+  - TV & Film
+apple_podcasts: https://podcasts.apple.com/us/podcast/hbos-the-last-of-us-podcast/id1660320068
+spotify: https://open.spotify.com/show/63sqfQdGgHdkBlR7bxLeBk
+hosts: Troy Baker
+guests:
+  - Craig Mazin
+  - Neil Druckmann
+  - Ashley Johnson
+refs:
+  - Series/2023/The Last of Us
+  - Podcasts/2020/The Last of Us Podcast
