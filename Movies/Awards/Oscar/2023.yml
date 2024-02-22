@@ -44,7 +44,8 @@ categories:
   - name: Film Editing
     winner:
       movie: Everything Everywhere All at Once
-      editor: Paul Rogers
+      editors:
+        - Paul Rogers
   - name: International Feature Film
     winner:
       movie: All quiet on the Western Front
