@@ -1,0 +1,149 @@
+title: BAFTA 2024
+website: https://www.bafta.org/film/awards/2024-nominations-winners
+wikipedia: https://en.wikipedia.org/wiki/77th_British_Academy_Film_Awards
+youtube: https://www.youtube.com/playlist?list=PLby-UMvsblGbU9CbGHH2VnaojI6yngw-n
+categories:
+  - name: Best Film
+    winner:
+      movie: Oppenheimer
+
+  - name: Outstanding British Film
+    winner:
+      movie: The Zone of Interest
+
+  - name: Outstanding Debut by a British Writer, Director or Producer
+    winner:
+      movie: Earth Mama
+      writers:
+        - Savanah Leaf
+      directors:
+        - Savanah Leaf
+      producers:
+        - Savanah Leaf
+        - Shirley O'Connor
+        - Medb Riordan
+
+  - name: Film Not in the English Language
+    winner:
+      movie: The Zone Of Interest
+
+  - name: Documentary
+    winner:
+      movie: 20 Days in Mariupol
+
+  - name: Animated Film
+    winner:
+      movie: The Boy And The Heron
+
+  - name: Director
+    winner:
+      movie: Oppenheimer
+      directors:
+        - Christopher Nolan
+
+  - name: Original Screenplay
+    winner:
+      movie: Anatomy of a Fall
+      writers:
+        - Justine Triet
+        - Arthur Harari
+
+  - name: Adapted Screenplay
+    winner:
+      movie: American Fiction
+      writers:
+        - Cord Jefferson
+
+  - name: Leading Actress
+    winner:
+      actor: Emma Stone
+      movie: Poor Things
+
+  - name: Leading Actor
+    winner:
+      actor: Cillian Murphy
+      movie: Oppenheimer
+
+  - name: Supporting Actress
+    winner:
+      actor: Da’Vine Joy Randolph
+      movie: The Holdovers
+
+  - name: Supporting Actor
+    winner:
+      actor: Robert Downey Jr.
+      movie: Oppenheimer
+
+  - name: Original Score
+    winner:
+      movie: Oppenheimer
+      composer: Ludwig Göransson
+
+  - name: Casting
+    winner:
+      movie: The Holdovers
+      casting: Susan Shopmaker
+
+  - name: Cinematography
+    winner:
+      movie: Oppenheimer
+      cinematography: Hoyte van Hoytema
+
+  - name: Editing
+    winner:
+      movie: Oppenheimer
+      editors:
+        - Jennifer Lame
+
+  - name: Production Design
+    winner:
+      movie: Poor Things
+      production_design:
+        - Shona Heath
+        - James Price
+        - Zsuzsa Mihalek
+
+  - name: Costume Design
+    winner:
+      movie: Poor Things
+      costume_design: Holly Waddington
+
+  - name: Make Up & Hair
+    winner:
+      movie: Poor Things
+      make_up_and_hair:
+        - Nadia Stacey
+        - Mark Coulier
+        - Josh Weston
+
+  - name: Sound
+    winner:
+      movie: The Zone of Interest
+      sound:
+        - Johnnie Burn
+        - Tarn Willers
+
+  - name: Special Visual Effects
+    winner:
+      movie: Poor Things
+      special_visual_effects:
+        - Tim Barter
+        - Simon Hughes
+        - Dean Koonjul
+        - Jane Paton
+
+  - name: British Short Animation
+    winner:
+      movie: Crab Day
+      animators:
+        - Ross Stringer
+        - Bartosz Stanislawek
+        - Aleksandra Sykulak
+
+  - name: British Short Film
+    winner:
+      movie: Jellyfish and Lobster
+
+  - name: EE Rising Star Award
+    winner:
+      actor: Mia Mckenna-Bruce
