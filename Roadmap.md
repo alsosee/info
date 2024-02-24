@@ -7,12 +7,12 @@
 [x] Movie where Character is another person, like in Oppenheimer
 [x] Companies
 [x] Awards concept: Game, Movie; showing it on Game/Movie page, by the actor if applicable
-[ ] Game/Movie series
+[x] Game/Movie series
+[ ] Quotes from Movies by Characters
 [ ] Locations
+[ ] Events
 [ ] Not to be confused with...
 [ ] Voice actors language selection
-[ ] Movie that based on Event
-[ ] Quotes from Movies by Characters
 [ ] Quotes about Events by People
 [ ] YouTube shows
 [ ] Federation
