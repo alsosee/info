@@ -1,0 +1,35 @@
+name: The Zone of Interest
+genres:
+  - drama
+  - history
+  - war
+length: 1h45m
+rating: PR-13
+description: >
+  The commandant of Auschwitz, Rudolf Höss, and his wife Hedwig, strive to build a dream life for their family in a house and garden next to the camp.
+based_on: Books/2014/The Zone of Interest
+trailer: https://www.youtube.com/watch?v=t5KxtocsXZM
+imdb: https://www.imdb.com/title/tt7160372
+tmdb: https://www.themoviedb.org/movie/467244-the-zone-of-interest
+wikipedia: https://en.wikipedia.org/wiki/The_Zone_of_Interest_(film)
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_zone_of_interest
+metacritic: https://www.metacritic.com/movie/the-zone-of-interest/
+apple_tv: https://tv.apple.com/us/movie/the-zone-of-interest/umc.cmc.7kkyptyet8f8uon4ijegjj1di
+amazon: https://www.amazon.com/Zone-Interest-Christian-Friedel/dp/B0CQKQM8D8
+vudu: https://www.vudu.com/content/movies/details/The-Zone-of-Interest/2794803
+microsoft_store: https://www.microsoft.com/en-us/p/the-zone-of-interest/8d6kgwxxt5w1
+google_play: https://play.google.com/store/movies/details/The_Zone_of_Interest?gl=US&hl=en&id=gQaL0Qig8QA.P
+released: 2023-05-19
+directors: Jonathan Glazer
+writers:
+  - Martin Amis
+  - Jonathan Glazer
+characters:
+  - name: Rudolf Höss
+    actor: Christian Friedel
+  - name: Hedwig Höss
+    actor: Sandra Hüller
+  # - name: Clous Höss
+  #   actor: Johan Karthaus
+  - name: Hans Höss
+    actor: Luis Noah Witte
