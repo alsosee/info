@@ -6,6 +6,7 @@
     {{ template "reference" dict "Path" $m.To "Fallback" (base $m.To) "HideType" true }}
     <ul class="connections flat">
         {{ template "connections" $m.From }}
+        {{ template "awards_with_text" $m.Awards }}
     </ul>
 </li>
 {{- end }}
