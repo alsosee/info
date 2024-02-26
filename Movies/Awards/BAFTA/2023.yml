@@ -1,0 +1,148 @@
+title: BAFTA 2023
+website: https://www.bafta.org/film/awards/2023-nominations-winners
+wikipedia: https://en.wikipedia.org/wiki/76th_British_Academy_Film_Awards
+youtube: https://www.youtube.com/playlist?list=PLby-UMvsblGYMbYQnlH99wli1sXHu0YwH
+categories:
+  - name: Best Film
+    winner:
+      movie: All quiet on the Western Front
+
+  - name: Outstanding British Film
+    winner:
+      movie: The Banshees of Inisherin
+
+  - name: Outstanding Debut by a British Writer, Director or Producer
+    winner:
+      movie: Aftersun
+      writers:
+        - Charlotte Wells
+      directors:
+        - Charlotte Wells
+
+  - name: Film Not in the English Language
+    winner:
+      movie: All quiet on the Western Front
+
+  - name: Documentary
+    winner:
+      movie: Navalny
+
+  - name: Animated Film
+    winner:
+      movie: Guillermo del Toro's Pinocchio
+
+  - name: Director
+    winner:
+      movie: All Quiet on the Western Front
+      directors: Edward Berger
+
+  - name: Original Screenplay
+    winner:
+      movie: The Banshees of Inisherin
+      writers: Martin McDonagh
+
+  - name: Adapted Screenplay
+    winner:
+      movie: All quiet on the Western Front
+      writers:
+        - Edward Berger
+        - Lesley Paterson
+        - Ian Stokell
+
+  - name: Leading Actress
+    winner:
+      actor: Cate Blanchett
+      movie: Tár
+
+  - name: Leading Actor
+    winner:
+      actor: Austin Butler
+      movie: Elvis
+
+  - name: Supporting Actress
+    winner:
+      actor: Kerry Condon
+      movie: The Banshees of Inisherin
+
+  - name: Supporting Actor
+    winner:
+      actor: Barry Keoghan
+      movie: The Banshees of Inisherin
+
+  - name: Original Score
+    winner:
+      movie: All quiet on the Western Front
+      composer: Volker Bertelmann
+
+  - name: Casting
+    winner:
+      movie: Elvis
+      casting:
+        - Nikki Barrett
+        - Denise Chamian
+
+  - name: Cinematography
+    winner:
+      movie: All quiet on the Western Front
+      cinematography: James Friend
+
+  - name: Editing
+    winner:
+      movie: Everything Everywhere All at Once
+      editors: Paul Rogers
+
+  - name: Production Design
+    winner:
+      movie: Babylon
+      production_design:
+        - Florencia Martin
+        - Anthony Carlino
+
+  - name: Costume Design
+    winner:
+      movie: Elvis
+      costume_design: Catherine Martin
+
+  - name: Make Up & Hair
+    winner:
+      movie: Elvis
+      make_up_and_hair:
+        - Jason Baird
+        - Mark Coulier
+        - Louise Coulston
+        - Shane Thomas
+
+  - name: Sound
+    winner:
+      movie: All quiet on the Western Front
+      sound:
+        - Lars Ginzel
+        - Frank Kruse
+        - Viktor Prášil
+        - Markus Stemler
+
+  - name: Special Visual Effects
+    winner:
+      movie: "Avatar: The Way of Water"
+      special_visual_effects:
+        - Richard Baneham
+        - Daniel Barrett
+        - Joe Letteri
+        - Eric Saindon
+
+  - name: British Short Animation
+    winner:
+      movie: The Boy, The Mole, The Fox and The Horse
+      animators:
+        - Peter Baynton
+        - Charlie Mackesy
+        - Cara Speller
+        - Hannah Minghella
+
+  - name: British Short Film
+    winner:
+      movie: An Irish Goodbye
+
+  - name: EE Rising Star Award
+    winner:
+      actor: Emma Mackey
