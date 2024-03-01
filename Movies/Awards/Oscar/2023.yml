@@ -26,6 +26,7 @@ categories:
   - name: Cinematography
     winner:
       movie: All Quiet on the Western Front
+      cinematography: James Friend
   - name: Costume Design
     winner:
       movie: "Black Panther: Wakanda Forever"
@@ -55,6 +56,7 @@ categories:
   - name: Music (Original Score)
     winner:
       movie: All Quiet on the Western Front
+      music: Volker Bertelmann
   - name: Music (Original Song)
     winner:
       movie: RRR
