@@ -1,0 +1,42 @@
+name: All Quiet on the Western Front
+released: 2022-09-12
+length: 147m
+genres:
+  - drama
+  - war
+description: >
+  A group of German schoolboys enlist in World War I and are assigned to the Western Front,
+  where their fiery patriotism is quickly turned to horror and misery by the harsh realities of combat.
+based_on: Books/1929/All Quiet on the Western Front
+wikipedia: https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front_(2022_film)
+imdb: https://www.imdb.com/title/tt1016150/
+netflix: https://www.netflix.com/title/81260280
+rotten_tomatoes: https://www.rottentomatoes.com/m/all_quiet_on_the_western_front_2022
+directors: Edward Berger
+producers:
+  - Malte Grunert
+  - Daniel Dreifuss
+  - Edward Berger
+screenplay:
+  - Edward Berger
+  - Lesley Paterson
+  - Ian Stokell
+editors: Sven Budelmann
+music: Volker Bertelmann
+cinematography: James Friend
+distributors: Netflix
+characters:
+  - name: Paul Bäumer
+    actor: Felix Kammerer
+  - name: Stanislaus Katczinsky
+    actor: Albrecht Schuch
+  - name: Albert Kropp
+    actor: Aaron Hilmer
+  - name: Tjaden Stackfleet
+    actor: Edin Hasanović
+  - name: Matthias Erzberger
+    actor: Daniel Brühl
+  - name: Marshal Ferdinand Foch
+    actor: Thibault de Montalembert
+  - name: General Friedrichs
+    actor: Devid Striesow

@@ -5,7 +5,7 @@ youtube: https://www.youtube.com/playlist?list=PLby-UMvsblGYMbYQnlH99wli1sXHu0Yw
 categories:
   - name: Best Film
     winner:
-      movie: All quiet on the Western Front
+      movie: All Quiet on the Western Front
 
   - name: Outstanding British Film
     winner:
@@ -21,7 +21,7 @@ categories:
 
   - name: Film Not in the English Language
     winner:
-      movie: All quiet on the Western Front
+      movie: All Quiet on the Western Front
 
   - name: Documentary
     winner:
@@ -43,7 +43,7 @@ categories:
 
   - name: Adapted Screenplay
     winner:
-      movie: All quiet on the Western Front
+      movie: All Quiet on the Western Front
       writers:
         - Edward Berger
         - Lesley Paterson
@@ -71,7 +71,7 @@ categories:
 
   - name: Original Score
     winner:
-      movie: All quiet on the Western Front
+      movie: All Quiet on the Western Front
       composer: Volker Bertelmann
 
   - name: Casting
@@ -83,7 +83,7 @@ categories:
 
   - name: Cinematography
     winner:
-      movie: All quiet on the Western Front
+      movie: All Quiet on the Western Front
       cinematography: James Friend
 
   - name: Editing
@@ -114,7 +114,7 @@ categories:
 
   - name: Sound
     winner:
-      movie: All quiet on the Western Front
+      movie: All Quiet on the Western Front
       sound:
         - Lars Ginzel
         - Frank Kruse
