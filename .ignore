@@ -1,7 +1,9 @@
 .git/**
 .github/**
 .ignore
+.gitignore
 .DS_Store
+/temp/**
 config.yml
 sources.txt
 LICENSE
