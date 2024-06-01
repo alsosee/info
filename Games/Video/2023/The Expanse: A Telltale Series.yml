@@ -1,0 +1,56 @@
+name: 'The Expanse: A Telltale Series'
+description: >
+  "In the near future on the outskirts of the Asteroid Belt,
+  a bloody mutiny breaks loose on the Artemis.
+  You take the role of XO Camina Drummer,
+  where your choices determine the fate of the ship.
+  What will you do with the truth, Bosmang?"  
+  The game is set in 2347, which places it three years before the start of the TV series.
+genres:
+  - adventure
+  - action
+  - single-player
+rating: M
+website: https://www.telltale.com/the-expanse
+imdb: https://www.imdb.com/title/tt16386234
+wikipedia: https://en.wikipedia.org/wiki/The_Expanse%3A_A_Telltale_Series
+trailer: https://www.youtube.com/watch?v=HjsUHPBz_64
+steam: https://store.steampowered.com/app/1708010/The_Expanse_A_Telltale_Series/
+epic: https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series
+ign: https://www.ign.com/games/the-expanse-a-telltale-series
+gog: https://www.gog.com/en/game/the_expanse_a_telltale_series_deluxe_edition
+xbox: https://www.xbox.com/en-us/games/store/the-expanse-a-telltale-series/9pfbkfxk6l3b
+playstation: https://store.playstation.com/en-us/concept/10004308
+metacritic: https://www.metacritic.com/game/the-expanse-a-telltale-series/
+fandom: https://expanse.fandom.com/wiki/The_Expanse:_A_Telltale_Series
+opencritic: https://opencritic.com/game/15001/the-expanse-a-telltale-series
+developers:
+  - Telltale Games
+  - Deck Nine
+publishers: Telltale Games
+directors: Stephan Frost
+producers:
+  - CK Kindregan
+  - Jessica Valdez
+  - Sarah Kent
+designers: Christopher Sica
+programmers: Thomas Marnell
+artists:
+  - Emerson Oaks
+  - Anthony Jones
+writers: Jonathan Zimmerman
+engine: Unreal Engine 4
+released: 2023-07-27
+characters:
+  - name: Camina Drummer
+    voice: Cara Gee
+  - name: Marie
+    voice: Erika Mori
+  - name: Maya Castillo
+    voice: Isabel Chavez
+  - name: Arlen Morozav
+    voice: Jihad Milhem
+  - name: Chrisjen Avasarala
+    voice: Shohreh Aghdashloo
+  - name: Virgil Marks
+    voice: Lavour Addison
