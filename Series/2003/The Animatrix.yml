@@ -1,0 +1,199 @@
+name: The Animatrix
+rating: PG-13
+website: https://www.warnerbros.com/movies/animatrix
+prime_video: https://www.amazon.com/Animatrix-Complete-First-Season/dp/B004G81XBW
+google_play: https://play.google.com/store/movies/details/The_Animatrix_The_Complete_First_Season?id=iieuwaHJ9us
+apple_tv: https://geo.itunes.apple.com/us/movie/the-animatrix/id575781229?mt=6
+wikipedia: https://en.wikipedia.org/wiki/The_Animatrix
+trailer: https://www.youtube.com/watch?v=qjtnWqq1-7A
+fandom: https://matrix.fandom.com/wiki/The_Animatrix
+rotten_tomatoes: https://www.rottentomatoes.com/m/animatrix
+imdb: https://www.imdb.com/title/tt0328832/
+tmdb: https://www.themoviedb.org/movie/55931-the-animatrix
+spotify: https://open.spotify.com/playlist/5k1z35bcfrbN2CzTJHFGe6?si=403f5c9960d84eed
+genres:
+  - action
+  - sci-fi
+  - animation
+  - anthology
+description: >
+  A collection of nine short films featuring stories related to The Matrix.
+refs:
+  - Movies/1999/The Matrix
+episodes:
+  - name: The Second Renaissance
+    directors: Mahiro Maeda
+    writers: Mahiro Maeda
+    story:
+      - Lilly Wachowski
+      - Lana Wachowski
+    studio: Studio 4 °C
+    released: 2003-06-03
+    characters:
+      - name: The Instructor
+        voice: Julia Fletcher
+        voice_jp: Rika Fukami
+      - name: 01 Versatran spokesman
+        voice: Dane Davis
+        voice_jp: Masashi Sugawara
+      - name: Kid
+        voice: Debi Derryberry
+      - name: Mother
+        voice: Jill Talley
+  - name: Program
+    directors: Yoshiaki Kawajiri
+    writer: Yoshiaki Kawajiri
+    studio: Madhouse
+    released: 2003-06-21
+    characters:
+      - name: Cis
+        voice: Hedy Buress
+        voice_jp: Kaho Kouda
+      - name: Duo
+        voice: Phil LaMarr
+        voice_jp: Toshiyuki Morikawa
+      - name: Kaiser
+        voice: John DiMaggio
+        voice_jp: Shinji Ogawa
+  - name: World Record
+    directors: Takeshi Koike
+    writers: Yoshiaki Kawajiri
+    studio: Madhouse
+    released: 2003-07-05
+    characters:
+      - name: Narrator
+        voice: Julia Fletcher
+      - name: Dan
+        voice: Victor Williams
+        voice_jp: Hiroki Tōchi
+      - name: Dan's dad
+        voice: John Wesley
+        voice_jp: Kinryū Arimoto
+      - name: Tom
+        voice: Alex Fernandez
+        voice_jp: Mitsuru Miyamoto
+      - name: Reporter
+        voice: Allison Smith
+        voice_jp: Atsuko Tanaka
+      - name: Nurse
+        voice: Tara Strong
+        voice_jp: Sayaka Kobayashi
+      - name: Agent 1
+        voice: Matt McKenzie
+        voice_jp: Unshō Ishizuka
+      - name: Agent 2
+        voice: Kevin Michael Richarson
+        voice_jp: Tōru Ōkawa
+  - name: Kid's Story
+    directors: Shinichirō Watanabe
+    writers: Shinichirō Watanabe
+    story:
+      - Lilly Wachowski
+      - Lana Wachowski
+    studio: Studio 4 °C
+    released: 2003-06-14
+    characters:
+      - name: The Kid
+        voice: Clayton Watson
+        voice_jp: Hikaru Midorikawa
+      - name: Neo
+        voice: Keanu Reeves
+        voice_jp: Hiroaki Hirata
+      - name: Trinity
+        voice: Carrie-Anne Moss
+        voice_jp: Hiromi Tsuru
+      - name: Teacher
+        voice: John DeMita
+        voice_jp: Fumihiko Tachiki
+      - name: Cop
+        voice: Kevin Michael Richardson
+        voice_jp: Yusaku Yara
+  - name: Beyond
+    directors: Kōji Morimoto
+    writers: Kōji Morimoto
+    studio: Studio 4 °C
+    released: 2003-07-12
+    characters:
+      - name: Yoko
+        voice: Hedy Burress
+        voice_jp: Rie Machi
+      - name: Housewife
+        voice: Tress MacNeille
+        voice_jp: Kensho Ono
+      - name: Pudgy
+        voice: Kath Soucie
+        voice_jp: Kōki Uchiyama
+      - name: Manabu
+        voice: Pamela Adlon
+      - name: Masa
+        voice: Kath Soucie
+      - name: Misha
+        voice: Tara Strong
+      - name: Kenny
+        voice: Tress MacNeille
+      - name: Sara
+        voice: Kath Soucie
+      - name: Agent
+        voice: Matt McKenzie
+        voice_jp: Yasunori Masutani
+  - name: A Detective Story
+    directors: Shinichirō Watanabe
+    writers: Shinichirō Watanabe
+    studio: Studio 4 °C
+    released: 2003-08-30
+    characters:
+      - name: Ash
+        voice: James Arnold Taylor
+        voice_jp: Masane Tsukayama
+      - name: Trinity
+        voice: Carrie-Anne Moss
+        voice_jp: Hiromi Tsuru
+      - name: Clarence
+        voice: Terrence C. Carson
+      - name: Agent
+        voice: Matt McKenzie
+  - name: Matriculated
+    directors: Peter Chung
+    writers: Peter Chung
+    studio: DNA Productions
+    released: 2003-09-20
+    characters:
+      - name: Alexa
+        voice: Melinda Clarke
+        voice_jp: Takako Honda
+      - name: Nonaka
+        voice: Dwight Schultz
+      - name: Chyron
+        voice: Rodney Saulsberry
+        voice_jp: Jin Yamanoi
+      - name: Raul
+        voice: James Arnold Taylor
+        voice_jp: Isshin Chiba
+      - name: Rox
+        voice: Olivia d'Abo
+        voice_jp: Yū Sugimoto
+      - name: Sandro
+        voice: Jack Fletcher	
+  - name: Final Flight of the Osiris
+    directors: Andy Jones
+    writer: The Wachowskis
+    editor: Christopher S. Capp
+    studio: Square USA
+    released: 2003-09-27
+    characters:
+      - name: Thadeus
+        voice: Kevin Michael Richardson
+        voice_jp: Akio Ōtsuka
+      - name: Jue	Pamela Adlon
+        voice: Atsuko Yuya
+      - name: Crew man
+        voice: John DiMaggio
+      - name: Operator
+        voice: Tom Kenny
+      - name: Pilot
+        voice: Rick Gomez
+      - name: Crew woman
+        voice: Tara Strong
+      - name: Old woman
+        voice: Bette Ford
+        voice_jp: Miyoko Asō
