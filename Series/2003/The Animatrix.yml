@@ -42,7 +42,7 @@ episodes:
         voice: Jill Talley
   - name: Program
     directors: Yoshiaki Kawajiri
-    writer: Yoshiaki Kawajiri
+    writers: Yoshiaki Kawajiri
     studio: Madhouse
     released: 2003-06-21
     characters:
@@ -176,8 +176,8 @@ episodes:
         voice: Jack Fletcher	
   - name: Final Flight of the Osiris
     directors: Andy Jones
-    writer: The Wachowskis
-    editor: Christopher S. Capp
+    writers: The Wachowskis
+    editors: Christopher S. Capp
     studio: Square USA
     released: 2003-09-27
     characters:
