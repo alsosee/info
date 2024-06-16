@@ -12,6 +12,7 @@ netflix: https://www.netflix.com/watch/70264857
 prime_video: https://www.amazon.com/Black-Mirror-Complete-Rupert-Everett/dp/B008M0P9I8
 metacritic: https://www.metacritic.com/tv/black-mirror/season-1/
 rotten_tomatoes: https://www.rottentomatoes.com/tv/black_mirror/s01
+network: Channel 4
 episodes:
   - name: The National Anthem
     description: >
@@ -20,6 +21,9 @@ episodes:
     released: 2011-12-04
     length: 44m
     imdb: https://www.imdb.com/title/tt2089051/
+    wikipedia: https://en.wikipedia.org/wiki/The_National_Anthem_(Black_Mirror)
+    fandom: https://black-mirror.fandom.com/wiki/The_National_Anthem
+    netflix: https://www.netflix.com/watch/70264857
     directors: Otto Bathurst
     writers: Charlie Brooker
     characters:
@@ -47,6 +51,10 @@ episodes:
       In a world where people's lives consist of riding exercise bikes to gain credits,
       Bing tries to help a woman get on to a singing competition show.
     released: 2011-12-11
+    imdb: https://www.imdb.com/title/tt2089049/
+    wikipedia: https://en.wikipedia.org/wiki/Fifteen_Million_Merits
+    fandom: https://black-mirror.fandom.com/wiki/Fifteen_Million_Merits
+    netflix: https://www.netflix.com/watch/70264858
     length: 1h2m
     directors: Euros Lyn
     writers:
@@ -69,6 +77,10 @@ episodes:
       In the near future, everyone has access to a memory implant that records everything
       they do, see and hear.
     released: 2011-12-18
+    imdb: https://www.imdb.com/title/tt2089050/
+    wikipedia: https://en.wikipedia.org/wiki/The_Entire_History_of_You
+    fandom: https://black-mirror.fandom.com/wiki/The_Entire_History_of_You
+    netflix: https://www.netflix.com/watch/70264856
     length: 49m
     directors: Brian Welsh
     writers:

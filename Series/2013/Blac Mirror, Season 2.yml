@@ -1,0 +1,112 @@
+name: Black Mirror, Season 2
+previous: Series/2011/Black Mirror
+genres:
+  - drama
+  - crime
+  - mystery
+  - sci-fi
+  - thriller
+rating: TV-MA
+fandom: https://black-mirror.fandom.com/
+rotten_tomatoes: https://www.rottentomatoes.com/tv/black_mirror/s02
+tmdb: https://www.themoviedb.org/tv/42009-black-mirror/season/2
+network: Channel 4
+episodes:
+  - name: Be Right Back
+    description: >
+      After learning about a new service that lets people stay in touch with the deceased,
+      a lonely, grieving Martha reconnects with her late lover.
+    released: 2013-02-11
+    length: 48m
+    imdb: https://www.imdb.com/title/tt2290780/
+    wikipedia: https://en.wikipedia.org/wiki/Be_Right_Back
+    fandom: https://black-mirror.fandom.com/wiki/Be_Right_Back
+    netflix: https://www.netflix.com/watch/70279173
+    directors: Owen Harris
+    writers: Charlie Brooker
+    characters:
+      - name: Martha
+        actor: Hayley Atwell
+      - name: Ash
+        actor: Domhnall Gleeson
+      - name: Sarah
+        actor: Sinead Matthews
+      - name: Naomi
+        actor: Claire Keelan
+      - name: Martha's Daughter
+        actor: Indira Ainger
+
+  - name: White Bear
+    description: >
+      Victoria wakes up and cannot remember anything about her life.
+      Everyone she encounters refuses to communicate with her.
+    released: 2013-02-18
+    length: 42m
+    imdb: https://www.imdb.com/title/tt2542420/
+    wikipedia: https://en.wikipedia.org/wiki/White_Bear_(Black_Mirror)
+    fandom: https://black-mirror.fandom.com/wiki/White_Bear
+    netflix: https://www.netflix.com/watch/70279174
+    directors: Carl Tibbetts
+    writers: Charlie Brooker
+    characters:
+      - name: Victoria Skillane
+        actor: Lenora Crichlow
+      - name: Baxter
+        actor: Michael Smiley
+      - name: Jem
+        actor: Tuppence Middleton
+
+  - name: The Waldo Moment
+    description: >
+      A failed comedian who voices a popular cartoon bear named Waldo finds himself mixing in politics.
+    released: 2013-02-25
+    length: 44m
+    imdb: https://www.imdb.com/title/tt2386296/
+    wikipedia: https://en.wikipedia.org/wiki/The_Waldo_Moment
+    fandom: https://black-mirror.fandom.com/wiki/The_Waldo_Moment
+    netflix: https://www.netflix.com/watch/70279175
+    directors: Bryn Higgins
+    writers: Charlie Brooker
+    characters:
+      - name: Jamie Salter
+        actor: Daniel Rigby
+      - name: Gwendolyn Harris
+        actor: Chloe Pirrie
+      - name: Jack Napier
+        actor: Jason Flemyng
+      - name: Liam Monroe
+        actor: Tobias Menzies
+      - name: Tamsin
+        actor: Christina Chong
+      - name: Conor Simpson
+        actor: James Lance
+      - name: Jeff Carter
+        actor: David Ajala
+
+  - name: White Christmas
+    description: >
+      In a mysterious and remote snowy outpost, Matt and Potter share a Christmas meal together,
+      swapping creepy tales of their earlier lives in the outside world.
+    imdb: https://www.imdb.com/title/tt3973198/
+    wikipedia: https://en.wikipedia.org/wiki/White_Christmas_(Black_Mirror)
+    fandom: https://black-mirror.fandom.com/wiki/White_Christmas
+    netflix: https://www.netflix.com/watch/80073158
+    released: 2014-12-16
+    directors: Carl Tibbetts
+    writers: Charlie Brooker
+    length: 74m
+    characters:
+      - name: Matt Trent
+        actor: Jon Hamm
+      - name: Joe Potter
+        actor: Rafe Spall
+      - name: Greta
+        actor: Oona Chaplin
+      - name: Harry
+        actor: Rasmus Hardiker
+      - name: Jennifer
+        actor: Natalia Tena
+      - name: Beth Grey
+        actor: Janet Montgomery
+      - name: Tim
+        actor: Dan Li
