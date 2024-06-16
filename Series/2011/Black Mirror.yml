@@ -1,0 +1,93 @@
+name: Black Mirror
+genres:
+  - drama
+  - crime
+  - mystery
+  - sci-fi
+  - thriller
+rating: TV-MA
+tmdb: https://www.themoviedb.org/tv/42009-black-mirror/season/1
+fandom: https://black-mirror.fandom.com/
+netflix: https://www.netflix.com/watch/70264857
+prime_video: https://www.amazon.com/Black-Mirror-Complete-Rupert-Everett/dp/B008M0P9I8
+metacritic: https://www.metacritic.com/tv/black-mirror/season-1/
+rotten_tomatoes: https://www.rottentomatoes.com/tv/black_mirror/s01
+episodes:
+  - name: The National Anthem
+    description: >
+      Prime Minister Michael Callow faces a shocking dilemma when Princess Susannah,
+      a much-loved member of the Royal Family, is kidnapped.
+    released: 2011-12-04
+    length: 44m
+    imdb: https://www.imdb.com/title/tt2089051/
+    directors: Otto Bathurst
+    writers: Charlie Brooker
+    characters:
+      - name: Michael Callow
+        actor: Rory Kinnear
+      - name: Alex Cairns
+        actor: Lindsay Duncan
+      - name: Princess Susannah
+        actor: Lydia Wilson
+      - name: Jane Callow
+        actor: Alex Macqueen
+      - name: Denis Donaldson
+        actor: Anna Wilson-Jones
+      - name: Malaika
+        actor: Chetna Pandya
+      - name: Shelly
+        actor: Rakie Ayola
+      - name: Martin
+        actor: Alastair Mackenzie
+      - name: Noel
+        actor: Johann Myers
+
+  - name: Fifteen Million Merits
+    description: >
+      In a world where people's lives consist of riding exercise bikes to gain credits,
+      Bing tries to help a woman get on to a singing competition show.
+    released: 2011-12-11
+    length: 1h2m
+    directors: Euros Lyn
+    writers:
+      - Charlie Brooker
+      - Konnie Huq
+    characters:
+      - name: Bing
+        actor: Daniel Kaluuya
+      - name: Abi
+        actor: Jessica Brown Findlay
+      - name: Judge Hope
+        actor: Rupert Everett
+      - name: Judge Charity
+        actor: Julia Davis
+      - name: Judge Wraith
+        actor: Ashley Thomas
+
+  - name: The Entire History of You
+    description: >
+      In the near future, everyone has access to a memory implant that records everything
+      they do, see and hear.
+    released: 2011-12-18
+    length: 49m
+    directors: Brian Welsh
+    writers:
+      - Jesse Armstrong
+      - Charlie Brooker
+    characters:
+      - name: Liam
+        actor: Toby Kebbell
+      - name: Ffion
+        actor: Jodie Whittaker
+      - name: Jonas
+        actor: Tom Cullen
+      - name: Lucy
+        actor: Amy Beth Hayes
+      - name: Colleen
+        actor: Rebekah Staton
+      - name: Hallam
+        actor: Phoebe Fox
+      - name: Jeff
+        actor: Rhashan Stone
+      - name: Paul
+        actor: Jimi Mistry
