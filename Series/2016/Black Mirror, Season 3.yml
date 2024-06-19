@@ -1,0 +1,212 @@
+name: Black Mirror, Season 3
+previous: Series/2013/Black Mirror, Season 2
+genres:
+  - drama
+  - crime
+  - mystery
+  - sci-fi
+  - thriller
+rating: TV-MA
+fandom: https://black-mirror.fandom.com/
+trailer: https://www.youtube.com/watch?v=jDiYGjp5iFg
+imdb: https://www.imdb.com/title/tt2085059/episodes/?season=3
+tmdb: https://www.themoviedb.org/tv/42009-black-mirror/season/3
+rotten_tomatoes: https://www.rottentomatoes.com/tv/black_mirror/s03
+released: 2016-10-21
+network: Netflix
+episodes:
+  - name: Nosedive
+    description: >
+      A woman desperate to boost her social media score hits the jackpot when
+      she's invited to a swanky wedding. But the trip doesn't go as planned.
+    imdb: https://www.imdb.com/title/tt5497778/
+    netflix: https://www.netflix.com/watch/80104627
+    wikipedia: https://en.wikipedia.org/wiki/Nosedive_(Black_Mirror)
+    directors: Joe Wright
+    story: Charlie Brooker
+    teleplay:
+      - Michael Schur
+      - Rashida Jones
+    cinematography: Seamus McGarvey
+    length: 63m
+    characters:
+      - name: Lacie Pound
+        actor: Bryce Dallas Howard
+      - name: Naomi Blestow
+        actor: Alice Eve
+      - name: Susan
+        actor: Cherry Jones
+      - name: Ryan Pound
+        actor: James Norton
+      - name: Paul
+        actor: Alan Ritchson
+      - name: Bets
+        actor: Daisy Haggard
+      - name: Carol
+        actor: Susannah Fielding
+      - name: Airline Stewardess
+        actor: Michaela Coel
+      - name: Hansen
+        actor: Demetri Goritsas
+      - name: Chester
+        actor: Kadiff Kirwan
+      - name: Man in Jail
+        actor: Ṣọpẹ́ Dìrísù
+      - name: Electro Station Attendant
+        actor: Andrew Roux
+
+  - name: Playtest
+    description: >
+      An American traveler short on cash signs up to test a revolutionary new
+      gaming system, only to discover the thrills are a little too real.
+    imdb: https://www.imdb.com/title/tt5709242/
+    netflix: https://www.netflix.com/watch/80104630
+    wikipedia: https://en.wikipedia.org/wiki/Playtest_(Black_Mirror)
+    directors: Dan Trachtenberg
+    writers: Charlie Brooker
+    length: 57m
+    characters:
+      - name: Cooper
+        actor: Wyatt Russell
+      - name: Sonja
+        actor: Hannah John-Kamen
+      - name: Katie
+        actor: Wunmi Mosaku
+      - name: Shou
+        actor: Ken Yamamura
+      - name: Cooper's mother
+        actor: Elizabeth Moynihan
+      - name: Josh Peters
+        actor: Jamie Paul
+
+  - name: Shut Up and Dance
+    description: >
+      After a virus infects his laptop, a teen faces a daunting choice:
+      carry out orders delivered by text message, or risk having intimate secrets exposed.
+    imdb: https://www.imdb.com/title/tt5709230/
+    netflix: https://www.netflix.com/watch/80104626
+    wikipedia: https://en.wikipedia.org/wiki/Shut_Up_and_Dance_(Black_Mirror)
+    directors: James Watkins
+    writers:
+      - Charlie Brooker
+      - William Bridges
+    length: 52m
+    characters:
+      - name: Kenny
+        actor: Alex Lawther
+      - name: Hector
+        actor: Jerome Flynn
+      - name: Georgina Tarrington
+        actor: Susannah Doyle
+      - name: Melissa
+        actor: Hannah Steele
+      - name: Restaurant Mother
+        actor: Sarah Beck Mather
+      - name: Restaurant Daughter
+        actor: Beatrice Robertson-Jones
+      - name: Lindsay
+        actor: Maya Gerber
+      - name: Sandra
+        actor: Camilla Power
+      - name: Blackmailed Man
+        actor: Ivanno Jeremiah
+      - name: Karen
+        actor: Natasha Little
+      - name: Bank Clerk
+        actor: Nicola Sloane
+      - name: Man in the Woods
+        actor: Paul Bazely
+      - name: Penny
+        actor: Leanne Best
+
+  - name: San Junipero
+    description: >
+      In a seaside town in 1987, a shy young woman and an outgoing party girl
+      strike up a powerful bond that seems to defy the laws of space and time.
+    imdb: https://www.imdb.com/title/tt4538072/
+    netflix: https://www.netflix.com/watch/80104625
+    wikipedia: https://en.wikipedia.org/wiki/San_Junipero
+    length: 61m
+    directors: Owen Harris
+    writers: Charlie Brooker
+    cinematography: Gustav Danielsson
+    editors: Nicolas Chaudeurge
+    characters:
+      - name: Kelly
+        actor: Gugu Mbatha-Raw
+      - name: Yorkie
+        actor: Mackenzie Davis
+      - name: elder Kelly
+        actor: Denise Burse
+      - name: Greg
+        actor: Raymond McAnally
+      - name: Wes
+        actor: Gavin Stenhouse
+      - name: elder Yorkie
+        actor: Annabel Davis
+
+  - name: Man Against Fire
+    description: >
+      After his first battle with an elusive enemy, a soldier begins
+      experiencing unfamiliar sensations and strange technical glitches.
+    imdb: https://www.imdb.com/title/tt5709234/
+    netflix: https://www.netflix.com/watch/80104628
+    wikipedia: https://en.wikipedia.org/wiki/Men_Against_Fire
+    directors: Jakob Verbruggen
+    writers: Charlie Brooker
+    length: 60m
+    characters:
+      - name: Stripe Koinange
+        actor: Malachi Kirby
+      - name: Hunter Raiman
+        actor: Madeline Brewer
+      - name: Catarina
+        actor: Ariane Labed
+      - name: Medina
+        actor: Sarah Snook
+      - name: Arquette
+        actor: Michael Kelly
+      - name: Alec
+        actor: Toby Oliver
+      - name: Parn Heidekker
+        actor: Francis Magee
+      - name: Village Mother
+        actor: Aruhan Galieva
+      - name: Doctor
+        actor: Simon Connolly
+
+  - name: Hated in the Nation
+    description: >
+      The death of a journalist at the center of a social media firestorm leads
+      a veteran detective and her tech-savvy apprentice to a chilling discovery.
+    imdb: https://www.imdb.com/title/tt5709236/
+    netflix: https://www.netflix.com/watch/80104629
+    wikipedia: https://en.wikipedia.org/wiki/Hated_in_the_Nation
+    directors: James Hawes
+    writers: Charlie Brooker
+    length: 89m
+    characters:
+      - name: Karin Parke
+        actor: Kelly Macdonald
+      - name: Blue Coulson
+        actor: Faye Marsay
+      - name: Shaun Li
+        actor: Benedict Wong
+      - name: Rasmus Sjoberg
+        actor: Jonas Karlsson
+      - name: Nick Shelton
+        actor: Joe Armstrong
+      - name: Jo Powers
+        actor: Elizabeth Berrington
+      - name: Tusk
+        actor: Charles Babalola
+      - name: Tom Pickering
+        actor: Ben Miles
+      - name: Vanessa Dahl
+        actor: Esther Hall
+      - name: Clara Meades
+        actor: Holli Dempsey
+      - name: Tess Wallander
+        actor: Georgina Rich
+      - name: Garrett Scholes
+        actor: Duncan Pow
