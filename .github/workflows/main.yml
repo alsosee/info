@@ -9,16 +9,20 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger deploy
-        uses: peter-evans/repository-dispatch@v3
-        with:
-          token: ${{ secrets.TOKEN }}
-          repository: alsosee/finder
-          event-type: deploy
+      # Temporarily disabled
+      - name: Do nothing
+        run: echo "Do nothing"
 
-      - name: Trigger index
-        uses: peter-evans/repository-dispatch@v3
-        with:
-          token: ${{ secrets.TOKEN }}
-          repository: alsosee/search
-          event-type: index
+      # - name: Trigger deploy
+      #   uses: peter-evans/repository-dispatch@v3
+      #   with:
+      #     token: ${{ secrets.TOKEN }}
+      #     repository: alsosee/finder
+      #     event-type: deploy
+
+      # - name: Trigger index
+      #   uses: peter-evans/repository-dispatch@v3
+      #   with:
+      #     token: ${{ secrets.TOKEN }}
+      #     repository: alsosee/search
+      #     event-type: index

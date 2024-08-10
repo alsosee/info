@@ -1,0 +1,300 @@
+special:
+  person:
+    path: People
+  references:
+    description: One or many references
+    # tba
+  duration:
+    description: Time duration in seconds
+    # tba
+character:
+  type: object
+  # tba
+category:
+  type: object
+  # tba
+episode:
+  type: object
+  # tba
+content:
+  type: object
+  properties:
+    name:
+      description: Name of the file, used in the breadcrumbs
+      type: string
+    title:
+      description: Override for the name, used as page title, fallback to Name
+      type: string
+    subtitle:
+      type: string
+    # year:
+    #   type: int
+    authors:
+      type: references
+    developers:
+      type: references
+    description:
+      type: string
+    cover_artist:
+      type: person
+    designer:
+      type: person
+    based_on:
+      type: references
+    series:
+      type: reference
+    previous:
+      description: Peference to previous in the series
+      type: reference
+
+    # for people
+    dob:
+      description: Date of birth
+      type: string
+    dod:
+      description: Date of death
+      type: string
+    contact:
+      type: string
+
+    # for companies
+    parent:
+      type: string
+    founded:
+      type: string
+    founders:
+      type: references
+
+    released:
+      type: string
+
+    # general external links
+    website:
+      type: string
+    websites:
+      type: array
+      items:
+        type: string
+    wikipedia:
+      type: string
+    goodreads:
+      type: string
+    bookshop:
+      type: string
+    anime_news_network:
+      type: string
+    twitch:
+      type: string
+    youtube:
+      type: string
+    vimeo:
+      type: string
+    imdb:
+      type: string
+    tmdb:
+      type: string
+    tpdb:
+      type: string
+    steam:
+      type: string
+    netflix:
+      type: string
+    spotify:
+      type: string
+    soundcloud:
+      type: string
+    hulu:
+      type: string
+    max:
+      type: string
+    adult_swim:
+      type: string
+      description: Adult Swim
+    app_store:
+      type: string
+    fandom:
+      type: string
+    rotten_tomatoes:
+      type: string
+    metacritic:
+      type: string
+    opencritic:
+      type: string
+    twitter:
+      type: string
+    mastodon:
+      type: string
+    reddit:
+      type: string
+    facebook:
+      type: string
+    instagram:
+      type: string
+    threads:
+      type: string
+    linkedin:
+      type: string
+    tiktok:
+      type: string
+    telegram_channel:
+      type: string
+    playstation:
+      type: string
+    xbox:
+      type: string
+    gog:
+      type: string
+    x:
+      type: string
+    discord:
+      type: string
+    epic:
+      type: string
+    ign:
+      type: string
+    amazon:
+      type: string
+    prime_video:
+      type: string
+    apple_tv:
+      type: string
+    apple_podcasts:
+      type: string
+    apple_books:
+      type: string
+    peacock:
+      type: string
+    google_play:
+      type: string
+    disney_plus:
+      type: string
+    microsoft_store:
+      type: string
+    nintendo:
+      type: string
+    humble_bundle:
+      type: string
+    row8:
+      type: string
+    redbox:
+      type: string
+    vudu:
+      type: string
+    darkhorse:
+      type: string
+
+    # for books
+    isbn:
+      type: string
+    isbn10:
+      type: string
+    isbn13:
+      type: string
+    oclc:
+      type: string
+    publishers:
+      type: references
+    publication:
+      description: Date or year of publication
+      type: string
+
+    # for comics
+    artists:
+      type: references
+    colorist:
+      type: person
+    illustrators:
+      type: references
+    imprint:
+      type: string
+    upc:
+      type: string
+
+    # for movies, games, series, ...
+    genres:
+      type: array
+      items:
+        type: string
+    engine:
+      type: string
+    trailer:
+      type: string
+    rating:
+      type: string
+    length:
+      type: duration
+    creators:
+      type: references
+    writers:
+      type: references 
+    editors:
+      type: references 
+    directors:
+      type: references 
+    cinematography:
+      type: references 
+    producers:
+      type: references 
+    screenplay:
+      type: references 
+    story_by:
+      type: references
+    dialogues_by:
+      type: references
+    music:
+      type: references 
+    production:
+      type: references 
+    distributors:
+      type: references
+    network:
+      type: string
+    composers:
+      type: references
+    programmers:
+      type: references
+    designers:
+      type: references
+
+    # for podcasts
+    hosts:
+      type: references
+    guests:
+      type: references
+
+    remake_of:
+      type: reference
+
+    characters:
+      type: array
+      items:
+        type: character
+
+    # for awards
+    categories:
+      type: array
+      items:
+        type: category
+    
+    references:
+      type: array
+      items:
+        type: reference
+
+    episodes:
+      type: array
+      items:
+        type: episode
+
+    # unknown fields are stored in the Extra map
+    # Extra map[string]interface{} `yaml:",inline" json:",omitempty"`
+    #
+    # fields populated by the generator
+    # Image                *Media  `yaml:"-" json:",omitempty"`
+    # Awards               []Award `yaml:"-" json:",omitempty"`
+    # EditorsAwards        []Award `yaml:"-" json:",omitempty"`
+    # WritersAwards        []Award `yaml:"-" json:",omitempty"`
+    # DirectorsAwards      []Award `yaml:"-" json:",omitempty"`
+    # CinematographyAwards []Award `yaml:"-" json:",omitempty"`
+    # MusicAwards          []Award `yaml:"-" json:",omitempty"`
+    # ScreenplayAwards     []Award `yaml:"-" json:",omitempty"`

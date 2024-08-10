@@ -1,9 +1,8 @@
-.git/**
-.github/**
+.git*
 .ignore
-.gitignore
 .DS_Store
 /temp/**
-config.yml
+/_finder/**
+/finder
 sources.txt
 LICENSE
