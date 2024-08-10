@@ -4,21 +4,44 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - _finder/**
+      - .github/workflows/finder.yml
 
 jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      # Temporarily disabled
-      - name: Do nothing
-        run: echo "Do nothing"
+      - name: Clone info
+        uses: actions/checkout@v4
+        with:
+          repository: alsosee/info
+          path: info
+          token: ${{ secrets.PKG_TOKEN }}
 
-      # - name: Trigger deploy
-      #   uses: peter-evans/repository-dispatch@v3
-      #   with:
-      #     token: ${{ secrets.TOKEN }}
-      #     repository: alsosee/finder
-      #     event-type: deploy
+      - name: Clone media
+        uses: actions/checkout@v4
+        with:
+          repository: alsosee/media
+          path: media
+          token: ${{ secrets.PKG_TOKEN }}
+
+      - name: Run action
+        uses: ./info
+        with:
+          info: ./info
+          media: ./media
+          output: ./output
+          media_host: https://media.alsosee.info
+          search_host: https://search.alsosee.info
+          search_api_key: ${{ secrets.MEILISEARCH_KEY }}
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3.5.0
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          command: pages deploy output --project-name=finder --branch=main --commit-dirty=true
 
       # - name: Trigger index
       #   uses: peter-evans/repository-dispatch@v3

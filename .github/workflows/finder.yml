@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - main
+    paths:
+      - _finder/**
+      - .github/workflows/finder.yml
 
 jobs:
   finder:
