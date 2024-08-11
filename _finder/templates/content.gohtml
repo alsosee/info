@@ -78,9 +78,9 @@ Inputs (same as for "index" template):
     </p>
     {{- end }}
 
-    {{- with .RemakeOf.Path }}
+    {% comment %} {{- with .RemakeOf.Path }}
     <p>Remake of: {{ template "reference" dict "Path" .Path "HideType" true }}</p>
-    {{- end }}
+    {{- end }} {% endcomment %}
 
     {{- with .Engine }}<p>Engine: {{ . }}</p>{{ end }}
     {{- template "list"   dict "Type" "company" "Label" "Developers"     "Field" .Developers }}
