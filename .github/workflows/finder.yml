@@ -7,6 +7,9 @@ on:
     paths:
       - _finder/**
       - .github/workflows/finder.yml
+  workflow_dispatch:
+  repository_dispatch:
+    types: [finder]
 
 jobs:
   finder:
