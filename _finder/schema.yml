@@ -42,7 +42,7 @@ content:
     based_on:
       type: references
     series:
-      type: reference
+      type: string
     previous:
       description: Peference to previous in the series
       type: reference
