@@ -10,6 +10,8 @@ ADD ./finder /src/finder
 # _finder directory exist in the current repo
 ADD ./_finder /src/_finder
 
+# override templates
+RUN cp ./_finder/templates/* /src/finder/templates/
 
 COPY --from=codegen /usr/local/bin/codegen /usr/local/bin/codegen
 RUN codegen -in /src/_finder/schema.yml -out /src/finder/structs/content.go
