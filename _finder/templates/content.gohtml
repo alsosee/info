@@ -78,7 +78,7 @@ Inputs (same as for "index" template):
     </p>
     {{- end }}
 
-    {{- with .RemakeOf }}
+    {{- with .RemakeOf.Path }}
     <p>Remake of: {{ template "reference" dict "Path" .Path "HideType" true }}</p>
     {{- end }}
 
