@@ -29,10 +29,6 @@ content:
       type: string
     # year:
     #   type: int
-    authors:
-      type: references
-    developers:
-      type: references
     description:
       type: string
     cover_artist:
@@ -49,11 +45,15 @@ content:
 
     # for people
     dob:
+      title: Born
       description: Date of birth
       type: string
+      column: true
     dod:
+      title: Died
       description: Date of death
       type: string
+      column: true
     contact:
       type: string
 
@@ -64,9 +64,6 @@ content:
       type: string
     founders:
       type: references
-
-    released:
-      type: string
 
     # general external links
     website:
@@ -194,6 +191,7 @@ content:
       type: string
     publishers:
       type: references
+      column: true
     publication:
       description: Date or year of publication
       type: string
@@ -215,40 +213,59 @@ content:
       type: array
       items:
         type: string
-    engine:
-      type: string
-    trailer:
-      type: string
-    rating:
-      type: string
     length:
       type: duration
-    creators:
-      type: references
-    writers:
-      type: references 
-    editors:
-      type: references 
+      column: true
     directors:
-      type: references 
-    cinematography:
-      type: references 
-    producers:
-      type: references 
-    screenplay:
-      type: references 
-    story_by:
       type: references
-    dialogues_by:
+      column: true
+    writers:
       type: references
-    music:
-      type: references 
-    production:
-      type: references 
+      column: true
     distributors:
       type: references
+      column: true
+    rating:
+      type: string
+      column: true
+    released:
+      type: string
+      column: true
     network:
       type: string
+      column: true
+    engine:
+      type: string
+    creators:
+      type: references
+      column: true
+    authors:
+      type: references
+      column: true
+    developers:
+      type: references
+      column: true
+    trailer:
+      type: string
+    editors:
+      type: references
+    cinematography:
+      type: references
+    producers:
+      type: references
+    screenplay:
+      type: references
+      column: true
+    story_by:
+      type: references
+      column: true
+    dialogues_by:
+      type: references
+      column: true
+    music:
+      type: references
+    production:
+      type: references
     composers:
       type: references
     programmers:
@@ -259,6 +276,7 @@ content:
     # for podcasts
     hosts:
       type: references
+      column: true
     guests:
       type: references
 
