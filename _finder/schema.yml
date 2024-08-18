@@ -18,10 +18,14 @@ episode:
   # tba
 content:
   root_types:
-    People: person
-    Books: book
-    Games: game
-    Movies: movie
+    - path: People
+      type: person
+    - path: Books
+      type: book
+    - path: Games
+      type: game
+    - path: Movies
+      type: movie
   type: object
   properties:
     name:
@@ -47,6 +51,7 @@ content:
     previous:
       description: Peference to previous in the series
       type: reference
+      meta: previous
 
     # for people
     dob:
@@ -288,6 +293,7 @@ content:
 
     remake_of:
       type: reference
+      label: Remake
 
     characters:
       type: array
