@@ -17,6 +17,11 @@ episode:
   type: object
   # tba
 content:
+  root_types:
+    People: person
+    Books: book
+    Games: game
+    Movies: movie
   type: object
   properties:
     name:
@@ -54,6 +59,7 @@ content:
       description: Date of death
       type: string
       column: true
+      column_always_show: true
     contact:
       type: string
 
