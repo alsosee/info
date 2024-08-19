@@ -14,7 +14,7 @@ ADD ./_finder /src/_finder
 RUN cp ./_finder/templates/* /src/finder/templates/
 
 COPY --from=codegen /usr/local/bin/codegen /usr/local/bin/codegen
-RUN codegen -in /src/_finder/schema.yml -out /src/finder/structs/content.go
+RUN codegen -in /src/_finder/schema.yml -out /src/finder/structs/content.gen.go
 
 RUN cd /src/finder && go test -mod=vendor -cover ./...
 
