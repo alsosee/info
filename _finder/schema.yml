@@ -26,6 +26,8 @@ content:
       type: game
     - path: Movies
       type: movie
+    - path: Companies
+      type: company
   type: object
   properties:
     name:
@@ -91,7 +93,7 @@ content:
     bookshop:
       type: string
     anime_news_network:
-      type: string
+      type: company
     twitch:
       type: string
     youtube:
@@ -244,7 +246,7 @@ content:
       type: string
       column: true
     network:
-      type: string
+      type: company
       column: true
     engine:
       type: string
