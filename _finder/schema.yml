@@ -1,12 +1,3 @@
-special:
-  person:
-    path: People
-  references:
-    description: One or many references
-    # tba
-  duration:
-    description: Time duration in seconds
-    # tba
 character:
   type: object
   # tba
@@ -51,6 +42,7 @@ content:
       type: references
     series:
       type: string
+      meta: series
     previous:
       description: Peference to previous in the series
       type: reference
@@ -231,8 +223,11 @@ content:
       type: duration
       column: true
     directors:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Director
     writers:
       type: references
       column: true
@@ -251,48 +246,92 @@ content:
     engine:
       type: string
     creators:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Creator
     authors:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Author
     developers:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Developer
     trailer:
       type: string
     editors:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Editor
     cinematography:
-      type: references
+      type: array
+      items:
+        type: person
     producers:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Producer
     screenplay:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
     story_by:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Story
     dialogues_by:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Dialogues
     music:
-      type: references
+      type: array
+      items:
+        type: person
     production:
-      type: references
+      type: array
+      items:
+        type: company
     composers:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Composer
     programmers:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Programmer
     designers:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Designer
 
     # for podcasts
     hosts:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Host
     guests:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Guest
 
     remake_of:
       type: reference
@@ -319,9 +358,6 @@ content:
       items:
         type: episode
 
-    # unknown fields are stored in the Extra map
-    # Extra map[string]interface{} `yaml:",inline" json:",omitempty"`
-    #
     # fields populated by the generator
     # Image                *Media  `yaml:"-" json:",omitempty"`
     # Awards               []Award `yaml:"-" json:",omitempty"`
