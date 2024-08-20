@@ -1,12 +1,3 @@
-character:
-  type: object
-  # tba
-category:
-  type: object
-  # tba
-episode:
-  type: object
-  # tba
 content:
   root_types:
     - path: People
@@ -367,3 +358,64 @@ content:
     # CinematographyAwards []Award `yaml:"-" json:",omitempty"`
     # MusicAwards          []Award `yaml:"-" json:",omitempty"`
     # ScreenplayAwards     []Award `yaml:"-" json:",omitempty"`
+episode:
+  type: object
+  properties:
+    name:
+      type: string
+    description:
+      type: string
+    length:
+      type: duration
+    released:
+      type: string
+    directors:
+      type: array
+      items:
+        type: person
+      label: Director
+    writers:
+      type: array
+      items:
+        type: person
+      label: Writer
+    editors:
+      type: array
+      items:
+        type: person
+      label: Editor
+    cinematography:
+      type: array
+      items:
+        type: person
+      label: Cinematography
+    teleplay:
+      type: array
+      items:
+        type: person
+      label: Teleplay
+    story:
+      type: array
+      items:
+        type: person
+      label: Story
+    studio:
+      type: company
+    characters:
+      type: array
+      items:
+        type: character
+    imdb:
+      type: string
+    tmdb:
+      type: string
+    netflix:
+      type: string
+    wikipedia:
+      type: string
+    fandom:
+      type: string
+# character:
+#   type: object
+# category:
+#   type: object
