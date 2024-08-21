@@ -30,7 +30,10 @@ content:
     designer:
       type: person
     based_on:
-      type: references
+      type: array
+      items:
+        type: reference
+      label: Source
     series:
       type: string
       meta: series
@@ -60,7 +63,10 @@ content:
     founded:
       type: string
     founders:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Founder
 
     # general external links
     website:
@@ -187,7 +193,9 @@ content:
     oclc:
       type: string
     publishers:
-      type: references
+      type: array
+      items:
+        type: company
       column: true
     publication:
       description: Date or year of publication
@@ -195,11 +203,17 @@ content:
 
     # for comics
     artists:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Artist
     colorist:
       type: person
     illustrators:
-      type: references
+      type: array
+      items:
+        type: person
+      label: Illustrator
     imprint:
       type: string
     upc:
@@ -220,11 +234,17 @@ content:
       column: true
       label: Director
     writers:
-      type: references
+      type: array
+      items:
+        type: person
       column: true
+      label: Writer
     distributors:
-      type: references
+      type: array
+      items:
+        type: company
       column: true
+      label: Distributor
     rating:
       type: string
       column: true
@@ -343,6 +363,7 @@ content:
       type: array
       items:
         type: reference
+      meta: none
 
     episodes:
       type: array
