@@ -1,15 +1,15 @@
+root_types:
+  - path: People
+    type: person
+  - path: Books
+    type: book
+  - path: Games
+    type: game
+  - path: Movies
+    type: movie
+  - path: Companies
+    type: company
 content:
-  root_types:
-    - path: People
-      type: person
-    - path: Books
-      type: book
-    - path: Games
-      type: game
-    - path: Movies
-      type: movie
-    - path: Companies
-      type: company
   type: object
   properties:
     name:
@@ -395,37 +395,45 @@ episode:
       items:
         type: person
       label: Director
+      info: $name
     writers:
       type: array
       items:
         type: person
       label: Writer
+      info: $name
     editors:
       type: array
       items:
         type: person
       label: Editor
+      info: $name
     cinematography:
       type: array
       items:
         type: person
       label: Cinematography
+      info: $name
     teleplay:
       type: array
       items:
         type: person
       label: Teleplay
+      info: $name
     story:
       type: array
       items:
         type: person
       label: Story
+      info: $name
     studio:
       type: company
+      info: $name
     characters:
       type: array
       items:
         type: character
+      info: $name
     imdb:
       type: string
     tmdb:
@@ -443,8 +451,12 @@ character:
       type: string
     actor:
       type: person
+      label: Actor
+      info: $name
     voice:
       type: person
+      label: Voice
+      info: $name
     image:
       type: media
     actor_image:
