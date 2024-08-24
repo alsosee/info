@@ -18,6 +18,9 @@ content:
     title:
       description: Override for the name, used as page title, fallback to Name
       type: string
+    image:
+      type: media
+      path: $ID
     subtitle:
       type: string
     # year:
@@ -459,8 +462,10 @@ character:
       info: $name
     image:
       type: media
+      path: $ID/Characters/$name
     actor_image:
       type: media
+      path: People/$actor
     awards:
       type: array
       items:
