@@ -46,9 +46,9 @@ jobs:
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
           command: pages deploy output --project-name=finder --branch=main --commit-dirty=true
 
-      # - name: Trigger index
-      #   uses: peter-evans/repository-dispatch@v3
-      #   with:
-      #     token: ${{ secrets.TOKEN }}
-      #     repository: alsosee/search
-      #     event-type: index
+      - name: Trigger index
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.TOKEN }}
+          repository: alsosee/search
+          event-type: index

@@ -415,7 +415,22 @@ episode:
       type: string
     fandom:
       type: string
-# character:
-#   type: object
+character:
+  type: object
+  properties:
+    name:
+      type: string
+    actor:
+      type: person
+    voice:
+      type: person
+    image:
+      type: media
+    actor_image:
+      type: media
+    awards:
+      type: array
+      items:
+        type: award
 # category:
 #   type: object
