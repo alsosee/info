@@ -274,7 +274,7 @@ content:
     developers:
       type: array
       items:
-        type: person
+        type: company
       column: true
       label: Developer
     trailer:
