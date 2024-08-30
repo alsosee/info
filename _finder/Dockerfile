@@ -32,8 +32,8 @@ FROM --platform=${TARGETPLATFORM} gcr.io/distroless/static:966f4bd97f611354c4ad8
 ENV INPUT_TEMPLATES=/templates
 ENV INPUT_STATIC=/static
 
-COPY finder/templates /templates
-COPY finder/static /static
+COPY --from=build-env /src/finder/templates /templates
+COPY --from=build-env /src/finder/static /static
 COPY --from=build-env /go/bin/app /app
 
 CMD ["/app"]
