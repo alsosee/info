@@ -20,5 +20,6 @@ menu:
     url: https://alsosee.info
   - title: ru.alsosee.info
     url: https://ru.alsosee.info
+    logo_shift_y: -44px
 label_cancel: Cancel
 label_upload: Upload
