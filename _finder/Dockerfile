@@ -1,6 +1,6 @@
-FROM --platform=${TARGETPLATFORM} ghcr.io/alsosee/codegen:latest as codegen
+FROM --platform=${TARGETPLATFORM} ghcr.io/alsosee/codegen:latest AS codegen
 
-FROM --platform=${TARGETPLATFORM} golang:1.21 as build-env
+FROM --platform=${TARGETPLATFORM} golang:1.21 AS build-env
 
 WORKDIR /src/
 
