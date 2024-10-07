@@ -14,6 +14,7 @@ on:
 jobs:
   main:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
       - name: Clone info
         uses: actions/checkout@v4
@@ -38,6 +39,11 @@ jobs:
           media_host: https://media.alsosee.info
           search_host: https://search.alsosee.info
           search_api_key: ${{ secrets.MEILISEARCH_KEY }}
+          search_index: info
+          search_master_key: ${{ secrets.MEILISEARCH_MASTER_KEY }}
+          search_state: ./finder_state/.state
+          ignorefile: .ignore
+          # force: ${{ env.FORCE }}
 
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3.5.0
