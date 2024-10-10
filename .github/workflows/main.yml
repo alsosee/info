@@ -23,6 +23,14 @@ jobs:
           path: info
           token: ${{ secrets.PKG_TOKEN }}
 
+      - name: Clone info state
+        uses: actions/checkout@v4
+        with:
+          repository: alsosee/info
+          path: state
+          ref: state
+          token: ${{ secrets.PKG_TOKEN }}
+
       - name: Clone media
         uses: actions/checkout@v4
         with:
@@ -41,7 +49,7 @@ jobs:
           search_api_key: ${{ secrets.MEILISEARCH_KEY }}
           search_index: info
           search_master_key: ${{ secrets.MEILISEARCH_MASTER_KEY }}
-          search_state: ./finder_state/.state
+          search_state: ./state/state
           ignorefile: .ignore
           # force: ${{ env.FORCE }}
 
@@ -52,9 +60,17 @@ jobs:
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
           command: pages deploy output --project-name=finder --branch=main --commit-dirty=true
 
-      - name: Trigger index
-        uses: peter-evans/repository-dispatch@v3
-        with:
-          token: ${{ secrets.TOKEN }}
-          repository: alsosee/search
-          event-type: index
+      - name: Commit and push state
+        shell: bash
+        run: |
+          cd state
+          if [[ -z $(git status --porcelain) ]]; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'gha@alsosee.info'
+          git add "state"
+          git commit -m "Update index state [skip ci]"
+          git push origin state
