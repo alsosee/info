@@ -23,3 +23,7 @@ menu:
     logo_shift_y: -44px
 label_cancel: Cancel
 label_upload: Upload
+no_results_label: No results found.
+of_label: of
+column_name: Name
+column_kind: Kind
