@@ -1,0 +1,49 @@
+name: Silent Hill 2
+genres:
+  - survival horror
+  - psychological horror
+  - action-adventure
+rating: M
+description: >
+  James Sunderland has arrived in the town of Silent Hill after receiving a letter from his wife,
+  Mary, despite that she had died from an illness three years ago.
+  The letter states that Mary is waiting for James in their "special place,"
+  but this confuses James as the whole town of Silent Hill was their special place.
+remake_of: Games/Video/2001/Silent Hill 2
+wikipedia: https://en.wikipedia.org/wiki/Silent_Hill_2_(2024_video_game)
+imdb: https://www.imdb.com/title/tt22892938/
+steam: https://store.steampowered.com/app/2124490/SILENT_HILL_2/
+metacritic: https://www.metacritic.com/game/silent-hill-2/
+website: https://www.konami.com/games/silenthill/2r/gate
+ign: https://www.ign.com/games/silent-hill-2-remake
+playstation: https://www.playstation.com/en-us/games/silent-hill-2/
+trailer: https://www.youtube.com/watch?v=J3i1g_PHcaY
+developers: Bloober Team
+publishers: Konami
+directors: Mateusz Lenart
+producers:
+  - Maciej Głomb
+  - Motoi Okamoto
+designers: Mateusz Lenart
+programmers:
+  - Mariusz Szaflik
+  - Karol Długosz
+artists: Mateusz Lenart
+writers: Andrzej Mądrzak
+composers: Akira Yamaoka
+engine: Unreal Engine 5
+released: 2024-10-08
+characters:
+  - name: James Sunderland
+    voice: Luke Roberts
+  - name: Maria
+    voice: Salóme Gunnarsdóttir
+  - name: Angela Orosco
+    voice: Gianna Kiehl
+  - name: Eddie Dombrowski
+    actor: Danny Kirrane
+    voice: Scott Haining
+  - name: Laura
+    voice: Evie Templeton
+  - name: Mary Shepherd-Sunderland
+    voice: Salóme Gunnarsdóttir
