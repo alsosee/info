@@ -14,7 +14,7 @@ Inputs (same as for "index" template):
     <div class="thumb
         {{- if isJPG .Path }} jpg{{ end }}
         {{- if hasPrefix $.CurrentPath "People" }} people{{ end -}}
-        " style="background-image: url('{{ config "MediaHost" }}/{{ $.Dir }}/{{ .ThumbPath }}');
+        " style="background-image: url('{{ (config).MediaHost }}/{{ $.Dir }}/{{ .ThumbPath }}');
         {{- thumbStylePct . -}}"></div>
     {{- end }}
     {{ if .Header }}<h1{{ if .Subtitle }} class="with-subtitle"{{ end }}>{{ .Header }}</h1>{{ end }}
