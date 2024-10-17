@@ -1,0 +1,30 @@
+name: 'Silent Hill 4: The Room'
+genres:
+  - Survival horror
+  - Psychological horror
+  - Action-adventure
+previous: Games/Video/2003/Silent Hill 3
+developers: Team Silent
+publishers: Konami
+directors: Suguru Murakoshi
+producers:
+  - Akira Yamaoka
+  - Akihiro Imamura
+programmers: Kosuke Iwakura
+artists: Masashi Tsuboyama
+writers: Suguru Murakoshi
+composers: Akira Yamaoka
+released: 2004-06-17
+imdb: https://www.imdb.com/title/tt0386788/
+characters:
+  - name: Henry Townshend
+    voice: Eric Bossick
+  - name: Cynthia Velasquez
+    voice: Lisa Ortiz
+  - name: Eileen Galvin
+  - name: Jasper Gein
+  - name: Andrew DeSalvo
+  - name: Richard Braintree
+    voice: Anna Kunnecke
+  - name: Walter Sullivan
+  - name: Frank Sunderland
