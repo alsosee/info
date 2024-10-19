@@ -39,7 +39,7 @@ jobs:
           token: ${{ secrets.PKG_TOKEN }}
 
       - name: Set environment variable (repository_dispatch)
-        if: github.event_name == 'repository_dispatch'
+        if: github.event_name == 'repository_dispatch' && github.event.client_payload.force
         uses: alsosee/envset@v1
         with:
           name: FORCE
