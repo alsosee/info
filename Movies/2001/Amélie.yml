@@ -1,6 +1,11 @@
 name: Amélie
 website: https://www.miramax.com/movie/amelie/
 length: 122m
+genres:
+  - Romance
+  - Fantasy
+  - Visually stunning
+  - Comedy
 description: >
   A painfully shy waitress working at a tiny Paris cafe,
   Amelie makes a surprising discovery and sees her life drastically changed for the better.
@@ -38,7 +43,7 @@ characters:
   - name: Madeleine Wallace
     actor: Yolande Moreau
   - name: Dominique Bretodeau
-    actor: Maurice Benichou
+    actor: Maurice Bénichou
   - name: Raphaël Poulain
     actor: Rufus
   - name: Raymond Dufayel
@@ -59,14 +64,10 @@ characters:
     actor: Dominique Pinon
   - name: Hipolito
     actor: Artus de Penguern
-  - name: Madeleine Wallace
-    actor: Yolande Moreau
   - name: Collignon
     actor: Urbain Cancelier
   - name: Lucien
     actor: Jamel Debbouze
-  - name: Dominique Bretodeau
-    actor: Maurice Bénichou
   - name: young Dominique
     actor: Kevin Fernandes
   - name: Mr. Collignon
