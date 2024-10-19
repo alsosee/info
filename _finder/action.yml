@@ -42,6 +42,9 @@ inputs:
   ignorefile:
     description: File used to list files to ignore
     required: false
+  force:
+    description: Force index update for passed files
+    required: false
 
 runs:
   using: docker
