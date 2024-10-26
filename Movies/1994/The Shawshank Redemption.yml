@@ -1,0 +1,41 @@
+name: The Shawshank Redemption
+genres:
+  - Drama
+  - Crime
+rating: R
+description: >
+  A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict,
+  while maintaining his innocence and trying to remain hopeful through simple compassion.
+website: http://www.shawshankredemption.org/
+wikipedia: https://en.wikipedia.org/wiki/The_Shawshank_Redemption
+imdb: https://www.imdb.com/title/tt0111161
+rotten_tomatoes: https://www.rottentomatoes.com/m/shawshank_redemption
+prime_video: https://www.amazon.com/Shawshank-Redemption-Tim-Robbins/dp/B001EBV0OY
+trailer: https://www.youtube.com/watch?v=PLl99DlL6b4
+tmdb: https://www.themoviedb.org/movie/278-the-shawshank-redemption
+based_on: Books/1982/Rita Hayworth and Shawshank Redemption
+directors: Frank Darabont
+producers: Niki Marvin
+screenplay: Frank Darabont
+music: Thomas Newman
+cinematography: Roger Deakins
+editors: Richard Francis-Bruce
+production: Castle Rock Entertainment
+distributors: Columbia Pictures
+released: 1994-09-23
+length: 142m
+characters:
+  - name: Andy Dufresne
+    actor: Tim Robbins
+  - name: Ellis Boyd "Red" Redding
+    actor: Morgan Freeman
+  - name: Warden Samuel Norton
+    actor: Bob Gunton
+  - name: Heywood
+    actor: William Sadler
+  - name: Captain Byron Hadley
+    actor: Clancy Brown
+  - name: Tommy Williams
+    actor: Gil Bellows
+  - name: Brooks Hatlen
+    actor: James Whitmore
