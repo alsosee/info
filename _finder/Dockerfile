@@ -35,6 +35,7 @@ ENV INPUT_STATIC=/static
 
 COPY --from=build-env /src/finder/templates /templates
 COPY --from=build-env /src/finder/static /static
+COPY --from=build-env /src/finder/functions /static/functions
 COPY --from=build-env /go/bin/app /app
 
 CMD ["/app"]
