@@ -65,8 +65,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          workingDirectory: output
-          command: pages deploy --project-name=finder --branch=main --commit-dirty=true
+          command: pages deploy output --project-name=finder --branch=main --commit-dirty=true
 
       - name: Commit and push state
         shell: bash
