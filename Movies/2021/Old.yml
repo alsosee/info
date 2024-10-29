@@ -1,0 +1,64 @@
+name: Old
+genres:
+  - thriller
+  - mystery
+  - horror
+  - drama
+description: >
+  A family on a tropical holiday discovers that the secluded beach where they
+  are relaxing for a few hours is somehow causing them to age rapidly,
+  reducing their entire lives into a single day.
+website: https://www.old.movie/
+based_on: Comics/Sandcastle
+rating: PG-13
+wikipedia: https://en.wikipedia.org/wiki/Old_(film)
+twitter: https://twitter.com/oldthemovie
+instagram: https://instagram.com/oldthemovie
+facebook: https://facebook.com/oldthemovie
+imdb: https://www.imdb.com/title/tt10954652
+rotten_tomatoes: https://www.rottentomatoes.com/m/old
+directors: M. Night Shyamalan
+producers:
+  - M. Night Shyamalan
+  - Ashwin Rajan
+  - Marc Bienstock
+screenplay: M. Night Shyamalan
+characters:
+  - name: Guy
+    actor: Gael Garcia Bernal
+  - name: Prisca
+    actor: Vicky Krieps
+  - name: Agnes
+    actor: Kathleen Chalfant
+  - name: Charles
+    actor: Rufus Sewell
+  - name: Trent (aged 6)
+    actor: Nolan River
+  - name: Trent (aged 11)
+    actor: Luca Faustino Rodriguez
+  - name: Trent (aged 15)
+    actor: Alex Wolff
+  - name: Maddox (aged 11)
+    actor: Alexa Swinton
+  - name: Maddox (aged 16)
+    actor: Thomasin Harcourt McKenzie
+  - name: Maddox (adult)
+    actor: Embeth Davidtz
+  - name: Trent (adult)
+    actor: Emun Elliott
+  - name: Chrystal
+    actor: Abbey Lee
+  - name: Patricia
+    actor: Nikki Amuka-Bird
+  - name: Jarin
+    actor: Ken Leung
+  - name: Kara (aged 6)
+    actor: Kylie Begley
+  - name: Kara (aged 15)
+    actor: Eliza Scanlen
+  - name: Mid-Sized Sedan
+    actor: Aaron Pierre
+  - name: Resort Manager
+    actor: Gustaf Hammarsten
+  - name: Madrid
+    actor: Francesca Eastwood
