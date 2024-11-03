@@ -51,7 +51,7 @@ jobs:
           value: ${{ github.event.client_payload.force }}
 
       - name: Set environment variable (workflow_dispatch)
-        if: github.event_name == 'workflow_dispatch'
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.force
         uses: alsosee/envset@v1
         with:
           name: FORCE
