@@ -1,0 +1,53 @@
+name: Deliver Us Mars
+genres:
+  - Action
+  - Adventure
+  - Sci-Fi
+description: >
+  Kathy, a young astronaut who embarks on a perilous mission to Mars with her
+  team to recover vital technology needed to save a dying Earth. As they explore
+  the abandoned colonies on Mars, they uncover dark secrets about the colonists'
+  struggles and the moral complexities of their mission. Facing both personal
+  challenges and ethical dilemmas, Kathy must navigate the tension between
+  survival, loyalty, and the greater good.
+website: https://www.deliverusmars.com/
+trailer: https://youtu.be/aWYbf5jUsUk
+wikipedia: https://en.wikipedia.org/wiki/Deliver_Us_Mars
+developers: KeokeN Interactive
+publishers: Frontier Foundry
+engine: Unreal Engine
+released: 2023-02-02
+twitter: https://twitter.com/deliverusmars
+facebook: https://facebook.com/DeliverUsMars
+youtube: https://youtube.com/channel/UCBTQYt1peRYvcX0-PPj0LPw
+steam: https://store.steampowered.com/app/1345890/Deliver_Us_Mars/
+metacritic: https://www.metacritic.com/game/deliver-us-mars/
+epic: https://store.epicgames.com/en-US/p/deliver-us-mars
+xbox: https://www.xbox.com/en-us/games/store/deliver-us-mars/9mz33g9gh5pk
+playstation: https://store.playstation.com/en-us/product/UP2514-PPSA04520_00-5569621071826587
+ign: https://www.ign.com/games/deliver-us-mars
+fandom: https://deliverusthemoon.fandom.com/wiki/Deliver_Us_Mars
+characters:
+  - name: Kathy Johannson
+    actor: Ellise Chappell
+  - name: Isaac Johannsen
+    actor: Neil Newbon
+  - name: Claire Johannson
+    actor: Bryony Tebbutt
+  - name: Sarah Baker
+    actor: Nicole Tompkins
+  - name: Maria Gonzalez
+    voice: Ariel Lichtenstein
+  - name: Dr. Rosa Laverde
+    voice: Ariel Lichtenstein
+  - name: William McArthur
+    voice: Edward Reekers
+  - name: Young Kathy
+    actor: Luisa Guerreiro
+    voice: Annabelle Field
+  - name: Ryan Delyanin
+    actor: Danny Ashok
+  - name: Liz Johanson
+    voice: Nola Klop
+  - name: Museum Guide
+    voice: Jed Milton
