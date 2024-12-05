@@ -20,7 +20,7 @@ content:
       type: string
     image:
       type: media
-      path: $ID
+      path: $$
     subtitle:
       type: string
     # year:
@@ -462,7 +462,7 @@ character:
       info: $name
     image:
       type: media
-      path: $ID/Characters/$name
+      path: $$/Characters/$name
     actor_image:
       type: media
       path: People/$actor
