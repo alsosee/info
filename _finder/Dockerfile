@@ -1,6 +1,6 @@
-FROM --platform=${TARGETPLATFORM} ghcr.io/alsosee/codegen:latest AS codegen
+FROM ghcr.io/alsosee/codegen:latest AS codegen
 
-FROM --platform=${TARGETPLATFORM} golang:1.21 AS build-env
+FROM golang:1.21 AS build-env
 
 WORKDIR /src/
 
@@ -26,7 +26,7 @@ RUN cd /src/finder && \
     go build -ldflags="-w -s" -mod=vendor -o /go/bin/app /src/finder/
 
 
-FROM --platform=${TARGETPLATFORM} gcr.io/distroless/static:966f4bd97f611354c4ad829f1ed298df9386c2ec
+FROM gcr.io/distroless/static:966f4bd97f611354c4ad829f1ed298df9386c2ec
 # latest-amd64 -> 966f4bd97f611354c4ad829f1ed298df9386c2ec
 # https://github.com/GoogleContainerTools/distroless/tree/master/base
 
