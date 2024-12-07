@@ -9,6 +9,8 @@ root_types:
     type: movie
   - path: Companies
     type: company
+  - path: Podcasts
+    type: podcast
 content:
   type: object
   properties:
