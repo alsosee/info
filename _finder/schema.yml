@@ -267,6 +267,18 @@ content:
         type: person
       column: true
       label: Creator
+    developed_by:
+      type: array
+      items:
+        type: person
+      column: true
+      label: Developer
+    showrunners:
+      type: array
+      items:
+        type: person
+      column: true
+      label: Showrunner
     authors:
       type: array
       items:
