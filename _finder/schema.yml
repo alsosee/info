@@ -75,11 +75,11 @@ content:
 
     # general external links
     website:
-      type: string
+      type: link
     websites:
       type: array
       items:
-        type: string
+        type: link
     wikipedia:
       type: string
     goodreads:
