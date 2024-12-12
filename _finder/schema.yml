@@ -187,6 +187,8 @@ content:
       type: string
     darkhorse:
       type: string
+    kickstarter:
+      type: string
 
     # for books
     isbn:
@@ -250,6 +252,12 @@ content:
         type: company
       column: true
       label: Distributor
+    manufacturers:
+      type: array
+      items:
+        type: company
+      column: true
+      label: Manufacturer
     rating:
       type: string
       column: true
