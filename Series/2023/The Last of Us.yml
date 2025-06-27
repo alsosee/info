@@ -6,6 +6,9 @@ genres:
   - drama
   - horror
 website: https://www.hbo.com/the-last-of-us
+websites:
+  - title: Inside the episode
+    url: https://www.youtube.com/playlist?list=PLQYO9wN7Hvl487aXsXxYUWCbsYeUpydNb
 based_on: Games/Video/2013/The Last of Us
 released: 2023-01-15
 network: HBO
