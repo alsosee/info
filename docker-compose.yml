@@ -1,0 +1,35 @@
+services:
+  finder:
+    image: finder
+    build:
+      context: .
+      dockerfile: _finder/Dockerfile
+    environment:
+      - INPUT_INFO=/info
+      - INPUT_MEDIA=/media
+      - INPUT_OUTPUT=/output
+      - INPUT_MEDIA_HOST=https://media.alsosee.local
+      - INPUT_SEARCH_HOST=http://search:7700
+      - INPUT_SEARCH_API_KEY=master-key
+      - INPUT_SEARCH_INDEX=info
+      - INPUT_SEARCH_MASTER_KEY=master-key
+      - INPUT_SEARCH_STATE=/state/state
+      - INPUT_IGNOREFILE=.ignore
+    volumes:
+      - ./:/info
+      - ../media:/media
+      - ./state:/state
+      - ./output:/output
+    depends_on:
+      - search
+
+  search:
+    image: getmeili/meilisearch:v1.8.0
+    ports:
+      - 127.0.0.1:7700:7700
+    environment:
+      - MEILI_MASTER_KEY=master-key
+      - MEILI_NO_ANALYTICS=true
+    volumes:
+      - ./index:/meili_data
+    command: meilisearch --env="development"

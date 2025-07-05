@@ -4,16 +4,15 @@ FROM golang:1.21 AS build-env
 
 WORKDIR /src/
 
-# finder directory is checked out by GitHub Actions
-COPY ./finder /src/finder
+COPY . /src/
 
 # _finder directory exist in the current repo
-COPY ./_finder /src/_finder
+# COPY /src/_finder /src/_finder
 
 COPY --from=codegen /usr/local/bin/codegen /usr/local/bin/codegen
 
 # override templates
-RUN cp ./_finder/templates/* /src/finder/templates/ && \
+RUN cp /src/_finder/templates/* /src/finder/templates/ && \
     # generate content struct
     codegen -in /src/_finder/schema.yml -out /src/finder/structs/content.gen.go && \
     # test finder
