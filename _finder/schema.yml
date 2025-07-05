@@ -87,7 +87,7 @@ content:
     bookshop:
       type: string
     anime_news_network:
-      type: company
+      type: string
     twitch:
       type: string
     youtube:
@@ -383,7 +383,7 @@ content:
       type: array
       items:
         type: category
-    
+
     references:
       type: array
       items:
@@ -392,6 +392,7 @@ content:
 
     episodes:
       type: array
+      meta: parent
       items:
         type: episode
 
@@ -476,11 +477,11 @@ character:
       type: string
     actor:
       type: person
-      label: Actor
+      label: Played
       info: $name
     voice:
       type: person
-      label: Voice
+      label: Voiced
       info: $name
     image:
       type: media
