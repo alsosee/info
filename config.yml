@@ -2,6 +2,7 @@ title: Also, see
 description: A collection of things, people and more.
 lang: en
 url: https://alsosee.info
+media_host: https://media.alsosee.info
 repo: https://github.com/alsosee/info
 opengraph:
   image: https://media.alsosee.info/opengraph.png
@@ -25,5 +26,6 @@ label_cancel: Cancel
 label_upload: Upload
 no_results_label: No results found.
 of_label: of
+and_label: and
 column_name: Name
 column_kind: Kind
