@@ -15,20 +15,30 @@ Comics/One Punch Man.yml	d9d98c10
 Comics/Sandcastle.yml	16981dc0
 Comics/Scott Pilgrim.yml	a818a750
 Comics/The Last of Us American Dreams.yml	3cd24fb4
+Companies/Amblin Entertainment.yml	fe0f03e
+Companies/Blinding Edge Pictures.yml	6e116814
+Companies/Channel 4.yml	ee3259e5
+Companies/Columbia Pictures.yml	49ea3e42
+Companies/HBO.yml	458126eb
 Companies/Konami.yml	a0154dcb
 Companies/Legendary Pictures.yml	89589566
 Companies/Lionsgate.yml	3e13a49b
 Companies/Marc Platt Productions.yml	9448f74
+Companies/NVP Entertainment.yml	f6371f44
 Companies/Naughty Dog.yml	f600e370
 Companies/Netflix.yml	3c4489ac
 Companies/Peacock.yml	c07f4970
 Companies/Remedy Entertainment.yml	2afd800c
+Companies/Silver Pictures.yml	ca41ef9a
 Companies/Sony Computer Entertainment.yml	18d58a29
+Companies/Summit Entertainment.yml	7c5d65d4
+Companies/TSG Entertainment.yml	4139ce27
 Companies/TV Tokyo.yml	5bd1a110
 Companies/Team Silent.yml	380f05ed
 Companies/Universal Pictures.yml	bc5c15d4
 Companies/Village Roadshow Pictures.yml	7d624ca8
 Companies/Warner Bros. Pictures.yml	193ba6b8
+Companies/Warner Bros. Television.yml	5e54ebc2
 Games/Awards/The Game Awards/2023.yml	7fafd0
 Games/Tabletop/Cyberpunk.yml	f4a7a98a
 Games/Tabletop/Dungeons & Dragons.yml	b3f0c9a6
@@ -82,14 +92,22 @@ Movies/2021/Dune.yml	c7740c13
 Movies/2021/Old.yml	c53c0899
 Movies/2021/The Matrix Resurrections.yml	d92986de
 Movies/2022/All Quiet on the Western Front.yml	a75a20a4
+Movies/2022/An Irish Goodbye.yml	c437cc2c
+Movies/2022/Avatar: The Way of Water.yml	82d6ba4e
 Movies/2022/Bullet Train.yml	a358ae3d
+Movies/2022/Elvis.yml	50c8b207
 Movies/2022/Everything Everywhere All at Once.yml	b45ee714
 Movies/2022/Glass Onion: A Knives Out Mystery.yml	ed965752
+Movies/2022/Guillermo del Toro's Pinocchio.yml	21a6c2d3
+Movies/2022/Navalny.yml	94acf47b
 Movies/2022/RRR.yml	c3b5f3c2
+Movies/2022/The Banshees of Inisherin.yml	781ab753
+Movies/2022/The Whale.yml	2ff3b637
 Movies/2023/Dungeons & Dragons Honor among thieves.yml	b50ce39a
 Movies/2023/John Wick Chapter 4.yml	c62f2ec0
 Movies/2023/Oppenheimer.yml	50dce2f6
 Movies/2023/Poor Things.yml	c9767afd
+Movies/2023/The Holdovers.yml	df155c91
 Movies/2023/The Zone of Interest.yml	5c54c095
 Movies/2024/Dune Part Two.yml	4a96f0e
 Movies/2024/Trap.yml	e8b3df7a
@@ -99,31 +117,168 @@ Movies/Awards/Oscar/2023.yml	c3efb9cd
 Movies/Series/Back to the Future.yml	b1ab5ee1
 Movies/Series/Harry Potter.yml	449e60c7
 Movies/Series/John Wick.yml	61cc298f
+People/Akihiro Imamura.yml	146d518d
 People/Akira Yamaoka.yml	a8e05e63
+People/Alan Silvestri.yml	7e2dcedd
+People/Alec Newman.yml	33ecc1e7
+People/Alex Lawther.yml	55f3d1fe
+People/Alexander Woo.yml	479cda3a
+People/Alison Pill.yml	c49ec112
+People/Anna Kendrick.yml	c2cc76cf
+People/Annie Wersching.yml	57df13f1
+People/Anthony Brandon Wong.yml	68681e34
+People/Anthony Newman.yml	366fd2e8
+People/Arthur Schmidt.yml	4e409ddf
 People/Ashley Johnson.yml	384177e8
 People/Ashley Scott.yml	d75dde55
+People/Ashwin Rajan.yml	38c90acc
+People/Aubrey Plaza.yml	87327b93
+People/Austin Wintory.yml	7205c66
+People/Benedict Wong.yml	df7191f
+People/Bill Pope.yml	fb71db7c
+People/Bob Gale.yml	a2207662
+People/Brandon Routh.yml	3b4def22
+People/Brandon Scott.yml	809775d2
+People/Brie Larson.yml	b37df1d7
+People/Bruce Straley.yml	65e8f629
+People/Bryan Lee O'Malley.yml	6190869b
+People/Cale Boyter.yml	14b61322
 People/Carrie-Anne Moss.yml	e8a68640
 People/Chad Stahelski.yml	ee09b13e
 People/Charlie Brooker.yml	3bf1d577
+People/Charlotte Rampling.yml	4de8a863
+People/Cherami Leigh.yml	6763f7e3
+People/Chinatsu Matsui.yml	922e5c1e
+People/Chris Evans.yml	5ab1c826
 People/Chris Pine.yml	9a186683
+People/Christopher Lloyd.yml	2c079f12
 People/Christopher Nolan.yml	2ad692f
+People/Clancy Brown.yml	b0b57faa
+People/Clayton Watson.yml	45e32b3
+People/Collin Chou.yml	2713ea1a
+People/Craig Mazin.yml	b1e94548
+People/D.B. Weiss.yml	ae618497
+People/Darren Blumenthal.yml	a2731f85
 People/Dave Bautista.yml	e0533309
+People/David Benioff.yml	dd6461c5
+People/David Leitch.yml	b7ecc03a
+People/Dean Cundey.yml	bc13a65b
+People/Denis Villeneuve.yml	56dce5cd
+People/Dennis Falt.yml	b68bf363
 People/Derek Kolstad.yml	272cb095
+People/Don Davis.yml	5146ad80
+People/Donna Burke.yml	2b095490
+People/Edward Norton.yml	ab0ffb22
+People/Elijah Wood.yml	5bf43462
+People/Ellen Wong.yml	dd3996e3
+People/Emma Stone.yml	942a4d41
+People/Erick Pangilinan.yml	f0629fae
+People/Erik Scott Kimerer.yml	72856731
+People/Faye Marsay.yml	954e9176
+People/Fiona Shaw.yml	ec479ba2
+People/Florence Pugh.yml	693829a7
+People/Gavin Drea.yml	86ae0a8a
+People/George Orwell.yml	e7678670
+People/Gloria Foster.yml	5efb467c
+People/Greig Fraser.yml	c5fe6c5b
 People/Gustavo Santaolalla.yml	11480c01
+People/Hana Hayes.yml	968f3263
+People/Hans Zimmer.yml	10955ee8
+People/Harold Perrineau.yml	93348e06
+People/Harry Keramidas.yml	c91c93ac
+People/Helmut Bakaitis.yml	c8f66f2d
+People/Hiroyuki Owaku.yml	c0dd5275
+People/Hiroyuki Sanada.yml	be49cf3f
+People/Hugh Grant.yml	838f44fb
+People/Hugo Weaving.yml	5f879056
+People/Ian Alexander.yml	f5ce109d
 People/Ian McShane.yml	3cb46ac0
+People/J. K. Rowling.yml	683e94ec
+People/J. K. Simmons.yml	50971eaa
+People/Jada Pinkett Smith.yml	59c11894
+People/James McCaffrey.yml	efb9a9e8
+People/James Tolkan.yml	38dbd7e
+People/Jane Perry.yml	38315beb
+People/Jason Schwartzman.yml	300bc7c2
 People/Javier Bardem.yml	f58d1738
 People/Jeffrey Pierce.yml	32fb3726
+People/Jerome Flynn.yml	db4857ec
+People/Jessica Henwick.yml	89137aaa
+People/Joe Walker.yml	6d75f37b
+People/Joel Silver.yml	b3a53487
+People/Johnny Simmons.yml	2bb85ed3
+People/Jon Spaihts.yml	1e05e46b
+People/Josh Brolin.yml	44a3c502
+People/Josh Hartnett.yml	48adc735
+People/Kai Bird.yml	47b3fee7
 People/Keanu Reeves.yml	a5d1a260
+People/Keita Saito.yml	5aa776a4
+People/Kieran Culkin.yml	6d3000fa
+People/Kurt Margenau.yml	324f7604
+People/Kyle Hebert.yml	2de69f6a
+People/Lambert Wilson.yml	e9ecd26d
 People/Lana Wachowski.yml	2049a412
 People/Lance Reddick.yml	aab8a4e8
 People/Laura Bailey.yml	c60bb2f5
 People/Laurence Fishburne.yml	f241668f
+People/Lea Thompson.yml	ad9ef9bc
+People/Lilly Wachowski.yml	3522e647
+People/Léa Seydoux.yml	85da13ad
+People/M. Night Shyamalan.yml	90609aa5
+People/Mae Whitman.yml	a8a456ca
+People/Marc Bienstock.yml	332a262c
+People/Marc Platt.yml	5eb40b79
+People/Mark Ruffalo.yml	bcc15b0d
+People/Mark Webber.yml	c38fe8ae
+People/Marlo Kelly.yml	8d4c1efc
+People/Martin Amis.yml	7b280084
+People/Mary Elizabeth Winstead.yml	e960b547
+People/Mary Parent.yml	6913c100
+People/Masashi Tsuboyama.yml	79037d68
+People/Matthew Porretta.yml	31496bb2
+People/Max Mittelman.yml	66fcd97e
 People/Merle Dandridge.yml	b3f0095
+People/Michael Cera.yml	2363ded3
+People/Michael J. Fox.yml	3f721a8f
+People/Michael Kelly.yml	f371820f
+People/Mike Pondsmith.yml	6a64aeb5
+People/Monica Bellucci.yml	25d1cc8a
+People/Morgan Freeman.yml	ad88078d
+People/Nadji Jeter.yml	b4b189a0
+People/Natalia Tena.yml	cf740fc5
+People/Neil Canton.yml	d2881691
 People/Neil Druckmann.yml	a12ded77
+People/Neil Newbon.yml	d8fbc7eb
+People/Nobuyuki Hosoya.yml	697cf87
+People/Nolan North.yml	9c5878bf
+People/Owen Harris.yml	2f084d86
+People/Petri Alanko.yml	a08bad45
+People/Randall Duk Kim.yml	63968e56
+People/Ray Chase.yml	87789d09
+People/Rebecca Ferguson.yml	7eba73f8
+People/Richard Francis-Bruce.yml	9bf37d50
+People/Robbie Daymond.yml	11932b43
 People/Robert Downey Jr..yml	66b699ff
+People/Robert Zemeckis.yml	4518b38b
+People/Sam Lake.yml	97cf9f47
+People/Sara Cravens.yml	a03deb8c
+People/Satya Bhabha.yml	eefef138
+People/Shannon Woodward.yml	14f8dc16
+People/Shohreh Aghdashloo.yml	5334c416
+People/Shota Saito.yml	a7fbad9c
 People/Stellan Skarsgård.yml	16626d1a
 People/Steve Jobs.yml	741cb6bd
+People/Thomas F. Wilson.yml	a1eb9fc2
+People/Timothée Chalamet.yml	c7c8b3e
+People/Tom Wilkinson.yml	1e09ebf0
+People/Tomohiro Suzuki.yml	218fe60d
 People/Troy Baker.yml	1725dae3
+People/W. Earl Brown.yml	fc6bfec6
+People/Willem Dafoe.yml	21e81b5d
+People/Yaani King.yml	8b0875d7
+People/Zach Aguilar.yml	ccddcc6c
+People/Zach Staenberg.yml	baa3b399
+People/Zendaya.yml	29275280
 Podcasts/2020/The Last of Us Podcast.yml	55e8ac14
 Podcasts/2023/HBO's The Last of Us Podcast.yml	512f0bb9
 Podcasts/2024/3 Body Podcast.yml	f8fcbeaf
@@ -142,158 +297,3 @@ Series/2023/The Last of Us.yml	9abfe85a
 Series/2024/3 Body Problem.yml	1d734fce
 Series/2024/The Penguin.yml	76bd9f2e
 docker-compose.yml	74f90020
-missing/Companies/Amblin Entertainment.yml	1fd262a
-missing/Companies/Blinding Edge Pictures.yml	20baa045
-missing/Companies/Channel 4.yml	7f422c7a
-missing/Companies/Columbia Pictures.yml	ac229f6
-missing/Companies/HBO.yml	9f652a9b
-missing/Companies/NVP Entertainment.yml	d448263e
-missing/Companies/Silver Pictures.yml	70d8dfa3
-missing/Companies/Summit Entertainment.yml	7240b3c0
-missing/Companies/TSG Entertainment.yml	6346f75d
-missing/Companies/Warner Bros. Television.yml	684b83fe
-missing/Movies/2022/An Irish Goodbye.yml	871fdb98
-missing/Movies/2022/Avatar: The Way of Water.yml	ee3c350f
-missing/Movies/2022/Elvis.yml	23698028
-missing/Movies/2022/Guillermo del Toro's Pinocchio.yml	9eb3ca37
-missing/Movies/2022/Navalny.yml	d026a2fc
-missing/Movies/2022/The Banshees of Inisherin.yml	514ee2a3
-missing/Movies/2022/The Whale.yml	6e62db7f
-missing/Movies/2023/The Holdovers.yml	95bab233
-missing/People/Akihiro Imamura.yml	dfa3565b
-missing/People/Alan Silvestri.yml	c06c3274
-missing/People/Alec Newman.yml	1a3eabe6
-missing/People/Alex Lawther.yml	a1f1d22d
-missing/People/Alexander Woo.yml	e4836a0e
-missing/People/Alison Pill.yml	ed4cab13
-missing/People/Anna Kendrick.yml	34c12c04
-missing/People/Annie Wersching.yml	8c5c484a
-missing/People/Anthony Brandon Wong.yml	ff301287
-missing/People/Anthony Newman.yml	882e2e41
-missing/People/Arthur Schmidt.yml	f0016176
-missing/People/Ashwin Rajan.yml	cccb091f
-missing/People/Aubrey Plaza.yml	334eeb46
-missing/People/Austin Wintory.yml	4d8fb2c4
-missing/People/Benedict Wong.yml	aee8a92b
-missing/People/Bill Pope.yml	1837b0ab
-missing/People/Bob Gale.yml	ad375ed0
-missing/People/Brandon Routh.yml	98525f16
-missing/People/Brandon Scott.yml	2388c5e6
-missing/People/Brie Larson.yml	9aaf9bd6
-missing/People/Bruce Straley.yml	c6f7461d
-missing/People/Bryan Lee O'Malley.yml	22b8912f
-missing/People/Cale Boyter.yml	1f158a5b
-missing/People/Charlotte Rampling.yml	4e920530
-missing/People/Cherami Leigh.yml	c4d3b781
-missing/People/Chinatsu Matsui.yml	59e05bc8
-missing/People/Chris Evans.yml	7363a227
-missing/People/Christopher Lloyd.yml	73b88e2a
-missing/People/Clancy Brown.yml	44b77c79
-missing/People/Clayton Watson.yml	ba1fce1a
-missing/People/Collin Chou.yml	473214ba
-missing/People/Craig Mazin.yml	983b2f49
-missing/People/D.B. Weiss.yml	eff0e9df
-missing/People/Darren Blumenthal.yml	fdcc0ebd
-missing/People/David Benioff.yml	7e7bd1f1
-missing/People/David Leitch.yml	41e19af1
-missing/People/Dean Cundey.yml	dc3258fb
-missing/People/Denis Villeneuve.yml	ad54c141
-missing/People/Dennis Falt.yml	d6aa0dc3
-missing/People/Don Davis.yml	b200c657
-missing/People/Donna Burke.yml	4b28aa30
-missing/People/Edward Norton.yml	9813c846
-missing/People/Elijah Wood.yml	3bd5cac2
-missing/People/Ellen Wong.yml	9ca8fbab
-missing/People/Emma Stone.yml	8033450f
-missing/People/Erick Pangilinan.yml	b964a35a
-missing/People/Erik Scott Kimerer.yml	faaa487
-missing/People/Faye Marsay.yml	f56f6fd6
-missing/People/Fiona Shaw.yml	f85e93ec
-missing/People/Florence Pugh.yml	ca279993
-missing/People/Gavin Drea.yml	c73f67c2
-missing/People/George Orwell.yml	d47bb514
-missing/People/Gloria Foster.yml	6de77518
-missing/People/Greig Fraser.yml	31fc6f88
-missing/People/Hana Hayes.yml	eec96aac
-missing/People/Hans Zimmer.yml	67bbbc14
-missing/People/Harold Perrineau.yml	da32b2f2
-missing/People/Harry Keramidas.yml	2d2947a
-missing/People/Helmut Bakaitis.yml	33868fb
-missing/People/Hiroyuki Owaku.yml	7e9caedc
-missing/People/Hiroyuki Sanada.yml	7587c8e9
-missing/People/Hugh Grant.yml	16986c50
-missing/People/Hugo Weaving.yml	ab859385
-missing/People/Ian Alexander.yml	d4d9fb98
-missing/People/J. K. Rowling.yml	49297fe9
-missing/People/J. K. Simmons.yml	638b2dce
-missing/People/Jada Pinkett Smith.yml	24eedb22
-missing/People/James McCaffrey.yml	14318d64
-missing/People/James Tolkan.yml	f78fbead
-missing/People/Jane Perry.yml	4ba9c73e
-missing/People/Jason Schwartzman.yml	9b3e0fdc
-missing/People/Jerome Flynn.yml	2f4a543f
-missing/People/Jessica Henwick.yml	42dd7d7c
-missing/People/Joe Walker.yml	796cfb35
-missing/People/Joel Silver.yml	d384ca27
-missing/People/Johnny Simmons.yml	aafb5d6
-missing/People/Jon Spaihts.yml	6643bca4
-missing/People/Josh Brolin.yml	3ce59dcd
-missing/People/Josh Hartnett.yml	7bb1f451
-missing/People/Kai Bird.yml	82a86b7a
-missing/People/Keita Saito.yml	3a868804
-missing/People/Kieran Culkin.yml	61701698
-missing/People/Kurt Margenau.yml	3e0f6066
-missing/People/Kyle Hebert.yml	6c77f222
-missing/People/Lambert Wilson.yml	57ad2ec4
-missing/People/Lea Thompson.yml	599cfa6f
-missing/People/Lilly Wachowski.yml	694a0f18
-missing/People/Léa Seydoux.yml	71d8107e
-missing/People/M. Night Shyamalan.yml	ed4f5913
-missing/People/Mae Whitman.yml	a307cfb3
-missing/People/Marc Bienstock.yml	8d6bda85
-missing/People/Marc Platt.yml	4aad0337
-missing/People/Mark Ruffalo.yml	4acc01c6
-missing/People/Mark Webber.yml	ea5d82af
-missing/People/Marlo Kelly.yml	a49e74fd
-missing/People/Martin Amis.yml	52fa6a85
-missing/People/Mary Elizabeth Winstead.yml	b72f70e8
-missing/People/Mary Parent.yml	40c1ab01
-missing/People/Masashi Tsuboyama.yml	26bc6c50
-missing/People/Matthew Porretta.yml	6d2182ed
-missing/People/Max Mittelman.yml	c54c991c
-missing/People/Michael Cera.yml	971f4e06
-missing/People/Michael J. Fox.yml	8133e626
-missing/People/Michael Kelly.yml	c06db16b
-missing/People/Mike Pondsmith.yml	20cb4017
-missing/People/Monica Bellucci.yml	ee1fcb5c
-missing/People/Morgan Freeman.yml	13c9fb24
-missing/People/Nadji Jeter.yml	9d63e3a1
-missing/People/Natalia Tena.yml	3b760c16
-missing/People/Neil Canton.yml	b2a9e831
-missing/People/Neil Newbon.yml	b8da394b
-missing/People/Nobuyuki Hosoya.yml	cd59c851
-missing/People/Nolan North.yml	b58a12be
-missing/People/Owen Harris.yml	4f29b326
-missing/People/Petri Alanko.yml	5686f78e
-missing/People/Randall Duk Kim.yml	a8588980
-missing/People/Ray Chase.yml	828e00a4
-missing/People/Rebecca Ferguson.yml	d58fbbe6
-missing/People/Richard Francis-Bruce.yml	5dad5b58
-missing/People/Robbie Daymond.yml	b28c9b77
-missing/People/Robert Zemeckis.yml	8ed6b45d
-missing/People/Sam Lake.yml	19b46b2b
-missing/People/Sara Cravens.yml	14417b59
-missing/People/Satya Bhabha.yml	5a8261ed
-missing/People/Shannon Woodward.yml	bfcd1408
-missing/People/Shohreh Aghdashloo.yml	2e1b07a0
-missing/People/Shota Saito.yml	c7da533c
-missing/People/Thomas F. Wilson.yml	e8eda336
-missing/People/Timothée Chalamet.yml	fe1df1dd
-missing/People/Tom Wilkinson.yml	2d15d894
-missing/People/Tomohiro Suzuki.yml	ea41e1db
-missing/People/W. Earl Brown.yml	5f744ef2
-missing/People/Willem Dafoe.yml	d7e54196
-missing/People/Yaani King.yml	ca99189f
-missing/People/Zach Aguilar.yml	bbf32e90
-missing/People/Zach Staenberg.yml	4e24f30
-missing/People/Zendaya.yml	88897138
