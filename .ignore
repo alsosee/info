@@ -4,7 +4,14 @@
 /temp/**
 /_finder/**
 /finder
+/index
+/output
+/state
+/Caddyfile
 /config.yml
-sources.txt
-LICENSE
+/.dockerignore
+/docker-compose.yml
+/sources.txt
+/LICENSE
+.github
 github
