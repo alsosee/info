@@ -11,6 +11,9 @@ opengraph:
   twitter_image: https://media.alsosee.info/twitter.png
 home_label: Home
 search_label: Search
+not_found_header: Not found
+not_found_description: The requested content was not found.
+not_found_but_description: The requested content was not found. Closest available results are listed below.
 views_label: Views
 views_tooltip: Show items as icons, in a list or in columns
 view_icons: Icons
