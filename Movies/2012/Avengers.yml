@@ -1,0 +1,49 @@
+name: The Avengers
+series: Avengers
+description: >
+  Nick Fury assembles a team of remarkable individuals—Iron Man, Captain
+  America, Thor, the Hulk, Black Widow, and Hawkeye—to stop Loki and an
+  alien army from subjugating Earth.
+released: 2012-05-04
+rating: PG-13
+length: 2h23m
+genres:
+  - superhero
+  - action
+  - sci-fi
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Avengers_(2012_film)
+imdb: https://www.imdb.com/title/tt0848228
+tmdb: https://www.themoviedb.org/movie/24428-the-avengers
+rotten_tomatoes: https://www.rottentomatoes.com/m/marvels_the_avengers
+metacritic: https://www.metacritic.com/movie/the-avengers/
+directors: Joss Whedon
+screenplay: Joss Whedon
+music: Alan Silvestri
+cinematography: Seamus McGarvey
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Tony Stark / Iron Man
+    actor: Robert Downey Jr.
+  - name: Steve Rogers / Captain America
+    actor: Chris Evans
+  - name: Thor
+    actor: Chris Hemsworth
+  - name: Bruce Banner / Hulk
+    actor: Mark Ruffalo
+  - name: Natasha Romanoff / Black Widow
+    actor: Scarlett Johansson
+  - name: Clint Barton / Hawkeye
+    actor: Jeremy Renner
+  - name: Loki
+    actor: Tom Hiddleston
+  - name: Nick Fury
+    actor: Samuel L. Jackson
+  - name: Phil Coulson
+    actor: Clark Gregg
+  - name: Maria Hill
+    actor: Cobie Smulders
+  - name: Pepper Potts
+    actor: Gwyneth Paltrow

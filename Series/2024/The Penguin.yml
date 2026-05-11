@@ -1,20 +1,19 @@
-name: The Penguin
+name: "The Penguin"
+description: >
+  Following the events of The Batman (2022), the series explores Oswald "Oz"
+  Cobb's rise to power in Gotham City's criminal underworld as he navigates
+  a power vacuum left by the death of Carmine Falcone.
+released: 2024-09-19
+rating: TV-MA
 genres:
   - crime drama
   - gangster
   - superhero
+network: Companies/HBO
 wikipedia: https://en.wikipedia.org/wiki/The_Penguin_(TV_series)
-network: HBO
-music: Mick Giacchino
-released: 2024-09-19
-production:
-  - Acid and Tender Productions
-  - 6th & Idaho Motion Picture Company
-  - Dylan Clark Productions
-  - Chapel Place Productions
-  - Zobot Projects
-  - DC Studios
-  - Warner Bros. Television
+imdb: https://www.imdb.com/title/tt15392484
+tmdb: https://www.themoviedb.org/tv/134483-the-penguin
+creators: Lauren LeFranc
 developed_by: Lauren LeFranc
 showrunners: Lauren LeFranc
 producers:
@@ -25,11 +24,7 @@ producers:
   - Colin Farrell
   - Bill Carraro
   - Daniel Pipski
-
-  - Dana Robin
-  - Nick Towne
-  - Corina Maritescu
-  - Claudine Farrell
+music: Mick Giacchino
 cinematography:
   - Darran Tiernan
   - Jonathan Freeman
@@ -39,6 +34,14 @@ editors:
   - Henk Van Eeghen
   - Meg Reticker
   - Andy Keir
+production:
+  - Acid and Tender Productions
+  - 6th & Idaho Motion Picture Company
+  - Dylan Clark Productions
+  - Chapel Place Productions
+  - Zobot Projects
+  - DC Studios
+  - Warner Bros. Television
 characters:
   - name: Oswald "Oz" Cobb
     actor: Colin Farrell
@@ -49,7 +52,7 @@ characters:
   - name: Francis Cobb
     actor: Deirdre O'Connell
   - name: Salvatore "Sal" Maroni
-    actor: Clancy Brown
+    actor: People/Clancy Brown
   - name: Nadia Maroni
     actor: Shohreh Aghdashloo
   - name: Eve Karlo
@@ -64,41 +67,67 @@ characters:
     actor: Scott Cohen
   - name: Dr. Julian Rush
     actor: Theo Rossi
-  - name: Carla Viti
-    actor: Aleksa Palladino
-  - name: Gia Viti
-    actor: Kenzie Grey
-  - name: Link Tsai
-    actor: Robert Lee Leng
-  - name: Feng Zhao
-    actor: François Chau
-  - name: Tina Falcone
-    actor: Tess Soltau
-  - name: Magpie
-    actor: Marié Botha
-  - name: Squid
-    actor: Jared Abrahamson
-  - name: Castillo
-    actor: Berto Colón
-  - name: Milos Grapa
-    actor: James Madio
-  - name: Calvin
-    actor: Ben Cook
-  - name: Bella Reál
-    actor: Jayme Lawson
-  - name: Summer Gleeson
-    actor: Nadine Malouf
-  - name: GCPD Chief Mackenzie Bock
-    actor: Con O'Neill
-  - name: Rex Calabrese
-    actor: Louis Cancelmi
-  - name: Detective Marcus Wise
-    actor: Craig Walker
-  - name: Graciela
-    actor: Anire Kim Amoda
-  - name: Mikey Stone
-    actor: Joshua Bitton
-  - name: Nick Fuchs
-    actor: David H. Holmes
-  - name: Bruno Tess
-    actor: Daniel J. Watts
+episodes:
+  - name: After Hours
+    description: >
+      Oz Cobb attempts to capitalize on a power vacuum in the Falcone family.
+    released: 2024-09-19
+    length: 67m
+    directors: Craig Zobel
+    writers: Lauren LeFranc
+  - name: Inside Man
+    description: >
+      Sofia works to secure her family's legacy as Oz attempts to play both
+      sides.
+    released: 2024-09-29
+    length: 56m
+    directors: Craig Zobel
+    writers: Erika L. Johnson
+  - name: Bliss
+    description: >
+      Oz and Sofia look to control the future of Gotham's drug trade.
+    released: 2024-10-06
+    length: 59m
+    directors: Craig Zobel
+    writers: Noelle Valdivia
+  - name: Cent'Anni
+    description: >
+      Sofia confronts her past at Arkham State Hospital and makes plans for
+      her future.
+    released: 2024-10-13
+    length: 58m
+    directors: Helen Shaver
+    writers: John McCutcheon
+  - name: Homecoming
+    description: >
+      Oz scrambles to retain the upper hand as the Maroni and Falcone families
+      pivot.
+    released: 2024-10-20
+    length: 54m
+    directors: Helen Shaver
+    writers:
+      - Breannah Gibson
+      - Shaye Ogbonna
+  - name: Gold Summit
+    description: >
+      Oz seeks to expand his reach across the city while Sofia and Sal form
+      an alliance.
+    released: 2024-10-27
+    length: 52m
+    directors: Kevin Bray
+    writers: Nick Towne
+  - name: Top Hat
+    description: >
+      Oz's past is revealed as Sofia continues her quest for revenge.
+    released: 2024-11-03
+    length: 47m
+    directors: Kevin Bray
+    writers: Vladimir Cvetko
+  - name: A Great or Little Thing
+    description: >
+      The power struggle for Gotham reaches its climax as Oz and Sofia face
+      off.
+    released: 2024-11-10
+    length: 68m
+    directors: Jennifer Getzinger
+    writers: Lauren LeFranc

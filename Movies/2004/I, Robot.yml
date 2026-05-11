@@ -1,0 +1,61 @@
+name: 'I, Robot'
+description: >
+  In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
+released: 2004-07-16
+rating: PG-13
+length: 115m
+genres:
+  - science fiction
+  - action
+  - thriller
+  - mystery
+based_on: Books/1950/I Robot
+website: https://www.sonypictures.com/movies/irobot
+wikipedia: https://en.wikipedia.org/wiki/I,_Robot_(film)
+imdb: https://www.imdb.com/title/tt0343818
+tmdb: https://www.themoviedb.org/movie/2048-i-robot
+rotten_tomatoes: https://www.rottentomatoes.com/m/i_robot
+metacritic: https://www.metacritic.com/movie/i-robot/
+trailer: https://www.youtube.com/watch?v=rL6RRIOZyCM
+directors: Alex Proyas
+writers:
+  - Jeff Vintar
+  - Akiva Goldsman
+producers:
+  - Laurence Mark
+  - Topher Dow
+  - Wyck Godfrey
+  - Marty Ewing
+music: Marco Beltrami
+cinematography: Simon Duggan
+editors:
+  - Richard Learoyd
+  - Armen Minasian
+production:
+  - Davis Entertainment
+  - Overbrook Entertainment
+  - Mediastream IV
+distributors: 20th Century Fox
+characters:
+  - name: Detective Del Spooner
+    actor: Will Smith
+  - name: Dr. Susan Calvin
+    actor: Bridget Moynahan
+  - name: Sonny
+    actor: Alan Tudyk
+  - name: Detective John Bergin
+    actor: Chi McBride
+  - name: Dr. Alfred Lanning
+    actor: James Cromwell
+  - name: Lawrence Robertson
+    actor: Bruce Greenwood
+  - name: Lt. John Bergin
+    actor: Chi McBride
+  - name: Granny
+    actor: Adrian Ricard
+  - name: Farber
+    actor: Peter Shinkoda
+  - name: NS-4 Robot
+    actor: Alan Tudyk
+  - name: Demolition Robot
+    actor: David Haysom

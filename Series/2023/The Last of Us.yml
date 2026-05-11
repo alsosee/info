@@ -77,3 +77,88 @@ characters:
     actor: Elaine Miles
 references:
   - Games/Video/2013/The Last of Us
+episodes:
+  - name: When You're Lost in the Darkness
+    description: In the wake of a devastating fungal pandemic, smuggler Joel is tasked with escorting a teenager named Ellie out of a military quarantine zone.
+    released: 2023-01-15
+    length: 81m
+    imdb: https://www.imdb.com/title/tt11957006/
+    wikipedia: https://en.wikipedia.org/wiki/When_You%27re_Lost_in_the_Darkness
+    directors: Craig Mazin
+    writers:
+      - Craig Mazin
+      - Neil Druckmann
+
+  - name: Infected
+    description: Joel, Tess, and Ellie travel through the ruins of Boston and encounter the dangers of the infected world firsthand.
+    released: 2023-01-22
+    length: 53m
+    imdb: https://www.imdb.com/title/tt14500884/
+    wikipedia: https://en.wikipedia.org/wiki/Infected_(The_Last_of_Us)
+    directors: Neil Druckmann
+    writers: Craig Mazin
+
+  - name: Long, Long Time
+    description: Joel and Ellie seek help from a survivalist named Bill, and the episode explores how Bill built a life for himself after the outbreak.
+    released: 2023-01-29
+    length: 75m
+    imdb: https://www.imdb.com/title/tt14500888/
+    wikipedia: https://en.wikipedia.org/wiki/Long,_Long_Time_(The_Last_of_Us)
+    directors: Peter Hoar
+    writers: Craig Mazin
+
+  - name: Please Hold to My Hand
+    description: Joel and Ellie pass through Kansas City, where an underground resistance movement has taken control from FEDRA.
+    released: 2023-02-05
+    length: 45m
+    imdb: https://www.imdb.com/title/tt14500890/
+    wikipedia: https://en.wikipedia.org/wiki/Please_Hold_to_My_Hand
+    directors: Jeremy Webb
+    writers: Craig Mazin
+
+  - name: Endure and Survive
+    description: Joel and Ellie join forces with two brothers trying to escape the dangerous situation in Kansas City.
+    released: 2023-02-12
+    length: 59m
+    imdb: https://www.imdb.com/title/tt14659486/
+    wikipedia: https://en.wikipedia.org/wiki/Endure_and_Survive
+    directors: Jeremy Webb
+    writers: Craig Mazin
+
+  - name: Kin
+    description: Joel and Ellie head west in search of Tommy, Joel's brother, who was last known to be living in a settlement in Wyoming.
+    released: 2023-02-19
+    length: 58m
+    imdb: https://www.imdb.com/title/tt14659496/
+    wikipedia: https://en.wikipedia.org/wiki/Kin_(The_Last_of_Us)
+    directors: Jasmila Žbanić
+    writers: Craig Mazin
+
+  - name: Left Behind
+    description: While Joel is incapacitated, Ellie reflects on her close friendship with Riley and the events that led to her joining the Fireflies.
+    released: 2023-02-26
+    length: 55m
+    imdb: https://www.imdb.com/title/tt15747172/
+    wikipedia: https://en.wikipedia.org/wiki/Left_Behind_(The_Last_of_Us)
+    directors: Liza Johnson
+    writers: Neil Druckmann
+
+  - name: When We Are in Need
+    description: Stranded in a snowbound resort town, Ellie searches for medicine while Joel slowly recovers from his injury.
+    released: 2023-03-05
+    length: 51m
+    imdb: https://www.imdb.com/title/tt15747176/
+    wikipedia: https://en.wikipedia.org/wiki/When_We_Are_in_Need
+    directors: Ali Abbasi
+    writers: Craig Mazin
+
+  - name: Look for the Light
+    description: Joel and Ellie reach the end of their long journey and arrive at the Firefly hospital in Salt Lake City.
+    released: 2023-03-12
+    length: 43m
+    imdb: https://www.imdb.com/title/tt15747178/
+    wikipedia: https://en.wikipedia.org/wiki/Look_for_the_Light
+    directors: Ali Abbasi
+    writers:
+      - Craig Mazin
+      - Neil Druckmann

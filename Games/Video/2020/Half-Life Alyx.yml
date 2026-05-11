@@ -1,0 +1,31 @@
+name: 'Half-Life: Alyx'
+description: >
+  A VR-exclusive first-person shooter set between the events of Half-Life and
+  Half-Life 2, where players control Alyx Vance in a resistance against the
+  alien Combine empire, using gravity gloves and physics-based VR interactions.
+released: 2020-03-23
+genres:
+  - First-person shooter
+  - Virtual reality
+wikipedia: https://en.wikipedia.org/wiki/Half-Life:_Alyx
+metacritic: https://www.metacritic.com/game/half-life-alyx/
+website: https://www.half-life.com/en/alyx
+developers: Valve Corporation
+publishers: Valve Corporation
+writers:
+  - Jay Pinkerton
+  - Sean Vanaman
+  - Erik Wolpaw
+  - Jake Rodkin
+composers: Mike Morasky
+characters:
+  - name: Alyx Vance
+    actor: Ozioma Akagha
+  - name: Eli Vance
+    actor: James Moses Black
+  - name: Russell
+    actor: Rhys Darby
+  - name: G-Man
+    actor: Mike Shapiro
+  - name: Gary
+    actor: Tony Todd

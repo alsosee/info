@@ -18,7 +18,9 @@ twitter: https://twitter.com/oldthemovie
 instagram: https://instagram.com/oldthemovie
 facebook: https://facebook.com/oldthemovie
 imdb: https://www.imdb.com/title/tt10954652
+fandom: https://old-2021-movie.fandom.com/wiki/Old_(2021)_Movie_Wiki
 rotten_tomatoes: https://www.rottentomatoes.com/m/old
+spotify: https://open.spotify.com/album/4SGy7Q3UgFCyi9dS069U8s
 directors: M. Night Shyamalan
 producers:
   - M. Night Shyamalan
@@ -33,7 +35,7 @@ production:
   - Blinding Edge Pictures
 distributors: Universal Pictures
 characters:
-  - name: Guy
+  - name: Guy Cappa
     actor: Gael Garcia Bernal
   - name: Prisca
     actor: Vicky Krieps
@@ -77,3 +79,5 @@ characters:
     actor: Kailen Jude
   - name: Hotel Van Driver
     actor: M. Night Shyamalan
+  - name: Sidney
+    actor: Matthew Shear

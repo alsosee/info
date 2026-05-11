@@ -1,0 +1,48 @@
+name: Iron Man
+series: Iron Man
+description: >
+  Weapons manufacturer Tony Stark builds a powered suit of armor to escape
+  captivity, then uses the technology as the armored hero Iron Man to
+  protect the world.
+released: 2008-05-02
+rating: PG-13
+length: 2h6m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/Iron_Man_(film)
+imdb: https://www.imdb.com/title/tt0371746
+tmdb: https://www.themoviedb.org/movie/1726-iron-man
+rotten_tomatoes: https://www.rottentomatoes.com/m/iron_man
+metacritic: https://www.metacritic.com/movie/iron-man/
+directors: Jon Favreau
+screenplay:
+  - Mark Fergus
+  - Hawk Ostby
+  - Art Marcum
+  - Matt Holloway
+music: Ramin Djawadi
+cinematography: Matthew Libatique
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Paramount Pictures
+characters:
+  - name: Tony Stark / Iron Man
+    actor: Robert Downey Jr.
+  - name: Pepper Potts
+    actor: Gwyneth Paltrow
+  - name: James Rhodes
+    actor: Terrence Howard
+  - name: Obadiah Stane
+    actor: Jeff Bridges
+  - name: Phil Coulson
+    actor: Clark Gregg
+  - name: Ho Yinsen
+    actor: Shaun Toub
+  - name: Christine Everhart
+    actor: Leslie Bibb
+  - name: Happy Hogan
+    actor: Jon Favreau
+  - name: Nick Fury
+    actor: Samuel L. Jackson

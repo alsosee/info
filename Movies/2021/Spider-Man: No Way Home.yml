@@ -1,0 +1,59 @@
+name: "Spider-Man: No Way Home"
+series: Spider-Man
+previous: "Movies/2019/Spider-Man: Far From Home"
+description: >
+  When Peter Parker asks Doctor Strange to make the world forget he is
+  Spider-Man, the spell goes wrong and unleashes villains and heroes from
+  alternate realities into his universe.
+released: 2021-12-17
+rating: PG-13
+length: 2h28m
+genres:
+  - superhero
+  - action
+  - sci-fi
+  - multiverse
+wikipedia: https://en.wikipedia.org/wiki/Spider-Man:_No_Way_Home
+imdb: https://www.imdb.com/title/tt10872600
+rotten_tomatoes: https://www.rottentomatoes.com/m/spider_man_no_way_home
+metacritic: https://www.metacritic.com/movie/spider-man-no-way-home/
+directors: Jon Watts
+screenplay:
+  - Chris McKenna
+  - Erik Sommers
+music: Michael Giacchino
+cinematography: Mauro Fiore
+producers: Kevin Feige
+production:
+  - Marvel Studios
+  - Columbia Pictures
+distributors: Sony Pictures
+characters:
+  - name: Peter Parker / Spider-Man
+    actor: Tom Holland
+  - name: MJ
+    actor: Zendaya
+  - name: Ned Leeds
+    actor: Jacob Batalon
+  - name: Doctor Strange
+    actor: Benedict Cumberbatch
+  - name: May Parker
+    actor: Marisa Tomei
+  - name: Happy Hogan
+    actor: Jon Favreau
+  - name: Norman Osborn / Green Goblin
+    actor: Willem Dafoe
+  - name: Dr. Otto Octavius
+    actor: Alfred Molina
+  - name: Max Dillon / Electro
+    actor: Jamie Foxx
+  - name: Curt Connors / Lizard
+    actor: Rhys Ifans
+  - name: Flint Marko / Sandman
+    actor: Thomas Haden Church
+  - name: Peter Parker (2)
+    actor: Tobey Maguire
+  - name: Peter Parker (3)
+    actor: Andrew Garfield
+  - name: Matt Murdock
+    actor: Charlie Cox

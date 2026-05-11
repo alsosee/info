@@ -1,0 +1,111 @@
+name: "The Mandalorian, Season 3"
+description: >
+  Din Djarin and Grogu work to unite the scattered Mandalorian clans and
+  reclaim their homeworld from Imperial remnants, while Bo-Katan Kryze
+  emerges as a potential leader for her people.
+previous: Series/2020/The Mandalorian, Season 2
+released: 2023-03-01
+rating: TV-14
+genres:
+  - science fiction
+  - western
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Mandalorian_season_3
+imdb: https://www.imdb.com/title/tt8111088
+tmdb: https://www.themoviedb.org/tv/82856-the-mandalorian/season/3
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_mandalorian/s03
+network: Disney+
+trailer: https://www.youtube.com/watch?v=Znsa4Deavgg
+creators: Jon Favreau
+composers: Joseph Shirley
+characters:
+  - name: Din Djarin / The Mandalorian
+    actor: Pedro Pascal
+  - name: Grogu
+  - name: Bo-Katan Kryze
+    actor: Katee Sackhoff
+  - name: Greef Karga
+    actor: Carl Weathers
+  - name: Moff Gideon
+    actor: Giancarlo Esposito
+  - name: The Armorer
+    actor: Emily Swallow
+  - name: Peli Motto
+    actor: Amy Sedaris
+episodes:
+  - name: "Chapter 17: The Apostate"
+    description: Din Djarin returns to his Mandalorian covert to seek help in restoring his status as a true Mandalorian.
+    released: 2023-03-01
+    length: 37m
+    imdb: https://www.imdb.com/title/tt12187072/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_17:_The_Apostate
+    directors: Rick Famuyiwa
+    writers: Jon Favreau
+
+  - name: "Chapter 18: The Mines of Mandalore"
+    description: Din Djarin travels to the ruins of the Mandalorian homeworld on a vital personal mission.
+    released: 2023-03-08
+    length: 44m
+    imdb: https://www.imdb.com/title/tt13439668/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_18:_The_Mines_of_Mandalore
+    directors: Rachel Morrison
+    writers: Jon Favreau
+
+  - name: "Chapter 19: The Convert"
+    description: On Coruscant, former Imperial officers navigate life under the New Republic's amnesty program.
+    released: 2023-03-15
+    length: 58m
+    imdb: https://www.imdb.com/title/tt13665846/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_19:_The_Convert
+    directors: Lee Isaac Chung
+    writers:
+      - Noah Kloor
+      - Jon Favreau
+
+  - name: "Chapter 20: The Foundling"
+    description: Bo-Katan joins the Mandalorian covert on a mission to track down a young Mandalorian taken by a creature.
+    released: 2023-03-22
+    length: 32m
+    imdb: https://www.imdb.com/title/tt13669018/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_20:_The_Foundling
+    directors: Carl Weathers
+    writers:
+      - Jon Favreau
+      - Dave Filoni
+
+  - name: "Chapter 21: The Pirate"
+    description: A pirate fleet threatens a settlement the Mandalorian has ties to, drawing him back into a new conflict.
+    released: 2023-03-29
+    length: 43m
+    imdb: https://www.imdb.com/title/tt13801574/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_21:_The_Pirate
+    directors: Peter Ramsey
+    writers: Jon Favreau
+
+  - name: "Chapter 22: Guns for Hire"
+    description: Bo-Katan leads the Mandalorians to an opulent world where fellow warriors have been working as mercenaries.
+    released: 2023-04-05
+    length: 46m
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_22:_Guns_for_Hire
+    directors: Bryce Dallas Howard
+    writers: Jon Favreau
+
+  - name: "Chapter 23: The Spies"
+    description: The Mandalorian and his allies push deeper into Imperial territory as their mission to retake Mandalore intensifies.
+    released: 2023-04-12
+    length: 53m
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_23:_The_Spies
+    directors: Rick Famuyiwa
+    writers:
+      - Jon Favreau
+      - Dave Filoni
+
+  - name: "Chapter 24: The Return"
+    description: The Mandalorian and his allies mount a final assault to reclaim the Mandalorian homeworld from Imperial control.
+    released: 2023-04-19
+    length: 39m
+    imdb: https://www.imdb.com/title/tt13820582/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_24:_The_Return
+    directors: Rick Famuyiwa
+    writers: Jon Favreau

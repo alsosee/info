@@ -1,0 +1,54 @@
+name: "Avengers: Age of Ultron"
+series: Avengers
+previous: Movies/2012/Avengers
+description: >
+  When Tony Stark's attempt to create a peacekeeping AI results in the
+  villainous Ultron, the Avengers must stop it before it destroys humanity.
+released: 2015-05-01
+rating: PG-13
+length: 2h21m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron
+imdb: https://www.imdb.com/title/tt2395427
+tmdb: https://www.themoviedb.org/movie/99861-avengers-age-of-ultron
+rotten_tomatoes: https://www.rottentomatoes.com/m/avengers_age_of_ultron
+metacritic: https://www.metacritic.com/movie/avengers-age-of-ultron/
+directors: Joss Whedon
+screenplay: Joss Whedon
+music:
+  - Brian Tyler
+  - Danny Elfman
+cinematography: Ben Davis
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Tony Stark / Iron Man
+    actor: Robert Downey Jr.
+  - name: Steve Rogers / Captain America
+    actor: Chris Evans
+  - name: Thor
+    actor: Chris Hemsworth
+  - name: Bruce Banner / Hulk
+    actor: Mark Ruffalo
+  - name: Natasha Romanoff / Black Widow
+    actor: Scarlett Johansson
+  - name: Clint Barton / Hawkeye
+    actor: Jeremy Renner
+  - name: Ultron
+    voice: James Spader
+  - name: Vision
+    actor: Paul Bettany
+  - name: Wanda Maximoff / Scarlet Witch
+    actor: Elizabeth Olsen
+  - name: Pietro Maximoff / Quicksilver
+    actor: Aaron Taylor-Johnson
+  - name: Nick Fury
+    actor: Samuel L. Jackson
+  - name: Maria Hill
+    actor: Cobie Smulders
+  - name: James Rhodes / War Machine
+    actor: Don Cheadle

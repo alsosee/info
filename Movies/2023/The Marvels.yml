@@ -1,0 +1,41 @@
+name: The Marvels
+series: Captain Marvel
+previous: Movies/2019/Captain Marvel
+description: >
+  Carol Danvers, Monica Rambeau, and Kamala Khan find their powers are
+  mysteriously interlinked, forcing them to work together to unravel the
+  source of their connection.
+released: 2023-11-10
+rating: PG-13
+length: 1h45m
+genres:
+  - superhero
+  - action
+  - sci-fi
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/The_Marvels_(film)
+imdb: https://www.imdb.com/title/tt10676048
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_marvels
+metacritic: https://www.metacritic.com/movie/the-marvels/
+directors: Nia DaCosta
+screenplay:
+  - Megan McDonnell
+  - Elissa Karasik
+music: Laura Karpman
+cinematography: Sean Bobitt
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Carol Danvers / Captain Marvel
+    actor: Brie Larson
+  - name: Monica Rambeau
+    actor: Teyonah Parris
+  - name: Kamala Khan / Ms. Marvel
+    actor: Iman Vellani
+  - name: Nick Fury
+    actor: Samuel L. Jackson
+  - name: Dar-Benn
+    actor: Zawe Ashton
+  - name: Valkyrie
+    actor: Tessa Thompson

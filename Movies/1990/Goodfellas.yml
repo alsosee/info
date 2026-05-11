@@ -1,0 +1,38 @@
+name: Goodfellas
+description: >
+  The rise and fall of mob associate Henry Hill and his friends and family in the Italian-American crime syndicate.
+  Based on the true story of Hill's life in the Lucchese crime family, the film chronicles the gritty and violent
+  reality of the mafia over three decades.
+released: 1990-09-19
+rating: R
+length: 2h25m
+genres:
+  - biography
+  - crime
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Goodfellas
+imdb: https://www.imdb.com/title/tt0099685
+tmdb: https://www.themoviedb.org/movie/769-goodfellas
+rotten_tomatoes: https://www.rottentomatoes.com/m/goodfellas
+metacritic: https://www.metacritic.com/movie/goodfellas
+trailer: https://www.youtube.com/watch?v=2ilzidi_J8Q
+directors: Martin Scorsese
+producers: Irwin Winkler
+screenplay:
+  - Nicholas Pileggi
+  - Martin Scorsese
+cinematography: Michael Ballhaus
+editors: Thelma Schoonmaker
+production: Warner Bros.
+distributors: Companies/Warner Bros. Pictures
+characters:
+  - name: Jimmy Conway
+    actor: Robert De Niro
+  - name: Henry Hill
+    actor: Ray Liotta
+  - name: Tommy DeVito
+    actor: Joe Pesci
+  - name: Karen Hill
+    actor: Lorraine Bracco
+  - name: Paul Cicero
+    actor: Paul Sorvino

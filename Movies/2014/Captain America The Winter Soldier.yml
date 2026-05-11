@@ -1,0 +1,49 @@
+name: "Captain America: The Winter Soldier"
+series: Captain America
+previous: "Movies/2011/Captain America: The First Avenger"
+description: >
+  Steve Rogers works alongside S.H.I.E.L.D. but uncovers a massive conspiracy
+  within the organization, while facing a deadly assassin known as the Winter
+  Soldier.
+released: 2014-04-04
+rating: PG-13
+length: 2h16m
+genres:
+  - superhero
+  - action
+  - spy thriller
+wikipedia: https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier
+imdb: https://www.imdb.com/title/tt1843866
+tmdb: https://www.themoviedb.org/movie/100402-captain-america-the-winter-soldier
+rotten_tomatoes: https://www.rottentomatoes.com/m/captain_america_the_winter_soldier
+metacritic: https://www.metacritic.com/movie/captain-america-the-winter-soldier/
+directors:
+  - Anthony Russo
+  - Joe Russo
+screenplay:
+  - Christopher Markus
+  - Stephen McFeely
+music: Henry Jackman
+cinematography: Trent Opaloch
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Steve Rogers / Captain America
+    actor: Chris Evans
+  - name: Natasha Romanoff / Black Widow
+    actor: Scarlett Johansson
+  - name: Sam Wilson / Falcon
+    actor: Anthony Mackie
+  - name: Nick Fury
+    actor: Samuel L. Jackson
+  - name: Bucky Barnes / Winter Soldier
+    actor: Sebastian Stan
+  - name: Alexander Pierce
+    actor: Robert Redford
+  - name: Maria Hill
+    actor: Cobie Smulders
+  - name: Sharon Carter
+    actor: Emily VanCamp
+  - name: Brock Rumlow
+    actor: Frank Grillo

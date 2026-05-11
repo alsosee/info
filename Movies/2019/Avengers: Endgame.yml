@@ -1,0 +1,86 @@
+name: "Avengers: Endgame"
+series: Avengers
+previous: Movies/2018/Infinity War
+description: >
+  Following a devastating loss, the remaining Avengers assemble for one final
+  mission to reverse the damage caused by Thanos and restore the universe.
+released: 2019-04-26
+rating: PG-13
+length: 3h1m
+genres:
+  - superhero
+  - action
+  - sci-fi
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Avengers:_Endgame
+imdb: https://www.imdb.com/title/tt4154796
+rotten_tomatoes: https://www.rottentomatoes.com/m/avengers_endgame
+metacritic: https://www.metacritic.com/movie/avengers-endgame/
+directors:
+  - Anthony Russo
+  - Joe Russo
+screenplay:
+  - Christopher Markus
+  - Stephen McFeely
+music: Alan Silvestri
+cinematography: Trent Opaloch
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Tony Stark / Iron Man
+    actor: Robert Downey Jr.
+  - name: Steve Rogers / Captain America
+    actor: Chris Evans
+  - name: Thor
+    actor: Chris Hemsworth
+  - name: Bruce Banner / Hulk
+    actor: Mark Ruffalo
+  - name: Natasha Romanoff / Black Widow
+    actor: Scarlett Johansson
+  - name: Clint Barton / Hawkeye
+    actor: Jeremy Renner
+  - name: Scott Lang / Ant-Man
+    actor: Paul Rudd
+  - name: Nebula
+    actor: Karen Gillan
+  - name: James Rhodes / War Machine
+    actor: Don Cheadle
+  - name: Rocket Raccoon
+    voice: Bradley Cooper
+  - name: Carol Danvers / Captain Marvel
+    actor: Brie Larson
+  - name: Thanos
+    actor: Josh Brolin
+  - name: Gamora
+    actor: Zoe Saldaña
+  - name: Peter Quill / Star-Lord
+    actor: Chris Pratt
+  - name: Groot
+    voice: Vin Diesel
+  - name: Drax the Destroyer
+    actor: Dave Bautista
+  - name: Mantis
+    actor: Pom Klementieff
+  - name: T'Challa / Black Panther
+    actor: Chadwick Boseman
+  - name: Peter Parker / Spider-Man
+    actor: Tom Holland
+  - name: Doctor Strange
+    actor: Benedict Cumberbatch
+  - name: Wanda Maximoff / Scarlet Witch
+    actor: Elizabeth Olsen
+  - name: Sam Wilson / Falcon
+    actor: Anthony Mackie
+  - name: Bucky Barnes
+    actor: Sebastian Stan
+  - name: Okoye
+    actor: Danai Gurira
+  - name: Hope van Dyne / Wasp
+    actor: Evangeline Lilly
+  - name: Pepper Potts / Rescue
+    actor: Gwyneth Paltrow
+  - name: Nick Fury
+    actor: Samuel L. Jackson
+  - name: Peggy Carter
+    actor: Hayley Atwell

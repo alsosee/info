@@ -1,0 +1,55 @@
+name: 'The Hunger Games: Mockingjay – Part 2'
+description: >
+  As the rebellion against the Capitol reaches its climax, Katniss leads a
+  squad through the heavily booby-trapped streets of the Capitol, determined
+  to assassinate President Snow and bring an end to his regime and to the
+  Hunger Games forever.
+previous: 'Movies/2014/The Hunger Games: Mockingjay – Part 1'
+released: 2015-11-20
+rating: PG-13
+length: 2h17m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Hunger_Games:_Mockingjay_%E2%80%93_Part_2
+imdb: https://www.imdb.com/title/tt1951266
+tmdb: https://www.themoviedb.org/movie/131634-the-hunger-games-mockingjay-part-2
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_hunger_games_mockingjay_part_2
+directors: Francis Lawrence
+screenplay:
+  - Peter Craig
+  - Danny Strong
+producers:
+  - Nina Jacobson
+  - Jon Kilik
+music: James Newton Howard
+cinematography: Jo Willems
+editors:
+  - Alan Edward Bell
+  - Mark Yoshikawa
+production:
+  - Lionsgate Films
+  - Color Force
+distributors: Lionsgate
+characters:
+  - name: Katniss Everdeen
+    actor: Jennifer Lawrence
+  - name: Peeta Mellark
+    actor: Josh Hutcherson
+  - name: Gale Hawthorne
+    actor: Liam Hemsworth
+  - name: Haymitch Abernathy
+    actor: Woody Harrelson
+  - name: Effie Trinket
+    actor: Elizabeth Banks
+  - name: President Alma Coin
+    actor: Julianne Moore
+  - name: Plutarch Heavensbee
+    actor: Philip Seymour Hoffman
+  - name: Beetee
+    actor: Jeffrey Wright
+  - name: Caesar Flickerman
+    actor: Stanley Tucci
+  - name: President Snow
+    actor: Donald Sutherland

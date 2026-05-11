@@ -1,25 +1,24 @@
 name: 3 Body Problem
+description: >
+  Across continents and decades, five brilliant friends make earth-shattering
+  discoveries as the laws of science unravel and an existential threat
+  emerges.
+released: 2024-03-21
+rating: TV-MA
 genres:
   - adventure
   - drama
   - fantasy
-rating: TV-MA
-description: >
-  Across continents and decades, five brilliant friends make earth-shattering discoveries as the laws of science unravel and an existential threat emerges.
+  - science fiction
+network: Companies/Netflix
 website: https://donotanswer.co/
-websites:
-  - https://www.netflix.com/tudum/articles/3-body-problem-cast-guide
-network: Netflix
-netflix: https://www.netflix.com/title/81024821
-based_on: Books/2008/The Three-Body Problem
-trailer: https://www.youtube.com/watch?v=mogSbMD6EcY
 wikipedia: https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series)
-twitter: https://twitter.com/3body
-instagram: https://instagram.com/3bodyproblem
 imdb: https://www.imdb.com/title/tt13016388
+tmdb: https://www.themoviedb.org/tv/108545-3-body-problem
 rotten_tomatoes: https://www.rottentomatoes.com/tv/3_body_problem
-spotify: https://open.spotify.com/album/6VhG7xEPrBO3YjmQj9OcUn
-fandom: https://three-body-problem.fandom.com/wiki/Three_Body_Problem_Wiki
+netflix: https://www.netflix.com/title/81024821
+trailer: https://www.youtube.com/watch?v=mogSbMD6EcY
+based_on: Books/2008/The Three-Body Problem
 creators:
   - David Benioff
   - D.B. Weiss
@@ -42,22 +41,49 @@ characters:
   - name: Vera Ye
     actor: Vedette Lim
   - name: Clarence "Da" Shi
-    actor: Benedict Wong
+    actor: People/Benedict Wong
   - name: Thomas Wade
     actor: Liam Cunningham
   - name: Ye Wenjie (young)
     actor: Zine Tseng
-  - name: Ye Zhetai
-    actor: Perry Yung
-  - name: Shao Lin
-    actor: Fengxu Li
-  - name: Tang Hongjing
-    actor: Lan Xiya
-  - name: Raj Varma
-    actor: Saamer Usmani
-  - name: Sophon
-    actor: Sea Shimooka
-  - name: Follower
-    actor: Eve Ridley
-  - name: Tatiana
-    actor: Marlo Kelly
+episodes:
+  - name: Countdown
+    description: >
+      In 1966 China, Ye Wenjie witnesses her father's murder. In 2024 London,
+      detective Da Shi investigates a string of scientist suicides.
+    released: 2024-03-21
+  - name: Red Coast
+    description: >
+      Auggie's countdown forces her to halt her nanotech research. A flashback
+      reveals Ye Wenjie's fateful decision at the Red Coast base.
+    released: 2024-03-21
+  - name: Destroyer of Worlds
+    description: >
+      Jin and Jack Rooney race to solve a complex VR game's riddle, revealing
+      the true nature of an alien civilization.
+    released: 2024-03-21
+  - name: Our Lord
+    description: >
+      Investigators uncover an extremist organization that worships the San-Ti
+      as their "Lord."
+    released: 2024-03-21
+  - name: Judgment Day
+    description: >
+      Wade and Auggie execute a brutal mission using nanofibers to retrieve
+      vital data. The world receives an ominous message.
+    released: 2024-03-21
+  - name: The Stars Our Destination
+    description: >
+      As global panic sets in, Thomas Wade gathers the world's top minds to
+      form a defense against the incoming fleet.
+    released: 2024-03-21
+  - name: Only Advance
+    description: >
+      The group faces ethical dilemmas over the Staircase Project while Will
+      Downing makes a monumental choice.
+    released: 2024-03-21
+  - name: Wallfacer
+    description: >
+      The UN launches the Wallfacer Project, appointing three individuals to
+      develop secret defense plans.
+    released: 2024-03-21

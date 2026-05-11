@@ -1,0 +1,55 @@
+name: "Thor: Love and Thunder"
+series: Thor
+previous: "Movies/2017/Thor: Ragnarok"
+description: >
+  Thor embarks on a journey to find inner peace, but is interrupted by a
+  galactic killer who hunts gods, while his former love Jane Foster
+  unexpectedly wields Mjolnir as the Mighty Thor.
+released: 2022-07-08
+rating: PG-13
+length: 1h59m
+genres:
+  - superhero
+  - action
+  - comedy
+  - romance
+wikipedia: https://en.wikipedia.org/wiki/Thor:_Love_and_Thunder
+imdb: https://www.imdb.com/title/tt10948342
+rotten_tomatoes: https://www.rottentomatoes.com/m/thor_love_and_thunder
+metacritic: https://www.metacritic.com/movie/thor-love-and-thunder/
+directors: Taika Waititi
+screenplay:
+  - Taika Waititi
+  - Jennifer Kaytin Robinson
+music: Michael Giacchino
+cinematography: Barry Idoine
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Thor
+    actor: Chris Hemsworth
+  - name: Jane Foster / Mighty Thor
+    actor: Natalie Portman
+  - name: Gorr the God Butcher
+    actor: Christian Bale
+  - name: Valkyrie
+    actor: Tessa Thompson
+  - name: Korg
+    voice: Taika Waititi
+  - name: Zeus
+    actor: Russell Crowe
+  - name: Lady Sif
+    actor: Jaimie Alexander
+  - name: Star-Lord
+    actor: Chris Pratt
+  - name: Rocket Raccoon
+    voice: Bradley Cooper
+  - name: Groot
+    voice: Vin Diesel
+  - name: Drax the Destroyer
+    actor: Dave Bautista
+  - name: Mantis
+    actor: Pom Klementieff
+  - name: Nebula
+    actor: Karen Gillan

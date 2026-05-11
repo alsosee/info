@@ -1,0 +1,42 @@
+name: "Ant-Man and the Wasp: Quantumania"
+series: Ant-Man
+previous: Movies/2018/Ant-Man and the Wasp
+description: >
+  Scott Lang and his family are accidentally pulled into the Quantum Realm,
+  where they must face the powerful conqueror Kang, who threatens the entire
+  multiverse.
+released: 2023-02-17
+rating: PG-13
+length: 2h4m
+genres:
+  - superhero
+  - sci-fi
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania
+imdb: https://www.imdb.com/title/tt10954600
+rotten_tomatoes: https://www.rottentomatoes.com/m/ant_man_and_the_wasp_quantumania
+metacritic: https://www.metacritic.com/movie/ant-man-and-the-wasp-quantumania/
+directors: Peyton Reed
+screenplay: Jeff Loveness
+music: Christophe Beck
+cinematography: Bill Pope
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Scott Lang / Ant-Man
+    actor: Paul Rudd
+  - name: Hope van Dyne / Wasp
+    actor: Evangeline Lilly
+  - name: Cassie Lang
+    actor: Kathryn Newton
+  - name: Hank Pym
+    actor: Michael Douglas
+  - name: Janet van Dyne
+    actor: Michelle Pfeiffer
+  - name: Kang the Conqueror
+    actor: Jonathan Majors
+  - name: M.O.D.O.K.
+    actor: Corey Stoll
+  - name: Jentorra
+    actor: Katy O'Brian

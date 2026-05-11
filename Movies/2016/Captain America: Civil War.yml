@@ -1,0 +1,61 @@
+name: "Captain America: Civil War"
+series: Captain America
+previous: "Movies/2014/Captain America: The Winter Soldier"
+description: >
+  Political controversy splits the Avengers into opposing factions when a UN
+  agreement demands government oversight of superheroes, pitting Captain
+  America against Iron Man.
+released: 2016-05-06
+rating: PG-13
+length: 2h27m
+genres:
+  - superhero
+  - action
+  - political thriller
+wikipedia: https://en.wikipedia.org/wiki/Captain_America:_Civil_War
+imdb: https://www.imdb.com/title/tt3498820
+tmdb: https://www.themoviedb.org/movie/271110-captain-america-civil-war
+rotten_tomatoes: https://www.rottentomatoes.com/m/captain_america_civil_war
+metacritic: https://www.metacritic.com/movie/captain-america-civil-war/
+directors:
+  - Anthony Russo
+  - Joe Russo
+screenplay:
+  - Christopher Markus
+  - Stephen McFeely
+music: Henry Jackman
+cinematography: Trent Opaloch
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Steve Rogers / Captain America
+    actor: Chris Evans
+  - name: Tony Stark / Iron Man
+    actor: Robert Downey Jr.
+  - name: Bucky Barnes / Winter Soldier
+    actor: Sebastian Stan
+  - name: Sam Wilson / Falcon
+    actor: Anthony Mackie
+  - name: Natasha Romanoff / Black Widow
+    actor: Scarlett Johansson
+  - name: T'Challa / Black Panther
+    actor: Chadwick Boseman
+  - name: Peter Parker / Spider-Man
+    actor: Tom Holland
+  - name: Wanda Maximoff / Scarlet Witch
+    actor: Elizabeth Olsen
+  - name: Vision
+    actor: Paul Bettany
+  - name: Clint Barton / Hawkeye
+    actor: Jeremy Renner
+  - name: Scott Lang / Ant-Man
+    actor: Paul Rudd
+  - name: James Rhodes / War Machine
+    actor: Don Cheadle
+  - name: Helmut Zemo
+    actor: Daniel Brühl
+  - name: Everett Ross
+    actor: Martin Freeman
+  - name: Sharon Carter
+    actor: Emily VanCamp

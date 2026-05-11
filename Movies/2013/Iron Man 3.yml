@@ -1,0 +1,46 @@
+name: Iron Man 3
+series: Iron Man
+previous: Movies/2010/Iron Man 2
+description: >
+  Tony Stark faces a powerful enemy called the Mandarin while struggling with
+  anxiety and PTSD, forcing him to rely on his wits when his armor is
+  destroyed.
+released: 2013-05-03
+rating: PG-13
+length: 2h10m
+genres:
+  - superhero
+  - action
+  - sci-fi
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Iron_Man_3
+imdb: https://www.imdb.com/title/tt1300854
+tmdb: https://www.themoviedb.org/movie/68721-iron-man-3
+rotten_tomatoes: https://www.rottentomatoes.com/m/iron_man_3
+metacritic: https://www.metacritic.com/movie/iron-man-3/
+directors: Shane Black
+screenplay:
+  - Drew Pearce
+  - Shane Black
+music: Brian Tyler
+cinematography: John Toll
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Tony Stark / Iron Man
+    actor: Robert Downey Jr.
+  - name: Pepper Potts
+    actor: Gwyneth Paltrow
+  - name: James Rhodes / Iron Patriot
+    actor: Don Cheadle
+  - name: Aldrich Killian
+    actor: Guy Pearce
+  - name: Maya Hansen
+    actor: Rebecca Hall
+  - name: Trevor Slattery
+    actor: Ben Kingsley
+  - name: Harley Keener
+    actor: Ty Simpkins
+  - name: Happy Hogan
+    actor: Jon Favreau

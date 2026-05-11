@@ -1,0 +1,52 @@
+name: The Hunger Games
+description: >
+  In a dystopian future nation of Panem, sixteen-year-old Katniss Everdeen
+  volunteers to take her younger sister's place in the Hunger Games — a
+  nationally televised death match between twenty-four teenagers drawn from
+  twelve districts — and must survive against ruthless competitors while
+  navigating the political spectacle surrounding the Games.
+released: 2012-03-23
+rating: PG-13
+length: 2h22m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Hunger_Games_(film)
+imdb: https://www.imdb.com/title/tt1392170
+tmdb: https://www.themoviedb.org/movie/70160-the-hunger-games
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_hunger_games
+directors: Gary Ross
+screenplay:
+  - Gary Ross
+  - Suzanne Collins
+  - Billy Ray
+producers:
+  - Nina Jacobson
+  - Jon Kilik
+music: James Newton Howard
+cinematography: Tom Stern
+editors:
+  - Stephen Mirrione
+  - Juliette Welfling
+production:
+  - Lionsgate
+  - Color Force
+distributors: Lionsgate
+characters:
+  - name: Katniss Everdeen
+    actor: Jennifer Lawrence
+  - name: Peeta Mellark
+    actor: Josh Hutcherson
+  - name: Gale Hawthorne
+    actor: Liam Hemsworth
+  - name: Haymitch Abernathy
+    actor: Woody Harrelson
+  - name: Effie Trinket
+    actor: Elizabeth Banks
+  - name: Cinna
+    actor: Lenny Kravitz
+  - name: Caesar Flickerman
+    actor: Stanley Tucci
+  - name: President Coriolanus Snow
+    actor: Donald Sutherland

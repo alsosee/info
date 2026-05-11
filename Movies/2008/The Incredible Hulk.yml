@@ -1,0 +1,41 @@
+name: The Incredible Hulk
+description: >
+  A fugitive scientist on the run from a military general searches for a cure
+  to his monstrous alter ego while hiding from forces that want to weaponize
+  the Hulk.
+released: 2008-06-13
+rating: PG-13
+length: 1h52m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/The_Incredible_Hulk_(film)
+imdb: https://www.imdb.com/title/tt0800080
+tmdb: https://www.themoviedb.org/movie/1724-the-incredible-hulk
+rotten_tomatoes: https://www.rottentomatoes.com/m/incredible_hulk
+metacritic: https://www.metacritic.com/movie/the-incredible-hulk/
+directors: Louis Leterrier
+screenplay: Zak Penn
+music: Craig Armstrong
+cinematography: Peter Menzies Jr.
+producers: Kevin Feige
+production:
+  - Marvel Studios
+  - Valhalla Motion Pictures
+distributors: Universal Pictures
+characters:
+  - name: Bruce Banner / Hulk
+    actor: Edward Norton
+  - name: Betty Ross
+    actor: Liv Tyler
+  - name: Thaddeus "Thunderbolt" Ross
+    actor: William Hurt
+  - name: Emil Blonsky / Abomination
+    actor: Tim Roth
+  - name: Samuel Sterns
+    actor: Tim Blake Nelson
+  - name: Leonard
+    actor: Ty Burrell
+  - name: Tony Stark
+    actor: Robert Downey Jr.

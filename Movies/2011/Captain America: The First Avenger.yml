@@ -1,0 +1,48 @@
+name: "Captain America: The First Avenger"
+series: Captain America
+description: >
+  A frail young man is transformed into a super-soldier and leads the charge
+  against the Nazi-affiliated HYDRA organization during World War II.
+released: 2011-07-22
+rating: PG-13
+length: 2h4m
+genres:
+  - superhero
+  - action
+  - war
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger
+imdb: https://www.imdb.com/title/tt0458339
+tmdb: https://www.themoviedb.org/movie/1771-captain-america-the-first-avenger
+rotten_tomatoes: https://www.rottentomatoes.com/m/captain_america_the_first_avenger
+metacritic: https://www.metacritic.com/movie/captain-america-the-first-avenger/
+directors: Joe Johnston
+screenplay:
+  - Christopher Markus
+  - Stephen McFeely
+music: Alan Silvestri
+cinematography: Shelly Johnson
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Paramount Pictures
+characters:
+  - name: Steve Rogers / Captain America
+    actor: Chris Evans
+  - name: Peggy Carter
+    actor: Hayley Atwell
+  - name: James "Bucky" Barnes
+    actor: Sebastian Stan
+  - name: Johann Schmidt / Red Skull
+    actor: Hugo Weaving
+  - name: Howard Stark
+    actor: Dominic Cooper
+  - name: Dr. Abraham Erskine
+    actor: Stanley Tucci
+  - name: Col. Chester Phillips
+    actor: Tommy Lee Jones
+  - name: Arnim Zola
+    actor: Toby Jones
+  - name: Dum Dum Dugan
+    actor: Neal McDonough
+  - name: Nick Fury
+    actor: Samuel L. Jackson

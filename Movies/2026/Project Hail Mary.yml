@@ -1,0 +1,39 @@
+name: Project Hail Mary
+description: >
+  A middle-school science teacher awakens aboard an interstellar spacecraft with no memory 
+  of his identity or how he got there. He soon realizes he is the sole survivor of a 
+  desperate mission to save humanity from a solar-dimming microorganism that threatens Earth.
+based_on: Books/2021/Project Hail Mary
+released: 2026-03-20
+rating: PG-13
+length: 2h36m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Project_Hail_Mary_(film)
+imdb: https://www.imdb.com/title/tt12042730
+directors:
+  - Phil Lord
+  - Christopher Miller
+screenplay: Drew Goddard
+music: Daniel Pemberton
+cinematography: Greig Fraser
+production:
+  - Lord Miller Productions
+  - Pascal Pictures
+  - Open Invite Films
+  - Waypoint Entertainment
+distributors:
+  - Amazon MGM Studios
+  - Sony Pictures Releasing
+characters:
+  - name: Ryland Grace
+    actor: People/Ryan Gosling
+  - name: Eva Stratt
+    actor: People/Sandra Hüller
+  - name: Rocky
+    actor: James Ortiz
+  - name: Yao Li-Jie
+    actor: Ken Leung
+  - name: Olesya Ilyukhina
+    actor: Milana Vayntrub

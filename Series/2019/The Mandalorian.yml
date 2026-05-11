@@ -1,0 +1,111 @@
+name: The Mandalorian
+description: >
+  A lone Mandalorian bounty hunter navigates the outer reaches of the galaxy,
+  far from the authority of the New Republic, and finds himself protecting a
+  mysterious child hunted by remnants of the fallen Empire.
+released: 2019-11-12
+rating: TV-14
+genres:
+  - science fiction
+  - western
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Mandalorian_season_1
+imdb: https://www.imdb.com/title/tt8111088
+tmdb: https://www.themoviedb.org/tv/82856-the-mandalorian/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_mandalorian/s01
+network: Disney+
+trailer: https://www.youtube.com/watch?v=VaafPPXG3so
+creators: Jon Favreau
+composers: Ludwig Göransson
+characters:
+  - name: Din Djarin / The Mandalorian
+    actor: Pedro Pascal
+  - name: Grogu
+  - name: Greef Karga
+    actor: Carl Weathers
+  - name: The Client
+    actor: Werner Herzog
+  - name: Cara Dune
+    actor: Gina Carano
+  - name: Moff Gideon
+    actor: Giancarlo Esposito
+  - name: The Armorer
+    actor: Emily Swallow
+  - name: Kuiil
+    voice: Nick Nolte
+  - name: IG-11
+    voice: Taika Waititi
+episodes:
+  - name: "Chapter 1: The Mandalorian"
+    description: A lone Mandalorian bounty hunter accepts a mysterious commission to retrieve a fifty-year-old target on a distant desert planet.
+    released: 2019-11-12
+    length: 37m
+    imdb: https://www.imdb.com/title/tt9095424/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_1:_The_Mandalorian
+    directors: Dave Filoni
+    writers: Jon Favreau
+
+  - name: "Chapter 2: The Child"
+    description: Stranded when Jawas strip his ship, the Mandalorian must negotiate with the scavengers to recover the parts he needs.
+    released: 2019-11-15
+    length: 30m
+    imdb: https://www.imdb.com/title/tt9121530/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_2:_The_Child
+    directors: Rick Famuyiwa
+    writers: Jon Favreau
+
+  - name: "Chapter 3: The Sin"
+    description: The Mandalorian delivers his quarry and collects his payment, but finds himself conflicted about leaving the Child behind.
+    released: 2019-11-22
+    length: 34m
+    imdb: https://www.imdb.com/title/tt9121534/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_3:_The_Sin
+    directors: Deborah Chow
+    writers: Jon Favreau
+
+  - name: "Chapter 4: Sanctuary"
+    description: Seeking refuge on a remote forest planet, the Mandalorian and the Child are drawn into a conflict between local villagers and marauders.
+    released: 2019-11-29
+    length: 38m
+    imdb: https://www.imdb.com/title/tt9121536/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_4:_Sanctuary
+    directors: Bryce Dallas Howard
+    writers: Jon Favreau
+
+  - name: "Chapter 5: The Gunslinger"
+    description: After a tense dogfight, the Mandalorian lands on Tatooine for repairs and teams up with a rookie bounty hunter to track a dangerous target.
+    released: 2019-12-06
+    length: 32m
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_5:_The_Gunslinger
+    directors: Dave Filoni
+    writers: Dave Filoni
+
+  - name: "Chapter 6: The Prisoner"
+    description: The Mandalorian joins a mercenary crew hired to break a prisoner out of a New Republic transport ship.
+    released: 2019-12-13
+    length: 41m
+    imdb: https://www.imdb.com/title/tt9121542/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_6:_The_Prisoner
+    directors: Rick Famuyiwa
+    writers:
+      - Christopher Yost
+      - Rick Famuyiwa
+
+  - name: "Chapter 7: The Reckoning"
+    description: An old associate offers the Mandalorian a deal that could clear his name with the Bounty Hunters' Guild.
+    released: 2019-12-18
+    length: 37m
+    imdb: https://www.imdb.com/title/tt9121544/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_7:_The_Reckoning
+    directors: Deborah Chow
+    writers: Jon Favreau
+
+  - name: "Chapter 8: Redemption"
+    description: The Mandalorian and his allies make a desperate stand against overwhelming Imperial forces.
+    released: 2019-12-27
+    length: 45m
+    imdb: https://www.imdb.com/title/tt9121546/
+    wikipedia: https://en.wikipedia.org/wiki/Chapter_8:_Redemption
+    directors: Taika Waititi
+    writers: Jon Favreau

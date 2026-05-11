@@ -1,0 +1,53 @@
+name: 'The Hunger Games: Catching Fire'
+description: >
+  After winning the 74th Hunger Games, Katniss and Peeta are forced onto a
+  Victory Tour through Panem's restless districts, where signs of rebellion
+  are growing. President Snow then compels them back into the arena for the
+  lethal 75th Quarter Quell, pitting past victors against each other.
+previous: Movies/2012/The Hunger Games
+released: 2013-11-22
+rating: PG-13
+length: 2h26m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Hunger_Games:_Catching_Fire
+imdb: https://www.imdb.com/title/tt1951264
+tmdb: https://www.themoviedb.org/movie/101299-the-hunger-games-catching-fire
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_hunger_games_catching_fire
+directors: Francis Lawrence
+screenplay:
+  - Simon Beaufoy
+  - Michael deBruyn
+producers:
+  - Nina Jacobson
+  - Jon Kilik
+music: James Newton Howard
+cinematography: Jo Willems
+editors: Alan Edward Bell
+production:
+  - Lionsgate
+  - Color Force
+distributors: Lionsgate
+characters:
+  - name: Katniss Everdeen
+    actor: Jennifer Lawrence
+  - name: Peeta Mellark
+    actor: Josh Hutcherson
+  - name: Gale Hawthorne
+    actor: Liam Hemsworth
+  - name: Haymitch Abernathy
+    actor: Woody Harrelson
+  - name: Effie Trinket
+    actor: Elizabeth Banks
+  - name: Cinna
+    actor: Lenny Kravitz
+  - name: Plutarch Heavensbee
+    actor: Philip Seymour Hoffman
+  - name: Beetee
+    actor: Jeffrey Wright
+  - name: Caesar Flickerman
+    actor: Stanley Tucci
+  - name: President Snow
+    actor: Donald Sutherland

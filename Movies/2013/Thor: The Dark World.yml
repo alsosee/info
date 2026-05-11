@@ -1,0 +1,50 @@
+name: "Thor: The Dark World"
+series: Thor
+previous: Movies/2011/Thor
+description: >
+  Thor must stop the Dark Elf Malekith from using an ancient weapon called
+  the Aether to plunge the universe into eternal darkness.
+released: 2013-11-08
+rating: PG-13
+length: 1h52m
+genres:
+  - superhero
+  - fantasy
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/Thor:_The_Dark_World
+imdb: https://www.imdb.com/title/tt1981115
+tmdb: https://www.themoviedb.org/movie/76338-thor-the-dark-world
+rotten_tomatoes: https://www.rottentomatoes.com/m/thor_the_dark_world
+metacritic: https://www.metacritic.com/movie/thor-the-dark-world/
+directors: Alan Taylor
+screenplay:
+  - Christopher Yost
+  - Christopher Markus
+  - Stephen McFeely
+music: Brian Tyler
+cinematography: Kramer Morgenthau
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Thor
+    actor: Chris Hemsworth
+  - name: Loki
+    actor: Tom Hiddleston
+  - name: Jane Foster
+    actor: Natalie Portman
+  - name: Odin
+    actor: Anthony Hopkins
+  - name: Frigga
+    actor: Rene Russo
+  - name: Malekith
+    actor: Christopher Eccleston
+  - name: Heimdall
+    actor: Idris Elba
+  - name: Lady Sif
+    actor: Jaimie Alexander
+  - name: Erik Selvig
+    actor: Stellan Skarsgård
+  - name: Darcy Lewis
+    actor: Kat Dennings

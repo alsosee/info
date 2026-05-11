@@ -1,0 +1,44 @@
+name: Doctor Strange
+series: Doctor Strange
+description: >
+  A brilliant neurosurgeon's life is shattered by an accident, leading him
+  to the mystical arts and his destiny as Earth's foremost protector against
+  supernatural threats.
+released: 2016-11-04
+rating: PG-13
+length: 1h55m
+genres:
+  - superhero
+  - fantasy
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/Doctor_Strange_(2016_film)
+imdb: https://www.imdb.com/title/tt1211837
+tmdb: https://www.themoviedb.org/movie/284052-doctor-strange
+rotten_tomatoes: https://www.rottentomatoes.com/m/doctor_strange_2016
+metacritic: https://www.metacritic.com/movie/doctor-strange/
+directors: Scott Derrickson
+screenplay:
+  - Jon Spaihts
+  - Scott Derrickson
+  - C. Robert Cargill
+music: Michael Giacchino
+cinematography: Ben Davis
+producers: Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Stephen Strange / Doctor Strange
+    actor: Benedict Cumberbatch
+  - name: Christine Palmer
+    actor: Rachel McAdams
+  - name: Karl Mordo
+    actor: Chiwetel Ejiofor
+  - name: Wong
+    actor: Benedict Wong
+  - name: The Ancient One
+    actor: Tilda Swinton
+  - name: Kaecilius
+    actor: Mads Mikkelsen
+  - name: Nicodemus West
+    actor: Michael Stuhlbarg

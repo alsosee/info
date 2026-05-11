@@ -1,0 +1,54 @@
+name: "Spider-Man: Homecoming"
+series: Spider-Man
+description: >
+  Eager to prove himself, teenage Peter Parker balances high school life and
+  a growing threat from a mysterious weapons dealer known as the Vulture.
+released: 2017-07-07
+rating: PG-13
+length: 2h13m
+genres:
+  - superhero
+  - action
+  - comedy
+  - coming-of-age
+wikipedia: https://en.wikipedia.org/wiki/Spider-Man:_Homecoming
+imdb: https://www.imdb.com/title/tt2250912
+tmdb: https://www.themoviedb.org/movie/315635-spider-man-homecoming
+rotten_tomatoes: https://www.rottentomatoes.com/m/spider_man_homecoming
+metacritic: https://www.metacritic.com/movie/spider-man-homecoming/
+directors: Jon Watts
+screenplay:
+  - Jonathan Goldstein
+  - John Francis Daley
+  - Jon Watts
+  - Christopher Ford
+  - Chris McKenna
+  - Erik Sommers
+music: Michael Giacchino
+cinematography: Salvatore Totino
+producers: Kevin Feige
+production:
+  - Marvel Studios
+  - Columbia Pictures
+distributors: Columbia Pictures
+characters:
+  - name: Peter Parker / Spider-Man
+    actor: Tom Holland
+  - name: Tony Stark / Iron Man
+    actor: Robert Downey Jr.
+  - name: Adrian Toomes / Vulture
+    actor: Michael Keaton
+  - name: Ned Leeds
+    actor: Jacob Batalon
+  - name: Michelle Jones (MJ)
+    actor: Zendaya
+  - name: Happy Hogan
+    actor: Jon Favreau
+  - name: May Parker
+    actor: Marisa Tomei
+  - name: Liz Toomes
+    actor: Laura Harrier
+  - name: Aaron Davis
+    actor: Donald Glover
+  - name: Mac Gargan
+    actor: Michael Mando

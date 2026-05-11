@@ -1,0 +1,23 @@
+name: Slay the Spire
+description: >
+  A roguelike deck-building game in which the player ascends a procedurally
+  generated spire across multiple floors as one of four characters, battling
+  enemies and bosses using a card-based combat system that requires building
+  an effective deck from cards earned through play. Considered the game that
+  popularized the roguelike deck-building genre.
+released: 2019-01-23
+genres:
+  - roguelike
+  - deck-building
+wikipedia: https://en.wikipedia.org/wiki/Slay_the_Spire
+metacritic: https://www.metacritic.com/game/slay-the-spire/
+fandom: https://slay-the-spire.fandom.com/wiki/Slay_the_Spire_Wiki
+website: https://www.megacrit.com
+developers: Mega Crit
+publishers:
+  - Mega Crit
+  - Humble Bundle
+designers:
+  - Anthony Giovannetti
+  - Casey Yano
+composers: Clark Aboud

@@ -1,0 +1,104 @@
+name: A Knight of the Seven Kingdoms
+description: >
+  A prequel to Game of Thrones, set roughly 90 years before the events of A
+  Song of Ice and Fire. The series follows the adventures of Ser Duncan the
+  Tall, a lowborn hedge knight, and his young squire, Egg.
+released: 2026-01-18
+rating: TV-MA
+genres:
+  - fantasy
+  - drama
+network: Companies/HBO
+wikipedia: https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(TV_series)
+imdb: https://www.imdb.com/title/tt27491180
+tmdb: https://www.themoviedb.org/tv/224792-a-knight-of-the-seven-kingdoms
+creators:
+  - Ira Parker
+  - George R. R. Martin
+directors:
+  - Owen Harris
+  - Sarah Adina Smith
+writers:
+  - Ira Parker
+  - Aziza Barnes
+  - Hiram Martinez
+  - Annie Julia Wyman
+  - Ti Mikkel
+characters:
+  - name: Ser Duncan "Dunk" the Tall
+    actor: Peter Claffey
+  - name: Prince Aegon "Egg" Targaryen
+    actor: Dexter Sol Ansell
+  - name: Ser Lyonel Baratheon
+    actor: Daniel Ings
+  - name: Raymun Fossoway
+    actor: Shaun Thomas
+  - name: Tanselle
+    actor: Tanzyn Crawford
+  - name: Ser Arlan of Pennytree
+    actor: Danny Webb
+  - name: Prince Daeron "The Drunken" Targaryen
+    actor: Henry Ashton
+  - name: Prince Baelor "Breakspear" Targaryen
+    actor: Bertie Carvel
+  - name: Prince Maekar "The Anvil" Targaryen
+    actor: Sam Spruell
+  - name: Prince Aerion "Brightflame" Targaryen
+    actor: Finn Bennett
+episodes:
+  - name: The Hedge Knight
+    description: >
+      After the death of his mentor, a young hedge knight named Dunk travels
+      to a tournament at Ashford Meadow, where he encounters a mysterious boy
+      named Egg who becomes his squire.
+    released: 2026-01-18
+    directors: Owen Harris
+    writers: Ira Parker
+  - name: Hard Salt Beef
+    description: >
+      Dunk arrives at the Ashford tournament and seeks to enter the lists,
+      while navigating the complexities of the royal family's presence.
+    released: 2026-01-25
+    directors: Owen Harris
+    writers:
+      - Aziza Barnes
+      - Ira Parker
+  - name: The Squire
+    description: >
+      As the tournament begins, Dunk finds himself in a confrontation with a
+      royal prince to protect an innocent puppeteer.
+    released: 2026-02-01
+    directors: Sarah Adina Smith
+    writers:
+      - Hiram Martinez
+      - Annie Julia Wyman
+      - Ira Parker
+  - name: "Seven"
+    description: >
+      Facing a dire legal challenge after his confrontation with Prince
+      Aerion, Dunk must find six allies to stand with him in a trial by seven.
+    released: 2026-02-08
+    directors: Sarah Adina Smith
+    writers:
+      - Aziza Barnes
+      - Annie Julia Wyman
+      - Ira Parker
+  - name: In the Name of the Mother
+    description: >
+      The trial of seven commences, determining the fate of Dunk and his
+      companions in a high-stakes battle.
+    released: 2026-02-15
+    directors: Owen Harris
+    writers:
+      - Hiram Martinez
+      - Ti Mikkel
+      - Ira Parker
+  - name: The Morrow
+    description: >
+      In the aftermath of the tournament's tragic conclusion, Dunk and Egg
+      make a decision about their future together as they depart Ashford.
+    released: 2026-02-22
+    directors: Sarah Adina Smith
+    writers:
+      - Ira Parker
+      - Ti Mikkel
