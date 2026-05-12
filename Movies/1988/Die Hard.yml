@@ -1,0 +1,51 @@
+name: Die Hard
+description: >
+  A New York cop flies to Los Angeles on Christmas Eve to reconcile with his estranged wife,
+  only to find himself the lone defender when a group of armed terrorists seizes the Nakatomi
+  Plaza skyscraper and takes everyone hostage.
+based_on: Books/1979/Nothing Lasts Forever
+released: 1988-07-15
+rating: R
+length: 2h12m
+genres:
+  - action
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Die_Hard
+imdb: https://www.imdb.com/title/tt0095016
+tmdb: https://www.themoviedb.org/movie/562-die-hard
+directors: John McTiernan
+screenplay:
+  - Jeb Stuart
+  - Steven E. de Souza
+producers:
+  - Lawrence Gordon
+  - Joel Silver
+music: Michael Kamen
+cinematography: Jan de Bont
+editors:
+  - Frank J. Urioste
+  - John F. Link
+production:
+  - 20th Century Fox
+  - Gordon Company
+  - Silver Pictures
+distributors: 20th Century Fox
+characters:
+  - name: John McClane
+    actor: Bruce Willis
+  - name: Hans Gruber
+    actor: Alan Rickman
+  - name: Holly Gennaro-McClane
+    actor: Bonnie Bedelia
+  - name: Al Powell
+    actor: Reginald VelJohnson
+  - name: Karl
+    actor: Alexander Godunov
+  - name: Dwayne T. Robinson
+    actor: Paul Gleason
+  - name: Harry Ellis
+    actor: Hart Bochner
+  - name: Richard Thornburg
+    actor: William Atherton
+  - name: Argyle
+    actor: De'voreaux White

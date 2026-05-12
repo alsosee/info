@@ -1,0 +1,44 @@
+name: "First Blood"
+description: >
+  John Rambo, a former Green Beret and Vietnam War veteran, is harassed and arrested for vagrancy by a small-town sheriff.
+  The police's brutality triggers his PTSD, leading him to escape into the mountains and wage a one-man war against his pursuers.
+based_on: Books/1972/First Blood
+released: 1982-10-22
+rating: R
+length: 93m
+genres:
+  - action
+  - adventure
+  - thriller
+  - war
+wikipedia: https://en.wikipedia.org/wiki/First_Blood
+imdb: https://www.imdb.com/title/tt0083944
+tmdb: https://www.themoviedb.org/movie/1368-first-blood
+directors: Ted Kotcheff
+producers: Buzz Feitshans
+screenplay:
+  - Michael Kozoll
+  - William Sackheim
+  - Sylvester Stallone
+music: Jerry Goldsmith
+cinematography: Andrew Laszlo
+editors: Joan Chapman
+production: Carolco Pictures
+distributors: Orion Pictures
+characters:
+  - name: John J. Rambo
+    actor: Sylvester Stallone
+  - name: Colonel Samuel "Sam" Trautman
+    actor: Richard Crenna
+  - name: Sheriff William "Will" Teasle
+    actor: Brian Dennehy
+  - name: Captain Dave Kern
+    actor: Bill McKinney
+  - name: Deputy Sergeant Arthur "Art" Galt
+    actor: Jack Starrett
+  - name: Deputy Balford
+    actor: Michael Talbott
+  - name: Deputy Ward
+    actor: Chris Mulkey
+  - name: Deputy Mitch Rogers
+    actor: David Caruso

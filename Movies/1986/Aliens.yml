@@ -1,0 +1,44 @@
+name: Aliens
+description: >
+  Ripley, the sole survivor of the Nostromo's deadly encounter with a hostile alien
+  organism, returns to the moon LV-426 alongside a unit of Colonial Marines after a
+  terraforming colony there loses all contact with Earth.
+released: 1986-07-18
+rating: R
+length: 2h17m
+genres:
+  - science fiction
+  - action
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Aliens_(film)
+imdb: https://www.imdb.com/title/tt0090605
+tmdb: https://www.themoviedb.org/movie/679-aliens
+rotten_tomatoes: https://www.rottentomatoes.com/m/1000617-aliens
+directors: James Cameron
+producers:
+  - Gale Anne Hurd
+screenplay: James Cameron
+music: James Horner
+cinematography: Adrian Biddle
+editors: Ray Lovejoy
+production: Brandywine Productions
+distributors: 20th Century Fox
+characters:
+  - name: Ellen Ripley
+    actor: Sigourney Weaver
+  - name: Dwayne Hicks
+    actor: Michael Biehn
+  - name: Carter J. Burke
+    actor: Paul Reiser
+  - name: Bishop
+    actor: Lance Henriksen
+  - name: Rebecca "Newt" Jorden
+    actor: Carrie Henn
+  - name: Private Hudson
+    actor: Bill Paxton
+  - name: Lieutenant Gorman
+    actor: William Hope
+  - name: Private Vasquez
+    actor: Jenette Goldstein
+  - name: Sergeant Apone
+    actor: Al Matthews

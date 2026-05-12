@@ -1,0 +1,51 @@
+name: The Dark Knight
+description: >
+  Batman, Lt. Jim Gordon, and District Attorney Harvey Dent join forces to
+  combat organized crime in Gotham City, but their efforts are disrupted by a
+  cunning criminal mastermind known as the Joker.
+released: 2008-07-18
+rating: PG-13
+length: 2h32m
+genres:
+  - superhero
+  - action
+  - crime
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/The_Dark_Knight
+imdb: https://www.imdb.com/title/tt0468569
+tmdb: https://www.themoviedb.org/movie/155-the-dark-knight
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_dark_knight
+metacritic: https://www.metacritic.com/movie/the-dark-knight/
+directors: Christopher Nolan
+screenplay:
+  - Jonathan Nolan
+  - Christopher Nolan
+music:
+  - Hans Zimmer
+  - James Newton Howard
+cinematography: Wally Pfister
+editors: Lee Smith
+producers:
+  - Emma Thomas
+  - Charles Roven
+  - Christopher Nolan
+production:
+  - Companies/Warner Bros. Pictures
+  - Legendary Pictures
+  - Syncopy
+distributors: Companies/Warner Bros. Pictures
+characters:
+  - name: Bruce Wayne / Batman
+    actor: Christian Bale
+  - name: The Joker
+    actor: Heath Ledger
+  - name: Harvey Dent / Two-Face
+    actor: Aaron Eckhart
+  - name: Lt. James Gordon
+    actor: Gary Oldman
+  - name: Alfred Pennyworth
+    actor: Michael Caine
+  - name: Rachel Dawes
+    actor: Maggie Gyllenhaal
+  - name: Lucius Fox
+    actor: Morgan Freeman

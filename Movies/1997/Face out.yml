@@ -1,0 +1,51 @@
+name: "Face/Off"
+description: >
+  An FBI agent and a terrorist undergo experimental face-transplant surgery, leaving each man stranded in the other's identity.
+released: 1997-06-27
+rating: R
+length: 139m
+genres:
+  - action
+  - crime
+  - sci-fi
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Face/Off
+imdb: https://www.imdb.com/title/tt0119094
+tmdb: https://www.themoviedb.org/movie/754-face-off
+rotten_tomatoes: https://www.rottentomatoes.com/m/faceoff
+directors: John Woo
+screenplay:
+  - Mike Werb
+  - Michael Colleary
+producers:
+  - David Permut
+  - Barrie M. Osborne
+  - Terence Chang
+music: John Powell
+cinematography: Oliver Wood
+editors:
+  - Christian Wagner
+  - Steven Kemper
+production: Permut Presentations
+distributors:
+  - Paramount Pictures
+  - Buena Vista International
+characters:
+  - name: Sean Archer
+    actor: John Travolta
+  - name: Castor Troy
+    actor: Nicolas Cage
+  - name: Eve Archer
+    actor: Joan Allen
+  - name: Sasha Hassler
+    actor: Gina Gershon
+  - name: Pollux Troy
+    actor: Alessandro Nivola
+  - name: Jamie Archer
+    actor: Dominique Swain
+  - name: Dietrich Hassler
+    actor: Nick Cassavetes
+  - name: Victor Lazarro
+    actor: Harve Presnell
+  - name: Dr. Malcolm Walsh
+    actor: Colm Feore

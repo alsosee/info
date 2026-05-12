@@ -1,0 +1,40 @@
+name: Project A
+description: >
+  In early 1900s Hong Kong, Coast Guard sergeant Dragon Ma joins forces with a
+  police inspector and an old friend to battle a ruthless pirate fleet terrorizing
+  the colony's coastal waters.
+released: 1983-12-22
+length: 1h45m
+genres:
+  - action
+  - comedy
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Project_A_(film)
+imdb: https://www.imdb.com/title/tt0085127
+tmdb: https://www.themoviedb.org/movie/21519-a
+directors: Jackie Chan
+producers:
+  - Raymond Chow
+  - Leonard Ho
+  - Edward Tang
+screenplay:
+  - Jackie Chan
+  - Edward Tang
+music: Michael Lai
+cinematography: Cheung Yiu Tsou
+editors: Peter Cheung
+production: Golden Harvest
+distributors: Golden Harvest
+characters:
+  - name: Sergeant Dragon Ma Yue Lung
+    actor: Jackie Chan
+  - name: Zhuo Yifei (Fats)
+    actor: Sammo Hung
+  - name: Inspector Hong Tin-tzu
+    actor: Yuen Biao
+  - name: Pirate Chief Lor Sam Pau
+    actor: Dick Wei
+  - name: Mr. Lee Cho-kou
+    actor: Lee Hoi-san
+  - name: Big Mouth
+    actor: Mars

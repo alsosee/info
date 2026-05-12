@@ -10,7 +10,7 @@ genres:
   - drama
   - fantasy
   - science fiction
-network: Companies/Netflix
+network: Netflix
 website: https://donotanswer.co/
 wikipedia: https://en.wikipedia.org/wiki/3_Body_Problem_(TV_series)
 imdb: https://www.imdb.com/title/tt13016388
@@ -41,7 +41,7 @@ characters:
   - name: Vera Ye
     actor: Vedette Lim
   - name: Clarence "Da" Shi
-    actor: People/Benedict Wong
+    actor: Benedict Wong
   - name: Thomas Wade
     actor: Liam Cunningham
   - name: Ye Wenjie (young)

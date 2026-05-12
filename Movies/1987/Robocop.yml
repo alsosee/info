@@ -1,0 +1,37 @@
+name: RoboCop
+description: >
+  In a crime-ridden near-future Detroit, a murdered police officer is resurrected as a
+  powerful cyborg law enforcer by the megacorporation Omni Consumer Products.
+released: 1987-07-17
+rating: R
+length: 1h42m
+genres:
+  - Action
+  - Crime
+  - Science Fiction
+wikipedia: https://en.wikipedia.org/wiki/RoboCop
+imdb: https://www.imdb.com/title/tt0093870/
+tmdb: https://www.themoviedb.org/movie/5548-robocop
+directors: Paul Verhoeven
+screenplay:
+  - Edward Neumeier
+  - Michael Miner
+producers: Arne Schmidt
+music: Basil Poledouris
+cinematography: Jost Vacano
+editors: Frank J. Urioste
+production: Orion Pictures
+distributors: Orion Pictures
+characters:
+  - name: Alex Murphy / RoboCop
+    actor: Peter Weller
+  - name: Anne Lewis
+    actor: Nancy Allen
+  - name: The Old Man
+    actor: Dan O'Herlihy
+  - name: Dick Jones
+    actor: Ronny Cox
+  - name: Clarence Boddicker
+    actor: Kurtwood Smith
+  - name: Bob Morton
+    actor: Miguel Ferrer

@@ -1,0 +1,38 @@
+name: Mad Max
+description: >
+  A highway patrolman in near-future dystopian Australia is pushed to his breaking point
+  as a vicious motorcycle gang terrorizes the outback roads and targets those he loves.
+released: 1979-04-12
+rating: R
+length: 1h33m
+genres:
+  - action
+  - adventure
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Mad_Max_(film)
+imdb: https://www.imdb.com/title/tt0079501
+tmdb: https://www.themoviedb.org/movie/9659-mad-max
+rotten_tomatoes: https://www.rottentomatoes.com/m/mad_max
+directors: George Miller
+screenplay:
+  - James McCausland
+  - George Miller
+producers:
+  - Byron Kennedy
+music: Brian May
+cinematography: David Eggby
+production: Kennedy Miller Productions
+distributors: Roadshow Film Distributors
+characters:
+  - name: Max Rockatansky
+    actor: Mel Gibson
+  - name: Jessie Rockatansky
+    actor: Joanne Samuel
+  - name: Toecutter
+    actor: Hugh Keays-Byrne
+  - name: Jim Goose
+    actor: Steve Bisley
+  - name: Johnny the Boy
+    actor: Tim Burns
+  - name: Fifi Macaffee
+    actor: Roger Ward

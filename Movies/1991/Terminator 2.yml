@@ -1,0 +1,47 @@
+name: "Terminator 2: Judgment Day"
+description: >
+  A reprogrammed T-800 Terminator is sent back in time to protect a teenage John Connor
+  from the T-1000, an advanced liquid-metal assassin, while Sarah Connor fights to prevent
+  Skynet's creation and the nuclear holocaust known as Judgment Day.
+previous: Movies/1984/Terminator
+released: 1991-07-03
+rating: R
+length: 2h17m
+genres:
+  - Action
+  - Science Fiction
+  - Thriller
+wikipedia: https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day
+imdb: https://www.imdb.com/title/tt0103064/
+tmdb: https://www.themoviedb.org/movie/280-terminator-2-judgment-day
+rotten_tomatoes: https://www.rottentomatoes.com/m/terminator_2_judgment_day
+metacritic: https://www.metacritic.com/movie/terminator-2-judgment-day/
+directors: James Cameron
+screenplay:
+  - James Cameron
+  - William Wisher
+music: Brad Fiedel
+cinematography: Adam Greenberg
+editors:
+  - Conrad Buff IV
+  - Mark Goldblatt
+  - Richard A. Harris
+production:
+  - Carolco Pictures
+  - Pacific Western Productions
+  - Lightstorm Entertainment
+  - Le Studio Canal+
+distributors: TriStar Pictures
+characters:
+  - name: T-800
+    actor: Arnold Schwarzenegger
+  - name: Sarah Connor
+    actor: Linda Hamilton
+  - name: T-1000
+    actor: Robert Patrick
+  - name: John Connor
+    actor: Edward Furlong
+  - name: Miles Dyson
+    actor: Joe Morton
+  - name: Dr. Peter Silberman
+    actor: Earl Boen

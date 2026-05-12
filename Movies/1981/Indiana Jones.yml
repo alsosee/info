@@ -1,0 +1,35 @@
+name: Indiana Jones and the Raiders of the Lost Ark
+description: >
+  In 1936, archaeologist Indiana Jones races against Nazi forces to recover the
+  legendary Ark of the Covenant before it can be used as a weapon of conquest.
+released: 1981-06-12
+rating: PG
+length: 1h55m
+genres:
+  - Action
+  - Adventure
+wikipedia: https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark
+imdb: https://www.imdb.com/title/tt0082971/
+tmdb: https://www.themoviedb.org/movie/85-raiders-of-the-lost-ark
+rotten_tomatoes: https://www.rottentomatoes.com/m/raiders_of_the_lost_ark
+directors: Steven Spielberg
+screenplay: Lawrence Kasdan
+producers: Frank Marshall
+music: John Williams
+cinematography: Douglas Slocombe
+editors: Michael Kahn
+production: Lucasfilm Ltd.
+distributors: Paramount Pictures
+characters:
+  - name: Indiana Jones
+    actor: Harrison Ford
+  - name: Marion Ravenwood
+    actor: Karen Allen
+  - name: René Belloq
+    actor: Paul Freeman
+  - name: Arnold Toht
+    actor: Ronald Lacey
+  - name: Sallah
+    actor: John Rhys-Davies
+  - name: Marcus Brody
+    actor: Denholm Elliott

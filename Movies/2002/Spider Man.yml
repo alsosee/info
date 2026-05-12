@@ -1,0 +1,46 @@
+name: Spider-Man
+description: >
+  After being bitten by a genetically enhanced spider, shy high school student Peter Parker
+  gains extraordinary spider-like abilities and becomes the masked superhero Spider-Man,
+  while confronting a powerful new villain known as the Green Goblin.
+released: 2002-05-03
+rating: PG-13
+length: 2h1m
+genres:
+  - Action
+  - Adventure
+  - Science Fiction
+wikipedia: https://en.wikipedia.org/wiki/Spider-Man_(2002_film)
+imdb: https://www.imdb.com/title/tt0145487/
+tmdb: https://www.themoviedb.org/movie/557-spider-man
+directors: Sam Raimi
+screenplay: David Koepp
+producers:
+  - Laura Ziskin
+  - Ian Bryce
+music: Danny Elfman
+cinematography: Don Burgess
+editors:
+  - Bob Murawski
+  - Arthur Coburn
+production:
+  - Columbia Pictures
+  - Marvel Enterprises
+distributors: Sony Pictures Releasing
+characters:
+  - name: Peter Parker / Spider-Man
+    actor: Tobey Maguire
+  - name: Norman Osborn / Green Goblin
+    actor: Willem Dafoe
+  - name: Mary Jane Watson
+    actor: Kirsten Dunst
+  - name: Harry Osborn
+    actor: James Franco
+  - name: Ben Parker
+    actor: Cliff Robertson
+  - name: May Parker
+    actor: Rosemary Harris
+  - name: J. Jonah Jameson
+    actor: J.K. Simmons
+  - name: Flash Thompson
+    actor: Joe Manganiello

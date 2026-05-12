@@ -1,0 +1,37 @@
+name: "The Terminator"
+description: >
+  A cyborg assassin travels back in time from 2029 to 1984 to kill Sarah Connor,
+  whose unborn son is destined to lead humanity's resistance against machines.
+released: 1984-10-26
+rating: R
+length: 1h47m
+genres:
+  - sci-fi
+  - action
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/The_Terminator
+imdb: https://www.imdb.com/title/tt0088247
+tmdb: https://www.themoviedb.org/movie/218-the-terminator
+directors: James Cameron
+screenplay:
+  - James Cameron
+  - Gale Anne Hurd
+producers: Gale Anne Hurd
+music: Brad Fiedel
+cinematography: Adam Greenberg
+editors: Mark Goldblatt
+production:
+  - Hemdale Film Corporation
+  - Pacific Western Productions
+distributors: Orion Pictures
+characters:
+  - name: The Terminator
+    actor: Arnold Schwarzenegger
+  - name: Kyle Reese
+    actor: Michael Biehn
+  - name: Sarah Connor
+    actor: Linda Hamilton
+  - name: Ed Traxler
+    actor: Paul Winfield
+  - name: Hal Vukovich
+    actor: Lance Henriksen

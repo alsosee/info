@@ -1,0 +1,49 @@
+name: Transformers
+description: >
+  A teenager becomes entangled in a war between heroic Autobots and evil Decepticons—shape-shifting
+  alien robots—as both factions seek a powerful artifact called the AllSpark to determine the fate
+  of their war-ravaged home planet.
+released: 2007-07-03
+rating: PG-13
+length: 2h23m
+genres:
+  - Action
+  - Adventure
+  - Science Fiction
+wikipedia: https://en.wikipedia.org/wiki/Transformers_(film)
+imdb: https://www.imdb.com/title/tt0418279/
+tmdb: https://www.themoviedb.org/movie/1858-transformers
+directors: Michael Bay
+screenplay:
+  - Roberto Orci
+  - Alex Kurtzman
+producers:
+  - Lorenzo di Bonaventura
+  - Tom DeSanto
+  - Don Murphy
+  - Ian Bryce
+music: Steve Jablonsky
+cinematography: Mitchell Amundsen
+editors:
+  - Paul Rubell
+  - Glen Scantlebury
+  - Thomas A. Muldoon
+production:
+  - di Bonaventura Pictures
+  - Hasbro
+distributors: Paramount Pictures
+characters:
+  - name: Sam Witwicky
+    actor: Shia LaBeouf
+  - name: Mikaela Banes
+    actor: Megan Fox
+  - name: Captain William Lennox
+    actor: Josh Duhamel
+  - name: Sergeant Robert Epps
+    actor: Tyrese Gibson
+  - name: John Keller
+    actor: Jon Voight
+  - name: Optimus Prime
+    voice: Peter Cullen
+  - name: Megatron
+    voice: Hugo Weaving

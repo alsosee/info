@@ -1,9 +1,17 @@
 name: 'Silent Hill 4: The Room'
+description: Survival horror in which Henry Townshend is supernaturally sealed inside his South Ashfield apartment and must escape through sinister otherworlds while hunted by the undead killer Walter Sullivan.
 genres:
   - Survival horror
   - Psychological horror
   - Action-adventure
 previous: Games/Video/2003/Silent Hill 3
+released: 2004-06-17
+wikipedia: https://en.wikipedia.org/wiki/Silent_Hill_4:_The_Room
+imdb: https://www.imdb.com/title/tt0386788/
+metacritic: https://www.metacritic.com/game/silent-hill-4-the-room
+fandom: https://silenthill.fandom.com/wiki/Silent_Hill_4:_The_Room
+gog: https://www.gog.com/en/game/silent_hill_4_the_room
+spotify: https://open.spotify.com/album/1WXlLnSpVnaFWQj0VdRgYT
 developers: Team Silent
 publishers: Konami
 directors: Suguru Murakoshi
@@ -14,10 +22,6 @@ programmers: Kosuke Iwakura
 artists: Masashi Tsuboyama
 writers: Suguru Murakoshi
 composers: Akira Yamaoka
-released: 2004-06-17
-imdb: https://www.imdb.com/title/tt0386788/
-gog: https://www.gog.com/en/game/silent_hill_4_the_room
-spotify: https://open.spotify.com/album/1WXlLnSpVnaFWQj0VdRgYT
 characters:
   - name: Henry Townshend
     voice: Eric Bossick

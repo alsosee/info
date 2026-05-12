@@ -1,0 +1,37 @@
+name: Police Story
+description: >
+  A Hong Kong police detective takes down a powerful drug lord, then must clear his name after being framed for murder while protecting the criminal's secretary as a key witness.
+released: 1985-12-14
+rating: PG-13
+length: 100m
+genres:
+  - Action
+  - Comedy
+  - Crime
+wikipedia: https://en.wikipedia.org/wiki/Police_Story_(1985_film)
+imdb: https://www.imdb.com/title/tt0089374
+tmdb: https://www.themoviedb.org/movie/9056
+directors: Jackie Chan
+screenplay:
+  - Jackie Chan
+  - Edward Tang
+producers: Leonard Ho
+cinematography: Cheung Yiu Cho
+music:
+  - Michael Lai
+  - Tang Siu Lam
+  - Kevin Bassinson
+editors: Peter Cheung
+production: Golden Way Films Ltd.
+distributors: Golden Harvest
+characters:
+  - name: Sergeant "Kevin" Chan Ka-Kui
+    actor: Jackie Chan
+  - name: Salina Fong
+    actor: Brigitte Lin
+  - name: May
+    actor: Maggie Cheung
+  - name: Chu Tao
+    actor: Chor Yuen
+  - name: Inspector "Uncle" Bill Chou
+    actor: Bill Tung Biu

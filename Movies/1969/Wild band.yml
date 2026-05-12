@@ -1,0 +1,46 @@
+name: The Wild Bunch
+description: >
+  An aging outlaw gang on the Texas-Mexico border attempts one last heist in 1913,
+  selling stolen Army rifles to a rogue Mexican general as the era of the American
+  West draws to a close.
+released: 1969-06-18
+rating: R
+length: 2h25m
+genres:
+  - Western
+  - Adventure
+  - Action
+wikipedia: https://en.wikipedia.org/wiki/The_Wild_Bunch
+imdb: https://www.imdb.com/title/tt0065214/
+tmdb: https://www.themoviedb.org/movie/576-the-wild-bunch
+directors: Sam Peckinpah
+screenplay:
+  - Walon Green
+  - Sam Peckinpah
+cinematography: Lucien Ballard
+music: Jerry Fielding
+editors: Louis Lombardo
+producers: Phil Feldman
+production: Companies/Warner Bros. Pictures
+distributors: Companies/Warner Bros. Pictures
+characters:
+  - name: Pike Bishop
+    actor: William Holden
+  - name: Dutch Engstrom
+    actor: Ernest Borgnine
+  - name: Deke Thornton
+    actor: Robert Ryan
+  - name: Freddie Sykes
+    actor: Edmond O'Brien
+  - name: Lyle Gorch
+    actor: Warren Oates
+  - name: Angel
+    actor: Jaime Sánchez
+  - name: Tector Gorch
+    actor: Ben Johnson
+  - name: Gen. Mapache
+    actor: Emilio Fernández
+  - name: Coffer
+    actor: Strother Martin
+  - name: T.C.
+    actor: L.Q. Jones

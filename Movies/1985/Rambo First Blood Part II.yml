@@ -1,0 +1,43 @@
+name: "Rambo: First Blood Part II"
+description: >
+  Vietnam veteran John Rambo is released from prison and sent on a top-secret mission back to Vietnam to document the existence of missing prisoners of war, only to find himself leading a rescue mission against Vietnamese and Soviet forces.
+previous: Movies/1982/First Blood
+released: 1985-05-22
+rating: R
+length: 96m
+genres:
+  - action
+  - war
+wikipedia: https://en.wikipedia.org/wiki/Rambo:_First_Blood_Part_II
+imdb: https://www.imdb.com/title/tt0089880
+tmdb: https://www.themoviedb.org/movie/1370-rambo-first-blood-part-ii
+directors: George P. Cosmatos
+producers: Buzz Feitshans
+screenplay:
+  - Sylvester Stallone
+  - James Cameron
+music: Jerry Goldsmith
+cinematography: Jack Cardiff
+editors:
+  - Mark Goldblatt
+  - Mark Helfrich
+production:
+  - Carolco Pictures
+  - Anabasis Investments, N.V.
+  - Estudios Churubusco
+distributors: Tri-Star Pictures
+characters:
+  - name: John J. Rambo
+    actor: Sylvester Stallone
+  - name: Colonel Samuel "Sam" Trautman
+    actor: Richard Crenna
+  - name: Major Marshall Roger T. Murdock
+    actor: Charles Napier
+  - name: Lieutenant Colonel Sergei T. Podovsky
+    actor: Steven Berkoff
+  - name: Agent Co Phuong Bao
+    actor: Julia Nickson
+  - name: Michael Reed Ericson
+    actor: Martin Kove
+  - name: Lieutenant Tay
+    actor: George Cheung

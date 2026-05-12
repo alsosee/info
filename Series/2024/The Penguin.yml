@@ -9,7 +9,7 @@ genres:
   - crime drama
   - gangster
   - superhero
-network: Companies/HBO
+network: HBO
 wikipedia: https://en.wikipedia.org/wiki/The_Penguin_(TV_series)
 imdb: https://www.imdb.com/title/tt15392484
 tmdb: https://www.themoviedb.org/tv/134483-the-penguin
@@ -52,7 +52,7 @@ characters:
   - name: Francis Cobb
     actor: Deirdre O'Connell
   - name: Salvatore "Sal" Maroni
-    actor: People/Clancy Brown
+    actor: Clancy Brown
   - name: Nadia Maroni
     actor: Shohreh Aghdashloo
   - name: Eve Karlo

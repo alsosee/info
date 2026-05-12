@@ -1,0 +1,41 @@
+name: Mad Max Beyond Thunderdome
+description: >
+  A lone drifter arrives at the post-apocalyptic trading post of Bartertown, where he is
+  forced to fight in the gladiatorial Thunderdome arena by the settlement's cunning ruler.
+previous: Movies/1981/Mad Max 2
+released: 1985-07-10
+rating: PG-13
+length: 1h47m
+genres:
+  - action
+  - adventure
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Mad_Max_Beyond_Thunderdome
+imdb: https://www.imdb.com/title/tt0089530
+tmdb: https://www.themoviedb.org/movie/9355-mad-max-beyond-thunderdome
+rotten_tomatoes: https://www.rottentomatoes.com/m/mad_max_beyond_thunderdome
+directors:
+  - George Miller
+  - George Ogilvie
+screenplay:
+  - Terry Hayes
+  - George Miller
+producers: George Miller
+music: Maurice Jarre
+cinematography: Dean Semler
+editors: Richard Francis-Bruce
+production: Kennedy Miller Productions
+distributors: Companies/Warner Bros. Pictures
+characters:
+  - name: Max Rockatansky
+    actor: Mel Gibson
+  - name: Aunty Entity
+    actor: Tina Turner
+  - name: Jedediah
+    actor: Bruce Spence
+  - name: Savannah Nix
+    actor: Helen Buday
+  - name: The Master
+    actor: Angelo Rossitto
+  - name: The Blaster
+    actor: Paul Larsson

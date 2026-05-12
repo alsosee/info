@@ -1,0 +1,55 @@
+name: "Rambo"
+description: >
+  In Thailand, Vietnam War veteran John Rambo is recruited by a group of Christian missionaries to ferry them into Burma on a humanitarian mission. After the missionaries are captured by a ruthless military unit, Rambo leads a team of mercenaries on a violent rescue mission to save them.
+previous: Movies/1988/Rambo III
+released: 2008-01-25
+rating: R
+length: 92m
+genres:
+  - action
+  - thriller
+  - war
+wikipedia: https://en.wikipedia.org/wiki/Rambo_(2008_film)
+imdb: https://www.imdb.com/title/tt0462499
+tmdb: https://www.themoviedb.org/movie/7555-rambo
+rotten_tomatoes: https://www.rottentomatoes.com/m/rambo
+metacritic: https://www.metacritic.com/movie/rambo
+trailer: https://www.youtube.com/watch?v=rV9uN551fTk
+directors: Sylvester Stallone
+producers:
+  - Avi Lerner
+  - Kevin King Templeton
+  - John Thompson
+screenplay:
+  - Art Monterastelli
+  - Sylvester Stallone
+music: Brian Tyler
+cinematography: Glen MacPherson
+editors: Sean Albertson
+production:
+  - Millennium Films
+  - Nu Image
+  - Equity Pictures
+distributors:
+  - Companies/Lionsgate
+  - The Weinstein Company
+  - Companies/Warner Bros. Pictures
+characters:
+  - name: John Rambo
+    actor: Sylvester Stallone
+  - name: Sarah Miller
+    actor: Julie Benz
+  - name: Michael Burnett
+    actor: Paul Schulze
+  - name: Lewis
+    actor: Graham McTavish
+  - name: School Boy
+    actor: Matthew Marsden
+  - name: Reese
+    actor: Jake La Botz
+  - name: En-Joo
+    actor: Tim Kang
+  - name: Diaz
+    actor: Rey Gallegos
+  - name: Major Pa Tee Tint
+    actor: Maung Maung Khin

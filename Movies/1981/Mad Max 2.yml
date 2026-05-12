@@ -1,0 +1,47 @@
+name: Mad Max 2
+description: >
+  A lone survivor roams the post-apocalyptic Australian wasteland searching for gasoline,
+  and agrees to help a besieged community of settlers defend their oil refinery against
+  a marauding gang led by the fearsome Lord Humungus.
+previous: Movies/1979/Mad Max
+released: 1981-12-24
+rating: R
+length: 1h36m
+genres:
+  - action
+  - adventure
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Mad_Max_2
+imdb: https://www.imdb.com/title/tt0082694
+tmdb: https://www.themoviedb.org/movie/8810-mad-max-2
+directors: George Miller
+screenplay:
+  - Terry Hayes
+  - George Miller
+  - Brian Hannant
+producers: Byron Kennedy
+music: Brian May
+cinematography: Dean Semler
+editors:
+  - David Stiven
+  - Tim Wellburn
+  - Michael Balson
+production: Kennedy Miller Productions
+distributors: Roadshow Film Distributors
+characters:
+  - name: Max Rockatansky
+    actor: Mel Gibson
+  - name: The Gyro Captain
+    actor: Bruce Spence
+  - name: Pappagallo
+    actor: Michael Preston
+  - name: The Toadie
+    actor: Max Phipps
+  - name: Wez
+    actor: Vernon Wells
+  - name: Lord Humungus
+    actor: Kjell Nilsson
+  - name: The Feral Kid
+    actor: Emil Minty
+  - name: Warrior Woman
+    actor: Virginia Hey

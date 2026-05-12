@@ -1,0 +1,49 @@
+name: "Star Wars: Episode IV – A New Hope"
+description: >
+  A young farm boy, Luke Skywalker, is thrust into a galaxy-wide conflict after acquiring
+  a droid carrying stolen plans for the Empire's planet-destroying superweapon, the Death Star.
+  He joins forces with veteran Jedi Obi-Wan Kenobi and roguish smuggler Han Solo to rescue
+  captive Princess Leia and help the Rebel Alliance destroy the station before it obliterates
+  their base.
+released: 1977-05-25
+rating: PG
+length: 2h1m
+genres:
+  - Action
+  - Adventure
+  - Science Fiction
+wikipedia: https://en.wikipedia.org/wiki/Star_Wars_(film)
+imdb: https://www.imdb.com/title/tt0076759/
+tmdb: https://www.themoviedb.org/movie/11-star-wars
+rotten_tomatoes: https://www.rottentomatoes.com/m/star_wars_episode_iv_a_new_hope
+directors: George Lucas
+screenplay: George Lucas
+producers: Gary Kurtz
+music: John Williams
+cinematography: Gilbert Taylor
+editors:
+  - Paul Hirsch
+  - Marcia Lucas
+  - Richard Chew
+production: Lucasfilm Ltd.
+distributors: 20th Century Fox
+characters:
+  - name: Luke Skywalker
+    actor: Mark Hamill
+  - name: Han Solo
+    actor: Harrison Ford
+  - name: Princess Leia Organa
+    actor: Carrie Fisher
+  - name: Grand Moff Tarkin
+    actor: Peter Cushing
+  - name: Obi-Wan Kenobi
+    actor: Alec Guinness
+  - name: C-3PO
+    actor: Anthony Daniels
+  - name: R2-D2
+    actor: Kenny Baker
+  - name: Chewbacca
+    actor: Peter Mayhew
+  - name: Darth Vader
+    actor: David Prowse
+    voice: James Earl Jones

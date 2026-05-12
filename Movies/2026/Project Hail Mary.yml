@@ -1,7 +1,7 @@
 name: Project Hail Mary
 description: >
-  A middle-school science teacher awakens aboard an interstellar spacecraft with no memory 
-  of his identity or how he got there. He soon realizes he is the sole survivor of a 
+  A middle-school science teacher awakens aboard an interstellar spacecraft with no memory
+  of his identity or how he got there. He soon realizes he is the sole survivor of a
   desperate mission to save humanity from a solar-dimming microorganism that threatens Earth.
 based_on: Books/2021/Project Hail Mary
 released: 2026-03-20
@@ -28,9 +28,9 @@ distributors:
   - Sony Pictures Releasing
 characters:
   - name: Ryland Grace
-    actor: People/Ryan Gosling
+    actor: Ryan Gosling
   - name: Eva Stratt
-    actor: People/Sandra Hüller
+    actor: Sandra Hüller
   - name: Rocky
     actor: James Ortiz
   - name: Yao Li-Jie

@@ -1,0 +1,50 @@
+name: "Rambo III"
+description: >
+  John Rambo travels to Afghanistan to rescue his former commander and mentor, Colonel Sam Trautman, who has been captured by a ruthless Soviet colonel during the Soviet–Afghan War.
+previous: Movies/1985/Rambo First Blood Part II
+released: 1988-05-25
+rating: R
+length: 1h41m
+genres:
+  - action
+  - war
+wikipedia: https://en.wikipedia.org/wiki/Rambo_III
+imdb: https://www.imdb.com/title/tt0095956
+tmdb: https://www.themoviedb.org/movie/1370-rambo-iii
+rotten_tomatoes: https://www.rottentomatoes.com/m/rambo_iii
+metacritic: https://www.metacritic.com/movie/rambo-iii
+directors: Peter MacDonald
+producers:
+  - Buzz Feitshans
+screenplay:
+  - Sylvester Stallone
+  - Sheldon Lettich
+music: Jerry Goldsmith
+cinematography: John Stanier
+editors:
+  - James Symons
+  - Andrew London
+  - O. Nicholas Brown
+production: Carolco Pictures
+distributors: Tri-Star Pictures
+characters:
+  - name: John J. Rambo
+    actor: Sylvester Stallone
+  - name: Colonel Samuel "Sam" Trautman
+    actor: Richard Crenna
+  - name: Robert Griggs
+    actor: Kurtwood Smith
+  - name: Colonel Alexei Zaysen
+    actor: Marc de Jonge
+  - name: Mousa Ghani
+    actor: Sasson Gabai
+  - name: Hamid
+    actor: Doudi Shoua
+  - name: Masoud
+    actor: Spiros Fokas
+  - name: Sergeant Kourov
+    actor: Randy Raney
+  - name: Tomask
+    actor: Marcus Gilbert
+  - name: Nissem
+    actor: Alon Abutbul

@@ -1,0 +1,56 @@
+name: Titanic
+description: >
+  A seventeen-year-old first-class passenger aboard the RMS Titanic falls in love with a young
+  third-class artist during the ship's ill-fated 1912 maiden voyage, their romance unfolding
+  against one of history's most famous maritime disasters.
+released: 1997-12-19
+rating: PG-13
+length: 3h15m
+genres:
+  - drama
+  - romance
+  - historical
+wikipedia: https://en.wikipedia.org/wiki/Titanic_(1997_film)
+imdb: https://www.imdb.com/title/tt0120338
+tmdb: https://www.themoviedb.org/movie/597-titanic
+directors: James Cameron
+producers:
+  - James Cameron
+  - Jon Landau
+screenplay: James Cameron
+music: James Horner
+cinematography: Russell Carpenter
+editors:
+  - Conrad Buff IV
+  - James Cameron
+  - Richard A. Harris
+production:
+  - Paramount Pictures
+  - 20th Century Fox
+  - Lightstorm Entertainment
+distributors:
+  - Paramount Pictures
+  - 20th Century Fox
+characters:
+  - name: Jack Dawson
+    actor: Leonardo DiCaprio
+  - name: Rose DeWitt Bukater
+    actor: Kate Winslet
+  - name: Caledon "Cal" Hockley
+    actor: Billy Zane
+  - name: Margaret "Molly" Brown
+    actor: Kathy Bates
+  - name: Ruth DeWitt Bukater
+    actor: Frances Fisher
+  - name: Old Rose
+    actor: Gloria Stuart
+  - name: Brock Lovett
+    actor: Bill Paxton
+  - name: Captain Edward John Smith
+    actor: Bernard Hill
+  - name: Spicer Lovejoy
+    actor: David Warner
+  - name: J. Bruce Ismay
+    actor: Jonathan Hyde
+  - name: Fabrizio De Rossi
+    actor: Danny Nucci

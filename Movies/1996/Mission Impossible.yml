@@ -1,0 +1,44 @@
+name: "Mission: Impossible"
+description: >
+  IMF agent Ethan Hunt becomes the sole survivor of a mission gone catastrophically wrong and finds
+  himself framed as a mole within the CIA. Forced to go rogue, he assembles a small team to uncover
+  the real traitor before his own agency takes him down.
+released: 1996-05-22
+rating: PG-13
+length: 1h51m
+genres:
+  - Action
+  - Adventure
+  - Thriller
+wikipedia: https://en.wikipedia.org/wiki/Mission:_Impossible_(film)
+imdb: https://www.imdb.com/title/tt0117060/
+tmdb: https://www.themoviedb.org/movie/954-mission-impossible
+directors: Brian De Palma
+screenplay:
+  - David Koepp
+  - Robert Towne
+producers:
+  - Tom Cruise
+  - Paula Wagner
+music: Danny Elfman
+cinematography: Stephen H. Burum
+editors: Paul Hirsch
+production: Cruise/Wagner Productions
+distributors: Paramount Pictures
+characters:
+  - name: Ethan Hunt
+    actor: Tom Cruise
+  - name: Jim Phelps
+    actor: Jon Voight
+  - name: Claire Phelps
+    actor: Emmanuelle Béart
+  - name: Eugene Kittridge
+    actor: Henry Czerny
+  - name: Franz Krieger
+    actor: Jean Reno
+  - name: Luther Stickell
+    actor: Ving Rhames
+  - name: Max
+    actor: Vanessa Redgrave
+  - name: Sarah Davies
+    actor: Kristin Scott Thomas
