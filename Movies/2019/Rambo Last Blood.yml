@@ -1,4 +1,5 @@
 name: "Rambo: Last Blood"
+series: Rambo
 description: >
   Vietnam War veteran John Rambo, living on his deceased father's ranch in Arizona, travels to Mexico to rescue his adopted niece after she is kidnapped by a ruthless Mexican cartel.
 previous: Movies/2008/Rambo
@@ -30,7 +31,7 @@ production:
   - Templeton Media
   - Campbell Grobman Films
 distributors:
-  - Companies/Lionsgate
+  - Lionsgate
 characters:
   - name: John J. Rambo
     actor: Sylvester Stallone

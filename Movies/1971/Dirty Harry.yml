@@ -1,0 +1,31 @@
+name: Dirty Harry
+description: >
+  A 1971 American action-thriller film starring Clint Eastwood as SFPD Inspector Harry Callahan.
+  The film follows Callahan as he tracks down a psychopathic sniper known as "Scorpio" who is terrorizing San Francisco.
+released: 1971-12-23
+rating: R
+length: 1h42m
+genres:
+  - action
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Dirty_Harry
+imdb: https://www.imdb.com/title/tt0066999
+tmdb: https://www.themoviedb.org/movie/984
+directors: Don Siegel
+production: Malpaso Productions
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harry Callahan
+    actor: Clint Eastwood
+  - name: Al Bressler
+    actor: Harry Guardino
+  - name: Chico Gonzalez
+    actor: Reni Santoni
+  - name: Scorpio
+    actor: Andy Robinson
+  - name: The Mayor
+    actor: John Vernon
+  - name: Paul Dacanelli
+    actor: John Larch
+  - name: Frank DiGiorgio
+    actor: John Mitchum

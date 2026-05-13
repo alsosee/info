@@ -1,0 +1,36 @@
+name: Enter the Dragon
+description: >
+  A 1973 martial arts film featuring Bruce Lee's final completed film appearance.
+  Lee plays a Shaolin martial artist who goes undercover to participate in a tournament on a private island
+  to gather evidence against a suspected crime lord named Han.
+released: 1973-07-26
+rating: R
+length: 1h42m
+genres:
+  - martial arts
+  - action
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Enter_the_Dragon
+imdb: https://www.imdb.com/title/tt0070034
+tmdb: https://www.themoviedb.org/movie/9461
+directors: Robert Clouse
+production:
+  - Sequoia Pictures
+  - Concord Production Inc.
+  - Warner Bros. Pictures
+distributors:
+  - Golden Harvest
+  - Warner Bros. Pictures
+characters:
+  - name: Lee
+    actor: Bruce Lee
+  - name: Roper
+    actor: John Saxon
+  - name: Williams
+    actor: Jim Kelly
+  - name: Tania
+    actor: Ahna Capri
+  - name: Han
+    actor: Shih Kien
+  - name: O'Hara
+    actor: Bob Wall

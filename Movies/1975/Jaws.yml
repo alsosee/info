@@ -1,0 +1,27 @@
+name: Jaws
+description: >
+  A thriller film about a police chief, a marine biologist, and a professional shark hunter
+  who hunt a man-eating great white shark attacking beachgoers at a New England resort town.
+released: 1975-06-20
+rating: PG
+length: 2h4m
+genres:
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Jaws_(film)
+imdb: https://www.imdb.com/title/tt0073195
+directors: Steven Spielberg
+production:
+  - Zanuck/Brown Company
+  - Universal Pictures
+distributors: Universal Pictures
+characters:
+  - name: Martin Brody
+    actor: Roy Scheider
+  - name: Quint
+    actor: Robert Shaw
+  - name: Matt Hooper
+    actor: Richard Dreyfuss
+  - name: Ellen Brody
+    actor: Lorraine Gary
+  - name: Mayor Larry Vaughn
+    actor: Murray Hamilton

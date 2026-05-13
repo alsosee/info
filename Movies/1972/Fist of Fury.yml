@@ -1,0 +1,30 @@
+name: Fist of Fury
+description: >
+  A 1972 Hong Kong martial arts film starring Bruce Lee. Lee portrays Chen Zhen, a student who returns to Shanghai
+  to find his master dead and fights against a Japanese dojo to defend his school's honor and exact vengeance.
+released: 1972-03-22
+length: 1h47m
+genres:
+  - martial arts
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Fist_of_Fury
+imdb: https://www.imdb.com/title/tt0068767
+tmdb: https://www.themoviedb.org/movie/11713
+directors: Lo Wei
+production: Golden Harvest
+distributors: Golden Harvest
+characters:
+  - name: Chen Zhen
+    actor: Bruce Lee
+  - name: Yuan Li'er
+    actor: Nora Miao
+  - name: Hiroshi Suzuki
+    actor: Chikara Hashimoto
+  - name: Petrov
+    actor: Robert Baker
+  - name: Fan Chun-hsia
+    actor: Tien Feng
+  - name: Fan Chia-chi
+    actor: James Tien
+  - name: Wu En
+    actor: Paul Wei

@@ -1,0 +1,32 @@
+name: Seven Samurai
+description: >
+  An epic jidaigeki film about a village of farmers who hire seven masterless samurai
+  to defend them against a gang of bandits who plan to steal their crops after the harvest.
+released: 1954-04-26
+length: 3h27m
+genres:
+  - action
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Seven_Samurai
+imdb: https://www.imdb.com/title/tt0047478
+tmdb: https://www.themoviedb.org/movie/346
+directors: Akira Kurosawa
+production: Toho
+distributors:
+  - Toho
+  - Columbia Pictures
+characters:
+  - name: Kambei Shimada
+    actor: Takashi Shimura
+  - name: Kikuchiyo
+    actor: Toshiro Mifune
+  - name: Kyūzō
+    actor: Seiji Miyaguchi
+  - name: Katsushirō Okamoto
+    actor: Isao Kimura
+  - name: Gorōbei Katayama
+    actor: Yoshio Inaba
+  - name: Heihachi Hayashida
+    actor: Minoru Chiaki
+  - name: Shichirōji
+    actor: Daisuke Katō

@@ -1,0 +1,32 @@
+name: Taxi Driver
+description: >
+  A neo-noir psychological thriller set in a decaying post-Vietnam War New York City.
+  It follows Travis Bickle, a lonely veteran working as a night-shift taxi driver who becomes obsessed with "cleansing" the city.
+released: 1976-02-08
+rating: R
+length: 1h54m
+genres:
+  - crime
+  - drama
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Taxi_Driver
+imdb: https://www.imdb.com/title/tt0075314
+tmdb: https://www.themoviedb.org/movie/103
+directors: Martin Scorsese
+production:
+  - Bill/Phillips Productions
+  - Italo-Judeo Productions
+distributors: Columbia Pictures
+characters:
+  - name: Travis Bickle
+    actor: Robert De Niro
+  - name: Iris Steensma
+    actor: Jodie Foster
+  - name: Betsy
+    actor: Cybill Shepherd
+  - name: Matthew "Sport" Higgins
+    actor: Harvey Keitel
+  - name: Wizard
+    actor: Peter Boyle
+  - name: Tom
+    actor: Albert Brooks

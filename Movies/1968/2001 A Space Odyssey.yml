@@ -1,0 +1,24 @@
+name: "2001: A Space Odyssey"
+description: >
+  An epic science fiction film that follows a voyage to Jupiter after the discovery of an alien monolith.
+  It is noted for its pioneering special effects and exploration of themes such as human evolution and technology.
+released: 1968-04-03
+rating: G
+length: 2h29m
+genres:
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)
+imdb: https://www.imdb.com/title/tt0062622
+tmdb: https://www.themoviedb.org/movie/62
+directors: Stanley Kubrick
+production: Metro-Goldwyn-Mayer
+distributors: Metro-Goldwyn-Mayer
+characters:
+  - name: Dr. David Bowman
+    actor: Keir Dullea
+  - name: Dr. Frank Poole
+    actor: Gary Lockwood
+  - name: Dr. Heywood R. Floyd
+    actor: William Sylvester
+  - name: HAL 9000
+    voice: Douglas Rain

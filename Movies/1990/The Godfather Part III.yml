@@ -1,0 +1,41 @@
+name: The Godfather Part III
+series: The Godfather
+description: >
+  An American epic gangster film that concludes the story of Michael Corleone as he attempts to
+  legitimize his criminal empire and find a successor.
+previous: Movies/1974/The Godfather Part II
+released: 1990-12-25
+rating: R
+length: 2h42m
+genres:
+  - crime
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/The_Godfather_Part_III
+imdb: https://www.imdb.com/title/tt0099674
+tmdb: https://www.themoviedb.org/movie/242
+directors: Francis Ford Coppola
+production:
+  - Paramount Pictures
+  - American Zoetrope
+distributors: Paramount Pictures
+characters:
+  - name: Michael Corleone
+    actor: Al Pacino
+  - name: Kay Adams-Corleone
+    actor: Diane Keaton
+  - name: Connie Corleone
+    actor: Talia Shire
+  - name: Vincent Corleone
+    actor: Andy García
+  - name: Don Altobello
+    actor: Eli Wallach
+  - name: Joey Zasa
+    actor: Joe Mantegna
+  - name: B.J. Harrison
+    actor: George Hamilton
+  - name: Grace Hamilton
+    actor: Bridget Fonda
+  - name: Mary Corleone
+    actor: Sofia Coppola
+  - name: Cardinal Lamberto
+    actor: Raf Vallone

@@ -1,0 +1,38 @@
+name: Saving Private Ryan
+description: >
+  An epic war film set during the Normandy Landings of World War II, following a group of U.S. soldiers
+  on a mission to find and bring home a paratrooper whose brothers have all been killed in action.
+released: 1998-07-24
+rating: R
+length: 2h50m
+genres:
+  - war
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Saving_Private_Ryan
+imdb: https://www.imdb.com/title/tt0120815
+directors: Steven Spielberg
+production:
+  - Amblin Entertainment
+  - Mutual Film Company
+distributors:
+  - DreamWorks Pictures
+  - Paramount Pictures
+characters:
+  - name: Captain John H. Miller
+    actor: Tom Hanks
+  - name: Richard Reiben
+    actor: Edward Burns
+  - name: Mike Horvath
+    actor: Tom Sizemore
+  - name: Timothy Upham
+    actor: Jeremy Davies
+  - name: Adrian Caparzo
+    actor: Vin Diesel
+  - name: Stanley "Fish" Mellish
+    actor: Adam Goldberg
+  - name: Daniel Jackson
+    actor: Barry Pepper
+  - name: Irwin Wade
+    actor: Giovanni Ribisi
+  - name: James Francis Ryan
+    actor: Matt Damon

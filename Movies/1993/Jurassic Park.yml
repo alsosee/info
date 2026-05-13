@@ -1,0 +1,43 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  A science fiction adventure film about a theme park of de-extinct dinosaurs created by
+  genetic scientists on a remote island. When the park's security systems fail, a small
+  group of visitors must survive and escape the island.
+released: 1993-06-11
+rating: PG-13
+length: 2h7m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_(film)
+imdb: https://www.imdb.com/title/tt0107290
+tmdb: https://www.themoviedb.org/movie/329
+directors: Steven Spielberg
+production:
+  - Universal Pictures
+  - Amblin Entertainment
+distributors: Universal Pictures
+characters:
+  - name: Alan Grant
+    actor: Sam Neill
+  - name: Ellie Sattler
+    actor: Laura Dern
+  - name: Ian Malcolm
+    actor: Jeff Goldblum
+  - name: John Hammond
+    actor: Richard Attenborough
+  - name: Robert Muldoon
+    actor: Bob Peck
+  - name: Donald Gennaro
+    actor: Martin Ferrero
+  - name: Henry Wu
+    actor: BD Wong
+  - name: Ray Arnold
+    actor: Samuel L. Jackson
+  - name: Dennis Nedry
+    actor: Wayne Knight
+  - name: Tim Murphy
+    actor: Joseph Mazzello
+  - name: Lex Murphy
+    actor: Ariana Richards

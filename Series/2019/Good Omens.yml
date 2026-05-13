@@ -1,0 +1,95 @@
+name: Good Omens
+description: >
+  An angel named Aziraphale and a demon named Crowley, who have lived on Earth since the
+  Garden of Eden, form an unlikely alliance to prevent Armageddon and protect the comfortable
+  lives they have come to love.
+released: 2019-05-31
+rating: TV-MA
+genres:
+  - fantasy
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Good_Omens_(TV_series)
+imdb: https://www.imdb.com/title/tt1869454
+tmdb: https://www.themoviedb.org/tv/71915-good-omens/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/good_omens/s01
+network: Amazon Prime Video
+trailer: https://www.youtube.com/watch?v=On0RbFjh8tI
+creators: Neil Gaiman
+composers: David Arnold
+characters:
+  - name: Aziraphale
+    actor: Michael Sheen
+  - name: Crowley
+    actor: David Tennant
+  - name: Adam Young
+    actor: Sam Taylor Buck
+  - name: Anathema Device
+    actor: Adria Arjona
+  - name: Newton Pulsifer
+    actor: Jack Whitehall
+  - name: Sergeant Shadwell
+    actor: Michael McKean
+  - name: Madam Tracy
+    actor: Miranda Richardson
+  - name: Gabriel
+    actor: Jon Hamm
+  - name: Beelzebub
+    actor: Anna Maxwell Martin
+  - name: Hastur
+    actor: Ned Dennehy
+  - name: Ligur
+    actor: Amma Ris
+  - name: Metatron
+    actor: Derek Jacobi
+  - name: God
+    voice: Frances McDormand
+  - name: Satan
+    voice: Benedict Cumberbatch
+episodes:
+  - name: In the Beginning
+    description: Aziraphale and Crowley, who have been watching over Earth since the Garden of Eden, learn that the Antichrist has been born and must be found before the end of the world begins.
+    released: 2019-05-31
+    length: 52m
+    imdb: https://www.imdb.com/title/tt7091742/
+    directors: Douglas Mackinnon
+    writers: Neil Gaiman
+
+  - name: The Book
+    description: After realizing they have been watching the wrong child for eleven years, Aziraphale and Crowley use the prophecies of Agnes Nutter to track down the real Antichrist in the English village of Tadfield.
+    released: 2019-05-31
+    length: 57m
+    imdb: https://www.imdb.com/title/tt8172156/
+    directors: Douglas Mackinnon
+    writers: Neil Gaiman
+
+  - name: Hard Times
+    description: A series of flashbacks spanning thousands of years reveals the origins of Aziraphale and Crowley's unlikely friendship, while Agnes Nutter's descendant arrives in Tadfield with a warning.
+    released: 2019-05-31
+    length: 58m
+    imdb: https://www.imdb.com/title/tt8172158/
+    directors: Douglas Mackinnon
+    writers: Neil Gaiman
+
+  - name: Saturday Morning Funtime
+    description: Heaven and Hell move to take direct control of the situation, placing new pressure on Aziraphale and Crowley, while the Antichrist's growing powers begin to reshape reality around Tadfield.
+    released: 2019-05-31
+    length: 57m
+    imdb: https://www.imdb.com/title/tt8071704/
+    directors: Douglas Mackinnon
+    writers: Neil Gaiman
+
+  - name: The Doomsday Option
+    description: With only hours remaining before Armageddon, Aziraphale and Crowley each race toward the military airbase where the Four Horsemen of the Apocalypse are gathering.
+    released: 2019-05-31
+    length: 53m
+    imdb: https://www.imdb.com/title/tt8172160/
+    directors: Douglas Mackinnon
+    writers: Neil Gaiman
+
+  - name: The Very Last Day of the Rest of Their Lives
+    description: The Four Horsemen assemble and the armies of Heaven and Hell converge on the airbase as the final confrontation over humanity's fate begins.
+    released: 2019-05-31
+    length: 55m
+    imdb: https://www.imdb.com/title/tt8172162/
+    directors: Douglas Mackinnon
+    writers: Neil Gaiman

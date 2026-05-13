@@ -1,0 +1,32 @@
+name: Schindler's List
+description: >
+  An epic biographical drama film that tells the story of Oskar Schindler, a German industrialist
+  who saved more than a thousand Polish-Jewish refugees during the Holocaust by employing
+  them in his factories.
+released: 1993-12-15
+rating: R
+length: 3h15m
+genres:
+  - historical
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Schindler%27s_List
+imdb: https://www.imdb.com/title/tt0108052
+tmdb: https://www.themoviedb.org/movie/424
+directors: Steven Spielberg
+production:
+  - Universal Pictures
+  - Amblin Entertainment
+distributors: Universal Pictures
+characters:
+  - name: Oskar Schindler
+    actor: Liam Neeson
+  - name: Itzhak Stern
+    actor: Ben Kingsley
+  - name: Amon Göth
+    actor: Ralph Fiennes
+  - name: Emilie Schindler
+    actor: Caroline Goodall
+  - name: Poldek Pfefferberg
+    actor: Jonathan Sagall
+  - name: Helen Hirsch
+    actor: Embeth Davidtz

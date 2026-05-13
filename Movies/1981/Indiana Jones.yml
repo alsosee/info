@@ -1,4 +1,5 @@
 name: Indiana Jones and the Raiders of the Lost Ark
+series: Indiana Jones
 description: >
   In 1936, archaeologist Indiana Jones races against Nazi forces to recover the
   legendary Ark of the Covenant before it can be used as a weapon of conquest.
@@ -18,11 +19,11 @@ producers: Frank Marshall
 music: John Williams
 cinematography: Douglas Slocombe
 editors: Michael Kahn
-production: Lucasfilm Ltd.
+production: Lucasfilm
 distributors: Paramount Pictures
 characters:
   - name: Indiana Jones
-    actor: Harrison Ford
+    actor: People/Harrison Ford
   - name: Marion Ravenwood
     actor: Karen Allen
   - name: René Belloq

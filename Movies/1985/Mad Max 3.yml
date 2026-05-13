@@ -1,4 +1,5 @@
 name: Mad Max Beyond Thunderdome
+series: Mad Max
 description: >
   A lone drifter arrives at the post-apocalyptic trading post of Bartertown, where he is
   forced to fight in the gladiatorial Thunderdome arena by the settlement's cunning ruler.
@@ -25,7 +26,7 @@ music: Maurice Jarre
 cinematography: Dean Semler
 editors: Richard Francis-Bruce
 production: Kennedy Miller Productions
-distributors: Companies/Warner Bros. Pictures
+distributors: Warner Bros. Pictures
 characters:
   - name: Max Rockatansky
     actor: Mel Gibson

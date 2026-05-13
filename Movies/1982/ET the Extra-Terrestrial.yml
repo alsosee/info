@@ -1,0 +1,28 @@
+name: E.T. the Extra-Terrestrial
+description: >
+  A science fantasy film about a lonely boy who befriends a gentle extraterrestrial
+  stranded on Earth and helps him return to his home planet.
+released: 1982-06-11
+rating: PG
+length: 1h54m
+genres:
+  - science fiction
+  - family
+wikipedia: https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial
+imdb: https://www.imdb.com/title/tt0083866
+directors: Steven Spielberg
+production: Amblin Entertainment
+distributors: Universal Pictures
+characters:
+  - name: Elliott
+    actor: Henry Thomas
+  - name: Mary
+    actor: Dee Wallace
+  - name: Michael
+    actor: Robert MacNaughton
+  - name: Gertie
+    actor: Drew Barrymore
+  - name: Keys
+    actor: Peter Coyote
+  - name: E.T.
+    voice: Pat Welsh

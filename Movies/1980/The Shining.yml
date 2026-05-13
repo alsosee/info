@@ -1,0 +1,33 @@
+name: The Shining
+description: >
+  A psychological horror film about a family that heads to an isolated hotel for the winter where
+  a sinister presence influences the father into violence, while his psychic son sees horrific
+  forebodings from both past and future.
+released: 1980-05-23
+rating: R
+length: 2h26m
+genres:
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/The_Shining_(film)
+imdb: https://www.imdb.com/title/tt0081505
+directors: Stanley Kubrick
+production:
+  - The Producer Circle Company
+  - Peregrine Productions
+  - Hawk Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Jack Torrance
+    actor: Jack Nicholson
+  - name: Wendy Torrance
+    actor: Shelley Duvall
+  - name: Danny Torrance
+    actor: Danny Lloyd
+  - name: Dick Hallorann
+    actor: Scatman Crothers
+  - name: Stuart Ullman
+    actor: Barry Nelson
+  - name: Delbert Grady
+    actor: Philip Stone
+  - name: Lloyd
+    actor: Joe Turkel

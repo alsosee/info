@@ -1,0 +1,40 @@
+name: The Godfather
+series: The Godfather
+description: >
+  An American epic gangster film directed by Francis Ford Coppola. It chronicles the Corleone family under patriarch Vito Corleone
+  and the transformation of his youngest son, Michael Corleone, from a reluctant family outsider to a ruthless mafia boss.
+released: 1972-03-24
+rating: R
+length: 2h55m
+genres:
+  - crime
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/The_Godfather
+imdb: https://www.imdb.com/title/tt0068646
+tmdb: https://www.themoviedb.org/movie/238
+directors: Francis Ford Coppola
+production:
+  - Paramount Pictures
+  - American Zoetrope
+distributors: Paramount Pictures
+characters:
+  - name: Vito Corleone
+    actor: Marlon Brando
+  - name: Michael Corleone
+    actor: Al Pacino
+  - name: Sonny Corleone
+    actor: James Caan
+  - name: Tom Hagen
+    actor: Robert Duvall
+  - name: Kay Adams-Corleone
+    actor: Diane Keaton
+  - name: Connie Corleone
+    actor: Talia Shire
+  - name: Fredo Corleone
+    actor: John Cazale
+  - name: Peter Clemenza
+    actor: Richard Castellano
+  - name: Salvatore Tessio
+    actor: Abe Vigoda
+  - name: Carlo Rizzi
+    actor: Gianni Russo

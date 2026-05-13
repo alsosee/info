@@ -1,0 +1,34 @@
+name: Alien
+series: Alien
+description: >
+  A science fiction horror film that follows the crew of the commercial starship Nostromo
+  as they investigate a transmission from a derelict vessel and are hunted by a deadly extraterrestrial creature.
+released: 1979-05-25
+rating: R
+length: 1h56m
+genres:
+  - science fiction
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Alien_(film)
+imdb: https://www.imdb.com/title/tt0078748
+tmdb: https://www.themoviedb.org/movie/348
+directors: Ridley Scott
+production:
+  - 20th Century Studios
+  - Brandywine Productions
+distributors: 20th Century Studios
+characters:
+  - name: Ellen Ripley
+    actor: Sigourney Weaver
+  - name: Dallas
+    actor: Tom Skerritt
+  - name: Lambert
+    actor: Veronica Cartwright
+  - name: Brett
+    actor: Harry Dean Stanton
+  - name: Kane
+    actor: John Hurt
+  - name: Ash
+    actor: Ian Holm
+  - name: Parker
+    actor: Yaphet Kotto

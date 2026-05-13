@@ -1,0 +1,45 @@
+name: Blade Runner
+series: Blade Runner
+description: >
+  A science fiction film set in a dystopian 2019 Los Angeles where bio-engineered humanoids
+  called replicants are hunted by blade runners. Rick Deckard, a former cop, is recalled
+  to "retire" a group of advanced replicants who have escaped back to Earth.
+released: 1982-06-25
+rating: R
+length: 1h57m
+genres:
+  - science fiction
+  - neo-noir
+  - cyberpunk
+wikipedia: https://en.wikipedia.org/wiki/Blade_Runner
+imdb: https://www.imdb.com/title/tt0083658
+tmdb: https://www.themoviedb.org/movie/78
+directors: Ridley Scott
+production:
+  - The Ladd Company
+  - Golden Harvest
+  - Blade Runner Partnership
+distributors:
+  - Warner Bros. Pictures
+  - Golden Harvest
+characters:
+  - name: Rick Deckard
+    actor: Harrison Ford
+  - name: Roy Batty
+    actor: Rutger Hauer
+  - name: Rachael
+    actor: Sean Young
+  - name: Gaff
+    actor: Edward James Olmos
+  - name: Bryant
+    actor: M. Emmet Walsh
+  - name: Pris
+    actor: Daryl Hannah
+  - name: J.F. Sebastian
+    actor: William Sanderson
+  - name: Leon Kowalski
+    actor: Brion James
+  - name: Eldon Tyrell
+    actor: Joe Turkel
+  - name: Zhora Salome
+    actor: Joanna Cassidy

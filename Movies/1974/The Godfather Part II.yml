@@ -1,0 +1,43 @@
+name: The Godfather Part II
+series: The Godfather
+description: >
+  An American epic gangster film that serves as both a sequel and a prequel to The Godfather.
+  It interweaves the 1958 story of Michael Corleone protecting the family business with the early life of his father, Vito Corleone.
+previous: Movies/1972/The Godfather
+released: 1974-12-20
+rating: R
+length: 3h20m
+genres:
+  - crime
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/The_Godfather_Part_II
+imdb: https://www.imdb.com/title/tt0071562
+tmdb: https://www.themoviedb.org/movie/240
+directors: Francis Ford Coppola
+production:
+  - Paramount Pictures
+  - American Zoetrope
+distributors: Paramount Pictures
+characters:
+  - name: Michael Corleone
+    actor: Al Pacino
+  - name: Vito Corleone
+    actor: Robert De Niro
+  - name: Tom Hagen
+    actor: Robert Duvall
+  - name: Kay Adams-Corleone
+    actor: Diane Keaton
+  - name: Fredo Corleone
+    actor: John Cazale
+  - name: Connie Corleone
+    actor: Talia Shire
+  - name: Hyman Roth
+    actor: Lee Strasberg
+  - name: Frank Pentangeli
+    actor: Michael V. Gazzo
+  - name: Senator Pat Geary
+    actor: G. D. Spradlin
+  - name: Al Neri
+    actor: Richard Bright
+  - name: Don Fanucci
+    actor: Gastone Moschin

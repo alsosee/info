@@ -1,4 +1,5 @@
-name: "Rambo"
+name: Rambo
+series: Rambo
 description: >
   In Thailand, Vietnam War veteran John Rambo is recruited by a group of Christian missionaries to ferry them into Burma on a humanitarian mission. After the missionaries are captured by a ruthless military unit, Rambo leads a team of mercenaries on a violent rescue mission to save them.
 previous: Movies/1988/Rambo III
@@ -31,9 +32,9 @@ production:
   - Nu Image
   - Equity Pictures
 distributors:
-  - Companies/Lionsgate
+  - Lionsgate
   - The Weinstein Company
-  - Companies/Warner Bros. Pictures
+  - Warner Bros. Pictures
 characters:
   - name: John Rambo
     actor: Sylvester Stallone

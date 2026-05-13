@@ -1,0 +1,164 @@
+name: 'Star Trek: Strange New Worlds'
+description: >
+  Captain Christopher Pike and the crew of the USS Enterprise explore new worlds
+  and civilizations in the decade before James T. Kirk takes command, with
+  episodic adventures set in the 23rd century.
+released: 2022-05-05
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: Paramount+
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Strange_New_Worlds_season_1
+imdb: https://www.imdb.com/title/tt12327578
+tmdb: https://www.themoviedb.org/tv/103516-star-trek-strange-new-worlds/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/star_trek_strange_new_worlds/s01
+creators:
+  - Akiva Goldsman
+  - Alex Kurtzman
+  - Jenny Lumet
+directors:
+  - Akiva Goldsman
+  - Maja Vrvilo
+  - Leslie Hope
+  - Dan Liu
+  - Rachel Leiterman
+  - Andi Armaganian
+  - Sydney Freeland
+  - Amanda Row
+  - Christopher J. Byrne
+  - Chris Fisher
+writers:
+  - Akiva Goldsman
+  - Henry Alonso Myers
+  - Sarah Tarkoff
+  - Akela Cooper
+  - Bill Wolkoff
+  - Davy Perez
+  - Beau DeMayo
+  - Robin Wasserman
+  - Onitra Johnson
+characters:
+  - name: Captain Christopher Pike
+    actor: Anson Mount
+  - name: Spock
+    actor: Ethan Peck
+  - name: Una Chin-Riley
+    actor: Rebecca Romijn
+  - name: Christine Chapel
+    actor: Jess Bush
+  - name: La'An Noonien-Singh
+    actor: Christina Chong
+  - name: Nyota Uhura
+    actor: Celia Rose Gooding
+  - name: Erica Ortegas
+    actor: Melissa Navia
+  - name: Joseph M'Benga
+    actor: Babs Olusanmokun
+  - name: Hemmer
+    actor: Bruce Horak
+episodes:
+  - name: Strange New Worlds
+    description: >
+      Captain Pike returns to active duty when a first contact situation
+      leads to a crisis that draws the Enterprise to a pre-warp civilization.
+    released: 2022-05-05
+    length: 53m
+    directors: Akiva Goldsman
+    writers:
+      - Akiva Goldsman
+      - Alex Kurtzman
+      - Jenny Lumet
+  - name: Children of the Comet
+    description: >
+      The crew attempts to redirect a comet on a collision course with an
+      inhabited planet while cadet Uhura questions her future in Starfleet.
+    released: 2022-05-12
+    length: 53m
+    directors: Maja Vrvilo
+    writers:
+      - Henry Alonso Myers
+      - Sarah Tarkoff
+  - name: Ghosts of Illyria
+    description: >
+      Stranded while investigating an abandoned Illyrian colony ship, the
+      away team races to contain a mysterious infection spreading through
+      the Enterprise.
+    released: 2022-05-19
+    length: 46m
+    directors: Leslie Hope
+    writers:
+      - Akela Cooper
+      - Bill Wolkoff
+  - name: Memento Mori
+    description: >
+      The Enterprise is ambushed by hostile Gorn vessels, and La'An's
+      traumatic history with the alien hunters becomes the crew's most
+      valuable asset for survival.
+    released: 2022-05-26
+    length: 54m
+    directors: Dan Liu
+    writers:
+      - Davy Perez
+      - Beau DeMayo
+  - name: Spock Amok
+    description: >
+      Spock invites his fiancée T'Pring aboard the Enterprise for a Vulcan
+      bonding ceremony while Pike and Number One attempt to broker a tense
+      diplomatic agreement with a new alien species.
+    released: 2022-06-02
+    length: 52m
+    directors: Rachel Leiterman
+    writers:
+      - Henry Alonso Myers
+      - Robin Wasserman
+  - name: Lift Us Where Suffering Cannot Reach
+    description: >
+      Pike is reunited with an old love when the Enterprise encounters a
+      civilization that has seemingly achieved a perfect and peaceful society.
+    released: 2022-06-09
+    length: 51m
+    directors: Andi Armaganian
+    writers:
+      - Robin Wasserman
+      - Bill Wolkoff
+  - name: The Serene Squall
+    description: >
+      A distress call leads the Enterprise crew into the clutches of
+      dangerous space pirates.
+    released: 2022-06-16
+    length: 50m
+    directors: Sydney Freeland
+    writers:
+      - Beau DeMayo
+      - Sarah Tarkoff
+  - name: The Elysian Kingdom
+    description: >
+      The crew finds themselves inexplicably cast as characters from a
+      beloved children's fairy tale when the Enterprise enters an
+      unexplored nebula.
+    released: 2022-06-23
+    length: 54m
+    directors: Amanda Row
+    writers:
+      - Akela Cooper
+      - Onitra Johnson
+  - name: All Those Who Wander
+    description: >
+      An away team responding to a distress call from a crashed Federation
+      ship on an icy planet discovers survivors alongside a deadly alien
+      threat.
+    released: 2022-06-30
+    length: 53m
+    directors: Christopher J. Byrne
+    writers: Davy Perez
+  - name: A Quality of Mercy
+    description: >
+      Pike faces a pivotal decision when a distress call forces him to
+      weigh the cost of trying to alter the fate he has foreseen for himself.
+    released: 2022-07-07
+    length: 1h3m
+    directors: Chris Fisher
+    writers:
+      - Henry Alonso Myers
+      - Akiva Goldsman

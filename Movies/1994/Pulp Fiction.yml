@@ -1,0 +1,43 @@
+name: Pulp Fiction
+description: >
+  A crime film that tells four intertwining tales of violence and redemption in Los Angeles
+  through a nonlinear narrative, known for its eclectic dialogue and ironic mix of humor and violence.
+released: 1994-10-14
+rating: R
+length: 2h34m
+genres:
+  - crime
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Pulp_Fiction
+imdb: https://www.imdb.com/title/tt0110912
+tmdb: https://www.themoviedb.org/movie/680
+directors: Quentin Tarantino
+production:
+  - A Band Apart
+  - Jersey Films
+distributors: Miramax Films
+characters:
+  - name: Vincent Vega
+    actor: John Travolta
+  - name: Jules Winnfield
+    actor: Samuel L. Jackson
+  - name: Mia Wallace
+    actor: Uma Thurman
+  - name: Butch Coolidge
+    actor: Bruce Willis
+  - name: Winston Wolfe
+    actor: Harvey Keitel
+  - name: Ringo / "Pumpkin"
+    actor: Tim Roth
+  - name: Yolanda / "Honey Bunny"
+    actor: Amanda Plummer
+  - name: Fabienne
+    actor: Maria de Medeiros
+  - name: Marsellus Wallace
+    actor: Ving Rhames
+  - name: Lance
+    actor: Eric Stoltz
+  - name: Jody
+    actor: Rosanna Arquette
+  - name: Captain Koons
+    actor: Christopher Walken

@@ -1,0 +1,33 @@
+name: Reservoir Dogs
+description: >
+  An independent heist film about the events before and after a botched jewelry store robbery.
+  The film is famous for its non-linear storytelling, pop culture references, and the "Mexican standoff" climax.
+released: 1992-10-09
+rating: R
+length: 1h39m
+genres:
+  - crime
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Reservoir_Dogs
+imdb: https://www.imdb.com/title/tt0105236
+tmdb: https://www.themoviedb.org/movie/500
+directors: Quentin Tarantino
+production:
+  - Live Entertainment
+  - Dog Eat Dog Productions
+distributors: Miramax Films
+characters:
+  - name: Mr. White (Larry Dimmick)
+    actor: Harvey Keitel
+  - name: Mr. Orange (Freddy Newendyke)
+    actor: Tim Roth
+  - name: Mr. Blonde (Vic Vega)
+    actor: Michael Madsen
+  - name: Mr. Pink
+    actor: Steve Buscemi
+  - name: '"Nice Guy" Eddie Cabot'
+    actor: Chris Penn
+  - name: Joe Cabot
+    actor: Lawrence Tierney
+  - name: Mr. Brown
+    actor: Quentin Tarantino

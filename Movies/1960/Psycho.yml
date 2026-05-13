@@ -1,0 +1,27 @@
+name: Psycho
+description: >
+  A psychological horror-thriller centering on Marion Crane, an embezzler who ends up at a secluded motel
+  run by the shy Norman Bates, whose relationship with his domineering mother leads to a series of gruesome events.
+released: 1960-09-08
+rating: R
+length: 1h49m
+genres:
+  - horror
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Psycho_(1960_film)
+imdb: https://www.imdb.com/title/tt0054215
+tmdb: https://www.themoviedb.org/movie/539
+directors: Alfred Hitchcock
+production: Shamley Productions
+distributors: Paramount Pictures
+characters:
+  - name: Norman Bates
+    actor: Anthony Perkins
+  - name: Marion Crane
+    actor: Janet Leigh
+  - name: Lila Crane
+    actor: Vera Miles
+  - name: Sam Loomis
+    actor: John Gavin
+  - name: Milton Arbogast
+    actor: Martin Balsam

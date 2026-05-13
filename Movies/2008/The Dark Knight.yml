@@ -30,10 +30,10 @@ producers:
   - Charles Roven
   - Christopher Nolan
 production:
-  - Companies/Warner Bros. Pictures
+  - Warner Bros. Pictures
   - Legendary Pictures
   - Syncopy
-distributors: Companies/Warner Bros. Pictures
+distributors: Warner Bros. Pictures
 characters:
   - name: Bruce Wayne / Batman
     actor: Christian Bale
