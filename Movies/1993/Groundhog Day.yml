@@ -1,0 +1,46 @@
+name: Groundhog Day
+description: >
+  A fantasy romantic comedy about Phil Connors, a cynical television weatherman
+  sent to cover the annual Groundhog Day event in Punxsutawney, Pennsylvania.
+  After becoming trapped in a time loop, he is forced to relive February 2
+  again and again.
+released: 1993-02-12
+rating: PG
+length: 1h41m
+genres:
+  - fantasy
+  - romantic comedy
+  - comedy-drama
+wikipedia: https://en.wikipedia.org/wiki/Groundhog_Day_(film)
+imdb: https://www.imdb.com/title/tt0107048
+tmdb: https://www.themoviedb.org/movie/137-groundhog-day
+directors: Harold Ramis
+screenplay:
+  - Danny Rubin
+  - Harold Ramis
+producers:
+  - Trevor Albert
+  - Harold Ramis
+music: George Fenton
+cinematography: John Bailey
+editors: Pembroke J. Herring
+distributors: Columbia Pictures
+characters:
+  - name: Phil Connors
+    actor: Bill Murray
+  - name: Rita Hanson
+    actor: Andie MacDowell
+  - name: Larry
+    actor: Chris Elliott
+  - name: Ned Ryerson
+    actor: Stephen Tobolowsky
+  - name: Buster Green
+    actor: Brian Doyle-Murray
+  - name: Nancy Taylor
+    actor: Marita Geraghty
+  - name: Mrs. Lancaster
+    actor: Angela Paton
+  - name: Gus
+    actor: Rick Ducommun
+  - name: Ralph
+    actor: Rick Overton

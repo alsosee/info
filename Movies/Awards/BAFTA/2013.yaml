@@ -1,0 +1,101 @@
+title: BAFTA 2013
+website: https://awards.bafta.org/award/2013/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: Silver Linings Playbook
+        screenplay:
+            - David O. Russell
+    - name: Animated Film
+      winner:
+        movie: Brave
+    - name: Cinematography
+      winner:
+        movie: Life Of Pi
+    - name: Costume Design
+      winner:
+        movie: Anna Karenina
+        constumedesign:
+            - Jacqueline Durran
+    - name: Director
+      winner:
+        movie: Ben Affleck
+        directors:
+            - Argo
+    - name: Documentary
+      winner:
+        movie: Searching For Sugar Man
+    - name: EE Rising Star
+      winner:
+        movie: Juno Temple
+    - name: Editing
+      winner:
+        movie: Argo
+        editors:
+            - William Goldenberg
+    - name: Fellowship
+      winner:
+        person: Alan Parker
+    - name: Film
+      winner:
+        movie: Argo
+    - name: Film Not in the English Language
+      winner:
+        movie: Amour
+    - name: Leading Actor
+      winner:
+        movie: Lincoln
+        actor: Daniel Day-Lewis
+    - name: Leading Actress
+      winner:
+        movie: Amour
+        actor: Emmanuelle Riva
+    - name: Make-Up And Hair
+      winner:
+        movie: Les Misérables
+    - name: Original Music
+      winner:
+        movie: Skyfall
+    - name: Original Screenplay
+      winner:
+        movie: Django Unchained
+        screenplay:
+            - Quentin Tarantino
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Tessa Ross
+    - name: Outstanding British Film
+      winner:
+        movie: Skyfall
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Bart Layton, Dimitri Doganis
+    - name: Production Design
+      winner:
+        movie: Les Misérables
+    - name: Short Animation
+      winner:
+        movie: The Making Of Longbird
+    - name: Short Film
+      winner:
+        movie: Swimmer
+    - name: Sound
+      winner:
+        movie: Les Misérables
+    - name: Special Award
+      winner:
+        movie: Her Majesty The Queen
+    - name: Special Award
+      winner:
+        movie: Run Run Shaw
+    - name: Special Visual Effects
+      winner:
+        movie: Life Of Pi
+    - name: Supporting Actor
+      winner:
+        movie: Django Unchained
+        actor: Christoph Waltz
+    - name: Supporting Actress
+      winner:
+        movie: Les Misérables
+        actor: Anne Hathaway

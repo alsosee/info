@@ -1,0 +1,104 @@
+title: Oscar 1982
+wikipedia: https://en.wikipedia.org/wiki/54th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1982
+imdb: https://www.imdb.com/event/ev0000003/1982/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Henry Fonda
+      movie: On Golden Pond
+
+  - name: Actor in a supporting role
+    winner:
+      actor: John Gielgud
+      movie: Arthur
+
+  - name: Actress in a leading role
+    winner:
+      actor: Katharine Hepburn
+      movie: On Golden Pond
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Maureen Stapleton
+      movie: Reds
+
+  - name: Art Direction
+    winner:
+      movie: Raiders of the Lost Ark
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Mephisto
+
+  - name: Cinematography
+    winner:
+      movie: Reds
+      cinematography: Vittorio Storaro
+
+  - name: Costume Design
+    winner:
+      movie: Chariots of Fire
+
+  - name: Directing
+    winner:
+      movie: Reds
+      directors: Warren Beatty
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Genocide
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Close Harmony
+
+  - name: Film Editing
+    winner:
+      movie: Raiders of the Lost Ark
+      editors: Michael Kahn
+
+  - name: Makeup
+    winner:
+      movie: An American Werewolf in London
+      person: Rick Baker
+
+  - name: Music (Original Score)
+    winner:
+      movie: Chariots of Fire
+      music: Vangelis
+
+  - name: Music (Original Song)
+    winner:
+      movie: Arthur
+      track: "Arthur's Theme (Best That You Can Do)"
+
+  - name: Best Picture
+    winner:
+      movie: Chariots of Fire
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Crac
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Violet
+
+  - name: Sound
+    winner:
+      movie: Raiders of the Lost Ark
+
+  - name: Visual Effects
+    winner:
+      movie: Raiders of the Lost Ark
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: On Golden Pond
+      writers: Ernest Thompson
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Chariots of Fire
+      writers: Colin Welland

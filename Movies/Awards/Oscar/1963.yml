@@ -1,0 +1,124 @@
+title: Oscar 1963
+wikipedia: https://en.wikipedia.org/wiki/35th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1963
+imdb: https://www.imdb.com/event/ev0000003/1963/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: Lawrence of Arabia
+
+  - name: Directing
+    winner:
+      movie: Lawrence of Arabia
+      directors: David Lean
+
+  - name: Actor in a leading role
+    winner:
+      actor: Gregory Peck
+      movie: To Kill a Mockingbird
+
+  - name: Actress in a leading role
+    winner:
+      actor: Anne Bancroft
+      movie: The Miracle Worker
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Ed Begley
+      movie: Sweet Bird of Youth
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Patty Duke
+      movie: The Miracle Worker
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Divorce Italian Style
+      writers:
+        - Ennio De Concini
+        - Alfredo Giannetti
+        - Pietro Germi
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: To Kill a Mockingbird
+      writers: Horton Foote
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Sundays and Cybele
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Black Fox
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Dylan Thomas
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Heureux Anniversaire
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Hole
+
+  - name: Music (Music Score -- Substantially Original)
+    winner:
+      movie: Lawrence of Arabia
+      music: Maurice Jarre
+
+  - name: Music (Scoring of Music -- Adaptation or Treatment)
+    winner:
+      movie: The Music Man
+      music: Ray Heindorf
+
+  - name: Music (Original Song)
+    winner:
+      movie: Days of Wine and Roses
+      track: Days of Wine and Roses
+
+  - name: Sound
+    winner:
+      movie: Lawrence of Arabia
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: To Kill a Mockingbird
+
+  - name: Art Direction (Color)
+    winner:
+      movie: Lawrence of Arabia
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: The Longest Day
+      cinematography:
+        - Jean Bourgoin
+        - Walter Wottitz
+
+  - name: Cinematography (Color)
+    winner:
+      movie: Lawrence of Arabia
+      cinematography: Freddie Young
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: "What Ever Happened to Baby Jane?"
+      costume_design: Norma Koch
+
+  - name: Costume Design (Color)
+    winner:
+      movie: The Wonderful World of the Brothers Grimm
+      costume_design: Mary Wills
+
+  - name: Film Editing
+    winner:
+      movie: Lawrence of Arabia
+      editors: Anne V. Coates
+
+  - name: Visual Effects
+    winner:
+      movie: The Longest Day

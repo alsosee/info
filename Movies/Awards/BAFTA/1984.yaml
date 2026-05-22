@@ -1,0 +1,88 @@
+title: BAFTA 1984
+website: https://awards.bafta.org/award/1984/film
+categories:
+    - name: Actor
+      winner:
+        movie: Michael Caine
+    - name: Actress
+      winner:
+        movie: Julie Walters
+    - name: Adapted Screenplay
+      winner:
+        movie: Heat And Dust
+        screenplay:
+            - Ruth Prawer Jhabvala
+    - name: Cinematography
+      winner:
+        movie: Fanny And Alexander
+    - name: Costume Design
+      winner:
+        movie: La Traviata
+        constumedesign:
+            - Piero Tosi
+    - name: Direction
+      winner:
+        movie: Local Hero
+    - name: Editing
+      winner:
+        movie: Flashdance
+        editors:
+            - Bud Smith, Walt Mulconery
+    - name: Fellowship
+      winner:
+        person: Sam Spiegel
+    - name: Film
+      winner:
+        movie: Educating Rita
+    - name: Flaherty Documentary Award
+      winner:
+        movie: Schindler
+    - name: Foreign Language Film
+      winner:
+        movie: Danton
+    - name: Make-Up Artist
+      winner:
+        movie: Dorothy Pearl, George Masters, C Romaina Ford, Allen Weisinger
+    - name: Most Promising Newcomer To Film
+      winner:
+        movie: Phyllis Logan
+    - name: Original Screenplay
+      winner:
+        movie: The King Of Comedy
+        screenplay:
+            - Paul D Zimmerman
+    - name: Original Song Written for a Film
+      winner:
+        movie: An Officer And A Gentleman (Up Where We Belong)
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Colin Young
+    - name: Production Design
+      winner:
+        movie: La Traviata
+    - name: Score For A Film
+      winner:
+        movie: Merry Christmas Mr Lawrence
+    - name: Short Animation
+      winner:
+        movie: Henry's Cat
+    - name: Short Film
+      winner:
+        movie: Goodie Two Shoes
+    - name: Sound
+      winner:
+        movie: Wargames
+    - name: Special Award
+      winner:
+        movie: Dilys Powell
+    - name: Special Visual Effects
+      winner:
+        movie: Return Of The Jedi
+    - name: Supporting Actor
+      winner:
+        movie: Trading Places
+        actor: Denholm Elliott
+    - name: Supporting Actress
+      winner:
+        movie: Trading Places
+        actor: Jamie Lee Curtis

@@ -1,0 +1,43 @@
+title: Oscar 1931
+wikipedia: https://en.wikipedia.org/wiki/3rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1931
+imdb: https://www.imdb.com/event/ev0000003/1931/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: All Quiet on the Western Front
+
+  - name: Best Directing
+    winner:
+      movie: All Quiet on the Western Front
+      directors: Lewis Milestone
+
+  - name: Best Actor
+    winner:
+      actor: George Arliss
+      movie: Disraeli
+
+  - name: Best Actress
+    winner:
+      actor: Norma Shearer
+      movie: The Divorcee
+
+  - name: Best Writing
+    winner:
+      movie: The Big House
+      writers: Frances Marion
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Big House
+
+  - name: Best Art Direction
+    winner:
+      movie: King of Jazz
+
+  - name: Best Cinematography
+    winner:
+      movie: With Byrd at the South Pole
+      cinematography:
+        - Joseph T. Rucker
+        - Willard Van der Veer

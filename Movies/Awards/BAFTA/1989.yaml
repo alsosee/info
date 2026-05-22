@@ -1,0 +1,89 @@
+title: BAFTA 1989
+website: https://awards.bafta.org/award/1989/film
+categories:
+    - name: Achievement in Direction
+      winner:
+        movie: Louis Malle
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: George Gibbs, Richard Williams, Ken Ralston, Edward Jones
+    - name: Actor in a Leading Role
+      winner:
+        movie: John Cleese
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Michael Palin
+    - name: Actress in a Leading Role
+      winner:
+        movie: Maggie Smith
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Judi Dench
+    - name: Adapted Screenplay
+      winner:
+        movie: The Unbearable Lightness Of Being
+        screenplay:
+            - Jean-Claude Carrière, Philip Kaufman
+    - name: Cinematography
+      winner:
+        movie: Empire Of The Sun
+    - name: Costume Design
+      winner:
+        movie: The Last Emperor
+        constumedesign:
+            - James Acheson
+    - name: Editing
+      winner:
+        movie: Fatal Attraction
+        editors:
+            - Michael Kahn, Peter E Berger
+    - name: Fellowship
+      winner:
+        person: Alec Guinness
+    - name: Film
+      winner:
+        movie: The Last Emperor
+    - name: Film Not in the English Language
+      winner:
+        movie: Babette's Feast (Babettes Gæstebud)
+    - name: Flaherty Documentary Award
+      winner:
+        movie: 'This Week: Death On The Rock'
+    - name: Make-Up Artist
+      winner:
+        movie: Fabrizio Sforza
+    - name: Original Screenplay
+      winner:
+        movie: A World Apart
+        screenplay:
+            - Shawn Slovo
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Charles Crichton
+    - name: Post Office BAFTA Scholarship
+      winner:
+        movie: Gillian Wilkinson
+    - name: Production Design
+      winner:
+        movie: 'Tucker: The Man And His Dream'
+    - name: Score For A Film
+      winner:
+        movie: Empire Of The Sun
+    - name: Short Animation
+      winner:
+        movie: The Hill Farm
+    - name: Short Film
+      winner:
+        movie: Defence Counsel Sedov (Zashchitnik Sedov)
+    - name: Sound
+      winner:
+        movie: Empire Of The Sun
+    - name: Special Award
+      winner:
+        movie: Leslie Hardcastle
+    - name: Special Award
+      winner:
+        movie: Julie Andrews
+    - name: Special Award for Craft
+      winner:
+        movie: Richard Williams

@@ -1,0 +1,21 @@
+name: Donkey Kong Bananza
+description: >
+  A 3D action-adventure platformer where Donkey Kong and Pauline venture into the subterranean Underground World to stop the Void Company.
+  The game features a voxel-based destruction system allowing players to smash and tear through environments to find secrets and create paths.
+released: 2025-07-17
+genres:
+  - action-adventure
+  - platformer
+wikipedia: https://en.wikipedia.org/wiki/Donkey_Kong_Bananza
+developers: Nintendo EPD
+producers: Kenta Motokura
+composers: Naoto Kubo
+characters:
+  - name: Donkey Kong
+    voice: Kouji Takeda
+  - name: Pauline
+    voice: Jenny Kidd
+  - name: Void Kong
+    voice: Yuu Hayashi
+  - name: King K. Rool
+    voice: Tsuguo Mogami

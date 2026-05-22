@@ -1,0 +1,105 @@
+title: Oscar 1940
+wikipedia: https://en.wikipedia.org/wiki/12th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1940
+imdb: https://www.imdb.com/event/ev0000003/1940/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: Gone with the Wind
+
+  - name: Best Directing
+    winner:
+      movie: Gone with the Wind
+      directors: Victor Fleming
+
+  - name: Best Actor
+    winner:
+      actor: Robert Donat
+      movie: Goodbye, Mr. Chips
+
+  - name: Best Actress
+    winner:
+      actor: Vivien Leigh
+      movie: Gone with the Wind
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Thomas Mitchell
+      movie: Stagecoach
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Hattie McDaniel
+      movie: Gone with the Wind
+
+  - name: Writing (Original Story)
+    winner:
+      movie: Mr. Smith Goes to Washington
+      writers: Lewis R. Foster
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: Gone with the Wind
+      writers: Sidney Howard
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Busy Little Bears
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Sons of Liberty
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Ugly Duckling
+
+  - name: Best Music (Original Score)
+    winner:
+      movie: The Wizard of Oz
+      music: Herbert Stothart
+
+  - name: Best Music (Scoring)
+    winner:
+      movie: Stagecoach
+      music:
+        - Richard Hageman
+        - W. Franke Harling
+        - John Leipold
+        - Leo Shuken
+
+  - name: Best Music (Song)
+    winner:
+      movie: The Wizard of Oz
+      track: Over the Rainbow
+
+  - name: Best Sound Recording
+    winner:
+      movie: When Tomorrow Comes
+
+  - name: Best Art Direction
+    winner:
+      movie: Gone with the Wind
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Wuthering Heights
+      cinematography: Gregg Toland
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Gone with the Wind
+      cinematography:
+        - Ernest Haller
+        - Ray Rennahan
+
+  - name: Best Film Editing
+    winner:
+      movie: Gone with the Wind
+      editors:
+        - Hal C. Kern
+        - James E. Newcom
+
+  - name: Best Special Effects
+    winner:
+      movie: The Rains Came

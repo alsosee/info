@@ -1,0 +1,111 @@
+title: BAFTA 2020
+website: https://awards.bafta.org/award/2020/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: Jojo Rabbit
+        screenplay:
+            - Taika Waititi
+    - name: Animated Film
+      winner:
+        movie: Klaus
+    - name: Best Film
+      winner:
+        movie: "1917"
+        producers:
+            - Pippa Harris
+            - Callum McDougall
+            - Sam Mendes
+            - Jayne-Ann Tenggren
+    - name: British Short Animation
+      winner:
+        movie: Grandad Was A Romantic
+    - name: British Short Film
+      winner:
+        movie: Learning To Skateboard In A Warzone (If You're A Girl)
+    - name: Casting
+      winner:
+        movie: Joker
+        casting:
+            - Shayna Markowitz
+    - name: Cinematography
+      winner:
+        movie: "1917"
+    - name: Costume Design
+      winner:
+        movie: Little Women
+        constumedesign:
+            - Jacqueline Durran
+    - name: Director
+      winner:
+        movie: "1917"
+        directors:
+            - Sam Mendes
+    - name: Documentary
+      winner:
+        movie: For Sama
+    - name: EE Rising Star Award
+      winner:
+        person: Micheal Ward
+    - name: Editing
+      winner:
+        movie: Le Mans '66
+        editors:
+            - Andrew Buckland, Michael McCusker
+    - name: Fellowship
+      winner:
+        person: Kathleen Kennedy
+    - name: Film Not In The English Language
+      winner:
+        movie: Parasite
+    - name: Leading Actor
+      winner:
+        movie: Joker
+        actor: Joaquin Phoenix
+    - name: Leading Actress
+      winner:
+        movie: Judy
+        actor: Renée Zellweger
+    - name: Make Up & Hair
+      winner:
+        movie: Bombshell
+        makeupandhair:
+            - Vivian Baker
+            - Kazu Hiro
+            - Anne Morgan
+    - name: Original Score
+      winner:
+        movie: Joker
+        music:
+            - Hildur Guðnadóttir
+    - name: Original Screenplay
+      winner:
+        movie: Parasite
+        screenplay:
+            - Han Jin Won, Bong Joon Ho
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: Andy Serkis
+    - name: Outstanding British Film
+      winner:
+        movie: "1917"
+    - name: Outstanding Debut By A British Writer, Director Or Producer
+      winner:
+        movie: Bait
+    - name: Production Design
+      winner:
+        movie: "1917"
+    - name: Sound
+      winner:
+        movie: "1917"
+    - name: Special Visual Effects
+      winner:
+        movie: "1917"
+    - name: Supporting Actor
+      winner:
+        movie: Once Upon a Time.. in Hollywood
+        actor: Brad Pitt
+    - name: Supporting Actress
+      winner:
+        movie: Laura Dern
+        actor: Marriage Story

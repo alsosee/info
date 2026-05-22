@@ -1,0 +1,86 @@
+title: BAFTA 2000
+website: https://awards.bafta.org/award/2000/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: John Gaeta, Steve Courtley, Janek Sirrs, Jon Thum
+    - name: Actor in a Leading Role
+      winner:
+        movie: Kevin Spacey
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Jude Law
+    - name: Actress in a Leading Role
+      winner:
+        movie: Annette Bening
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Maggie Smith
+    - name: Adapted Screenplay
+      winner:
+        movie: The End Of The Affair
+        screenplay:
+            - Neil Jordan
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: East Is East
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: American Beauty
+    - name: Carl Foreman Award for the Most Promising Newcomer in British Film
+      winner:
+        movie: Lynne Ramsay
+    - name: Cinematography
+      winner:
+        movie: American Beauty
+    - name: Costume Design
+      winner:
+        movie: Sleepy Hollow
+        constumedesign:
+            - Colleen Atwood
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: All About My Mother (Todo Sobre Mi Madre)
+    - name: Editing
+      winner:
+        movie: American Beauty
+        editors:
+            - Tariq Anwar, Christopher Greenbury
+    - name: Fellowship
+      winner:
+        person: Stanley Kubrick (Posthumous)
+    - name: Fellowship
+      winner:
+        person: Michael Caine
+    - name: Film
+      winner:
+        movie: American Beauty
+    - name: Film Not in the English Language
+      winner:
+        movie: All About My Mother (Todo Sobre Mi Madre)
+    - name: Make-Up And Hair
+      winner:
+        movie: Topsy-Turvy
+    - name: Orange Film Of The Year
+      winner:
+        movie: Notting Hill
+    - name: Original Screenplay
+      winner:
+        movie: Being John Malkovich
+        screenplay:
+            - Charlie Kaufman
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Joyce Herlihy
+    - name: Production Design
+      winner:
+        movie: Sleepy Hollow
+    - name: Short Animation
+      winner:
+        movie: The Man With The Beautiful Eyes
+    - name: Short Film
+      winner:
+        movie: Who's My Favourite Girl
+    - name: Sound
+      winner:
+        movie: The Matrix

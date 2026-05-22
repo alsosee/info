@@ -1,0 +1,105 @@
+title: Oscar 1976
+wikipedia: https://en.wikipedia.org/wiki/48th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1976
+imdb: https://www.imdb.com/event/ev0000003/1976/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jack Nicholson
+      movie: One Flew Over the Cuckoo's Nest
+
+  - name: Actor in a supporting role
+    winner:
+      actor: George Burns
+      movie: The Sunshine Boys
+
+  - name: Actress in a leading role
+    winner:
+      actor: Louise Fletcher
+      movie: One Flew Over the Cuckoo's Nest
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Lee Grant
+      movie: Shampoo
+
+  - name: Art Direction
+    winner:
+      movie: Barry Lyndon
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Dersu Uzala
+
+  - name: Cinematography
+    winner:
+      movie: Barry Lyndon
+      cinematography: John Alcott
+
+  - name: Costume Design
+    winner:
+      movie: Barry Lyndon
+      costume_design:
+        - Milena Canonero
+        - Ulla-Britt Söderlund
+
+  - name: Directing
+    winner:
+      movie: One Flew Over the Cuckoo's Nest
+      directors: Miloš Forman
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Man Who Skied Down Everest
+
+  - name: Documentary Short Subject
+    winner:
+      movie: The End of the Game
+
+  - name: Film Editing
+    winner:
+      movie: Jaws
+      editors: Verna Fields
+
+  - name: Music (Original Score)
+    winner:
+      movie: Jaws
+      music: John Williams
+
+  - name: "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)"
+    winner:
+      movie: Barry Lyndon
+      music: Leonard Rosenman
+
+  - name: Music (Original Song)
+    winner:
+      movie: Nashville
+      track: "I'm Easy"
+
+  - name: Best Picture
+    winner:
+      movie: One Flew Over the Cuckoo's Nest
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Great
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Angel and Big Joe
+
+  - name: Sound
+    winner:
+      movie: Jaws
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: One Flew Over the Cuckoo's Nest
+      writers:
+        - Bo Goldman
+        - Lawrence Hauben
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Dog Day Afternoon
+      writers: Frank Pierson

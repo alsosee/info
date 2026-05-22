@@ -1,0 +1,36 @@
+name: Vertigo
+description: >
+  A retired San Francisco detective with acrophobia is hired to follow an old friend's troubled wife,
+  and his investigation turns into a dangerous obsession.
+released: 1958-05-28
+rating: PG
+length: 2h8m
+genres:
+  - mystery
+  - romance
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Vertigo_(film)
+imdb: https://www.imdb.com/title/tt0052357
+tmdb: https://www.themoviedb.org/movie/426-vertigo
+directors: Alfred Hitchcock
+producers:
+  - Alfred Hitchcock
+screenplay:
+  - Alec Coppel
+  - Samuel A. Taylor
+music: Bernard Herrmann
+cinematography: Robert Burks
+editors: George Tomasini
+production: Alfred J. Hitchcock Productions
+distributors: Paramount Pictures
+characters:
+  - name: John "Scottie" Ferguson
+    actor: James Stewart
+  - name: Madeleine Elster / Judy Barton
+    actor: Kim Novak
+  - name: Marjorie "Midge" Wood
+    actor: Barbara Bel Geddes
+  - name: Gavin Elster
+    actor: Tom Helmore
+  - name: Coroner
+    actor: Henry Jones

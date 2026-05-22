@@ -1,0 +1,126 @@
+title: Oscar 1955
+wikipedia: https://en.wikipedia.org/wiki/27th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1955
+imdb: https://www.imdb.com/event/ev0000003/1955/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: On the Waterfront
+
+  - name: Best Directing
+    winner:
+      movie: On the Waterfront
+      directors: Elia Kazan
+
+  - name: Best Actor
+    winner:
+      actor: Marlon Brando
+      movie: On the Waterfront
+
+  - name: Best Actress
+    winner:
+      actor: Grace Kelly
+      movie: The Country Girl
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Edmond O'Brien
+      movie: The Barefoot Contessa
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Eva Marie Saint
+      movie: On the Waterfront
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: Broken Lance
+      writers: Philip Yordan
+
+  - name: Writing (Story and Screenplay)
+    winner:
+      movie: On the Waterfront
+      writers: Budd Schulberg
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Country Girl
+      writers: George Seaton
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: The Vanishing Prairie
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Thursday's Children
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: This Mechanical Age
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: A Time Out of War
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: When Magoo Flew
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: The High and the Mighty
+      music: Dimitri Tiomkin
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Seven Brides for Seven Brothers
+      music:
+        - Adolph Deutsch
+        - Saul Chaplin
+
+  - name: Best Music (Song)
+    winner:
+      movie: Three Coins in the Fountain
+      track: Three Coins in the Fountain
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Glenn Miller Story
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: On the Waterfront
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: "20,000 Leagues Under the Sea"
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: On the Waterfront
+      cinematography: Boris Kaufman
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Three Coins in the Fountain
+      cinematography: Milton Krasner
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: Sabrina
+      costume_design: Edith Head
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: Gate of Hell
+      costume_design: Sanzo Wada
+
+  - name: Best Film Editing
+    winner:
+      movie: On the Waterfront
+      editors: Gene Milford
+
+  - name: Best Special Effects
+    winner:
+      movie: "20,000 Leagues Under the Sea"

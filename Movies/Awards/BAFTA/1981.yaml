@@ -1,0 +1,67 @@
+title: BAFTA 1981
+website: https://awards.bafta.org/award/1981/film
+categories:
+    - name: Actor
+      winner:
+        movie: John Hurt
+    - name: Actress
+      winner:
+        movie: Judy Davis
+    - name: Animated Film
+      winner:
+        movie: The Three Inventors
+    - name: Cinematography
+      winner:
+        movie: All That Jazz
+    - name: Costume Design
+      winner:
+        movie: Kagemusha
+        constumedesign:
+            - Seiichiro Momosawa
+    - name: Direction
+      winner:
+        movie: Kagemusha
+    - name: Editing
+      winner:
+        movie: All That Jazz
+        editors:
+            - Alan Heim
+    - name: Fellowship
+      winner:
+        person: Emeric Pressburger
+    - name: Fellowship
+      winner:
+        person: Michael Powell
+    - name: Fellowship
+      winner:
+        person: Abel Gance
+    - name: Film
+      winner:
+        movie: The Elephant Man
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Judy Davis
+    - name: Original Film Music
+      winner:
+        movie: The Empire Strikes Back
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Kevin Brownlow
+    - name: Production Design
+      winner:
+        movie: The Elephant Man
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Category not awarded this year
+    - name: Screenplay
+      winner:
+        movie: Being There
+    - name: Short Film
+      winner:
+        movie: Sredni Vashtar
+    - name: Sound
+      winner:
+        movie: Fame
+    - name: Special Award
+      winner:
+        movie: Jimmy Wright

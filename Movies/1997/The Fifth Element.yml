@@ -1,0 +1,53 @@
+name: The Fifth Element
+description: >
+  In the 23rd century, taxi driver Korben Dallas is pulled into a race to protect Leeloo,
+  a mysterious woman tied to an ancient weapon that can stop a cosmic evil from destroying
+  Earth. As a priest, a corrupt industrialist, and alien mercenaries pursue the same elemental
+  stones, Korben and Leeloo become humanity's unlikely last defense.
+released: 1997-05-09
+rating: PG-13
+length: 2h6m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Fifth_Element
+imdb: https://www.imdb.com/title/tt0119116
+tmdb: https://www.themoviedb.org/movie/18-le-cinquieme-element
+rotten_tomatoes: https://www.rottentomatoes.com/m/fifth_element
+metacritic: https://www.metacritic.com/movie/the-fifth-element
+directors: Luc Besson
+producers: Patrice Ledoux
+screenplay:
+  - Luc Besson
+  - Robert Mark Kamen
+music: Eric Serra
+cinematography: Thierry Arbogast
+editors: Sylvie Landra
+production:
+  - Gaumont
+  - Pinewood Studios
+distributors:
+  - Gaumont Buena Vista International
+  - Columbia Pictures
+characters:
+  - name: Korben Dallas
+    actor: Bruce Willis
+  - name: Leeloo
+    actor: Milla Jovovich
+  - name: Jean-Baptiste Emanuel Zorg
+    actor: Gary Oldman
+  - name: Vito Cornelius
+    actor: Ian Holm
+  - name: Ruby Rhod
+    actor: Chris Tucker
+  - name: General Munro
+    actor: Brion James
+  - name: President Lindberg
+    actor: Tom Lister Jr.
+  - name: Billy
+    actor: Luke Perry
+  - name: Fog
+    actor: Lee Evans
+  - name: Diva Plavalaguna
+    actor: Maiwenn

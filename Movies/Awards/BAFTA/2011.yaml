@@ -1,0 +1,98 @@
+title: BAFTA 2011
+website: https://awards.bafta.org/award/2011/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: The Social Network
+        screenplay:
+            - Aaron Sorkin
+    - name: Animated Film
+      winner:
+        movie: Toy Story 3
+    - name: Cinematography
+      winner:
+        movie: True Grit
+    - name: Costume Design
+      winner:
+        movie: Alice In Wonderland
+        constumedesign:
+            - Colleen Atwood
+    - name: Director
+      winner:
+        movie: David Fincher
+        directors:
+            - The Social Network
+    - name: Editing
+      winner:
+        movie: The Social Network
+        editors:
+            - Angus Wall, Kirk Baxter
+    - name: Fellowship
+      winner:
+        person: Christopher Lee
+    - name: Film
+      winner:
+        movie: The King's Speech
+    - name: Film Not in the English Language
+      winner:
+        movie: The Girl With The Dragon Tattoo
+    - name: Leading Actor
+      winner:
+        movie: The King's Speech
+        actor: Colin Firth
+    - name: Leading Actress
+      winner:
+        movie: Black Swan
+        actor: Natalie Portman
+    - name: Make-Up And Hair
+      winner:
+        movie: Alice In Wonderland
+    - name: Orange Wednesdays Rising Star Award
+      winner:
+        movie: Tom Hardy
+    - name: Original Music
+      winner:
+        movie: The King's Speech
+    - name: Original Screenplay
+      winner:
+        movie: The King's Speech
+        screenplay:
+            - David Seidler
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: The Harry Potter Films
+    - name: Outstanding British Film
+      winner:
+        movie: The King's Speech
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Chris Morris
+    - name: Production Design
+      winner:
+        movie: Inception
+    - name: Short Animation
+      winner:
+        movie: The Eagleman Stag
+    - name: Short Film
+      winner:
+        movie: Until The River Runs Red
+    - name: Sound
+      winner:
+        movie: Inception
+    - name: Special Award
+      winner:
+        movie: Christopher Challis
+    - name: Special Award
+      winner:
+        movie: Ken Adam
+    - name: Special Visual Effects
+      winner:
+        movie: Inception
+    - name: Supporting Actor
+      winner:
+        movie: The King's Speech
+        actor: Geoffrey Rush
+    - name: Supporting Actress
+      winner:
+        movie: The King's Speech
+        actor: Helena Bonham Carter

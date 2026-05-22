@@ -79,3 +79,8 @@ characters:
     actor: Benedict Wong
   - name: Eitri
     actor: Peter Dinklage
+  - name: Nick Fury
+    actor: Samuel L. Jackson
+  - name: Maria Hill
+    actor: Cobie Smulders
+    ref: Characters/Maria Hill

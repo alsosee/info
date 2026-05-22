@@ -1,0 +1,95 @@
+title: BAFTA 2008
+website: https://awards.bafta.org/award/2008/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: The Diving Bell And The Butterfly
+        screenplay:
+            - Ronald Harwood
+    - name: Animated Film
+      winner:
+        movie: Ratatouille
+    - name: BAFTA/Orange 60 Seconds Of Fame
+      winner:
+        movie: United (Polar Showtime Dancers)
+    - name: British Film
+      winner:
+        movie: This Is England
+    - name: Carl Foreman Award for Special Achievement by a British Director, Writer or Producer in their First Feature Film
+      winner:
+        movie: Matt Greenhalgh (Writer)
+    - name: Cinematography
+      winner:
+        movie: No Country For Old Men
+    - name: Costume Design
+      winner:
+        movie: La Vie En Rose
+        constumedesign:
+            - Marit Allen
+    - name: Director
+      winner:
+        movie: Joel Coen, Ethan Coen
+        directors:
+            - No Country For Old Men
+    - name: Editing
+      winner:
+        movie: The Bourne Ultimatum
+        editors:
+            - Christopher Rouse
+    - name: Fellowship
+      winner:
+        person: Anthony Hopkins
+    - name: Film
+      winner:
+        movie: Atonement
+    - name: Film Not in the English Language
+      winner:
+        movie: The Lives Of Others
+    - name: Leading Actor
+      winner:
+        movie: There Will Be Blood
+        actor: Daniel Day-Lewis
+    - name: Leading Actress
+      winner:
+        movie: La Vie En Rose
+        actor: Marion Cotillard
+    - name: Make-Up And Hair
+      winner:
+        movie: La Vie En Rose
+    - name: Music
+      winner:
+        movie: La Vie En Rose
+    - name: Orange Rising Star Award (Voted For By The Public)
+      winner:
+        movie: Shia LaBeouf
+    - name: Original Screenplay
+      winner:
+        movie: Juno
+        screenplay:
+            - Diablo Cody
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Barry Wilkinson
+    - name: Production Design
+      winner:
+        movie: Atonement
+    - name: Short Animation
+      winner:
+        movie: The Pearce Sisters
+    - name: Short Film
+      winner:
+        movie: Dog Altogether
+    - name: Sound
+      winner:
+        movie: The Bourne Ultimatum
+    - name: Special Visual Effects
+      winner:
+        movie: The Golden Compass
+    - name: Supporting Actor
+      winner:
+        movie: No Country For Old Men
+        actor: Javier Bardem
+    - name: Supporting Actress
+      winner:
+        movie: Michael Clayton
+        actor: Tilda Swinton

@@ -1,0 +1,75 @@
+title: Oscar 1929
+wikipedia: https://en.wikipedia.org/wiki/1st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1929
+imdb: https://www.imdb.com/event/ev0000003/1929/1
+categories:
+  - name: Outstanding Picture
+    winner:
+      movie: Wings
+
+  - name: Unique and Artistic Picture
+    winner:
+      movie: Sunrise
+
+  - name: Directing (Dramatic Picture)
+    winner:
+      movie: 7th Heaven
+      directors: Frank Borzage
+
+  - name: Directing (Comedy Picture)
+    winner:
+      movie: Two Arabian Knights
+      directors: Lewis Milestone
+
+  - name: Actor
+    winner:
+      actor: Emil Jannings
+      movie: The Last Command
+      # TODO: movie is a list in 1929 (actor won for multiple films)
+      # movie:
+      #   - The Last Command
+      #   - The Way of All Flesh
+
+  - name: Actress
+    winner:
+      actor: Janet Gaynor
+      movie: 7th Heaven
+      # TODO: movie is a list in 1929 (actress won for multiple films)
+      # movie:
+      #   - 7th Heaven
+      #   - Street Angel
+      #   - Sunrise
+
+  - name: Writing (Original Story)
+    winner:
+      movie: Underworld
+      writers: Ben Hecht
+
+  - name: Writing (Adaptation)
+    winner:
+      movie: 7th Heaven
+      writers: Benjamin Glazer
+
+  - name: Writing (Title Writing)
+    winner:
+      person: Joseph Farnham
+
+  - name: Art Direction
+    winner:
+      movie: The Dove
+      # TODO: movie is a list in 1929 (award given for multiple films)
+      # movie:
+      #   - The Dove
+      #   - Tempest
+
+  - name: Cinematography
+    winner:
+      movie: Sunrise
+      cinematography:
+        - Charles Rosher
+        - Karl Struss
+
+  - name: Engineering Effects
+    winner:
+      movie: Wings
+      person: Roy Pomeroy

@@ -1,0 +1,113 @@
+title: Oscar 2017
+wikipedia: https://en.wikipedia.org/wiki/89th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2017
+imdb: https://www.imdb.com/event/ev0000003/2017/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Casey Affleck
+      movie: Manchester by the Sea
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Mahershala Ali
+      movie: Moonlight
+
+  - name: Actress in a leading role
+    winner:
+      actor: Emma Stone
+      movie: La La Land
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Viola Davis
+      movie: Fences
+
+  - name: Animated feature film
+    winner:
+      movie: Zootopia
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Salesman
+
+  - name: Cinematography
+    winner:
+      movie: La La Land
+      cinematography: Linus Sandgren
+
+  - name: Costume Design
+    winner:
+      movie: Fantastic Beasts and Where to Find Them
+
+  - name: Directing
+    winner:
+      movie: La La Land
+      directors: Damien Chazelle
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "O.J.: Made in America"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: The White Helmets
+
+  - name: Film Editing
+    winner:
+      movie: Hacksaw Ridge
+      editors: John Gilbert
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Suicide Squad
+
+  - name: Music (Original Score)
+    winner:
+      movie: La La Land
+      music: Justin Hurwitz
+
+  - name: Music (Original Song)
+    winner:
+      movie: La La Land
+      track: City of Stars
+
+  - name: Best Picture
+    winner:
+      movie: Moonlight
+
+  - name: Production Design
+    winner:
+      movie: La La Land
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Piper
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Sing
+
+  - name: Sound Editing
+    winner:
+      movie: Arrival
+
+  - name: Sound Mixing
+    winner:
+      movie: Hacksaw Ridge
+
+  - name: Visual Effects
+    winner:
+      movie: The Jungle Book
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Moonlight
+      writers:
+        - Barry Jenkins
+        - Tarell Alvin McCraney
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Manchester by the Sea
+      writers: Kenneth Lonergan

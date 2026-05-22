@@ -1,0 +1,132 @@
+name: "Easy"
+description: >
+  An anthology series set in Chicago that explores the lives of various residents as they navigate modern complexities of love, relationships, sex, and technology.
+released: 2016-09-22
+rating: TV-MA
+genres:
+  - comedy
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Easy_(TV_series)
+imdb: https://www.imdb.com/title/tt5961008/
+tmdb: https://www.themoviedb.org/tv/68005-easy/season/1
+network: Netflix
+creators: Joe Swanberg
+episodes:
+  - name: "The F**king Study"
+    description: >
+      Married couple Andi and Kyle attempt to spice up their sex life by experimenting with traditional gender roles after hearing about a study.
+    released: 2016-09-22
+    length: 26m
+    imdb: https://www.imdb.com/title/tt5981510/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Kyle
+        actor: Michael Chernus
+      - name: Andi
+        actor: Elizabeth Reaser
+  - name: "Vegan Cinderella"
+    description: >
+      A young woman starts dating an activist and goes to extreme lengths to impress her by adopting a vegan lifestyle she isn't ready for.
+    released: 2016-09-22
+    length: 28m
+    imdb: https://www.imdb.com/title/tt5981512/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Chase
+        actor: Kiersey Clemons
+      - name: Jo
+        actor: Jacqueline Toboni
+  - name: "Brewery Brothers"
+    description: >
+      Two brothers decide to start an illegal garage brewery together, which puts a strain on one of their marriages.
+    released: 2016-09-22
+    length: 29m
+    imdb: https://www.imdb.com/title/tt5981514/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Jeff
+        actor: Dave Franco
+      - name: Matt
+        actor: Evan Jonigkeit
+      - name: Sherri
+        actor: Aya Cash
+      - name: Noelle
+        actor: Zazie Beetz
+  - name: "Controlada"
+    description: >
+      A couple trying to conceive has their domestic life disrupted when a hard-partying friend from their past comes to visit and stays on their couch.
+    released: 2016-09-22
+    length: 30m
+    imdb: https://www.imdb.com/title/tt5981516/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Gabi
+        actor: Aislinn Derbez
+      - name: Bernie
+        actor: Raul Castillo
+      - name: Martin
+        actor: Mauricio Ochmann
+  - name: "Art and Life"
+    description: >
+      A graphic novelist finds himself in a viral moment after an intimate book signing leads to an embarrassing public incident.
+    released: 2016-09-22
+    length: 30m
+    imdb: https://www.imdb.com/title/tt5981518/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Jacob Malco
+        actor: Marc Maron
+      - name: Allison Lizowska
+        actor: Emily Ratajkowski
+  - name: "Utopia"
+    description: >
+      A married couple with a new baby decides to explore having a threesome after being introduced to Tinder.
+    released: 2016-09-22
+    length: 26m
+    imdb: https://www.imdb.com/title/tt5981520/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Tom
+        actor: Orlando Bloom
+      - name: Lucy
+        actor: Malin Akerman
+      - name: Annie
+        actor: Kate Micucci
+  - name: "Chemistry Read"
+    description: >
+      An actress reevaluates her life and career while auditioning for a major role that could take her away from her home and relationships.
+    released: 2016-09-22
+    length: 26m
+    imdb: https://www.imdb.com/title/tt5981522/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Sophie
+        actor: Gugu Mbatha-Raw
+      - name: Annabelle Jones
+        actor: Jane Adams
+      - name: Drew
+        actor: Jake Johnson
+      - name: Wally
+        actor: Jake Weber
+  - name: "Hop Dreams"
+    description: >
+      As their garage brewery finds success, the two brothers face a conflict over whether to expand the business or keep it small and independent.
+    released: 2016-09-22
+    length: 27m
+    imdb: https://www.imdb.com/title/tt5981524/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Matt
+        actor: Evan Jonigkeit
+      - name: Jeff
+        actor: Dave Franco
+      - name: Jason
+        actor: Hannibal Buress

@@ -1,0 +1,107 @@
+title: Oscar 2000
+wikipedia: https://en.wikipedia.org/wiki/72nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2000
+imdb: https://www.imdb.com/event/ev0000003/2000/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Kevin Spacey
+      movie: American Beauty
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Michael Caine
+      movie: The Cider House Rules
+
+  - name: Actress in a leading role
+    winner:
+      actor: Hilary Swank
+      movie: Boys Don't Cry
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Angelina Jolie
+      movie: "Girl, Interrupted"
+
+  - name: Art Direction
+    winner:
+      movie: Sleepy Hollow
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: All About My Mother
+
+  - name: Cinematography
+    winner:
+      movie: American Beauty
+      cinematography: Conrad Hall
+
+  - name: Costume Design
+    winner:
+      movie: Topsy-Turvy
+
+  - name: Directing
+    winner:
+      movie: American Beauty
+      directors: Sam Mendes
+
+  - name: Documentary Feature Film
+    winner:
+      movie: One Day in September
+
+  - name: Documentary Short Subject
+    winner:
+      movie: King Gimp
+
+  - name: Film Editing
+    winner:
+      movie: The Matrix
+      editors: Zach Staenberg
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Topsy-Turvy
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Red Violin
+      music: John Corigliano
+
+  - name: Music (Original Song)
+    winner:
+      movie: Tarzan
+      track: You'll Be in My Heart
+
+  - name: Best Picture
+    winner:
+      movie: American Beauty
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Old Man and the Sea
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: My Mother Dreams the Satan's Disciples in New York
+
+  - name: Sound
+    winner:
+      movie: The Matrix
+
+  - name: Sound Effects Editing
+    winner:
+      movie: The Matrix
+
+  - name: Visual Effects
+    winner:
+      movie: The Matrix
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Cider House Rules
+      writers: John Irving
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: American Beauty
+      writers: Alan Ball

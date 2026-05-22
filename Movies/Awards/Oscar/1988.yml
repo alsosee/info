@@ -1,0 +1,108 @@
+title: Oscar 1988
+wikipedia: https://en.wikipedia.org/wiki/60th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1988
+imdb: https://www.imdb.com/event/ev0000003/1988/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Michael Douglas
+      movie: Wall Street
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Sean Connery
+      movie: The Untouchables
+
+  - name: Actress in a leading role
+    winner:
+      actor: Cher
+      movie: Moonstruck
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Olympia Dukakis
+      movie: Moonstruck
+
+  - name: Art Direction
+    winner:
+      movie: The Last Emperor
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Babette's Feast
+
+  - name: Cinematography
+    winner:
+      movie: The Last Emperor
+      cinematography: Vittorio Storaro
+
+  - name: Costume Design
+    winner:
+      movie: The Last Emperor
+
+  - name: Directing
+    winner:
+      movie: The Last Emperor
+      directors: Bernardo Bertolucci
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "The Ten-Year Lunch: The Wit and Legend of the Algonquin Round Table"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Young at Heart
+
+  - name: Film Editing
+    winner:
+      movie: The Last Emperor
+      editors: Gabriella Cristiani
+
+  - name: Makeup
+    winner:
+      movie: Harry and the Hendersons
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Last Emperor
+      music:
+        - Ryuichi Sakamoto
+        - David Byrne
+        - Cong Su
+
+  - name: Music (Original Song)
+    winner:
+      movie: Dirty Dancing
+      track: (I've Had) The Time of My Life
+
+  - name: Best Picture
+    winner:
+      movie: The Last Emperor
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Man Who Planted Trees
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Ray's Male Heterosexual Dance Hall
+
+  - name: Sound
+    winner:
+      movie: The Last Emperor
+
+  - name: Visual Effects
+    winner:
+      movie: Innerspace
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Last Emperor
+      writers:
+        - Mark Peploe
+        - Bernardo Bertolucci
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Moonstruck
+      writers: John Patrick Shanley

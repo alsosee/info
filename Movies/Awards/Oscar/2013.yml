@@ -1,0 +1,111 @@
+title: Oscar 2013
+wikipedia: https://en.wikipedia.org/wiki/85th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2013
+imdb: https://www.imdb.com/event/ev0000003/2013/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Daniel Day-Lewis
+      movie: Lincoln
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Christoph Waltz
+      movie: Django Unchained
+
+  - name: Actress in a leading role
+    winner:
+      actor: Jennifer Lawrence
+      movie: Silver Linings Playbook
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Anne Hathaway
+      movie: Les Misérables
+
+  - name: Animated feature film
+    winner:
+      movie: Brave
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Amour
+
+  - name: Cinematography
+    winner:
+      movie: Life of Pi
+      cinematography: Claudio Miranda
+
+  - name: Costume Design
+    winner:
+      movie: Anna Karenina
+
+  - name: Directing
+    winner:
+      movie: Life of Pi
+      directors: Ang Lee
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Searching for Sugar Man
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Inocente
+
+  - name: Film Editing
+    winner:
+      movie: Argo
+      editors: William Goldenberg
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Les Misérables
+
+  - name: Music (Original Score)
+    winner:
+      movie: Life of Pi
+      music: Mychael Danna
+
+  - name: Music (Original Song)
+    winner:
+      movie: Skyfall
+      track: Skyfall
+
+  - name: Best Picture
+    winner:
+      movie: Argo
+
+  - name: Production Design
+    winner:
+      movie: Lincoln
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Paperman
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Curfew
+
+  - name: Sound Editing
+    winner:
+      movie: Skyfall
+
+  - name: Sound Mixing
+    winner:
+      movie: Les Misérables
+
+  - name: Visual Effects
+    winner:
+      movie: Life of Pi
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Argo
+      writers: Chris Terrio
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Django Unchained
+      writers: Quentin Tarantino

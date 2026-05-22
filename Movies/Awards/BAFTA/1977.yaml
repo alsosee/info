@@ -1,0 +1,67 @@
+title: BAFTA 1977
+website: https://awards.bafta.org/award/1977/film
+categories:
+    - name: Actor
+      winner:
+        movie: Jack Nicholson
+    - name: Actress
+      winner:
+        movie: Louise Fletcher
+    - name: Anthony Asquith Memorial Award
+      winner:
+        movie: Taxi Driver
+    - name: Cinematography
+      winner:
+        movie: Picnic At Hanging Rock
+    - name: Costume Design
+      winner:
+        movie: The Marquise Of O (Die Marquise Von O)
+        constumedesign:
+            - Moidele Bickel
+    - name: Direction
+      winner:
+        movie: One Flew Over The Cuckoo's Nest
+    - name: Fellowship
+      winner:
+        person: Denis Forman
+    - name: Film
+      winner:
+        movie: One Flew Over The Cuckoo's Nest
+    - name: Film Editing
+      winner:
+        movie: One Flew Over The Cuckoo's Nest
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Jodie Foster
+    - name: Production Design
+      winner:
+        movie: Bugsy Malone
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: The Canadians (Los Canadienses)
+    - name: Screenplay
+      winner:
+        movie: Bugsy Malone
+    - name: Short Factual Film
+      winner:
+        movie: The End Of The Road
+    - name: Short Fictional Film
+      winner:
+        movie: Category not awarded this year
+    - name: Soundtrack
+      winner:
+        movie: Bugsy Malone
+    - name: Specialised Film
+      winner:
+        movie: Hydraulics
+    - name: Supporting Actor
+      winner:
+        movie: One Flew Over The Cuckoo's Nest
+        actor: Brad Dourif
+    - name: Supporting Actress
+      winner:
+        movie: Bugsy Malone/Taxi Driver
+        actor: Jodie Foster
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: Category not awarded this year

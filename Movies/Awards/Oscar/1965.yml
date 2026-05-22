@@ -1,0 +1,128 @@
+title: Oscar 1965
+wikipedia: https://en.wikipedia.org/wiki/37th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1965
+imdb: https://www.imdb.com/event/ev0000003/1965/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: My Fair Lady
+
+  - name: Directing
+    winner:
+      movie: My Fair Lady
+      directors: George Cukor
+
+  - name: Actor in a leading role
+    winner:
+      actor: Rex Harrison
+      movie: My Fair Lady
+
+  - name: Actress in a leading role
+    winner:
+      actor: Julie Andrews
+      movie: Mary Poppins
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Peter Ustinov
+      movie: Topkapi
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Lila Kedrova
+      movie: Zorba the Greek
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Father Goose
+      writers:
+        - S. H. Barnett
+        - Peter Stone
+        - Frank Tarloff
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Becket
+      writers: Edward Anhalt
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Yesterday, Today and Tomorrow
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Jacques-Yves Cousteau's World Without Sun"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Nine from Little Rock
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: "Casals Conducts: 1964"
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Pink Phink
+
+  - name: Music (Music Score -- Substantially Original)
+    winner:
+      movie: Mary Poppins
+      music:
+        - Richard M. Sherman
+        - Robert B. Sherman
+
+  - name: Music (Scoring of Music -- Adaptation or Treatment)
+    winner:
+      movie: My Fair Lady
+      music: André Previn
+
+  - name: Music (Original Song)
+    winner:
+      movie: Mary Poppins
+      track: Chim Chim Cher-ee
+
+  - name: Sound
+    winner:
+      movie: My Fair Lady
+
+  - name: Sound Effects
+    winner:
+      movie: Goldfinger
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: Zorba the Greek
+
+  - name: Art Direction (Color)
+    winner:
+      movie: My Fair Lady
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: Zorba the Greek
+      cinematography: Walter Lassally
+
+  - name: Cinematography (Color)
+    winner:
+      movie: My Fair Lady
+      cinematography: Harry Stradling
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: The Night of the Iguana
+      costume_design: Dorothy Jeakins
+
+  - name: Costume Design (Color)
+    winner:
+      movie: My Fair Lady
+      costume_design: Cecil Beaton
+
+  - name: Film Editing
+    winner:
+      movie: Mary Poppins
+      editors: Cotton Warburton
+
+  - name: Visual Effects
+    winner:
+      movie: Mary Poppins

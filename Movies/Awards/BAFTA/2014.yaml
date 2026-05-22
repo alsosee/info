@@ -1,0 +1,98 @@
+title: BAFTA 2014
+website: https://awards.bafta.org/award/2014/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: Philomena
+        screenplay:
+            - Steve Coogan, Jeff Pope
+    - name: Animated Film
+      winner:
+        movie: Frozen
+    - name: British Short Animation
+      winner:
+        movie: Sleeping With The Fishes
+    - name: British Short Film
+      winner:
+        movie: Room 8
+    - name: Cinematography
+      winner:
+        movie: Gravity
+    - name: Costume Design
+      winner:
+        movie: The Great Gatsby
+        constumedesign:
+            - Catherine Martin
+    - name: Director
+      winner:
+        movie: Alfonso Cuarón
+        directors:
+            - Gravity
+    - name: Documentary
+      winner:
+        movie: The Act Of Killing
+    - name: EE Rising Star
+      winner:
+        movie: Will Poulter
+    - name: Editing
+      winner:
+        movie: Rush
+        editors:
+            - Dan Hanley, Mike Hill
+    - name: Fellowship
+      winner:
+        person: Helen Mirren
+    - name: Film
+      winner:
+        movie: 12 Years A Slave
+    - name: Film Not in the English Language
+      winner:
+        movie: The Great Beauty
+    - name: Leading Actor
+      winner:
+        movie: 12 Years a Slave
+        actor: Chiwetel Ejiofor
+    - name: Leading Actress
+      winner:
+        movie: Blue Jasmine
+        actor: Cate Blanchett
+    - name: Make-Up And Hair
+      winner:
+        movie: American Hustle
+    - name: Original Music
+      winner:
+        movie: Gravity
+    - name: Original Screenplay
+      winner:
+        movie: American Hustle
+        screenplay:
+            - Eric Warren Singer, David O. Russell
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: Peter Greenaway
+    - name: Outstanding British Film
+      winner:
+        movie: Gravity
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Kieran Evans
+    - name: Production Design
+      winner:
+        movie: The Great Gatsby
+    - name: Sound
+      winner:
+        movie: Gravity
+    - name: Special Award
+      winner:
+        movie: Terry Rawlings
+    - name: Special Visual Effects
+      winner:
+        movie: Gravity
+    - name: Supporting Actor
+      winner:
+        movie: Captain Phillips
+        actor: Barkhad Abdi
+    - name: Supporting Actress
+      winner:
+        movie: American Hustle
+        actor: Jennifer Lawrence

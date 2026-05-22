@@ -1,0 +1,99 @@
+title: BAFTA 2018
+website: https://awards.bafta.org/award/2018/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: Call Me by Your Name
+        screenplay:
+            - James Ivory
+    - name: Animated Film
+      winner:
+        movie: Coco
+    - name: Best Film
+      winner:
+        movie: Three Billboards Outside Ebbing, Missouri
+        producers:
+            - Graham Broadbent
+            - Pete Czernin
+            - Martin McDonagh
+    - name: British Short Animation
+      winner:
+        movie: Poles Apart
+    - name: British Short Film
+      winner:
+        movie: Cowboy Dave
+    - name: Cinematography
+      winner:
+        movie: Blade Runner 2049
+    - name: Costume Design
+      winner:
+        movie: Phantom Thread
+        constumedesign:
+            - Mark Bridges
+    - name: Director
+      winner:
+        movie: The Shape of Water
+        directors:
+            - Guillermo del Toro
+    - name: Documentary
+      winner:
+        movie: I Am Not Your Negro
+    - name: EE Rising Star
+      winner:
+        movie: Daniel Kaluuya
+    - name: Editing
+      winner:
+        movie: Baby Driver
+        editors:
+            - Jonathan Amos, Paul Machliss
+    - name: Fellowship
+      winner:
+        person: Ridley Scott
+    - name: Film Not in the English Language
+      winner:
+        movie: The Handmaiden
+    - name: Leading Actor
+      winner:
+        movie: Darkest Hour
+        actor: Gary Oldman
+    - name: Leading Actress
+      winner:
+        movie: Three Billboards Outside Ebbing, Missouri
+        actor: Frances McDormand
+    - name: Make Up and Hair
+      winner:
+        movie: Darkest Hour
+    - name: Original Music
+      winner:
+        movie: The Shape of Water
+    - name: Original Screenplay
+      winner:
+        movie: Three Billboards Outside Ebbing, Missouri
+        screenplay:
+            - Martin McDonagh
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: National Film and Television School (NFTS)
+    - name: Outstanding British Film
+      winner:
+        movie: Three Billboards Outside Ebbing, Missouri
+    - name: Outstanding Debut by a British Writer, Director or Producer
+      winner:
+        movie: I Am Not a Witch
+    - name: Production Design
+      winner:
+        movie: The Shape of Water
+    - name: Sound
+      winner:
+        movie: Dunkirk
+    - name: Special Visual Effects
+      winner:
+        movie: Blade Runner 2049
+    - name: Supporting Actor
+      winner:
+        movie: Three Billboards Outside Ebbing, Missouri
+        actor: Sam Rockwell
+    - name: Supporting Actress
+      winner:
+        movie: I, Tonya
+        actor: Allison Janney

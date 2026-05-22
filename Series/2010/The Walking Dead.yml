@@ -1,0 +1,92 @@
+name: The Walking Dead
+description: >
+  An American post-apocalyptic horror television series that follows Rick Grimes, a sheriff's deputy who awakens from a coma to find the world overrun by flesh-eating zombies ("walkers").
+  Rick sets out to find his family and joins a group of survivors in Atlanta, adapting to a dangerous new world where the living can be just as deadly as the dead.
+based_on: Books/2003/The Walking Dead
+released: 2010-10-31
+rating: TV-MA
+genres:
+  - post-apocalyptic
+  - horror
+  - drama
+network: AMC
+wikipedia: https://en.wikipedia.org/wiki/The_Walking_Dead_(season_1)
+imdb: https://www.imdb.com/title/tt1520265/
+tmdb: https://www.themoviedb.org/tv/1402-the-walking-dead
+creators:
+  - Frank Darabont
+characters:
+  - name: Rick Grimes
+    actor: Andrew Lincoln
+  - name: Shane Walsh
+    actor: Jon Bernthal
+  - name: Lori Grimes
+    actor: Sarah Wayne Callies
+  - name: Andrea
+    actor: Laurie Holden
+  - name: Dale Horvath
+    actor: Jeffrey DeMunn
+  - name: Glenn Rhee
+    actor: Steven Yeun
+  - name: Carl Grimes
+    actor: Chandler Riggs
+episodes:
+  - name: Days Gone Bye
+    description: >
+      Deputy Sheriff Rick Grimes awakens from a coma to find the world in ruins and must navigate a new, deadly reality to find his family.
+    released: 2010-10-31
+    length: 1h7m
+    imdb: https://www.imdb.com/title/tt1628065/
+    wikipedia: https://en.wikipedia.org/wiki/Days_Gone_Bye_(The_Walking_Dead)
+    directors: Frank Darabont
+    writers: Frank Darabont
+  - name: Guts
+    description: >
+      Rick unknowingly causes a group of survivors to be trapped by walkers. The group must work together to find a way to escape the city.
+    released: 2010-11-07
+    length: 44m
+    imdb: https://www.imdb.com/title/tt1628068/
+    wikipedia: https://en.wikipedia.org/wiki/Guts_(The_Walking_Dead)
+    directors: Michelle MacLaren
+    writers: Frank Darabont
+  - name: Tell It to the Frogs
+    description: >
+      Rick makes a difficult decision to return to Atlanta to retrieve a bag of guns and rescue a man left behind.
+    released: 2010-11-14
+    length: 44m
+    imdb: https://www.imdb.com/title/tt1628069/
+    wikipedia: https://en.wikipedia.org/wiki/Tell_It_to_the_Frogs
+    directors: Gwyneth Horder-Payton
+    writers:
+      - Charles H. Eglee
+      - Jack LoGiudice
+      - Frank Darabont
+  - name: Vatos
+    description: >
+      The mission to Atlanta is complicated when the group encounters another set of survivors, while the camp back home faces an unexpected threat.
+    released: 2010-11-21
+    length: 45m
+    imdb: https://www.imdb.com/title/tt1628070/
+    wikipedia: https://en.wikipedia.org/wiki/Vatos
+    directors: Johan Renck
+    writers: Robert Kirkman
+  - name: Wildfire
+    description: >
+      Following a devastating attack, Rick leads the group to the Centers for Disease Control, hoping for a cure or a safe haven.
+    released: 2010-11-28
+    length: 45m
+    imdb: https://www.imdb.com/title/tt1628071/
+    wikipedia: https://en.wikipedia.org/wiki/Wildfire_(The_Walking_Dead)
+    directors: Ernest Dickerson
+    writers: Glen Mazzara
+  - name: TS-19
+    description: >
+      The survivors are granted entry into the CDC, but they soon discover that their sanctuary may not be as safe as it seems.
+    released: 2010-12-05
+    length: 45m
+    imdb: https://www.imdb.com/title/tt1628072/
+    wikipedia: https://en.wikipedia.org/wiki/TS-19
+    directors: Guy Ferland
+    writers:
+      - Adam Fierro
+      - Frank Darabont

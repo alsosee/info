@@ -1,0 +1,83 @@
+title: BAFTA 1999
+website: https://awards.bafta.org/award/1999/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Stefen Fangmeier, Roger Guyett, Neil Corbould
+    - name: Actor in a Leading Role
+      winner:
+        movie: Roberto Benigni
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Geoffrey Rush
+    - name: Actress in a Leading Role
+      winner:
+        movie: Cate Blanchett
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Judi Dench
+    - name: Adapted Screenplay
+      winner:
+        movie: Primary Colors
+        screenplay:
+            - Elaine May
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: Elizabeth
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Elizabeth
+    - name: Carl Foreman Award for the Most Promising Newcomer in British Film
+      winner:
+        movie: Richard Kwietniowski
+    - name: Cinematography
+      winner:
+        movie: Elizabeth
+    - name: Costume Design
+      winner:
+        movie: Velvet Goldmine
+        constumedesign:
+            - Sandy Powell
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: The Truman Show
+    - name: Editing
+      winner:
+        movie: Shakespeare In Love
+        editors:
+            - David Gamble
+    - name: Fellowship
+      winner:
+        person: Elizabeth Taylor
+    - name: Film
+      winner:
+        movie: Shakespeare In Love
+    - name: Film Not in the English Language
+      winner:
+        movie: Central Station (Central Do Brasil)
+    - name: Make-Up And Hair
+      winner:
+        movie: Elizabeth
+    - name: Orange Film Of The Year
+      winner:
+        movie: Lock, Stock And Two Smoking Barrels
+    - name: Original Screenplay
+      winner:
+        movie: The Truman Show
+        screenplay:
+            - Andrew Niccol
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Michael Kuhn
+    - name: Production Design
+      winner:
+        movie: The Truman Show
+    - name: Short Animation
+      winner:
+        movie: The Canterbury Tales
+    - name: Short Film
+      winner:
+        movie: Home
+    - name: Sound
+      winner:
+        movie: Saving Private Ryan

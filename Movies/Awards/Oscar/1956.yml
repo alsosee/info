@@ -1,0 +1,131 @@
+title: Oscar 1956
+wikipedia: https://en.wikipedia.org/wiki/28th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1956
+imdb: https://www.imdb.com/event/ev0000003/1956/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: Marty
+
+  - name: Best Directing
+    winner:
+      movie: Marty
+      directors: Delbert Mann
+
+  - name: Best Actor
+    winner:
+      actor: Ernest Borgnine
+      movie: Marty
+
+  - name: Best Actress
+    winner:
+      actor: Anna Magnani
+      movie: The Rose Tattoo
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Jack Lemmon
+      movie: Mister Roberts
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Jo Van Fleet
+      movie: East of Eden
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: Love Me or Leave Me
+      writers: Daniel Fuchs
+
+  - name: Writing (Story and Screenplay)
+    winner:
+      movie: Interrupted Melody
+      writers:
+        - William Ludwig
+        - Sonya Levien
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: Marty
+      writers: Paddy Chayefsky
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: Helen Keller in Her Story
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Men Against the Arctic
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Survival City
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: The Face of Lincoln
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Speedy Gonzales
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Love Is a Many-Splendored Thing
+      music: Alfred Newman
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Oklahoma!
+      music:
+        - Robert Russell Bennett
+        - Jay Blackton
+        - Adolph Deutsch
+
+  - name: Best Music (Song)
+    winner:
+      movie: Love Is a Many-Splendored Thing
+      track: Love Is a Many-Splendored Thing
+
+  - name: Best Sound Recording
+    winner:
+      movie: Oklahoma!
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: The Rose Tattoo
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Picnic
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: The Rose Tattoo
+      cinematography: James Wong Howe
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: To Catch a Thief
+      cinematography: Robert Burks
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: I'll Cry Tomorrow
+      costume_design: Helen Rose
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: Love Is a Many-Splendored Thing
+      costume_design: Charles LeMaire
+
+  - name: Best Film Editing
+    winner:
+      movie: Picnic
+      editors:
+        - Charles Nelson
+        - William Lyon
+
+  - name: Best Special Effects
+    winner:
+      movie: The Bridges at Toko-Ri

@@ -1,0 +1,118 @@
+title: Oscar 1983
+wikipedia: https://en.wikipedia.org/wiki/55th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1983
+imdb: https://www.imdb.com/event/ev0000003/1983/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Ben Kingsley
+      movie: Gandhi
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Louis Gossett Jr.
+      movie: An Officer and a Gentleman
+
+  - name: Actress in a leading role
+    winner:
+      actor: Meryl Streep
+      movie: Sophie's Choice
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Jessica Lange
+      movie: Tootsie
+
+  - name: Art Direction
+    winner:
+      movie: Gandhi
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Begin the Beguine
+
+  - name: Cinematography
+    winner:
+      movie: Gandhi
+      cinematography:
+        - Billy Williams
+        - Ronnie Taylor
+
+  - name: Costume Design
+    winner:
+      movie: Gandhi
+
+  - name: Directing
+    winner:
+      movie: Gandhi
+      directors: Richard Attenborough
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Just Another Missing Kid
+
+  - name: Documentary Short Subject
+    winner:
+      movie: If You Love This Planet
+
+  - name: Film Editing
+    winner:
+      movie: Gandhi
+      editors: John Bloom
+
+  - name: Makeup
+    winner:
+      movie: Quest for Fire
+
+  - name: Music (Original Score)
+    winner:
+      movie: E.T. the Extra-Terrestrial
+      music: John Williams
+
+  - name: Music (Original Song)
+    winner:
+      movie: An Officer and a Gentleman
+      track: Up Where We Belong
+
+  - name: Music (Original Song Score and Its Adaptation -or- Adaptation Score)
+    winner:
+      movie: Victor/Victoria
+      music:
+        - Henry Mancini
+        - Leslie Bricusse
+
+  - name: Best Picture
+    winner:
+      movie: Gandhi
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Tango
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: A Shocking Accident
+
+  - name: Sound
+    winner:
+      movie: E.T. the Extra-Terrestrial
+
+  - name: Sound Effects Editing
+    winner:
+      movie: E.T. the Extra-Terrestrial
+
+  - name: Visual Effects
+    winner:
+      movie: E.T. the Extra-Terrestrial
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Missing
+      writers:
+        - Costa-Gavras
+        - Donald E. Stewart
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Gandhi
+      writers: John Briley

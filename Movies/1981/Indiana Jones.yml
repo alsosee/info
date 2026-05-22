@@ -23,7 +23,7 @@ production: Lucasfilm
 distributors: Paramount Pictures
 characters:
   - name: Indiana Jones
-    actor: People/Harrison Ford
+    actor: Harrison Ford
   - name: Marion Ravenwood
     actor: Karen Allen
   - name: René Belloq

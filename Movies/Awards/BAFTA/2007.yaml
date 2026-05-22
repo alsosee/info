@@ -1,0 +1,92 @@
+title: BAFTA 2007
+website: https://awards.bafta.org/award/2007/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: John Knoll, Hal Hickel, Charles Gibson, Allen Hall
+    - name: Actor in a Leading Role
+      winner:
+        movie: Forest Whitaker
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Alan Arkin
+    - name: Actress in a Leading Role
+      winner:
+        movie: Helen Mirren
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Jennifer Hudson
+    - name: Adapted Screenplay
+      winner:
+        movie: The Last King Of Scotland
+        screenplay:
+            - Peter Morgan, Jeremy Brock
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: The Last King Of Scotland
+    - name: Animated Film
+      winner:
+        movie: Happy Feet
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Babel
+    - name: BAFTA/Orange 60 Seconds Of Fame
+      winner:
+        movie: Happy Birthday Granddad
+    - name: Carl Foreman Award for Special Achievement by a British Director, Writer or Producer in their First Feature Film
+      winner:
+        movie: Andrea Arnold (Director)
+    - name: Cinematography
+      winner:
+        movie: Children Of Men
+    - name: Costume Design
+      winner:
+        movie: Pan's Labyrinth
+        constumedesign:
+            - Lala Huete
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: United 93
+    - name: Editing
+      winner:
+        movie: United 93
+        editors:
+            - Clare Douglas, Christopher Rouse, Richard Pearson
+    - name: Fellowship
+      winner:
+        person: Anne V. Coates
+    - name: Film
+      winner:
+        movie: The Queen
+    - name: Film Not in the English Language
+      winner:
+        movie: Pan's Labyrinth
+    - name: Make-Up And Hair
+      winner:
+        movie: Pan's Labyrinth
+    - name: Orange Rising Star Award (Voted For By The Public)
+      winner:
+        movie: Eva Green
+    - name: Original Screenplay
+      winner:
+        movie: Little Miss Sunshine
+        screenplay:
+            - Michael Arndt
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Nick Daubeny
+    - name: Production Design
+      winner:
+        movie: Children Of Men
+    - name: Short Animation Film
+      winner:
+        movie: Guy 101
+    - name: Short Film
+      winner:
+        movie: Do Not Erase
+    - name: Sound
+      winner:
+        movie: Casino Royale
+    - name: Special Award
+      winner:
+        movie: Bryan Forbes

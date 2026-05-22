@@ -1,0 +1,194 @@
+name: "Marvel's Agents of S.H.I.E.L.D."
+description: >
+  Following the Battle of New York, Agent Phil Coulson assembles a small, highly skilled team of S.H.I.E.L.D. agents to investigate the new, the strange, and the unknown around the globe, protecting the ordinary from the extraordinary. The season follows their investigation into "Project Centipede" and the mysterious "Clairvoyant," while exploring the truth behind Coulson's resurrection.
+released: 2013-09-24
+rating: TV-14
+genres:
+  - action
+  - drama
+  - science fiction
+  - superhero
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/Agents_of_S.H.I.E.L.D._(season_1)
+imdb: https://www.imdb.com/title/tt2364582/episodes/?season=1
+tmdb: https://www.themoviedb.org/tv/1403-marvel-s-agents-of-s-h-i-e-l-d/season/1
+spotify: https://open.spotify.com/album/3ieHHrjkP4K1BDyz2sp6Te
+creators:
+  - Joss Whedon
+  - Jed Whedon
+  - Maurissa Tancharoen
+writers:
+  - Joss Whedon
+  - Jed Whedon
+  - Maurissa Tancharoen
+  - Jeffrey Bell
+  - Paul Zbyszewski
+  - Monica Owusu-Breen
+  - Brent Fletcher
+  - Lauren LeFranc
+  - Rafe Judkins
+  - Shalisha Francis
+producers:
+  - Joss Whedon
+  - Jed Whedon
+  - Maurissa Tancharoen
+  - Jeffrey Bell
+  - Jeph Loeb
+  - Alan Fine
+  - Joe Quesada
+  - Stan Lee
+music: Bear McCreary
+characters:
+  - name: Phil Coulson
+    actor: Clark Gregg
+  - name: Melinda May
+    actor: Ming-Na Wen
+  - name: Grant Ward
+    actor: Brett Dalton
+  - name: Skye
+    actor: Chloe Bennet
+  - name: Leo Fitz
+    actor: Iain De Caestecker
+  - name: Jemma Simmons
+    actor: Elizabeth Henstridge
+episodes:
+  - name: Pilot
+    description: >
+      Coulson assembles his team to investigate Mike Peterson, a man with superhuman strength supplied by a mysterious serum.
+    released: 2013-09-24
+    length: 45m
+    imdb: https://www.imdb.com/title/tt2720252/
+    characters:
+      - name: Maria Hill
+        actor: Cobie Smulders
+        ref: Characters/Maria Hill
+  - name: 0-8-4
+    description: >
+      The team travels to Peru to recover an "object of unknown origin," which turns out to be forgotten technology.
+    released: 2013-10-01
+    length: 42m
+    imdb: https://www.imdb.com/title/tt3130816/
+  - name: The Asset
+    description: >
+      S.H.I.E.L.D. searches for kidnapped scientist Dr. Franklin Hall, held by a CEO who wants to control gravity.
+    released: 2013-10-08
+    length: 44m
+    imdb: https://www.imdb.com/title/tt3130820/
+  - name: Eye Spy
+    description: >
+      The team investigates a series of diamond thefts by Coulson's former protégé, who is being blackmailed via a cybernetic eye.
+    released: 2013-10-15
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130822/
+  - name: Girl in the Flower Dress
+    description: >
+      The team tracks a street performer with pyrokinetic abilities who has been kidnapped by a mysterious organization.
+    released: 2013-10-22
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130826/
+  - name: FZZT
+    description: >
+      The team investigates deaths involving an alien virus from a Chitauri helmet; Simmons becomes infected.
+    released: 2013-11-05
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130830/
+  - name: The Hub
+    description: >
+      Ward and Fitz are sent on a classified mission to disable a weapon called the "Overkill Device" in South Ossetia.
+    released: 2013-11-12
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130834/
+  - name: The Well
+    description: >
+      The team investigates a pagan hate group searching for pieces of an Asgardian Berserker Staff that grants super strength and rage.
+    released: 2013-11-19
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130838/
+  - name: Repairs
+    description: >
+      A mysterious force threatens the team when they protect a safety inspector blamed for a fatal explosion.
+    released: 2013-11-26
+    length: 44m
+    imdb: https://www.imdb.com/title/tt3130842/
+  - name: The Bridge
+    description: >
+      Coulson recruits Mike Peterson for support against upgraded soldiers; the team is ambushed and Coulson is taken.
+    released: 2013-12-10
+    length: 42m
+    imdb: https://www.imdb.com/title/tt3130846/
+  - name: The Magical Place
+    description: >
+      S.H.I.E.L.D. launches a rescue mission for Coulson while he is tortured to uncover the secret of his resurrection.
+    released: 2014-01-07
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130850/
+  - name: Seeds
+    description: >
+      At a S.H.I.E.L.D. Academy, the team investigates an attack involving a device that can freeze people and surroundings.
+    released: 2014-01-14
+    length: 44m
+    imdb: https://www.imdb.com/title/tt3130854/
+  - name: T.R.A.C.K.S.
+    description: >
+      Hunting the Clairvoyant, the team boards a train in Italy to intercept a package being shipped to Ian Quinn.
+    released: 2014-02-04
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130858/
+  - name: T.A.H.I.T.I.
+    description: >
+      Coulson goes on a desperate mission to find a mysterious drug to save a teammate, discovering a facility called the "Guest House."
+    released: 2014-03-04
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130862/
+  - name: Yes Men
+    description: >
+      The Asgardian Lorelei escapes to Earth and begins enslaving men; Lady Sif arrives to help the team capture her.
+    released: 2014-03-11
+    length: 44m
+    imdb: https://www.imdb.com/title/tt3130866/
+  - name: End of the Beginning
+    description: >
+      Multiple agents join the team to hunt the Clairvoyant, leading to a confrontation with a man named Thomas Nash.
+    released: 2014-04-01
+    length: 42m
+    imdb: https://www.imdb.com/title/tt3130870/
+  - name: Turn, Turn, Turn
+    description: >
+      The team faces a crisis of trust when an internal threat within S.H.I.E.L.D. is revealed, forcing them to figure out who they can trust.
+    released: 2014-04-08
+    length: 44m
+    imdb: https://www.imdb.com/title/tt3130874/
+  - name: Providence
+    description: >
+      With S.H.I.E.L.D. compromised, Coulson leads the team to a secret base while their enemies raid S.H.I.E.L.D. facilities.
+    released: 2014-04-15
+    length: 44m
+    imdb: https://www.imdb.com/title/tt3130878/
+  - name: The Only Light in the Darkness
+    description: >
+      The team stops a superhuman with Darkforce powers who is obsessed with a cellist from Coulson's past.
+    released: 2014-04-22
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130882/
+  - name: Nothing Personal
+    description: >
+      Maria Hill helps the team as they hunt for a traitor; Coulson learns the disturbing truth about his resurrection.
+    released: 2014-04-29
+    length: 44m
+    imdb: https://www.imdb.com/title/tt3130886/
+    characters:
+      - name: Maria Hill
+        actor: Cobie Smulders
+        ref: Characters/Maria Hill
+  - name: Ragtag
+    description: >
+      Flashbacks reveal the origins of a team member's training; in the present, the team infiltrates Cybertek to stop Hydra.
+    released: 2014-05-06
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130890/
+  - name: Beginning of the End
+    description: >
+      The team makes a final stand against their enemies; Nick Fury returns to help Coulson's team in their darkest hour.
+    released: 2014-05-13
+    length: 43m
+    imdb: https://www.imdb.com/title/tt3130894/

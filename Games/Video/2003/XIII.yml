@@ -1,0 +1,31 @@
+name: XIII
+description: >
+  A cel-shaded first-person shooter based on the Belgian comic series, XIII follows an amnesiac man marked with the Roman numeral XIII as he tries to uncover his identity and his role in a conspiracy surrounding the assassination of the U.S. president.
+released: 2003-11-18
+genres:
+  - first-person shooter
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/XIII_(2003_video_game)
+metacritic: https://www.metacritic.com/game/xiii/
+fandom: https://xiii.fandom.com/wiki/XIII_(2003_Game)
+ign: https://www.ign.com/games/xiii
+developers:
+  - Ubisoft Paris
+  - Southend Interactive
+  - Zonic
+publishers:
+  - Ubisoft
+  - Feral Interactive
+directors: Elisabeth Pellen
+designers: Jean Zappavigna
+writers: Elisabeth Pellen
+composers:
+  - Alkis Argyriadis
+  - Lionel Gaget
+characters:
+  - name: XIII
+    actor: David Duchovny
+  - name: Major Jones
+    actor: Eve
+  - name: General Carrington
+    actor: Adam West

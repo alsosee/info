@@ -1,0 +1,64 @@
+title: BAFTA 1978
+website: https://awards.bafta.org/award/1978/film
+categories:
+    - name: Actor
+      winner:
+        movie: Peter Finch
+    - name: Actress
+      winner:
+        movie: Diane Keaton
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: A Bridge Too Far
+    - name: Cinematography
+      winner:
+        movie: A Bridge Too Far
+    - name: Costume Design
+      winner:
+        movie: Fellini's Casanova (Il Casanova Di Federico Fellini)
+        constumedesign:
+            - Danilo Donati
+    - name: Direction
+      winner:
+        movie: Annie Hall
+    - name: Factual Film
+      winner:
+        movie: The Living City
+    - name: Fellowship
+      winner:
+        person: Fred Zinnemann
+    - name: Fictional Film
+      winner:
+        movie: The Bead Game
+    - name: Film
+      winner:
+        movie: Annie Hall
+    - name: Film Editing
+      winner:
+        movie: Annie Hall
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Isabelle Huppert
+    - name: Production Design
+      winner:
+        movie: Fellini's Casanova (Il Casanova Di Federico Fellini)
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Category not awarded this year
+    - name: Screenplay
+      winner:
+        movie: Annie Hall
+    - name: Soundtrack
+      winner:
+        movie: A Bridge Too Far
+    - name: Specialised Film
+      winner:
+        movie: Path Of The Paddle
+    - name: Supporting Actor
+      winner:
+        movie: A Bridge Too Far
+        actor: Edward Fox
+    - name: Supporting Actress
+      winner:
+        movie: Equus
+        actor: Jenny Agutter

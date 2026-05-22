@@ -1,0 +1,110 @@
+title: Oscar 1986
+wikipedia: https://en.wikipedia.org/wiki/58th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1986
+imdb: https://www.imdb.com/event/ev0000003/1986/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: William Hurt
+      movie: Kiss of the Spider Woman
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Don Ameche
+      movie: Cocoon
+
+  - name: Actress in a leading role
+    winner:
+      actor: Geraldine Page
+      movie: The Trip to Bountiful
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Anjelica Huston
+      movie: Prizzi's Honor
+
+  - name: Art Direction
+    winner:
+      movie: Out of Africa
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Official Story
+
+  - name: Cinematography
+    winner:
+      movie: Out of Africa
+      cinematography: David Watkin
+
+  - name: Costume Design
+    winner:
+      movie: Ran
+
+  - name: Directing
+    winner:
+      movie: Out of Africa
+      directors: Sydney Pollack
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Broken Rainbow
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Witness to War: Dr. Charlie Clements"
+
+  - name: Film Editing
+    winner:
+      movie: Witness
+      editors: Thom Noble
+
+  - name: Makeup
+    winner:
+      movie: Mask
+
+  - name: Music (Original Score)
+    winner:
+      movie: Out of Africa
+      music: John Barry
+
+  - name: Music (Original Song)
+    winner:
+      movie: White Nights
+      track: Say You, Say Me
+
+  - name: Best Picture
+    winner:
+      movie: Out of Africa
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Anna & Bella
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Molly's Pilgrim
+
+  - name: Sound
+    winner:
+      movie: Out of Africa
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Back to the Future
+
+  - name: Visual Effects
+    winner:
+      movie: Cocoon
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Out of Africa
+      writers: Kurt Luedtke
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Witness
+      writers:
+        - Earl W. Wallace
+        - William Kelley
+        - Pamela Wallace

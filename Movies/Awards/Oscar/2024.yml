@@ -1,0 +1,87 @@
+title: Oscar 2024
+wikipedia: https://en.wikipedia.org/wiki/96th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2024
+imdb: https://www.imdb.com/event/ev0000003/2024/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Cillian Murphy
+      movie: Oppenheimer
+  - name: Actor in a supporting role
+    winner:
+      actor: Robert Downey Jr.
+      movie: Oppenheimer
+  - name: Actress in a leading role
+    winner:
+      actor: Emma Stone
+      movie: Poor Things
+  - name: Actress in a supporting role
+    winner:
+      actor: Da'Vine Joy Randolph
+      movie: The Holdovers
+  - name: Animated feature film
+    winner:
+      movie: The Boy and the Heron
+  - name: Cinematography
+    winner:
+      movie: Oppenheimer
+      cinematography: Hoyte van Hoytema
+  - name: Costume Design
+    winner:
+      movie: Poor Things
+  - name: Directing
+    winner:
+      movie: Oppenheimer
+      directors: Christopher Nolan
+  - name: Documentary Feature Film
+    winner:
+      movie: 20 Days in Mariupol
+  - name: Documentary Short Subject
+    winner:
+      movie: The Last Repair Shop
+  - name: Film Editing
+    winner:
+      movie: Oppenheimer
+      editors: Jennifer Lame
+  - name: International Feature Film
+    winner:
+      movie: The Zone of Interest
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Poor Things
+  - name: Music (Original Score)
+    winner:
+      movie: Oppenheimer
+      music: Ludwig Göransson
+  - name: Music (Original Song)
+    winner:
+      movie: Barbie
+      track: What Was I Made For?
+  - name: Best Picture
+    winner:
+      movie: Oppenheimer
+  - name: Production Design
+    winner:
+      movie: Poor Things
+  - name: Short Film (Animated)
+    winner:
+      movie: "War Is Over! Inspired by the Music of John and Yoko"
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Wonderful Story of Henry Sugar
+  - name: Sound
+    winner:
+      movie: The Zone of Interest
+  - name: Visual Effects
+    winner:
+      movie: Godzilla Minus One
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: American Fiction
+      writers: Cord Jefferson
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Anatomy of a Fall
+      writers:
+        - Justine Triet
+        - Arthur Harari

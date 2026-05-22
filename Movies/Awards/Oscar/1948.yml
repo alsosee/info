@@ -1,0 +1,116 @@
+title: Oscar 1948
+wikipedia: https://en.wikipedia.org/wiki/20th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1948
+imdb: https://www.imdb.com/event/ev0000003/1948/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: Gentleman's Agreement
+
+  - name: Best Directing
+    winner:
+      movie: Gentleman's Agreement
+      directors: Elia Kazan
+
+  - name: Best Actor
+    winner:
+      actor: Ronald Colman
+      movie: A Double Life
+
+  - name: Best Actress
+    winner:
+      actor: Loretta Young
+      movie: The Farmer's Daughter
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Edmund Gwenn
+      movie: Miracle on 34th Street
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Celeste Holm
+      movie: Gentleman's Agreement
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: Miracle on 34th Street
+      writers: Valentine Davies
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Bachelor and the Bobby-Soxer
+      writers: Sidney Sheldon
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: Miracle on 34th Street
+      writers: George Seaton
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: Design for Death
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: First Steps
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Goodbye, Miss Turlock
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Climbing the Matterhorn
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Tweetie Pie
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: A Double Life
+      music: Miklós Rózsa
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Mother Wore Tights
+      music: Alfred Newman
+
+  - name: Best Music (Song)
+    winner:
+      movie: Song of the South
+      track: Zip-a-Dee-Doo-Dah
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Bishop's Wife
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Great Expectations
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Black Narcissus
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Great Expectations
+      cinematography: Guy Green
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Black Narcissus
+      cinematography: Jack Cardiff
+
+  - name: Best Film Editing
+    winner:
+      movie: Body and Soul
+      editors:
+        - Francis D. Lyon
+        - Robert Parrish
+
+  - name: Best Special Effects
+    winner:
+      movie: Green Dolphin Street

@@ -1,0 +1,84 @@
+title: BAFTA 1995
+website: https://awards.bafta.org/award/1995/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Ken Ralston, George Murphy, Stephen Rosenbaum, Allen Hall, Doug Chiang
+    - name: Actor in a Leading Role
+      winner:
+        movie: Hugh Grant
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Samuel L Jackson
+    - name: Actress in a Leading Role
+      winner:
+        movie: Susan Sarandon
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Kristin Scott Thomas
+    - name: Adapted Screenplay
+      winner:
+        movie: Quiz Show
+        screenplay:
+            - Paul Attanasio
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: Shallow Grave
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Backbeat
+    - name: Cinematography
+      winner:
+        movie: Interview With The Vampire
+    - name: Costume Design
+      winner:
+        movie: The Adventures Of Priscilla, Queen Of The Desert
+        constumedesign:
+            - Lizzy Gardiner
+            - Tim Chappel
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: Four Weddings And A Funeral
+    - name: Editing
+      winner:
+        movie: Speed
+        editors:
+            - John Wright
+    - name: Fellowship
+      winner:
+        person: Billy Wilder
+    - name: Film
+      winner:
+        movie: Four Weddings And A Funeral
+    - name: Film Not in the English Language
+      winner:
+        movie: To Live (Huozhe)
+    - name: Lloyds Bank People's Vote For The Most Popular Film
+      winner:
+        movie: Four Weddings And A Funeral
+    - name: Make-Up And Hair
+      winner:
+        movie: The Adventures Of Priscilla, Queen Of The Desert
+    - name: Original Screenplay
+      winner:
+        movie: Pulp Fiction
+        screenplay:
+            - Quentin Tarantino, Roger Avary
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Ridley Scott & Tony Scott
+    - name: Production Design
+      winner:
+        movie: Interview With The Vampire
+    - name: Short Animation
+      winner:
+        movie: The Big Story
+    - name: Short Film
+      winner:
+        movie: Zinky Boys Go Underground
+    - name: Sound
+      winner:
+        movie: Speed
+    - name: Special Award
+      winner:
+        movie: Richard Attenborough

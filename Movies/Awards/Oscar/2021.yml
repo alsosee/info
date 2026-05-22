@@ -1,0 +1,90 @@
+title: Oscar 2021
+wikipedia: https://en.wikipedia.org/wiki/93rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2021
+imdb: https://www.imdb.com/event/ev0000003/2021/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Anthony Hopkins
+      movie: The Father
+  - name: Actor in a supporting role
+    winner:
+      actor: Daniel Kaluuya
+      movie: Judas and the Black Messiah
+  - name: Actress in a leading role
+    winner:
+      actor: Frances McDormand
+      movie: Nomadland
+  - name: Actress in a supporting role
+    winner:
+      actor: Yuh-jung Youn
+      movie: Minari
+  - name: Animated feature film
+    winner:
+      movie: Soul
+  - name: Cinematography
+    winner:
+      movie: Mank
+      cinematography: Erik Messerschmidt
+  - name: Costume Design
+    winner:
+      movie: Ma Rainey's Black Bottom
+  - name: Directing
+    winner:
+      movie: Nomadland
+      directors: Chloé Zhao
+  - name: Documentary Feature Film
+    winner:
+      movie: My Octopus Teacher
+  - name: Documentary Short Subject
+    winner:
+      movie: Colette
+  - name: Film Editing
+    winner:
+      movie: Sound of Metal
+      editors: Mikkel E. G. Nielsen
+  - name: International Feature Film
+    winner:
+      movie: Another Round
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Ma Rainey's Black Bottom
+  - name: Music (Original Score)
+    winner:
+      movie: Soul
+      music:
+        - Jon Batiste
+        - Trent Reznor
+        - Atticus Ross
+  - name: Music (Original Song)
+    winner:
+      movie: Judas and the Black Messiah
+      track: Fight for You
+  - name: Best Picture
+    winner:
+      movie: Nomadland
+  - name: Production Design
+    winner:
+      movie: Mank
+  - name: Short Film (Animated)
+    winner:
+      movie: If Anything Happens I Love You
+  - name: Short Film (Live Action)
+    winner:
+      movie: Two Distant Strangers
+  - name: Sound
+    winner:
+      movie: Sound of Metal
+  - name: Visual Effects
+    winner:
+      movie: Tenet
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Father
+      writers:
+        - Christopher Hampton
+        - Florian Zeller
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Promising Young Woman
+      writers: Emerald Fennell

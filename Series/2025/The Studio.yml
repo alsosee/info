@@ -14,6 +14,7 @@ network: Apple TV+
 wikipedia: https://en.wikipedia.org/wiki/The_Studio_(TV_series)
 imdb: https://www.imdb.com/title/tt11850388
 tmdb: https://www.themoviedb.org/tv/223793-the-studio
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_studio
 creators:
   - Seth Rogen
   - Evan Goldberg
@@ -29,6 +30,8 @@ writers:
   - Peter Huyck
   - Alex Gregory
   - Frida Perez
+music: Antonio Sánchez
+cinematography: Adam Newport-Berra
 characters:
   - name: Matt Remick
     actor: Seth Rogen

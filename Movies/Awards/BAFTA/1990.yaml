@@ -1,0 +1,83 @@
+title: BAFTA 1990
+website: https://awards.bafta.org/award/1990/film
+categories:
+    - name: Achievement in Direction
+      winner:
+        movie: Kenneth Branagh
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Ken Ralston, Michael Lantieri, John Bell, Steve Gawley
+    - name: Actor in a Leading Role
+      winner:
+        movie: Daniel Day-Lewis
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Ray McAnally
+    - name: Actress in a Leading Role
+      winner:
+        movie: Pauline Collins
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Michelle Pfeiffer
+    - name: Adapted Screenplay
+      winner:
+        movie: Dangerous Liaisons
+        screenplay:
+            - Christopher Hampton
+    - name: Cinematography
+      winner:
+        movie: Mississippi Burning
+    - name: Costume Design
+      winner:
+        movie: The Adventures Of Baron Munchausen
+        constumedesign:
+            - Gabriella Pescucci
+    - name: Editing
+      winner:
+        movie: Mississippi Burning
+        editors:
+            - Gerry Hambling
+    - name: Film
+      winner:
+        movie: Dead Poets Society
+    - name: Film Not in the English Language
+      winner:
+        movie: Life And Nothing But (La Vie Et Rien D'Autre)
+    - name: Flaherty Documentary Award
+      winner:
+        movie: 'First Tuesday: Four Hours In My Lai'
+    - name: Make-Up Artist
+      winner:
+        movie: Maggie Weston, Fabrizio Sforza, Pam Meager
+    - name: Original Film Score
+      winner:
+        movie: Dead Poets Society
+    - name: Original Screenplay
+      winner:
+        movie: When Harry Met Sally
+        screenplay:
+            - Nora Ephron
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Lewis Gilbert
+    - name: Production Design
+      winner:
+        movie: The Adventures Of Baron Munchausen
+    - name: Short Animation
+      winner:
+        movie: A Grand Day Out
+    - name: Short Film
+      winner:
+        movie: The Candy Show
+    - name: Sound
+      winner:
+        movie: Mississippi Burning
+    - name: Special Award
+      winner:
+        movie: Bob Reid
+    - name: Special Award
+      winner:
+        movie: Sean Connery
+    - name: Special Award
+      winner:
+        movie: Leslie Halliwell

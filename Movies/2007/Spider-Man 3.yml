@@ -1,0 +1,57 @@
+name: Spider-Man 3
+description: >
+  As Peter Parker tries to balance his life with Mary Jane Watson and his duties
+  as Spider-Man, an alien symbiote changes his suit and brings out a darker side
+  of him. He must confront Sandman, Venom, and Harry Osborn while struggling to
+  hold on to the compassion that defines him.
+previous: Movies/2004/Spider-Man 2
+released: 2007-05-04
+rating: PG-13
+length: 2h19m
+genres:
+  - superhero
+  - action
+  - adventure
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Spider-Man_3
+imdb: https://www.imdb.com/title/tt0413300
+tmdb: https://www.themoviedb.org/movie/559-spider-man-3
+rotten_tomatoes: https://www.rottentomatoes.com/m/spiderman_3
+metacritic: https://www.metacritic.com/movie/spider-man-3/
+trailer: https://www.youtube.com/watch?v=e5wUilOeOmg
+directors: Sam Raimi
+screenplay:
+  - Sam Raimi
+  - Ivan Raimi
+  - Alvin Sargent
+producers:
+  - Laura Ziskin
+  - Avi Arad
+  - Grant Curtis
+music: Christopher Young
+cinematography: Bill Pope
+editors: Bob Murawski
+production:
+  - Columbia Pictures
+  - Marvel Entertainment
+  - Laura Ziskin Productions
+distributors: Sony Pictures Releasing
+characters:
+  - name: Peter Parker / Spider-Man
+    actor: Tobey Maguire
+  - name: Mary Jane Watson
+    actor: Kirsten Dunst
+  - name: Harry Osborn / New Goblin
+    actor: James Franco
+  - name: Flint Marko / Sandman
+    actor: Thomas Haden Church
+  - name: Eddie Brock / Venom
+    actor: Topher Grace
+  - name: Gwen Stacy
+    actor: Bryce Dallas Howard
+  - name: Captain George Stacy
+    actor: James Cromwell
+  - name: May Parker
+    actor: Rosemary Harris
+  - name: J. Jonah Jameson
+    actor: J.K. Simmons

@@ -1,0 +1,67 @@
+title: BAFTA 1975
+website: https://awards.bafta.org/award/1975/film
+categories:
+    - name: Actor
+      winner:
+        movie: Jack Nicholson
+    - name: Actress
+      winner:
+        movie: Joanne Woodward
+    - name: Animated Film
+      winner:
+        movie: Hunger (La Faim)
+    - name: Anthony Asquith Memorial Award
+      winner:
+        movie: Murder On The Orient Express
+    - name: Art Direction
+      winner:
+        movie: The Great Gatsby
+    - name: Cinematography
+      winner:
+        movie: The Great Gatsby
+    - name: Costume Design
+      winner:
+        movie: The Great Gatsby
+        constumedesign:
+            - Theoni V Aldredge
+    - name: Direction
+      winner:
+        movie: Chinatown
+    - name: Fellowship
+      winner:
+        person: Jacques Cousteau
+    - name: Film
+      winner:
+        movie: Lacombe Lucien
+    - name: Film Editing
+      winner:
+        movie: The Conversation
+    - name: John Grierson Award (Short Film)
+      winner:
+        movie: Location North Sea
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Georgina Hale
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Cree Hunters Of Mistassini
+    - name: Screenplay
+      winner:
+        movie: Chinatown/The Last Detail
+    - name: Soundtrack
+      winner:
+        movie: The Conversation
+    - name: Specialised Film
+      winner:
+        movie: Monet In London
+    - name: Supporting Actor
+      winner:
+        movie: Murder On The Orient Express
+        actor: John Gielgud
+    - name: Supporting Actress
+      winner:
+        movie: Murder On The Orient Express
+        actor: Ingrid Bergman
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: Lacombe Lucien

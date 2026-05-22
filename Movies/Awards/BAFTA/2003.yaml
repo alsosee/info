@@ -1,0 +1,84 @@
+title: BAFTA 2003
+website: https://awards.bafta.org/award/2003/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Jim Rygiel, Joe Letteri, Randall William Cook, Alex Funke
+    - name: Actor in a Leading Role
+      winner:
+        movie: Daniel Day-Lewis
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Christopher Walken
+    - name: Actress in a Leading Role
+      winner:
+        movie: Nicole Kidman
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Catherine Zeta-Jones
+    - name: Adapted Screenplay
+      winner:
+        movie: Adaptation
+        screenplay:
+            - Charlie Kaufman, Donald Kaufman
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: The Warrior
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: The Hours
+    - name: Carl Foreman Award for Special Achievement by a British Director, Writer or Producer in their First Feature Film
+      winner:
+        movie: Asif Kapadia (Director, Co-Writer)
+    - name: Cinematography
+      winner:
+        movie: Road To Perdition
+    - name: Costume Design
+      winner:
+        movie: 'The Lord Of The Rings: The Two Towers'
+        constumedesign:
+            - Ngila Dickson
+            - Richard Taylor
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: The Pianist
+    - name: Editing
+      winner:
+        movie: City Of God (Cidade De Deus)
+        editors:
+            - Daniel Rezende
+    - name: Fellowship
+      winner:
+        person: Saul Zaentz
+    - name: Film
+      winner:
+        movie: The Pianist
+    - name: Film Not in the English Language
+      winner:
+        movie: Talk To Her (Hable Con Ella)
+    - name: Make-Up And Hair
+      winner:
+        movie: Frida
+    - name: Orange Film Of The Year
+      winner:
+        movie: 'The Lord Of The Rings: The Two Towers'
+    - name: Original Screenplay
+      winner:
+        movie: Talk To Her (Hable Con Ella)
+        screenplay:
+            - Pedro Almodóvar
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Michael Stevenson & David Tomblin
+    - name: Production Design
+      winner:
+        movie: Road To Perdition
+    - name: Short Animation
+      winner:
+        movie: Fish Never Sleep
+    - name: Short Film
+      winner:
+        movie: My Wrongs 8245-8249 And 117
+    - name: Sound
+      winner:
+        movie: Chicago

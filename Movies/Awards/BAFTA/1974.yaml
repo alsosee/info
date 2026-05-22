@@ -1,0 +1,67 @@
+title: BAFTA 1974
+website: https://awards.bafta.org/award/1974/film
+categories:
+    - name: Actor
+      winner:
+        movie: Walter Matthau
+    - name: Actress
+      winner:
+        movie: Stéphane Audran
+    - name: Animated Film
+      winner:
+        movie: Tchou Tchou
+    - name: Anthony Asquith Memorial Award
+      winner:
+        movie: O Lucky Man!
+    - name: Art Direction
+      winner:
+        movie: The Hireling
+    - name: Cinematography
+      winner:
+        movie: Don't Look Now
+    - name: Costume Design
+      winner:
+        movie: The Hireling
+        constumedesign:
+            - Phyllis Dalton
+    - name: Direction
+      winner:
+        movie: Day For Night (La Nuit Américaine)
+    - name: Fellowship
+      winner:
+        person: David Lean
+    - name: Film
+      winner:
+        movie: Day For Night (La Nuit Américaine)
+    - name: Film Editing
+      winner:
+        movie: The Day Of The Jackal
+    - name: John Grierson Award (Short Film)
+      winner:
+        movie: Caring For History
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Peter Egan
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Grierson
+    - name: Screenplay
+      winner:
+        movie: The Discreet Charm Of The Bourgeoisie (Le Charme Discret De La Bourgeoisie)
+    - name: Soundtrack
+      winner:
+        movie: Jesus Christ Superstar
+    - name: Specialised Film
+      winner:
+        movie: A Man's World
+    - name: Supporting Actor
+      winner:
+        movie: O Lucky Man!
+        actor: Arthur Lowe
+    - name: Supporting Actress
+      winner:
+        movie: Day For Night (La Nuit Américaine)
+        actor: Valentine Cortese
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: State Of Siege (État De Siège)

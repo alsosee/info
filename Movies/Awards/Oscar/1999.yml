@@ -1,0 +1,114 @@
+title: Oscar 1999
+wikipedia: https://en.wikipedia.org/wiki/71st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1999
+imdb: https://www.imdb.com/event/ev0000003/1999/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Roberto Benigni
+      movie: Life Is Beautiful
+
+  - name: Actor in a supporting role
+    winner:
+      actor: James Coburn
+      movie: Affliction
+
+  - name: Actress in a leading role
+    winner:
+      actor: Gwyneth Paltrow
+      movie: Shakespeare in Love
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Judi Dench
+      movie: Shakespeare in Love
+
+  - name: Art Direction
+    winner:
+      movie: Shakespeare in Love
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Life Is Beautiful
+
+  - name: Cinematography
+    winner:
+      movie: Saving Private Ryan
+      cinematography: Janusz Kamiński
+
+  - name: Costume Design
+    winner:
+      movie: Shakespeare in Love
+
+  - name: Directing
+    winner:
+      movie: Saving Private Ryan
+      directors: Steven Spielberg
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Last Days
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "The Personals: Improvisations on Romance in the Golden Years"
+
+  - name: Film Editing
+    winner:
+      movie: Saving Private Ryan
+      editors: Michael Kahn
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Elizabeth
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: Life Is Beautiful
+      music: Nicola Piovani
+
+  - name: Music (Original Musical or Comedy Score)
+    winner:
+      movie: Shakespeare in Love
+      music: Stephen Warbeck
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Prince of Egypt
+      track: When You Believe
+
+  - name: Best Picture
+    winner:
+      movie: Shakespeare in Love
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Bunny
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Election Night
+
+  - name: Sound
+    winner:
+      movie: Saving Private Ryan
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Saving Private Ryan
+
+  - name: Visual Effects
+    winner:
+      movie: What Dreams May Come
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Gods and Monsters
+      writers: Bill Condon
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Shakespeare in Love
+      writers:
+        - Marc Norman
+        - Tom Stoppard

@@ -1,0 +1,86 @@
+title: BAFTA 2004
+website: https://awards.bafta.org/award/2004/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Joe Letteri, Jim Rygiel, Randall William Cook, Alex Funke
+    - name: Actor in a Leading Role
+      winner:
+        movie: Bill Murray
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Bill Nighy
+    - name: Actress in a Leading Role
+      winner:
+        movie: Scarlett Johansson
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Renée Zellweger
+    - name: Adapted Screenplay
+      winner:
+        movie: 'The Lord Of The Rings: The Return Of The King'
+        screenplay:
+            - Fran Walsh, Philippa Boyens, Peter Jackson
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: Touching The Void
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Cold Mountain
+    - name: Carl Foreman Award for Special Achievement by a British Director, Writer or Producer in their First Feature Film
+      winner:
+        movie: Emily Young (Director, Writer)
+    - name: Cinematography
+      winner:
+        movie: 'The Lord Of The Rings: The Return Of The King'
+    - name: Costume Design
+      winner:
+        movie: 'Master And Commander: The Far Side Of The World'
+        constumedesign:
+            - Wendy Stites
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: 'Master And Commander: The Far Side Of The World'
+    - name: Editing
+      winner:
+        movie: Lost In Translation
+        editors:
+            - Sarah Flack
+    - name: Fellowship
+      winner:
+        person: John Boorman
+    - name: Film
+      winner:
+        movie: 'The Lord Of The Rings: The Return Of The King'
+    - name: Film Not in the English Language
+      winner:
+        movie: In This World
+    - name: Make-Up And Hair
+      winner:
+        movie: 'Pirates Of The Caribbean: The Curse Of The Black Pearl'
+    - name: Orange Film Of The Year
+      winner:
+        movie: 'The Lord Of The Rings: The Return Of The King'
+    - name: Original Screenplay
+      winner:
+        movie: The Station Agent
+        screenplay:
+            - Tom McCarthy
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Working Title Films
+    - name: Production Design
+      winner:
+        movie: 'Master And Commander: The Far Side Of The World'
+    - name: Short Animation Film
+      winner:
+        movie: Jojo In The Stars
+    - name: Short Film
+      winner:
+        movie: Brown Paper Bag
+    - name: Sound
+      winner:
+        movie: 'Master And Commander: The Far Side Of The World'
+    - name: Special Award
+      winner:
+        movie: Freddie Francis

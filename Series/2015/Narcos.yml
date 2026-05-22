@@ -1,0 +1,185 @@
+name: Narcos
+description: >
+  A crime drama series chronicling the rise of the cocaine trade in Colombia and the
+  real-life stories of drug lords in the late 1970s, primarily focusing on Pablo
+  Escobar and the law enforcement efforts to bring him down.
+released: 2015-08-28
+rating: TV-MA
+genres:
+  - crime
+  - drama
+  - biography
+network: Netflix
+wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)
+imdb: https://www.imdb.com/title/tt2707408/
+tmdb: https://www.themoviedb.org/tv/63351-narcos/season/1
+spotify: https://open.spotify.com/album/69Ne0hPtLHOTk0PU9RZC2p
+netflix: https://www.netflix.com/title/80025172
+creators:
+  - Chris Brancato
+  - Carlo Bernard
+  - Doug Miro
+directors:
+  - José Padilha
+  - Guillermo Navarro
+  - Andi Baiz
+  - Fernando Coimbra
+writers:
+  - Chris Brancato
+  - Carlo Bernard
+  - Doug Miro
+  - Dana Calvo
+  - Dana Ledoux Miller
+  - Andy Black
+  - Zach Calig
+  - Allison Abner
+  - Nick Schenk
+producers:
+  - Paul Eckstein
+  - Mariano Carranco
+  - Tim King
+  - Jason O'Brien
+  - Jason George
+  - Jesse Moore
+music: Pedro Bromfman
+characters:
+  - name: Pablo Escobar
+    actor: Wagner Moura
+  - name: Steve Murphy
+    actor: Boyd Holbrook
+  - name: Javier Peña
+    actor: Pedro Pascal
+  - name: Connie Murphy
+    actor: Joanna Christie
+  - name: Horacio Carrillo
+    actor: Maurice Compte
+  - name: Jorge Ochoa
+    actor: André Mattos
+  - name: Fabio Ochoa
+    actor: Roberto Urbina
+  - name: Juan Diego "La Quica" Díaz
+    actor: Diego Cataño
+  - name: Roberto "Poison" Ramos
+    actor: Jorge A. Jimenez
+  - name: Tata Escobar
+    actor: Paulina Gaitán
+  - name: Hermilda Gaviria
+    actor: Paulina García
+  - name: Valeria Vélez
+    actor: Stephanie Sigman
+  - name: Fernando Duque
+    actor: Bruno Bichir
+  - name: César Gaviria
+    actor: Raúl Méndez
+  - name: Eduardo Sandoval
+    actor: Manolo Cardona
+episodes:
+  - name: Descenso
+    description: >
+      A Chilean drug chemist brings a new product to Colombian smuggler Pablo Escobar,
+      while DEA agent Steve Murphy arrives in Bogota.
+    released: 2015-08-28
+    length: 58m
+    imdb: https://www.imdb.com/title/tt4058426/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep1
+    directors: José Padilha
+    writers:
+      - Chris Brancato
+      - Carlo Bernard
+      - Doug Miro
+  - name: The Sword of Simón Bolívar
+    description: >
+      Pablo begins his move into politics with the help of a journalist, while a radical
+      group kidnaps a member of the Medellín Cartel.
+    released: 2015-08-28
+    length: 47m
+    imdb: https://www.imdb.com/title/tt4058430/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep2
+    directors: José Padilha
+    writers: Chris Brancato
+  - name: The Men of Always
+    description: >
+      Pablo wins a seat in Congress but faces immediate opposition from the Minister
+      of Justice, leading to a violent retaliation.
+    released: 2015-08-28
+    length: 47m
+    imdb: https://www.imdb.com/title/tt4058432/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep3
+    directors: Guillermo Navarro
+    writers: Dana Calvo
+  - name: The Palace in Flames
+    description: >
+      Pablo collaborates with a guerrilla group to destroy evidence against him by
+      raiding the Palace of Justice.
+    released: 2015-08-28
+    length: 44m
+    imdb: https://www.imdb.com/title/tt4058434/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep4
+    directors: Guillermo Navarro
+    writers: Chris Brancato
+  - name: There Will Be a Future
+    description: >
+      Pablo's extreme methods push the government toward war as Agent Peña attempts
+      to protect a key witness.
+    released: 2015-08-28
+    length: 55m
+    imdb: https://www.imdb.com/title/tt4058436/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep5
+    directors: Andi Baiz
+    writers: Dana Ledoux Miller
+  - name: Explosivos
+    description: >
+      Murphy tries to protect a pro-extradition candidate from an assassination plot
+      involving a commercial flight.
+    released: 2015-08-28
+    length: 50m
+    imdb: https://www.imdb.com/title/tt4058438/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep6
+    directors: Andi Baiz
+    writers: Andy Black
+  - name: You Will Cry Tears of Blood
+    description: >
+      Pablo goes into hiding as political pressure mounts, while the DEA seeks assistance
+      from the CIA.
+    released: 2015-08-28
+    length: 51m
+    imdb: https://www.imdb.com/title/tt4058440/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep7
+    directors: Fernando Coimbra
+    writers:
+      - Dana Calvo
+      - Zach Calig
+  - name: La Gran Mentira
+    description: >
+      A tragic error forces the government to shift its strategy, and Pablo faces
+      internal threats to his drug empire.
+    released: 2015-08-28
+    length: 51m
+    imdb: https://www.imdb.com/title/tt4058442/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep8
+    directors: Fernando Coimbra
+    writers: Allison Abner
+  - name: La Catedral
+    description: >
+      Pablo negotiates a deal to serve time in his own luxurious prison, but his enemies
+      continue to plot against him.
+    released: 2015-08-28
+    length: 51m
+    imdb: https://www.imdb.com/title/tt4058444/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep9
+    directors: Andi Baiz
+    writers:
+      - Nick Schenk
+      - Chris Brancato
+  - name: Despegue
+    description: >
+      Pablo's activities inside his prison force the government to take extreme action,
+      leading to a tense standoff.
+    released: 2015-08-28
+    length: 53m
+    imdb: https://www.imdb.com/title/tt4058446/
+    wikipedia: https://en.wikipedia.org/wiki/Narcos_(season_1)#ep10
+    directors: Andi Baiz
+    writers:
+      - Nick Schenk
+      - Chris Brancato

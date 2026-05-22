@@ -1,0 +1,109 @@
+title: BAFTA 2021
+website: https://awards.bafta.org/award/2021/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: The Father
+        screenplay:
+            - Christopher Hampton, Florian Zeller
+    - name: Animated Film
+      winner:
+        movie: Soul
+    - name: Best Film
+      winner:
+        movie: Nomadland
+        producers:
+            - Mollye Asher
+            - Dan Janvey
+            - Frances McDormand
+            - Peter Spears
+            - Chloé Zhao
+    - name: British Short Animation
+      winner:
+        movie: The Owl and the Pussycat
+    - name: British Short Film
+      winner:
+        movie: The Present
+    - name: Casting
+      winner:
+        movie: Rocks
+        casting:
+            - Lucy Pardee
+    - name: Cinematography
+      winner:
+        movie: Nomadland
+    - name: Costume Design
+      winner:
+        movie: Ma Rainey's Black Bottom
+        constumedesign:
+            - Ann Roth
+    - name: Director
+      winner:
+        movie: Nomadland
+        directors:
+            - Chloé Zhao
+    - name: Documentary
+      winner:
+        movie: My Octopus Teacher
+    - name: EE Rising Star Award
+      winner:
+        person: Bukky Bakray
+    - name: Editing
+      winner:
+        movie: Sound of Metal
+        editors:
+            - Mikkel E.G. Nielsen
+    - name: Film Not in the English Language
+      winner:
+        movie: Another Round
+    - name: Leading Actor
+      winner:
+        movie: Anthony Hopkins
+        actor: The Father
+    - name: Leading Actress
+      winner:
+        movie: Frances McDormand
+        actor: Nomadland
+    - name: Make Up & Hair
+      winner:
+        movie: Ma Rainey's Black Bottom
+        makeupandhair:
+            - Matiki Anoff
+            - Larry M. Cherry
+            - Sergio Lopez-Rivera
+            - Mia Neal
+    - name: Original Score
+      winner:
+        movie: Soul
+        music:
+            - Jon Batiste
+            - Trent Reznor
+            - Atticus Ross
+    - name: Original Screenplay
+      winner:
+        movie: Promising Young Woman
+        screenplay:
+            - Emerald Fennell
+    - name: Outstanding British Film
+      winner:
+        movie: Promising Young Woman
+    - name: Outstanding Debut by a British Writer, Director or Producer
+      winner:
+        movie: His House
+    - name: Production Design
+      winner:
+        movie: Mank
+    - name: Sound
+      winner:
+        movie: Sound of Metal
+    - name: Special Visual Effects
+      winner:
+        movie: Tenet
+    - name: Supporting Actor
+      winner:
+        movie: Daniel Kaluuya
+        actor: Judas and the Black Messiah
+    - name: Supporting Actress
+      winner:
+        movie: Yuh-Jung Youn
+        actor: Minari

@@ -1,0 +1,87 @@
+title: BAFTA 1993
+website: https://awards.bafta.org/award/1993/film
+categories:
+    - name: Achievements in Special Effects
+      winner:
+        movie: Michael Lantieri, Ken Ralston, Alec Gillis, Tom Woodruff Jr, Doug Chiang, Doug Smythe
+    - name: Actor in a Leading Role
+      winner:
+        movie: Robert Downey Jr.
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Gene Hackman
+    - name: Actress in a Leading Role
+      winner:
+        movie: Emma Thompson
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Miranda Richardson
+    - name: Adapted Screenplay
+      winner:
+        movie: The Player
+        screenplay:
+            - Michael Tolkin
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: The Crying Game
+    - name: Cinematography
+      winner:
+        movie: The Last Of The Mohicans
+    - name: Costume Design
+      winner:
+        movie: Strictly Ballroom
+        constumedesign:
+            - Angus Strathie
+            - Catherine Martin
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: The Player
+    - name: Editing
+      winner:
+        movie: JFK
+        editors:
+            - Joe Hutshing, Pietro Scalia
+    - name: Fellowship
+      winner:
+        person: Colin Young
+    - name: Film
+      winner:
+        movie: Howards End
+    - name: Film Not in the English Language
+      winner:
+        movie: Raise The Red Lantern (Da Hong Deng Long Gao Gao Gua)
+    - name: Make-Up
+      winner:
+        movie: The Last Of The Mohicans
+    - name: Original Film Music
+      winner:
+        movie: Strictly Ballroom
+    - name: Original Screenplay
+      winner:
+        movie: Husbands And Wives
+        screenplay:
+            - Woody Allen
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Kenneth Branagh
+    - name: Production Design
+      winner:
+        movie: Strictly Ballroom
+    - name: Short Animation
+      winner:
+        movie: Daumier's Law
+    - name: Short Film
+      winner:
+        movie: Omnibus
+    - name: Sound
+      winner:
+        movie: JFK
+    - name: Special Award
+      winner:
+        movie: Maggie Smith
+    - name: Special Award
+      winner:
+        movie: HRH The Princess Royal
+    - name: Special Award for Craft
+      winner:
+        movie: Douglas Slocombe

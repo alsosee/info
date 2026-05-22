@@ -1,0 +1,112 @@
+title: Oscar 1969
+wikipedia: https://en.wikipedia.org/wiki/41st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1969
+imdb: https://www.imdb.com/event/ev0000003/1969/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: "Oliver!"
+
+  - name: Directing
+    winner:
+      movie: "Oliver!"
+      directors: Carol Reed
+
+  - name: Actor in a leading role
+    winner:
+      actor: Cliff Robertson
+      movie: Charly
+
+  - name: Actress in a leading role
+    winner:
+      actor: Katharine Hepburn
+      movie: The Lion in Winter
+      # TODO: tied with Barbra Streisand (Funny Girl) — list not yet supported
+      # actor:
+      #   - Katharine Hepburn
+      #   - Barbra Streisand
+      # movie:
+      #   - The Lion in Winter
+      #   - Funny Girl
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Jack Albertson
+      movie: The Subject Was Roses
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Ruth Gordon
+      movie: "Rosemary's Baby"
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Producers
+      writers: Mel Brooks
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Lion in Winter
+      writers: James Goldman
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: War and Peace
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Journey into Self
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Why Man Creates
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Robert Kennedy Remembered
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Winnie the Pooh and the Blustery Day
+
+  - name: Music (Original Score -- for a Motion Picture (Not a Musical))
+    winner:
+      movie: The Lion in Winter
+      music: John Barry
+
+  - name: Music (Score of a Musical Picture -- Original or Adaptation)
+    winner:
+      movie: "Oliver!"
+      music: Johnny Green
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Thomas Crown Affair
+      track: The Windmills of Your Mind
+
+  - name: Sound
+    winner:
+      movie: "Oliver!"
+
+  - name: Art Direction
+    winner:
+      movie: "Oliver!"
+
+  - name: Cinematography
+    winner:
+      movie: Romeo and Juliet
+      cinematography: Pasqualino De Santis
+
+  - name: Costume Design
+    winner:
+      movie: Romeo and Juliet
+      costume_design: Danilo Donati
+
+  - name: Film Editing
+    winner:
+      movie: Bullitt
+      editors: Frank P. Keller
+
+  - name: Visual Effects
+    winner:
+      movie: "2001: A Space Odyssey"

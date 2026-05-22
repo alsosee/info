@@ -1,0 +1,66 @@
+title: BAFTA 1969
+website: https://awards.bafta.org/award/1969/film
+categories:
+    - name: Actor
+      winner:
+        movie: Spencer Tracy
+    - name: Actress
+      winner:
+        movie: Katharine Hepburn
+    - name: Animated Film
+      winner:
+        movie: Dance For Two (Pas De Deux)
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: The Lion In Winter
+    - name: Art Direction
+      winner:
+        movie: '2001: A Space Odyssey'
+    - name: British Cinematography
+      winner:
+        movie: '2001: A Space Odyssey'
+    - name: Costume Design
+      winner:
+        movie: Romeo And Juliet
+        constumedesign:
+            - Danilo Donati
+    - name: Direction
+      winner:
+        movie: The Graduate
+    - name: Editing
+      winner:
+        movie: The Graduate
+        editors:
+            - Sam O'Steen
+    - name: Film
+      winner:
+        movie: The Graduate
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Dustin Hoffman
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: In Need Of Special Care
+    - name: Screenplay
+      winner:
+        movie: The Graduate
+    - name: Short Film
+      winner:
+        movie: Category not awarded this year
+    - name: Soundtrack
+      winner:
+        movie: '2001: A Space Odyssey'
+    - name: Specialised Film
+      winner:
+        movie: The Threat In The Water
+    - name: Supporting Actor
+      winner:
+        movie: The Bofors Gun
+        actor: Ian Holm
+    - name: Supporting Actress
+      winner:
+        movie: Twisted Nerve/Charlie Bubbles
+        actor: Billie Whitelaw
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: Guess Who's Coming To Dinner?

@@ -14,6 +14,7 @@ network: Hulu
 wikipedia: https://en.wikipedia.org/wiki/Paradise_(TV_series)
 imdb: https://www.imdb.com/title/tt27214470
 tmdb: https://www.themoviedb.org/tv/223793-paradise/season/2
+rotten_tomatoes: https://www.rottentomatoes.com/tv/paradise_2025/s02
 creators: Dan Fogelman
 characters:
   - name: Xavier Collins
@@ -24,41 +25,49 @@ characters:
     actor: Sarah Shahi
 episodes:
   - name: Graceland
+    imdb: https://www.imdb.com/title/tt35856965/
     description: >
       Xavier begins his journey into the wasteland outside the bunker, while
       Sinatra attempts to consolidate power in the aftermath of the finale.
     released: 2026-02-23
   - name: Mayday
+    imdb: https://www.imdb.com/title/tt37913713/
     description: >
       An unexpected distress signal from the surface causes chaos within the
       bunker's leadership.
     released: 2026-02-23
   - name: Another Day in Paradise
+    imdb: https://www.imdb.com/title/tt38876066/
     description: >
       The true nature of the bunker's life support systems is questioned as
       resources begin to dwindle.
     released: 2026-02-23
   - name: A Holy Charge
+    imdb: https://www.imdb.com/title/tt38876069/
     description: >
       Xavier encounters a group of survivors on the surface with a mysterious
       connection to the bunker's founders.
     released: 2026-03-02
   - name: The Mailman
+    imdb: https://www.imdb.com/title/tt38876071/
     description: >
       A new figure arrives at the bunker's gates, carrying information that
       could change everything.
     released: 2026-03-09
   - name: Jane
+    imdb: https://www.imdb.com/title/tt38876073/
     description: >
       Special Agent Jane Driscoll uncovers a secret file that reveals the truth
       about her own recruitment.
     released: 2026-03-16
   - name: The Final Countdown
+    imdb: https://www.imdb.com/title/tt38876074/
     description: >
       As tensions reach a breaking point, a plan to reconnect the bunker with
       the outside world is set in motion.
     released: 2026-03-23
   - name: Exodus
+    imdb: https://www.imdb.com/title/tt38867087/
     description: >
       In the season finale, a massive shift in the bunker's status quo leads to
       a daring move for survival.

@@ -1,0 +1,118 @@
+title: Oscar 1942
+wikipedia: https://en.wikipedia.org/wiki/14th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1942
+imdb: https://www.imdb.com/event/ev0000003/1942/1
+categories:
+  - name: Outstanding Motion Picture
+    winner:
+      movie: How Green Was My Valley
+
+  - name: Best Directing
+    winner:
+      movie: How Green Was My Valley
+      directors: John Ford
+
+  - name: Best Actor
+    winner:
+      actor: Gary Cooper
+      movie: Sergeant York
+
+  - name: Best Actress
+    winner:
+      actor: Joan Fontaine
+      movie: Suspicion
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Donald Crisp
+      movie: How Green Was My Valley
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Mary Astor
+      movie: The Great Lie
+
+  - name: Writing (Original Story)
+    winner:
+      movie: Here Comes Mr. Jordan
+      writers: Harry Segall
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Citizen Kane
+      writers:
+        - Herman J. Mankiewicz
+        - Orson Welles
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: Here Comes Mr. Jordan
+      writers:
+        - Sidney Buchman
+        - Seton I. Miller
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Churchill's Island
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Of Pups and Puzzles
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Main Street on the March!
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Lend a Paw
+
+  - name: Best Music (Music Score of a Dramatic Picture)
+    winner:
+      movie: All That Money Can Buy
+      music: Bernard Herrmann
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Dumbo
+      music:
+        - Frank Churchill
+        - Oliver Wallace
+
+  - name: Best Music (Song)
+    winner:
+      movie: Lady Be Good
+      track: The Last Time I Saw Paris
+
+  - name: Best Sound Recording
+    winner:
+      movie: That Hamilton Woman
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: How Green Was My Valley
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Blossoms in the Dust
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: How Green Was My Valley
+      cinematography: Arthur Miller
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Blood and Sand
+      cinematography:
+        - Ernest Palmer
+        - Ray Rennahan
+
+  - name: Best Film Editing
+    winner:
+      movie: Sergeant York
+      editors: William Holmes
+
+  - name: Best Special Effects
+    winner:
+      movie: I Wanted Wings

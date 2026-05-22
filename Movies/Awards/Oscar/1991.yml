@@ -1,0 +1,103 @@
+title: Oscar 1991
+wikipedia: https://en.wikipedia.org/wiki/63rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1991
+imdb: https://www.imdb.com/event/ev0000003/1991/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jeremy Irons
+      movie: Reversal of Fortune
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Joe Pesci
+      movie: Goodfellas
+
+  - name: Actress in a leading role
+    winner:
+      actor: Kathy Bates
+      movie: Misery
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Whoopi Goldberg
+      movie: Ghost
+
+  - name: Art Direction
+    winner:
+      movie: Dick Tracy
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Journey of Hope
+
+  - name: Cinematography
+    winner:
+      movie: Dances With Wolves
+      cinematography: Dean Semler
+
+  - name: Costume Design
+    winner:
+      movie: Cyrano de Bergerac
+
+  - name: Directing
+    winner:
+      movie: Dances With Wolves
+      directors: Kevin Costner
+
+  - name: Documentary Feature Film
+    winner:
+      movie: American Dream
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Days of Waiting
+
+  - name: Film Editing
+    winner:
+      movie: Dances With Wolves
+      editors: Neil Travis
+
+  - name: Makeup
+    winner:
+      movie: Dick Tracy
+
+  - name: Music (Original Score)
+    winner:
+      movie: Dances With Wolves
+      music: John Barry
+
+  - name: Music (Original Song)
+    winner:
+      movie: Dick Tracy
+      track: Sooner or Later (I Always Get My Man)
+
+  - name: Best Picture
+    winner:
+      movie: Dances With Wolves
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Creature Comforts
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Lunch Date
+
+  - name: Sound
+    winner:
+      movie: Dances With Wolves
+
+  - name: Sound Effects Editing
+    winner:
+      movie: The Hunt for Red October
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Dances With Wolves
+      writers: Michael Blake
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Ghost
+      writers: Bruce Joel Rubin

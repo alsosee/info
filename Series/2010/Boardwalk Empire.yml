@@ -1,0 +1,186 @@
+name: "Boardwalk Empire, Season 1"
+description: >
+  Set in Atlantic City, New Jersey, during the Prohibition era, the series follows Enoch "Nucky" Thompson, a corrupt political figure who controls the city and engages in bootlegging. The first season begins with the start of national prohibition in January 1920 and follows Nucky's rise to prominence, his interactions with historical mobsters like Al Capone and Arnold Rothstein, and his relationship with a young widow named Margaret Schroeder.
+based_on: Books/2002/Boardwalk Empire
+released: 2010-09-19
+rating: TV-MA
+genres:
+  - crime drama
+  - period drama
+  - serial drama
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Boardwalk_Empire_(season_1)
+imdb: https://www.imdb.com/title/tt0979432
+tmdb: https://www.themoviedb.org/tv/160-boardwalk-empire/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/boardwalk_empire/s01
+metacritic: https://www.metacritic.com/tv/boardwalk-empire/season-1
+creators: Terence Winter
+directors:
+  - Martin Scorsese
+  - Tim Van Patten
+  - Jeremy Podeswa
+  - Alan Taylor
+  - Allen Coulter
+  - Brian Kirk
+  - Brad Anderson
+  - Simon Cellan Jones
+writers:
+  - Terence Winter
+  - Margaret Nagle
+  - Lawrence Konner
+  - Howard Korder
+  - Tim Van Patten
+  - Paul Simms
+  - Meg Jackson
+  - Steve Kornacki
+producers:
+  - Terence Winter
+  - Martin Scorsese
+  - Mark Wahlberg
+  - Tim Van Patten
+  - Stephen Levinson
+  - Lawrence Konner
+  - Howard Korder
+  - Margaret Nagle
+characters:
+  - name: Enoch "Nucky" Thompson
+    actor: Steve Buscemi
+  - name: James "Jimmy" Darmody
+    actor: Michael Pitt
+  - name: Margaret Schroeder
+    actor: Kelly Macdonald
+  - name: Nelson Van Alden
+    actor: Michael Shannon
+  - name: Elias "Eli" Thompson
+    actor: Shea Whigham
+  - name: Angela Darmody
+    actor: Aleksa Palladino
+  - name: Arnold Rothstein
+    actor: Michael Stuhlbarg
+  - name: Al Capone
+    actor: Stephen Graham
+  - name: Charlie Luciano
+    actor: Vincent Piazza
+  - name: Lucy Danziger
+    actor: Paz de la Huerta
+  - name: Albert "Chalky" White
+    actor: Michael Kenneth Williams
+  - name: Eddie Kessler
+    actor: Anthony Laciura
+  - name: Michael "Mickey Doyle" Kozik
+    actor: Paul Sparks
+  - name: Commodore Louis Kaestner
+    actor: Dabney Coleman
+episodes:
+  - name: Boardwalk Empire
+    description: >
+      The series premiere introduces Nucky Thompson, the corrupt treasurer of Atlantic City, as he navigates the onset of Prohibition in 1920.
+    released: 2010-09-19
+    length: 73m
+    imdb: https://www.imdb.com/title/tt1555340/
+    wikipedia: https://en.wikipedia.org/wiki/Boardwalk_Empire_(Boardwalk_Empire_episode)
+    directors: Martin Scorsese
+    writers: Terence Winter
+  - name: The Ivory Tower
+    description: >
+      Nucky is investigated by federal agent Nelson Van Alden while Jimmy deals with the fallout of a recent heist.
+    released: 2010-09-26
+    length: 53m
+    imdb: https://www.imdb.com/title/tt1641818/
+    wikipedia: https://en.wikipedia.org/wiki/The_Ivory_Tower_(Boardwalk_Empire)
+    directors: Tim Van Patten
+    writers: Terence Winter
+  - name: Broadway Limited
+    description: >
+      Nucky forms a new partnership for his bootlegging operation as Jimmy's involvement in a shooting puts him in legal danger.
+    released: 2010-10-03
+    length: 51m
+    imdb: https://www.imdb.com/title/tt1641819/
+    wikipedia: https://en.wikipedia.org/wiki/Broadway_Limited_(Boardwalk_Empire)
+    directors: Tim Van Patten
+    writers: Margaret Nagle
+  - name: Anastasia
+    description: >
+      Nucky deals with political and personal crises during his birthday celebration while Jimmy adjusts to his new life in Chicago.
+    released: 2010-10-10
+    length: 53m
+    imdb: https://www.imdb.com/title/tt1641820/
+    wikipedia: https://en.wikipedia.org/wiki/Anastasia_(Boardwalk_Empire)
+    directors: Jeremy Podeswa
+    writers:
+      - Lawrence Konner
+      - Margaret Nagle
+  - name: Nights in Ballygran
+    description: >
+      St. Patrick's Day celebrations in Atlantic City lead to shifting alliances and personal conflicts for Nucky and Margaret.
+    released: 2010-10-17
+    length: 53m
+    imdb: https://www.imdb.com/title/tt1641821/
+    wikipedia: https://en.wikipedia.org/wiki/Nights_in_Ballygran
+    directors: Alan Taylor
+    writers: Lawrence Konner
+  - name: Family Limitation
+    description: >
+      Nucky faces a new threat from the D'Alessio brothers while Jimmy and Capone take decisive action in Chicago.
+    released: 2010-10-24
+    length: 60m
+    imdb: https://www.imdb.com/title/tt1641822/
+    wikipedia: https://en.wikipedia.org/wiki/Family_Limitation_(Boardwalk_Empire)
+    directors: Tim Van Patten
+    writers: Howard Korder
+  - name: Home
+    description: >
+      Nucky confronts painful memories of his past while Jimmy forms a significant new friendship in Chicago.
+    released: 2010-10-31
+    length: 53m
+    imdb: https://www.imdb.com/title/tt1641823/
+    wikipedia: https://en.wikipedia.org/wiki/Home_(Boardwalk_Empire)
+    directors: Allen Coulter
+    writers:
+      - Tim Van Patten
+      - Paul Simms
+  - name: Hold Me in Paradise
+    description: >
+      Nucky attends the Republican National Convention in Chicago while his brother Eli handles trouble back in Atlantic City.
+    released: 2010-11-07
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1641824/
+    wikipedia: https://en.wikipedia.org/wiki/Hold_Me_in_Paradise
+    directors: Brian Kirk
+    writers: Meg Jackson
+  - name: Belle Femme
+    description: >
+      Nucky intensifies his efforts to eliminate his rivals as Van Alden closes in on Jimmy.
+    released: 2010-11-14
+    length: 52m
+    imdb: https://www.imdb.com/title/tt1641825/
+    wikipedia: https://en.wikipedia.org/wiki/Belle_Femme
+    directors: Brad Anderson
+    writers: Steve Kornacki
+  - name: The Emerald City
+    description: >
+      Nucky asks Margaret to help him with the election; Agent Van Alden's obsession grows.
+    released: 2010-11-21
+    length: 59m
+    imdb: https://www.imdb.com/title/tt1641826/
+    wikipedia: https://en.wikipedia.org/wiki/The_Emerald_City_(Boardwalk_Empire)
+    directors: Simon Cellan Jones
+    writers: Lawrence Konner
+  - name: Paris Green
+    description: >
+      Nucky and Eli's relationship reaches a breaking point; the Commodore's health declines.
+    released: 2010-11-28
+    length: 56m
+    imdb: https://www.imdb.com/title/tt1641827/
+    wikipedia: https://en.wikipedia.org/wiki/Paris_Green_(Boardwalk_Empire)
+    directors: Allen Coulter
+    writers: Howard Korder
+  - name: A Return to Normalcy
+    description: >
+      On Election Day, Nucky and his allies attempt to sweep the polls and eliminate their enemies.
+    released: 2010-12-05
+    length: 62m
+    imdb: https://www.imdb.com/title/tt1641828/
+    wikipedia: https://en.wikipedia.org/wiki/A_Return_to_Normalcy
+    directors: Tim Van Patten
+    writers: Terence Winter

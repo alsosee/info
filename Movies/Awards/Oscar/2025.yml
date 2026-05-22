@@ -1,0 +1,85 @@
+title: Oscar 2025
+wikipedia: https://en.wikipedia.org/wiki/97th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2025
+imdb: https://www.imdb.com/event/ev0000003/2025/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Adrien Brody
+      movie: The Brutalist
+  - name: Actor in a supporting role
+    winner:
+      actor: Kieran Culkin
+      movie: A Real Pain
+  - name: Actress in a leading role
+    winner:
+      actor: Mikey Madison
+      movie: Anora
+  - name: Actress in a supporting role
+    winner:
+      actor: Zoe Saldaña
+      movie: Emilia Pérez
+  - name: Animated feature film
+    winner:
+      movie: Flow
+  - name: Cinematography
+    winner:
+      movie: The Brutalist
+      cinematography: Lol Crawley
+  - name: Costume Design
+    winner:
+      movie: Wicked
+  - name: Directing
+    winner:
+      movie: Anora
+      directors: Sean Baker
+  - name: Documentary Feature Film
+    winner:
+      movie: No Other Land
+  - name: Documentary Short Subject
+    winner:
+      movie: The Only Girl in the Orchestra
+  - name: Film Editing
+    winner:
+      movie: Anora
+      editors: Sean Baker
+  - name: International Feature Film
+    winner:
+      movie: I'm Still Here
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Substance
+  - name: Music (Original Score)
+    winner:
+      movie: The Brutalist
+      music: Daniel Blumberg
+  - name: Music (Original Song)
+    winner:
+      movie: Emilia Pérez
+      track: El Mal
+  - name: Best Picture
+    winner:
+      movie: Anora
+  - name: Production Design
+    winner:
+      movie: Wicked
+  - name: Short Film (Animated)
+    winner:
+      movie: In the Shadow of the Cypress
+  - name: Short Film (Live Action)
+    winner:
+      movie: I'm Not a Robot
+  - name: Sound
+    winner:
+      movie: "Dune: Part Two"
+  - name: Visual Effects
+    winner:
+      movie: "Dune: Part Two"
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Conclave
+      writers: Peter Straughan
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Anora
+      writers: Sean Baker

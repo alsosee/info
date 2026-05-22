@@ -1,0 +1,41 @@
+name: Raging Bull
+description: >
+  A biographical sports drama about middleweight boxer Jake LaMotta, whose rage and jealousy
+  drive him in the ring while destroying his relationships outside it. The film follows his
+  turbulent rise, championship career, and later years as a nightclub performer.
+released: 1980-12-19
+rating: R
+length: 2h9m
+genres:
+  - biography
+  - drama
+  - sport
+wikipedia: https://en.wikipedia.org/wiki/Raging_Bull
+imdb: https://www.imdb.com/title/tt0081398
+tmdb: https://www.themoviedb.org/movie/1578-raging-bull
+rotten_tomatoes: https://www.rottentomatoes.com/m/raging_bull
+metacritic: https://www.metacritic.com/movie/raging-bull
+directors: Martin Scorsese
+producers:
+  - Irwin Winkler
+  - Robert Chartoff
+screenplay:
+  - Paul Schrader
+  - Mardik Martin
+cinematography: Michael Chapman
+editors: Thelma Schoonmaker
+production: Chartoff-Winkler Productions
+distributors: United Artists
+characters:
+  - name: Jake LaMotta
+    actor: Robert De Niro
+  - name: Joey LaMotta
+    actor: Joe Pesci
+  - name: Vickie LaMotta
+    actor: Cathy Moriarty
+  - name: Lenora LaMotta
+    actor: Theresa Saldana
+  - name: Salvy Batts
+    actor: Frank Vincent
+  - name: Tommy Como
+    actor: Nicholas Colasanto

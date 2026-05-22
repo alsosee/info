@@ -1,0 +1,92 @@
+title: Oscar 2020
+wikipedia: https://en.wikipedia.org/wiki/92nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2020
+imdb: https://www.imdb.com/event/ev0000003/2020/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Joaquin Phoenix
+      movie: Joker
+  - name: Actor in a supporting role
+    winner:
+      actor: Brad Pitt
+      movie: Once Upon a Time in Hollywood
+  - name: Actress in a leading role
+    winner:
+      actor: Renée Zellweger
+      movie: Judy
+  - name: Actress in a supporting role
+    winner:
+      actor: Laura Dern
+      movie: Marriage Story
+  - name: Animated feature film
+    winner:
+      movie: Toy Story 4
+  - name: Cinematography
+    winner:
+      movie: 1917
+      cinematography: Roger Deakins
+  - name: Costume Design
+    winner:
+      movie: Little Women
+  - name: Directing
+    winner:
+      movie: Parasite
+      directors: Bong Joon-ho
+  - name: Documentary Feature Film
+    winner:
+      movie: American Factory
+  - name: Documentary Short Subject
+    winner:
+      movie: "Learning to Skateboard in a Warzone (If You're a Girl)"
+  - name: Film Editing
+    winner:
+      movie: Ford v Ferrari
+      editors:
+        - Andrew Buckland
+        - Michael McCusker
+  - name: International Feature Film
+    winner:
+      movie: Parasite
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Bombshell
+  - name: Music (Original Score)
+    winner:
+      movie: Joker
+      music: Hildur Guðnadóttir
+  - name: Music (Original Song)
+    winner:
+      movie: Rocketman
+      track: "(I'm Gonna) Love Me Again"
+  - name: Best Picture
+    winner:
+      movie: Parasite
+  - name: Production Design
+    winner:
+      movie: Once Upon a Time in Hollywood
+  - name: Short Film (Animated)
+    winner:
+      movie: Hair Love
+  - name: Short Film (Live Action)
+    winner:
+      movie: "The Neighbors' Window"
+  - name: Sound Editing
+    winner:
+      movie: Ford v Ferrari
+  - name: Sound Mixing
+    winner:
+      movie: 1917
+  - name: Visual Effects
+    winner:
+      movie: 1917
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Jojo Rabbit
+      writers: Taika Waititi
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Parasite
+      writers:
+        - Bong Joon-ho
+        - Han Jin-won

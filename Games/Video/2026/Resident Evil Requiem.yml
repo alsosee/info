@@ -1,0 +1,23 @@
+name: "Resident Evil: Requiem"
+released: 2026-02-27
+description: >
+  Set 28 years after the Raccoon City incident, FBI analyst Grace Ashcroft and veteran Leon S. Kennedy investigate a series of mysterious deaths tied to the Wrenwood Hotel.
+genres:
+  - survival horror
+  - action
+website: https://www.residentevil.com/requiem
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_Requiem
+steam: https://store.steampowered.com/app/3764200/
+engine: RE Engine
+developers: Capcom
+publishers: Capcom
+directors: Koshi Nakanishi
+characters:
+  - name: Grace Ashcroft
+    voice: Angela Sant'Albano
+  - name: Leon S. Kennedy
+    voice: Nick Apostolides
+  - name: Sherry Birkin
+    voice: Eden Riegel
+  - name: Alyssa Ashcroft
+    voice: Jane Perry

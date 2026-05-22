@@ -1,0 +1,29 @@
+name: "Marvel One-Shot: Agent Carter"
+description: >
+  One year after the events of Captain America: The First Avenger, Peggy Carter is relegated to desk work at the Strategic Scientific Reserve. When she receives a tip about the mysterious Zodiac serum, she embarks on a solo mission to retrieve it while facing workplace discrimination from her boss.
+based_on: Movies/2011/Captain America The First Avenger
+released: 2013-09-03
+rating: PG-13
+length: 15m
+genres:
+  - action
+  - adventure
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/Marvel_One-Shots#Agent_Carter_(2013)
+imdb: https://www.imdb.com/title/tt3067038
+tmdb: https://www.themoviedb.org/movie/211387-marvel-one-shot-agent-carter
+directors: Louis D'Esposito
+screenplay: Eric Pearson
+producers:
+  - Kevin Feige
+production: Marvel Studios
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Peggy Carter
+    actor: Hayley Atwell
+  - name: John Flynn
+    actor: Bradley Whitford
+  - name: Howard Stark
+    actor: Dominic Cooper
+  - name: Timothy "Dum Dum" Dugan
+    actor: Neal McDonough

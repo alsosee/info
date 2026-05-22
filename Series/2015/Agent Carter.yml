@@ -1,0 +1,164 @@
+name: "Marvel's Agent Carter"
+description: >
+  In 1946, Peggy Carter balances administrative work for the Strategic Scientific Reserve (SSR) in New York City with secret missions for Howard Stark, who has been framed for selling his deadliest weapons to enemies of the United States. While navigating the sexism of post-WWII America, Peggy investigates a mysterious organization known as Leviathan.
+based_on: Movies/2011/Captain America The First Avenger
+references: Movies/2013/Marvel One-Shot Agent Carter
+released: 2015-01-06
+rating: TV-PG
+genres:
+  - action
+  - adventure
+  - drama
+  - espionage
+  - superhero
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/Agent_Carter_(season_1)
+imdb: https://www.imdb.com/title/tt3475734
+tmdb: https://www.themoviedb.org/tv/61550-agent-carter/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/marvel-s-agent-carter/s01
+metacritic: https://www.metacritic.com/tv/marvels-agent-carter/season-1
+creators:
+  - Christopher Markus
+  - Stephen McFeely
+directors:
+  - Louis D'Esposito
+  - Joseph V. Russo
+  - Scott Winant
+  - Stephen Cragg
+  - Peter Leto
+  - Stephen Williams
+  - Vincent Misiano
+  - Christopher Misiano
+writers:
+  - Christopher Markus
+  - Stephen McFeely
+  - Eric Pearson
+  - Andi Bushell
+  - Brant Englestein
+  - Jose Molina
+  - Lindsey Allen
+  - Chris Dingess
+  - Michele Fazekas
+  - Tara Butters
+producers:
+  - Tara Butters
+  - Michele Fazekas
+  - Christopher Markus
+  - Stephen McFeely
+  - Chris Dingess
+  - Kevin Feige
+  - Louis D'Esposito
+  - Alan Fine
+  - Joe Quesada
+  - Stan Lee
+  - Jeph Loeb
+production:
+  - ABC Studios
+  - Marvel Television
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Peggy Carter
+    actor: Hayley Atwell
+  - name: Edwin Jarvis
+    actor: James D'Arcy
+  - name: Jack Thompson
+    actor: Chad Michael Murray
+  - name: Daniel Sousa
+    actor: Enver Gjokaj
+  - name: Roger Dooley
+    actor: Shea Whigham
+  - name: Howard Stark
+    actor: Dominic Cooper
+  - name: Angie Martinelli
+    actor: Lyndsy Fonseca
+  - name: Dottie Underwood
+    actor: Bridget Regan
+  - name: Johann Fennhoff
+    actor: Ralph Brown
+  - name: Ray Krzeminski
+    actor: Kyle Bornheimer
+  - name: Miriam Fry
+    actor: Meagen Fay
+  - name: Anton Vanko
+    actor: Costa Ronin
+  - name: Timothy "Dum Dum" Dugan
+    actor: Neal McDonough
+  - name: Arnim Zola
+    actor: Toby Jones
+episodes:
+  - name: Now is Not the End
+    description: >
+      Peggy Carter is secretly recruited by Howard Stark to clear his name after he is accused of treason.
+    released: 2015-01-06
+    length: 42m
+    imdb: https://www.imdb.com/title/tt3469416
+    wikipedia: https://en.wikipedia.org/wiki/Now_is_Not_the_End
+    directors: Louis D'Esposito
+    writers:
+      - Christopher Markus
+      - Stephen McFeely
+  - name: Bridge and Tunnel
+    description: >
+      Peggy finds a lead on Stark's stolen weapons, but her mission is complicated by the SSR's own investigation.
+    released: 2015-01-06
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4105284
+    wikipedia: https://en.wikipedia.org/wiki/Bridge_and_Tunnel_(Agent_Carter)
+    directors: Joseph V. Russo
+    writers: Eric Pearson
+  - name: Time and Tide
+    description: >
+      Peggy and Jarvis track the stolen technology to the docks, while the SSR closes in on Jarvis.
+    released: 2015-01-13
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4105292
+    wikipedia: https://en.wikipedia.org/wiki/Time_and_Tide_(Agent_Carter)
+    directors: Scott Winant
+    writers: Andi Bushell
+  - name: The Blitzkrieg Button
+    description: >
+      Peggy's trust in Howard Stark is tested when she discovers he has been lying to her about his inventions.
+    released: 2015-01-27
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4105300
+    wikipedia: https://en.wikipedia.org/wiki/The_Blitzkrieg_Button
+    directors: Stephen Cragg
+    writers: Brant Englestein
+  - name: The Iron Ceiling
+    description: >
+      Peggy joins the Howling Commandos on a mission to a Soviet military complex to stop a weapons sale.
+    released: 2015-02-03
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4105306
+    wikipedia: https://en.wikipedia.org/wiki/The_Iron_Ceiling
+    directors: Peter Leto
+    writers: Jose Molina
+  - name: A Sin to Err
+    description: >
+      Peggy and Jarvis search for a female Leviathan operative while the SSR begins to suspect Peggy's double life.
+    released: 2015-02-10
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4105312
+    wikipedia: https://en.wikipedia.org/wiki/A_Sin_to_Err
+    directors: Stephen Williams
+    writers: Lindsey Allen
+  - name: Snafu
+    description: >
+      Peggy is interrogated by the SSR as Leviathan's plan to destroy New York City begins to unfold.
+    released: 2015-02-17
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4105316
+    wikipedia: https://en.wikipedia.org/wiki/Snafu_(Agent_Carter)
+    directors: Vincent Misiano
+    writers: Chris Dingess
+  - name: Valediction
+    description: >
+      Peggy must stop a brainwashed Howard Stark from releasing a deadly gas over the city in the season finale.
+    released: 2015-02-24
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4105322
+    wikipedia: https://en.wikipedia.org/wiki/Valediction_(Agent_Carter)
+    directors: Christopher Misiano
+    writers:
+      - Michele Fazekas
+      - Tara Butters

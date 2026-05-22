@@ -1,0 +1,203 @@
+name: "Breaking Bad"
+description: >
+  A struggling high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family's financial future.
+released: 2008-01-20
+rating: TV-MA
+genres:
+  - crime
+  - drama
+  - thriller
+  - neo-western
+  - black comedy
+network: AMC
+wikipedia: https://en.wikipedia.org/wiki/Breaking_Bad_(season_1)
+imdb: https://www.imdb.com/title/tt0903747/episodes?season=1
+tmdb: https://www.themoviedb.org/tv/1396-breaking-bad/season/1
+spotify: https://open.spotify.com/album/2ldfNPMy7WlIVhLAnqXoR5
+creators: Vince Gilligan
+directors:
+  - Vince Gilligan
+  - Adam Bernstein
+  - Jim McKay
+  - Tricia Brock
+  - Bronwen Hughes
+  - Tim Hunter
+writers:
+  - Vince Gilligan
+  - Patty Lin
+  - George Mastras
+  - Peter Gould
+producers:
+  - Vince Gilligan
+  - Mark Johnson
+  - Stewart A. Lyons
+  - Karen Moore
+  - Patty Lin
+characters:
+  - name: Walter White
+    actor: Bryan Cranston
+  - name: Skyler White
+    actor: Anna Gunn
+  - name: Jesse Pinkman
+    actor: Aaron Paul
+  - name: Hank Schrader
+    actor: Dean Norris
+  - name: Marie Schrader
+    actor: Betsy Brandt
+  - name: Walter White Jr.
+    actor: RJ Mitte
+episodes:
+  - name: Pilot
+    description: >
+      A chemistry teacher diagnosed with terminal cancer teams up with a former student to cook meth in an RV.
+    released: 2008-01-20
+    length: 58m
+    imdb: https://www.imdb.com/title/tt0959621/
+    wikipedia: https://en.wikipedia.org/wiki/Pilot_(Breaking_Bad)
+    directors: Vince Gilligan
+    writers: Vince Gilligan
+    characters:
+      - name: Walter White
+        actor: Bryan Cranston
+      - name: Skyler White
+        actor: Anna Gunn
+      - name: Jesse Pinkman
+        actor: Aaron Paul
+      - name: Hank Schrader
+        actor: Dean Norris
+      - name: Marie Schrader
+        actor: Betsy Brandt
+      - name: Walter White Jr.
+        actor: RJ Mitte
+  - name: "Cat's in the Bag..."
+    description: >
+      Walt and Jesse attempt to dispose of two bodies in the RV, which becomes complicated when one of them is found to be alive.
+    released: 2008-01-27
+    length: 48m
+    imdb: https://www.imdb.com/title/tt1054723/
+    wikipedia: "https://en.wikipedia.org/wiki/Cat%27s_in_the_Bag..."
+    directors: Adam Bernstein
+    writers: Vince Gilligan
+    characters:
+      - name: Walter White
+        actor: Bryan Cranston
+      - name: Skyler White
+        actor: Anna Gunn
+      - name: Jesse Pinkman
+        actor: Aaron Paul
+      - name: Hank Schrader
+        actor: Dean Norris
+      - name: Marie Schrader
+        actor: Betsy Brandt
+      - name: Walter White Jr.
+        actor: RJ Mitte
+  - name: "...And the Bag's in the River"
+    description: >
+      Walt is forced to decide whether to kill Krazy-8 or set him free while cleaning up the remains of Emilio.
+    released: 2008-02-10
+    length: 48m
+    imdb: https://www.imdb.com/title/tt1054724/
+    wikipedia: "https://en.wikipedia.org/wiki/...And_the_Bag%27s_in_the_River"
+    directors: Adam Bernstein
+    writers: Vince Gilligan
+    characters:
+      - name: Walter White
+        actor: Bryan Cranston
+      - name: Skyler White
+        actor: Anna Gunn
+      - name: Jesse Pinkman
+        actor: Aaron Paul
+      - name: Hank Schrader
+        actor: Dean Norris
+      - name: Marie Schrader
+        actor: Betsy Brandt
+      - name: Walter White Jr.
+        actor: RJ Mitte
+  - name: "Cancer Man"
+    description: >
+      Walt reveals his cancer diagnosis to his family while Jesse becomes paranoid that the DEA is tracking him.
+    released: 2008-02-17
+    length: 48m
+    imdb: https://www.imdb.com/title/tt1054725/
+    wikipedia: https://en.wikipedia.org/wiki/Cancer_Man_(Breaking_Bad)
+    directors: Jim McKay
+    writers: Vince Gilligan
+    characters:
+      - name: Walter White
+        actor: Bryan Cranston
+      - name: Skyler White
+        actor: Anna Gunn
+      - name: Jesse Pinkman
+        actor: Aaron Paul
+      - name: Hank Schrader
+        actor: Dean Norris
+      - name: Marie Schrader
+        actor: Betsy Brandt
+      - name: Walter White Jr.
+        actor: RJ Mitte
+  - name: "Gray Matter"
+    description: >
+      Walt considers an offer for financial help from former business partners but ultimately decides to return to cooking meth with Jesse.
+    released: 2008-02-24
+    length: 48m
+    imdb: https://www.imdb.com/title/tt1054726/
+    wikipedia: https://en.wikipedia.org/wiki/Gray_Matter_(Breaking_Bad)
+    directors: Tricia Brock
+    writers: Patty Lin
+    characters:
+      - name: Walter White
+        actor: Bryan Cranston
+      - name: Skyler White
+        actor: Anna Gunn
+      - name: Jesse Pinkman
+        actor: Aaron Paul
+      - name: Hank Schrader
+        actor: Dean Norris
+      - name: Marie Schrader
+        actor: Betsy Brandt
+      - name: Walter White Jr.
+        actor: RJ Mitte
+  - name: "Crazy Handful of Nothin'"
+    description: >
+      Walt begins chemotherapy and adopts the "Heisenberg" persona to confront a dangerous new drug distributor.
+    released: 2008-03-02
+    length: 48m
+    imdb: https://www.imdb.com/title/tt1054727/
+    wikipedia: "https://en.wikipedia.org/wiki/Crazy_Handful_of_Nothin%27"
+    directors: Bronwen Hughes
+    writers: George Mastras
+    characters:
+      - name: Walter White
+        actor: Bryan Cranston
+      - name: Skyler White
+        actor: Anna Gunn
+      - name: Jesse Pinkman
+        actor: Aaron Paul
+      - name: Hank Schrader
+        actor: Dean Norris
+      - name: Marie Schrader
+        actor: Betsy Brandt
+      - name: Walter White Jr.
+        actor: RJ Mitte
+  - name: "A No-Rough-Stuff-Type Deal"
+    description: >
+      Walt and Jesse struggle to meet a large production quota for Tuco while Skyler deals with a shoplifting incident involving Marie.
+    released: 2008-03-09
+    length: 48m
+    imdb: https://www.imdb.com/title/tt1054728/
+    wikipedia: https://en.wikipedia.org/wiki/A_No-Rough-Stuff-Type_Deal
+    directors: Tim Hunter
+    writers: Peter Gould
+    characters:
+      - name: Walter White
+        actor: Bryan Cranston
+      - name: Skyler White
+        actor: Anna Gunn
+      - name: Jesse Pinkman
+        actor: Aaron Paul
+      - name: Hank Schrader
+        actor: Dean Norris
+      - name: Marie Schrader
+        actor: Betsy Brandt
+      - name: Walter White Jr.
+        actor: RJ Mitte

@@ -1,0 +1,128 @@
+title: Oscar 1949
+wikipedia: https://en.wikipedia.org/wiki/21st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1949
+imdb: https://www.imdb.com/event/ev0000003/1949/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: Hamlet
+
+  - name: Best Directing
+    winner:
+      movie: The Treasure of the Sierra Madre
+      directors: John Huston
+
+  - name: Best Actor
+    winner:
+      actor: Laurence Olivier
+      movie: Hamlet
+
+  - name: Best Actress
+    winner:
+      actor: Jane Wyman
+      movie: Johnny Belinda
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Walter Huston
+      movie: The Treasure of the Sierra Madre
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Claire Trevor
+      movie: Key Largo
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: The Search
+      writers:
+        - Richard Schweizer
+        - David Wechsler
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Treasure of the Sierra Madre
+      writers: John Huston
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: The Secret Land
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Toward Independence
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Symphony of a City
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Seal Island
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Little Orphan
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: The Red Shoes
+      music: Brian Easdale
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Easter Parade
+      music:
+        - Johnny Green
+        - Roger Edens
+
+  - name: Best Music (Song)
+    winner:
+      movie: The Paleface
+      track: Buttons and Bows
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Snake Pit
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Hamlet
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: The Red Shoes
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: The Naked City
+      cinematography: William Daniels
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Joan of Arc
+      cinematography:
+        - Joseph Valentine
+        - William V. Skall
+        - Winton C. Hoch
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: Hamlet
+      costume_design: Roger K. Furse
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: Joan of Arc
+      costume_design:
+        - Dorothy Jeakins
+        - Barbara Karinska
+
+  - name: Best Film Editing
+    winner:
+      movie: The Naked City
+      editors: Paul Weatherwax
+
+  - name: Best Special Effects
+    winner:
+      movie: Portrait of Jennie

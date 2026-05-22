@@ -1,0 +1,77 @@
+title: BAFTA 1983
+website: https://awards.bafta.org/award/1983/film
+categories:
+    - name: Actor
+      winner:
+        movie: Ben Kingsley
+    - name: Actress
+      winner:
+        movie: Katharine Hepburn
+    - name: Cinematography
+      winner:
+        movie: Blade Runner
+    - name: Costume Design
+      winner:
+        movie: Blade Runner
+        constumedesign:
+            - Charles Knode
+            - Michael Kaplan
+    - name: Direction
+      winner:
+        movie: Gandhi
+    - name: Fellowship
+      winner:
+        person: Richard Attenborough
+    - name: Film
+      winner:
+        movie: Gandhi
+    - name: Film Editing
+      winner:
+        movie: Missing
+    - name: Foreign Language Film
+      winner:
+        movie: Christ Stopped At Eboli (Cristo Si È Fermato A Eboli)
+    - name: Make-Up Artist
+      winner:
+        movie: Sarah Monzani, Christopher Tucker, Michelle Burke
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Gandhi
+    - name: Original Song Written for a Film
+      winner:
+        movie: Pink Floyd The Wall (Another Brick In The Wall)
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Arthur Wooster
+    - name: Production Design
+      winner:
+        movie: Blade Runner
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Burden Of Dreams
+    - name: Score for a Film
+      winner:
+        movie: 'ET: The Extra-Terrestrial'
+    - name: Screenplay
+      winner:
+        movie: Missing
+    - name: Short Animation
+      winner:
+        movie: Dreamland Express
+    - name: Short Film
+      winner:
+        movie: The Privilege
+    - name: Sound
+      winner:
+        movie: Pink Floyd The Wall
+    - name: Special Visual Effects
+      winner:
+        movie: Poltergeist
+    - name: Supporting Actor
+      winner:
+        movie: Reds
+        actor: Jack Nicholson
+    - name: Supporting Actress
+      winner:
+        movie: Gandhi
+        actor: Rohini Hattangadi

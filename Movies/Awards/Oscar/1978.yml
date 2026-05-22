@@ -1,0 +1,110 @@
+title: Oscar 1978
+wikipedia: https://en.wikipedia.org/wiki/50th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1978
+imdb: https://www.imdb.com/event/ev0000003/1978/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Richard Dreyfuss
+      movie: The Goodbye Girl
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Jason Robards
+      movie: Julia
+
+  - name: Actress in a leading role
+    winner:
+      actor: Diane Keaton
+      movie: Annie Hall
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Vanessa Redgrave
+      movie: Julia
+
+  - name: Art Direction
+    winner:
+      movie: Star Wars
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Madame Rosa
+
+  - name: Cinematography
+    winner:
+      movie: Close Encounters of the Third Kind
+      cinematography: Vilmos Zsigmond
+
+  - name: Costume Design
+    winner:
+      movie: Star Wars
+      costume_design: John Mollo
+
+  - name: Directing
+    winner:
+      movie: Annie Hall
+      directors: Woody Allen
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Who Are the DeBolts? And Where Did They Get Nineteen Kids?"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Gravity Is My Enemy
+
+  - name: Film Editing
+    winner:
+      movie: Star Wars
+      editors:
+        - Paul Hirsch
+        - Marcia Lucas
+        - Richard Chew
+
+  - name: Music (Original Score)
+    winner:
+      movie: Star Wars
+      music: John Williams
+
+  - name: Music (Original Song Score and Its Adaptation or Adaptation Score)
+    winner:
+      movie: A Little Night Music
+      music: Jonathan Tunick
+
+  - name: Music (Original Song)
+    winner:
+      movie: You Light Up My Life
+      track: You Light Up My Life
+
+  - name: Best Picture
+    winner:
+      movie: Annie Hall
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Sand Castle
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: "I'll Find a Way"
+
+  - name: Sound
+    winner:
+      movie: Star Wars
+
+  - name: Visual Effects
+    winner:
+      movie: Star Wars
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Julia
+      writers: Alvin Sargent
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Annie Hall
+      writers:
+        - Woody Allen
+        - Marshall Brickman

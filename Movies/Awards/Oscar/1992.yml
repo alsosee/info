@@ -1,0 +1,109 @@
+title: Oscar 1992
+wikipedia: https://en.wikipedia.org/wiki/64th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1992
+imdb: https://www.imdb.com/event/ev0000003/1992/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Anthony Hopkins
+      movie: The Silence of the Lambs
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Jack Palance
+      movie: City Slickers
+
+  - name: Actress in a leading role
+    winner:
+      actor: Jodie Foster
+      movie: The Silence of the Lambs
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Mercedes Ruehl
+      movie: The Fisher King
+
+  - name: Art Direction
+    winner:
+      movie: Bugsy
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Mediterraneo
+
+  - name: Cinematography
+    winner:
+      movie: JFK
+      cinematography: Robert Richardson
+
+  - name: Costume Design
+    winner:
+      movie: Bugsy
+
+  - name: Directing
+    winner:
+      movie: The Silence of the Lambs
+      directors: Jonathan Demme
+
+  - name: Documentary Feature Film
+    winner:
+      movie: In the Shadow of the Stars
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Deadly Deception: General Electric, Nuclear Weapons and Our Environment"
+
+  - name: Film Editing
+    winner:
+      movie: JFK
+      editors:
+        - Pietro Scalia
+        - Joe Hutshing
+
+  - name: Makeup
+    winner:
+      movie: "Terminator 2: Judgment Day"
+
+  - name: Music (Original Score)
+    winner:
+      movie: Beauty and the Beast
+      music: Alan Menken
+
+  - name: Music (Original Song)
+    winner:
+      movie: Beauty and the Beast
+      track: Beauty and the Beast
+
+  - name: Best Picture
+    winner:
+      movie: The Silence of the Lambs
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Manipulation
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Session Man
+
+  - name: Sound
+    winner:
+      movie: "Terminator 2: Judgment Day"
+
+  - name: Sound Effects Editing
+    winner:
+      movie: "Terminator 2: Judgment Day"
+
+  - name: Visual Effects
+    winner:
+      movie: "Terminator 2: Judgment Day"
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Silence of the Lambs
+      writers: Ted Tally
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Thelma & Louise
+      writers: Callie Khouri

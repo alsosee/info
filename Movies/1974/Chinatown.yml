@@ -1,0 +1,44 @@
+name: Chinatown
+description: >
+  A private investigator hired to expose an adulterer finds himself caught in a web of deceit, corruption, and murder involving the Los Angeles water supply.
+released: 1974-06-20
+rating: R
+length: 2h10m
+genres:
+  - mystery
+  - neo-noir
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Chinatown_(1974_film)
+imdb: https://www.imdb.com/title/tt0071315
+tmdb: https://www.themoviedb.org/movie/829-chinatown
+rotten_tomatoes: https://www.rottentomatoes.com/m/chinatown
+metacritic: https://www.metacritic.com/movie/chinatown
+directors: Roman Polanski
+screenplay: Robert Towne
+music: Jerry Goldsmith
+cinematography: John A. Alonzo
+editors: Sam O'Steen
+production:
+  - Paramount Pictures
+  - Penthouse Productions
+  - Long Road Productions
+distributors: Paramount Pictures
+characters:
+  - name: J.J. "Jake" Gittes
+    actor: Jack Nicholson
+  - name: Evelyn Cross Mulwray
+    actor: Faye Dunaway
+  - name: Noah Cross
+    actor: John Huston
+  - name: Hollis I. Mulwray
+    actor: Darrell Zwerling
+  - name: Russ Yelburton
+    actor: John Hillerman
+  - name: Claude Mulvihill
+    actor: Roy Jenson
+  - name: Lt. Lou Escobar
+    actor: Perry Lopez
+  - name: Ida Sessions
+    actor: Diane Ladd
+  - name: Curly
+    actor: Burt Young

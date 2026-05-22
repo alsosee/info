@@ -1,0 +1,92 @@
+name: Killjoys
+description: >
+  A trio of hard-living bounty hunters—Dutch, Johnny, and D'avin—work for the Reclamation Apprehension Coalition (RAC) in a four planet-and-moon system known as the Quad. As they take on warrants to apprehend people or property, they must navigate political unrest and their own mysterious pasts while remaining neutral in local conflicts.
+released: 2015-06-19
+rating: TV-14
+genres:
+  - science fiction
+  - drama
+  - adventure
+network: Syfy
+wikipedia: https://en.wikipedia.org/wiki/Killjoys
+imdb: https://www.imdb.com/title/tt3556944
+tmdb: https://www.themoviedb.org/tv/62101-killjoys/season/1
+creators: Michelle Lovretta
+characters:
+  - name: Yalena "Dutch" Yardeen
+    actor: Hannah John-Kamen
+  - name: John Jaqobis
+    actor: Aaron Ashmore
+  - name: D'avin Jaqobis
+    actor: Luke Macfarlane
+episodes:
+  - name: Bangarang
+    description: >
+      Dutch and Johnny find themselves in a complicated situation when Johnny takes out a high-level warrant on his own brother, D'avin.
+    released: 2015-06-19
+    length: 44m
+    directors: Chris Grismer
+    writers: Michelle Lovretta
+  - name: The Sugar Point Run
+    description: >
+      The team takes on a prisoner exchange mission in a dangerous, run-down area known as Sugar Point, but things go sideways when their ship is shot down.
+    released: 2015-06-26
+    length: 44m
+    directors: Chris Grismer
+    writers: Jeremy Boxen
+  - name: The Harvest
+    description: >
+      While D'avin undergoes testing to become a Killjoy, the team searches for a missing husband on the agricultural planet Leith, uncovering a secret drug operation.
+    released: 2015-07-03
+    length: 44m
+    directors: Michael Robison
+    writers: Aaron Martin
+  - name: Vessel
+    description: >
+      The Killjoys are hired by a powerful noble to protect a surrogate mother carrying a royal heir, leading them into a conflict between the Nine Families of Qresh.
+    released: 2015-07-10
+    length: 44m
+    directors: Andy Mikita
+    writers: Emily Andras
+  - name: A Glitch in the System
+    description: >
+      The team explores an abandoned cargo ship in an asteroid belt, only to discover it is a military black ops vessel filled with deadly secrets.
+    released: 2015-07-17
+    length: 44m
+    directors: Chris Grismer
+    writers: Adam Barken
+  - name: One Blood
+    description: >
+      A "Black Warrant" is issued for a rogue Killjoy who was once a mentor to the team, forcing Dutch to choose between her orders and her personal loyalties.
+    released: 2015-07-24
+    length: 44m
+    directors: Michael Nankin
+    writers: Annmarie Morais
+  - name: Kiss Kiss, Bye Bye
+    description: >
+      The search for the doctor who experimented on D'avin leads the team to a high-tech facility, where they uncover the dark truth behind his past.
+    released: 2015-07-31
+    length: 44m
+    directors: Paolo Barzman
+    writers: Michelle Lovretta
+  - name: Come the Rain
+    description: >
+      A toxic "Black Rain" storm forces the team into lockdown; while Johnny tries to keep order at a local bar, Dutch and D'avin deal with the fallout of their recent mission.
+    released: 2015-08-07
+    length: 44m
+    directors: Peter Stebbings
+    writers: Jeremy Boxen
+  - name: Enemy Khlyen
+    description: >
+      Dutch and the brothers infiltrate the RAC headquarters to confront Dutch's mysterious former mentor, Khlyen.
+    released: 2015-08-14
+    length: 44m
+    directors: Paolo Barzman
+    writers: Emily Andras
+  - name: Escape Velocity
+    description: >
+      Tensions between the Company and the residents of Old Town reach a breaking point, forcing the Killjoys to take a stand as a massive conspiracy is revealed.
+    released: 2015-08-21
+    length: 44m
+    directors: Ken Girotti
+    writers: Michelle Lovretta

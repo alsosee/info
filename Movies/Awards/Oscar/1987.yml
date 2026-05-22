@@ -1,0 +1,111 @@
+title: Oscar 1987
+wikipedia: https://en.wikipedia.org/wiki/59th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1987
+imdb: https://www.imdb.com/event/ev0000003/1987/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Paul Newman
+      movie: The Color of Money
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Michael Caine
+      movie: Hannah and Her Sisters
+
+  - name: Actress in a leading role
+    winner:
+      actor: Marlee Matlin
+      movie: Children of a Lesser God
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Dianne Wiest
+      movie: Hannah and Her Sisters
+
+  - name: Art Direction
+    winner:
+      movie: A Room with a View
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Assault
+
+  - name: Cinematography
+    winner:
+      movie: The Mission
+      cinematography: Chris Menges
+
+  - name: Costume Design
+    winner:
+      movie: A Room with a View
+
+  - name: Directing
+    winner:
+      movie: Platoon
+      directors: Oliver Stone
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Artie Shaw: Time Is All You've Got"
+      # TODO: tied with Down and Out in America — list not yet supported
+      # movie:
+      #   - "Artie Shaw: Time Is All You've Got"
+      #   - Down and Out in America
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Women – for America, for the World"
+
+  - name: Film Editing
+    winner:
+      movie: Platoon
+      editors: Claire Simpson
+
+  - name: Makeup
+    winner:
+      movie: The Fly
+
+  - name: Music (Original Score)
+    winner:
+      movie: Round Midnight
+      music: Herbie Hancock
+
+  - name: Music (Original Song)
+    winner:
+      movie: Top Gun
+      track: Take My Breath Away
+
+  - name: Best Picture
+    winner:
+      movie: Platoon
+
+  - name: Short Film (Animated)
+    winner:
+      movie: A Greek Tragedy
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Precious Images
+
+  - name: Sound
+    winner:
+      movie: Platoon
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Aliens
+
+  - name: Visual Effects
+    winner:
+      movie: Aliens
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: A Room with a View
+      writers: Ruth Prawer Jhabvala
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Hannah and Her Sisters
+      writers: Woody Allen

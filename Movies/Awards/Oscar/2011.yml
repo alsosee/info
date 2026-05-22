@@ -1,0 +1,115 @@
+title: Oscar 2011
+wikipedia: https://en.wikipedia.org/wiki/83rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2011
+imdb: https://www.imdb.com/event/ev0000003/2011/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Colin Firth
+      movie: The King's Speech
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Christian Bale
+      movie: The Fighter
+
+  - name: Actress in a leading role
+    winner:
+      actor: Natalie Portman
+      movie: Black Swan
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Melissa Leo
+      movie: The Fighter
+
+  - name: Animated feature film
+    winner:
+      movie: Toy Story 3
+
+  - name: Art Direction
+    winner:
+      movie: Alice in Wonderland
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: In a Better World
+
+  - name: Cinematography
+    winner:
+      movie: Inception
+      cinematography: Wally Pfister
+
+  - name: Costume Design
+    winner:
+      movie: Alice in Wonderland
+
+  - name: Directing
+    winner:
+      movie: The King's Speech
+      directors: Tom Hooper
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Inside Job
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Strangers No More
+
+  - name: Film Editing
+    winner:
+      movie: The Social Network
+      editors:
+        - Angus Wall
+        - Kirk Baxter
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Wolfman
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Social Network
+      music:
+        - Trent Reznor
+        - Atticus Ross
+
+  - name: Music (Original Song)
+    winner:
+      movie: Toy Story 3
+      track: We Belong Together
+
+  - name: Best Picture
+    winner:
+      movie: The King's Speech
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Lost Thing
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: God of Love
+
+  - name: Sound Editing
+    winner:
+      movie: Inception
+
+  - name: Sound Mixing
+    winner:
+      movie: Inception
+
+  - name: Visual Effects
+    winner:
+      movie: Inception
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Social Network
+      writers: Aaron Sorkin
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The King's Speech
+      writers: David Seidler

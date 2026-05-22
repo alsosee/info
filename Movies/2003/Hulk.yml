@@ -1,0 +1,45 @@
+name: Hulk
+description: >
+  After a lab accident exposes genetics researcher Bruce Banner to massive gamma
+  radiation, he begins transforming into an enormous green creature whenever
+  his emotions spiral out of control.
+released: 2003-06-20
+rating: PG-13
+length: 138m
+genres:
+  - action
+  - sci-fi
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Hulk_(film)
+imdb: https://www.imdb.com/title/tt0286716/
+tmdb: https://www.themoviedb.org/movie/1927-hulk
+directors: Ang Lee
+writers:
+  - John Turman
+  - Michael France
+  - James Schamus
+producers:
+  - Gale Anne Hurd
+  - Avi Arad
+  - James Schamus
+  - Larry Franco
+music: Danny Elfman
+cinematography: Frederick Elmes
+editors: Tim Squyres
+production:
+  - Universal Pictures
+  - Marvel Enterprises
+  - Valhalla Motion Pictures
+  - Good Machine
+distributors: Universal Pictures
+characters:
+  - name: Bruce Banner
+    actor: Eric Bana
+  - name: Betty Ross
+    actor: Jennifer Connelly
+  - name: Thaddeus Ross
+    actor: Sam Elliott
+  - name: Glenn Talbot
+    actor: Josh Lucas
+  - name: David Banner
+    actor: Nick Nolte

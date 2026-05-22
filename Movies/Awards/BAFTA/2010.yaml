@@ -1,0 +1,95 @@
+title: BAFTA 2010
+website: https://awards.bafta.org/award/2010/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: Up In The Air
+        screenplay:
+            - Jason Reitman, Sheldon Turner
+    - name: Animated Film
+      winner:
+        movie: Up
+    - name: Cinematography
+      winner:
+        movie: The Hurt Locker
+    - name: Costume Design
+      winner:
+        movie: The Young Victoria
+        constumedesign:
+            - Sandy Powell
+    - name: Director
+      winner:
+        movie: Kathryn Bigelow
+        directors:
+            - The Hurt Locker
+    - name: Editing
+      winner:
+        movie: The Hurt Locker
+        editors:
+            - Bob Murawski, Chris Innis
+    - name: Fellowship
+      winner:
+        person: Vanessa Redgrave
+    - name: Film
+      winner:
+        movie: The Hurt Locker
+    - name: Film Not in English Language
+      winner:
+        movie: A Prophet
+    - name: Leading Actor
+      winner:
+        movie: A Single Man
+        actor: Colin Firth
+    - name: Leading Actress
+      winner:
+        movie: An Education
+        actor: Carey Mulligan
+    - name: Make-Up And Hair
+      winner:
+        movie: The Young Victoria
+    - name: Music
+      winner:
+        movie: Up
+    - name: Orange Rising Star Award
+      winner:
+        movie: Kristen Stewart
+    - name: Original Screenplay
+      winner:
+        movie: The Hurt Locker
+        screenplay:
+            - Mark Boal
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Joe Dunton
+    - name: Outstanding British Film
+      winner:
+        movie: Fish Tank
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Duncan Jones
+    - name: Production Design
+      winner:
+        movie: Avatar
+    - name: Short Animation
+      winner:
+        movie: Mother Of Many
+    - name: Short Film
+      winner:
+        movie: I Do Air
+    - name: Sound
+      winner:
+        movie: The Hurt Locker
+    - name: Special Award
+      winner:
+        movie: Ray Harryhausen
+    - name: Special Visual Effects
+      winner:
+        movie: Avatar
+    - name: Supporting Actor
+      winner:
+        movie: Inglourious Basterds
+        actor: Christoph Waltz
+    - name: Supporting Actress
+      winner:
+        movie: 'Precious: Based On The Novel Push By Sapphire'
+        actor: Mo'Nique

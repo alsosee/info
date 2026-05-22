@@ -1,0 +1,107 @@
+title: Oscar 1972
+wikipedia: https://en.wikipedia.org/wiki/44th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1972
+imdb: https://www.imdb.com/event/ev0000003/1972/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Gene Hackman
+      movie: The French Connection
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Ben Johnson
+      movie: The Last Picture Show
+
+  - name: Actress in a leading role
+    winner:
+      actor: Jane Fonda
+      movie: Klute
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Cloris Leachman
+      movie: The Last Picture Show
+
+  - name: Art Direction
+    winner:
+      movie: Nicholas and Alexandra
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Garden of the Finzi-Continis
+
+  - name: Cinematography
+    winner:
+      movie: Fiddler on the Roof
+      cinematography: Oswald Morris
+
+  - name: Costume Design
+    winner:
+      movie: Nicholas and Alexandra
+      costume_design:
+        - Yvonne Blake
+        - Antonio Castillo
+
+  - name: Directing
+    winner:
+      movie: The French Connection
+      directors: William Friedkin
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Hellstrom Chronicle
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Sentinels of Silence
+
+  - name: Film Editing
+    winner:
+      movie: The French Connection
+      editors: Gerald B. Greenberg
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: Summer of '42
+      music: Michel Legrand
+
+  - name: "Music (Scoring: Adaptation and Original Song Score)"
+    winner:
+      movie: Fiddler on the Roof
+      music: John Williams
+
+  - name: Music (Original Song)
+    winner:
+      movie: Shaft
+      track: Theme from Shaft
+
+  - name: Best Picture
+    winner:
+      movie: The French Connection
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Crunch Bird
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Sentinels of Silence
+
+  - name: Sound
+    winner:
+      movie: Fiddler on the Roof
+
+  - name: Visual Effects
+    winner:
+      movie: Bedknobs and Broomsticks
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The French Connection
+      writers: Ernest Tidyman
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Hospital
+      writers: Paddy Chayefsky

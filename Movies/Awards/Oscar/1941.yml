@@ -1,0 +1,111 @@
+title: Oscar 1941
+wikipedia: https://en.wikipedia.org/wiki/13th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1941
+imdb: https://www.imdb.com/event/ev0000003/1941/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: Rebecca
+
+  - name: Best Directing
+    winner:
+      movie: The Grapes of Wrath
+      directors: John Ford
+
+  - name: Best Actor
+    winner:
+      actor: James Stewart
+      movie: The Philadelphia Story
+
+  - name: Best Actress
+    winner:
+      actor: Ginger Rogers
+      movie: Kitty Foyle
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Walter Brennan
+      movie: The Westerner
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Jane Darwell
+      movie: The Grapes of Wrath
+
+  - name: Writing (Original Story)
+    winner:
+      movie: Arise, My Love
+      writers:
+        - Benjamin Glazer
+        - John S. Toldy
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Great McGinty
+      writers: Preston Sturges
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Philadelphia Story
+      writers: Donald Ogden Stewart
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: "Quicker'n a Wink"
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Teddy, the Rough Rider
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Milky Way
+
+  - name: Best Music (Original Score)
+    winner:
+      movie: Pinocchio
+      music:
+        - Leigh Harline
+        - Paul Smith
+        - Ned Washington
+
+  - name: Best Music (Scoring)
+    winner:
+      movie: Tin Pan Alley
+      music: Alfred Newman
+
+  - name: Best Music (Song)
+    winner:
+      movie: Pinocchio
+      track: When You Wish Upon a Star
+
+  - name: Best Sound Recording
+    winner:
+      movie: Strike Up the Band
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Pride and Prejudice
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: The Thief of Bagdad
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Rebecca
+      cinematography: George Barnes
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: The Thief of Bagdad
+      cinematography: Georges Périnal
+
+  - name: Best Film Editing
+    winner:
+      movie: North West Mounted Police
+      editors: Anne Bauchens
+
+  - name: Best Special Effects
+    winner:
+      movie: The Thief of Bagdad

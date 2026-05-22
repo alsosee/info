@@ -1,0 +1,65 @@
+title: Oscar 1933
+wikipedia: https://en.wikipedia.org/wiki/5th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1933
+imdb: https://www.imdb.com/event/ev0000003/1933/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: Grand Hotel
+
+  - name: Best Director
+    winner:
+      movie: Bad Girl
+      directors: Frank Borzage
+
+  - name: Best Actor
+    winner:
+      actor: Fredric March
+      movie: Dr. Jekyll and Mr. Hyde
+      # TODO: tied with Wallace Beery (The Champ) — list not yet supported
+      # actor:
+      #   - Fredric March
+      #   - Wallace Beery
+      # movie:
+      #   - Dr. Jekyll and Mr. Hyde
+      #   - The Champ
+
+  - name: Best Actress
+    winner:
+      actor: Helen Hayes
+      movie: The Sin of Madelon Claudet
+
+  - name: Best Original Story
+    winner:
+      movie: The Champ
+      writers: Frances Marion
+
+  - name: Best Adaptation
+    winner:
+      movie: Bad Girl
+      writers: Edwin J. Burke
+
+  - name: Best Live Action Short Subject (Comedy)
+    winner:
+      movie: The Music Box
+
+  - name: Best Live Action Short Subject (Novelty)
+    winner:
+      movie: Wrestling Swordfish
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Flowers and Trees
+
+  - name: Best Sound Recording
+    winner:
+      person: Paramount Publix Studio Sound Department
+
+  - name: Best Art Direction
+    winner:
+      movie: Transatlantic
+
+  - name: Best Cinematography
+    winner:
+      movie: Shanghai Express
+      cinematography: Lee Garmes

@@ -1,0 +1,111 @@
+title: Oscar 2003
+wikipedia: https://en.wikipedia.org/wiki/75th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2003
+imdb: https://www.imdb.com/event/ev0000003/2003/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Adrien Brody
+      movie: The Pianist
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Chris Cooper
+      movie: Adaptation
+
+  - name: Actress in a leading role
+    winner:
+      actor: Nicole Kidman
+      movie: The Hours
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Catherine Zeta-Jones
+      movie: Chicago
+
+  - name: Animated feature film
+    winner:
+      movie: Spirited Away
+
+  - name: Art Direction
+    winner:
+      movie: Chicago
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Nowhere in Africa
+
+  - name: Cinematography
+    winner:
+      movie: Road to Perdition
+      cinematography: Conrad Hall
+
+  - name: Costume Design
+    winner:
+      movie: Chicago
+
+  - name: Directing
+    winner:
+      movie: The Pianist
+      directors: Roman Polanski
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Bowling for Columbine
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Twin Towers
+
+  - name: Film Editing
+    winner:
+      movie: Chicago
+      editors: Martin Walsh
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Frida
+
+  - name: Music (Original Score)
+    winner:
+      movie: Frida
+      music: Elliot Goldenthal
+
+  - name: Music (Original Song)
+    winner:
+      movie: 8 Mile
+      track: Lose Yourself
+
+  - name: Best Picture
+    winner:
+      movie: Chicago
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The ChubbChubbs!
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: This Charming Man
+
+  - name: Sound
+    winner:
+      movie: Chicago
+
+  - name: Sound Editing
+    winner:
+      movie: "The Lord of the Rings: The Two Towers"
+
+  - name: Visual Effects
+    winner:
+      movie: "The Lord of the Rings: The Two Towers"
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Pianist
+      writers: Ronald Harwood
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Talk to Her
+      writers: Pedro Almodóvar

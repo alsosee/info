@@ -1,0 +1,114 @@
+title: Oscar 2004
+wikipedia: https://en.wikipedia.org/wiki/76th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2004
+imdb: https://www.imdb.com/event/ev0000003/2004/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Sean Penn
+      movie: Mystic River
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Tim Robbins
+      movie: Mystic River
+
+  - name: Actress in a leading role
+    winner:
+      actor: Charlize Theron
+      movie: Monster
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Renée Zellweger
+      movie: Cold Mountain
+
+  - name: Animated feature film
+    winner:
+      movie: Finding Nemo
+
+  - name: Art Direction
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Barbarian Invasions
+
+  - name: Cinematography
+    winner:
+      movie: "Master and Commander: The Far Side of the World"
+      cinematography: Russell Boyd
+
+  - name: Costume Design
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+
+  - name: Directing
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+      directors: Peter Jackson
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Fog of War
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Chernobyl Heart
+
+  - name: Film Editing
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+      editors: Jamie Selkirk
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+
+  - name: Music (Original Score)
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+      music: Howard Shore
+
+  - name: Music (Original Song)
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+      track: Into the West
+
+  - name: Best Picture
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Harvie Krumpet
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Two Soldiers
+
+  - name: Sound Editing
+    winner:
+      movie: "Master and Commander: The Far Side of the World"
+
+  - name: Sound Mixing
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+
+  - name: Visual Effects
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: "The Lord of the Rings: The Return of the King"
+      writers:
+        - Fran Walsh
+        - Philippa Boyens
+        - Peter Jackson
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Lost in Translation
+      writers: Sofia Coppola

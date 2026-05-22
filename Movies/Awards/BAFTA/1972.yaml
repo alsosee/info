@@ -1,0 +1,67 @@
+title: BAFTA 1972
+website: https://awards.bafta.org/award/1972/film
+categories:
+    - name: Actor
+      winner:
+        movie: Peter Finch
+    - name: Actress
+      winner:
+        movie: Glenda Jackson
+    - name: Animated Film
+      winner:
+        movie: Category not awarded this year
+    - name: Anthony Asquith Memorial Award
+      winner:
+        movie: Summer Of '42
+    - name: Art Direction
+      winner:
+        movie: Death In Venice
+    - name: Cinematography
+      winner:
+        movie: Death In Venice
+    - name: Costume Design
+      winner:
+        movie: Death In Venice
+        constumedesign:
+            - Piero Tosi
+    - name: Direction
+      winner:
+        movie: Sunday, Bloody Sunday
+    - name: Fellowship
+      winner:
+        person: Freddie Young
+    - name: Film
+      winner:
+        movie: Sunday, Bloody Sunday
+    - name: Film Editing
+      winner:
+        movie: Sunday, Bloody Sunday
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Dominic Guard
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: The Hellstrom Chronicle
+    - name: Screenplay
+      winner:
+        movie: The Go-Between
+    - name: Short Film
+      winner:
+        movie: 'Alaska: The Great Land'
+    - name: Soundtrack
+      winner:
+        movie: Death In Venice
+    - name: Specialised Film
+      winner:
+        movie: The Savage Voyage
+    - name: Supporting Actor
+      winner:
+        movie: The Go-Between
+        actor: Edward Fox
+    - name: Supporting Actress
+      winner:
+        movie: The Go-Between
+        actor: Margaret Leighton
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: The Battle Of Algiers

@@ -1,0 +1,123 @@
+title: Oscar 1966
+wikipedia: https://en.wikipedia.org/wiki/38th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1966
+imdb: https://www.imdb.com/event/ev0000003/1966/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: The Sound of Music
+
+  - name: Directing
+    winner:
+      movie: The Sound of Music
+      directors: Robert Wise
+
+  - name: Actor in a leading role
+    winner:
+      actor: Lee Marvin
+      movie: Cat Ballou
+
+  - name: Actress in a leading role
+    winner:
+      actor: Julie Christie
+      movie: Darling
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Martin Balsam
+      movie: A Thousand Clowns
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Shelley Winters
+      movie: A Patch of Blue
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Darling
+      writers: Frederic Raphael
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Doctor Zhivago
+      writers: Robert Bolt
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Shop on Main Street
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Eleanor Roosevelt Story
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "To Be Alive!"
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Chicken
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Dot and the Line
+
+  - name: Music (Music Score -- Substantially Original)
+    winner:
+      movie: Doctor Zhivago
+      music: Maurice Jarre
+
+  - name: Music (Scoring of Music -- Adaptation or Treatment)
+    winner:
+      movie: The Sound of Music
+      music: Irwin Kostal
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Sandpiper
+      track: The Shadow of Your Smile
+
+  - name: Sound
+    winner:
+      movie: The Sound of Music
+
+  - name: Sound Effects
+    winner:
+      movie: The Great Race
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: Ship of Fools
+
+  - name: Art Direction (Color)
+    winner:
+      movie: Doctor Zhivago
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: Ship of Fools
+      cinematography: Ernest Laszlo
+
+  - name: Cinematography (Color)
+    winner:
+      movie: Doctor Zhivago
+      cinematography: Freddie Young
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: Darling
+      costume_design: Julie Harris
+
+  - name: Costume Design (Color)
+    winner:
+      movie: Doctor Zhivago
+      costume_design: Phyllis Dalton
+
+  - name: Film Editing
+    winner:
+      movie: The Sound of Music
+      editors: William H. Reynolds
+
+  - name: Visual Effects
+    winner:
+      movie: Thunderball

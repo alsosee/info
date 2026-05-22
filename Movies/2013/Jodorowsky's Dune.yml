@@ -1,0 +1,43 @@
+name: Jodorowsky's Dune
+description: >
+  A documentary that explores cult film director Alejandro Jodorowsky's ambitious but ultimately unsuccessful attempt to adapt and film Frank Herbert's 1965 science fiction novel Dune in the mid-1970s.
+based_on: Books/1965/Dune
+released: 2013-05-18
+rating: 12A
+length: 1h30m
+genres:
+  - documentary
+wikipedia: https://en.wikipedia.org/wiki/Jodorowsky%27s_Dune
+imdb: https://www.imdb.com/title/tt1935156
+tmdb: https://www.themoviedb.org/movie/158752
+directors: Frank Pavich
+producers:
+  - Donald Rosenfeld
+  - Frank Pavich
+  - Stephen Scarlata
+  - Travis Stevens
+music: Kurt Stenzel
+cinematography: David Cavallo
+editors:
+  - Paul Docherty
+  - Alex Ricciardi
+production:
+  - City Film
+  - Snowfort Pictures
+characters:
+  - name: Himself
+    actor: Alejandro Jodorowsky
+  - name: Himself
+    actor: Michel Seydoux
+  - name: Himself
+    actor: H. R. Giger
+  - name: Himself
+    actor: Chris Foss
+  - name: Himself
+    actor: Nicolas Winding Refn
+  - name: Himself
+    actor: Devin Faraci
+  - name: Herself
+    actor: Amanda Lear
+  - name: Himself
+    actor: Richard Stanley

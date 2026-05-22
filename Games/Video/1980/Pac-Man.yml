@@ -1,0 +1,29 @@
+name: Pac-Man
+description: >
+  Pac-Man navigates a maze, eating dots and bonus fruit while avoiding four
+  colored ghosts. Namco's arcade game became one of the defining works of early
+  video games and helped popularize character-led maze action games worldwide.
+released: 1980-05-22
+genres:
+  - maze
+wikipedia: https://en.wikipedia.org/wiki/Pac-Man
+fandom: https://pacman.fandom.com/wiki/Pac-Man_(game)
+website: https://pacman.com/en/
+developers: Namco
+publishers:
+  - Namco
+  - Midway Manufacturing
+designers: Toru Iwatani
+programmers:
+  - Shigeo Funaki
+  - Shigeichi Ishimura
+artists: Hiroshi Ono
+composers:
+  - Shigeichi Ishimura
+  - Toshio Kai
+characters:
+  - name: Pac-Man
+  - name: Blinky
+  - name: Pinky
+  - name: Inky
+  - name: Clyde

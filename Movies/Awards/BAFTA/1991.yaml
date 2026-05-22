@@ -1,0 +1,87 @@
+title: BAFTA 1991
+website: https://awards.bafta.org/award/1991/film
+categories:
+  - name: Achievement in Direction
+    winner:
+      movie: Goodfellas
+      director: Martin Scorsese
+  - name: Achievement in Special Visual Effects
+    winner:
+      movie: Production Team
+  - name: Actor in a Leading Role
+    winner:
+      movie: Philippe Noiret
+  - name: Actor in a Supporting Role
+    winner:
+      movie: Salvatore Cascio
+  - name: Actress in a Leading Role
+    winner:
+      movie: Jessica Tandy
+  - name: Actress in a Supporting Role
+    winner:
+      movie: Whoopi Goldberg
+  - name: Adapted Screenplay
+    winner:
+      movie: Goodfellas
+      screenplay:
+        - Nicholas Pileggi, Martin Scorsese
+  - name: Cinematography
+    winner:
+      movie: The Sheltering Sky
+  - name: Costume Design
+    winner:
+      movie: Goodfellas
+      constumedesign:
+        - Richard Bruno
+  - name: Editing
+    winner:
+      movie: Goodfellas
+      editors:
+        - Thelma Schoonmaker
+  - name: Fellowship
+    winner:
+      person: Louis Malle
+  - name: Film
+    winner:
+      movie: Goodfellas
+  - name: Film Not in the English Language
+    winner:
+      movie: Cinema Paradiso
+  - name: Make-Up Artist
+    winner:
+      movie: John Caglione Jr, Doug Drexler
+  - name: Original Film Score
+    winner:
+      movie: Cinema Paradiso
+  - name: Original Screenplay
+    winner:
+      movie: Cinema Paradiso
+      screenplay:
+        - Giuseppe Tornatore
+  - name: Outstanding British Contribution To Cinema
+    winner:
+      movie: Jeremy Thomas
+  - name: Production Design
+    winner:
+      movie: Dick Tracy
+  - name: Short Animation
+    winner:
+      movie: Toxic
+  - name: Short Film
+    winner:
+      movie: Say Goodbye
+  - name: Sound
+    winner:
+      movie: The Fabulous Baker Boys
+  - name: Special Award
+    winner:
+      movie: Angela Lansbury
+  - name: Special Award
+    winner:
+      movie: Deborah Kerr
+  - name: Special Award
+    winner:
+      movie: Alistair Cooke
+  - name: Special Award for Craft
+    winner:
+      movie: John Box

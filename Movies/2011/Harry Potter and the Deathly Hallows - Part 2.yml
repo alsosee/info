@@ -1,0 +1,54 @@
+name: "Harry Potter and the Deathly Hallows – Part 2"
+description: >
+  Harry, Ron, and Hermione race to find and destroy Voldemort's remaining Horcruxes while the
+  students and teachers of Hogwarts prepare for a final, decisive battle against the Dark Lord's army.
+previous: "Movies/2010/Harry Potter and the Deathly Hallows - Part 1"
+released: 2011-07-15
+rating: PG-13
+length: 2h10m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Harry Potter
+wikipedia: https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_2
+imdb: https://www.imdb.com/title/tt1201607
+tmdb: https://www.themoviedb.org/movie/12445-harry-potter-and-the-deathly-hallows-part-2
+directors: David Yates
+screenplay: Steve Kloves
+music: Alexandre Desplat
+cinematography: Eduardo Serra
+editors: Mark Day
+producers:
+  - David Heyman
+  - David Barron
+  - J.K. Rowling
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harry Potter
+    description: The protagonist
+    actor: Daniel Radcliffe
+  - name: Ron Weasley
+    description: Harry's best friend
+    actor: Rupert Grint
+  - name: Hermione Granger
+    description: Harry's best friend
+    actor: Emma Watson
+  - name: Lord Voldemort
+    description: The dark wizard seeking to dominate the wizarding world
+    actor: Ralph Fiennes
+  - name: Albus Dumbledore
+    description: Headmaster of Hogwarts
+    actor: Michael Gambon
+  - name: Severus Snape
+    description: Former Hogwarts professor and keeper of a crucial secret
+    actor: Alan Rickman
+  - name: Bellatrix Lestrange
+    description: Devoted Death Eater and Voldemort's most loyal servant
+    actor: Helena Bonham Carter
+  - name: Rubeus Hagrid
+    description: Groundskeeper of Hogwarts
+    actor: Robbie Coltrane

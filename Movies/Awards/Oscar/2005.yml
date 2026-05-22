@@ -1,0 +1,116 @@
+title: Oscar 2005
+wikipedia: https://en.wikipedia.org/wiki/77th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2005
+imdb: https://www.imdb.com/event/ev0000003/2005/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jamie Foxx
+      movie: Ray
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Morgan Freeman
+      movie: Million Dollar Baby
+
+  - name: Actress in a leading role
+    winner:
+      actor: Hilary Swank
+      movie: Million Dollar Baby
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Cate Blanchett
+      movie: The Aviator
+
+  - name: Animated feature film
+    winner:
+      movie: The Incredibles
+
+  - name: Art Direction
+    winner:
+      movie: The Aviator
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Sea Inside
+
+  - name: Cinematography
+    winner:
+      movie: The Aviator
+      cinematography: Robert Richardson
+
+  - name: Costume Design
+    winner:
+      movie: The Aviator
+
+  - name: Directing
+    winner:
+      movie: Million Dollar Baby
+      directors: Clint Eastwood
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Born into Brothels: Calcutta's Red Light Kids"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Mighty Times: The Children's March"
+
+  - name: Film Editing
+    winner:
+      movie: The Aviator
+      editors: Thelma Schoonmaker
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Lemony Snicket's A Series of Unfortunate Events
+
+  - name: Music (Original Score)
+    winner:
+      movie: Finding Neverland
+      music: Jan A. P. Kaczmarek
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Motorcycle Diaries
+      track: Al otro lado del río
+
+  - name: Best Picture
+    winner:
+      movie: Million Dollar Baby
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Ryan
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Wasp
+
+  - name: Sound Editing
+    winner:
+      movie: The Incredibles
+
+  - name: Sound Mixing
+    winner:
+      movie: Ray
+
+  - name: Visual Effects
+    winner:
+      movie: Spider-Man 2
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Sideways
+      writers:
+        - Alexander Payne
+        - Jim Taylor
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Eternal Sunshine of the Spotless Mind
+      writers:
+        - Charlie Kaufman
+        - Michel Gondry
+        - Pierre Bismuth

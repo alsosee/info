@@ -1,0 +1,112 @@
+title: Oscar 1984
+wikipedia: https://en.wikipedia.org/wiki/56th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1984
+imdb: https://www.imdb.com/event/ev0000003/1984/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Robert Duvall
+      movie: Tender Mercies
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Jack Nicholson
+      movie: Terms of Endearment
+
+  - name: Actress in a leading role
+    winner:
+      actor: Shirley MacLaine
+      movie: Terms of Endearment
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Linda Hunt
+      movie: The Year of Living Dangerously
+
+  - name: Art Direction
+    winner:
+      movie: Fanny and Alexander
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Fanny and Alexander
+
+  - name: Cinematography
+    winner:
+      movie: Fanny and Alexander
+      cinematography: Sven Nykvist
+
+  - name: Costume Design
+    winner:
+      movie: Fanny and Alexander
+
+  - name: Directing
+    winner:
+      movie: Terms of Endearment
+      directors: James L. Brooks
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "He Makes Me Feel Like Dancin'"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Flamenco at 5:15
+
+  - name: Film Editing
+    winner:
+      movie: The Right Stuff
+      editors:
+        - Glenn Farr
+        - Lisa Fruchtman
+        - Tom Rolf
+        - Stephen A. Rotter
+        - Douglas Stewart
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Right Stuff
+      music: Bill Conti
+
+  - name: Music (Original Song)
+    winner:
+      movie: Flashdance
+      track: "Flashdance... What a Feeling"
+
+  - name: Music (Original Song Score or Adaptation Score)
+    winner:
+      movie: Yentl
+      music:
+        - Michel Legrand
+        - Alan Bergman
+        - Marilyn Bergman
+
+  - name: Best Picture
+    winner:
+      movie: Terms of Endearment
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Sundae in New York
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Boys and Girls
+
+  - name: Sound
+    winner:
+      movie: The Right Stuff
+
+  - name: Sound Effects Editing
+    winner:
+      movie: The Right Stuff
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Terms of Endearment
+      writers: James L. Brooks
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Tender Mercies
+      writers: Horton Foote

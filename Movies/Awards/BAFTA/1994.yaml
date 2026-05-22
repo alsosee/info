@@ -1,0 +1,86 @@
+title: BAFTA 1994
+website: https://awards.bafta.org/award/1994/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Dennis Muren, Stan Winston, Phil Tippett, Michael Lantieri
+    - name: Actor in a Leading Role
+      winner:
+        movie: Anthony Hopkins
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Ralph Fiennes
+    - name: Actress in a Leading Role
+      winner:
+        movie: Holly Hunter
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Miriam Margolyes
+    - name: Adapted Screenplay
+      winner:
+        movie: Schindler's List
+        screenplay:
+            - Steven Zaillian
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: Shadowlands
+    - name: Cinematography
+      winner:
+        movie: Schindler's List
+    - name: Costume Design
+      winner:
+        movie: The Piano
+        constumedesign:
+            - Janet Patterson
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: Schindler's List
+    - name: Editing
+      winner:
+        movie: Schindler's List
+        editors:
+            - Michael Kahn
+    - name: Film
+      winner:
+        movie: Schindler's List
+    - name: Film Not in the English Language
+      winner:
+        movie: Farewell My Concubine (Ba Wang Bie Ji)
+    - name: Lloyds Bank People's Vote For The Most Popular Film
+      winner:
+        movie: Jurassic Park
+    - name: Make-Up
+      winner:
+        movie: Orlando
+    - name: Original Screenplay
+      winner:
+        movie: Groundhog Day
+        screenplay:
+            - Danny Rubin, Harold Ramis
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Ken Loach
+    - name: Production Design
+      winner:
+        movie: The Piano
+    - name: Score for a Film
+      winner:
+        movie: Schindler's List
+    - name: Short Animation
+      winner:
+        movie: The Wrong Trousers
+    - name: Short Film
+      winner:
+        movie: Franz Kafka's It's A Wonderful Life
+    - name: Sound
+      winner:
+        movie: The Fugitive
+    - name: Special Award
+      winner:
+        movie: Richard Attenborough
+    - name: Special Award
+      winner:
+        movie: Kodak
+    - name: Special Award for Craft
+      winner:
+        movie: Phyllis Dalton

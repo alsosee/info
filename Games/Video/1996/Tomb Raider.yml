@@ -1,0 +1,25 @@
+name: Tomb Raider
+description: >
+  Archaeologist-adventurer Lara Croft is hired by Jacqueline Natla to recover
+  the Scion of Atlantis, sending her through ancient ruins in Peru, Greece,
+  Egypt, and Atlantis. The game helped define third-person 3D action-adventure
+  design with exploration, platforming, combat, and environmental puzzles.
+released: 1996-10-24
+genres:
+  - action-adventure
+  - platform
+  - puzzle
+rating: T
+wikipedia: https://en.wikipedia.org/wiki/Tomb_Raider_(1996_video_game)
+imdb: https://www.imdb.com/title/tt0190838
+steam: https://store.steampowered.com/app/224960
+metacritic: https://www.metacritic.com/game/tomb-raider-1996/
+developers: Core Design
+publishers: Eidos Interactive
+programmers: Paul Douglas
+artists: Toby Gard
+writers: Vicky Arnold
+composers: Nathan McCree
+characters:
+  - name: Lara Croft
+    voice: Shelley Blond

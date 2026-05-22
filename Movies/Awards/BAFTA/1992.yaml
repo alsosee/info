@@ -1,0 +1,86 @@
+title: BAFTA 1992
+website: https://awards.bafta.org/award/1992/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Stan Winston, Dennis Muren, Gene Warren Jr, Robert Skotak
+    - name: Actor in a Leading Role
+      winner:
+        movie: Anthony Hopkins
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Alan Rickman
+    - name: Actress in a Leading Role
+      winner:
+        movie: Jodie Foster
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Kate Nelligan
+    - name: Adapted Screenplay
+      winner:
+        movie: The Commitments
+        screenplay:
+            - Dick Clement, Ian La Frenais, Roddy Doyle
+    - name: Cinematography
+      winner:
+        movie: Cyrano De Bergerac
+    - name: Costume Design
+      winner:
+        movie: Cyrano De Bergerac
+        constumedesign:
+            - Franca Squarciapino
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: The Commitments
+    - name: Editing
+      winner:
+        movie: The Commitments
+        editors:
+            - Gerry Hambling
+    - name: Fellowship
+      winner:
+        person: John Gielgud
+    - name: Film
+      winner:
+        movie: The Commitments
+    - name: Film Not in the English Language
+      winner:
+        movie: The Nasty Girl (Das Schreckliche Mädchen)
+    - name: Make-Up
+      winner:
+        movie: Cyrano De Bergerac
+    - name: Original Film Music
+      winner:
+        movie: Cyrano De Bergerac
+    - name: Original Screenplay
+      winner:
+        movie: Truly, Madly, Deeply
+        screenplay:
+            - Anthony Minghella
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Derek Jarman
+    - name: Production Design
+      winner:
+        movie: Edward Scissorhands
+    - name: Short Animation
+      winner:
+        movie: Balloon
+    - name: Short Film
+      winner:
+        movie: The Harmfulness Of Tobacco
+    - name: Sound
+      winner:
+        movie: 'Terminator 2: Judgement Day'
+    - name: Special Award
+      winner:
+        movie: Mitzi Cunliffe
+    - name: Special Award
+      winner:
+        movie: Audrey Hepburn
+    - name: Special Award
+      winner:
+        movie: Ridley Scott
+    - name: Special Award for Craft
+      winner:
+        movie: Tom Smith

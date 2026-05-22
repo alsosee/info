@@ -1,0 +1,115 @@
+title: Oscar 2015
+wikipedia: https://en.wikipedia.org/wiki/87th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2015
+imdb: https://www.imdb.com/event/ev0000003/2015/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Eddie Redmayne
+      movie: The Theory of Everything
+
+  - name: Actor in a supporting role
+    winner:
+      actor: J. K. Simmons
+      movie: Whiplash
+
+  - name: Actress in a leading role
+    winner:
+      actor: Julianne Moore
+      movie: Still Alice
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Patricia Arquette
+      movie: Boyhood
+
+  - name: Animated feature film
+    winner:
+      movie: Big Hero 6
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Ida
+
+  - name: Cinematography
+    winner:
+      movie: "Birdman or (The Unexpected Virtue of Ignorance)"
+      cinematography: Emmanuel Lubezki
+
+  - name: Costume Design
+    winner:
+      movie: The Grand Budapest Hotel
+
+  - name: Directing
+    winner:
+      movie: "Birdman or (The Unexpected Virtue of Ignorance)"
+      directors: Alejandro G. Iñárritu
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Citizenfour
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Crisis Hotline: Veterans Press 1"
+
+  - name: Film Editing
+    winner:
+      movie: Whiplash
+      editors: Tom Cross
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Grand Budapest Hotel
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Grand Budapest Hotel
+      music: Alexandre Desplat
+
+  - name: Music (Original Song)
+    winner:
+      movie: Selma
+      track: Glory
+
+  - name: Best Picture
+    winner:
+      movie: "Birdman or (The Unexpected Virtue of Ignorance)"
+
+  - name: Production Design
+    winner:
+      movie: The Grand Budapest Hotel
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Feast
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Phone Call
+
+  - name: Sound Editing
+    winner:
+      movie: American Sniper
+
+  - name: Sound Mixing
+    winner:
+      movie: Whiplash
+
+  - name: Visual Effects
+    winner:
+      movie: Interstellar
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Imitation Game
+      writers: Graham Moore
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: "Birdman or (The Unexpected Virtue of Ignorance)"
+      writers:
+        - Alejandro G. Iñárritu
+        - Nicolás Giacobone
+        - Alexander Dinelaris Jr.
+        - Armando Bo

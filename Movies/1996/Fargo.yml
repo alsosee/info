@@ -1,0 +1,38 @@
+name: "Fargo"
+description: >
+  A pregnant Minnesota police chief investigates a series of homicides that follow the poorly executed kidnapping of a car salesman's wife.
+released: 1996-03-08
+rating: "R"
+length: 1h38m
+genres:
+  - Crime
+  - Drama
+  - Thriller
+wikipedia: https://en.wikipedia.org/wiki/Fargo_(1996_film)
+imdb: https://www.imdb.com/title/tt0116282/
+tmdb: https://www.themoviedb.org/movie/275-fargo
+directors:
+  - Joel Coen
+  - Ethan Coen
+writers:
+  - Joel Coen
+  - Ethan Coen
+producers: Ethan Coen
+music: Carter Burwell
+cinematography: Roger Deakins
+editors: Roderick Jaynes
+production: Working Title Films
+distributors:
+  - Gramercy Pictures
+  - PolyGram Filmed Entertainment
+characters:
+  - name: Marge Gunderson
+    actor: Frances McDormand
+  - name: Jerry Lundegaard
+    actor: William H. Macy
+  - name: Carl Showalter
+    actor: Steve Buscemi
+  - name: Gaear Grimsrud
+    actor: Peter Stormare
+  - name: Wade Gustafson
+    actor: Harve Presnell

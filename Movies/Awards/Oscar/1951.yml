@@ -1,0 +1,140 @@
+title: Oscar 1951
+wikipedia: https://en.wikipedia.org/wiki/23rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1951
+imdb: https://www.imdb.com/event/ev0000003/1951/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: All About Eve
+
+  - name: Best Directing
+    winner:
+      movie: All About Eve
+      directors: Joseph L. Mankiewicz
+
+  - name: Best Actor
+    winner:
+      actor: José Ferrer
+      movie: Cyrano de Bergerac
+
+  - name: Best Actress
+    winner:
+      actor: Judy Holliday
+      movie: Born Yesterday
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: George Sanders
+      movie: All About Eve
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Josephine Hull
+      movie: Harvey
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: Panic in the Streets
+      writers:
+        - Edna Anhalt
+        - Edward Anhalt
+
+  - name: Writing (Story and Screenplay)
+    winner:
+      movie: Sunset Boulevard
+      writers:
+        - Charles Brackett
+        - Billy Wilder
+        - D. M. Marshman Jr.
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: All About Eve
+      writers: Joseph L. Mankiewicz
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: "The Titan: Story of Michelangelo"
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Why Korea?
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Grandad of Races
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: In Beaver Valley
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Gerald McBoing-Boing
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Sunset Boulevard
+      music: Franz Waxman
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Annie Get Your Gun
+      music:
+        - Adolph Deutsch
+        - Roger Edens
+
+  - name: Best Music (Song)
+    winner:
+      movie: Captain Carey, U.S.A.
+      track: Mona Lisa
+
+  - name: Best Sound Recording
+    winner:
+      movie: All About Eve
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Sunset Boulevard
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Samson and Delilah
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: The Third Man
+      cinematography: Robert Krasker
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: King Solomon's Mines
+      cinematography: Robert Surtees
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: All About Eve
+      costume_design:
+        - Edith Head
+        - Charles LeMaire
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: Samson and Delilah
+      costume_design:
+        - Edith Head
+        - Dorothy Jeakins
+        - Elois Jenssen
+        - Gile Steele
+        - Gwen Wakeling
+
+  - name: Best Film Editing
+    winner:
+      movie: King Solomon's Mines
+      editors:
+        - Ralph E. Winters
+        - Conrad A. Nervig
+
+  - name: Best Special Effects
+    winner:
+      movie: Destination Moon

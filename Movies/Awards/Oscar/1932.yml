@@ -1,0 +1,46 @@
+title: Oscar 1932
+wikipedia: https://en.wikipedia.org/wiki/4th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1932
+imdb: https://www.imdb.com/event/ev0000003/1932/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: Cimarron
+
+  - name: Best Director
+    winner:
+      movie: Skippy
+      directors: Norman Taurog
+
+  - name: Best Actor
+    winner:
+      actor: Lionel Barrymore
+      movie: A Free Soul
+
+  - name: Best Actress
+    winner:
+      actor: Marie Dressler
+      movie: Min and Bill
+
+  - name: Best Original Story
+    winner:
+      movie: The Dawn Patrol
+      writers: John Monk Saunders
+
+  - name: Best Adaptation
+    winner:
+      movie: Cimarron
+      writers: Howard Estabrook
+
+  - name: Best Sound Recording
+    winner:
+      person: Paramount Publix Studio Sound Department
+
+  - name: Best Art Direction
+    winner:
+      movie: Cimarron
+
+  - name: Best Cinematography
+    winner:
+      movie: Tabu
+      cinematography: Floyd Crosby

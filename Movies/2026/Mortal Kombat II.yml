@@ -1,0 +1,43 @@
+name: "Mortal Kombat II"
+previous: Movies/2021/Mortal Kombat
+released: 2026-05-08
+genres:
+  - Martial arts
+  - Fantasy
+  - Action
+wikipedia: https://en.wikipedia.org/wiki/Mortal_Kombat_II_(film)
+imdb: https://www.imdb.com/title/tt17459608
+directors: Simon McQuoid
+writers: Jeremy Slater
+screenplay: Jeremy Slater
+production:
+  - New Line Cinema
+distributors:
+  - Warner Bros. Pictures
+characters:
+  - actor: Karl Urban
+    name: Johnny Cage
+  - actor: Tati Gabrielle
+    name: Jade
+  - actor: Adeline Rudolph
+    name: Kitana
+  - actor: Martyn Ford
+    name: Shao Kahn
+  - actor: Ana Thu Nguyen
+    name: Sindel
+  - actor: Damon Herriman
+    name: Quan Chi
+  - actor: Desmond Chiam
+    name: King Jerrod
+  - actor: Lewis Tan
+    name: Cole Young
+  - actor: Ludi Lin
+    name: Liu Kang
+  - actor: Tadanobu Asano
+    name: Raiden
+  - actor: Jessica McNamee
+    name: Sonya Blade
+  - actor: Chin Han
+    name: Shang Tsung
+  - actor: Hiroyuki Sanada
+    name: Scorpion

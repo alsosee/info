@@ -1,0 +1,39 @@
+name: Fight Club
+description: >
+  An insomniac office worker forms an underground fight club with a charismatic soap salesman
+  that spirals into a dangerous anti-consumerist movement.
+based_on: Books/1996/Fight Club
+released: 1999-10-15
+rating: R
+length: 2h19m
+genres:
+  - drama
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Fight_Club
+imdb: https://www.imdb.com/title/tt0137523
+tmdb: https://www.themoviedb.org/movie/550-fight-club
+directors: David Fincher
+screenplay: Jim Uhls
+producers:
+  - Art Linson
+  - Ceán Chaffin
+  - Ross Grayson Bell
+music: The Dust Brothers
+cinematography: Jeff Cronenweth
+editors: James Haygood
+production:
+  - Fox 2000 Pictures
+  - Regency Enterprises
+  - Linson Films
+distributors: 20th Century Fox
+characters:
+  - name: The Narrator
+    actor: Edward Norton
+  - name: Tyler Durden
+    actor: Brad Pitt
+  - name: Marla Singer
+    actor: Helena Bonham Carter
+  - name: Robert "Bob" Paulsen
+    actor: Meat Loaf
+  - name: Angel Face
+    actor: Jared Leto

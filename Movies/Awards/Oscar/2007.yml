@@ -1,0 +1,111 @@
+title: Oscar 2007
+wikipedia: https://en.wikipedia.org/wiki/79th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2007
+imdb: https://www.imdb.com/event/ev0000003/2007/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Forest Whitaker
+      movie: The Last King of Scotland
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Alan Arkin
+      movie: Little Miss Sunshine
+
+  - name: Actress in a leading role
+    winner:
+      actor: Helen Mirren
+      movie: The Queen
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Jennifer Hudson
+      movie: Dreamgirls
+
+  - name: Animated feature film
+    winner:
+      movie: Happy Feet
+
+  - name: Art Direction
+    winner:
+      movie: Pan's Labyrinth
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Lives of Others
+
+  - name: Cinematography
+    winner:
+      movie: Pan's Labyrinth
+      cinematography: Guillermo Navarro
+
+  - name: Costume Design
+    winner:
+      movie: Marie Antoinette
+
+  - name: Directing
+    winner:
+      movie: The Departed
+      directors: Martin Scorsese
+
+  - name: Documentary Feature Film
+    winner:
+      movie: An Inconvenient Truth
+
+  - name: Documentary Short Subject
+    winner:
+      movie: The Blood of Yingzhou District
+
+  - name: Film Editing
+    winner:
+      movie: The Departed
+      editors: Thelma Schoonmaker
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Pan's Labyrinth
+
+  - name: Music (Original Score)
+    winner:
+      movie: Babel
+      music: Gustavo Santaolalla
+
+  - name: Music (Original Song)
+    winner:
+      movie: An Inconvenient Truth
+      track: I Need to Wake Up
+
+  - name: Best Picture
+    winner:
+      movie: The Departed
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Danish Poet
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: West Bank Story
+
+  - name: Sound Editing
+    winner:
+      movie: Letters from Iwo Jima
+
+  - name: Sound Mixing
+    winner:
+      movie: Dreamgirls
+
+  - name: Visual Effects
+    winner:
+      movie: "Pirates of the Caribbean: Dead Man's Chest"
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Departed
+      writers: William Monahan
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Little Miss Sunshine
+      writers: Michael Arndt

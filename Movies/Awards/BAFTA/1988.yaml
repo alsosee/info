@@ -1,0 +1,83 @@
+title: BAFTA 1988
+website: https://awards.bafta.org/award/1988/film
+categories:
+    - name: Achievement in Direction
+      winner:
+        movie: Oliver Stone
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Michael Lanteri, Michael Owens, Edward L Jones, Bruce Walters
+    - name: Actor in a Leading Role
+      winner:
+        movie: Sean Connery
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Daniel Auteuil
+    - name: Actress in a Leading Role
+      winner:
+        movie: Anne Bancroft
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Susan Wooldridge
+    - name: Adapted Screenplay
+      winner:
+        movie: Jean De Florette
+        screenplay:
+            - Claude Berri, Gerard Brach
+    - name: Cinematography
+      winner:
+        movie: Jean De Florette
+    - name: Costume Design
+      winner:
+        movie: Radio Days
+        constumedesign:
+            - Jeffrey Kurland
+    - name: Editing
+      winner:
+        movie: Platoon
+        editors:
+            - Claire Simpson
+    - name: Fellowship
+      winner:
+        person: Ingmar Bergman
+    - name: Film
+      winner:
+        movie: Jean De Florette
+    - name: Flaherty Documentary Award
+      winner:
+        movie: Baka - People Of The Rain Forest
+    - name: Foreign Language Film
+      winner:
+        movie: The Sacrifice (Offret)
+    - name: Make-Up Artist
+      winner:
+        movie: Hasso Von Hugo
+    - name: Original Screenplay
+      winner:
+        movie: Wish You Were Here
+        screenplay:
+            - David Leland
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: The Monty Python Team
+    - name: Production Design
+      winner:
+        movie: Radio Days
+    - name: Score For A Film
+      winner:
+        movie: The Untouchables
+    - name: Short Animation
+      winner:
+        movie: The Reluctant Dragon
+    - name: Short Film
+      winner:
+        movie: Artisten
+    - name: Sound
+      winner:
+        movie: Cry Freedom
+    - name: Special Award
+      winner:
+        movie: John Mills
+    - name: Special Award
+      winner:
+        movie: Dirk Bogarde

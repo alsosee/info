@@ -1,0 +1,116 @@
+title: Oscar 2012
+wikipedia: https://en.wikipedia.org/wiki/84th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2012
+imdb: https://www.imdb.com/event/ev0000003/2012/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jean Dujardin
+      movie: The Artist
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Christopher Plummer
+      movie: Beginners
+
+  - name: Actress in a leading role
+    winner:
+      actor: Meryl Streep
+      movie: The Iron Lady
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Octavia Spencer
+      movie: The Help
+
+  - name: Animated feature film
+    winner:
+      movie: Rango
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: A Separation
+
+  - name: Cinematography
+    winner:
+      movie: Hugo
+      cinematography: Robert Richardson
+
+  - name: Costume Design
+    winner:
+      movie: The Artist
+
+  - name: Directing
+    winner:
+      movie: The Artist
+      directors: Michel Hazanavicius
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Undefeated
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Saving Face
+
+  - name: Film Editing
+    winner:
+      movie: The Girl with the Dragon Tattoo
+      editors:
+        - Angus Wall
+        - Kirk Baxter
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Iron Lady
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Artist
+      music: Ludovic Bource
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Muppets
+      track: Man or Muppet
+
+  - name: Best Picture
+    winner:
+      movie: The Artist
+
+  - name: Art Direction
+    winner:
+      movie: Hugo
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Fantastic Flying Books of Mr. Morris Lessmore
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Shore
+
+  - name: Sound Editing
+    winner:
+      movie: Hugo
+
+  - name: Sound Mixing
+    winner:
+      movie: Hugo
+
+  - name: Visual Effects
+    winner:
+      movie: Hugo
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Descendants
+      writers:
+        - Alexander Payne
+        - Nat Faxon
+        - Jim Rash
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Midnight in Paris
+      writers: Woody Allen

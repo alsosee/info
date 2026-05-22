@@ -1,0 +1,92 @@
+title: BAFTA 1997
+website: https://awards.bafta.org/award/1997/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Stefen Fangmeier, John Frazier, Henry Labounta, Habib Zargarpour
+    - name: Actor in a Leading Role
+      winner:
+        movie: Geoffrey Rush
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Paul Scofield
+    - name: Actress in a Leading Role
+      winner:
+        movie: Brenda Blethyn
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Juliette Binoche
+    - name: Adapted Screenplay
+      winner:
+        movie: The English Patient
+        screenplay:
+            - Anthony Minghella
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: Secrets & Lies
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: The English Patient
+    - name: Cinematography
+      winner:
+        movie: The English Patient
+    - name: Costume Design
+      winner:
+        movie: Richard III
+        constumedesign:
+            - Shuna Harwood
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: Fargo
+    - name: Editing
+      winner:
+        movie: The English Patient
+        editors:
+            - Walter Murch
+    - name: Fellowship
+      winner:
+        person: Harold Pinter
+    - name: Fellowship
+      winner:
+        person: Julie Christie
+    - name: Fellowship
+      winner:
+        person: Oswald Morris
+    - name: Fellowship
+      winner:
+        person: Woody Allen
+    - name: Film
+      winner:
+        movie: The English Patient
+    - name: Film Not in the English Language
+      winner:
+        movie: Ridicule
+    - name: Make-Up And Hair
+      winner:
+        movie: The Nutty Professor
+    - name: Original Screenplay
+      winner:
+        movie: Secrets & Lies
+        screenplay:
+            - Mike Leigh
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Channel Four Films
+    - name: Production Design
+      winner:
+        movie: Richard III
+    - name: Short Animation
+      winner:
+        movie: The Old Lady And The Pigeons
+    - name: Short Film
+      winner:
+        movie: Majorettes In Space (Des Majorettes Dans L'Espace)
+    - name: Sound
+      winner:
+        movie: Shine
+    - name: Special Award
+      winner:
+        movie: Dolby Laboratories Inc
+    - name: Special Award
+      winner:
+        movie: Harry Manley

@@ -1,0 +1,127 @@
+title: Oscar 1961
+wikipedia: https://en.wikipedia.org/wiki/33rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1961
+imdb: https://www.imdb.com/event/ev0000003/1961/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: The Apartment
+
+  - name: Directing
+    winner:
+      movie: The Apartment
+      directors: Billy Wilder
+
+  - name: Actor in a leading role
+    winner:
+      actor: Burt Lancaster
+      movie: Elmer Gantry
+
+  - name: Actress in a leading role
+    winner:
+      actor: Elizabeth Taylor
+      movie: Butterfield 8
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Peter Ustinov
+      movie: Spartacus
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Shirley Jones
+      movie: Elmer Gantry
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Apartment
+      writers:
+        - Billy Wilder
+        - I. A. L. Diamond
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Elmer Gantry
+      writers: Richard Brooks
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Virgin Spring
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Horse with the Flying Tail
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Giuseppina
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Day of the Painter
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Munro
+
+  - name: Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Exodus
+      music: Ernest Gold
+
+  - name: Music (Scoring of a Musical Picture)
+    winner:
+      movie: Song Without End
+      music:
+        - Morris Stoloff
+        - Harry Sukman
+
+  - name: Music (Original Song)
+    winner:
+      movie: Never on Sunday
+      track: Never on Sunday
+
+  - name: Sound
+    winner:
+      movie: The Alamo
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: The Apartment
+
+  - name: Art Direction (Color)
+    winner:
+      movie: Spartacus
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: Sons and Lovers
+      cinematography: Freddie Francis
+
+  - name: Cinematography (Color)
+    winner:
+      movie: Spartacus
+      cinematography: Russell Metty
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: The Facts of Life
+      costume_design:
+        - Edith Head
+        - Edward Stevenson
+
+  - name: Costume Design (Color)
+    winner:
+      movie: Spartacus
+      costume_design:
+        - Bill Thomas
+        - Valles
+
+  - name: Film Editing
+    winner:
+      movie: The Apartment
+      editors: Daniel Mandell
+
+  - name: Visual Effects
+    winner:
+      movie: The Time Machine

@@ -1,0 +1,107 @@
+title: Oscar 1994
+wikipedia: https://en.wikipedia.org/wiki/66th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1994
+imdb: https://www.imdb.com/event/ev0000003/1994/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Tom Hanks
+      movie: Philadelphia
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Tommy Lee Jones
+      movie: The Fugitive
+
+  - name: Actress in a leading role
+    winner:
+      actor: Holly Hunter
+      movie: The Piano
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Anna Paquin
+      movie: The Piano
+
+  - name: Art Direction
+    winner:
+      movie: Schindler's List
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Belle Époque
+
+  - name: Cinematography
+    winner:
+      movie: Schindler's List
+      cinematography: Janusz Kamiński
+
+  - name: Costume Design
+    winner:
+      movie: The Age of Innocence
+
+  - name: Directing
+    winner:
+      movie: Schindler's List
+      directors: Steven Spielberg
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "I Am a Promise: The Children of Stanton Elementary School"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Defending Our Lives
+
+  - name: Film Editing
+    winner:
+      movie: Schindler's List
+      editors: Michael Kahn
+
+  - name: Makeup
+    winner:
+      movie: Mrs. Doubtfire
+
+  - name: Music (Original Score)
+    winner:
+      movie: Schindler's List
+      music: John Williams
+
+  - name: Music (Original Song)
+    winner:
+      movie: Philadelphia
+      track: Streets of Philadelphia
+
+  - name: Best Picture
+    winner:
+      movie: Schindler's List
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Wrong Trousers
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Schwarzfahrer
+
+  - name: Sound
+    winner:
+      movie: Jurassic Park
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Jurassic Park
+
+  - name: Visual Effects
+    winner:
+      movie: Jurassic Park
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Schindler's List
+      writers: Steven Zaillian
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Piano
+      writers: Jane Campion

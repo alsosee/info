@@ -1,0 +1,80 @@
+name: "Harry Potter and the Prisoner of Azkaban"
+description: >
+  Harry Potter's third year at Hogwarts is overshadowed by the escape of Sirius Black
+  from Azkaban prison, believed to be a follower of Voldemort with a vendetta against
+  Harry. With new teacher Professor Lupin and soul-sucking Dementors guarding the
+  school, Harry, Ron, and Hermione uncover startling truths about Harry's past.
+based_on: Books/1999/Harry Potter and the Prisoner of Azkaban
+previous: Movies/2002/Harry Potter and the Chamber of Secrets
+released: 2004-06-04
+rating: PG
+length: 2h21m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Harry Potter
+wikipedia: https://en.wikipedia.org/wiki/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)
+imdb: https://www.imdb.com/title/tt0304141
+tmdb: https://www.themoviedb.org/movie/673-harry-potter-and-the-prisoner-of-azkaban
+rotten_tomatoes: https://www.rottentomatoes.com/m/harry_potter_and_the_prisoner_of_azkaban
+directors: Alfonso Cuarón
+screenplay: Steve Kloves
+music: John Williams
+cinematography: Michael Seresin
+editors: Steven Weisberg
+producers:
+  - David Heyman
+  - Chris Columbus
+  - Mark Radcliffe
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+  - 1492 Pictures
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harry Potter
+    description: The protagonist
+    actor: Daniel Radcliffe
+  - name: Ron Weasley
+    description: Harry's best friend
+    actor: Rupert Grint
+  - name: Hermione Granger
+    description: Harry's best friend
+    actor: Emma Watson
+  - name: Albus Dumbledore
+    description: Headmaster of Hogwarts
+    actor: Michael Gambon
+  - name: Professor McGonagall
+    description: Transfiguration teacher
+    actor: Maggie Smith
+  - name: Rubeus Hagrid
+    description: Groundskeeper of Hogwarts
+    actor: Robbie Coltrane
+  - name: Severus Snape
+    description: Potions teacher
+    actor: Alan Rickman
+  - name: Sirius Black
+    description: Escaped prisoner and Harry's godfather
+    actor: Gary Oldman
+  - name: Remus Lupin
+    description: Defence Against the Dark Arts teacher
+    actor: David Thewlis
+  - name: Peter Pettigrew
+    description: A man believed to be dead
+    actor: Timothy Spall
+  - name: Sybill Trelawney
+    description: Divination teacher
+    actor: Emma Thompson
+  - name: Draco Malfoy
+    description: Harry's rival
+    actor: Tom Felton
+  - name: Uncle Vernon Dursley
+    description: Harry's uncle
+    actor: Richard Griffiths
+  - name: Aunt Petunia Dursley
+    description: Harry's aunt
+    actor: Fiona Shaw
+  - name: Dudley Dursley
+    description: Harry's cousin
+    actor: Harry Melling

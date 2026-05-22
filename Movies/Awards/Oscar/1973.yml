@@ -1,0 +1,106 @@
+title: Oscar 1973
+wikipedia: https://en.wikipedia.org/wiki/45th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1973
+imdb: https://www.imdb.com/event/ev0000003/1973/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Marlon Brando
+      movie: The Godfather
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Joel Grey
+      movie: Cabaret
+
+  - name: Actress in a leading role
+    winner:
+      actor: Liza Minnelli
+      movie: Cabaret
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Eileen Heckart
+      movie: Butterflies Are Free
+
+  - name: Art Direction
+    winner:
+      movie: Cabaret
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Discreet Charm of the Bourgeoisie
+
+  - name: Cinematography
+    winner:
+      movie: Cabaret
+      cinematography: Geoffrey Unsworth
+
+  - name: Costume Design
+    winner:
+      movie: Travels with My Aunt
+      costume_design: Anthony Powell
+
+  - name: Directing
+    winner:
+      movie: Cabaret
+      directors: Bob Fosse
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Marjoe
+
+  - name: Documentary Short Subject
+    winner:
+      movie: This Tiny World
+
+  - name: Film Editing
+    winner:
+      movie: Cabaret
+      editors: David Bretherton
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: Limelight
+      music:
+        - Charlie Chaplin
+        - Raymond Rasch
+        - Larry Russell
+
+  - name: "Music (Scoring: Adaptation and Original Song Score)"
+    winner:
+      movie: Cabaret
+      music: Ralph Burns
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Poseidon Adventure
+      track: The Morning After
+
+  - name: Best Picture
+    winner:
+      movie: The Godfather
+
+  - name: Short Film (Animated)
+    winner:
+      movie: A Christmas Carol
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: "Norman Rockwell's World... An American Dream"
+
+  - name: Sound
+    winner:
+      movie: Cabaret
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Godfather
+      writers:
+        - Francis Ford Coppola
+        - Mario Puzo
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Candidate
+      writers: Jeremy Larner

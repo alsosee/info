@@ -1,0 +1,113 @@
+name: Hawkeye
+description: >
+  Former Avenger Clint Barton must partner with Kate Bishop, a skilled young archer and his biggest fan,
+  to confront enemies from his past and get home to his family in time for Christmas.
+released: 2021-11-24
+rating: TV-14
+genres:
+  - action-adventure
+  - buddy comedy
+  - crime
+  - superhero
+network: Disney+
+wikipedia: https://en.wikipedia.org/wiki/Hawkeye_(miniseries)
+imdb: https://www.imdb.com/title/tt10160804
+tmdb: https://www.themoviedb.org/tv/88329-hawkeye/season/1
+creators: Jonathan Igla
+directors:
+  - Rhys Thomas
+  - Bert & Bertie
+producers:
+  - Kevin Feige
+  - Louis D'Esposito
+  - Victoria Alonso
+  - Trinh Tran
+  - Brad Winderbaum
+  - Rhys Thomas
+  - Jonathan Igla
+characters:
+  - name: Clint Barton / Hawkeye
+    actor: Jeremy Renner
+  - name: Kate Bishop
+    actor: Hailee Steinfeld
+  - name: Eleanor Bishop
+    actor: Vera Farmiga
+  - name: Maya Lopez
+    actor: Alaqua Cox
+  - name: Jack Duquesne
+    actor: Tony Dalton
+  - name: Kazi
+    actor: Fra Fee
+  - name: Laura Barton
+    actor: Linda Cardellini
+  - name: William Lopez
+    actor: Zahn McClarnon
+  - name: Derek Bishop
+    actor: Brian d'Arcy James
+  - name: Yelena Belova
+    actor: Florence Pugh
+  - name: Wilson Fisk / Kingpin
+    actor: Vincent D'Onofrio
+episodes:
+  - name: "Never Meet Your Heroes"
+    description: >
+      A young Kate Bishop witnesses the Battle of New York and is inspired by Hawkeye.
+      Years later, Clint Barton is in New York City for Christmas when Kate stumbles into danger at a black-market auction of Avengers artifacts.
+    released: 2021-11-24
+    length: 49m
+    directors: Rhys Thomas
+    writers: Jonathan Igla
+    imdb: https://www.imdb.com/title/tt10166574
+    wikipedia: https://en.wikipedia.org/wiki/Never_Meet_Your_Heroes
+  - name: "Hide and Seek"
+    description: >
+      Clint and Kate go on the run from the Tracksuit Mafia, forcing Clint to send his family home
+      and work to recover a stolen item connected to his past.
+    released: 2021-11-24
+    length: 51m
+    directors: Rhys Thomas
+    writers: Elisa Climent
+    imdb: https://www.imdb.com/title/tt10166576
+    wikipedia: https://en.wikipedia.org/wiki/Hide_and_Seek_(Hawkeye)
+  - name: "Echoes"
+    description: >
+      Clint and Kate face Maya Lopez, the Tracksuit Mafia's deaf leader, who is hunting the Ronin for deeply personal reasons.
+    released: 2021-12-01
+    length: 43m
+    directors: Bert & Bertie
+    writers:
+      - Katie Mathewson
+      - Tanner Bean
+    imdb: https://www.imdb.com/title/tt10166580
+    wikipedia: https://en.wikipedia.org/wiki/Echoes_(Hawkeye)
+  - name: "Partners, Am I Right?"
+    description: >
+      Clint and Kate separately investigate the Tracksuit Mafia's connections while tensions rise over the direction of their partnership.
+    released: 2021-12-08
+    length: 40m
+    directors: Bert & Bertie
+    writers:
+      - Erin Cancino
+      - Heather Quinn
+    imdb: https://www.imdb.com/title/tt10166578
+    wikipedia: https://en.wikipedia.org/wiki/Partners,_Am_I_Right%3F
+  - name: "Ronin"
+    description: >
+      A dangerous new threat closes in on Clint as he and Kate race to uncover who is orchestrating the conspiracy against them.
+    released: 2021-12-15
+    length: 44m
+    directors: Bert & Bertie
+    writers: Jenna Noel Frazier
+    imdb: https://www.imdb.com/title/tt10166584
+    wikipedia: https://en.wikipedia.org/wiki/Ronin_(Hawkeye_episode)
+  - name: "So This Is Christmas?"
+    description: >
+      Clint and Kate's investigation comes to a head at Eleanor Bishop's Christmas Eve party, where all the conspirators converge.
+    released: 2021-12-22
+    length: 61m
+    directors: Rhys Thomas
+    writers:
+      - Jonathan Igla
+      - Elisa Climent
+    imdb: https://www.imdb.com/title/tt10166582
+    wikipedia: https://en.wikipedia.org/wiki/So_This_Is_Christmas%3F

@@ -1,0 +1,197 @@
+name: "Game of Thrones, Season 2"
+description: >
+  The second season of the fantasy drama television series Game of Thrones focuses on the War of the Five Kings,
+  with various factions vying for the Iron Throne following the death of King Robert Baratheon.
+  While Tyrion Lannister serves as acting Hand of the King, Robb Stark continues his northern rebellion,
+  and Stannis Baratheon begins his own campaign for the crown.
+previous: Series/2011/Game of Thrones
+released: 2012-04-01
+rating: TV-MA
+genres:
+  - drama
+  - fantasy
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Game_of_Thrones_(season_2)
+imdb: https://www.imdb.com/title/tt0944947/
+tmdb: https://www.themoviedb.org/tv/1399-game-of-thrones/season/2
+rotten_tomatoes: https://www.rottentomatoes.com/tv/game-of-thrones/s02
+metacritic: https://www.metacritic.com/tv/game-of-thrones/season-2
+spotify: https://open.spotify.com/album/480TstU69p5YQY9A7p5yK6
+creators:
+  - David Benioff
+  - D. B. Weiss
+directors:
+  - Alan Taylor
+  - Alik Sakharov
+  - David Petrarca
+  - David Nutter
+  - Neil Marshall
+producers:
+  - David Benioff
+  - D. B. Weiss
+  - Frank Doelger
+  - Carolyn Strauss
+  - George R. R. Martin
+  - Vanessa Taylor
+  - Alan Taylor
+  - Guymon Casady
+  - Vince Gerardis
+characters:
+  - name: Tyrion Lannister
+    actor: Peter Dinklage
+  - name: Cersei Lannister
+    actor: Lena Headey
+  - name: Nikolaj Coster-Waldau
+    actor: Jaime Lannister
+  - name: Michelle Fairley
+    actor: Catelyn Stark
+  - name: Emilia Clarke
+    actor: Daenerys Targaryen
+  - name: Aidan Gillen
+    actor: Petyr "Littlefinger" Baelish
+  - name: Iain Glen
+    actor: Jorah Mormont
+  - name: Kit Harington
+    actor: Jon Snow
+  - name: Charles Dance
+    actor: Tywin Lannister
+  - name: Liam Cunningham
+    actor: Davos Seaworth
+  - name: Isaac Hempstead Wright
+    actor: Bran Stark
+  - name: Richard Madden
+    actor: Robb Stark
+  - name: Sophie Turner
+    actor: Sansa Stark
+  - name: Maisie Williams
+    actor: Arya Stark
+  - name: Alfie Allen
+    actor: Theon Greyjoy
+  - name: John Bradley
+    actor: Samwell Tarly
+  - name: Jack Gleeson
+    actor: Joffrey Baratheon
+  - name: Rory McCann
+    actor: Sandor "The Hound" Clegane
+  - name: Stephen Dillane
+    actor: Stannis Baratheon
+  - name: Carice van Houten
+    actor: Melisandre
+  - name: Natalie Dormer
+    actor: Margaery Tyrell
+  - name: Conleth Hill
+    actor: Varys
+  - name: Jerome Flynn
+    actor: Bronn
+episodes:
+  - name: The North Remembers
+    description: >
+      Tyrion arrives in King's Landing to serve as Hand of the King while Robb Stark continues his string of victories.
+    released: 2012-04-01
+    length: 53m
+    imdb: https://www.imdb.com/title/tt1971833/
+    wikipedia: https://en.wikipedia.org/wiki/The_North_Remembers
+    directors: Alan Taylor
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Night Lands
+    description: >
+      Arya shares a secret with a recruit while Theon Greyjoy returns to his home in the Iron Islands.
+    released: 2012-04-08
+    length: 54m
+    imdb: https://www.imdb.com/title/tt2069318/
+    wikipedia: https://en.wikipedia.org/wiki/The_Night_Lands
+    directors: Alan Taylor
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: What Is Dead May Never Die
+    description: >
+      Tyrion tests the loyalty of the Small Council while Catelyn Stark seeks an alliance with Renly Baratheon.
+    released: 2012-04-15
+    length: 53m
+    imdb: https://www.imdb.com/title/tt2069319/
+    wikipedia: https://en.wikipedia.org/wiki/What_Is_Dead_May_Never_Die
+    directors: Alik Sakharov
+    writers: Bryan Cogman
+
+  - name: Garden of Bones
+    description: >
+      Joffrey punishes Sansa for Robb's victories while Daenerys arrives at the gates of the city of Qarth.
+    released: 2012-04-22
+    length: 51m
+    imdb: https://www.imdb.com/title/tt2070135/
+    wikipedia: https://en.wikipedia.org/wiki/Garden_of_Bones
+    directors: David Petrarca
+    writers: Vanessa Taylor
+
+  - name: The Ghost of Harrenhal
+    description: >
+      The War of the Five Kings shifts following a sudden death while Arya receives a promise from a mysterious prisoner.
+    released: 2012-04-29
+    length: 55m
+    imdb: https://www.imdb.com/title/tt2070136/
+    wikipedia: https://en.wikipedia.org/wiki/The_Ghost_of_Harrenhal
+    directors: David Petrarca
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Old Gods and the New
+    description: >
+      Theon seizes control of Winterfell while Jon Snow captures a wildling named Ygritte beyond the Wall.
+    released: 2012-05-06
+    length: 54m
+    imdb: https://www.imdb.com/title/tt2071239/
+    wikipedia: https://en.wikipedia.org/wiki/The_Old_Gods_and_the_New
+    directors: David Nutter
+    writers: Vanessa Taylor
+
+  - name: A Man Without Honor
+    description: >
+      Jaime Lannister attempts a desperate escape while Daenerys searches for her missing dragons in Qarth.
+    released: 2012-05-13
+    length: 56m
+    imdb: https://www.imdb.com/title/tt2071241/
+    wikipedia: https://en.wikipedia.org/wiki/A_Man_Without_Honor
+    directors: David Nutter
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Prince of Winterfell
+    description: >
+      Tyrion prepares for the defense of King's Landing while Robb Stark is faced with a betrayal from within his own family.
+    released: 2012-05-20
+    length: 54m
+    imdb: https://www.imdb.com/title/tt2071244/
+    wikipedia: https://en.wikipedia.org/wiki/The_Prince_of_Winterfell
+    directors: Alan Taylor
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: Blackwater
+    description: >
+      Stannis Baratheon's fleet attacks King's Landing in a massive naval and land battle for control of the Iron Throne.
+    released: 2012-05-27
+    length: 55m
+    imdb: https://www.imdb.com/title/tt2085265/
+    wikipedia: https://en.wikipedia.org/wiki/Blackwater_(Game_of_Thrones)
+    directors: Neil Marshall
+    writers: George R. R. Martin
+
+  - name: Valar Morghulis
+    description: >
+      The aftermath of the Battle of the Blackwater leaves the Iron Throne in new hands while Daenerys faces a trial in the House of the Undying.
+    released: 2012-06-03
+    length: 64m
+    imdb: https://www.imdb.com/title/tt2085266/
+    wikipedia: https://en.wikipedia.org/wiki/Valar_Morghulis
+    directors: Alan Taylor
+    writers:
+      - David Benioff
+      - D. B. Weiss

@@ -1,0 +1,98 @@
+title: BAFTA 2019
+website: https://awards.bafta.org/award/2019/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: BlacKkKlansman
+        screenplay:
+            - Spike Lee, David Rabinowitz, Charlie Wachtel, Kevin Willmott
+    - name: Animated Film
+      winner:
+        movie: 'Spider-Man: Into The Spider-Verse'
+    - name: Best Film
+      winner:
+        movie: Roma
+        producers:
+            - Alfonso Cuaron
+            - Gabriela Rodriguez
+    - name: British Short Animation
+      winner:
+        movie: Roughhouse
+    - name: British Short Film
+      winner:
+        movie: 73 Cows
+    - name: Cinematography
+      winner:
+        movie: Roma
+    - name: Costume Design
+      winner:
+        movie: The Favourite
+        constumedesign:
+            - Sandy Powell
+    - name: Director
+      winner:
+        movie: Roma
+        directors:
+            - Alfonso Cuaron
+    - name: Documentary
+      winner:
+        movie: Free Solo
+    - name: EE Rising Star Award
+      winner:
+        person: Letitia Wright
+    - name: Editing
+      winner:
+        movie: Vice
+        editors:
+            - Hank Corwin
+    - name: Fellowship
+      winner:
+        person: Thelma Schoonmaker
+    - name: Film Not in the English Language
+      winner:
+        movie: Roma
+    - name: Leading Actor
+      winner:
+        movie: Bohemian Rhapsody
+        actor: Rami Malek
+    - name: Leading Actress
+      winner:
+        movie: The Favourite
+        actor: Olivia Colman
+    - name: Make Up and Hair
+      winner:
+        movie: The Favourite
+    - name: Original Music
+      winner:
+        movie: A Star Is Born
+    - name: Original Screenplay
+      winner:
+        movie: The Favourite
+        screenplay:
+            - Deborah Davis, Tony McNamara
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: Elizabeth Karlsen and Stephen Woolley
+    - name: Outstanding British Film
+      winner:
+        movie: The Favourite
+    - name: Outstanding Debut by a British Writer, Director or Producer
+      winner:
+        movie: Beast
+    - name: Production Design
+      winner:
+        movie: The Favourite
+    - name: Sound
+      winner:
+        movie: Bohemian Rhapsody
+    - name: Special Visual Effects
+      winner:
+        movie: Black Panther
+    - name: Supporting Actor
+      winner:
+        movie: Green Book
+        actor: Mahershala Ali
+    - name: Supporting Actress
+      winner:
+        movie: The Favourite
+        actor: Rachel Weisz

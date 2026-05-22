@@ -1,0 +1,153 @@
+title: BAFTA 2025
+previous: Movies/Awards/BAFTA/2024
+website: https://www.bafta.org/film/awards/2025-nominations-winners
+wikipedia: https://en.wikipedia.org/wiki/78th_British_Academy_Film_Awards
+categories:
+  - name: Best Film
+    winner:
+      movie: Conclave
+
+  - name: Outstanding British Film
+    winner:
+      movie: Conclave
+
+  - name: Outstanding Debut by a British Writer, Director or Producer
+    winner:
+      movie: Kneecap
+      directors:
+        - Rich Peppiatt
+      writers:
+        - Rich Peppiatt
+
+  - name: Film Not in the English Language
+    winner:
+      movie: Emilia Pérez
+
+  - name: Documentary
+    winner:
+      movie: "Super/Man: The Christopher Reeve Story"
+
+  - name: Animated Film
+    winner:
+      movie: "Wallace & Gromit: Vengeance Most Fowl"
+
+  - name: Director
+    winner:
+      movie: The Brutalist
+      directors:
+        - Brady Corbet
+
+  - name: Original Screenplay
+    winner:
+      movie: A Real Pain
+      writers:
+        - Jesse Eisenberg
+
+  - name: Adapted Screenplay
+    winner:
+      movie: Conclave
+      writers:
+        - Peter Straughan
+
+  - name: Leading Actress
+    winner:
+      actor: Mikey Madison
+      movie: Anora
+
+  - name: Leading Actor
+    winner:
+      actor: Adrien Brody
+      movie: The Brutalist
+
+  - name: Supporting Actress
+    winner:
+      actor: Zoe Saldaña
+      movie: Emilia Pérez
+
+  - name: Supporting Actor
+    winner:
+      actor: Kieran Culkin
+      movie: A Real Pain
+
+  - name: Original Score
+    winner:
+      movie: The Brutalist
+      composer: Daniel Blumberg
+
+  - name: Casting
+    winner:
+      movie: Anora
+      casting:
+        - Sean Baker
+        - Samantha Quan
+
+  - name: Cinematography
+    winner:
+      movie: The Brutalist
+      cinematography: Lol Crawley
+
+  - name: Editing
+    winner:
+      movie: Conclave
+      editors:
+        - Nick Emerson
+
+  - name: Production Design
+    winner:
+      movie: Wicked
+      production_design:
+        - Nathan Crowley
+        - Lee Sandales
+
+  - name: Costume Design
+    winner:
+      movie: Wicked
+      costume_design: Paul Tazewell
+
+  - name: Make Up & Hair
+    winner:
+      movie: The Substance
+      make_up_and_hair:
+        - Pierre-Olivier Persin
+        - Stéphanie Guillon
+        - Frédérique Arguello
+        - Marilyne Scarselli
+
+  - name: Sound
+    winner:
+      movie: "Dune: Part Two"
+      sound:
+        - Ron Bartlett
+        - Doug Hemphill
+        - Gareth John
+        - Richard King
+
+  - name: Special Visual Effects
+    winner:
+      movie: "Dune: Part Two"
+      special_visual_effects:
+        - Paul Lambert
+        - Stephen James
+        - Gerd Nefzer
+        - Rhys Salcombe
+
+  - name: British Short Animation
+    winner:
+      movie: Wander to Wonder
+      animators:
+        - Nina Gantz
+        - Stienette Bosklopper
+        - Simon Cartwright
+        - Maarten Swart
+
+  - name: British Short Film
+    winner:
+      movie: "Rock, Paper, Scissors"
+
+  - name: EE Rising Star Award
+    winner:
+      actor: David Jonsson
+
+  - name: Best Children's & Family Film
+    winner:
+      movie: "Wallace & Gromit: Vengeance Most Fowl"

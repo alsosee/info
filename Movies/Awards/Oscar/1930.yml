@@ -1,0 +1,37 @@
+title: Oscar 1930
+wikipedia: https://en.wikipedia.org/wiki/2nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1930
+imdb: https://www.imdb.com/event/ev0000003/1930/1
+categories:
+  - name: Outstanding Picture
+    winner:
+      movie: The Broadway Melody
+
+  - name: Best Director
+    winner:
+      movie: The Divine Lady
+      directors: Frank Lloyd
+
+  - name: Best Actor
+    winner:
+      actor: Warner Baxter
+      movie: In Old Arizona
+
+  - name: Best Actress
+    winner:
+      actor: Mary Pickford
+      movie: Coquette
+
+  - name: Best Writing
+    winner:
+      movie: The Patriot
+      writers: Hanns Kräly
+
+  - name: Best Art Direction
+    winner:
+      movie: The Bridge of San Luis Rey
+
+  - name: Best Cinematography
+    winner:
+      movie: White Shadows in the South Seas
+      cinematography: Clyde De Vinna

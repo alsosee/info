@@ -1,0 +1,81 @@
+title: BAFTA 1987
+website: https://awards.bafta.org/award/1987/film
+categories:
+    - name: Achievement in Direction
+      winner:
+        movie: Woody Allen
+    - name: Actor in a Leading Role
+      winner:
+        movie: Bob Hoskins
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Ray McAnally
+    - name: Actress in a Leading Role
+      winner:
+        movie: Maggie Smith
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Judi Dench
+    - name: Adapted Screenplay
+      winner:
+        movie: Out Of Africa
+        screenplay:
+            - Kurt Luedtke
+    - name: Cinematography
+      winner:
+        movie: Out Of Africa
+    - name: Costume Design
+      winner:
+        movie: A Room With A View
+        constumedesign:
+            - Jenny Beavan
+            - John Bright
+    - name: Editing
+      winner:
+        movie: The Mission
+        editors:
+            - Jim Clark
+    - name: Fellowship
+      winner:
+        person: Federico Fellini
+    - name: Film
+      winner:
+        movie: A Room With A View
+    - name: Flaherty Documentary Award
+      winner:
+        movie: Shoah
+    - name: Foreign Language Film
+      winner:
+        movie: Ran
+    - name: Make-Up Artist
+      winner:
+        movie: Shohichiro Meda, Tameyuki Aimi, Chihako Naito, Noriko Takamizawa
+    - name: Original Screenplay
+      winner:
+        movie: Hannah And Her Sisters
+        screenplay:
+            - Woody Allen
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: The Film Production Executives
+    - name: Production Design
+      winner:
+        movie: A Room With A View
+    - name: Score For A Film
+      winner:
+        movie: The Mission
+    - name: Short Animation
+      winner:
+        movie: Superted
+    - name: Short Film
+      winner:
+        movie: La Boule
+    - name: Sound
+      winner:
+        movie: Out Of Africa
+    - name: Special Award
+      winner:
+        movie: Reginald  Collin
+    - name: Special Visual Effects
+      winner:
+        movie: Aliens

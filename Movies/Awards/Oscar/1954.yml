@@ -1,0 +1,129 @@
+title: Oscar 1954
+wikipedia: https://en.wikipedia.org/wiki/26th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1954
+imdb: https://www.imdb.com/event/ev0000003/1954/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: From Here to Eternity
+
+  - name: Best Directing
+    winner:
+      movie: From Here to Eternity
+      directors: Fred Zinnemann
+
+  - name: Best Actor
+    winner:
+      actor: William Holden
+      movie: Stalag 17
+
+  - name: Best Actress
+    winner:
+      actor: Audrey Hepburn
+      movie: Roman Holiday
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Frank Sinatra
+      movie: From Here to Eternity
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Donna Reed
+      movie: From Here to Eternity
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: Roman Holiday
+      writers: Dalton Trumbo
+
+  - name: Writing (Story and Screenplay)
+    winner:
+      movie: Titanic
+      writers:
+        - Charles Brackett
+        - Walter Reisch
+        - Richard L. Breen
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: From Here to Eternity
+      writers: Daniel Taradash
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: The Living Desert
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: The Alaskan Eskimo
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Overture to The Merry Wives of Windsor
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Bear Country
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Toot, Whistle, Plunk and Boom
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Lili
+      music: Bronisław Kaper
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Call Me Madam
+      music: Alfred Newman
+
+  - name: Best Music (Song)
+    winner:
+      movie: Calamity Jane
+      track: Secret Love
+
+  - name: Best Sound Recording
+    winner:
+      movie: From Here to Eternity
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Julius Caesar
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: The Robe
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: From Here to Eternity
+      cinematography: Burnett Guffey
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Shane
+      cinematography: Loyal Griggs
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: Roman Holiday
+      costume_design: Edith Head
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: The Robe
+      costume_design:
+        - Charles LeMaire
+        - Emile Santiago
+
+  - name: Best Film Editing
+    winner:
+      movie: From Here to Eternity
+      editors: William Lyon
+
+  - name: Best Special Effects
+    winner:
+      movie: The War of the Worlds

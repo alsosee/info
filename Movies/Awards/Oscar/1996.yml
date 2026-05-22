@@ -1,0 +1,114 @@
+title: Oscar 1996
+wikipedia: https://en.wikipedia.org/wiki/68th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1996
+imdb: https://www.imdb.com/event/ev0000003/1996/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Nicolas Cage
+      movie: Leaving Las Vegas
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Kevin Spacey
+      movie: The Usual Suspects
+
+  - name: Actress in a leading role
+    winner:
+      actor: Susan Sarandon
+      movie: Dead Man Walking
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Mira Sorvino
+      movie: Mighty Aphrodite
+
+  - name: Art Direction
+    winner:
+      movie: Restoration
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Antonia's Line
+
+  - name: Cinematography
+    winner:
+      movie: Braveheart
+      cinematography: John Toll
+
+  - name: Costume Design
+    winner:
+      movie: Restoration
+
+  - name: Directing
+    winner:
+      movie: Braveheart
+      directors: Mel Gibson
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Anne Frank Remembered
+
+  - name: Documentary Short Subject
+    winner:
+      movie: One Survivor Remembers
+
+  - name: Film Editing
+    winner:
+      movie: Apollo 13
+      editors:
+        - Mike Hill
+        - Daniel P. Hanley
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Braveheart
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: "Il Postino: The Postman"
+      music: Luis Bacalov
+
+  - name: Music (Original Musical or Comedy Score)
+    winner:
+      movie: Pocahontas
+      music: Alan Menken
+
+  - name: Music (Original Song)
+    winner:
+      movie: Pocahontas
+      track: Colors of the Wind
+
+  - name: Best Picture
+    winner:
+      movie: Braveheart
+
+  - name: Short Film (Animated)
+    winner:
+      movie: A Close Shave
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Lieberman in Love
+
+  - name: Sound
+    winner:
+      movie: Apollo 13
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Braveheart
+
+  - name: Visual Effects
+    winner:
+      movie: Babe
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Sense and Sensibility
+      writers: Emma Thompson
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Usual Suspects
+      writers: Christopher McQuarrie

@@ -1,0 +1,57 @@
+name: "Harry Potter and the Half-Blood Prince"
+description: >
+  Harry enters his sixth year at Hogwarts as Voldemort's power grows, and Dumbledore enlists
+  him to help uncover the dark secrets of Voldemort's past. Meanwhile, Harry discovers a heavily
+  annotated textbook once owned by a mysterious figure known only as the Half-Blood Prince.
+previous: Movies/2007/Harry Potter and the Order of the Phoenix
+released: 2009-07-15
+rating: PG
+length: 2h33m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Harry Potter
+wikipedia: https://en.wikipedia.org/wiki/Harry_Potter_and_the_Half-Blood_Prince_(film)
+imdb: https://www.imdb.com/title/tt0417741
+tmdb: https://www.themoviedb.org/movie/767-harry-potter-and-the-half-blood-prince
+directors: David Yates
+screenplay: Steve Kloves
+music: Nicholas Hooper
+cinematography: Bruno Delbonnel
+editors: Mark Day
+producers:
+  - David Heyman
+  - David Barron
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harry Potter
+    description: The protagonist
+    actor: Daniel Radcliffe
+  - name: Ron Weasley
+    description: Harry's best friend
+    actor: Rupert Grint
+  - name: Hermione Granger
+    description: Harry's best friend
+    actor: Emma Watson
+  - name: Albus Dumbledore
+    description: Headmaster of Hogwarts
+    actor: Michael Gambon
+  - name: Severus Snape
+    description: Defence Against the Dark Arts professor
+    actor: Alan Rickman
+  - name: Draco Malfoy
+    description: Harry's rival at Hogwarts
+    actor: Tom Felton
+  - name: Horace Slughorn
+    description: New Potions teacher and former Hogwarts professor
+    actor: Jim Broadbent
+  - name: Rubeus Hagrid
+    description: Groundskeeper of Hogwarts
+    actor: Robbie Coltrane
+  - name: Bellatrix Lestrange
+    description: Devoted Death Eater and Voldemort's most loyal servant
+    actor: Helena Bonham Carter

@@ -1,0 +1,112 @@
+title: Oscar 1959
+wikipedia: https://en.wikipedia.org/wiki/31st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1959
+imdb: https://www.imdb.com/event/ev0000003/1959/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: Gigi
+
+  - name: Best Directing
+    winner:
+      movie: Gigi
+      directors: Vincente Minnelli
+
+  - name: Best Actor
+    winner:
+      actor: David Niven
+      movie: Separate Tables
+
+  - name: Best Actress
+    winner:
+      actor: Susan Hayward
+      movie: I Want to Live!
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Burl Ives
+      movie: The Big Country
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Wendy Hiller
+      movie: Separate Tables
+
+  - name: Writing (Story and Screenplay -- Written Directly for the Screen)
+    winner:
+      movie: The Defiant Ones
+      writers:
+        - Nedrick Young
+        - Harold Jacob Smith
+
+  - name: Writing (Screenplay -- Based on Material from Another Medium)
+    winner:
+      movie: Gigi
+      writers: Alan Jay Lerner
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: My Uncle
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: White Wilderness
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Ama Girls
+
+  - name: Best Short Subject (Live Action)
+    winner:
+      movie: Grand Canyon
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Knighty Knight Bugs
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: The Old Man and the Sea
+      music: Dimitri Tiomkin
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Gigi
+      music: André Previn
+
+  - name: Best Music (Song)
+    winner:
+      movie: Gigi
+      track: Gigi
+
+  - name: Best Sound
+    winner:
+      movie: South Pacific
+
+  - name: Best Art Direction
+    winner:
+      movie: Gigi
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: The Defiant Ones
+      cinematography: Sam Leavitt
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Gigi
+      cinematography: Joseph Ruttenberg
+
+  - name: Best Costume Design
+    winner:
+      movie: Gigi
+      costume_design: Cecil Beaton
+
+  - name: Best Film Editing
+    winner:
+      movie: Gigi
+      editors: Adrienne Fazan
+
+  - name: Best Special Effects
+    winner:
+      movie: Tom Thumb

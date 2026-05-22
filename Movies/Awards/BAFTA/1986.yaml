@@ -1,0 +1,74 @@
+title: BAFTA 1986
+website: https://awards.bafta.org/award/1986/film
+categories:
+    - name: Actor in a Leading Role
+      winner:
+        movie: William Hurt
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Denholm Elliott
+    - name: Actress in a Leading Role
+      winner:
+        movie: Peggy Ashcroft
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Rosanna Arquette
+    - name: Adapted Screenplay
+      winner:
+        movie: Prizzi's Honour
+        screenplay:
+            - Richard Condon, Janet Roach
+    - name: Cinematography
+      winner:
+        movie: Amadeus
+    - name: Costume Design
+      winner:
+        movie: The Cotton Club
+        constumedesign:
+            - Milena Canonero
+    - name: Editing
+      winner:
+        movie: Amadeus
+        editors:
+            - Nena Danevic, Michael Chandler
+    - name: Fellowship
+      winner:
+        person: Steven Spielberg
+    - name: Film
+      winner:
+        movie: The Purple Rose Of Cairo
+    - name: Flaherty Documentary Award
+      winner:
+        movie: 'Omnibus: Leonard Berstein''s West Side Story'
+    - name: Foreign Language Film
+      winner:
+        movie: Colonel Redl (Oberst Redl)
+    - name: Make-Up Artist
+      winner:
+        movie: Paul LeBlanc, Dick Smith
+    - name: Original Screenplay
+      winner:
+        movie: The Purple Rose Of Cairo
+        screenplay:
+            - Woody Allen
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Sydney Samuelson
+    - name: Production Design
+      winner:
+        movie: Brazil
+    - name: Score For A Film
+      winner:
+        movie: Witness
+    - name: Short Animation
+      winner:
+        movie: Alias The Jester
+    - name: Short Film
+      winner:
+        movie: Careless Talk
+    - name: Sound
+      winner:
+        movie: Amadeus
+    - name: Special Visual Effects
+      winner:
+        movie: Brazil

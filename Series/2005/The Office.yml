@@ -1,0 +1,189 @@
+name: The Office
+description: >
+  A documentary crew follows the employees of Dunder Mifflin's Scranton branch as regional manager Michael Scott tries to present his workplace as a happy, well-run office.
+  The first season introduces Michael's awkward management style, Jim Halpert's pranks on Dwight Schrute, Pam Beesly's role at reception, and temp Ryan Howard's view of the office's daily absurdities.
+released: 2005-03-24
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+  - cringe comedy
+network: NBC
+wikipedia: https://en.wikipedia.org/wiki/The_Office_(American_TV_series)_season_1
+imdb: https://www.imdb.com/title/tt0386676/episodes?season=1
+tmdb: https://www.themoviedb.org/tv/2316-the-office/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_office/s01
+website: https://www.nbc.com/the-office
+creators: Greg Daniels
+directors:
+  - Ken Kwapis
+  - Ken Whittingham
+  - Bryan Gordon
+  - Greg Daniels
+  - Amy Heckerling
+writers:
+  - Ricky Gervais
+  - Stephen Merchant
+  - Greg Daniels
+  - B. J. Novak
+  - Paul Lieberstein
+  - Michael Schur
+  - Mindy Kaling
+producers:
+  - Greg Daniels
+  - Larry Wilmore
+  - Lester Lewis
+production:
+  - Reveille Productions
+  - Deedle-Dee Productions
+  - NBC Universal Television Studios
+characters:
+  - name: Michael Scott
+    actor: Steve Carell
+  - name: Dwight Schrute
+    actor: Rainn Wilson
+  - name: Jim Halpert
+    actor: John Krasinski
+  - name: Pam Beesly
+    actor: Jenna Fischer
+  - name: Ryan Howard
+    actor: B. J. Novak
+  - name: Jan Levinson-Gould
+    actor: Melora Hardin
+  - name: Roy Anderson
+    actor: David Denman
+  - name: Stanley Hudson
+    actor: Leslie David Baker
+  - name: Kevin Malone
+    actor: Brian Baumgartner
+  - name: Angela Martin
+    actor: Angela Kinsey
+  - name: Oscar Martinez
+    actor: Oscar Nunez
+  - name: Phyllis Lapin
+    actor: Phyllis Smith
+episodes:
+  - name: Pilot
+    description: >
+      A documentary crew arrives at Dunder Mifflin's Scranton office as Michael tries to present himself as an effective manager amid corporate downsizing concerns.
+    released: 2005-03-24
+    length: 23m
+    imdb: https://www.imdb.com/title/tt0664521/
+    wikipedia: https://en.wikipedia.org/wiki/Pilot_(The_Office)
+    directors: Ken Kwapis
+    writers:
+      - Ricky Gervais
+      - Stephen Merchant
+      - Greg Daniels
+    characters:
+      - name: Michael Scott
+        actor: Steve Carell
+      - name: Dwight Schrute
+        actor: Rainn Wilson
+      - name: Jim Halpert
+        actor: John Krasinski
+      - name: Pam Beesly
+        actor: Jenna Fischer
+      - name: Ryan Howard
+        actor: B. J. Novak
+  - name: Diversity Day
+    description: >
+      A consultant leads a workplace diversity seminar after Michael offends the staff, while Jim tries to protect an important sales contract.
+    released: 2005-03-29
+    length: 22m
+    imdb: https://www.imdb.com/title/tt0664514/
+    wikipedia: https://en.wikipedia.org/wiki/Diversity_Day_(The_Office)
+    directors: Ken Kwapis
+    writers: B. J. Novak
+    characters:
+      - name: Michael Scott
+        actor: Steve Carell
+      - name: Dwight Schrute
+        actor: Rainn Wilson
+      - name: Jim Halpert
+        actor: John Krasinski
+      - name: Pam Beesly
+        actor: Jenna Fischer
+      - name: Ryan Howard
+        actor: B. J. Novak
+  - name: Health Care
+    description: >
+      Michael delegates the office's new health care plan to Dwight, while Jim and Pam turn Dwight's paperwork into an excuse for mischief.
+    released: 2005-04-05
+    length: 22m
+    imdb: https://www.imdb.com/title/tt0664517/
+    wikipedia: https://en.wikipedia.org/wiki/Health_Care_(The_Office)
+    directors: Ken Whittingham
+    writers: Paul Lieberstein
+    characters:
+      - name: Michael Scott
+        actor: Steve Carell
+      - name: Dwight Schrute
+        actor: Rainn Wilson
+      - name: Jim Halpert
+        actor: John Krasinski
+      - name: Pam Beesly
+        actor: Jenna Fischer
+      - name: Ryan Howard
+        actor: B. J. Novak
+  - name: The Alliance
+    description: >
+      Downsizing rumors prompt Dwight to form a workplace alliance, while Michael attempts to lift morale with an early birthday party for Meredith.
+    released: 2005-04-12
+    length: 22m
+    imdb: https://www.imdb.com/title/tt0664523/
+    wikipedia: https://en.wikipedia.org/wiki/The_Alliance_(The_Office)
+    directors: Bryan Gordon
+    writers: Michael Schur
+    characters:
+      - name: Michael Scott
+        actor: Steve Carell
+      - name: Dwight Schrute
+        actor: Rainn Wilson
+      - name: Jim Halpert
+        actor: John Krasinski
+      - name: Pam Beesly
+        actor: Jenna Fischer
+      - name: Ryan Howard
+        actor: B. J. Novak
+  - name: Basketball
+    description: >
+      Michael pits the office staff against the warehouse crew in a basketball game, with Saturday work on the line for the losing team.
+    released: 2005-04-19
+    length: 22m
+    imdb: https://www.imdb.com/title/tt0664510/
+    wikipedia: https://en.wikipedia.org/wiki/Basketball_(The_Office)
+    directors: Greg Daniels
+    writers: Greg Daniels
+    characters:
+      - name: Michael Scott
+        actor: Steve Carell
+      - name: Dwight Schrute
+        actor: Rainn Wilson
+      - name: Jim Halpert
+        actor: John Krasinski
+      - name: Pam Beesly
+        actor: Jenna Fischer
+      - name: Ryan Howard
+        actor: B. J. Novak
+  - name: Hot Girl
+    description: >
+      A purse saleswoman visits the office, drawing attention from Michael and Dwight while Jim and Pam use the distraction to prank Dwight.
+    released: 2005-04-26
+    length: 22m
+    imdb: https://www.imdb.com/title/tt0664518/
+    wikipedia: https://en.wikipedia.org/wiki/Hot_Girl_(The_Office)
+    directors: Amy Heckerling
+    writers: Mindy Kaling
+    characters:
+      - name: Michael Scott
+        actor: Steve Carell
+      - name: Dwight Schrute
+        actor: Rainn Wilson
+      - name: Jim Halpert
+        actor: John Krasinski
+      - name: Pam Beesly
+        actor: Jenna Fischer
+      - name: Ryan Howard
+        actor: B. J. Novak

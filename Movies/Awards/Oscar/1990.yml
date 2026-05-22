@@ -1,0 +1,109 @@
+title: Oscar 1990
+wikipedia: https://en.wikipedia.org/wiki/62nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1990
+imdb: https://www.imdb.com/event/ev0000003/1990/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Daniel Day-Lewis
+      movie: My Left Foot
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Denzel Washington
+      movie: Glory
+
+  - name: Actress in a leading role
+    winner:
+      actor: Jessica Tandy
+      movie: Driving Miss Daisy
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Brenda Fricker
+      movie: My Left Foot
+
+  - name: Art Direction
+    winner:
+      movie: Batman
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Cinema Paradiso
+
+  - name: Cinematography
+    winner:
+      movie: Glory
+      cinematography: Freddie Francis
+
+  - name: Costume Design
+    winner:
+      movie: Henry V
+
+  - name: Directing
+    winner:
+      movie: Born on the Fourth of July
+      directors: Oliver Stone
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Common Threads: Stories from the Quilt"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: The Johnstown Flood
+
+  - name: Film Editing
+    winner:
+      movie: Born on the Fourth of July
+      editors:
+        - David Brenner
+        - Joe Hutshing
+
+  - name: Makeup
+    winner:
+      movie: Driving Miss Daisy
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Little Mermaid
+      music: Alan Menken
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Little Mermaid
+      track: Under the Sea
+
+  - name: Best Picture
+    winner:
+      movie: Driving Miss Daisy
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Balance
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Work Experience
+
+  - name: Sound
+    winner:
+      movie: Glory
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Indiana Jones and the Last Crusade
+
+  - name: Visual Effects
+    winner:
+      movie: The Abyss
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Driving Miss Daisy
+      writers: Alfred Uhry
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Dead Poets Society
+      writers: Tom Schulman

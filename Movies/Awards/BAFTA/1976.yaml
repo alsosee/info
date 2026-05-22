@@ -1,0 +1,70 @@
+title: BAFTA 1976
+website: https://awards.bafta.org/award/1976/film
+categories:
+    - name: Actor
+      winner:
+        movie: Al Pacino
+    - name: Actress
+      winner:
+        movie: Ellen Burstyn
+    - name: Animated Film
+      winner:
+        movie: Great
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Jaws/The Towering Inferno
+    - name: Art Direction
+      winner:
+        movie: Rollerball
+    - name: Cinematography
+      winner:
+        movie: Barry Lyndon
+    - name: Costume Design
+      winner:
+        movie: The Day Of The Locust
+        constumedesign:
+            - Ann Roth
+    - name: Direction
+      winner:
+        movie: Barry Lyndon
+    - name: Fellowship
+      winner:
+        person: Charles Chaplin
+    - name: Fellowship
+      winner:
+        person: Laurence Olivier
+    - name: Film
+      winner:
+        movie: Alice Doesn't Live Here Anymore
+    - name: Film Editing
+      winner:
+        movie: Dog Day Afternoon
+    - name: John Grierson Award (Short Film)
+      winner:
+        movie: Sea Area Forties
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Valerie Perrine
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: The Early Americans
+    - name: Screenplay
+      winner:
+        movie: Alice Doesn't Live Here Anymore
+    - name: Soundtrack
+      winner:
+        movie: Nashville
+    - name: Specialised Film
+      winner:
+        movie: The Curiosity That Kills The Cat
+    - name: Supporting Actor
+      winner:
+        movie: The Towering Inferno
+        actor: Fred Astaire
+    - name: Supporting Actress
+      winner:
+        movie: Alice Doesn't Live Here Anymore
+        actor: Diane Ladd
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: Conrack

@@ -1,0 +1,35 @@
+name: "Anchorman: The Legend of Ron Burgundy"
+description: >
+  In 1970s San Diego, a top-rated news anchorman's status is challenged when an ambitious female reporter is hired as his co-anchor.
+released: 2004-07-09
+rating: PG-13
+length: 1h34m
+genres:
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Anchorman:_The_Legend_of_Ron_Burgundy
+imdb: https://www.imdb.com/title/tt0357413
+tmdb: https://www.themoviedb.org/movie/1398-anchorman-the-legend-of-ron-burgundy
+rotten_tomatoes: https://www.rottentomatoes.com/m/anchorman
+metacritic: https://www.metacritic.com/movie/anchorman-the-legend-of-ron-burgundy
+directors: Adam McKay
+writers:
+  - Will Ferrell
+  - Adam McKay
+music: Alex Wurman
+cinematography: Thomas E. Ackerman
+editors: Brent White
+production:
+  - DreamWorks Pictures
+  - Apatow Productions
+distributors: DreamWorks Pictures
+characters:
+  - name: Ron Burgundy
+    actor: Will Ferrell
+  - name: Veronica Corningstone
+    actor: Christina Applegate
+  - name: Brian Fantana
+    actor: Paul Rudd
+  - name: Brick Tamland
+    actor: Steve Carell
+  - name: Champ Kind
+    actor: David Koechner

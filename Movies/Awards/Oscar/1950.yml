@@ -1,0 +1,135 @@
+title: Oscar 1950
+wikipedia: https://en.wikipedia.org/wiki/22nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1950
+imdb: https://www.imdb.com/event/ev0000003/1950/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: All the King's Men
+
+  - name: Best Directing
+    winner:
+      movie: A Letter to Three Wives
+      directors: Joseph L. Mankiewicz
+
+  - name: Best Actor
+    winner:
+      actor: Broderick Crawford
+      movie: All the King's Men
+
+  - name: Best Actress
+    winner:
+      actor: Olivia de Havilland
+      movie: The Heiress
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Dean Jagger
+      movie: Twelve O'Clock High
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Mercedes McCambridge
+      movie: All the King's Men
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: The Stratton Story
+      writers: Douglas Morrow
+
+  - name: Writing (Story and Screenplay)
+    winner:
+      movie: Battleground
+      writers: Robert Pirosh
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: A Letter to Three Wives
+      writers: Joseph L. Mankiewicz
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: Daybreak in Udi
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: So Much for So Little
+      # TODO: tied with A Chance to Live — list not yet supported
+      # movie:
+      #   - A Chance to Live
+      #   - So Much for So Little
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Aquatic House Party
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Van Gogh
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: For Scent-imental Reasons
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: The Heiress
+      music: Aaron Copland
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: On the Town
+      music:
+        - Roger Edens
+        - Lennie Hayton
+
+  - name: Best Music (Song)
+    winner:
+      movie: Neptune's Daughter
+      track: Baby, It's Cold Outside
+
+  - name: Best Sound Recording
+    winner:
+      movie: Twelve O'Clock High
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: The Heiress
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Little Women
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Battleground
+      cinematography: Paul C. Vogel
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: She Wore a Yellow Ribbon
+      cinematography: Winton C. Hoch
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: The Heiress
+      costume_design:
+        - Edith Head
+        - Gile Steele
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: Adventures of Don Juan
+      costume_design:
+        - Leah Rhodes
+        - Travilla
+        - Marjorie Best
+
+  - name: Best Film Editing
+    winner:
+      movie: Champion
+      editors: Harry W. Gerstad
+
+  - name: Best Special Effects
+    winner:
+      movie: Mighty Joe Young

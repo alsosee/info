@@ -1,0 +1,104 @@
+title: Oscar 1979
+wikipedia: https://en.wikipedia.org/wiki/51st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1979
+imdb: https://www.imdb.com/event/ev0000003/1979/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jon Voight
+      movie: Coming Home
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Christopher Walken
+      movie: The Deer Hunter
+
+  - name: Actress in a leading role
+    winner:
+      actor: Jane Fonda
+      movie: Coming Home
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Maggie Smith
+      movie: California Suite
+
+  - name: Art Direction
+    winner:
+      movie: Heaven Can Wait
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Get Out Your Handkerchiefs
+
+  - name: Cinematography
+    winner:
+      movie: Days of Heaven
+      cinematography: Néstor Almendros
+
+  - name: Costume Design
+    winner:
+      movie: Death on the Nile
+      costume_design: Anthony Powell
+
+  - name: Directing
+    winner:
+      movie: The Deer Hunter
+      directors: Michael Cimino
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Scared Straight!
+
+  - name: Documentary Short Subject
+    winner:
+      movie: The Flight of the Gossamer Condor
+
+  - name: Film Editing
+    winner:
+      movie: The Deer Hunter
+      editors: Peter Zinner
+
+  - name: Music (Original Score)
+    winner:
+      movie: Midnight Express
+      music: Giorgio Moroder
+
+  - name: Music (Adaptation Score)
+    winner:
+      movie: The Buddy Holly Story
+      music: Joe Renzetti
+
+  - name: Music (Original Song)
+    winner:
+      movie: Thank God It's Friday
+      track: Last Dance
+
+  - name: Best Picture
+    winner:
+      movie: The Deer Hunter
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Special Delivery
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Teenage Father
+
+  - name: Sound
+    winner:
+      movie: The Deer Hunter
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Midnight Express
+      writers: Oliver Stone
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Coming Home
+      writers:
+        - Nancy Dowd
+        - Waldo Salt
+        - Robert C. Jones

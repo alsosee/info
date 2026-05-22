@@ -1,0 +1,58 @@
+name: "Harry Potter and the Goblet of Fire"
+description: >
+  Harry Potter's fourth year at Hogwarts takes a dangerous turn when his name
+  is mysteriously selected by the Goblet of Fire to compete in the Triwizard
+  Tournament — a grueling magical contest between three wizarding schools.
+  As he faces deadly challenges, signs of Lord Voldemort's return begin to emerge.
+based_on: Books/2000/Harry Potter and the Goblet of Fire
+previous: Movies/2004/Harry Potter and the Prisoner of Azkaban
+released: 2005-11-18
+rating: PG-13
+length: 2h37m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Harry Potter
+wikipedia: https://en.wikipedia.org/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)
+imdb: https://www.imdb.com/title/tt0330373
+tmdb: https://www.themoviedb.org/movie/674-harry-potter-and-the-goblet-of-fire
+rotten_tomatoes: https://www.rottentomatoes.com/m/harry_potter_and_the_goblet_of_fire
+directors: Mike Newell
+screenplay: Steve Kloves
+music: Patrick Doyle
+cinematography: Roger Pratt
+editors: Mick Audsley
+producers: David Heyman
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harry Potter
+    description: The protagonist
+    actor: Daniel Radcliffe
+  - name: Ron Weasley
+    description: Harry's best friend
+    actor: Rupert Grint
+  - name: Hermione Granger
+    description: Harry's best friend
+    actor: Emma Watson
+  - name: Albus Dumbledore
+    description: Headmaster of Hogwarts
+    actor: Michael Gambon
+  - name: Rubeus Hagrid
+    description: Groundskeeper of Hogwarts
+    actor: Robbie Coltrane
+  - name: Severus Snape
+    description: Potions teacher
+    actor: Alan Rickman
+  - name: Alastor Moody
+    description: Defence Against the Dark Arts teacher
+    actor: Brendan Gleeson
+  - name: Cedric Diggory
+    description: Hogwarts champion in the Triwizard Tournament
+    actor: Robert Pattinson
+  - name: Lord Voldemort
+    description: The dark wizard behind Harry's troubles
+    actor: Ralph Fiennes

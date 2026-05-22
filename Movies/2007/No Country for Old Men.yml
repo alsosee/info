@@ -1,0 +1,48 @@
+name: "No Country for Old Men"
+released: 2007-11-09
+rating: R
+length: 2h2m
+genres:
+  - Neo-Western
+  - Crime
+  - Thriller
+wikipedia: https://en.wikipedia.org/wiki/No_Country_for_Old_Men_(film)
+imdb: https://www.imdb.com/title/tt0477348
+tmdb: https://www.themoviedb.org/movie/8051-no-country-for-old-men
+rotten_tomatoes: https://www.rottentomatoes.com/m/no_country_for_old_men
+metacritic: https://www.metacritic.com/movie/no-country-for-old-men
+based_on: Books/2005/No Country for Old Men
+directors:
+  - Joel Coen
+  - Ethan Coen
+screenplay:
+  - Joel Coen
+  - Ethan Coen
+music: Carter Burwell
+cinematography: Roger Deakins
+editors: Roderick Jaynes
+production:
+  - Paramount Vantage
+  - Miramax
+  - Scott Rudin Productions
+  - Mike Zoss Productions
+distributors:
+  - Miramax
+  - Paramount Pictures
+characters:
+  - name: Ed Tom Bell
+    actor: Tommy Lee Jones
+  - name: Anton Chigurh
+    actor: Javier Bardem
+  - name: Llewelyn Moss
+    actor: Josh Brolin
+  - name: Carson Wells
+    actor: Woody Harrelson
+  - name: Carla Jean Moss
+    actor: Kelly Macdonald
+  - name: Wendell
+    actor: Garret Dillahunt
+  - name: Loretta Bell
+    actor: Tess Harper
+  - name: Ellis
+    actor: Barry Corbin

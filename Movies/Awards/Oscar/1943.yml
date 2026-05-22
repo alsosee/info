@@ -1,0 +1,124 @@
+title: Oscar 1943
+wikipedia: https://en.wikipedia.org/wiki/15th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1943
+imdb: https://www.imdb.com/event/ev0000003/1943/1
+categories:
+  - name: Outstanding Motion Picture
+    winner:
+      movie: Mrs. Miniver
+
+  - name: Best Directing
+    winner:
+      movie: Mrs. Miniver
+      directors: William Wyler
+
+  - name: Best Actor
+    winner:
+      actor: James Cagney
+      movie: Yankee Doodle Dandy
+
+  - name: Best Actress
+    winner:
+      actor: Greer Garson
+      movie: Mrs. Miniver
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Van Heflin
+      movie: Johnny Eager
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Teresa Wright
+      movie: Mrs. Miniver
+
+  - name: Writing (Original Motion Picture Story)
+    winner:
+      movie: 49th Parallel
+      writers: Emeric Pressburger
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Woman of the Year
+      writers:
+        - Michael Kanin
+        - Ring Lardner Jr.
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: Mrs. Miniver
+      writers:
+        - George Froeschel
+        - James Hilton
+        - Claudine West
+        - Arthur Wimperis
+
+  - name: Best Documentary
+    winner:
+      movie: Prelude to War
+      # TODO: 4 films shared the inaugural Documentary award — list not yet supported
+      # movie:
+      #   - The Battle of Midway
+      #   - Kokoda Front Line!
+      #   - Moscow Strikes Back
+      #   - Prelude to War
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Speaking of Animals and Their Families
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Beyond the Line of Duty
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: "Der Fuehrer's Face"
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Now, Voyager
+      music: Max Steiner
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Yankee Doodle Dandy
+      music:
+        - Ray Heindorf
+        - Heinz Roemheld
+
+  - name: Best Music (Song)
+    winner:
+      movie: Holiday Inn
+      track: White Christmas
+
+  - name: Best Sound Recording
+    winner:
+      movie: Yankee Doodle Dandy
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: This Above All
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: My Gal Sal
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Mrs. Miniver
+      cinematography: Joseph Ruttenberg
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: The Black Swan
+      cinematography: Leon Shamroy
+
+  - name: Best Film Editing
+    winner:
+      movie: The Pride of the Yankees
+      editors: Daniel Mandell
+
+  - name: Best Special Effects
+    winner:
+      movie: Reap the Wild Wind

@@ -1,0 +1,111 @@
+title: Oscar 2009
+wikipedia: https://en.wikipedia.org/wiki/81st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2009
+imdb: https://www.imdb.com/event/ev0000003/2009/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Sean Penn
+      movie: Milk
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Heath Ledger
+      movie: The Dark Knight
+
+  - name: Actress in a leading role
+    winner:
+      actor: Kate Winslet
+      movie: The Reader
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Penélope Cruz
+      movie: Vicky Cristina Barcelona
+
+  - name: Animated feature film
+    winner:
+      movie: WALL-E
+
+  - name: Art Direction
+    winner:
+      movie: The Curious Case of Benjamin Button
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Departures
+
+  - name: Cinematography
+    winner:
+      movie: Slumdog Millionaire
+      cinematography: Anthony Dod Mantle
+
+  - name: Costume Design
+    winner:
+      movie: The Duchess
+
+  - name: Directing
+    winner:
+      movie: Slumdog Millionaire
+      directors: Danny Boyle
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Man on Wire
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Smile Pinki
+
+  - name: Film Editing
+    winner:
+      movie: Slumdog Millionaire
+      editors: Chris Dickens
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Curious Case of Benjamin Button
+
+  - name: Music (Original Score)
+    winner:
+      movie: Slumdog Millionaire
+      music: A. R. Rahman
+
+  - name: Music (Original Song)
+    winner:
+      movie: Slumdog Millionaire
+      track: Jai Ho
+
+  - name: Best Picture
+    winner:
+      movie: Slumdog Millionaire
+
+  - name: Short Film (Animated)
+    winner:
+      movie: La Maison en Petits Cubes
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Toyland
+
+  - name: Sound Editing
+    winner:
+      movie: The Dark Knight
+
+  - name: Sound Mixing
+    winner:
+      movie: Slumdog Millionaire
+
+  - name: Visual Effects
+    winner:
+      movie: The Curious Case of Benjamin Button
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Slumdog Millionaire
+      writers: Simon Beaufoy
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Milk
+      writers: Dustin Lance Black

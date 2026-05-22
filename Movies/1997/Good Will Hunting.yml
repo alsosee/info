@@ -1,0 +1,39 @@
+name: Good Will Hunting
+description: >
+  A Boston janitor and self-taught mathematical genius is forced to confront his troubled past
+  through court-ordered therapy after his exceptional talent is discovered by an MIT professor.
+released: 1997-12-05
+rating: R
+length: 2h6m
+genres:
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Good_Will_Hunting
+imdb: https://www.imdb.com/title/tt0119217
+tmdb: https://www.themoviedb.org/movie/489
+directors: Gus Van Sant
+screenplay:
+  - Matt Damon
+  - Ben Affleck
+producers: Lawrence Bender
+music: Danny Elfman
+cinematography: Jean-Yves Escoffier
+editors: Pietro Scalia
+production:
+  - Be Gentlemen
+  - Lawrence Bender Productions
+distributors: Miramax
+characters:
+  - name: Will Hunting
+    actor: Matt Damon
+  - name: Dr. Sean Maguire
+    actor: Robin Williams
+  - name: Chuckie Sullivan
+    actor: Ben Affleck
+  - name: Professor Gerald Lambeau
+    actor: Stellan Skarsgård
+  - name: Skylar
+    actor: Minnie Driver
+  - name: Morgan O'Mally
+    actor: Casey Affleck
+  - name: Billy McBride
+    actor: Cole Hauser

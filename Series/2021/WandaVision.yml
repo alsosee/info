@@ -1,0 +1,153 @@
+name: WandaVision
+description: >
+  Wanda Maximoff and Vision live an idyllic suburban life in Westview, New Jersey, as their world shifts through decades of American sitcom styles.
+  When outside investigators notice strange signals from the town, the mystery around Wanda and Vision's reality begins to deepen.
+released: 2021-01-15
+rating: TV-14
+genres:
+  - drama
+  - mystery
+  - romance
+  - sitcom
+  - superhero
+network: Disney+
+wikipedia: https://en.wikipedia.org/wiki/WandaVision
+imdb: https://www.imdb.com/title/tt9140560
+tmdb: https://www.themoviedb.org/tv/85271-wandavision/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/wandavision/s01
+disney_plus: https://www.disneyplus.com/series/wandavision/4SrN28ZjDLwH
+creators: Jac Schaeffer
+directors: Matt Shakman
+writers:
+  - Jac Schaeffer
+  - Gretchen Enders
+  - Megan McDonnell
+  - Bobak Esfarjani
+  - Peter Cameron
+  - Mackenzie Dohr
+  - Chuck Hayward
+  - Cameron Squires
+  - Laura Donney
+producers:
+  - Kevin Feige
+  - Louis D'Esposito
+  - Victoria Alonso
+  - Matt Shakman
+  - Jac Schaeffer
+music:
+  - Christophe Beck
+  - Kristen Anderson-Lopez
+  - Robert Lopez
+characters:
+  - name: Wanda Maximoff / Scarlet Witch
+    actor: Elizabeth Olsen
+  - name: Vision / The Vision
+    actor: Paul Bettany
+  - name: Agnes / Agatha Harkness
+    actor: Kathryn Hahn
+  - name: Monica Rambeau / Geraldine
+    actor: Teyonah Parris
+  - name: Jimmy Woo
+    actor: Randall Park
+  - name: Darcy Lewis
+    actor: Kat Dennings
+  - name: Sharon Davis / Mrs. Hart
+    actor: Debra Jo Rupp
+  - name: Todd Davis / Arthur Hart
+    actor: Fred Melamed
+  - name: Ralph Bohner / Pietro Maximoff
+    actor: Evan Peters
+  - name: Tyler Hayward
+    actor: Josh Stamberg
+  - name: Billy Maximoff
+    actor: Julian Hilliard
+  - name: Tommy Maximoff
+    actor: Jett Klyne
+episodes:
+  - name: Filmed Before a Live Studio Audience
+    description: >
+      Wanda and Vision try to blend into 1950s suburban life while preparing for an unexpected dinner with Vision's boss and his wife.
+    released: 2021-01-15
+    length: 30m
+    imdb: https://www.imdb.com/title/tt9601584
+    wikipedia: https://en.wikipedia.org/wiki/Filmed_Before_a_Live_Studio_Audience
+    directors: Matt Shakman
+    writers: Jac Schaeffer
+  - name: Don't Touch That Dial
+    description: >
+      Wanda and Vision rehearse a magic act for the neighborhood talent show as unusual sounds and vivid details disturb their black-and-white world.
+    released: 2021-01-15
+    length: 37m
+    imdb: https://www.imdb.com/title/tt10161310
+    wikipedia: https://en.wikipedia.org/wiki/Don%27t_Touch_That_Dial
+    directors: Matt Shakman
+    writers: Gretchen Enders
+  - name: Now in Color
+    description: >
+      In a 1970s-style sitcom setting, Wanda's rapidly changing pregnancy strains the couple's efforts to appear normal in Westview.
+    released: 2021-01-22
+    length: 33m
+    imdb: https://www.imdb.com/title/tt10161312
+    wikipedia: https://en.wikipedia.org/wiki/Now_in_Color
+    directors: Matt Shakman
+    writers: Megan McDonnell
+  - name: We Interrupt This Program
+    description: >
+      Monica Rambeau returns to S.W.O.R.D. duty and joins an investigation into a missing-persons case connected to Westview's strange broadcast.
+    released: 2021-01-29
+    length: 35m
+    imdb: https://www.imdb.com/title/tt10161316
+    wikipedia: https://en.wikipedia.org/wiki/We_Interrupt_This_Program
+    directors: Matt Shakman
+    writers:
+      - Bobak Esfarjani
+      - Megan McDonnell
+  - name: On a Very Special Episode...
+    description: >
+      Wanda and Vision raise their new family in a 1980s-inspired home while Vision grows more suspicious of the neighbors and the world around him.
+    released: 2021-02-05
+    length: 41m
+    imdb: https://www.imdb.com/title/tt10161318
+    wikipedia: https://en.wikipedia.org/wiki/On_a_Very_Special_Episode...
+    directors: Matt Shakman
+    writers:
+      - Peter Cameron
+      - Mackenzie Dohr
+  - name: All-New Halloween Spooktacular!
+    description: >
+      Halloween in Westview separates Wanda from Vision, who uses the neighborhood watch as cover to investigate the town's edge.
+    released: 2021-02-12
+    length: 38m
+    imdb: https://www.imdb.com/title/tt10161320
+    wikipedia: https://en.wikipedia.org/wiki/All-New_Halloween_Spooktacular%21
+    directors: Matt Shakman
+    writers:
+      - Chuck Hayward
+      - Peter Cameron
+  - name: Breaking the Fourth Wall
+    description: >
+      Wanda takes a day to herself as her home glitches between eras, while Monica and Vision each look for a way back into the center of the mystery.
+    released: 2021-02-19
+    length: 38m
+    imdb: https://www.imdb.com/title/tt13776690
+    wikipedia: https://en.wikipedia.org/wiki/Breaking_the_Fourth_Wall_(WandaVision)
+    directors: Matt Shakman
+    writers: Cameron Squires
+  - name: Previously On
+    description: >
+      Agatha pushes Wanda through painful memories to understand how Westview was created and why Wanda's magic has become so powerful.
+    released: 2021-02-26
+    length: 46m
+    imdb: https://www.imdb.com/title/tt13776714
+    wikipedia: https://en.wikipedia.org/wiki/Previously_On
+    directors: Matt Shakman
+    writers: Laura Donney
+  - name: The Series Finale
+    description: >
+      Agatha and S.W.O.R.D. force a final confrontation in Westview as Wanda, Vision, Monica, Billy, and Tommy face the reality around them.
+    released: 2021-03-05
+    length: 50m
+    imdb: https://www.imdb.com/title/tt13778978
+    wikipedia: https://en.wikipedia.org/wiki/The_Series_Finale
+    directors: Matt Shakman
+    writers: Jac Schaeffer

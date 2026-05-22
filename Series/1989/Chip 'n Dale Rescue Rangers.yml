@@ -1,0 +1,166 @@
+name: "Chip 'n Dale: Rescue Rangers"
+description: >
+  Chip and Dale run a small detective agency with Gadget Hackwrench, Monterey Jack, and Zipper, taking on animal-world cases that are too small for human police to notice.
+released: 1989-03-04
+rating: TV-Y7
+genres:
+  - animation
+  - adventure
+  - comedy
+  - mystery
+network: The Disney Channel
+wikipedia: https://en.wikipedia.org/wiki/Chip_%27n_Dale%3A_Rescue_Rangers_%28TV_series%29
+imdb: https://www.imdb.com/title/tt0096557
+tmdb: https://www.themoviedb.org/tv/1615-chip-n-dale-rescue-rangers/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/chip_n_dale_rescue_rangers/s01
+website: https://shows.disney.com/chip-n-dale-rescue-rangers
+disney_plus: https://www.disneyplus.com/series/chip-n-dales-rescue-rangers/3XQjKZ32LuES
+creators:
+  - Tad Stones
+  - Alan Zaslove
+directors:
+  - John Kimball
+  - Bob Zamboni
+writers:
+  - Mark Edens
+  - Tad Stones
+  - Bruce Talkington
+  - Dev Ross
+  - Buzz Dixon
+  - David Wise
+  - Julia J. Roberts
+  - Eric Lewald
+  - Linda Woolverton
+  - Somtow Sucharikul
+producers:
+  - Tad Stones
+  - Alan Zaslove
+characters:
+  - name: Chip
+    voice: Tress MacNeille
+  - name: Dale
+    voice: Corey Burton
+  - name: Monterey Jack
+    voice: Peter Cullen
+  - name: Gadget Hackwrench
+    voice: Tress MacNeille
+  - name: Zipper
+    voice: Corey Burton
+  - name: Fat Cat
+    voice: Jim Cummings
+  - name: Professor Norton Nimnul
+    voice: Jim Cummings
+episodes:
+  - name: Piratsy Under the Seas
+    description: The Rescue Rangers investigate a sunken pirate ship and a crew of pirate rats guarding a hidden cargo of gold.
+    released: 1989-03-04
+    length: 23m
+    writers: Mark Edens
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Catteries Not Included
+    description: A little girl asks the Rescue Rangers to find her missing kitten, leading them to Professor Nimnul's strange laboratory.
+    released: 1989-03-05
+    length: 23m
+    writers:
+      - Tad Stones
+      - Bruce Talkington
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Dale Beside Himself
+    description: Shape-changing aliens vacationing on Earth create trouble when one of them tries to stay behind by switching places with Dale.
+    released: 1989-03-12
+    length: 23m
+    writers: Dev Ross
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Flash the Wonder Dog
+    description: Fat Cat targets Dale's favorite television hero, forcing the Rangers to look behind the public image of Flash the Wonder Dog.
+    released: 1989-03-19
+    length: 23m
+    writers:
+      - Buzz Dixon
+      - David Wise
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Out to Launch
+    description: Chip and Dale become trapped in a spacesuit during a space-plane launch, leaving the other Rangers to improvise a rescue.
+    released: 1989-03-26
+    length: 23m
+    writers: Mark Edens
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Kiwi's Big Adventure
+    description: A tribe of kiwi birds takes the Ranger Plane, and Dale pretends to be injured while the team tries to recover it.
+    released: 1989-04-02
+    length: 23m
+    writers: Julia J. Roberts
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Adventures in Squirrelsitting
+    description: After a mission disrupts a squirrel family's home, the Rangers look after two young squirrels while tracking a stolen statuette.
+    released: 1989-04-09
+    length: 23m
+    writers:
+      - Dev Ross
+      - Tad Stones
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Pound of the Baskervilles
+    description: MacDuff asks the Rangers to find a missing will that can prove his master's claim to an old family mansion.
+    released: 1989-04-16
+    length: 23m
+    writers: Eric Lewald
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Risky Beesness
+    description: A scientist with rock-star ambitions uses bees in a scheme, drawing Zipper and the Rangers into the hive's problem.
+    released: 1989-04-23
+    length: 23m
+    writers:
+      - Tad Stones
+      - David Wise
+      - Linda Woolverton
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Three Men and a Booby
+    description: The Rangers help a mother booby bird recover her egg from a collector determined to add it to his collection.
+    released: 1989-04-30
+    length: 23m
+    writers: Eric Lewald
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: The Carpetsnaggers
+    description: The Rangers investigate a wave of robberies involving flying carpets controlled by Professor Nimnul.
+    released: 1989-05-07
+    length: 23m
+    writers: Somtow Sucharikul
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Bearing Up Baby
+    description: During a camping trip, the Rangers watch over a young child while Humphrey the Bear tries to help.
+    released: 1989-05-14
+    length: 23m
+    writers: Dev Ross
+    directors:
+      - John Kimball
+      - Bob Zamboni
+  - name: Parental Discretion Retired
+    description: Monterey Jack's father visits and tries to help the Rangers stop Fat Cat, but his impulsive approach complicates the case.
+    released: 1989-05-21
+    length: 23m
+    writers: Mark Edens
+    directors:
+      - John Kimball
+      - Bob Zamboni

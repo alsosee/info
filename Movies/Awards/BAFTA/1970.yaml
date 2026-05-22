@@ -1,0 +1,66 @@
+title: BAFTA 1970
+website: https://awards.bafta.org/award/1970/film
+categories:
+    - name: Actor
+      winner:
+        movie: Dustin Hoffman
+    - name: Actress
+      winner:
+        movie: Maggie Smith
+    - name: Animated Film
+      winner:
+        movie: Category not awarded this year
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Z
+    - name: Art Direction
+      winner:
+        movie: Oh! What A Lovely War
+    - name: Cinematography
+      winner:
+        movie: Oh! What A Lovely War
+    - name: Costume Design
+      winner:
+        movie: Oh! What A Lovely War
+        constumedesign:
+            - Anthony Mendleson
+    - name: Direction
+      winner:
+        movie: Midnight Cowboy
+    - name: Editing
+      winner:
+        movie: Midnight Cowboy
+        editors:
+            - Hugh A Robertson
+    - name: Film
+      winner:
+        movie: Midnight Cowboy
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Jon Voight
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Prologue
+    - name: Screenplay
+      winner:
+        movie: Midnight Cowboy
+    - name: Short Film
+      winner:
+        movie: Picture To Post
+    - name: Soundtrack
+      winner:
+        movie: Oh! What A Lovely War
+    - name: Specialised Film
+      winner:
+        movie: Let There Be Light
+    - name: Supporting Actor
+      winner:
+        movie: Oh! What A Lovely War
+        actor: Laurence Olivier
+    - name: Supporting Actress
+      winner:
+        movie: The Prime Of Miss Jean Brodie
+        actor: Celia Johnson
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: Oh! What A Lovely War

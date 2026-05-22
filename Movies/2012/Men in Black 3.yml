@@ -1,0 +1,46 @@
+name: Men in Black 3
+description: >
+  Agent J travels back in time to 1969 to prevent the alien criminal Boris the Animal
+  from assassinating his partner Agent K and altering history, threatening Earth with
+  an alien invasion.
+previous: Movies/2002/Men in Black II
+released: 2012-05-25
+rating: PG-13
+length: 1h46m
+genres:
+  - science fiction
+  - action
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Men_in_Black_3
+imdb: https://www.imdb.com/title/tt1409024
+tmdb: https://www.themoviedb.org/movie/41154-men-in-black-3
+rotten_tomatoes: https://www.rottentomatoes.com/m/men_in_black_3
+metacritic: https://www.metacritic.com/movie/men-in-black-3
+directors: Barry Sonnenfeld
+screenplay: Etan Cohen
+producers:
+  - Walter F. Parkes
+  - Laurie MacDonald
+music: Danny Elfman
+cinematography: Bill Pope
+editors: Don Zimmerman
+production:
+  - Columbia Pictures
+  - Amblin Entertainment
+  - Parkes+MacDonald Image Nation
+distributors: Sony Pictures Releasing
+characters:
+  - name: James Darrell Edwards III / Agent J
+    actor: Will Smith
+  - name: Kevin Brown / Agent K
+    actor: Tommy Lee Jones
+  - name: Agent K (1969)
+    actor: Josh Brolin
+  - name: Boris the Animal
+    actor: Jemaine Clement
+  - name: Agent O
+    actor: Emma Thompson
+  - name: Griffin
+    actor: Michael Stuhlbarg
+  - name: Colonel James Darrell Edwards Jr.
+    actor: Mike Colter

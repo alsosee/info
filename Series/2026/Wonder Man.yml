@@ -16,6 +16,8 @@ network: Disney+
 wikipedia: https://en.wikipedia.org/wiki/Wonder_Man_(TV_series)
 imdb: https://www.imdb.com/title/tt21063604
 tmdb: https://www.themoviedb.org/tv/205634-wonder-man
+rotten_tomatoes: https://www.rottentomatoes.com/tv/wonder_man/s01
+metacritic: https://www.metacritic.com/tv/wonder-man/
 creators:
   - Destin Daniel Cretton
   - Andrew Guest
@@ -33,6 +35,10 @@ writers:
   - Roja Gashtili
   - Julia Lerman
   - Kira Talise
+music: Joel P. West
+cinematography:
+  - Brett Pawlak
+  - Armando Salas
 characters:
   - name: Simon Williams
     actor: Yahya Abdul-Mateen II

@@ -1,0 +1,64 @@
+title: BAFTA 1973
+website: https://awards.bafta.org/award/1973/film
+categories:
+    - name: Actor
+      winner:
+        movie: Gene Hackman
+    - name: Actress
+      winner:
+        movie: Liza Minnelli
+    - name: Animated Film
+      winner:
+        movie: Category not awarded this year
+    - name: Anthony Asquith Memorial Award
+      winner:
+        movie: The Godfather
+    - name: Art Direction
+      winner:
+        movie: Cabaret
+    - name: Cinematography
+      winner:
+        movie: Cabaret/Alice's Adventures In Wonderland
+    - name: Costume Design
+      winner:
+        movie: Young Winston/Macbeth/Alice's Adventures In Wonderland
+        constumedesign:
+            - Anthony Mendleson
+    - name: Direction
+      winner:
+        movie: Cabaret
+    - name: Film
+      winner:
+        movie: Cabaret
+    - name: Film Editing
+      winner:
+        movie: The French Connection
+    - name: John Grierson Award (Short Film)
+      winner:
+        movie: Memorial
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Joel Grey
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Category not awarded this year
+    - name: Screenplay
+      winner:
+        movie: The Hospital
+    - name: Soundtrack
+      winner:
+        movie: Cabaret
+    - name: Specialised Film
+      winner:
+        movie: Cutting Oils And Fluids
+    - name: Supporting Actor
+      winner:
+        movie: The Last Picture Show
+        actor: Ben Johnson
+    - name: Supporting Actress
+      winner:
+        movie: The Last Picture Show
+        actor: Cloris Leachman
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: The Garden Of The Finzi-Continis (Il Giardino Dei Finzi-Contini)

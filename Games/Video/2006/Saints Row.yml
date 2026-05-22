@@ -1,0 +1,49 @@
+name: Saints Row
+description: >
+  An open-world action-adventure game set in Stilwater, where a player-created
+  character joins the 3rd Street Saints and helps the gang fight rival criminal
+  syndicates for control of the city.
+released: 2006-08-29
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Saints_Row_(2006_video_game)
+metacritic: https://www.metacritic.com/game/saints-row-2006/
+fandom: https://saintsrow.wiki/wiki/Saints_Row
+ign: https://www.ign.com/articles/2006/08/29/saints-row-review
+website: http://www.saintsrow.com
+xbox: https://www.xbox.com/en-US/games/store/saints-row/brkb6h11mbds
+developers: Volition
+publishers: THQ
+designers: Chris Stockman
+writers: Steve Jaros
+characters:
+  - name: Playa
+    actor: Kenny Blank
+      # - Joe Camareno
+      # - Andrew Kishino
+  - name: Julius Little
+    actor: Keith David
+  - name: Johnny Gat
+    actor: Daniel Dae Kim
+  - name: Troy Bradshaw
+    actor: Michael Rapaport
+  - name: Dexter "Dex" Jackson
+    actor: JAQ
+  - name: Lin
+    actor: Tia Carrere
+  - name: Aisha
+    actor: Sy Smith
+  - name: Benjamin King
+    actor: Michael Clarke Duncan
+  - name: Tanya Winters
+    actor: Mila Kunis
+  - name: Hector Lopez
+    actor: Joaquim de Almeida
+  - name: Angelo Lopez
+    actor: Freddy Rodriguez
+  - name: Manuel Orejuela
+    actor: Carlos Ferro
+  - name: William Sharp
+    actor: David Carradine
+  - name: Richard Hughes
+    actor: Clancy Brown

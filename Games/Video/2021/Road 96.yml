@@ -1,0 +1,53 @@
+name: Road 96
+description: >
+  Road 96 is a narrative-driven adventure game set in the summer of 1996 in the fictional authoritarian nation of Petria. Players control several nameless teenagers attempting to flee the country by reaching the northern border, making choices that influence both their own fate and the outcome of a national election.
+genres:
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Road_96
+imdb: https://www.imdb.com/title/tt13626414
+igdb: https://www.igdb.com/games/road-96
+website: https://www.road96.com/
+steam: https://store.steampowered.com/app/1466640/Road_96
+gog: https://www.gog.com/game/road_96
+epic: https://www.epicgames.com/store/en-US/p/road-96
+trailer: https://www.youtube.com/watch?v=ntT6XpS_0_8
+released: 2021-08-16
+engine: Unity
+developers: DigixArt
+publishers:
+  - DigixArt
+  - Plug In Digital
+  - Ravenscourt
+directors: Yoan Fanise
+designers:
+  - Tristan Hilare
+  - François Rizzo
+  - Benoit Villain
+composers:
+  - The Toxic Avenger
+  - Cocoon
+  - Robert Parker
+  - Daniel Gadd
+  - Volkor X
+  - Kalax
+  - Alexis Laugier
+  - S U R V I V E
+spotify: https://open.spotify.com/album/5UPJ1PGNMdwSMvYewKQjXp
+apple_music: https://music.apple.com/us/album/road-96-original-game-soundtrack/1578644444
+characters:
+  - name: Zoe Muller
+    voice: Emily Van Bel
+  - name: John Ursus
+    voice: Mark Kaczmarek
+  - name: Fanny Campbell
+    voice: Adi Alfa
+  - name: Alex Campbell
+    voice: Angela LeBlanc
+  - name: Stan Sanchez
+    voice: Matthew Vanston
+  - name: Mitch Sanchez
+    voice: Christian Starr Lassen
+  - name: Sonya Sanchez
+    voice: Mirabelle Kirkland
+  - name: Jarod Thompson
+    voice: Mikee W. Goodman

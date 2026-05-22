@@ -1,0 +1,85 @@
+title: Oscar 2022
+wikipedia: https://en.wikipedia.org/wiki/94th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2022
+imdb: https://www.imdb.com/event/ev0000003/2022/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Will Smith
+      movie: King Richard
+  - name: Actor in a supporting role
+    winner:
+      actor: Troy Kotsur
+      movie: CODA
+  - name: Actress in a leading role
+    winner:
+      actor: Jessica Chastain
+      movie: The Eyes of Tammy Faye
+  - name: Actress in a supporting role
+    winner:
+      actor: Ariana DeBose
+      movie: West Side Story
+  - name: Animated feature film
+    winner:
+      movie: Encanto
+  - name: Cinematography
+    winner:
+      movie: Dune
+      cinematography: Greig Fraser
+  - name: Costume Design
+    winner:
+      movie: Cruella
+  - name: Directing
+    winner:
+      movie: The Power of the Dog
+      directors: Jane Campion
+  - name: Documentary Feature Film
+    winner:
+      movie: "Summer of Soul (...Or, When the Revolution Could Not Be Televised)"
+  - name: Documentary Short Subject
+    winner:
+      movie: The Queen of Basketball
+  - name: Film Editing
+    winner:
+      movie: Dune
+      editors: Joe Walker
+  - name: International Feature Film
+    winner:
+      movie: Drive My Car
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Eyes of Tammy Faye
+  - name: Music (Original Score)
+    winner:
+      movie: Dune
+      music: Hans Zimmer
+  - name: Music (Original Song)
+    winner:
+      movie: No Time to Die
+      track: No Time to Die
+  - name: Best Picture
+    winner:
+      movie: CODA
+  - name: Production Design
+    winner:
+      movie: Dune
+  - name: Short Film (Animated)
+    winner:
+      movie: The Windshield Wiper
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Long Goodbye
+  - name: Sound
+    winner:
+      movie: Dune
+  - name: Visual Effects
+    winner:
+      movie: Dune
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: CODA
+      writers: Sian Heder
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Belfast
+      writers: Kenneth Branagh

@@ -1,0 +1,40 @@
+name: Forrest Gump
+description: >
+  A slow-witted but kind-hearted Alabama man unwittingly becomes a witness and participant in
+  defining events of 20th-century American history, from the Vietnam War to the Watergate scandal,
+  while remaining devoted to his childhood love.
+based_on: Books/1986/Forrest Gump
+released: 1994-07-06
+rating: PG-13
+length: 2h22m
+genres:
+  - comedy
+  - drama
+  - romance
+wikipedia: https://en.wikipedia.org/wiki/Forrest_Gump
+imdb: https://www.imdb.com/title/tt0109830
+tmdb: https://www.themoviedb.org/movie/13-forrest-gump
+directors: Robert Zemeckis
+screenplay: Eric Roth
+producers:
+  - Wendy Finerman
+  - Steve Tisch
+  - Steve Starkey
+music: Alan Silvestri
+cinematography: Don Burgess
+editors: Arthur Schmidt
+production: The Tisch Company
+distributors: Paramount Pictures
+characters:
+  - name: Forrest Gump
+    actor: Tom Hanks
+  - name: Jenny Curran
+    actor: Robin Wright
+  - name: Lieutenant Dan Taylor
+    actor: Gary Sinise
+  - name: Bubba Blue
+    actor: Mykelti Williamson
+  - name: Mrs. Gump
+    actor: Sally Field
+  - name: Forrest Gump Jr.
+    actor: Haley Joel Osment

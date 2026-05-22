@@ -1,0 +1,38 @@
+name: Wolfenstein
+description: >
+  A first-person shooter in which OSA agent B.J. Blazkowicz investigates Nazi
+  occult experiments in the fictional town of Isenstadt, using the Thule
+  Medallion and its Veil powers against supernatural weapons research.
+released: 2009-08-18
+genres:
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Wolfenstein_(2009_video_game)
+metacritic: https://www.metacritic.com/game/wolfenstein/
+fandom: https://wolfenstein.fandom.com/wiki/Wolfenstein
+ign: https://www.ign.com/games/wolfenstein
+developers:
+  - Raven Software
+  - Pi Studios
+  - Endrant Studios
+publishers: Activision
+directors: Eric C. Biessman
+designers:
+  - Charlie Bernstein
+  - Mike Crowns
+writers: Jason Henderson
+composers: Bill Brown
+characters:
+  - name: William "B.J." Blazkowicz
+    actor: Peter D. Jessop
+  - name: Caroline Becker
+    actor: Anna Graves
+  - name: Wilhelm "Deathshead" Strasse
+    actor: Robin Atkin Downes
+  - name: Viktor Zetta
+    actor: Jack Angel
+  - name: Hans Grosse
+    actor: Kyle Hebert
+  - name: Sergei Kovlov
+    actor: Boris Kievsky
+  - name: Dr. Leonid Alexandrov
+    actor: Tom Kane

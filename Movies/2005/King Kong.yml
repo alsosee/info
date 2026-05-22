@@ -1,0 +1,56 @@
+name: "King Kong"
+description: >
+  In 1933, an ambitious filmmaker leads his cast and crew to the mysterious Skull Island.
+  There they discover a legendary giant gorilla, who becomes obsessed with the film's leading lady and is eventually captured and brought to New York City, leading to a tragic showdown atop the Empire State Building.
+based_on: Movies/1933/King Kong
+released: 2005-12-14
+rating: PG-13
+length: 3h7m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/King_Kong_(2005_film)
+imdb: https://www.imdb.com/title/tt0360717
+tmdb: https://www.themoviedb.org/movie/254-king-kong
+rotten_tomatoes: https://www.rottentomatoes.com/m/king_kong
+metacritic: https://www.metacritic.com/movie/king-kong
+trailer: https://www.youtube.com/watch?v=26U_S86S-y8
+directors: Peter Jackson
+screenplay:
+  - Fran Walsh
+  - Philippa Boyens
+  - Peter Jackson
+producers:
+  - Jan Blenkin
+  - Carolynne Cunningham
+  - Fran Walsh
+  - Peter Jackson
+music: James Newton Howard
+cinematography: Andrew Lesnie
+editors: Jamie Selkirk
+production:
+  - Universal Pictures
+  - WingNut Films
+distributors: Universal Pictures
+characters:
+  - name: Ann Darrow
+    actor: Naomi Watts
+  - name: Carl Denham
+    actor: Jack Black
+  - name: Jack Driscoll
+    actor: Adrien Brody
+  - name: Captain Englehorn
+    actor: Thomas Kretschmann
+  - name: Preston
+    actor: Colin Hanks
+  - name: Jimmy
+    actor: Jamie Bell
+  - name: Kong
+    actor: Andy Serkis
+  - name: Lumpy
+    actor: Andy Serkis
+  - name: Benjamin "Ben" Hayes
+    actor: Evan Parke
+  - name: Bruce Baxter
+    actor: Kyle Chandler

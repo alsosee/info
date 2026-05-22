@@ -1,0 +1,83 @@
+title: BAFTA 1998
+website: https://awards.bafta.org/award/1998/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Mark Stetson, Karen E Goulekas, Nick Allder, Neil Corbould, Nick Dudman
+    - name: Actor in a Leading Role
+      winner:
+        movie: Robert Carlyle
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Tom Wilkinson
+    - name: Actress in a Leading Role
+      winner:
+        movie: Judi Dench
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Sigourney Weaver
+    - name: Adapted Screenplay
+      winner:
+        movie: William Shakespeare's Romeo And Juliet
+        screenplay:
+            - Craig Pearce, Baz Luhrmann
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: Nil By Mouth
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: William Shakespeare's Romeo And Juliet
+    - name: Cinematography
+      winner:
+        movie: The Wings Of The Dove
+    - name: Costume Design
+      winner:
+        movie: Mrs Brown
+        constumedesign:
+            - Deirdre Clancy
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: William Shakespeare's Romeo And Juliet
+    - name: Editing
+      winner:
+        movie: LA Confidential
+        editors:
+            - Peter Honess
+    - name: Fellowship
+      winner:
+        person: Sean Connery
+    - name: Film
+      winner:
+        movie: The Full Monty
+    - name: Film Not in the English Language
+      winner:
+        movie: The Apartment (L'Appartement)
+    - name: Make-Up And Hair
+      winner:
+        movie: The Wings Of The Dove
+    - name: Orange Film Of The Year
+      winner:
+        movie: The Full Monty
+    - name: Original Screenplay
+      winner:
+        movie: Nil By Mouth
+        screenplay:
+            - Gary Oldman
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Michael Roberts
+    - name: Production Design
+      winner:
+        movie: William Shakespeare's Romeo And Juliet
+    - name: Short Animation
+      winner:
+        movie: Stage Fright
+    - name: Short Film
+      winner:
+        movie: The Deadness Of Dad
+    - name: Sound
+      winner:
+        movie: LA Confidential
+    - name: Special Award
+      winner:
+        movie: Cornel Lucas

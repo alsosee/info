@@ -1,0 +1,39 @@
+title: BAFTA 1958
+website: https://awards.bafta.org/award/1958/film
+categories:
+    - name: Animated Film
+      winner:
+        movie: Pan-Tele-Tron
+    - name: British Actor
+      winner:
+        movie: Alec Guinness
+    - name: British Actress
+      winner:
+        movie: Heather Sears
+    - name: British Film
+      winner:
+        movie: The Bridge On The River Kwai
+    - name: British Screenplay
+      winner:
+        movie: The Bridge On The River Kwai
+    - name: Documentary
+      winner:
+        movie: Journey Into Spring
+    - name: Film From Any Source
+      winner:
+        movie: The Bridge On The River Kwai
+    - name: Foreign Actor
+      winner:
+        movie: Henry Fonda
+    - name: Foreign Actress
+      winner:
+        movie: Simone Signoret
+    - name: Most Promising Newcomer To Film
+      winner:
+        movie: Eric Barker
+    - name: Special Award
+      winner:
+        movie: A Chairy Tale
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: The Happy Road (La Route Joyeuse)

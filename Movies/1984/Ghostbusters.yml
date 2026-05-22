@@ -1,0 +1,52 @@
+name: Ghostbusters
+description: >
+  Three eccentric parapsychologists start a ghost-catching business in New York City after being fired from their university positions.
+  They develop high-tech nuclear-powered equipment to capture and contain ghosts, eventually facing an apocalyptic threat from the shapeshifting god Gozer.
+released: 1984-06-08
+rating: PG
+length: 1h45m
+genres:
+  - supernatural comedy
+  - science fiction comedy
+wikipedia: https://en.wikipedia.org/wiki/Ghostbusters_(1984_film)
+imdb: https://www.imdb.com/title/tt0087332
+tmdb: https://www.themoviedb.org/movie/620-ghostbusters
+rotten_tomatoes: https://www.rottentomatoes.com/m/ghostbusters
+metacritic: https://www.metacritic.com/movie/ghostbusters
+trailer: https://www.youtube.com/watch?v=6hDkhw5Wkas
+directors: Ivan Reitman
+producers: Ivan Reitman
+screenplay:
+  - Dan Aykroyd
+  - Harold Ramis
+music: Elmer Bernstein
+cinematography: László Kovács
+editors:
+  - David E. Blewitt
+  - Sheldon Kahn
+production:
+  - Columbia-Delphi Productions
+  - Black Rhino
+distributors: Columbia Pictures
+characters:
+  - name: Peter Venkman
+    actor: Bill Murray
+  - name: Ray Stantz
+    actor: Dan Aykroyd
+  - name: Dana Barrett
+    actor: Sigourney Weaver
+  - name: Egon Spengler
+    actor: Harold Ramis
+  - name: Louis Tully
+    actor: Rick Moranis
+  - name: Janine Melnitz
+    actor: Annie Potts
+  - name: Walter Peck
+    actor: William Atherton
+  - name: Winston Zeddemore
+    actor: Ernie Hudson
+  - name: Gozer
+    actor: Slavitza Jovan
+    voice: Paddi Edwards
+  - name: Slimer
+    voice: Ivan Reitman

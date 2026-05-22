@@ -1,0 +1,109 @@
+title: Oscar 1995
+wikipedia: https://en.wikipedia.org/wiki/67th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1995
+imdb: https://www.imdb.com/event/ev0000003/1995/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Tom Hanks
+      movie: Forrest Gump
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Martin Landau
+      movie: Ed Wood
+
+  - name: Actress in a leading role
+    winner:
+      actor: Jessica Lange
+      movie: Blue Sky
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Dianne Wiest
+      movie: Bullets Over Broadway
+
+  - name: Art Direction
+    winner:
+      movie: The Madness of King George
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Burnt by the Sun
+
+  - name: Cinematography
+    winner:
+      movie: Legends of the Fall
+      cinematography: John Toll
+
+  - name: Costume Design
+    winner:
+      movie: The Adventures of Priscilla, Queen of the Desert
+
+  - name: Directing
+    winner:
+      movie: Forrest Gump
+      directors: Robert Zemeckis
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Maya Lin: A Strong Clear Vision"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: A Time for Justice
+
+  - name: Film Editing
+    winner:
+      movie: Forrest Gump
+      editors: Arthur Schmidt
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Ed Wood
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Lion King
+      music: Hans Zimmer
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Lion King
+      track: Can You Feel the Love Tonight
+
+  - name: Best Picture
+    winner:
+      movie: Forrest Gump
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Bob's Birthday
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Franz Kafka's It's a Wonderful Life
+
+  - name: Sound
+    winner:
+      movie: Speed
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Speed
+
+  - name: Visual Effects
+    winner:
+      movie: Forrest Gump
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Forrest Gump
+      writers: Eric Roth
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Pulp Fiction
+      writers:
+        - Quentin Tarantino
+        - Roger Avary

@@ -1,0 +1,119 @@
+title: Oscar 1944
+wikipedia: https://en.wikipedia.org/wiki/16th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1944
+imdb: https://www.imdb.com/event/ev0000003/1944/1
+categories:
+  - name: Outstanding Motion Picture
+    winner:
+      movie: Casablanca
+
+  - name: Best Directing
+    winner:
+      movie: Casablanca
+      directors: Michael Curtiz
+
+  - name: Best Actor
+    winner:
+      actor: Paul Lukas
+      movie: Watch on the Rhine
+
+  - name: Best Actress
+    winner:
+      actor: Jennifer Jones
+      movie: The Song of Bernadette
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Charles Coburn
+      movie: The More the Merrier
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Katina Paxinou
+      movie: For Whom the Bell Tolls
+
+  - name: Writing (Original Motion Picture Story)
+    winner:
+      movie: The Human Comedy
+      writers: William Saroyan
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Princess O'Rourke
+      writers: Norman Krasna
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: Casablanca
+      writers:
+        - Julius J. Epstein
+        - Philip G. Epstein
+        - Howard Koch
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: Desert Victory
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: December 7th
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Amphibious Fighters
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Heavenly Music
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Yankee Doodle Mouse
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: The Song of Bernadette
+      music: Alfred Newman
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: This Is the Army
+      music: Ray Heindorf
+
+  - name: Best Music (Song)
+    winner:
+      movie: Hello, Frisco, Hello
+      track: You'll Never Know
+
+  - name: Best Sound Recording
+    winner:
+      movie: This Land Is Mine
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: The Song of Bernadette
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Phantom of the Opera
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: The Song of Bernadette
+      cinematography: Arthur C. Miller
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Phantom of the Opera
+      cinematography:
+        - Hal Mohr
+        - W. Howard Greene
+
+  - name: Best Film Editing
+    winner:
+      movie: Air Force
+      editors: George Amy
+
+  - name: Best Special Effects
+    winner:
+      movie: Crash Dive

@@ -1,0 +1,125 @@
+title: Oscar 1962
+wikipedia: https://en.wikipedia.org/wiki/34th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1962
+imdb: https://www.imdb.com/event/ev0000003/1962/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: West Side Story
+
+  - name: Directing
+    winner:
+      movie: West Side Story
+      directors:
+        - Robert Wise
+        - Jerome Robbins
+
+  - name: Actor in a leading role
+    winner:
+      actor: Maximilian Schell
+      movie: Judgment at Nuremberg
+
+  - name: Actress in a leading role
+    winner:
+      actor: Sophia Loren
+      movie: Two Women
+
+  - name: Actor in a supporting role
+    winner:
+      actor: George Chakiris
+      movie: West Side Story
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Rita Moreno
+      movie: West Side Story
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Splendor in the Grass
+      writers: William Inge
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Judgment at Nuremberg
+      writers: Abby Mann
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Through a Glass Darkly
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Sky Above and Mud Beneath
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Project Hope
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Seawards the Great Ships
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Surogat
+
+  - name: Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Breakfast at Tiffany's
+      music: Henry Mancini
+
+  - name: Music (Scoring of a Musical Picture)
+    winner:
+      movie: West Side Story
+      music:
+        - Saul Chaplin
+        - Johnny Green
+        - Sid Ramin
+        - Irwin Kostal
+
+  - name: Music (Original Song)
+    winner:
+      movie: Breakfast at Tiffany's
+      track: Moon River
+
+  - name: Sound
+    winner:
+      movie: West Side Story
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: The Hustler
+
+  - name: Art Direction (Color)
+    winner:
+      movie: West Side Story
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: The Hustler
+      cinematography: Eugen Schüfftan
+
+  - name: Cinematography (Color)
+    winner:
+      movie: West Side Story
+      cinematography: Daniel L. Fapp
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: La Dolce Vita
+      costume_design: Piero Gherardi
+
+  - name: Costume Design (Color)
+    winner:
+      movie: West Side Story
+      costume_design: Irene Sharaff
+
+  - name: Film Editing
+    winner:
+      movie: West Side Story
+      editors: Thomas Stanford
+
+  - name: Visual Effects
+    winner:
+      movie: The Guns of Navarone

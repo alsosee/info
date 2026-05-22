@@ -1,0 +1,198 @@
+name: "Avatar: The Last Airbender"
+subtitle: "Book One: Water"
+description: >
+  In a war-torn world of elemental magic, a young boy named Aang awakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar and bring peace to the nations.
+released: 2005-02-21
+rating: TV-Y7
+genres:
+  - animation
+  - action
+  - adventure
+  - fantasy
+network: Nickelodeon
+wikipedia: https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_season_1
+imdb: https://www.imdb.com/title/tt0417299
+tmdb: https://www.themoviedb.org/tv/246-avatar-the-last-airbender/season/1
+creators:
+  - Michael Dante DiMartino
+  - Bryan Konietzko
+writers:
+  - Aaron Ehasz
+  - Elizabeth Welch
+  - Ian Wilcox
+  - James Eagan
+  - John O'Bryan
+  - Matthew Hubbard
+  - Michael Dante DiMartino
+  - Nick Malis
+directors:
+  - Anthony Lioi
+  - Dave Filoni
+  - Giancarlo Volpe
+  - Lauren MacMullan
+characters:
+  - name: Aang
+    voice: Zach Tyler Eisen
+  - name: Katara
+    voice: Mae Whitman
+  - name: Sokka
+    voice: Jack DeSena
+  - name: Zuko
+    voice: Dante Basco
+  - name: Iroh
+    voice: Mako
+  - name: Appa
+    voice: Dee Bradley Baker
+  - name: Momo
+    voice: Dee Bradley Baker
+  - name: Admiral Zhao
+    voice: Jason Isaacs
+episodes:
+  - name: "The Boy in the Iceberg"
+    description: Katara and Sokka discover Aang, a young airbender frozen in an iceberg for a hundred years.
+    released: 2005-02-21
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Boy_in_the_Iceberg
+    directors: Dave Filoni
+    writers:
+      - Michael Dante DiMartino
+      - Bryan Konietzko
+  - name: "The Avatar Returns"
+    description: Aang surrenders to Zuko to save the Southern Water Tribe, but Katara and Sokka set out to rescue him.
+    released: 2005-02-21
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Avatar_Returns
+    directors: Dave Filoni
+    writers:
+      - Michael Dante DiMartino
+      - Bryan Konietzko
+  - name: "The Southern Air Temple"
+    description: Aang returns to his home and learns the devastating truth about the fate of the Air Nomads.
+    released: 2005-02-25
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Southern_Air_Temple
+    directors: Lauren MacMullan
+    writers: Michael Dante DiMartino
+  - name: "The Warriors of Kyoshi"
+    description: The group visits Kyoshi Island, where Aang's presence attracts unwanted attention from the Fire Nation.
+    released: 2005-03-04
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Warriors_of_Kyoshi
+    directors: Giancarlo Volpe
+    writers: Nick Malis
+  - name: "The King of Omashu"
+    description: Aang must pass three deadly challenges set by an eccentric king to save his friends.
+    released: 2005-03-18
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_King_of_Omashu
+    directors: Anthony Lioi
+    writers: John O'Bryan
+  - name: "Imprisoned"
+    description: Katara inspires a group of imprisoned earthbenders to rebel against their Fire Nation captors.
+    released: 2005-03-25
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/Imprisoned_(Avatar:_The_Last_Airbender)
+    directors: Dave Filoni
+    writers: Matthew Hubbard
+  - name: "The Spirit World (Winter Solstice, Part 1)"
+    description: Aang enters the spirit world to save a village from a rampaging spirit.
+    released: 2005-04-08
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Spirit_World_(Avatar:_The_Last_Airbender)
+    directors: Lauren MacMullan
+    writers: Aaron Ehasz
+  - name: "Avatar Roku (Winter Solstice, Part 2)"
+    description: Aang must reach a Fire Nation temple to receive a message from his predecessor, Avatar Roku.
+    released: 2005-04-15
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/Avatar_Roku_(Avatar:_The_Last_Airbender)
+    directors: Giancarlo Volpe
+    writers: Michael Dante DiMartino
+  - name: "The Waterbending Scroll"
+    description: Katara's desire to learn waterbending leads her to steal a valuable scroll from a group of pirates.
+    released: 2005-04-29
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Waterbending_Scroll
+    directors: Anthony Lioi
+    writers: John O'Bryan
+  - name: "Jet"
+    description: The group meets a charismatic rebel leader whose methods for fighting the Fire Nation are morally questionable.
+    released: 2005-05-06
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/Jet_(Avatar:_The_Last_Airbender)
+    directors: Dave Filoni
+    writers: James Eagan
+  - name: "The Great Divide"
+    description: Aang must mediate a century-old feud between two tribes while crossing a massive canyon.
+    released: 2005-05-20
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Great_Divide_(Avatar:_The_Last_Airbender)
+    directors: Giancarlo Volpe
+    writers: John O'Bryan
+  - name: "The Storm"
+    description: A powerful storm forces both Aang and Zuko to confront their painful pasts.
+    released: 2005-06-03
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Storm_(Avatar:_The_Last_Airbender)
+    directors: Lauren MacMullan
+    writers: Aaron Ehasz
+  - name: "The Blue Spirit"
+    description: After being captured by Admiral Zhao, Aang is rescued by a mysterious masked swordsman.
+    released: 2005-06-17
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Blue_Spirit
+    directors: Dave Filoni
+    writers:
+      - Michael Dante DiMartino
+      - Bryan Konietzko
+  - name: "The Fortuneteller"
+    description: The group visits a village that relies entirely on a fortuneteller's predictions, even in the face of disaster.
+    released: 2005-09-23
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Fortuneteller_(Avatar:_The_Last_Airbender)
+    directors: Dave Filoni
+    writers:
+      - Aaron Ehasz
+      - John O'Bryan
+  - name: "Bato of the Water Tribe"
+    description: Sokka and Katara find an old friend of their father, making Aang feel insecure about his place in the group.
+    released: 2005-10-07
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/Bato_of_the_Water_Tribe
+    directors: Giancarlo Volpe
+    writers: Ian Wilcox
+  - name: "The Deserter"
+    description: Aang attempts to learn firebending from a legendary master who has deserted the Fire Nation army.
+    released: 2005-10-21
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Deserter_(Avatar:_The_Last_Airbender)
+    directors: Lauren MacMullan
+    writers: Tim Hedrick
+  - name: "The Northern Air Temple"
+    description: Aang is disappointed to find that the residents of the Northern Air Temple are not airbenders, but inventors.
+    released: 2005-11-04
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Northern_Air_Temple
+    directors: Dave Filoni
+    writers: Elizabeth Welch
+  - name: "The Waterbending Master"
+    description: The group reaches the Northern Water Tribe, where Aang and Katara seek a master to teach them waterbending.
+    released: 2005-11-18
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Waterbending_Master
+    directors: Giancarlo Volpe
+    writers: Michael Dante DiMartino
+  - name: "The Siege of the North, Part 1"
+    description: Admiral Zhao launches a massive invasion of the Northern Water Tribe as the moon nears its peak.
+    released: 2005-12-02
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Siege_of_the_North
+    directors: Lauren MacMullan
+    writers: John O'Bryan
+  - name: "The Siege of the North, Part 2"
+    description: As the battle for the North Pole reaches its climax, Aang must enter the spirit world to save the moon spirit.
+    released: 2005-12-02
+    length: 23m
+    wikipedia: https://en.wikipedia.org/wiki/The_Siege_of_the_North
+    directors: Dave Filoni
+    writers: Aaron Ehasz

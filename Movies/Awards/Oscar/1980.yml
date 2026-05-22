@@ -1,0 +1,105 @@
+title: Oscar 1980
+wikipedia: https://en.wikipedia.org/wiki/52nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1980
+imdb: https://www.imdb.com/event/ev0000003/1980/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Dustin Hoffman
+      movie: Kramer vs. Kramer
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Melvyn Douglas
+      movie: Being There
+
+  - name: Actress in a leading role
+    winner:
+      actor: Sally Field
+      movie: Norma Rae
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Meryl Streep
+      movie: Kramer vs. Kramer
+
+  - name: Art Direction
+    winner:
+      movie: All That Jazz
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Tin Drum
+
+  - name: Cinematography
+    winner:
+      movie: Apocalypse Now
+      cinematography: Vittorio Storaro
+
+  - name: Costume Design
+    winner:
+      movie: All That Jazz
+      costume_design: Albert Wolsky
+
+  - name: Directing
+    winner:
+      movie: Kramer vs. Kramer
+      directors: Robert Benton
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Best Boy
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Paul Robeson: Tribute to an Artist"
+
+  - name: Film Editing
+    winner:
+      movie: All That Jazz
+      editors: Alan Heim
+
+  - name: Music (Original Score)
+    winner:
+      movie: A Little Romance
+      music: Georges Delerue
+
+  - name: Music (Original Song)
+    winner:
+      movie: Norma Rae
+      track: It Goes Like It Goes
+
+  - name: Music (Original Song Score and Its Adaptation -or- Adaptation Score)
+    winner:
+      movie: All That Jazz
+      music: Ralph Burns
+
+  - name: Best Picture
+    winner:
+      movie: Kramer vs. Kramer
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Every Child
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Board and Care
+
+  - name: Sound
+    winner:
+      movie: Apocalypse Now
+
+  - name: Visual Effects
+    winner:
+      movie: Alien
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Kramer vs. Kramer
+      writers: Robert Benton
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Breaking Away
+      writers: Steve Tesich

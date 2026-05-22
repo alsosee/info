@@ -1,0 +1,98 @@
+title: BAFTA 2015
+website: https://awards.bafta.org/award/2015/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: The Theory Of Everything
+        screenplay:
+            - Anthony McCarten
+    - name: Animated Film
+      winner:
+        movie: The Lego Movie
+    - name: British Short Animation
+      winner:
+        movie: The Bigger Picture
+    - name: British Short Film
+      winner:
+        movie: Boogaloo And Graham
+    - name: Cinematography
+      winner:
+        movie: Birdman
+    - name: Costume Design
+      winner:
+        movie: The Grand Budapest Hotel
+        constumedesign:
+            - Milena Canonero
+    - name: Director
+      winner:
+        movie: Richard Linklater
+        directors:
+            - Boyhood
+    - name: Documentary
+      winner:
+        movie: Citizenfour
+    - name: EE Rising Star
+      winner:
+        movie: Jack O'Connell
+    - name: Editing
+      winner:
+        movie: Whiplash
+        editors:
+            - Tom Cross
+    - name: Fellowship
+      winner:
+        person: Mike Leigh
+    - name: Film
+      winner:
+        movie: Boyhood
+    - name: Film Not in the English Language
+      winner:
+        movie: Ida
+    - name: Leading Actor
+      winner:
+        movie: The Theory Of Everything
+        actor: Eddie Redmayne
+    - name: Leading Actress
+      winner:
+        movie: Still Alice
+        actor: Julianne Moore
+    - name: Make-Up And Hair
+      winner:
+        movie: The Grand Budapest Hotel
+    - name: Original Music
+      winner:
+        movie: The Grand Budapest Hotel
+    - name: Original Screenplay
+      winner:
+        movie: The Grand Budapest Hotel
+        screenplay:
+            - Wes Anderson
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: BBC Films
+    - name: Outstanding British Film
+      winner:
+        movie: The Theory Of Everything
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Stephen Beresford, David Livingstone
+    - name: Production Design
+      winner:
+        movie: The Grand Budapest Hotel
+    - name: Sound
+      winner:
+        movie: Whiplash
+    - name: Special Award
+      winner:
+        movie: Billy Williams
+    - name: Special Visual Effects
+      winner:
+        movie: Interstellar
+    - name: Supporting Actor
+      winner:
+        movie: Whiplash
+        actor: J.K. Simmons
+    - name: Supporting Actress
+      winner:
+        movie: Boyhood
+        actor: Patricia Arquette

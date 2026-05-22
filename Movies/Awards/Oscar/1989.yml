@@ -1,0 +1,109 @@
+title: Oscar 1989
+wikipedia: https://en.wikipedia.org/wiki/61st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1989
+imdb: https://www.imdb.com/event/ev0000003/1989/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Dustin Hoffman
+      movie: Rain Man
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Kevin Kline
+      movie: A Fish Called Wanda
+
+  - name: Actress in a leading role
+    winner:
+      actor: Jodie Foster
+      movie: The Accused
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Geena Davis
+      movie: The Accidental Tourist
+
+  - name: Art Direction
+    winner:
+      movie: Dangerous Liaisons
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Pelle the Conqueror
+
+  - name: Cinematography
+    winner:
+      movie: Mississippi Burning
+      cinematography: Peter Biziou
+
+  - name: Costume Design
+    winner:
+      movie: Dangerous Liaisons
+
+  - name: Directing
+    winner:
+      movie: Rain Man
+      directors: Barry Levinson
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Hôtel Terminus: The Life and Times of Klaus Barbie"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: You Don't Have to Die
+
+  - name: Film Editing
+    winner:
+      movie: Who Framed Roger Rabbit
+      editors: Arthur Schmidt
+
+  - name: Makeup
+    winner:
+      movie: Beetlejuice
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Milagro Beanfield War
+      music: Dave Grusin
+
+  - name: Music (Original Song)
+    winner:
+      movie: Working Girl
+      track: Let the River Run
+
+  - name: Best Picture
+    winner:
+      movie: Rain Man
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Tin Toy
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Appointments of Dennis Jennings
+
+  - name: Sound
+    winner:
+      movie: Bird
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Who Framed Roger Rabbit
+
+  - name: Visual Effects
+    winner:
+      movie: Who Framed Roger Rabbit
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Dangerous Liaisons
+      writers: Christopher Hampton
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Rain Man
+      writers:
+        - Ronald Bass
+        - Barry Morrow

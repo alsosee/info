@@ -1,0 +1,92 @@
+title: BAFTA 2001
+website: https://awards.bafta.org/award/2001/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Stefen Fangmeier, John Frazier, Walt Conti,  Habib Zargarpour, Tim Alexander
+    - name: Actor in a Leading Role
+      winner:
+        movie: Jamie Bell
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Benicio Del Toro
+    - name: Actress in a Leading Role
+      winner:
+        movie: Julia Roberts
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Julie Walters
+    - name: Adapted Screenplay
+      winner:
+        movie: Traffic
+        screenplay:
+            - Stephen Gaghan
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: Billy Elliot
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)
+    - name: Carl Foreman Award for the Most Promising Newcomer in British Film
+      winner:
+        movie: Pawel Pawlikowski
+    - name: Cinematography
+      winner:
+        movie: Gladiator
+    - name: Costume Design
+      winner:
+        movie: Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)
+        constumedesign:
+            - Tim Yip
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)
+    - name: Editing
+      winner:
+        movie: Gladiator
+        editors:
+            - Pietro Scalia
+    - name: Fellowship
+      winner:
+        person: Albert Finney
+    - name: Fellowship
+      winner:
+        person: Judi Dench
+    - name: Film
+      winner:
+        movie: Gladiator
+    - name: Film Not in the English Language
+      winner:
+        movie: Crouching Tiger, Hidden Dragon (Wo Hu Cang Long)
+    - name: Make-Up And Hair
+      winner:
+        movie: The Grinch
+    - name: Orange Film Of The Year
+      winner:
+        movie: Gladiator
+    - name: Original Screenplay
+      winner:
+        movie: Almost Famous
+        screenplay:
+            - Cameron Crowe
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Mary Selway
+    - name: Production Design
+      winner:
+        movie: Gladiator
+    - name: Short Animation
+      winner:
+        movie: Father And Daughter
+    - name: Short Film
+      winner:
+        movie: Shadowscan
+    - name: Sound
+      winner:
+        movie: Almost Famous
+    - name: Special Award
+      winner:
+        movie: Guy Green
+    - name: Special Award
+      winner:
+        movie: Jack Cardiff

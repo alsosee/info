@@ -1,0 +1,129 @@
+name: Sherlock
+description: >
+  In modern-day London, consulting detective Sherlock Holmes and former army doctor John Watson become flatmates at 221B Baker Street and begin solving baffling cases for Scotland Yard. The first series introduces their partnership, Sherlock's deductive methods, and the unseen criminal network testing him from the shadows.
+released: 2010-07-25
+rating: TV-14
+genres:
+  - crime drama
+  - mystery
+  - detective fiction
+network: BBC One
+wikipedia: https://en.wikipedia.org/wiki/Sherlock_(TV_series)
+imdb: https://www.imdb.com/title/tt1475582
+tmdb: https://www.themoviedb.org/tv/19885-sherlock/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/sherlock/s01
+metacritic: https://www.metacritic.com/tv/sherlock/season-1
+creators:
+  - Mark Gatiss
+  - Steven Moffat
+directors:
+  - Paul McGuigan
+  - Euros Lyn
+writers:
+  - Steven Moffat
+  - Stephen Thompson
+  - Mark Gatiss
+producers: Sue Vertue
+music:
+  - David Arnold
+  - Michael Price
+cinematography: Steve Lawes
+editors:
+  - Mali Evans
+  - Charlie Phillips
+production:
+  - Hartswood Films
+  - BBC Wales
+  - Masterpiece Theatre
+characters:
+  - name: Sherlock Holmes
+    actor: Benedict Cumberbatch
+  - name: Dr. John Watson
+    actor: Martin Freeman
+  - name: DI Greg Lestrade
+    actor: Rupert Graves
+  - name: Mrs. Hudson
+    actor: Una Stubbs
+  - name: Molly Hooper
+    actor: Louise Brealey
+  - name: Mycroft Holmes
+    actor: Mark Gatiss
+  - name: Sgt Sally Donovan
+    actor: Vinette Robinson
+  - name: Jim Moriarty
+    actor: Andrew Scott
+episodes:
+  - name: A Study in Pink
+    description: >
+      Sherlock meets Dr. John Watson and investigates a string of apparent suicides that has baffled Scotland Yard.
+    released: 2010-07-25
+    length: 88m
+    imdb: https://www.imdb.com/title/tt1665071
+    wikipedia: https://en.wikipedia.org/wiki/A_Study_in_Pink
+    directors: Paul McGuigan
+    writers: Steven Moffat
+    characters:
+      - name: Sherlock Holmes
+        actor: Benedict Cumberbatch
+      - name: Dr. John Watson
+        actor: Martin Freeman
+      - name: DI Greg Lestrade
+        actor: Rupert Graves
+      - name: Mrs. Hudson
+        actor: Una Stubbs
+      - name: Molly Hooper
+        actor: Louise Brealey
+      - name: Mycroft Holmes
+        actor: Mark Gatiss
+      - name: Sgt Sally Donovan
+        actor: Vinette Robinson
+  - name: The Blind Banker
+    description: >
+      Sherlock and John trace a mysterious cipher across London after a bank break-in leads to deaths connected to an international smuggling ring.
+    released: 2010-08-01
+    length: 88m
+    imdb: https://www.imdb.com/title/tt1664529
+    wikipedia: https://en.wikipedia.org/wiki/The_Blind_Banker
+    directors: Euros Lyn
+    writers: Stephen Thompson
+    characters:
+      - name: Sherlock Holmes
+        actor: Benedict Cumberbatch
+      - name: Dr. John Watson
+        actor: Martin Freeman
+      - name: Mrs. Hudson
+        actor: Una Stubbs
+      - name: Molly Hooper
+        actor: Louise Brealey
+      - name: Sarah Sawyer
+        actor: Zoe Telford
+      - name: Soo Lin Yao
+        actor: Gemma Chan
+      - name: DI Dimmock
+        actor: Paul Chequer
+  - name: The Great Game
+    description: >
+      Sherlock is challenged by an anonymous mastermind who sets timed puzzles and threats around London, forcing him and John to race through a chain of cases.
+    released: 2010-08-08
+    length: 89m
+    imdb: https://www.imdb.com/title/tt1664530
+    wikipedia: https://en.wikipedia.org/wiki/The_Great_Game_(Sherlock)
+    directors: Paul McGuigan
+    writers: Mark Gatiss
+    characters:
+      - name: Sherlock Holmes
+        actor: Benedict Cumberbatch
+      - name: Dr. John Watson
+        actor: Martin Freeman
+      - name: DI Greg Lestrade
+        actor: Rupert Graves
+      - name: Mrs. Hudson
+        actor: Una Stubbs
+      - name: Molly Hooper
+        actor: Louise Brealey
+      - name: Mycroft Holmes
+        actor: Mark Gatiss
+      - name: Jim Moriarty
+        actor: Andrew Scott
+      - name: Sgt Sally Donovan
+        actor: Vinette Robinson

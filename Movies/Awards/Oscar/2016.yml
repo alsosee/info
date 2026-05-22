@@ -1,0 +1,115 @@
+title: Oscar 2016
+wikipedia: https://en.wikipedia.org/wiki/88th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2016
+imdb: https://www.imdb.com/event/ev0000003/2016/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Leonardo DiCaprio
+      movie: The Revenant
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Mark Rylance
+      movie: Bridge of Spies
+
+  - name: Actress in a leading role
+    winner:
+      actor: Brie Larson
+      movie: Room
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Alicia Vikander
+      movie: The Danish Girl
+
+  - name: Animated feature film
+    winner:
+      movie: Inside Out
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Son of Saul
+
+  - name: Cinematography
+    winner:
+      movie: The Revenant
+      cinematography: Emmanuel Lubezki
+
+  - name: Costume Design
+    winner:
+      movie: "Mad Max: Fury Road"
+
+  - name: Directing
+    winner:
+      movie: The Revenant
+      directors: Alejandro G. Iñárritu
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Amy
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "A Girl in the River: The Price of Forgiveness"
+
+  - name: Film Editing
+    winner:
+      movie: "Mad Max: Fury Road"
+      editors: Margaret Sixel
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: "Mad Max: Fury Road"
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Hateful Eight
+      music: Ennio Morricone
+
+  - name: Music (Original Song)
+    winner:
+      movie: Spectre
+      track: Writing's on the Wall
+
+  - name: Best Picture
+    winner:
+      movie: Spotlight
+
+  - name: Production Design
+    winner:
+      movie: "Mad Max: Fury Road"
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Bear Story
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Stutterer
+
+  - name: Sound Editing
+    winner:
+      movie: "Mad Max: Fury Road"
+
+  - name: Sound Mixing
+    winner:
+      movie: "Mad Max: Fury Road"
+
+  - name: Visual Effects
+    winner:
+      movie: Ex Machina
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Big Short
+      writers:
+        - Charles Randolph
+        - Adam McKay
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Spotlight
+      writers:
+        - Josh Singer
+        - Tom McCarthy

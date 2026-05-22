@@ -1,0 +1,50 @@
+name: Gone with the Wind
+description: >
+  An epic historical romance set in the American South during the Civil War and Reconstruction,
+  following Scarlett O'Hara's pursuit of Ashley Wilkes and her turbulent relationship with Rhett Butler.
+  Adapted from Margaret Mitchell's novel, the film is also known for its romanticized depiction of the antebellum South.
+based_on: Books/1936/Gone with the Wind
+released: 1939-12-15
+rating: G
+length: 3h41m
+genres:
+  - historical romance
+  - epic
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Gone_with_the_Wind_(film)
+imdb: https://www.imdb.com/title/tt0031381
+tmdb: https://www.themoviedb.org/movie/770-gone-with-the-wind
+rotten_tomatoes: https://www.rottentomatoes.com/m/gone_with_the_wind
+metacritic: https://www.metacritic.com/movie/gone-with-the-wind/
+website: https://www.warnerbros.com/movies/gone-wind
+directors: Victor Fleming
+screenplay: Sidney Howard
+producers: David O. Selznick
+music: Max Steiner
+cinematography: Ernest Haller
+editors:
+  - Hal C. Kern
+  - James E. Newcom
+production:
+  - Selznick International Pictures
+  - Metro-Goldwyn-Mayer
+distributors: Loew's Incorporated
+characters:
+  - name: Scarlett O'Hara
+    actor: Vivien Leigh
+  - name: Rhett Butler
+    actor: Clark Gable
+  - name: Ashley Wilkes
+    actor: Leslie Howard
+  - name: Melanie Hamilton
+    actor: Olivia de Havilland
+  - name: Mammy
+    actor: Hattie McDaniel
+  - name: Prissy
+    actor: Butterfly McQueen
+  - name: Gerald O'Hara
+    actor: Thomas Mitchell
+  - name: Ellen O'Hara
+    actor: Barbara O'Neil
+  - name: Belle Watling
+    actor: Ona Munson

@@ -1,0 +1,73 @@
+title: Oscar 1934
+wikipedia: https://en.wikipedia.org/wiki/6th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1934
+imdb: https://www.imdb.com/event/ev0000003/1934/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: Cavalcade
+
+  - name: Best Directing
+    winner:
+      movie: Cavalcade
+      directors: Frank Lloyd
+
+  - name: Best Actor
+    winner:
+      actor: Charles Laughton
+      movie: The Private Life of Henry VIII
+
+  - name: Best Actress
+    winner:
+      actor: Katharine Hepburn
+      movie: Morning Glory
+
+  - name: Writing (Original Story)
+    winner:
+      movie: One Way Passage
+      writers: Robert Lord
+
+  - name: Writing (Adaptation)
+    winner:
+      movie: Little Women
+      writers:
+        - Victor Heerman
+        - Sarah Y. Mason
+
+  - name: Best Short Subject (Comedy)
+    winner:
+      movie: So This Is Harris
+
+  - name: Best Short Subject (Novelty)
+    winner:
+      movie: Krakatoa
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Three Little Pigs
+
+  - name: Best Sound Recording
+    winner:
+      movie: A Farewell to Arms
+
+  - name: Best Assistant Director
+    winner:
+      person: Charles Barton
+      # TODO: award given to all 7 — list not yet supported
+      # person:
+      #   - Charles Barton
+      #   - Scott Beal
+      #   - Charles Dorian
+      #   - Fred Fox
+      #   - Gordon Hollingshead
+      #   - Dewey Starkey
+      #   - William Tummel
+
+  - name: Best Art Direction
+    winner:
+      movie: Cavalcade
+
+  - name: Best Cinematography
+    winner:
+      movie: A Farewell to Arms
+      cinematography: Charles Lang

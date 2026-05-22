@@ -1,0 +1,127 @@
+title: Oscar 1960
+wikipedia: https://en.wikipedia.org/wiki/32nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1960
+imdb: https://www.imdb.com/event/ev0000003/1960/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: Ben-Hur
+
+  - name: Directing
+    winner:
+      movie: Ben-Hur
+      directors: William Wyler
+
+  - name: Actor in a leading role
+    winner:
+      actor: Charlton Heston
+      movie: Ben-Hur
+
+  - name: Actress in a leading role
+    winner:
+      actor: Simone Signoret
+      movie: Room at the Top
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Hugh Griffith
+      movie: Ben-Hur
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Shelley Winters
+      movie: The Diary of Anne Frank
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Pillow Talk
+      writers:
+        - Russell Rouse
+        - Clarence Greene
+        - Stanley Shapiro
+        - Maurice Richlin
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Room at the Top
+      writers: Neil Paterson
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Black Orpheus
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Serengeti Shall Not Die
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Glass
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Golden Fish
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Moonbird
+
+  - name: Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Ben-Hur
+      music: Miklós Rózsa
+
+  - name: Music (Scoring of a Musical Picture)
+    winner:
+      movie: Porgy and Bess
+      music:
+        - André Previn
+        - Ken Darby
+
+  - name: Music (Original Song)
+    winner:
+      movie: A Hole in the Head
+      track: High Hopes
+
+  - name: Sound
+    winner:
+      movie: Ben-Hur
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: The Diary of Anne Frank
+
+  - name: Art Direction (Color)
+    winner:
+      movie: Ben-Hur
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: The Diary of Anne Frank
+      cinematography: William C. Mellor
+
+  - name: Cinematography (Color)
+    winner:
+      movie: Ben-Hur
+      cinematography: Robert Surtees
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: Some Like It Hot
+      costume_design: Orry-Kelly
+
+  - name: Costume Design (Color)
+    winner:
+      movie: Ben-Hur
+      costume_design: Elizabeth Haffenden
+
+  - name: Film Editing
+    winner:
+      movie: Ben-Hur
+      editors:
+        - Ralph E. Winters
+        - John D. Dunning
+
+  - name: Visual Effects
+    winner:
+      movie: Ben-Hur

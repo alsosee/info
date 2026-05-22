@@ -1,0 +1,126 @@
+title: Oscar 1964
+wikipedia: https://en.wikipedia.org/wiki/36th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1964
+imdb: https://www.imdb.com/event/ev0000003/1964/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: Tom Jones
+
+  - name: Directing
+    winner:
+      movie: Tom Jones
+      directors: Tony Richardson
+
+  - name: Actor in a leading role
+    winner:
+      actor: Sidney Poitier
+      movie: Lilies of the Field
+
+  - name: Actress in a leading role
+    winner:
+      actor: Patricia Neal
+      movie: Hud
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Melvyn Douglas
+      movie: Hud
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Margaret Rutherford
+      movie: The V.I.P.s
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: How the West Was Won
+      writers: James R. Webb
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Tom Jones
+      writers: John Osborne
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: "8½"
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Robert Frost: A Lover's Quarrel with the World"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Chagall
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: An Occurrence at Owl Creek Bridge
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Critic
+
+  - name: Music (Music Score -- Substantially Original)
+    winner:
+      movie: Tom Jones
+      music: John Addison
+
+  - name: Music (Scoring of Music -- Adaptation or Treatment)
+    winner:
+      movie: Irma la Douce
+      music: André Previn
+
+  - name: Music (Original Song)
+    winner:
+      movie: "Papa's Delicate Condition"
+      track: Call Me Irresponsible
+
+  - name: Sound
+    winner:
+      movie: How the West Was Won
+
+  - name: Sound Effects
+    winner:
+      movie: "It's a Mad, Mad, Mad, Mad World"
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: America America
+
+  - name: Art Direction (Color)
+    winner:
+      movie: Cleopatra
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: Hud
+      cinematography: James Wong Howe
+
+  - name: Cinematography (Color)
+    winner:
+      movie: Cleopatra
+      cinematography: Leon Shamroy
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: "8½"
+      costume_design: Piero Gherardi
+
+  - name: Costume Design (Color)
+    winner:
+      movie: Cleopatra
+      costume_design:
+        - Irene Sharaff
+        - Vittorio Nino Novarese
+        - Renié
+
+  - name: Film Editing
+    winner:
+      movie: How the West Was Won
+      editors: Harold F. Kress
+
+  - name: Visual Effects
+    winner:
+      movie: Cleopatra

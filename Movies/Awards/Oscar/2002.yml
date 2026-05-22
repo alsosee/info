@@ -1,0 +1,111 @@
+title: Oscar 2002
+wikipedia: https://en.wikipedia.org/wiki/74th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2002
+imdb: https://www.imdb.com/event/ev0000003/2002/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Denzel Washington
+      movie: Training Day
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Jim Broadbent
+      movie: Iris
+
+  - name: Actress in a leading role
+    winner:
+      actor: Halle Berry
+      movie: Monster's Ball
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Jennifer Connelly
+      movie: A Beautiful Mind
+
+  - name: Animated feature film
+    winner:
+      movie: Shrek
+
+  - name: Art Direction
+    winner:
+      movie: "Moulin Rouge!"
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: No Man's Land
+
+  - name: Cinematography
+    winner:
+      movie: "The Lord of the Rings: The Fellowship of the Ring"
+      cinematography: Andrew Lesnie
+
+  - name: Costume Design
+    winner:
+      movie: "Moulin Rouge!"
+
+  - name: Directing
+    winner:
+      movie: A Beautiful Mind
+      directors: Ron Howard
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Murder on a Sunday Morning
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Thoth
+
+  - name: Film Editing
+    winner:
+      movie: Black Hawk Down
+      editors: Pietro Scalia
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: "The Lord of the Rings: The Fellowship of the Ring"
+
+  - name: Music (Original Score)
+    winner:
+      movie: "The Lord of the Rings: The Fellowship of the Ring"
+      music: Howard Shore
+
+  - name: Music (Original Song)
+    winner:
+      movie: "Monsters, Inc."
+      track: If I Didn't Have You
+
+  - name: Best Picture
+    winner:
+      movie: A Beautiful Mind
+
+  - name: Short Film (Animated)
+    winner:
+      movie: For the Birds
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Accountant
+
+  - name: Sound
+    winner:
+      movie: Black Hawk Down
+
+  - name: Sound Editing
+    winner:
+      movie: Pearl Harbor
+
+  - name: Visual Effects
+    winner:
+      movie: "The Lord of the Rings: The Fellowship of the Ring"
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: A Beautiful Mind
+      writers: Akiva Goldsman
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Gosford Park
+      writers: Julian Fellowes

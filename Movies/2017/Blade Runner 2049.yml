@@ -1,0 +1,67 @@
+name: "Blade Runner 2049"
+description: >
+  Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.
+previous: Movies/1982/Blade Runner
+released: 2017-10-06
+rating: R
+length: 2h44m
+genres:
+  - action
+  - drama
+  - mystery
+  - sci-fi
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Blade_Runner_2049
+imdb: https://www.imdb.com/title/tt1856101
+tmdb: https://www.themoviedb.org/movie/335984-blade-runner-2049
+rotten_tomatoes: https://www.rottentomatoes.com/m/blade_runner_2049
+metacritic: https://www.metacritic.com/movie/blade-runner-2049
+website: http://bladerunnermovie.com
+trailer: https://www.youtube.com/watch?v=gCcx85zbxz4
+directors: Denis Villeneuve
+producers:
+  - Andrew A. Kosove
+  - Broderick Johnson
+  - Bud Yorkin
+  - Cynthia Sikes Yorkin
+screenplay:
+  - Hampton Fancher
+  - Michael Green
+music:
+  - Benjamin Wallfisch
+  - Hans Zimmer
+cinematography: Roger A. Deakins
+editors: Joe Walker
+production:
+  - Alcon Entertainment
+  - Columbia Pictures
+  - Scott Free Productions
+  - Bud Yorkin Productions
+  - Torridon Films
+  - 16:14 Entertainment
+distributors:
+  - Warner Bros. Pictures
+  - Sony Pictures Releasing
+characters:
+  - name: K
+    actor: Ryan Gosling
+  - name: Rick Deckard
+    actor: Harrison Ford
+  - name: Joi
+    actor: Ana de Armas
+  - name: Luv
+    actor: Sylvia Hoeks
+  - name: Lt. Joshi
+    actor: Robin Wright
+  - name: Mariette
+    actor: Mackenzie Davis
+  - name: Dr. Ana Stelline
+    actor: Carla Juri
+  - name: Sapper Morton
+    actor: Dave Bautista
+  - name: Niander Wallace
+    actor: Jared Leto
+  - name: Gaff
+    actor: Edward James Olmos
+  - name: Mister Cotton
+    actor: Lennie James

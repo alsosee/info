@@ -1,0 +1,61 @@
+title: BAFTA 1980
+website: https://awards.bafta.org/award/1980/film
+categories:
+    - name: Actor
+      winner:
+        movie: Jack Lemmon
+    - name: Actress
+      winner:
+        movie: Jane Fonda
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Days Of Heaven
+    - name: Cinematography
+      winner:
+        movie: The Deer Hunter
+    - name: Costume Design
+      winner:
+        movie: Yanks
+        constumedesign:
+            - Shirley Russell
+    - name: Direction
+      winner:
+        movie: Apocalypse Now
+    - name: Fellowship
+      winner:
+        person: John Huston
+    - name: Film
+      winner:
+        movie: Manhattan
+    - name: Film Editing
+      winner:
+        movie: The Deer Hunter
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Dennis Christopher
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: The Children's Film Foundation
+    - name: Production Design
+      winner:
+        movie: Alien
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: The Tree Of Wooden Clogs
+    - name: Screenplay
+      winner:
+        movie: Manhattan
+    - name: Short Film
+      winner:
+        movie: Butch Minds The Baby
+    - name: Soundtrack
+      winner:
+        movie: Alien
+    - name: Supporting Actor
+      winner:
+        movie: Apocalypse Now
+        actor: Robert Duvall
+    - name: Supporting Actress
+      winner:
+        movie: Yanks
+        actor: Rachel Roberts

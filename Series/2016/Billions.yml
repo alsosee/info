@@ -1,0 +1,145 @@
+name: Billions
+description: >
+  A high-stakes drama set in the world of New York high finance, focusing on the collision between two titan figures.
+  Ruthless, blue-blooded U.S. Attorney Chuck Rhoades and brilliant, self-made hedge fund king Bobby "Axe" Axelrod
+  engage in a complex game of cat-and-mouse as they use their vast power, influence, and legal maneuvering to destroy each other.
+released: 2016-01-17
+rating: TV-MA
+genres:
+  - drama
+network: Showtime
+wikipedia: https://en.wikipedia.org/wiki/Billions_(TV_series)
+imdb: https://www.imdb.com/title/tt4270492
+tmdb: https://www.themoviedb.org/tv/62852-billions/season/1
+creators:
+  - Brian Koppelman
+  - David Levien
+  - Andrew Ross Sorkin
+characters:
+  - name: Bobby Axelrod
+    actor: Damian Lewis
+  - name: Chuck Rhoades
+    actor: Paul Giamatti
+  - name: Wendy Rhoades
+    actor: Maggie Siff
+  - name: Mike "Wags" Wagner
+    actor: David Costabile
+  - name: Lara Axelrod
+    actor: Malin Åkerman
+  - name: Bryan Connerty
+    actor: Toby Leonard Moore
+episodes:
+  - name: Pilot
+    description: >
+      Chuck Rhoades is tipped off to an insider trading case involving Axe Capital and must decide whether to pursue it.
+    released: 2016-01-17
+    length: 60m
+    imdb: https://www.imdb.com/title/tt3853452
+    directors: Neil Burger
+    writers:
+      - Brian Koppelman
+      - David Levien
+      - Andrew Ross Sorkin
+  - name: Naming Rights
+    description: >
+      Axe installs strict compliance measures to protect the firm while Chuck's investigation is derailed.
+    released: 2016-01-24
+    length: 56m
+    imdb: https://www.imdb.com/title/tt4645334
+    directors: Neil Burger
+    writers:
+      - Brian Koppelman
+      - David Levien
+  - name: YumTime
+    description: >
+      Axe makes an activist play for a bakery corporation, which hits close to home for Chuck.
+    released: 2016-01-31
+    length: 55m
+    imdb: https://www.imdb.com/title/tt4645336
+    directors: Scott Hornbacher
+    writers: Willie Reale
+  - name: Short Squeeze
+    description: >
+      Axe takes a trip to see Metallica with friends while his firm faces a short squeeze.
+    released: 2016-02-07
+    length: 58m
+    imdb: https://www.imdb.com/title/tt4645338
+    directors: James Foley
+    writers: Young Il Kim
+  - name: The Good Life
+    description: >
+      Axe disappears on his yacht, leading to rumors that he is quitting the business.
+    released: 2016-02-14
+    length: 55m
+    imdb: https://www.imdb.com/title/tt4645340
+    directors: Neil LaBute
+    writers: Heidi Schreck
+  - name: The Deal
+    description: >
+      Wendy facilitates a meeting between Chuck and Axe to negotiate a settlement.
+    released: 2016-02-21
+    length: 58m
+    imdb: https://www.imdb.com/title/tt4645342
+    directors: James Foley
+    writers:
+      - Brian Koppelman
+      - David Levien
+  - name: The Punch
+    description: >
+      Axe's aggressive behavior leads to a public altercation that threatens his image.
+    released: 2016-03-06
+    length: 56m
+    imdb: https://www.imdb.com/title/tt4645344
+    directors: Stephen Gyllenhaal
+    writers:
+      - Brian Koppelman
+      - David Levien
+  - name: Boasts and Rails
+    description: >
+      A mole is discovered within the U.S. Attorney's office, causing a scramble to identify the source.
+    released: 2016-03-13
+    length: 54m
+    imdb: https://www.imdb.com/title/tt4645346
+    directors: John Dahl
+    writers: Wes Jones
+  - name: "Where the Fuck Is Donnie?"
+    description: >
+      Axe's key trader goes missing just as he is about to be subpoenaed by Chuck's team.
+    released: 2016-03-20
+    length: 58m
+    imdb: https://www.imdb.com/title/tt4645348
+    directors:
+      - Anna Boden
+      - Ryan Fleck
+    writers: Peter Blake
+  - name: Quality of Life
+    description: >
+      Following a death in the Axe Capital family, Axe and Wendy's relationship is tested.
+    released: 2016-03-27
+    length: 58m
+    imdb: https://www.imdb.com/title/tt4645350
+    directors: Karyn Kusama
+    writers: Willie Reale
+  - name: Magical Thinking
+    description: >
+      Axe suffers a massive loss on a trade and turns to Wendy for psychological help.
+    released: 2016-04-03
+    length: 59m
+    imdb: https://www.imdb.com/title/tt4645352
+    directors:
+      - Anna Boden
+      - Ryan Fleck
+    writers:
+      - Brian Koppelman
+      - David Levien
+  - name: The Conversation
+    description: >
+      Chuck and Axe finally have an explosive face-to-face confrontation in the ruins of Axe's office.
+    released: 2016-04-10
+    length: 60m
+    imdb: https://www.imdb.com/title/tt4645354
+    directors: Michael Cuesta
+    writers:
+      - Brian Koppelman
+      - David Levien
+      - Andrew Ross Sorkin

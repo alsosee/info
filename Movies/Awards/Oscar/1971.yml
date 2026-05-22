@@ -1,0 +1,111 @@
+title: Oscar 1971
+wikipedia: https://en.wikipedia.org/wiki/43rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1971
+imdb: https://www.imdb.com/event/ev0000003/1971/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: George C. Scott
+      movie: Patton
+
+  - name: Actor in a supporting role
+    winner:
+      actor: John Mills
+      movie: "Ryan's Daughter"
+
+  - name: Actress in a leading role
+    winner:
+      actor: Glenda Jackson
+      movie: Women in Love
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Helen Hayes
+      movie: Airport
+
+  - name: Art Direction
+    winner:
+      movie: Patton
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Investigation of a Citizen Above Suspicion
+
+  - name: Cinematography
+    winner:
+      movie: "Ryan's Daughter"
+      cinematography: Freddie Young
+
+  - name: Costume Design
+    winner:
+      movie: Cromwell
+      costume_design: Vittorio Nino Novarese
+
+  - name: Directing
+    winner:
+      movie: Patton
+      directors: Franklin J. Schaffner
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Woodstock
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Interviews with My Lai Veterans
+
+  - name: Film Editing
+    winner:
+      movie: Patton
+      editors: Hugh S. Fowler
+
+  - name: Music (Original Score)
+    winner:
+      movie: Love Story
+      music: Francis Lai
+
+  - name: Music (Original Song Score)
+    winner:
+      movie: Let It Be
+      music:
+        - John Lennon
+        - Paul McCartney
+        - George Harrison
+        - Ringo Starr
+
+  - name: Music (Original Song)
+    winner:
+      movie: Lovers and Other Strangers
+      track: For All We Know
+
+  - name: Best Picture
+    winner:
+      movie: Patton
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Is It Always Right to Be Right?
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Resurrection of Broncho Billy
+
+  - name: Sound
+    winner:
+      movie: Patton
+
+  - name: Visual Effects
+    winner:
+      movie: "Tora! Tora! Tora!"
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: "M*A*S*H"
+      writers: Ring Lardner Jr.
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Patton
+      writers:
+        - Francis Ford Coppola
+        - Edmund H. North

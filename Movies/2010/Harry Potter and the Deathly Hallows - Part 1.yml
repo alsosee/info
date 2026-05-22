@@ -1,0 +1,52 @@
+name: "Harry Potter and the Deathly Hallows – Part 1"
+description: >
+  With Voldemort's forces rising and the Ministry of Magic under enemy control, Harry, Ron, and
+  Hermione abandon Hogwarts to hunt down and destroy the remaining Horcruxes, racing against time
+  without Dumbledore's guidance.
+previous: Movies/2009/Harry Potter and the Half-Blood Prince
+released: 2010-11-19
+rating: PG-13
+length: 2h26m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Harry Potter
+wikipedia: https://en.wikipedia.org/wiki/Harry_Potter_and_the_Deathly_Hallows_%E2%80%93_Part_1
+imdb: https://www.imdb.com/title/tt0926084
+tmdb: https://www.themoviedb.org/movie/12444-harry-potter-and-the-deathly-hallows-part-1
+directors: David Yates
+screenplay: Steve Kloves
+music: Alexandre Desplat
+cinematography: Eduardo Serra
+editors: Mark Day
+producers:
+  - David Heyman
+  - David Barron
+  - J.K. Rowling
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harry Potter
+    description: The protagonist
+    actor: Daniel Radcliffe
+  - name: Ron Weasley
+    description: Harry's best friend
+    actor: Rupert Grint
+  - name: Hermione Granger
+    description: Harry's best friend
+    actor: Emma Watson
+  - name: Lord Voldemort
+    description: The dark wizard seeking to dominate the wizarding world
+    actor: Ralph Fiennes
+  - name: Severus Snape
+    description: Former Hogwarts professor
+    actor: Alan Rickman
+  - name: Bellatrix Lestrange
+    description: Devoted Death Eater and Voldemort's most loyal servant
+    actor: Helena Bonham Carter
+  - name: Rubeus Hagrid
+    description: Groundskeeper of Hogwarts
+    actor: Robbie Coltrane

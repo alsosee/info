@@ -1,0 +1,86 @@
+title: BAFTA 2005
+website: https://awards.bafta.org/award/2005/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Karen E Goulekas, Neil Corbould, Greg Strause, Remo Balcells
+    - name: Actor in a Leading Role
+      winner:
+        movie: Jamie Foxx
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Clive Owen
+    - name: Actress in a Leading Role
+      winner:
+        movie: Imelda Staunton
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Cate Blanchett
+    - name: Adapted Screenplay
+      winner:
+        movie: Sideways
+        screenplay:
+            - Alexander Payne, Jim Taylor
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: My Summer Of Love
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: The Motorcycle Diaries (Diarios De Motocicleta)
+    - name: Carl Foreman Award for Special Achievement by a British Director, Writer or Producer in their First Feature Film
+      winner:
+        movie: Amma Asante (Director, Writer)
+    - name: Cinematography
+      winner:
+        movie: Collateral
+    - name: Costume Design
+      winner:
+        movie: Vera Drake
+        constumedesign:
+            - Jacqueline Durran
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: Vera Drake
+    - name: Editing
+      winner:
+        movie: Eternal Sunshine of the Spotless Mind
+        editors:
+            - Valdís Óskarsdóttir
+    - name: Fellowship
+      winner:
+        person: John Barry
+    - name: Film
+      winner:
+        movie: The Aviator
+    - name: Film Not in the English Language
+      winner:
+        movie: The Motorcycle Diaries (Diarios De Motocicleta)
+    - name: Make-Up And Hair
+      winner:
+        movie: The Aviator
+    - name: Orange Film Of The Year
+      winner:
+        movie: Harry Potter And The Prisoner Of Azkaban
+    - name: Original Screenplay
+      winner:
+        movie: Eternal Sunshine of the Spotless Mind
+        screenplay:
+          - Charlie Kaufman
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Angela Allen
+    - name: Production Design
+      winner:
+        movie: The Aviator
+    - name: Short Animation
+      winner:
+        movie: Birthday Boy
+    - name: Short Film
+      winner:
+        movie: The Banker
+    - name: Sound
+      winner:
+        movie: Ray
+    - name: Special Award
+      winner:
+        movie: Nick Broomfield

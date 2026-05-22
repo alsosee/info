@@ -1,0 +1,118 @@
+title: Oscar 1945
+wikipedia: https://en.wikipedia.org/wiki/17th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1945
+imdb: https://www.imdb.com/event/ev0000003/1945/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: Going My Way
+
+  - name: Best Directing
+    winner:
+      movie: Going My Way
+      directors: Leo McCarey
+
+  - name: Best Actor
+    winner:
+      actor: Bing Crosby
+      movie: Going My Way
+
+  - name: Best Actress
+    winner:
+      actor: Ingrid Bergman
+      movie: Gaslight
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Barry Fitzgerald
+      movie: Going My Way
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Ethel Barrymore
+      movie: None but the Lonely Heart
+
+  - name: Writing (Original Motion Picture Story)
+    winner:
+      movie: Going My Way
+      writers: Leo McCarey
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Wilson
+      writers: Lamar Trotti
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: Going My Way
+      writers:
+        - Frank Butler
+        - Frank Cavett
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: The Fighting Lady
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: With the Marines at Tarawa
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Who's Who in Animal Land
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: I Won't Play
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Mouse Trouble
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Since You Went Away
+      music: Max Steiner
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Cover Girl
+      music:
+        - Morris Stoloff
+        - Carmen Dragon
+
+  - name: Best Music (Song)
+    winner:
+      movie: Going My Way
+      track: Swinging on a Star
+
+  - name: Best Sound Recording
+    winner:
+      movie: Wilson
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Gaslight
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Wilson
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Laura
+      cinematography: Joseph LaShelle
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Wilson
+      cinematography: Leon Shamroy
+
+  - name: Best Film Editing
+    winner:
+      movie: Wilson
+      editors: Barbara McLean
+
+  - name: Best Special Effects
+    winner:
+      movie: Thirty Seconds Over Tokyo

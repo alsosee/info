@@ -1,0 +1,146 @@
+name: "Game of Thrones, Season 8"
+description: >
+  The final season sees the ultimate battle between the living and the dead, followed by the final
+  struggle for the Iron Throne. While the Night King marches on Winterfell, Daenerys Targaryen and Cersei
+  Lannister prepare for their final confrontation in King's Landing.
+previous: Series/2017/Game of Thrones, Season 7
+released: 2019-04-14
+rating: TV-MA
+genres:
+  - drama
+  - fantasy
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Game_of_Thrones_(season_8)
+imdb: https://www.imdb.com/title/tt0944947/
+tmdb: https://www.themoviedb.org/tv/1399-game-of-thrones/season/8
+rotten_tomatoes: https://www.rottentomatoes.com/tv/game-of-thrones/s08
+metacritic: https://www.metacritic.com/tv/game-of-thrones/season-8
+spotify: https://open.spotify.com/album/3YpS6S6p6p6p6p6p6p6p6p
+creators:
+  - David Benioff
+  - D. B. Weiss
+directors:
+  - David Nutter
+  - Miguel Sapochnik
+  - David Benioff
+  - D. B. Weiss
+producers:
+  - David Benioff
+  - D. B. Weiss
+  - Frank Doelger
+  - Carolyn Strauss
+  - George R. R. Martin
+  - Bernadette Caulfield
+  - Guymon Casady
+  - Vince Gerardis
+characters:
+  - name: Peter Dinklage
+    actor: Tyrion Lannister
+  - name: Nikolaj Coster-Waldau
+    actor: Jaime Lannister
+  - name: Lena Headey
+    actor: Cersei Lannister
+  - name: Emilia Clarke
+    actor: Daenerys Targaryen
+  - name: Kit Harington
+    actor: Jon Snow
+  - name: Sophie Turner
+    actor: Sansa Stark
+  - name: Maisie Williams
+    actor: Arya Stark
+  - name: Isaac Hempstead Wright
+    actor: Bran Stark
+  - name: Alfie Allen
+    actor: Theon Greyjoy
+  - name: John Bradley
+    actor: Samwell Tarly
+  - name: Kristofer Hivju
+    actor: Tormund Giantsbane
+  - name: Gwendoline Christie
+    actor: Brienne of Tarth
+  - name: Conleth Hill
+    actor: Varys
+  - name: Jerome Flynn
+    actor: Bronn
+  - name: Iain Glen
+    actor: Jorah Mormont
+  - name: Nathalie Emmanuel
+    actor: Missandei
+  - name: Rory McCann
+    actor: Sandor "The Hound" Clegane
+  - name: Liam Cunningham
+    actor: Davos Seaworth
+  - name: Carice van Houten
+    actor: Melisandre
+  - name: Jacob Anderson
+    actor: Grey Worm
+episodes:
+  - name: Winterfell
+    description: >
+      Daenerys and Jon arrive in Winterfell with their armies while the Night King makes his first move.
+    released: 2019-04-14
+    length: 54m
+    imdb: https://www.imdb.com/title/tt5924366/
+    wikipedia: https://en.wikipedia.org/wiki/Winterfell_(Game_of_Thrones_episode)
+    directors: David Nutter
+    writers: Dave Hill
+
+  - name: A Knight of the Seven Kingdoms
+    description: >
+      The defenders of Winterfell gather for a final night of character and reflection before the battle.
+    released: 2019-04-21
+    length: 58m
+    imdb: https://www.imdb.com/title/tt5924370/
+    wikipedia: https://en.wikipedia.org/wiki/A_Knight_of_the_Seven_Kingdoms_(Game_of_Thrones)
+    directors: David Nutter
+    writers: Bryan Cogman
+
+  - name: The Long Night
+    description: >
+      The army of the dead arrives at Winterfell for a massive, night-long battle against the living.
+    released: 2019-04-28
+    length: 82m
+    imdb: https://www.imdb.com/title/tt5924372/
+    wikipedia: https://en.wikipedia.org/wiki/The_Long_Night_(Game_of_Thrones)
+    directors: Miguel Sapochnik
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Last of the Starks
+    description: >
+      The survivors of the Battle of Winterfell prepare for the final war for the Iron Throne in the south.
+    released: 2019-05-05
+    length: 78m
+    imdb: https://www.imdb.com/title/tt5924382/
+    wikipedia: https://en.wikipedia.org/wiki/The_Last_of_the_Starks
+    directors: David Nutter
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Bells
+    description: >
+      Daenerys leads her forces in a final assault on King's Landing while Cersei prepares her defense.
+    released: 2019-05-12
+    length: 78m
+    imdb: https://www.imdb.com/title/tt5924387/
+    wikipedia: https://en.wikipedia.org/wiki/The_Bells_(Game_of_Thrones)
+    directors: Miguel Sapochnik
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Iron Throne
+    description: >
+      The final aftermath of the war in Westeros settles the fate of the Iron Throne and its survivors.
+    released: 2019-05-19
+    length: 80m
+    imdb: https://www.imdb.com/title/tt5924390/
+    wikipedia: https://en.wikipedia.org/wiki/The_Iron_Throne_(Game_of_Thrones)
+    directors:
+      - David Benioff
+      - D. B. Weiss
+    writers:
+      - David Benioff
+      - D. B. Weiss

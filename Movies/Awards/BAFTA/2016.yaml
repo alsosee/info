@@ -1,0 +1,95 @@
+title: BAFTA 2016
+website: https://awards.bafta.org/award/2016/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: The Big Short
+        screenplay:
+            - Adam McKay, Charles Randolph
+    - name: Animated Film
+      winner:
+        movie: Inside Out
+    - name: British Short Animation
+      winner:
+        movie: Edmond
+    - name: British Short Film
+      winner:
+        movie: Operator
+    - name: Cinematography
+      winner:
+        movie: The Revenant
+    - name: Costume Design
+      winner:
+        movie: 'Mad Max: Fury Road'
+        constumedesign:
+            - Jenny Beavan
+    - name: Director
+      winner:
+        movie: Alejandro G. Iñárritu
+        directors:
+            - The Revenant
+    - name: Documentary
+      winner:
+        movie: Amy
+    - name: EE Rising Star
+      winner:
+        movie: John Boyega
+    - name: Editing
+      winner:
+        movie: 'Mad Max: Fury Road'
+        editors:
+            - Margaret Sixel
+    - name: Fellowship
+      winner:
+        person: Sidney Poitier
+    - name: Film
+      winner:
+        movie: The Revenant
+    - name: Film Not in the English Language
+      winner:
+        movie: Wild Tales
+    - name: Leading Actor
+      winner:
+        movie: The Revenant
+        actor: Leonardo DiCaprio
+    - name: Leading Actress
+      winner:
+        movie: Room
+        actor: Brie Larson
+    - name: Make-Up And Hair
+      winner:
+        movie: 'Mad Max: Fury Road'
+    - name: Original Music
+      winner:
+        movie: The Hateful Eight
+    - name: Original Screenplay
+      winner:
+        movie: Spotlight
+        screenplay:
+            - Tom McCarthy, Josh Singer
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: Angels Costumes
+    - name: Outstanding British Film
+      winner:
+        movie: Brooklyn
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Naji Abu Nowar, Rupert Lloyd
+    - name: Production Design
+      winner:
+        movie: 'Mad Max: Fury Road'
+    - name: Sound
+      winner:
+        movie: The Revenant
+    - name: Special Visual Effects
+      winner:
+        movie: 'Star Wars: The Force Awakens'
+    - name: Supporting Actor
+      winner:
+        movie: Bridge Of Spies
+        actor: Mark Rylance
+    - name: Supporting Actress
+      winner:
+        movie: Steve Jobs
+        actor: Kate Winslet

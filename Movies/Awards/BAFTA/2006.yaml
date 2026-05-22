@@ -1,0 +1,83 @@
+title: BAFTA 2006
+website: https://awards.bafta.org/award/2006/film
+categories:
+    - name: Achievement in Special Visual Effects
+      winner:
+        movie: Joe Letteri, Christian Rivers, Brian Van?t Hul, Richard Taylor
+    - name: Actor in a Leading Role
+      winner:
+        movie: Philip Seymour Hoffman
+    - name: Actor in a Supporting Role
+      winner:
+        movie: Jake Gyllenhaal
+    - name: Actress in a Leading Role
+      winner:
+        movie: Reese Witherspoon
+    - name: Actress in a Supporting Role
+      winner:
+        movie: Thandie Newton
+    - name: Adapted Screenplay
+      winner:
+        movie: Brokeback Mountain
+        screenplay:
+            - Larry McMurtry, Diana Ossana
+    - name: Alexander Korda Award for the outstanding British Film of the Year
+      winner:
+        movie: 'Wallace And Gromit: The Curse Of The Were-Rabbit'
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Memoirs Of A Geisha
+    - name: Carl Foreman Award for Special Achievement by a British Director, Writer or Producer in their First Feature Film
+      winner:
+        movie: Joe Wright (Director)
+    - name: Cinematography
+      winner:
+        movie: Memoirs Of A Geisha
+    - name: Costume Design
+      winner:
+        movie: Memoirs Of A Geisha
+        constumedesign:
+            - Colleen Atwood
+    - name: David Lean Award for Achievement in Direction
+      winner:
+        movie: Brokeback Mountain
+    - name: Editing
+      winner:
+        movie: The Constant Gardener
+        editors:
+            - Claire Simpson
+    - name: Fellowship
+      winner:
+        person: David Puttnam
+    - name: Film
+      winner:
+        movie: Brokeback Mountain
+    - name: Film Not in the English Language
+      winner:
+        movie: The Beat That My Heart Skipped (De Battre Mon Coeur S’Est Arrêté)
+    - name: Make-Up And Hair
+      winner:
+        movie: 'The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe'
+    - name: Orange Rising Star Award (Voted For By The Public)
+      winner:
+        movie: James McAvoy
+    - name: Original Screenplay
+      winner:
+        movie: Crash
+        screenplay:
+            - Paul Haggis, Bobby Moresco
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Robert ‘Chuck’ Finch & Billy Merrell
+    - name: Production Design
+      winner:
+        movie: Harry Potter And The Goblet Of Fire
+    - name: Short Animation Film
+      winner:
+        movie: Fallen Art
+    - name: Short Film
+      winner:
+        movie: Antonio's Breakfast
+    - name: Sound
+      winner:
+        movie: Walk The Line

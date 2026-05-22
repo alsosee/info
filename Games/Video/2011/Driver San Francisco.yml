@@ -1,0 +1,39 @@
+name: "Driver: San Francisco"
+description: >
+  Open-world action-adventure driving game set in a fictionalized San Francisco,
+  following detective John Tanner as he pursues escaped criminal Charles Jericho
+  and uses the Shift mechanic to jump between vehicles across the city.
+released: 2011-08-30
+genres:
+  - action-adventure
+  - driving
+  - open world
+wikipedia: https://en.wikipedia.org/wiki/Driver%3A_San_Francisco
+metacritic: https://www.metacritic.com/game/driver-san-francisco/
+fandom: https://driver.fandom.com/wiki/Driver%3A_San_Francisco
+ign: https://www.ign.com/games/driver-san-francisco
+igdb: https://www.igdb.com/games/driver-san-francisco
+website: https://web.archive.org/web/20111128035933/http://driver-thegame.ubi.com/driver-san-francisco/en-US/home/
+developers: Ubisoft Reflections
+publishers: Ubisoft
+directors:
+  - Martin Edmondson
+  - Craig Lawson
+designers:
+  - Jean-Sebastien Decant
+  - Andrew Willans
+  - Dale Scullion
+writers:
+  - Ian Mayor
+  - James Worrall
+  - David Midgley
+composers: Marc Canham
+characters:
+  - name: John Tanner
+    actor: Demetri Goritsas
+  - name: Tobias Jones
+    actor: Peter Benson
+  - name: Charles Jericho
+    actor: Michael Dobson
+  - name: Leila Sharan
+    actor: Courtenay Taylor

@@ -1,0 +1,56 @@
+name: "The Lord of the Rings: The Two Towers"
+description: >
+  The second installment of Peter Jackson's epic trilogy follows three interconnected storylines as Frodo and Sam journey toward Mordor with the treacherous Gollum, Merry and Pippin encounter the Ents, and Aragorn, Legolas, and Gimli help Rohan defend against Saruman's forces at the Battle of Helm's Deep.
+released: 2002-12-18
+rating: PG-13
+length: 2h59m
+genres:
+  - adventure
+  - drama
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Two_Towers
+imdb: https://www.imdb.com/title/tt0167261
+tmdb: https://www.themoviedb.org/movie/121
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_two_towers
+directors: Peter Jackson
+producers:
+  - Barrie M. Osborne
+  - Fran Walsh
+  - Peter Jackson
+screenplay:
+  - Fran Walsh
+  - Philippa Boyens
+  - Stephen Sinclair
+  - Peter Jackson
+music: Howard Shore
+cinematography: Andrew Lesnie
+editors: Michael J. Horton
+production: WingNut Films
+distributors: New Line Cinema
+characters:
+  - name: Frodo Baggins
+    actor: Elijah Wood
+  - name: Gandalf the White
+    actor: Ian McKellen
+  - name: Aragorn
+    actor: Viggo Mortensen
+  - name: Samwise Gamgee
+    actor: Sean Astin
+  - name: Gollum
+    actor: Andy Serkis
+  - name: Legolas
+    actor: Orlando Bloom
+  - name: Gimli
+    actor: John Rhys-Davies
+  - name: "Saruman the White"
+    actor: Christopher Lee
+  - name: "Théoden"
+    actor: Bernard Hill
+  - name: Arwen
+    actor: Liv Tyler
+  - name: Galadriel
+    actor: Cate Blanchett
+  - name: Peregrin Took
+    actor: Billy Boyd
+  - name: Meriadoc Brandybuck
+    actor: Dominic Monaghan

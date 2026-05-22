@@ -1,0 +1,438 @@
+name: Game of Thrones
+description: >
+  Based on George R.R. Martin's "A Song of Ice and Fire," the first season follows the noble Stark family
+  as they are drawn into the deadly court intrigues of King's Landing, while an exiled princess seeks
+  to reclaim her throne across the sea.
+released: 2011-04-17
+rating: TV-MA
+genres:
+  - drama
+  - fantasy
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Game_of_Thrones_(season_1)
+imdb: https://www.imdb.com/title/tt0944947/
+tmdb: https://www.themoviedb.org/tv/1399-game-of-thrones/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/game-of-thrones/s01
+metacritic: https://www.metacritic.com/tv/game-of-thrones/season-1
+spotify: https://open.spotify.com/album/0yzx2QFs6EthwH3DKDRJG8
+creators:
+  - David Benioff
+  - D. B. Weiss
+directors:
+  - Tim Van Patten
+  - Brian Kirk
+  - Daniel Minahan
+  - Alan Taylor
+producers:
+  - David Benioff
+  - D. B. Weiss
+  - Vince Gerardis
+  - Frank Doelger
+  - Ralph Vicinanza
+  - Mark Huffam
+  - Carolyn Strauss
+  - George R. R. Martin
+  - Guymon Casady
+characters:
+  - name: Eddard "Ned" Stark
+    actor: Sean Bean
+  - name: Robert Baratheon
+    actor: Mark Addy
+  - name: Jaime Lannister
+    actor: Nikolaj Coster-Waldau
+  - name: Catelyn Stark
+    actor: Michelle Fairley
+  - name: Cersei Lannister
+    actor: Lena Headey
+  - name: Daenerys Targaryen
+    actor: Emilia Clarke
+  - name: Jorah Mormont
+    actor: Iain Glen
+  - name: Viserys Targaryen
+    actor: Harry Lloyd
+  - name: Jon Snow
+    actor: Kit Harington
+  - name: Sansa Stark
+    actor: Sophie Turner
+  - name: Arya Stark
+    actor: Maisie Williams
+  - name: Robb Stark
+    actor: Richard Madden
+  - name: Theon Greyjoy
+    actor: Alfie Allen
+  - name: Bran Stark
+    actor: Isaac Hempstead Wright
+  - name: Joffrey Baratheon
+    actor: Jack Gleeson
+  - name: Sandor "The Hound" Clegane
+    actor: Rory McCann
+  - name: Tyrion Lannister
+    actor: Peter Dinklage
+  - name: Petyr "Littlefinger" Baelish
+    actor: Aidan Gillen
+  - name: Khal Drogo
+    actor: Jason Momoa
+episodes:
+  - name: Winter Is Coming
+    description: >
+      Lord Ned Stark is troubled by disturbing news from the Night's Watch and a visit from King Robert Baratheon.
+    released: 2011-04-17
+    length: 62m
+    imdb: https://www.imdb.com/title/tt1480055/
+    wikipedia: https://en.wikipedia.org/wiki/Winter_Is_Coming
+    directors: Tim Van Patten
+    writers:
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Robert Baratheon
+        actor: Mark Addy
+      - name: Jaime Lannister
+        actor: Nikolaj Coster-Waldau
+      - name: Cersei Lannister
+        actor: Lena Headey
+      - name: Catelyn Stark
+        actor: Michelle Fairley
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Viserys Targaryen
+        actor: Harry Lloyd
+      - name: Bran Stark
+        actor: Isaac Hempstead Wright
+      - name: Robb Stark
+        actor: Richard Madden
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Theon Greyjoy
+        actor: Alfie Allen
+      - name: Joffrey Baratheon
+        actor: Jack Gleeson
+      - name: Khal Drogo
+        actor: Jason Momoa
+
+  - name: The Kingsroad
+    description: >
+      Ned Stark leaves Winterfell for King's Landing while Jon Snow heads to the Wall and Daenerys begins
+      her new life in Essos.
+    released: 2011-04-24
+    length: 56m
+    imdb: https://www.imdb.com/title/tt1668746/
+    wikipedia: https://en.wikipedia.org/wiki/The_Kingsroad
+    directors: Tim Van Patten
+    writers:
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Catelyn Stark
+        actor: Michelle Fairley
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Joffrey Baratheon
+        actor: Jack Gleeson
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Robert Baratheon
+        actor: Mark Addy
+      - name: Cersei Lannister
+        actor: Lena Headey
+      - name: Jorah Mormont
+        actor: Iain Glen
+
+  - name: Lord Snow
+    description: >
+      Ned Stark arrives in the capital to find a kingdom in debt, while Jon Snow struggles to adapt to
+      life at the Wall.
+    released: 2011-05-01
+    length: 58m
+    imdb: https://www.imdb.com/title/tt1829962/
+    wikipedia: https://en.wikipedia.org/wiki/Lord_Snow
+    directors: Brian Kirk
+    writers:
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Catelyn Stark
+        actor: Michelle Fairley
+      - name: Petyr Baelish
+        actor: Aidan Gillen
+      - name: Bran Stark
+        actor: Isaac Hempstead Wright
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Viserys Targaryen
+        actor: Harry Lloyd
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Cersei Lannister
+        actor: Lena Headey
+      - name: Robert Baratheon
+        actor: Mark Addy
+
+  - name: "Cripples, Bastards, and Broken Things"
+    description: >
+      Ned investigates the death of his predecessor while Tyrion Lannister helps Bran Stark and is later
+      confronted by Catelyn.
+    released: 2011-05-08
+    length: 56m
+    imdb: https://www.imdb.com/title/tt1829963/
+    wikipedia: https://en.wikipedia.org/wiki/Cripples,_Bastards,_and_Broken_Things
+    directors: Brian Kirk
+    writers: Bryan Cogman
+    characters:
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+      - name: Catelyn Stark
+        actor: Michelle Fairley
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Samwell Tarly
+        actor: John Bradley
+      - name: Viserys Targaryen
+        actor: Harry Lloyd
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Joffrey Baratheon
+        actor: Jack Gleeson
+
+  - name: The Wolf and the Lion
+    description: >
+      Tensions rise between the Starks and Lannisters as Ned resigns his position and Jaime Lannister
+      seeks revenge for his brother's capture.
+    released: 2011-05-15
+    length: 55m
+    imdb: https://www.imdb.com/title/tt1829964/
+    wikipedia: https://en.wikipedia.org/wiki/The_Wolf_and_the_Lion
+    directors: Brian Kirk
+    writers:
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Robert Baratheon
+        actor: Mark Addy
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Catelyn Stark
+        actor: Michelle Fairley
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+      - name: Jaime Lannister
+        actor: Nikolaj Coster-Waldau
+      - name: Petyr Baelish
+        actor: Aidan Gillen
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Sansa Stark
+        actor: Sophie Turner
+
+  - name: A Golden Crown
+    description: >
+      Ned Stark rules from the Iron Throne in the King's absence while Tyrion faces a trial in the Vale
+      and Viserys Targaryen demands his crown.
+    released: 2011-05-22
+    length: 53m
+    imdb: https://www.imdb.com/title/tt1832382/
+    wikipedia: https://en.wikipedia.org/wiki/A_Golden_Crown
+    directors: Daniel Minahan
+    writers:
+      - Jane Espenson
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Robert Baratheon
+        actor: Mark Addy
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Bran Stark
+        actor: Isaac Hempstead Wright
+      - name: Robb Stark
+        actor: Richard Madden
+      - name: Theon Greyjoy
+        actor: Alfie Allen
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+      - name: Viserys Targaryen
+        actor: Harry Lloyd
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Khal Drogo
+        actor: Jason Momoa
+
+  - name: You Win or You Die
+    description: >
+      Ned Stark confronts Queen Cersei about her secrets as King Robert's life hangs in the balance and
+      the struggle for power intensifies.
+    released: 2011-05-29
+    length: 58m
+    imdb: https://www.imdb.com/title/tt1832383/
+    wikipedia: https://en.wikipedia.org/wiki/You_Win_or_You_Die
+    directors: Daniel Minahan
+    writers:
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Cersei Lannister
+        actor: Lena Headey
+      - name: Robert Baratheon
+        actor: Mark Addy
+      - name: Joffrey Baratheon
+        actor: Jack Gleeson
+      - name: Petyr Baelish
+        actor: Aidan Gillen
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Samwell Tarly
+        actor: John Bradley
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Jorah Mormont
+        actor: Iain Glen
+      - name: Khal Drogo
+        actor: Jason Momoa
+      - name: Jaime Lannister
+        actor: Nikolaj Coster-Waldau
+
+  - name: The Pointy End
+    description: >
+      Following a betrayal in the capital, the Stark children must find ways to survive while Robb Stark
+      calls his banners for war.
+    released: 2011-06-05
+    length: 59m
+    imdb: https://www.imdb.com/title/tt1832384/
+    wikipedia: https://en.wikipedia.org/wiki/The_Pointy_End
+    directors: Daniel Minahan
+    writers: George R. R. Martin
+    characters:
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Robb Stark
+        actor: Richard Madden
+      - name: Bran Stark
+        actor: Isaac Hempstead Wright
+      - name: Catelyn Stark
+        actor: Michelle Fairley
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Samwell Tarly
+        actor: John Bradley
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Khal Drogo
+        actor: Jason Momoa
+      - name: Joffrey Baratheon
+        actor: Jack Gleeson
+      - name: Cersei Lannister
+        actor: Lena Headey
+
+  - name: Baelor
+    description: >
+      Ned Stark makes a difficult choice to protect his family while Robb Stark leads his army into a
+      pivotal battle against the Lannisters.
+    released: 2011-06-12
+    length: 57m
+    imdb: https://www.imdb.com/title/tt1851397/
+    wikipedia: https://en.wikipedia.org/wiki/Baelor
+    directors: Alan Taylor
+    writers:
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Catelyn Stark
+        actor: Michelle Fairley
+      - name: Robb Stark
+        actor: Richard Madden
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Jorah Mormont
+        actor: Iain Glen
+      - name: Jaime Lannister
+        actor: Nikolaj Coster-Waldau
+      - name: Ned Stark
+        actor: Sean Bean
+      - name: Joffrey Baratheon
+        actor: Jack Gleeson
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Cersei Lannister
+        actor: Lena Headey
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+
+  - name: Fire and Blood
+    description: >
+      The Seven Kingdoms are thrown into chaos following a shocking execution, and Daenerys Targaryen
+      makes a final stand in Essos.
+    released: 2011-06-19
+    length: 53m
+    imdb: https://www.imdb.com/title/tt1851398/
+    wikipedia: https://en.wikipedia.org/wiki/Fire_and_Blood_(Game_of_Thrones)
+    directors: Alan Taylor
+    writers:
+      - David Benioff
+      - D. B. Weiss
+    characters:
+      - name: Robb Stark
+        actor: Richard Madden
+      - name: Jaime Lannister
+        actor: Nikolaj Coster-Waldau
+      - name: Joffrey Baratheon
+        actor: Jack Gleeson
+      - name: Tyrion Lannister
+        actor: Peter Dinklage
+      - name: Jon Snow
+        actor: Kit Harington
+      - name: Arya Stark
+        actor: Maisie Williams
+      - name: Sansa Stark
+        actor: Sophie Turner
+      - name: Daenerys Targaryen
+        actor: Emilia Clarke
+      - name: Jorah Mormont
+        actor: Iain Glen
+      - name: Cersei Lannister
+        actor: Lena Headey
+      - name: Petyr Baelish
+        actor: Aidan Gillen

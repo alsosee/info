@@ -1,4 +1,6 @@
 name: Tunic
+description: >
+  Tunic is an isometric action-adventure game about a small fox exploring a ruined fantasy world, uncovering secrets through environmental clues and pages of an in-game manual written largely in a constructed language.
 genres:
   - Action
   - Adventure
@@ -17,3 +19,10 @@ playstation: https://store.playstation.com/en-us/product/UP0406-PPSA03054_00-339
 released: 2022-03-16
 engine: Unity
 developers: Andrew Shouldice
+publishers: Finji
+designers: Andrew Shouldice
+composers:
+  - Lifeformed
+  - Janice Kwan
+spotify: https://open.spotify.com/album/5I7kCzmigmNvCVrqFjZo1q
+apple_music: https://music.apple.com/us/album/tunic-original-game-soundtrack/1716150107

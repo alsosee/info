@@ -1,0 +1,53 @@
+name: Apocalypse Now
+description: >
+  During the Vietnam War, Captain Willard is sent on a dangerous mission into Cambodia to assassinate a renegade Special Forces Colonel who has set himself up as a god among a local tribe.
+released: 1979-08-15
+rating: R
+length: 2h27m
+genres:
+  - war
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Apocalypse_Now
+imdb: https://www.imdb.com/title/tt0078788
+tmdb: https://www.themoviedb.org/movie/28-apocalypse-now
+rotten_tomatoes: https://www.rottentomatoes.com/m/apocalypse_now
+metacritic: https://www.metacritic.com/movie/apocalypse-now
+trailer: https://www.youtube.com/watch?v=9l-ViO6E828
+directors: Francis Ford Coppola
+screenplay:
+  - John Milius
+  - Francis Ford Coppola
+music:
+  - Carmine Coppola
+  - Francis Ford Coppola
+cinematography: Vittorio Storaro
+editors:
+  - Richard Marks
+  - Walter Murch
+  - Gerald B. Greenberg
+  - Lisa Fruchtman
+production: American Zoetrope
+distributors: United Artists
+characters:
+  - name: Captain Benjamin L. Willard
+    actor: Martin Sheen
+  - name: Colonel Walter Kurtz
+    actor: Marlon Brando
+  - name: Lieutenant Colonel William "Bill" Kilgore
+    actor: Robert Duvall
+  - name: Jay "Chef" Hicks
+    actor: Frederic Forrest
+  - name: Chief Petty Officer George Phillips
+    actor: Albert Hall
+  - name: Lance B. Johnson
+    actor: Sam Bottoms
+  - name: Tyrone "Mr. Clean" Miller
+    actor: Laurence Fishburne
+  - name: Photojournalist
+    actor: Dennis Hopper
+  - name: Lieutenant General R. Corman
+    actor: G. D. Spradlin
+  - name: Colonel G. Lucas
+    actor: Harrison Ford
+  - name: Captain Richard M. Colby
+    actor: Scott Glenn

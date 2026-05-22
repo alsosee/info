@@ -1,0 +1,147 @@
+name: "Easy, Season 2"
+description: >
+  The second season of the anthology series continues to follow the lives of various Chicagoans as they navigate modern complexities of love, relationships, and culture.
+previous: Series/2016/Easy
+released: 2017-12-01
+rating: TV-MA
+genres:
+  - comedy
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Easy_(TV_series)
+imdb: https://www.imdb.com/title/tt5562058/
+tmdb: https://www.themoviedb.org/tv/67844-easy/season/2
+network: Netflix
+creators: Joe Swanberg
+episodes:
+  - name: "Package Thief"
+    description: >
+      Neighbors in an affluent community take matters into their own hands when they spy a thief stealing packages off their doorsteps.
+    released: 2017-12-01
+    length: 29m
+    imdb: https://www.imdb.com/title/tt7254446/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Lindsay
+        actor: Aubrey Plaza
+      - name: Harrison
+        actor: Lawrence Michael Levine
+      - name: Mike
+        actor: Joe Lo Truglio
+      - name: Annie
+        actor: Jennifer Kim
+      - name: Whitman
+        actor: Timothy Simons
+  - name: "Open Marriage"
+    description: >
+      After discussing it in therapy, married parents Andi and Kyle explore an open relationship and both test the waters on the same night.
+    released: 2017-12-01
+    length: 26m
+    imdb: https://www.imdb.com/title/tt7557546/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Kyle
+        actor: Michael Chernus
+      - name: Andi
+        actor: Elizabeth Reaser
+      - name: Amy
+        actor: Lindsay Burdge
+      - name: Jason
+        actor: Parker Sawyers
+  - name: "Side Hustle"
+    description: >
+      A stand-up comedian who drives an Uber and a sex-positive feminist writer who moonlights as a call girl hustle to make a living while chasing their creative dreams.
+    released: 2017-12-01
+    length: 26m
+    imdb: https://www.imdb.com/title/tt6884762/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Sally
+        actor: Karley Sciortino
+      - name: Od
+        actor: Odinaka Malachi Ezeokoli
+      - name: Annabelle Jones
+        actor: Jane Adams
+  - name: "Spent Grain"
+    description: >
+      While the brewery brothers grapple with growing pains, their wives launch their own business selling organic dog treats.
+    released: 2017-12-01
+    length: 30m
+    imdb: https://www.imdb.com/title/tt6844892/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Jeff
+        actor: Dave Franco
+      - name: Matt
+        actor: Evan Jonigkeit
+      - name: Noelle
+        actor: Zazie Beetz
+      - name: Sherri
+        actor: Aya Cash
+  - name: "Conjugality"
+    description: >
+      Jacob attempts to reconnect with his ex-wife as he publishes a new edition of his graphic novel, which documented his past infidelities.
+    released: 2017-12-01
+    length: 30m
+    imdb: https://www.imdb.com/title/tt6673254/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Jacob Malco
+        actor: Marc Maron
+      - name: Karen Treska
+        actor: Michaela Watkins
+      - name: Annabelle Jones
+        actor: Jane Adams
+      - name: Lauren
+        actor: Kate Berlant
+  - name: "Prodigal Daughter"
+    description: >
+      A teenager turns the tables on her wealthy parents when they force her to attend church every week as punishment.
+    released: 2017-12-01
+    length: 30m
+    imdb: https://www.imdb.com/title/tt7322222/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Grace
+        actor: Danielle Macdonald
+      - name: Gretchen
+        actor: Judy Greer
+      - name: Andy
+        actor: Peter Gwinn
+      - name: Jo
+        actor: Jacqueline Toboni
+      - name: Father Timothy
+        actor: Tim Kazurinsky
+  - name: "Lady Cha Cha"
+    description: >
+      A young woman discovers the gratification of cabaret dancing, shaking her girlfriend's preconceptions about art, sex, and feminism.
+    released: 2017-12-01
+    length: 30m
+    imdb: https://www.imdb.com/title/tt6835959/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Chase
+        actor: Kiersey Clemons
+      - name: Jo
+        actor: Jacqueline Toboni
+      - name: Amber
+        actor: Jaz Sinclair
+  - name: "Baby Steps"
+    description: >
+      Burned by a recent breakup, a woman finds joy babysitting for a friend and contemplates a new kind of domestic arrangement.
+    released: 2017-12-01
+    length: 30m
+    imdb: https://www.imdb.com/title/tt7511280/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Annie
+        actor: Kate Micucci
+      - name: Samantha
+        actor: Megan Ferguson

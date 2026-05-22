@@ -1,0 +1,95 @@
+title: BAFTA 2017
+website: https://awards.bafta.org/award/2017/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: Lion
+        screenplay:
+            - Luke Davies
+    - name: Animated Film
+      winner:
+        movie: Kubo and the Two Strings
+    - name: British Short Animation
+      winner:
+        movie: A Love Story
+    - name: British Short Film
+      winner:
+        movie: Home
+    - name: Cinematography
+      winner:
+        movie: La La Land
+    - name: Costume Design
+      winner:
+        movie: Jackie
+        constumedesign:
+            - Madeline Fontaine
+    - name: Director
+      winner:
+        movie: Damien Chazelle
+        directors:
+            - La La Land
+    - name: Documentary
+      winner:
+        movie: 13th
+    - name: EE Rising Star
+      winner:
+        movie: Tom Holland
+    - name: Editing
+      winner:
+        movie: Hacksaw Ridge
+        editors:
+            - John Gilbert
+    - name: Fellowship
+      winner:
+        person: Mel Brooks
+    - name: Film
+      winner:
+        movie: La La Land
+    - name: Film Not in the English Language
+      winner:
+        movie: Son of Saul
+    - name: Leading Actor
+      winner:
+        movie: Manchester by the Sea
+        actor: Casey Affleck
+    - name: Leading Actress
+      winner:
+        movie: La La Land
+        actor: Emma Stone
+    - name: Make Up and Hair
+      winner:
+        movie: Florence Foster Jenkins
+    - name: Original Music
+      winner:
+        movie: La La Land
+    - name: Original Screenplay
+      winner:
+        movie: Manchester by the Sea
+        screenplay:
+            - Kenneth Lonergan
+    - name: Outstanding British Contribution to Cinema
+      winner:
+        person: Curzon
+    - name: Outstanding British Film
+      winner:
+        movie: I, Daniel Blake
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Babak Anvari, Emily Leo, Oliver Roskill, Lucan Toh
+    - name: Production Design
+      winner:
+        movie: Fantastic Beasts and Where to Find Them
+    - name: Sound
+      winner:
+        movie: Arrival
+    - name: Special Visual Effects
+      winner:
+        movie: The Jungle Book
+    - name: Supporting Actor
+      winner:
+        movie: Lion
+        actor: Dev Patel
+    - name: Supporting Actress
+      winner:
+        movie: Fences
+        actor: Viola Davis

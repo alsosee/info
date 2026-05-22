@@ -1,0 +1,76 @@
+title: Oscar 1935
+wikipedia: https://en.wikipedia.org/wiki/7th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1935
+imdb: https://www.imdb.com/event/ev0000003/1935/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: It Happened One Night
+
+  - name: Best Directing
+    winner:
+      movie: It Happened One Night
+      directors: Frank Capra
+
+  - name: Best Actor
+    winner:
+      actor: Clark Gable
+      movie: It Happened One Night
+
+  - name: Best Actress
+    winner:
+      actor: Claudette Colbert
+      movie: It Happened One Night
+
+  - name: Writing (Original Story)
+    winner:
+      movie: Manhattan Melodrama
+      writers: Arthur Caesar
+
+  - name: Writing (Adaptation)
+    winner:
+      movie: It Happened One Night
+      writers: Robert Riskin
+
+  - name: Best Short Subject (Comedy)
+    winner:
+      movie: La Cucaracha
+
+  - name: Best Short Subject (Novelty)
+    winner:
+      movie: City of Wax
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Tortoise and the Hare
+
+  - name: Best Music (Scoring)
+    winner:
+      movie: One Night of Love
+
+  - name: Best Music (Song)
+    winner:
+      movie: The Gay Divorcee
+      track: The Continental
+
+  - name: Best Sound Recording
+    winner:
+      movie: One Night of Love
+
+  - name: Best Assistant Director
+    winner:
+      movie: Viva Villa!
+
+  - name: Best Art Direction
+    winner:
+      movie: The Merry Widow
+
+  - name: Best Cinematography
+    winner:
+      movie: Cleopatra
+      cinematography: Victor Milner
+
+  - name: Best Film Editing
+    winner:
+      movie: Eskimo
+      editors: Conrad A. Nervig

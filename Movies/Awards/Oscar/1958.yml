@@ -1,0 +1,99 @@
+title: Oscar 1958
+wikipedia: https://en.wikipedia.org/wiki/30th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1958
+imdb: https://www.imdb.com/event/ev0000003/1958/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: The Bridge on the River Kwai
+
+  - name: Best Directing
+    winner:
+      movie: The Bridge on the River Kwai
+      directors: David Lean
+
+  - name: Best Actor
+    winner:
+      actor: Alec Guinness
+      movie: The Bridge on the River Kwai
+
+  - name: Best Actress
+    winner:
+      actor: Joanne Woodward
+      movie: The Three Faces of Eve
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Red Buttons
+      movie: Sayonara
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Miyoshi Umeki
+      movie: Sayonara
+
+  - name: Writing (Story and Screenplay -- Written Directly for the Screen)
+    winner:
+      movie: Designing Woman
+      writers: George Wells
+
+  - name: Writing (Screenplay -- Based on Material from Another Medium)
+    winner:
+      movie: The Bridge on the River Kwai
+      writers:
+        - Michael Wilson
+        - Carl Foreman
+        - Pierre Boulle
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Nights of Cabiria
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: Albert Schweitzer
+
+  - name: Best Short Subject (Live Action)
+    winner:
+      movie: The Wetback Hound
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Birds Anonymous
+
+  - name: Best Music (Scoring)
+    winner:
+      movie: The Bridge on the River Kwai
+      music: Malcolm Arnold
+
+  - name: Best Music (Song)
+    winner:
+      movie: The Joker Is Wild
+      track: All the Way
+
+  - name: Best Sound Recording
+    winner:
+      movie: Sayonara
+
+  - name: Best Art Direction
+    winner:
+      movie: Sayonara
+
+  - name: Best Cinematography
+    winner:
+      movie: The Bridge on the River Kwai
+      cinematography: Jack Hildyard
+
+  - name: Best Costume Design
+    winner:
+      movie: Les Girls
+      costume_design: Orry-Kelly
+
+  - name: Best Film Editing
+    winner:
+      movie: The Bridge on the River Kwai
+      editors: Peter Taylor
+
+  - name: Best Special Effects
+    winner:
+      movie: The Enemy Below

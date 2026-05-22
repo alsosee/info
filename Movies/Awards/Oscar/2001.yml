@@ -1,0 +1,107 @@
+title: Oscar 2001
+wikipedia: https://en.wikipedia.org/wiki/73rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2001
+imdb: https://www.imdb.com/event/ev0000003/2001/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Russell Crowe
+      movie: Gladiator
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Benicio del Toro
+      movie: Traffic
+
+  - name: Actress in a leading role
+    winner:
+      actor: Julia Roberts
+      movie: Erin Brockovich
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Marcia Gay Harden
+      movie: Pollock
+
+  - name: Art Direction
+    winner:
+      movie: Crouching Tiger, Hidden Dragon
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Crouching Tiger, Hidden Dragon
+
+  - name: Cinematography
+    winner:
+      movie: Crouching Tiger, Hidden Dragon
+      cinematography: Peter Pau
+
+  - name: Costume Design
+    winner:
+      movie: Gladiator
+
+  - name: Directing
+    winner:
+      movie: Traffic
+      directors: Steven Soderbergh
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Into the Arms of Strangers: Stories of the Kindertransport"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Big Mama
+
+  - name: Film Editing
+    winner:
+      movie: Traffic
+      editors: Stephen Mirrione
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: How the Grinch Stole Christmas
+
+  - name: Music (Original Score)
+    winner:
+      movie: Crouching Tiger, Hidden Dragon
+      music: Tan Dun
+
+  - name: Music (Original Song)
+    winner:
+      movie: Wonder Boys
+      track: Things Have Changed
+
+  - name: Best Picture
+    winner:
+      movie: Gladiator
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Father and Daughter
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: "Quiero ser (I want to be...)"
+
+  - name: Sound
+    winner:
+      movie: Gladiator
+
+  - name: Sound Editing
+    winner:
+      movie: U-571
+
+  - name: Visual Effects
+    winner:
+      movie: Gladiator
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Traffic
+      writers: Stephen Gaghan
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Almost Famous
+      writers: Cameron Crowe

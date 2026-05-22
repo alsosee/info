@@ -1,0 +1,67 @@
+title: BAFTA 1971
+website: https://awards.bafta.org/award/1971/film
+categories:
+  - name: Actor
+    winner:
+      movie: Robert Redford
+  - name: Actress
+    winner:
+      movie: Katharine Ross
+  - name: Animated Film
+    winner:
+      movie: Henry Nine 'Til Five
+  - name: Anthony Asquith Memorial Award
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+  - name: Art Direction
+    winner:
+      movie: Waterloo
+  - name: Cinematography
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+  - name: Costume Design
+    winner:
+      movie: Waterloo
+      constumedesign:
+        - Maria De Matteis
+  - name: Direction
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+  - name: Fellowship
+    winner:
+      person: Alfred Hitchcock
+  - name: Film
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+  - name: Film Editing
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+  - name: Most Promising Newcomer To Leading Film Roles
+    winner:
+      movie: David Bradley
+  - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+    winner:
+      movie: Sad Song Of Yellow Skin
+  - name: Screenplay
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+  - name: Short Film
+    winner:
+      movie: The Shadow Of Progress
+  - name: Soundtrack
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+  - name: Specialised Film
+    winner:
+      movie: The Rise And Fall Of The Great Lakes
+  - name: Supporting Actor
+    winner:
+      movie: Kes
+      actor: Colin Welland
+  - name: Supporting Actress
+    winner:
+      movie: They Shoot Horses, Don't They?
+      actor: Susannah York
+  - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+    winner:
+      movie: M*A*S*H

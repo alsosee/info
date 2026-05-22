@@ -1,0 +1,43 @@
+name: Milk
+description: >
+  The story of Harvey Milk, and his struggles as an American gay activist who
+  fought for gay rights and became California's first openly gay elected
+  official.
+released: 2008-11-26
+rating: R
+length: 2h8m
+genres:
+  - biography
+  - drama
+  - history
+wikipedia: https://en.wikipedia.org/wiki/Milk_(2008_film)
+imdb: https://www.imdb.com/title/tt0463816
+tmdb: https://www.themoviedb.org/movie/10138-milk
+rotten_tomatoes: https://www.rottentomatoes.com/m/milk
+metacritic: https://www.metacritic.com/movie/milk
+trailer: https://www.youtube.com/watch?v=uK7U97-S_u8
+directors: Gus Van Sant
+screenplay: Dustin Lance Black
+producers:
+  - Dan Jinks
+  - Bruce Cohen
+music: Danny Elfman
+cinematography: Harris Savides
+editors: Elliot Graham
+production:
+  - Groundswell Productions
+  - Jinks/Cohen Company
+distributors: Focus Features
+characters:
+  - name: Harvey Milk
+    actor: Sean Penn
+  - name: Cleve Jones
+    actor: Emile Hirsch
+  - name: Dan White
+    actor: Josh Brolin
+  - name: Scott Smith
+    actor: James Franco
+  - name: Jack Lira
+    actor: Diego Luna
+  - name: Anne Kronenberg
+    actor: Alison Pill

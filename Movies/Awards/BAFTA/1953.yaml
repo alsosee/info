@@ -1,0 +1,33 @@
+title: BAFTA 1953
+website: https://awards.bafta.org/award/1953/film
+categories:
+    - name: British Actor
+      winner:
+        movie: Ralph Richardson
+    - name: British Actress
+      winner:
+        movie: Vivien Leigh
+    - name: British Film
+      winner:
+        movie: The Sound Barrier
+    - name: Documentary
+      winner:
+        movie: Royal Journey
+    - name: Film From Any Source
+      winner:
+        movie: The Sound Barrier
+    - name: Foreign Actor
+      winner:
+        movie: Marlon Brando
+    - name: Foreign Actress
+      winner:
+        movie: Simone Signoret
+    - name: Most Promising Newcomer To Film
+      winner:
+        movie: Claire Bloom
+    - name: Special Award
+      winner:
+        movie: Animated Genesis
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: Cry, The Beloved Country

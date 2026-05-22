@@ -1,0 +1,18 @@
+title: BAFTA 1950
+website: https://awards.bafta.org/award/1950/film
+categories:
+    - name: British Film
+      winner:
+        movie: The Third Man
+    - name: Documentary
+      winner:
+        movie: Daybreak In Udi
+    - name: Film From Any Source
+      winner:
+        movie: Bicycle Thieves (Ladri Di Biciclette)
+    - name: Special Award
+      winner:
+        movie: The Martin Family (La Famille Martin)
+    - name: United Nations Award - for the best Film embodying one or more of the principles of the United Nations Charter
+      winner:
+        movie: The Search

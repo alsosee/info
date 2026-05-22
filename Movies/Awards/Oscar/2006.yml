@@ -1,0 +1,115 @@
+title: Oscar 2006
+wikipedia: https://en.wikipedia.org/wiki/78th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2006
+imdb: https://www.imdb.com/event/ev0000003/2006/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Philip Seymour Hoffman
+      movie: Capote
+
+  - name: Actor in a supporting role
+    winner:
+      actor: George Clooney
+      movie: Syriana
+
+  - name: Actress in a leading role
+    winner:
+      actor: Reese Witherspoon
+      movie: Walk the Line
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Rachel Weisz
+      movie: The Constant Gardener
+
+  - name: Animated feature film
+    winner:
+      movie: "Wallace & Gromit: The Curse of the Were-Rabbit"
+
+  - name: Art Direction
+    winner:
+      movie: Memoirs of a Geisha
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Tsotsi
+
+  - name: Cinematography
+    winner:
+      movie: Memoirs of a Geisha
+      cinematography: Dion Beebe
+
+  - name: Costume Design
+    winner:
+      movie: Memoirs of a Geisha
+
+  - name: Directing
+    winner:
+      movie: Brokeback Mountain
+      directors: Ang Lee
+
+  - name: Documentary Feature Film
+    winner:
+      movie: March of the Penguins
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "A Note of Triumph: The Golden Age of Norman Corwin"
+
+  - name: Film Editing
+    winner:
+      movie: Crash
+      editors: Hughes Winborne
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+
+  - name: Music (Original Score)
+    winner:
+      movie: Brokeback Mountain
+      music: Gustavo Santaolalla
+
+  - name: Music (Original Song)
+    winner:
+      movie: Hustle & Flow
+      track: It's Hard out Here for a Pimp
+
+  - name: Best Picture
+    winner:
+      movie: Crash
+
+  - name: Short Film (Animated)
+    winner:
+      movie: "The Moon and the Son: An Imagined Conversation"
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Six Shooter
+
+  - name: Sound Editing
+    winner:
+      movie: King Kong
+
+  - name: Sound Mixing
+    winner:
+      movie: King Kong
+
+  - name: Visual Effects
+    winner:
+      movie: King Kong
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Brokeback Mountain
+      writers:
+        - Larry McMurtry
+        - Diana Ossana
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Crash
+      writers:
+        - Paul Haggis
+        - Robert Moresco

@@ -1,0 +1,110 @@
+name: "Fargo"
+released: 2014-04-15
+genres:
+  - Anthology
+  - Crime drama
+  - Noir
+  - Thriller
+  - Black comedy
+wikipedia: https://en.wikipedia.org/wiki/Fargo_(TV_series)
+imdb: https://www.imdb.com/title/tt2384811/
+tmdb: https://www.themoviedb.org/tv/60622-fargo
+creators: Noah Hawley
+music: Jeff Russo
+production:
+  - 26 Keys Productions
+  - The Littlefield Company
+  - Mike Zoss Productions
+  - FX Productions
+  - MGM Television
+distributors: FX
+characters:
+  - name: Lorne Malvo
+    actor: Billy Bob Thornton
+  - name: Lester Nygaard
+    actor: Martin Freeman
+  - name: Molly Solverson
+    actor: Allison Tolman
+  - name: Gus Grimly
+    actor: Colin Hanks
+episodes:
+  - name: "The Crocodile's Dilemma"
+    released: 2014-04-15
+    length: 68m
+    wikipedia: https://en.wikipedia.org/wiki/The_Crocodile%27s_Dilemma
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Adam Bernstein
+    writers: Noah Hawley
+    description: A drifter arrives in a small town and influences a local insurance salesman.
+  - name: "The Rooster Prince"
+    released: 2014-04-22
+    length: 48m
+    wikipedia: https://en.wikipedia.org/wiki/The_Rooster_Prince
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Adam Bernstein
+    writers: Noah Hawley
+    description: Two hitmen arrive in town searching for a killer, while the local police department undergoes a change in leadership.
+  - name: "A Muddy Road"
+    released: 2014-04-29
+    length: 48m
+    wikipedia: https://en.wikipedia.org/wiki/A_Muddy_Road
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Randall Einhorn
+    writers: Noah Hawley
+    description: Molly investigates a kidnapping case from St. Paul, while Malvo begins a psychological extortion scheme against a supermarket tycoon.
+  - name: "Eating the Blame"
+    released: 2014-05-06
+    length: 48m
+    wikipedia: https://en.wikipedia.org/wiki/Eating_the_Blame
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Randall Einhorn
+    writers: Noah Hawley
+    description: Malvo continues to terrorize Stavros with biblical-style plagues, while Gus makes a move to arrest him.
+  - name: "The Six Ungraspables"
+    released: 2014-05-13
+    length: 48m
+    wikipedia: https://en.wikipedia.org/wiki/The_Six_Ungraspables
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Colin Bucksey
+    writers: Noah Hawley
+    description: Lester's hidden injury becomes a critical piece of evidence for Molly, while Malvo's extortion scheme reaches a tipping point.
+  - name: "Buridan's Ass"
+    released: 2014-05-20
+    length: 53m
+    wikipedia: https://en.wikipedia.org/wiki/Buridan%27s_Ass
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Colin Bucksey
+    writers: Noah Hawley
+    description: A confrontation in a blizzard leads to chaos, while Stavros attempts to resolve his blackmail situation.
+  - name: "Who Shaves the Barber?"
+    released: 2014-05-27
+    length: 48m
+    wikipedia: https://en.wikipedia.org/wiki/Who_Shaves_the_Barber%3F
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Scott Winant
+    writers: Noah Hawley
+    description: Lester attempts to shift the police's suspicion onto someone else, while Malvo carries out a major operation in Fargo.
+  - name: "The Heap"
+    released: 2014-06-03
+    length: 53m
+    wikipedia: https://en.wikipedia.org/wiki/The_Heap_(Fargo)
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Scott Winant
+    writers: Noah Hawley
+    description: One year after the chaos in Bemidji, Lester has transformed his life but a chance encounter in Las Vegas threatens his new reality.
+  - name: "A Fox, a Rabbit, and a Cabbage"
+    released: 2014-06-10
+    length: 53m
+    wikipedia: https://en.wikipedia.org/wiki/A_Fox,_a_Rabbit,_and_a_Cabbage
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Matt Shakman
+    writers: Noah Hawley
+    description: A violent confrontation in Las Vegas forces Lester to flee back home, while Malvo begins a hunt for his former associate.
+  - name: "Morton's Fork"
+    released: 2014-06-17
+    length: 63m
+    wikipedia: https://en.wikipedia.org/wiki/Morton%27s_Fork
+    imdb: https://www.imdb.com/title/tt2384811/episodes/?season=1
+    directors: Matt Shakman
+    writers: Noah Hawley
+    description: The investigation reaches its climax as the police close in on Malvo and Lester for a final confrontation.

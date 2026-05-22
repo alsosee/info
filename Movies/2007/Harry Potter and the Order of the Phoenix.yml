@@ -1,0 +1,66 @@
+name: "Harry Potter and the Order of the Phoenix"
+description: >
+  Harry Potter's fifth year at Hogwarts is overshadowed by the Ministry of Magic's denial
+  of Lord Voldemort's return and the appointment of the oppressive Dolores Umbridge as
+  Defence Against the Dark Arts teacher. Determined to take matters into his own hands,
+  Harry secretly trains a group of students known as Dumbledore's Army to prepare for
+  the coming war.
+previous: Movies/2005/Harry Potter and the Goblet of Fire
+released: 2007-07-11
+rating: PG-13
+length: 2h18m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Harry Potter
+wikipedia: https://en.wikipedia.org/wiki/Harry_Potter_and_the_Order_of_the_Phoenix_(film)
+imdb: https://www.imdb.com/title/tt0373889
+tmdb: https://www.themoviedb.org/movie/675-harry-potter-and-the-order-of-the-phoenix
+rotten_tomatoes: https://www.rottentomatoes.com/m/harry_potter_and_the_order_of_the_phoenix
+directors: David Yates
+screenplay: Michael Goldenberg
+music: Nicholas Hooper
+cinematography: Sławomir Idziak
+editors: Mark Day
+producers:
+  - David Heyman
+  - David Barron
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harry Potter
+    description: The protagonist
+    actor: Daniel Radcliffe
+  - name: Ron Weasley
+    description: Harry's best friend
+    actor: Rupert Grint
+  - name: Hermione Granger
+    description: Harry's best friend
+    actor: Emma Watson
+  - name: Albus Dumbledore
+    description: Headmaster of Hogwarts
+    actor: Michael Gambon
+  - name: Sirius Black
+    description: Harry's godfather
+    actor: Gary Oldman
+  - name: Rubeus Hagrid
+    description: Groundskeeper of Hogwarts
+    actor: Robbie Coltrane
+  - name: Severus Snape
+    description: Potions teacher
+    actor: Alan Rickman
+  - name: Dolores Umbridge
+    description: Ministry-appointed Defence Against the Dark Arts teacher
+    actor: Imelda Staunton
+  - name: Luna Lovegood
+    description: Eccentric Ravenclaw student and member of Dumbledore's Army
+    actor: Evanna Lynch
+  - name: Bellatrix Lestrange
+    description: Devoted Death Eater and Voldemort's most loyal servant
+    actor: Helena Bonham Carter
+  - name: Lord Voldemort
+    description: The dark wizard behind Harry's troubles
+    actor: Ralph Fiennes

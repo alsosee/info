@@ -1,0 +1,44 @@
+name: "Titan A.E."
+description: >
+  An animated science fiction film set in 3028, following a young man who discovers
+  he holds the key to saving humanity after the alien Drej destroy Earth.
+released: 2000-06-16
+rating: PG
+length: 1h35m
+genres:
+  - animation
+  - science fiction
+  - adventure
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Titan_A.E.
+imdb: https://www.imdb.com/title/tt0120913
+tmdb: https://www.themoviedb.org/movie/7450-titan-a-e
+directors:
+  - Don Bluth
+  - Gary Goldman
+screenplay:
+  - Ben Edlund
+  - John August
+  - Joss Whedon
+music: Graeme Revell
+editors:
+  - Bob Bender
+  - Fiona Trayler
+  - Paul Martin Smith
+production: Fox Animation Studios
+distributors: 20th Century Fox
+characters:
+  - name: Cale Tucker
+    voice: Matt Damon
+  - name: Captain Joseph Korso
+    voice: Bill Pullman
+  - name: Akima Kunimoto
+    voice: Drew Barrymore
+  - name: Preed
+    voice: Nathan Lane
+  - name: Gune
+    voice: John Leguizamo
+  - name: Stith
+    voice: Janeane Garofalo
+  - name: Professor Sam Tucker
+    voice: Ron Perlman

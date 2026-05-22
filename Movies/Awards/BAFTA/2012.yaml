@@ -1,0 +1,98 @@
+title: BAFTA 2012
+website: https://awards.bafta.org/award/2012/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: Tinker Tailor Soldier Spy
+        screenplay:
+            - Bridget O'Connor, Peter Straughan
+    - name: Animated Film
+      winner:
+        movie: Rango
+    - name: Cinematography
+      winner:
+        movie: The Artist
+    - name: Costume Design
+      winner:
+        movie: The Artist
+        constumedesign:
+            - Mark Bridges
+    - name: Director
+      winner:
+        movie: Michel Hazanavicius
+        directors:
+            - The Artist
+    - name: Documentary
+      winner:
+        movie: Senna
+    - name: Editing
+      winner:
+        movie: Senna
+        editors:
+            - Gregers Sall, Chris King
+    - name: Fellowship
+      winner:
+        person: Martin Scorsese
+    - name: Film
+      winner:
+        movie: The Artist
+    - name: Film Not in the English Language
+      winner:
+        movie: The Skin I Live In
+    - name: Leading Actor
+      winner:
+        movie: The Artist
+        actor: Jean Dujardin
+    - name: Leading Actress
+      winner:
+        movie: The Iron Lady
+        actor: Meryl Streep
+    - name: Make-Up And Hair
+      winner:
+        movie: The Iron Lady
+    - name: Orange Wednesdays Rising Star Award
+      winner:
+        movie: Adam Deacon
+    - name: Original Music
+      winner:
+        movie: The Artist
+    - name: Original Screenplay
+      winner:
+        movie: The Artist
+        screenplay:
+            - Michel Hazanavicius
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: John Hurt
+    - name: Outstanding British Film
+      winner:
+        movie: Tinker Tailor Soldier Spy
+    - name: Outstanding Debut By A British Writer, Director or Producer
+      winner:
+        movie: Paddy Considine, Diarmid Scrimshaw
+    - name: Production Design
+      winner:
+        movie: Hugo
+    - name: Short Animation
+      winner:
+        movie: A Morning Stroll
+    - name: Short Film
+      winner:
+        movie: Pitch Black Heist
+    - name: Sound
+      winner:
+        movie: Hugo
+    - name: Special Award
+      winner:
+        movie: Wolfgang Suschitzky
+    - name: Special Visual Effects
+      winner:
+        movie: Harry Potter And The Deathly Hallows Part 2
+    - name: Supporting Actor
+      winner:
+        movie: Beginners
+        actor: Christopher Plummer
+    - name: Supporting Actress
+      winner:
+        movie: The Help
+        actor: Octavia Spencer

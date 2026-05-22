@@ -1,0 +1,27 @@
+name: Portal
+description: >
+  A first-person puzzle-platform game in which Chell navigates Aperture Science
+  test chambers by using a handheld portal device to solve spatial and
+  physics-based challenges under the supervision of GLaDOS.
+released: 2007-10-10
+genres:
+  - Puzzle-platform
+wikipedia: https://en.wikipedia.org/wiki/Portal_(video_game)
+metacritic: https://www.metacritic.com/game/portal/
+fandom: https://portal-valve.fandom.com/wiki/Portal_(2007_video_game)
+ign: https://www.ign.com/games/portal
+website: https://store.steampowered.com/app/400/Portal/
+developers: Valve
+publishers: Valve
+designers: Kim Swift
+writers:
+  - Erik Wolpaw
+  - Chet Faliszek
+composers:
+  - Kelly Bailey
+  - Mike Morasky
+characters:
+  - name: Chell
+    actor: Alésia Glidewell
+  - name: GLaDOS
+    actor: Ellen McLain

@@ -1,0 +1,131 @@
+title: Oscar 1953
+wikipedia: https://en.wikipedia.org/wiki/25th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1953
+imdb: https://www.imdb.com/event/ev0000003/1953/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: The Greatest Show on Earth
+
+  - name: Best Directing
+    winner:
+      movie: The Quiet Man
+      directors: John Ford
+
+  - name: Best Actor
+    winner:
+      actor: Gary Cooper
+      movie: High Noon
+
+  - name: Best Actress
+    winner:
+      actor: Shirley Booth
+      movie: Come Back, Little Sheba
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Anthony Quinn
+      movie: Viva Zapata!
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Gloria Grahame
+      movie: The Bad and the Beautiful
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: The Greatest Show on Earth
+      writers:
+        - Fredric M. Frank
+        - Theodore St. John
+        - Frank Cavett
+
+  - name: Writing (Story and Screenplay)
+    winner:
+      movie: The Lavender Hill Mob
+      writers: T.E.B. Clarke
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Bad and the Beautiful
+      writers: Charles Schnee
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: The Sea Around Us
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Neighbours
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Light in the Window
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Water Birds
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Johann Mouse
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: High Noon
+      music: Dimitri Tiomkin
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: With a Song in My Heart
+      music: Alfred Newman
+
+  - name: Best Music (Song)
+    winner:
+      movie: High Noon
+      track: The Ballad of High Noon (Do Not Forsake Me, O My Darlin')
+
+  - name: Best Sound Recording
+    winner:
+      movie: Breaking the Sound Barrier
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: The Bad and the Beautiful
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Moulin Rouge
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: The Bad and the Beautiful
+      cinematography: Robert Surtees
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: The Quiet Man
+      cinematography:
+        - Winton C. Hoch
+        - Archie Stout
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: The Bad and the Beautiful
+      costume_design: Helen Rose
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: Moulin Rouge
+      costume_design: Marcel Vertès
+
+  - name: Best Film Editing
+    winner:
+      movie: High Noon
+      editors:
+        - Elmo Williams
+        - Harry W. Gerstad
+
+  - name: Best Special Effects
+    winner:
+      movie: Plymouth Adventure

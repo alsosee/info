@@ -1,0 +1,114 @@
+title: Oscar 1997
+wikipedia: https://en.wikipedia.org/wiki/69th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1997
+imdb: https://www.imdb.com/event/ev0000003/1997/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Geoffrey Rush
+      movie: Shine
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Cuba Gooding Jr.
+      movie: Jerry Maguire
+
+  - name: Actress in a leading role
+    winner:
+      actor: Frances McDormand
+      movie: Fargo
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Juliette Binoche
+      movie: The English Patient
+
+  - name: Art Direction
+    winner:
+      movie: The English Patient
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Kolya
+
+  - name: Cinematography
+    winner:
+      movie: The English Patient
+      cinematography: John Seale
+
+  - name: Costume Design
+    winner:
+      movie: The English Patient
+
+  - name: Directing
+    winner:
+      movie: The English Patient
+      directors: Anthony Minghella
+
+  - name: Documentary Feature Film
+    winner:
+      movie: When We Were Kings
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Breathing Lessons: The Life and Work of Mark O'Brien"
+
+  - name: Film Editing
+    winner:
+      movie: The English Patient
+      editors: Walter Murch
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: The Nutty Professor
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: The English Patient
+      music: Gabriel Yared
+
+  - name: Music (Original Musical or Comedy Score)
+    winner:
+      movie: Emma
+      music: Rachel Portman
+
+  - name: Music (Original Song)
+    winner:
+      movie: Evita
+      track: You Must Love Me
+
+  - name: Best Picture
+    winner:
+      movie: The English Patient
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Quest
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Dear Diary
+
+  - name: Sound
+    winner:
+      movie: The English Patient
+
+  - name: Sound Effects Editing
+    winner:
+      movie: The Ghost and the Darkness
+
+  - name: Visual Effects
+    winner:
+      movie: Independence Day
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Sling Blade
+      writers: Billy Bob Thornton
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Fargo
+      writers:
+        - Joel Coen
+        - Ethan Coen

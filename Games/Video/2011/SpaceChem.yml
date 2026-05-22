@@ -1,0 +1,26 @@
+name: SpaceChem
+description: >
+  SpaceChem is a design-based puzzle game about programming reactors to
+  transform input atoms and molecules into specified chemical products. Players
+  route two manipulators through visual command sequences, then combine reactors
+  into larger production systems while optimizing cycles, symbols, and reactor
+  count.
+released: 2011-01-01
+genres:
+  - puzzle
+  - programming
+  - automation
+wikipedia: https://en.wikipedia.org/wiki/SpaceChem
+metacritic: https://www.metacritic.com/game/spacechem/
+website: https://www.zachtronics.com/spacechem/
+steam: https://store.steampowered.com/app/92800/SpaceChem/
+apple_music: https://music.apple.com/us/album/spacechem-original-soundtrack/1478006113
+developers: Zachtronics Industries
+publishers: Zachtronics Industries
+designers: Zach Barth
+writers: Hillary Barth
+programmers:
+  - Collin Arnold
+  - Keith Holman
+artists: Ryan Sumo
+composers: Evan LE NY

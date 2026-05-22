@@ -1,0 +1,202 @@
+name: "The Falcon and the Winter Soldier"
+description: >
+  Six months after being handed the mantle of Captain America, Sam Wilson teams up with Bucky Barnes on a global mission to stop an anti-patriotism group called the Flag Smashers.
+  The series explores Sam's struggle with the shield's legacy and Bucky's journey to make amends for his past as the Winter Soldier.
+released: 2021-03-19
+rating: TV-14
+genres:
+  - action-adventure
+  - buddy comedy
+  - science fiction
+  - superhero
+network: Disney+
+wikipedia: https://en.wikipedia.org/wiki/The_Falcon_and_the_Winter_Soldier
+imdb: https://www.imdb.com/title/tt6964748
+tmdb: https://www.themoviedb.org/tv/88396-the-falcon-and-the-winter-soldier
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_falcon_and_the_winter_soldier
+disney_plus: https://www.disneyplus.com/series/the-falcon-and-the-winter-soldier/4m3S89SuBykU
+creators: Malcolm Spellman
+directors: Kari Skogland
+writers:
+  - Malcolm Spellman
+  - Michael Kastelein
+  - Derek Kolstad
+  - Dalan Musson
+  - Josef Sawyer
+producers:
+  - Kevin Feige
+  - Louis D'Esposito
+  - Victoria Alonso
+  - Nate Moore
+  - Kari Skogland
+  - Malcolm Spellman
+characters:
+  - name: Sam Wilson / Falcon / Captain America
+    actor: Anthony Mackie
+  - name: Bucky Barnes / Winter Soldier
+    actor: Sebastian Stan
+  - name: John Walker / Captain America / U.S. Agent
+    actor: Wyatt Russell
+  - name: Karli Morgenthau
+    actor: Erin Kellyman
+  - name: Joaquin Torres
+    actor: Danny Ramirez
+  - name: Helmut Zemo
+    actor: Daniel Brühl
+  - name: Sharon Carter / Power Broker
+    actor: Emily VanCamp
+  - name: Sarah Wilson
+    actor: Adepero Oduye
+  - name: Lemar Hoskins / Battlestar
+    actor: Clé Bennett
+  - name: Isaiah Bradley
+    actor: Carl Lumbly
+  - name: Ayo
+    actor: Florence Kasumba
+  - name: Valentina Allegra de Fontaine
+    actor: Julia Louis-Dreyfus
+episodes:
+  - name: "New World Order"
+    description: >
+      Sam Wilson stops a hijacking in Tunisia while struggling with the decision to give up Captain America's shield.
+      Bucky Barnes attends therapy to make amends for his past, and a new threat called the Flag Smashers emerges.
+    released: 2021-03-19
+    length: 50m
+    imdb: https://www.imdb.com/title/tt10230444
+    wikipedia: https://en.wikipedia.org/wiki/New_World_Order_(The_Falcon_and_the_Winter_Soldier)
+    directors: Kari Skogland
+    writers: Malcolm Spellman
+    characters:
+      - name: Sam Wilson
+        actor: Anthony Mackie
+      - name: Bucky Barnes
+        actor: Sebastian Stan
+      - name: Joaquin Torres
+        actor: Danny Ramirez
+      - name: Sarah Wilson
+        actor: Adepero Oduye
+      - name: John Walker
+        actor: Wyatt Russell
+      - name: Georges Batroc
+        actor: Georges St-Pierre
+  - name: "The Star-Spangled Man"
+    description: >
+      John Walker is introduced as the new Captain America, causing tension with Sam and Bucky.
+      The duo travels to Germany to investigate the Flag Smashers and discovers they are super soldiers.
+    released: 2021-03-26
+    length: 50m
+    imdb: https://www.imdb.com/title/tt13130300
+    wikipedia: https://en.wikipedia.org/wiki/The_Star-Spangled_Man
+    directors: Kari Skogland
+    writers: Michael Kastelein
+    characters:
+      - name: Sam Wilson
+        actor: Anthony Mackie
+      - name: Bucky Barnes
+        actor: Sebastian Stan
+      - name: John Walker
+        actor: Wyatt Russell
+      - name: Lemar Hoskins
+        actor: Clé Bennett
+      - name: Karli Morgenthau
+        actor: Erin Kellyman
+      - name: Isaiah Bradley
+        actor: Carl Lumbly
+  - name: "Power Broker"
+    description: >
+      Sam, Bucky, and Zemo travel to Madripoor to find the source of the Super Soldier Serum.
+      They reunite with Sharon Carter, who has been living as a fugitive, and uncover a secret lab.
+    released: 2021-04-02
+    length: 54m
+    imdb: https://www.imdb.com/title/tt13130302
+    wikipedia: https://en.wikipedia.org/wiki/Power_Broker_(The_Falcon_and_the_Winter_Soldier)
+    directors: Kari Skogland
+    writers: Derek Kolstad
+    characters:
+      - name: Sam Wilson
+        actor: Anthony Mackie
+      - name: Bucky Barnes
+        actor: Sebastian Stan
+      - name: Helmut Zemo
+        actor: Daniel Brühl
+      - name: Sharon Carter
+        actor: Emily VanCamp
+      - name: Karli Morgenthau
+        actor: Erin Kellyman
+      - name: Ayo
+        actor: Florence Kasumba
+  - name: "The Whole World Is Watching"
+    description: >
+      Zemo helps track down the Flag Smashers in Latvia, but John Walker's impatience leads to a violent confrontation.
+      The Wakandans arrive to take Zemo, and a tragic event pushes Walker over the edge.
+    released: 2021-04-09
+    length: 54m
+    imdb: https://www.imdb.com/title/tt13130304
+    wikipedia: https://en.wikipedia.org/wiki/The_Whole_World_Is_Watching
+    directors: Kari Skogland
+    writers: Derek Kolstad
+    characters:
+      - name: Sam Wilson
+        actor: Anthony Mackie
+      - name: Bucky Barnes
+        actor: Sebastian Stan
+      - name: Helmut Zemo
+        actor: Daniel Brühl
+      - name: John Walker
+        actor: Wyatt Russell
+      - name: Lemar Hoskins
+        actor: Clé Bennett
+      - name: Karli Morgenthau
+        actor: Erin Kellyman
+      - name: Ayo
+        actor: Florence Kasumba
+  - name: "Truth"
+    description: >
+      Sam and Bucky confront John Walker to reclaim the shield, leading to a brutal fight.
+      Sam visits Isaiah Bradley to learn the truth about the first Black super soldier and decides his own path.
+    released: 2021-04-16
+    length: 61m
+    imdb: https://www.imdb.com/title/tt13130306
+    wikipedia: https://en.wikipedia.org/wiki/Truth_(The_Falcon_and_the_Winter_Soldier)
+    directors: Kari Skogland
+    writers: Dalan Musson
+    characters:
+      - name: Sam Wilson
+        actor: Anthony Mackie
+      - name: Bucky Barnes
+        actor: Sebastian Stan
+      - name: John Walker
+        actor: Wyatt Russell
+      - name: Isaiah Bradley
+        actor: Carl Lumbly
+      - name: Valentina Allegra de Fontaine
+        actor: Julia Louis-Dreyfus
+      - name: Joaquin Torres
+        actor: Danny Ramirez
+  - name: "One World, One People"
+    description: >
+      Sam Wilson debuts as the new Captain America to stop the Flag Smashers' attack on the GRC in New York.
+      Bucky and Walker assist in the battle, and the series concludes with new beginnings for the heroes.
+    released: 2021-04-23
+    length: 51m
+    imdb: https://www.imdb.com/title/tt13130310
+    wikipedia: https://en.wikipedia.org/wiki/One_World,_One_People
+    directors: Kari Skogland
+    writers:
+      - Malcolm Spellman
+      - Josef Sawyer
+    characters:
+      - name: Sam Wilson
+        actor: Anthony Mackie
+      - name: Bucky Barnes
+        actor: Sebastian Stan
+      - name: John Walker
+        actor: Wyatt Russell
+      - name: Karli Morgenthau
+        actor: Erin Kellyman
+      - name: Sharon Carter
+        actor: Emily VanCamp
+      - name: Helmut Zemo
+        actor: Daniel Brühl
+      - name: Valentina Allegra de Fontaine
+        actor: Julia Louis-Dreyfus

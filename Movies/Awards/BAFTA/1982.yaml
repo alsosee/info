@@ -1,0 +1,61 @@
+title: BAFTA 1982
+website: https://awards.bafta.org/award/1982/film
+categories:
+    - name: Actor
+      winner:
+        movie: Burt Lancaster
+    - name: Actress
+      winner:
+        movie: Meryl Streep
+    - name: Animated Film
+      winner:
+        movie: The Sweater
+    - name: Cinematography
+      winner:
+        movie: Tess
+    - name: Costume Design
+      winner:
+        movie: Chariots Of Fire
+        constumedesign:
+            - Milena Canonero
+    - name: Direction
+      winner:
+        movie: Atlantic City
+    - name: Editing
+      winner:
+        movie: Raging Bull
+        editors:
+            - Thelma Schoonmaker
+    - name: Fellowship
+      winner:
+        person: Andrzej Wajda
+    - name: Film
+      winner:
+        movie: Chariots Of Fire
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Joe Pesci
+    - name: Original Film Music
+      winner:
+        movie: The French Lieutenant's Woman
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: David Puttnam
+    - name: Production Design
+      winner:
+        movie: Raiders Of The Lost Ark
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: Soldier Girls
+    - name: Screenplay
+      winner:
+        movie: Gregory's Girl
+    - name: Short Film
+      winner:
+        movie: Recluse
+    - name: Sound
+      winner:
+        movie: The French Lieutenant's Woman
+    - name: Supporting Artist
+      winner:
+        movie: Ian Holm

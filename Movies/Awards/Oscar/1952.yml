@@ -1,0 +1,135 @@
+title: Oscar 1952
+wikipedia: https://en.wikipedia.org/wiki/24th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1952
+imdb: https://www.imdb.com/event/ev0000003/1952/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: An American in Paris
+
+  - name: Best Directing
+    winner:
+      movie: A Place in the Sun
+      directors: George Stevens
+
+  - name: Best Actor
+    winner:
+      actor: Humphrey Bogart
+      movie: The African Queen
+
+  - name: Best Actress
+    winner:
+      actor: Vivien Leigh
+      movie: A Streetcar Named Desire
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Karl Malden
+      movie: A Streetcar Named Desire
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Kim Hunter
+      movie: A Streetcar Named Desire
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: Seven Days to Noon
+      writers:
+        - Paul Dehn
+        - James Bernard
+
+  - name: Writing (Story and Screenplay)
+    winner:
+      movie: An American in Paris
+      writers: Alan Jay Lerner
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: A Place in the Sun
+      writers:
+        - Michael Wilson
+        - Harry Brown
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: Kon-Tiki
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Benjy
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: World of Kids
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Nature's Half Acre
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Two Mouseketeers
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: A Place in the Sun
+      music: Franz Waxman
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: An American in Paris
+      music:
+        - Johnny Green
+        - Saul Chaplin
+
+  - name: Best Music (Song)
+    winner:
+      movie: Here Comes the Groom
+      track: In the Cool, Cool, Cool of the Evening
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Great Caruso
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: A Streetcar Named Desire
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: An American in Paris
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: A Place in the Sun
+      cinematography: William C. Mellor
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: An American in Paris
+      cinematography:
+        - Alfred Gilks
+        - John Alton
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: A Place in the Sun
+      costume_design: Edith Head
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: An American in Paris
+      costume_design:
+        - Orry-Kelly
+        - Walter Plunkett
+        - Irene Sharaff
+
+  - name: Best Film Editing
+    winner:
+      movie: A Place in the Sun
+      editors: William Hornbeck
+
+  - name: Best Special Effects
+    winner:
+      movie: When Worlds Collide

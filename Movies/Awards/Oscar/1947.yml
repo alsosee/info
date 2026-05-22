@@ -1,0 +1,115 @@
+title: Oscar 1947
+wikipedia: https://en.wikipedia.org/wiki/19th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1947
+imdb: https://www.imdb.com/event/ev0000003/1947/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: The Best Years of Our Lives
+
+  - name: Best Directing
+    winner:
+      movie: The Best Years of Our Lives
+      directors: William Wyler
+
+  - name: Best Actor
+    winner:
+      actor: Fredric March
+      movie: The Best Years of Our Lives
+
+  - name: Best Actress
+    winner:
+      actor: Olivia de Havilland
+      movie: To Each His Own
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Harold Russell
+      movie: The Best Years of Our Lives
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Anne Baxter
+      movie: The Razor's Edge
+
+  - name: Writing (Original Motion Picture Story)
+    winner:
+      movie: Vacation From Marriage
+      writers: Clemence Dane
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Seventh Veil
+      writers:
+        - Muriel Box
+        - Sydney Box
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Best Years of Our Lives
+      writers: Robert E. Sherwood
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Seeds of Destiny
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Facing Your Danger
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: A Boy and His Dog
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Cat Concerto
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: The Best Years of Our Lives
+      music: Hugo Friedhofer
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: The Jolson Story
+      music: Morris Stoloff
+
+  - name: Best Music (Song)
+    winner:
+      movie: The Harvey Girls
+      track: On the Atchison, Topeka and the Santa Fe
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Jolson Story
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Anna and the King of Siam
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: The Yearling
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Anna and the King of Siam
+      cinematography: Arthur Miller
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: The Yearling
+      cinematography:
+        - Charles Rosher
+        - Leonard Smith
+        - Arthur Arling
+
+  - name: Best Film Editing
+    winner:
+      movie: The Best Years of Our Lives
+      editors: Daniel Mandell
+
+  - name: Best Special Effects
+    winner:
+      movie: Blithe Spirit

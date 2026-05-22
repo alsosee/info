@@ -1,0 +1,95 @@
+title: Oscar 2019
+wikipedia: https://en.wikipedia.org/wiki/91st_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2019
+imdb: https://www.imdb.com/event/ev0000003/2019/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Rami Malek
+      movie: Bohemian Rhapsody
+  - name: Actor in a supporting role
+    winner:
+      actor: Mahershala Ali
+      movie: Green Book
+  - name: Actress in a leading role
+    winner:
+      actor: Olivia Colman
+      movie: The Favourite
+  - name: Actress in a supporting role
+    winner:
+      actor: Regina King
+      movie: If Beale Street Could Talk
+  - name: Animated feature film
+    winner:
+      movie: "Spider-Man: Into the Spider-Verse"
+  - name: Best Foreign Language Film
+    winner:
+      movie: Roma
+  - name: Cinematography
+    winner:
+      movie: Roma
+      cinematography: Alfonso Cuarón
+  - name: Costume Design
+    winner:
+      movie: Black Panther
+  - name: Directing
+    winner:
+      movie: Roma
+      directors: Alfonso Cuarón
+  - name: Documentary Feature Film
+    winner:
+      movie: Free Solo
+  - name: Documentary Short Subject
+    winner:
+      movie: "Period. End of Sentence."
+  - name: Film Editing
+    winner:
+      movie: Bohemian Rhapsody
+      editors: John Ottman
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Vice
+  - name: Music (Original Score)
+    winner:
+      movie: Black Panther
+      music: Ludwig Göransson
+  - name: Music (Original Song)
+    winner:
+      movie: A Star Is Born
+      track: Shallow
+  - name: Best Picture
+    winner:
+      movie: Green Book
+  - name: Production Design
+    winner:
+      movie: Black Panther
+  - name: Short Film (Animated)
+    winner:
+      movie: Bao
+  - name: Short Film (Live Action)
+    winner:
+      movie: Skin
+  - name: Sound Editing
+    winner:
+      movie: Bohemian Rhapsody
+  - name: Sound Mixing
+    winner:
+      movie: Bohemian Rhapsody
+  - name: Visual Effects
+    winner:
+      movie: First Man
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: BlacKkKlansman
+      writers:
+        - Charlie Wachtel
+        - David Rabinowitz
+        - Kevin Willmott
+        - Spike Lee
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Green Book
+      writers:
+        - Nick Vallelonga
+        - Brian Currie
+        - Peter Farrelly

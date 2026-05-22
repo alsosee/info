@@ -1,0 +1,107 @@
+title: Oscar 1993
+wikipedia: https://en.wikipedia.org/wiki/65th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1993
+imdb: https://www.imdb.com/event/ev0000003/1993/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Al Pacino
+      movie: Scent of a Woman
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Gene Hackman
+      movie: Unforgiven
+
+  - name: Actress in a leading role
+    winner:
+      actor: Emma Thompson
+      movie: Howards End
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Marisa Tomei
+      movie: My Cousin Vinny
+
+  - name: Art Direction
+    winner:
+      movie: Howards End
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Indochine
+
+  - name: Cinematography
+    winner:
+      movie: A River Runs Through It
+      cinematography: Philippe Rousselot
+
+  - name: Costume Design
+    winner:
+      movie: Bram Stoker's Dracula
+
+  - name: Directing
+    winner:
+      movie: Unforgiven
+      directors: Clint Eastwood
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Panama Deception
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Educating Peter
+
+  - name: Film Editing
+    winner:
+      movie: Unforgiven
+      editors: Joel Cox
+
+  - name: Makeup
+    winner:
+      movie: Bram Stoker's Dracula
+
+  - name: Music (Original Score)
+    winner:
+      movie: Aladdin
+      music: Alan Menken
+
+  - name: Music (Original Song)
+    winner:
+      movie: Aladdin
+      track: A Whole New World
+
+  - name: Best Picture
+    winner:
+      movie: Unforgiven
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Mona Lisa Descending a Staircase
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Omnibus
+
+  - name: Sound
+    winner:
+      movie: The Last of the Mohicans
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Bram Stoker's Dracula
+
+  - name: Visual Effects
+    winner:
+      movie: Death Becomes Her
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Howards End
+      writers: Ruth Prawer Jhabvala
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Crying Game
+      writers: Neil Jordan

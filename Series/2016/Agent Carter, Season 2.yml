@@ -1,0 +1,183 @@
+name: "Marvel's Agent Carter, Season 2"
+description: >
+  In 1947, Peggy Carter moves from New York City to Los Angeles to assist Daniel Sousa with a mysterious homicide case. Her investigation leads her to a conspiracy involving "Zero Matter" and the secretive Council of Nine, forcing her to confront the threats of the new atomic age while navigating the glamor and danger of post-war Hollywood.
+previous: Series/2015/Agent Carter
+released: 2016-01-19
+rating: TV-14
+genres:
+  - action
+  - adventure
+  - drama
+  - espionage
+  - superhero
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/Agent_Carter_(season_2)
+imdb: https://www.imdb.com/title/tt3475734
+tmdb: https://www.themoviedb.org/tv/61550-agent-carter/season/2
+rotten_tomatoes: https://www.rottentomatoes.com/tv/marvel-s-agent-carter/s02
+metacritic: https://www.metacritic.com/tv/marvels-agent-carter/season-2
+creators:
+  - Christopher Markus
+  - Stephen McFeely
+directors:
+  - Lawrence Trilling
+  - David Platt
+  - Craig Zisk
+  - Metin Hüseyin
+  - Jennifer Getzinger
+writers:
+  - Christopher Markus
+  - Stephen McFeely
+  - Brant Englestein
+  - Eric Pearson
+  - Lindsey Allen
+  - Jose Molina
+  - Sue Chung
+  - Brandon Easton
+  - Michele Fazekas
+  - Tara Butters
+  - Chris Dingess
+producers:
+  - Tara Butters
+  - Michele Fazekas
+  - Christopher Markus
+  - Stephen McFeely
+  - Chris Dingess
+  - Kevin Feige
+  - Louis D'Esposito
+  - Alan Fine
+  - Joe Quesada
+  - Stan Lee
+  - Jeph Loeb
+production:
+  - ABC Studios
+  - Marvel Television
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Peggy Carter
+    actor: Hayley Atwell
+  - name: Edwin Jarvis
+    actor: James D'Arcy
+  - name: Jack Thompson
+    actor: Chad Michael Murray
+  - name: Daniel Sousa
+    actor: Enver Gjokaj
+  - name: Dottie Underwood
+    actor: Bridget Regan
+  - name: Whitney Frost
+    actor: Wynn Everett
+  - name: Jason Wilkes
+    actor: Reggie Austin
+  - name: Calvin Chadwick
+    actor: Currie Graham
+  - name: Ana Jarvis
+    actor: Lotte Verbeek
+  - name: Rose Roberts
+    actor: Lesley Boone
+  - name: Aloysius Samberly
+    actor: Matt Braunger
+  - name: Vernon Masters
+    actor: Kurtwood Smith
+  - name: Joseph Manfredi
+    actor: Ken Marino
+  - name: Howard Stark
+    actor: Dominic Cooper
+episodes:
+  - name: The Lady in the Lake
+    description: >
+      Peggy is sent to Los Angeles to help Daniel Sousa investigate a body found in a frozen lake during a heat wave.
+    released: 2016-01-19
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4655648
+    wikipedia: https://en.wikipedia.org/wiki/The_Lady_in_the_Lake_(Agent_Carter)
+    directors: Lawrence Trilling
+    writers: Brant Englestein
+  - name: A View in the Dark
+    description: >
+      Peggy's investigation into Isodyne Energy reveals the existence of Zero Matter.
+    released: 2016-01-19
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724452
+    wikipedia: https://en.wikipedia.org/wiki/A_View_in_the_Dark
+    directors: Lawrence Trilling
+    writers:
+      - Eric Pearson
+      - Lindsey Allen
+  - name: Better Angels
+    description: >
+      Peggy enlists Howard Stark's help to investigate the Arena Club.
+    released: 2016-01-26
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724458
+    wikipedia: https://en.wikipedia.org/wiki/Better_Angels_(Agent_Carter)
+    directors: David Platt
+    writers: Jose Molina
+  - name: Smoke & Mirrors
+    description: >
+      Flashbacks explore the parallel origins of Peggy Carter and Whitney Frost.
+    released: 2016-02-02
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724462
+    wikipedia: https://en.wikipedia.org/wiki/Smoke_%26_Mirrors_(Agent_Carter)
+    directors: David Platt
+    writers: Sue Chung
+  - name: The Atomic Job
+    description: >
+      Peggy and her team attempt to steal atomic bombs from a Roxxon facility.
+    released: 2016-02-09
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724466
+    wikipedia: https://en.wikipedia.org/wiki/The_Atomic_Job
+    directors: Craig Zisk
+    writers: Lindsey Allen
+  - name: Life of the Party
+    description: >
+      Peggy breaks Dottie Underwood out of prison to help infiltrate a Council of Nine gala.
+    released: 2016-02-16
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724474
+    wikipedia: https://en.wikipedia.org/wiki/Life_of_the_Party_(Agent_Carter)
+    directors: Craig Zisk
+    writers: Eric Pearson
+  - name: Monsters
+    description: >
+      Whitney Frost kidnaps Jason Wilkes to study his condition.
+    released: 2016-02-16
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724484
+    wikipedia: https://en.wikipedia.org/wiki/Monsters_(Agent_Carter)
+    directors: Metin Hüseyin
+    writers: Brandon Easton
+  - name: The Edge of Mystery
+    description: >
+      Peggy and Sousa attempt a dangerous trade for Wilkes.
+    released: 2016-02-23
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724490
+    wikipedia: https://en.wikipedia.org/wiki/The_Edge_of_Mystery
+    directors: Metin Hüseyin
+    writers: Brant Englestein
+  - name: A Little Song and Dance
+    description: >
+      Peggy and Jarvis escape capture while Jack Thompson's true allegiances are tested.
+    released: 2016-02-23
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724498
+    wikipedia: https://en.wikipedia.org/wiki/A_Little_Song_and_Dance
+    directors: Jennifer Getzinger
+    writers:
+      - Michele Fazekas
+      - Tara Butters
+      - Chris Dingess
+  - name: Hollywood Ending
+    description: >
+      The team makes a final stand to stop Whitney Frost from opening a massive rift.
+    released: 2016-03-01
+    length: 42m
+    imdb: https://www.imdb.com/title/tt4724508
+    wikipedia: https://en.wikipedia.org/wiki/Hollywood_Ending_(Agent_Carter)
+    directors: Jennifer Getzinger
+    writers:
+      - Chris Dingess
+      - Michele Fazekas
+      - Tara Butters

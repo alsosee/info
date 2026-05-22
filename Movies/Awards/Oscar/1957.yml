@@ -1,0 +1,135 @@
+title: Oscar 1957
+wikipedia: https://en.wikipedia.org/wiki/29th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1957
+imdb: https://www.imdb.com/event/ev0000003/1957/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: Around the World in 80 Days
+
+  - name: Best Directing
+    winner:
+      movie: Giant
+      directors: George Stevens
+
+  - name: Best Actor
+    winner:
+      actor: Yul Brynner
+      movie: The King and I
+
+  - name: Best Actress
+    winner:
+      actor: Ingrid Bergman
+      movie: Anastasia
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Anthony Quinn
+      movie: Lust for Life
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Dorothy Malone
+      movie: Written on the Wind
+
+  - name: Writing (Motion Picture Story)
+    winner:
+      movie: The Brave One
+      writers: Dalton Trumbo
+
+  - name: Writing (Screenplay -- Original)
+    winner:
+      movie: The Red Balloon
+      writers: Albert Lamorisse
+
+  - name: Writing (Screenplay -- Adapted)
+    winner:
+      movie: Around the World in 80 Days
+      writers:
+        - James Poe
+        - John Farrow
+        - S. J. Perelman
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: La Strada
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: The Silent World
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: The True Story of the Civil War
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Crashing the Water Barrier
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: The Bespoke Overcoat
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Magoo's Puddle Jumper
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Around the World in 80 Days
+      music: Victor Young
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: The King and I
+      music:
+        - Alfred Newman
+        - Ken Darby
+
+  - name: Best Music (Song)
+    winner:
+      movie: The Man Who Knew Too Much
+      track: Que Sera, Sera (Whatever Will Be, Will Be)
+
+  - name: Best Sound Recording
+    winner:
+      movie: The King and I
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Somebody Up There Likes Me
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: The King and I
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: Somebody Up There Likes Me
+      cinematography: Joseph Ruttenberg
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Around the World in 80 Days
+      cinematography: Lionel Lindon
+
+  - name: Best Costume Design (Black-and-White)
+    winner:
+      movie: The Solid Gold Cadillac
+      costume_design: Jean Louis
+
+  - name: Best Costume Design (Color)
+    winner:
+      movie: The King and I
+      costume_design: Irene Sharaff
+
+  - name: Best Film Editing
+    winner:
+      movie: Around the World in 80 Days
+      editors:
+        - Gene Ruggiero
+        - Paul Weatherwax
+
+  - name: Best Special Effects
+    winner:
+      movie: The Ten Commandments

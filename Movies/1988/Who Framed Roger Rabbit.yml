@@ -1,0 +1,49 @@
+name: Who Framed Roger Rabbit
+description: >
+  In 1947 Los Angeles, toon-hating private investigator Eddie Valiant is hired to exonerate Roger Rabbit,
+  a toon star framed for the murder of a wealthy businessman. As they unravel the conspiracy,
+  they discover a plot to destroy Toontown and replace it with a freeway system.
+based_on: Books/1981/Who Censored Roger Rabbit?
+released: 1988-06-22
+rating: PG
+length: 1h44m
+genres:
+  - animation
+  - comedy
+  - crime
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Who_Framed_Roger_Rabbit
+imdb: https://www.imdb.com/title/tt0096438
+tmdb: https://www.themoviedb.org/movie/856-who-framed-roger-rabbit
+directors:
+  - Robert Zemeckis
+  - Richard Williams
+writers:
+  - Jeffrey Price
+  - Peter S. Seaman
+producers:
+  - Frank Marshall
+  - Robert Watts
+music: Alan Silvestri
+cinematography: Dean Cundey
+editors: Arthur Schmidt
+production:
+  - Touchstone Pictures
+  - Amblin Entertainment
+  - Silver Screen Partners III
+distributors: Buena Vista Pictures Distribution
+characters:
+  - name: Eddie Valiant
+    actor: Bob Hoskins
+  - name: Judge Doom
+    actor: Christopher Lloyd
+  - name: Roger Rabbit
+    voice: Charles Fleischer
+  - name: Jessica Rabbit
+    voice: Kathleen Turner
+  - name: Benny the Cab
+    voice: Charles Fleischer
+  - name: Baby Herman
+    voice: Lou Hirsch
+  - name: Dolores
+    actor: Joanna Cassidy

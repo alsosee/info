@@ -1,0 +1,57 @@
+name: Spider-Man 2
+description: >
+  Peter Parker struggles to balance college, work, and his responsibilities as
+  Spider-Man while his powers begin to falter. His life becomes more complicated
+  when brilliant scientist Otto Octavius is transformed into the dangerous Doctor
+  Octopus.
+previous: Movies/2002/Spider Man
+released: 2004-06-30
+rating: PG-13
+length: 2h7m
+genres:
+  - superhero
+  - action
+  - adventure
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Spider-Man_2
+imdb: https://www.imdb.com/title/tt0316654
+tmdb: https://www.themoviedb.org/movie/558-spider-man-2
+rotten_tomatoes: https://www.rottentomatoes.com/m/spiderman_2
+metacritic: https://www.metacritic.com/movie/spider-man-2/
+website: https://www.sonypictures.com/movies/spiderman2
+directors: Sam Raimi
+screenplay: Alvin Sargent
+producers:
+  - Laura Ziskin
+  - Avi Arad
+music: Danny Elfman
+cinematography: Bill Pope
+editors: Bob Murawski
+production:
+  - Columbia Pictures
+  - Marvel Enterprises
+  - Laura Ziskin Productions
+distributors: Sony Pictures Releasing
+characters:
+  - name: Peter Parker / Spider-Man
+    actor: Tobey Maguire
+  - name: Mary Jane Watson
+    actor: Kirsten Dunst
+  - name: Harry Osborn
+    actor: James Franco
+  - name: Otto Octavius / Doctor Octopus
+    actor: Alfred Molina
+  - name: May Parker
+    actor: Rosemary Harris
+  - name: J. Jonah Jameson
+    actor: J.K. Simmons
+  - name: Rosalie Octavius
+    actor: Donna Murphy
+  - name: John Jameson
+    actor: Daniel Gillies
+  - name: Dr. Curt Connors
+    actor: Dylan Baker
+  - name: Joseph "Robbie" Robertson
+    actor: Bill Nunn
+  - name: Betty Brant
+    actor: Elizabeth Banks

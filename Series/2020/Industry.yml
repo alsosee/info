@@ -1,0 +1,119 @@
+name: Industry
+description: >
+  Young graduates compete for a limited number of permanent positions at Pierpoint & Co.,
+  a prestigious investment bank in London, navigating the cutthroat world of international
+  finance where the boundaries between colleague, friend, lover, and enemy blur.
+released: 2020-11-09
+rating: TV-MA
+genres:
+  - drama
+  - financial thriller
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Industry_(TV_series)
+imdb: https://www.imdb.com/title/tt7671070/episodes/?season=1
+tmdb: https://www.themoviedb.org/tv/90812-industry/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/industry/s01
+metacritic: https://www.metacritic.com/tv/industry/season-1
+creators:
+  - Mickey Down
+  - Konrad Kay
+characters:
+  - name: Harper Stern
+    actor: Myha'la
+  - name: Yasmin Kara-Hanani
+    actor: Marisa Abela
+  - name: Robert Spearing
+    actor: Harry Lawtey
+  - name: Augustus "Gus" Sackey
+    actor: David Jonsson
+  - name: Eric Tao
+    actor: Ken Leung
+  - name: Hari Dhar
+    actor: Nabhaan Rizwan
+  - name: Daria Greenock
+    actor: Freya Mavor
+  - name: Kenny Kilbane
+    actor: Conor MacNeill
+  - name: Theo Tuck
+    actor: Will Tudor
+episodes:
+  - name: Induction
+    description: >
+      A new cohort of graduates arrives at Pierpoint & Co. for their first day,
+      competing for a limited number of permanent positions as the bank assesses
+      who will make the cut.
+    released: 2020-11-09
+    length: 51m
+    directors: Lena Dunham
+    writers:
+      - Mickey Down
+      - Konrad Kay
+  - name: Quiet and Nice
+    description: >
+      The graduates settle into London and the bank's intense culture,
+      navigating workplace politics and harassment while forming early alliances.
+    released: 2020-11-16
+    length: 49m
+    directors: Tinge Krishnan
+    writers:
+      - Mickey Down
+      - Konrad Kay
+  - name: Notting Hill
+    description: >
+      Pressure mounts to secure new clients as the graduates balance friendship
+      with professional competition in the cutthroat trading environment.
+    released: 2020-11-23
+    length: 49m
+    directors: Tinge Krishnan
+    writers: Sam H. Freeman
+  - name: Sesh
+    description: >
+      A trading error triggers a crisis, testing the graduates under pressure
+      as romantic tensions begin to surface within the cohort.
+    released: 2020-11-30
+    length: 51m
+    directors: Ed Lilly
+    writers:
+      - Mickey Down
+      - Konrad Kay
+  - name: Learned Behaviour
+    description: >
+      A damaging exposé prompts a damage-control effort at the bank,
+      while a senior figure's personal struggles come to light.
+    released: 2020-12-07
+    length: 52m
+    directors: Ed Lilly
+    writers:
+      - Mickey Down
+      - Konrad Kay
+  - name: Nutcracker
+    description: >
+      A holiday party becomes a flashpoint as workplace tensions escalate,
+      and formal complaints are filed against management.
+    released: 2020-12-14
+    length: 50m
+    directors: Tinge Krishnan
+    writers:
+      - Kate Verghese
+      - Mickey Down
+      - Konrad Kay
+  - name: Pre-Crisis Activity
+    description: >
+      Job security decisions loom over the graduates as personal relationships
+      begin to crack under the relentless professional pressure.
+    released: 2020-12-21
+    length: 52m
+    directors: Mary Nighy
+    writers:
+      - Mickey Down
+      - Konrad Kay
+  - name: Reduction in Force
+    description: >
+      The bank conducts its final evaluations to determine who will receive
+      permanent offers, with life-altering consequences for the cohort.
+    released: 2020-12-21
+    length: 49m
+    directors: Ed Lilly
+    writers:
+      - Mickey Down
+      - Konrad Kay

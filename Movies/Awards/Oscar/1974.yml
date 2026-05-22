@@ -1,0 +1,101 @@
+title: Oscar 1974
+wikipedia: https://en.wikipedia.org/wiki/46th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1974
+imdb: https://www.imdb.com/event/ev0000003/1974/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jack Lemmon
+      movie: Save the Tiger
+
+  - name: Actor in a supporting role
+    winner:
+      actor: John Houseman
+      movie: The Paper Chase
+
+  - name: Actress in a leading role
+    winner:
+      actor: Glenda Jackson
+      movie: A Touch of Class
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Tatum O'Neal
+      movie: Paper Moon
+
+  - name: Art Direction
+    winner:
+      movie: The Sting
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Day for Night
+
+  - name: Cinematography
+    winner:
+      movie: Cries and Whispers
+      cinematography: Sven Nykvist
+
+  - name: Costume Design
+    winner:
+      movie: The Sting
+      costume_design: Edith Head
+
+  - name: Directing
+    winner:
+      movie: The Sting
+      directors: George Roy Hill
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Great American Cowboy
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Princeton: A Search for Answers"
+
+  - name: Film Editing
+    winner:
+      movie: The Sting
+      editors: William H. Reynolds
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: The Way We Were
+      music: Marvin Hamlisch
+
+  - name: "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)"
+    winner:
+      movie: The Sting
+      music: Marvin Hamlisch
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Way We Were
+      track: The Way We Were
+
+  - name: Best Picture
+    winner:
+      movie: The Sting
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Frank Film
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Bolero
+
+  - name: Sound
+    winner:
+      movie: The Exorcist
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Exorcist
+      writers: William Peter Blatty
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Sting
+      writers: David S. Ward

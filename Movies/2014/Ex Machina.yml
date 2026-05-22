@@ -1,0 +1,42 @@
+name: "Ex Machina"
+description: >
+  A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.
+released: "2014-12-16"
+rating: R
+length: 1h48m
+genres:
+  - science fiction
+  - psychological thriller
+wikipedia: https://en.wikipedia.org/wiki/Ex_Machina_(film)
+imdb: https://www.imdb.com/title/tt3042408
+tmdb: https://www.themoviedb.org/movie/264660-ex-machina
+rotten_tomatoes: https://www.rottentomatoes.com/m/ex_machina
+metacritic: https://www.metacritic.com/movie/ex-machina
+spotify: https://open.spotify.com/album/7jmxtx3nVVLynX0rzBbEhI
+directors: Alex Garland
+screenplay: Alex Garland
+producers:
+  - Andrew Macdonald
+  - Allon Reich
+music:
+  - Ben Salisbury
+  - Geoff Barrow
+cinematography: Rob Hardy
+editors: Mark Day
+production:
+  - Film4
+  - DNA Films
+distributors:
+  - A24
+  - Universal Pictures
+characters:
+  - name: Caleb Smith
+    actor: Domhnall Gleeson
+  - name: Nathan Bateman
+    actor: Oscar Isaac
+  - name: Ava
+    actor: Alicia Vikander
+  - name: Kyoko
+    actor: Sonoya Mizuno
+  - name: Jade
+    actor: Gana Bayarsaikhan

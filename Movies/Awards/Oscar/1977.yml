@@ -1,0 +1,103 @@
+title: Oscar 1977
+wikipedia: https://en.wikipedia.org/wiki/49th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1977
+imdb: https://www.imdb.com/event/ev0000003/1977/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Peter Finch
+      movie: Network
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Jason Robards
+      movie: All the President's Men
+
+  - name: Actress in a leading role
+    winner:
+      actor: Faye Dunaway
+      movie: Network
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Beatrice Straight
+      movie: Network
+
+  - name: Art Direction
+    winner:
+      movie: All the President's Men
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Black and White in Color
+
+  - name: Cinematography
+    winner:
+      movie: Bound for Glory
+      cinematography: Haskell Wexler
+
+  - name: Costume Design
+    winner:
+      movie: "Fellini's Casanova"
+      costume_design: Danilo Donati
+
+  - name: Directing
+    winner:
+      movie: Rocky
+      directors: John G. Avildsen
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Harlan County, USA
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Number Our Days
+
+  - name: Film Editing
+    winner:
+      movie: Rocky
+      editors:
+        - Richard Halsey
+        - Scott Conrad
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Omen
+      music: Jerry Goldsmith
+
+  - name: Music (Original Song Score and Its Adaptation or Adaptation Score)
+    winner:
+      movie: Bound for Glory
+      music: Leonard Rosenman
+
+  - name: Music (Original Song)
+    winner:
+      movie: A Star Is Born
+      track: "Evergreen (Love Theme from A Star Is Born)"
+
+  - name: Best Picture
+    winner:
+      movie: Rocky
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Leisure
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: In the Region of Ice
+
+  - name: Sound
+    winner:
+      movie: All the President's Men
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: All the President's Men
+      writers: William Goldman
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Network
+      writers: Paddy Chayefsky

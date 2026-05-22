@@ -1,0 +1,60 @@
+name: "The Lord of the Rings: The Return of the King"
+description: >
+  The final installment of Peter Jackson's epic trilogy follows Frodo and Sam as they near Mount Doom guided by the treacherous Gollum, while Aragorn leads the free peoples of Middle-earth in a desperate last stand against Sauron's forces at the siege of Minas Tirith.
+previous: Movies/2002/The Lord of the Rings The Two Towers
+released: 2003-12-17
+rating: PG-13
+length: 3h21m
+genres:
+  - adventure
+  - drama
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Return_of_the_King
+imdb: https://www.imdb.com/title/tt0167260
+tmdb: https://www.themoviedb.org/movie/122
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_return_of_the_king
+directors: Peter Jackson
+producers:
+  - Barrie M. Osborne
+  - Fran Walsh
+  - Peter Jackson
+screenplay:
+  - Fran Walsh
+  - Philippa Boyens
+  - Peter Jackson
+music: Howard Shore
+cinematography: Andrew Lesnie
+editors: Jamie Selkirk
+production: WingNut Films
+distributors: New Line Cinema
+characters:
+  - name: Frodo Baggins
+    actor: Elijah Wood
+  - name: Gandalf the White
+    actor: Ian McKellen
+  - name: Aragorn
+    actor: Viggo Mortensen
+  - name: Samwise Gamgee
+    actor: Sean Astin
+  - name: Gollum
+    actor: Andy Serkis
+  - name: Legolas
+    actor: Orlando Bloom
+  - name: Gimli
+    actor: John Rhys-Davies
+  - name: Peregrin Took
+    actor: Billy Boyd
+  - name: Meriadoc Brandybuck
+    actor: Dominic Monaghan
+  - name: "Théoden"
+    actor: Bernard Hill
+  - name: Arwen
+    actor: Liv Tyler
+  - name: Galadriel
+    actor: Cate Blanchett
+  - name: "Éowyn"
+    actor: Miranda Otto
+  - name: Faramir
+    actor: David Wenham
+  - name: "Éomer"
+    actor: Karl Urban

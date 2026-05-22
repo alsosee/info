@@ -1,0 +1,116 @@
+title: Oscar 1946
+wikipedia: https://en.wikipedia.org/wiki/18th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1946
+imdb: https://www.imdb.com/event/ev0000003/1946/1
+categories:
+  - name: Best Motion Picture
+    winner:
+      movie: The Lost Weekend
+
+  - name: Best Directing
+    winner:
+      movie: The Lost Weekend
+      directors: Billy Wilder
+
+  - name: Best Actor
+    winner:
+      actor: Ray Milland
+      movie: The Lost Weekend
+
+  - name: Best Actress
+    winner:
+      actor: Joan Crawford
+      movie: Mildred Pierce
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: James Dunn
+      movie: A Tree Grows in Brooklyn
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Anne Revere
+      movie: National Velvet
+
+  - name: Writing (Original Motion Picture Story)
+    winner:
+      movie: The House on 92nd Street
+      writers: Charles G. Booth
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Marie-Louise
+      writers: Richard Schweizer
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Lost Weekend
+      writers:
+        - Charles Brackett
+        - Billy Wilder
+
+  - name: Best Documentary (Feature)
+    winner:
+      movie: The True Glory
+
+  - name: Best Documentary (Short Subject)
+    winner:
+      movie: Hitler Lives
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Stairway to Light
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Star in the Night
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Quiet Please!
+
+  - name: Best Music (Music Score of a Dramatic or Comedy Picture)
+    winner:
+      movie: Spellbound
+      music: Miklós Rózsa
+
+  - name: Best Music (Scoring of a Musical Picture)
+    winner:
+      movie: Anchors Aweigh
+      music: Georgie Stoll
+
+  - name: Best Music (Song)
+    winner:
+      movie: State Fair
+      track: It Might as Well Be Spring
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Bells of St. Mary's
+
+  - name: Best Art Direction (Black-and-White)
+    winner:
+      movie: Blood on the Sun
+
+  - name: Best Art Direction (Color)
+    winner:
+      movie: Frenchman's Creek
+
+  - name: Best Cinematography (Black-and-White)
+    winner:
+      movie: The Picture of Dorian Gray
+      cinematography: Harry Stradling
+
+  - name: Best Cinematography (Color)
+    winner:
+      movie: Leave Her to Heaven
+      cinematography: Leon Shamroy
+
+  - name: Best Film Editing
+    winner:
+      movie: National Velvet
+      editors: Robert J. Kern
+
+  - name: Best Special Effects
+    winner:
+      movie: Wonder Man

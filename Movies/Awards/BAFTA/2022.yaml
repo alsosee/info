@@ -1,0 +1,106 @@
+title: BAFTA 2022
+website: https://awards.bafta.org/award/2022/film
+categories:
+    - name: Adapted Screenplay
+      winner:
+        movie: CODA
+        screenplay:
+            - Siân Heder
+    - name: Animated Film
+      winner:
+        movie: Encanto
+    - name: Best Film
+      winner:
+        movie: The Power of the Dog
+        producers:
+            - Jane Campion
+            - Iain Canning
+            - Roger Frappier
+            - Tanya Seghatchian
+            - Emile Sherman
+    - name: British Short Animation
+      winner:
+        movie: Do Not Feed The Pigeons
+    - name: British Short Film
+      winner:
+        movie: The Black Cop
+    - name: Casting
+      winner:
+        movie: West Side Story
+        casting:
+            - Cindy Tolan
+    - name: Cinematography
+      winner:
+        movie: Dune
+    - name: Costume Design
+      winner:
+        movie: Cruella
+        constumedesign:
+            - Jenny Beavan
+    - name: Director
+      winner:
+        movie: The Power of the Dog
+        directors:
+            - Jane Campion
+    - name: Documentary
+      winner:
+        movie: Summer of Soul (Or, When The Revolution Could Not Be Televised)
+    - name: EE Rising Star Award
+      winner:
+        person: Lashana Lynch
+    - name: Editing
+      winner:
+        movie: No Time To Die
+        editors:
+            - Tom Cross, Elliot Graham
+    - name: Film Not in the English Language
+      winner:
+        movie: Drive My Car
+    - name: Leading Actor
+      winner:
+        movie: King Richard
+        actor: Will Smith
+    - name: Leading Actress
+      winner:
+        movie: After Love
+        actor: Joanna Scanlan
+    - name: Make Up & Hair
+      winner:
+        movie: The Eyes of Tammy Faye
+        makeupandhair:
+            - Linda Dowds
+            - Stephanie Ingram
+            - Justin Raleigh
+    - name: Original Score
+      winner:
+        movie: Dune
+        music:
+            - Hans Zimmer
+    - name: Original Screenplay
+      winner:
+        movie: Licorice Pizza
+        screenplay:
+            - Paul Thomas Anderson
+    - name: Outstanding British Film
+      winner:
+        movie: Belfast
+    - name: Outstanding Debut by a British Writer, Director or Producer
+      winner:
+        movie: The Harder They Fall
+    - name: Production Design
+      winner:
+        movie: Dune
+    - name: Sound
+      winner:
+        movie: Dune
+    - name: Special Visual Effects
+      winner:
+        movie: Dune
+    - name: Supporting Actor
+      winner:
+        movie: CODA
+        actor: Troy Kotsur
+    - name: Supporting Actress
+      winner:
+        movie: West Side Story
+        actor: Ariana DeBose

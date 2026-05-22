@@ -1,0 +1,184 @@
+name: 'Star Trek: Picard'
+description: >
+  Retired admiral Jean-Luc Picard is drawn out of seclusion when a mysterious
+  young woman seeks his help, forcing him to confront the fallout of Starfleet's
+  abandoned Romulan rescue mission, the ban on synthetic life, and the legacy of
+  Data.
+released: 2020-01-23
+rating: TV-MA
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: CBS All Access
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_1
+imdb: https://www.imdb.com/title/tt8806524
+tmdb: https://www.themoviedb.org/tv/85949-star-trek-picard/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/star_trek_picard/s01
+metacritic: https://www.metacritic.com/tv/star-trek-picard/season-1/
+website: https://www.paramountplus.com/shows/star-trek-picard/
+spotify: https://open.spotify.com/track/4QbneXqK8dpSugMWRaNTPv
+creators:
+  - Akiva Goldsman
+  - Michael Chabon
+  - Kirsten Beyer
+  - Alex Kurtzman
+directors:
+  - Hanelle M. Culpepper
+  - Jonathan Frakes
+  - Maja Vrvilo
+  - Doug Aarniokoski
+  - Akiva Goldsman
+writers:
+  - Akiva Goldsman
+  - James Duff
+  - Michael Chabon
+  - Kirsten Beyer
+  - Alex Kurtzman
+  - Nick Zayas
+  - Samantha Humphrey
+  - Ayelet Waldman
+music: Jeff Russo
+production:
+  - CBS Television Studios
+  - Secret Hideout
+  - Weed Road Pictures
+  - Roddenberry Entertainment
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: Agnes Jurati
+    actor: Alison Pill
+  - name: Dahj Asha
+    actor: Isa Briones
+  - name: Soji Asha
+    actor: Isa Briones
+  - name: Narek
+    actor: Harry Treadaway
+  - name: Raffi Musiker
+    actor: Michelle Hurd
+  - name: Cristobal Rios
+    actor: Santiago Cabrera
+  - name: Elnor
+    actor: Evan Evagora
+  - name: Data
+    actor: Brent Spiner
+  - name: Seven of Nine
+    actor: Jeri Ryan
+  - name: Hugh
+    actor: Jonathan Del Arco
+  - name: Laris
+    actor: Orla Brady
+  - name: Zhaban
+    actor: Jamie McShane
+  - name: Commodore Oh
+    actor: Tamlyn Tomita
+  - name: Narissa
+    actor: Peyton List
+episodes:
+  - name: Remembrance
+    description: >
+      Retired Admiral Picard is living quietly at his vineyard when Dahj Asha,
+      a young woman with a violent mystery around her, comes to him for help.
+    released: 2020-01-23
+    length: 44m
+    imdb: https://www.imdb.com/title/tt9381924
+    directors: Hanelle M. Culpepper
+    writers:
+      - Akiva Goldsman
+      - James Duff
+      - Michael Chabon
+      - Kirsten Beyer
+      - Alex Kurtzman
+  - name: Maps and Legends
+    description: >
+      Picard investigates Dahj's origins and pushes Starfleet for answers while
+      Soji begins her work aboard a reclaimed Borg cube.
+    released: 2020-01-30
+    length: 43m
+    imdb: https://www.imdb.com/title/tt9420276
+    directors: Hanelle M. Culpepper
+    writers:
+      - Michael Chabon
+      - Akiva Goldsman
+  - name: The End Is the Beginning
+    description: >
+      Picard seeks help from Raffi Musiker and former Starfleet pilot Cristobal
+      Rios as he prepares to leave Earth in search of Bruce Maddox.
+    released: 2020-02-06
+    length: 42m
+    imdb: https://www.imdb.com/title/tt9420278
+    directors: Hanelle M. Culpepper
+    writers:
+      - Michael Chabon
+      - James Duff
+  - name: Absolute Candor
+    description: >
+      Picard diverts the mission to a Romulan refugee world where an old promise
+      brings him face to face with Elnor and a community he left behind.
+    released: 2020-02-13
+    length: 44m
+    imdb: https://www.imdb.com/title/tt9420280
+    directors: Jonathan Frakes
+    writers: Michael Chabon
+  - name: Stardust City Rag
+    description: >
+      The La Sirena crew travels to Freecloud to find Bruce Maddox, with Seven
+      of Nine joining the mission for reasons of her own.
+    released: 2020-02-20
+    length: 45m
+    imdb: https://www.imdb.com/title/tt9420282
+    directors: Jonathan Frakes
+    writers: Kirsten Beyer
+  - name: The Impossible Box
+    description: >
+      Picard tracks Soji to the Borg cube, where old trauma and Narek's interest
+      in her memories bring multiple agendas into conflict.
+    released: 2020-02-27
+    length: 54m
+    imdb: https://www.imdb.com/title/tt9420284
+    directors: Maja Vrvilo
+    writers: Nick Zayas
+  - name: Nepenthe
+    description: >
+      Picard and Soji seek refuge with Will Riker and Deanna Troi while the
+      danger aboard the Borg cube leaves Elnor and Hugh exposed.
+    released: 2020-03-05
+    length: 58m
+    imdb: https://www.imdb.com/title/tt9420288
+    directors: Doug Aarniokoski
+    writers:
+      - Samantha Humphrey
+      - Michael Chabon
+  - name: Broken Pieces
+    description: >
+      The La Sirena crew pieces together the conspiracy behind the Mars attack
+      as Picard and Soji learn more about the stakes of her homeworld.
+    released: 2020-03-12
+    length: 55m
+    imdb: https://www.imdb.com/title/tt9420290
+    directors: Maja Vrvilo
+    writers: Michael Chabon
+  - name: Et in Arcadia Ego, Part 1
+    description: >
+      La Sirena reaches Coppelius ahead of a Romulan threat, introducing Picard
+      and his allies to the synthetic community at the center of the mystery.
+    released: 2020-03-19
+    length: 44m
+    imdb: https://www.imdb.com/title/tt10073428
+    directors: Akiva Goldsman
+    writers:
+      - Michael Chabon
+      - Ayelet Waldman
+      - Akiva Goldsman
+  - name: Et in Arcadia Ego, Part 2
+    description: >
+      Picard and his companions face a final confrontation on Coppelius as
+      Romulan forces and synthetic fears converge around Soji's choice.
+    released: 2020-03-26
+    length: 56m
+    imdb: https://www.imdb.com/title/tt10073432
+    directors: Akiva Goldsman
+    writers:
+      - Michael Chabon
+      - Akiva Goldsman

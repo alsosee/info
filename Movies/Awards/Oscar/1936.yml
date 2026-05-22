@@ -1,0 +1,87 @@
+title: Oscar 1936
+wikipedia: https://en.wikipedia.org/wiki/8th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1936
+imdb: https://www.imdb.com/event/ev0000003/1936/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: Mutiny on the Bounty
+
+  - name: Best Directing
+    winner:
+      movie: The Informer
+      directors: John Ford
+
+  - name: Best Actor
+    winner:
+      actor: Victor McLaglen
+      movie: The Informer
+
+  - name: Best Actress
+    winner:
+      actor: Bette Davis
+      movie: Dangerous
+
+  - name: Writing (Original Story)
+    winner:
+      movie: The Scoundrel
+      writers:
+        - Ben Hecht
+        - Charles MacArthur
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Informer
+      writers: Dudley Nichols
+
+  - name: Best Short Subject (Comedy)
+    winner:
+      movie: How to Sleep
+
+  - name: Best Short Subject (Novelty)
+    winner:
+      movie: Wings Over Everest
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: Three Orphan Kittens
+
+  - name: Best Music (Scoring)
+    winner:
+      movie: The Informer
+
+  - name: Best Music (Song)
+    winner:
+      movie: Gold Diggers of 1935
+      track: Lullaby of Broadway
+
+  - name: Best Sound Recording
+    winner:
+      movie: Naughty Marietta
+
+  - name: Best Dance Direction
+    winner:
+      movie: Broadway Melody of 1936
+      person: Dave Gould
+      # TODO: award given for two films — list not yet supported
+      # movie:
+      #   - Broadway Melody of 1936
+      #   - Folies Bergère de Paris
+
+  - name: Best Assistant Director
+    winner:
+      movie: The Lives of a Bengal Lancer
+
+  - name: Best Art Direction
+    winner:
+      movie: The Dark Angel
+
+  - name: Best Cinematography
+    winner:
+      movie: A Midsummer Night's Dream
+      cinematography: Hal Mohr
+
+  - name: Best Film Editing
+    winner:
+      movie: A Midsummer Night's Dream
+      editors: Ralph Dawson

@@ -1,0 +1,109 @@
+title: Oscar 1975
+wikipedia: https://en.wikipedia.org/wiki/47th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1975
+imdb: https://www.imdb.com/event/ev0000003/1975/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Art Carney
+      movie: Harry and Tonto
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Robert De Niro
+      movie: The Godfather Part II
+
+  - name: Actress in a leading role
+    winner:
+      actor: Ellen Burstyn
+      movie: Alice Doesn't Live Here Anymore
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Ingrid Bergman
+      movie: Murder on the Orient Express
+
+  - name: Art Direction
+    winner:
+      movie: The Godfather Part II
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Amarcord
+
+  - name: Cinematography
+    winner:
+      movie: The Towering Inferno
+      cinematography:
+        - Joseph Biroc
+        - Fred J. Koenekamp
+
+  - name: Costume Design
+    winner:
+      movie: The Great Gatsby
+      costume_design: Theoni V. Aldredge
+
+  - name: Directing
+    winner:
+      movie: The Godfather Part II
+      directors: Francis Ford Coppola
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Hearts and Minds
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Don't"
+
+  - name: Film Editing
+    winner:
+      movie: The Towering Inferno
+      editors:
+        - Harold F. Kress
+        - Carl Kress
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: The Godfather Part II
+      music:
+        - Nino Rota
+        - Carmine Coppola
+
+  - name: "Music (Scoring: Original Song Score and Adaptation -or- Scoring: Adaptation)"
+    winner:
+      movie: The Great Gatsby
+      music: Nelson Riddle
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Towering Inferno
+      track: We May Never Love Like This Again
+
+  - name: Best Picture
+    winner:
+      movie: The Godfather Part II
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Closed Mondays
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: One-Eyed Men Are Kings
+
+  - name: Sound
+    winner:
+      movie: Earthquake
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: The Godfather Part II
+      writers:
+        - Francis Ford Coppola
+        - Mario Puzo
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Chinatown
+      writers: Robert Towne

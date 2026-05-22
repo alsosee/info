@@ -1,0 +1,128 @@
+name: Task
+description: >
+  In the working-class suburbs of Philadelphia, FBI special agent Tom Brandis
+  leads a task force to investigate a series of violent robberies against
+  outlaw motorcycle gang stash houses, while an unassuming family man quietly
+  orchestrates the heists from the other side.
+released: 2025-09-07
+rating: TV-MA
+genres:
+  - crime drama
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Task_(TV_series)
+imdb: https://www.imdb.com/title/tt28013708
+tmdb: https://www.themoviedb.org/tv/228305-task/season/1
+creators: Brad Ingelsby
+directors:
+  - Jeremiah Zagar
+  - Salli Richardson-Whitfield
+writers:
+  - Brad Ingelsby
+  - Dave Obzud
+music: Dan Deacon
+cinematography:
+  - Alex Disenhof
+  - Elie Smolkin
+characters:
+  - name: Tom Brandis
+    actor: Mark Ruffalo
+  - name: Robbie Prendergrast
+    actor: Tom Pelphrey
+  - name: Maeve Prendergrast
+    actor: Emilia Jones
+  - name: Anthony Grasso
+    actor: Fabien Frankel
+  - name: Aleah Clinton
+    actor: Thuso Mbedu
+  - name: Cliff Broward
+    actor: Raúl Castillo
+  - name: Lizzie Stover
+    actor: Alison Oliver
+  - name: Kenny "Peaches" Pollard
+    actor: Owen Teague
+  - name: Kathleen McGinty
+    actor: Martha Plimpton
+  - name: Perry Dorazo
+    actor: Jamie McShane
+  - name: Jayson Wilkes
+    actor: Sam Keeley
+  - name: Sara
+    actor: Phoebe Fox
+  - name: Susan Brandis
+    actor: Mireille Enos
+  - name: Billy Prendergast
+    actor: Jack Kesy
+episodes:
+  - name: Crossings
+    description: >
+      An FBI agent is assigned to lead a new task force investigating violent
+      robberies against motorcycle gang stash houses, while an ordinary family
+      man takes his first steps into a life of crime.
+    released: 2025-09-07
+    length: 65m
+    directors: Jeremiah Zagar
+    writers: Brad Ingelsby
+    wikipedia: https://en.wikipedia.org/wiki/Crossings_(Task)
+  - name: Family Statements
+    description: >
+      The task force examines the aftermath of a violent incident while both
+      the lead investigator and the man he is hunting face mounting pressure
+      from their families.
+    released: 2025-09-14
+    length: 59m
+    directors: Jeremiah Zagar
+    writers: Brad Ingelsby
+    wikipedia: https://en.wikipedia.org/wiki/Family_Statements
+  - name: Nobody's Stronger Than Forgiveness
+    description: >
+      The task force follows a ballistic lead connecting the robberies to the
+      Dark Hearts motorcycle gang, while the robbery crew attempts to unload
+      stolen goods and manage escalating complications.
+    released: 2025-09-21
+    length: 61m
+    directors: Salli Richardson-Whitfield
+    writers: Brad Ingelsby
+    wikipedia: https://en.wikipedia.org/wiki/Nobody%27s_Stronger_Than_Forgiveness
+  - name: All Roads
+    description: >
+      Tom questions whether he can trust his own team as the Dark Hearts
+      motorcycle gang simultaneously pursues its own dangerous manhunt.
+    released: 2025-09-28
+    length: 61m
+    directors: Salli Richardson-Whitfield
+    writers:
+      - Brad Ingelsby
+      - Dave Obzud
+    wikipedia: https://en.wikipedia.org/wiki/All_Roads_(Task)
+  - name: Vagrants
+    description: >
+      Tom closes in on the robbery crew while growing suspicions about a
+      possible mole threaten the integrity of the task force.
+    released: 2025-10-05
+    length: 62m
+    directors: Jeremiah Zagar
+    writers:
+      - Brad Ingelsby
+      - Dave Obzud
+    wikipedia: https://en.wikipedia.org/wiki/Vagrants_(Task)
+  - name: "Out beyond ideas of wrongdoing and rightdoing, there is a river."
+    description: >
+      The FBI task force, the motorcycle gang, and the robbery crew find
+      themselves on a collision course as the investigation reaches a
+      critical flashpoint.
+    released: 2025-10-12
+    length: 59m
+    directors: Salli Richardson-Whitfield
+    writers:
+      - Brad Ingelsby
+      - Dave Obzud
+    wikipedia: https://en.wikipedia.org/wiki/Out_beyond_ideas_of_wrongdoing_and_rightdoing,_there_is_a_river.
+  - name: A Still Small Voice
+    description: >
+      The investigation enters its final chapter as Tom wrestles with faith,
+      forgiveness, and the cost of his choices.
+    released: 2025-10-19
+    length: 58m
+    directors: Jeremiah Zagar
+    writers: Brad Ingelsby
+    wikipedia: https://en.wikipedia.org/wiki/A_Still_Small_Voice_(Task)

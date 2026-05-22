@@ -15,12 +15,13 @@ directors: Quentin Tarantino
 production:
   - A Band Apart
   - Jersey Films
-distributors: Miramax Films
+distributors: Miramax
 characters:
   - name: Vincent Vega
     actor: John Travolta
   - name: Jules Winnfield
     actor: Samuel L. Jackson
+    ref: Characters/Jules Winnfield
   - name: Mia Wallace
     actor: Uma Thurman
   - name: Butch Coolidge

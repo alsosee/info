@@ -1,0 +1,102 @@
+title: Oscar 1938
+wikipedia: https://en.wikipedia.org/wiki/10th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1938
+imdb: https://www.imdb.com/event/ev0000003/1938/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: The Life of Emile Zola
+
+  - name: Best Directing
+    winner:
+      movie: The Awful Truth
+      directors: Leo McCarey
+
+  - name: Best Actor
+    winner:
+      actor: Spencer Tracy
+      movie: Captains Courageous
+
+  - name: Best Actress
+    winner:
+      actor: Luise Rainer
+      movie: The Good Earth
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Joseph Schildkraut
+      movie: The Life of Emile Zola
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Alice Brady
+      movie: In Old Chicago
+
+  - name: Writing (Original Story)
+    winner:
+      movie: A Star Is Born
+      writers:
+        - William A. Wellman
+        - Robert Carson
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Life of Emile Zola
+      writers:
+        - Heinz Herald
+        - Geza Herczeg
+        - Norman Reilly Raine
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: The Private Life of the Gannets
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: Torture Money
+
+  - name: Best Short Subject (Color)
+    winner:
+      movie: Penny Wisdom
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Old Mill
+
+  - name: Best Music (Scoring)
+    winner:
+      movie: One Hundred Men and a Girl
+
+  - name: Best Music (Song)
+    winner:
+      movie: Waikiki Wedding
+      track: Sweet Leilani
+
+  - name: Best Sound Recording
+    winner:
+      movie: The Hurricane
+
+  - name: Best Dance Direction
+    winner:
+      movie: A Damsel in Distress
+      person: Hermes Pan
+
+  - name: Best Assistant Director
+    winner:
+      movie: In Old Chicago
+
+  - name: Best Art Direction
+    winner:
+      movie: Lost Horizon
+
+  - name: Best Cinematography
+    winner:
+      movie: The Good Earth
+      cinematography: Karl Freund
+
+  - name: Best Film Editing
+    winner:
+      movie: Lost Horizon
+      editors:
+        - Gene Havlick
+        - Gene Milford

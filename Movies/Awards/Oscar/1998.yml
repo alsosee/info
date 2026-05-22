@@ -1,0 +1,119 @@
+title: Oscar 1998
+wikipedia: https://en.wikipedia.org/wiki/70th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1998
+imdb: https://www.imdb.com/event/ev0000003/1998/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jack Nicholson
+      movie: As Good as It Gets
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Robin Williams
+      movie: Good Will Hunting
+
+  - name: Actress in a leading role
+    winner:
+      actor: Helen Hunt
+      movie: As Good as It Gets
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Kim Basinger
+      movie: L.A. Confidential
+
+  - name: Art Direction
+    winner:
+      movie: Titanic
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Character
+
+  - name: Cinematography
+    winner:
+      movie: Titanic
+      cinematography: Russell Carpenter
+
+  - name: Costume Design
+    winner:
+      movie: Titanic
+
+  - name: Directing
+    winner:
+      movie: Titanic
+      directors: James Cameron
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Long Way Home
+
+  - name: Documentary Short Subject
+    winner:
+      movie: A Story of Healing
+
+  - name: Film Editing
+    winner:
+      movie: Titanic
+      editors:
+        - Conrad Buff
+        - James Cameron
+        - Richard A. Harris
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Men in Black
+
+  - name: Music (Original Dramatic Score)
+    winner:
+      movie: Titanic
+      music: James Horner
+
+  - name: Music (Original Musical or Comedy Score)
+    winner:
+      movie: The Full Monty
+      music: Anne Dudley
+
+  - name: Music (Original Song)
+    winner:
+      movie: Titanic
+      track: My Heart Will Go On
+
+  - name: Best Picture
+    winner:
+      movie: Titanic
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Geri's Game
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Visas and Virtue
+
+  - name: Sound
+    winner:
+      movie: Titanic
+
+  - name: Sound Effects Editing
+    winner:
+      movie: Titanic
+
+  - name: Visual Effects
+    winner:
+      movie: Titanic
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: L.A. Confidential
+      writers:
+        - Brian Helgeland
+        - Curtis Hanson
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Good Will Hunting
+      writers:
+        - Matt Damon
+        - Ben Affleck

@@ -1,0 +1,29 @@
+name: Myst
+description: A stranger travels through a linking book to the deserted island of Myst, solving environmental puzzles to uncover the history of Atrus, his family, and the surrounding Ages.
+released: 1993-09-24
+genres:
+  - adventure
+  - puzzle
+  - point-and-click
+series: Myst
+wikipedia: https://en.wikipedia.org/wiki/Myst
+fandom: https://dni.fandom.com/wiki/Myst_(Game)
+spotify: https://open.spotify.com/album/0dcBg1wM67TIXy4d2uHfgT
+website: https://cyan.com/games/myst
+developers: Cyan
+publishers: Broderbund
+directors:
+  - Rand Miller
+  - Robyn Miller
+designers:
+  - Rand Miller
+  - Robyn Miller
+writers: Ryan Miller
+composers: Robyn Miller
+characters:
+  - name: Atrus
+    actor: Rand Miller
+  - name: Achenar
+    actor: Rand Miller
+  - name: Sirrus
+    actor: Robyn Miller

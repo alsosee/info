@@ -1,0 +1,82 @@
+title: BAFTA 1985
+website: https://awards.bafta.org/award/1985/film
+categories:
+    - name: Actor
+      winner:
+        movie: Dr Haing S Ngor
+    - name: Actress
+      winner:
+        movie: Maggie Smith
+    - name: Adapted Screenplay
+      winner:
+        movie: The Killing Fields
+        screenplay:
+            - Bruce Robinson
+    - name: Cinematography
+      winner:
+        movie: The Killing Fields
+    - name: Costume Design
+      winner:
+        movie: Once Upon A Time In America
+        constumedesign:
+            - Gabriella Pescucci
+    - name: Direction
+      winner:
+        movie: Paris, Texas
+    - name: Editing
+      winner:
+        movie: The Killing Fields
+        editors:
+            - Jim Clark
+    - name: Film
+      winner:
+        movie: The Killing Fields
+    - name: Flaherty Documentary Award
+      winner:
+        movie: 28 Up
+    - name: Foreign Language Film
+      winner:
+        movie: Carmen
+    - name: Make-Up Artist
+      winner:
+        movie: Paul Engelen, Peter Frampton, Rick Baker, Joan Hills
+    - name: Most Promising Newcomer To Film
+      winner:
+        movie: Dr Haing S Ngor
+    - name: Original Screenplay
+      winner:
+        movie: Broadway Danny Rose
+        screenplay:
+            - Woody Allen
+    - name: Original Song Written for a Film
+      winner:
+        movie: Ghostbusters (Ghostbusters)
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Alan Parker & Alan Marshall
+    - name: Production Design
+      winner:
+        movie: The Killing Fields
+    - name: Score For A Film
+      winner:
+        movie: Once Upon A Time In America
+    - name: Short Animation
+      winner:
+        movie: Rupert And The Frog Song
+    - name: Short Film
+      winner:
+        movie: The Dress
+    - name: Sound
+      winner:
+        movie: The Killing Fields
+    - name: Special Visual Effects
+      winner:
+        movie: Indiana Jones And The Temple Of Doom
+    - name: Supporting Actor
+      winner:
+        movie: A Private Function
+        actor: Denholm Elliott
+    - name: Supporting Actress
+      winner:
+        movie: A Private Function
+        actor: Liz Smith

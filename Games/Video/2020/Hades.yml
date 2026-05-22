@@ -1,0 +1,66 @@
+name: Hades
+description: >
+  Hades is a roguelike action role-playing game where players control Zagreus, the prince of the Underworld, as he attempts to escape his father's realm to reach Mount Olympus. Aided by the Olympian gods, players fight through randomized rooms in a hack-and-slash combat system, gaining permanent upgrades and uncovering a branching narrative with each attempt.
+released: 2020-09-17
+genres:
+  - roguelike
+  - action role-playing
+  - hack and slash
+website: https://www.supergiantgames.com/games/hades/
+developers: Supergiant Games
+publishers: Supergiant Games
+trailer: https://www.youtube.com/watch?v=mD8x5xLHRho
+wikipedia: https://en.wikipedia.org/wiki/Hades_(video_game)
+x: https://x.com/SupergiantGames
+instagram: https://www.instagram.com/supergiantgames/
+imdb: https://www.imdb.com/title/tt9411866
+xbox: https://www.xbox.com/games/store/hades/9P8DL6W0JBB8
+playstation: https://www.playstation.com/games/hades/
+steam: https://store.steampowered.com/app/1145360/Hades/
+epic: https://www.epicgames.com/store/p/hades
+nintendo: https://www.nintendo.com/store/products/hades-switch/
+metacritic: https://www.metacritic.com/game/hades/
+spotify: https://open.spotify.com/album/5jTYZA6b4VoSRnR5TMldgb
+characters:
+  - name: Zagreus
+    voice: Darren Korb
+  - name: Hades
+    voice: Logan Cunningham
+  - name: Nyx
+    voice: Jamie Landrum
+  - name: Megaera
+    voice: Avalon Penrose
+  - name: Thanatos
+    voice: Christopher Saphire
+  - name: Hypnos
+    voice: Greg Kasavin
+  - name: Dusa
+    voice: Courtney Vineys
+  - name: Achilles
+    voice: Christopher Saphire
+  - name: Orpheus
+    voice: Darren Korb
+  - name: Skelly
+    voice: Darren Korb
+  - name: Eurydice
+    voice: Francesca Meaux
+  - name: Zeus
+    voice: Peter Canavese
+  - name: Poseidon
+    voice: Logan Cunningham
+  - name: Athena
+    voice: Marianne Miller
+  - name: Aphrodite
+    voice: Courtney Vineys
+  - name: Ares
+    voice: Cyrus Nemati
+  - name: Artemis
+    voice: Jamie Landrum
+  - name: Dionysus
+    voice: Cyrus Nemati
+  - name: Hermes
+    voice: Andrew Marks
+  - name: Demeter
+    voice: Laila Berzins
+  - name: Persephone
+    voice: Laila Berzins

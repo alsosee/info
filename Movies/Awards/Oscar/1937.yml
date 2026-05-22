@@ -1,0 +1,99 @@
+title: Oscar 1937
+wikipedia: https://en.wikipedia.org/wiki/9th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1937
+imdb: https://www.imdb.com/event/ev0000003/1937/1
+categories:
+  - name: Outstanding Production
+    winner:
+      movie: The Great Ziegfeld
+
+  - name: Best Directing
+    winner:
+      movie: Mr. Deeds Goes to Town
+      directors: Frank Capra
+
+  - name: Best Actor
+    winner:
+      actor: Paul Muni
+      movie: The Story of Louis Pasteur
+
+  - name: Best Actress
+    winner:
+      actor: Luise Rainer
+      movie: The Great Ziegfeld
+
+  - name: Best Actor in a Supporting Role
+    winner:
+      actor: Walter Brennan
+      movie: Come and Get It
+
+  - name: Best Actress in a Supporting Role
+    winner:
+      actor: Gale Sondergaard
+      movie: Anthony Adverse
+
+  - name: Writing (Original Story)
+    winner:
+      movie: The Story of Louis Pasteur
+      writers:
+        - Pierre Collings
+        - Sheridan Gibney
+
+  - name: Writing (Screenplay)
+    winner:
+      movie: The Story of Louis Pasteur
+      writers:
+        - Pierre Collings
+        - Sheridan Gibney
+
+  - name: Best Short Subject (One-Reel)
+    winner:
+      movie: Bored of Education
+
+  - name: Best Short Subject (Two-Reel)
+    winner:
+      movie: The Public Pays
+
+  - name: Best Short Subject (Color)
+    winner:
+      movie: Give Me Liberty
+
+  - name: Best Short Subject (Cartoon)
+    winner:
+      movie: The Country Cousin
+
+  - name: Best Music (Scoring)
+    winner:
+      movie: Anthony Adverse
+
+  - name: Best Music (Song)
+    winner:
+      movie: Swing Time
+      track: The Way You Look Tonight
+
+  - name: Best Sound Recording
+    winner:
+      movie: San Francisco
+
+  - name: Best Dance Direction
+    winner:
+      movie: The Great Ziegfeld
+      person: Seymour Felix
+
+  - name: Best Assistant Director
+    winner:
+      movie: The Charge of the Light Brigade
+
+  - name: Best Art Direction
+    winner:
+      movie: Dodsworth
+
+  - name: Best Cinematography
+    winner:
+      movie: Anthony Adverse
+      cinematography: Tony Gaudio
+
+  - name: Best Film Editing
+    winner:
+      movie: Anthony Adverse
+      editors: Ralph Dawson

@@ -1,0 +1,185 @@
+name: The Pitt
+description: >
+  A medical drama following the staff of Pittsburgh Trauma Medical Center's
+  emergency department through a single 15-hour shift, exploring the human
+  cost of working in an overcrowded, underfunded hospital in a post-pandemic
+  world.
+released: 2025-01-09
+rating: TV-MA
+genres:
+  - medical drama
+  - psychological drama
+network: Max
+wikipedia: https://en.wikipedia.org/wiki/The_Pitt
+imdb: https://www.imdb.com/title/tt31938062
+tmdb: https://www.themoviedb.org/tv/250307-the-pitt/season/1
+creators: R. Scott Gemmill
+directors:
+  - John Wells
+  - Amanda Marsalis
+  - Damian Marcano
+  - John Cameron
+  - Silver Tree
+  - Quyen Tran
+writers:
+  - R. Scott Gemmill
+  - Joe Sachs
+  - Noah Wyle
+  - Simran Baidwan
+  - Cynthia Adarkwa
+  - Valerie Chu
+  - Elyssa Gershman
+producers:
+  - John Wells
+  - Noah Wyle
+  - Michael Hissrich
+  - Erin Jontow
+  - Simran Baidwan
+  - Joe Sachs
+characters:
+  - name: 'Dr. Michael "Robby" Robinavitch'
+    actor: Noah Wyle
+  - name: Dr. Heather Collins
+    actor: Tracy Ifeachor
+  - name: Dr. Frank Langdon
+    actor: Patrick Ball
+  - name: Dana Evans
+    actor: Katherine LaNasa
+  - name: Dr. Samira Mohan
+    actor: Supriya Ganesh
+  - name: Dr. Cassie McKay
+    actor: Fiona Dourif
+  - name: 'Dr. Melissa "Mel" King'
+    actor: Taylor Dearden
+  - name: Dr. Trinity Santos
+    actor: Isa Briones
+  - name: Dr. Dennis Whitaker
+    actor: Gerran Howell
+  - name: Victoria Javadi
+    actor: Shabana Azeez
+episodes:
+  - name: 7:00 A.M.
+    description: >
+      Dr. Robby begins his shift at Pittsburgh Trauma Medical Center, welcoming
+      a new group of residents and medical students to the emergency department.
+    released: 2025-01-09
+    imdb: https://www.imdb.com/title/tt32561670
+    wikipedia: https://en.wikipedia.org/wiki/7:00_A.M._(The_Pitt_season_1)
+    directors: John Wells
+    writers: R. Scott Gemmill
+  - name: 8:00 A.M.
+    description: >
+      The ER team encounters a series of escalating emergencies, including
+      difficult ethical decisions around end-of-life care for multiple patients.
+    released: 2025-01-09
+    imdb: https://www.imdb.com/title/tt32561844
+    directors: Amanda Marsalis
+    writers: R. Scott Gemmill
+  - name: 9:00 A.M.
+    description: >
+      Medical students face their first major tests as a wave of patients
+      arrives with urgent and life-threatening conditions.
+    released: 2025-01-16
+    directors: Damian Marcano
+    writers:
+      - Joe Sachs
+      - R. Scott Gemmill
+  - name: 10:00 A.M.
+    description: >
+      The ER staff tracks a developing crisis in the field while managing
+      ongoing emergencies and the emotional needs of patients' families.
+    released: 2025-01-23
+    directors: Amanda Marsalis
+    writers: Noah Wyle
+  - name: 11:00 A.M.
+    description: >
+      Tensions flare between staff members over competing approaches to patient
+      care as the midmorning rush tests everyone's limits.
+    released: 2025-01-30
+    imdb: https://www.imdb.com/title/tt32561847
+    directors: John Cameron
+    writers: Simran Baidwan
+  - name: 12:00 P.M.
+    description: >
+      Hospital administrators push for improved patient satisfaction scores
+      while the ER team struggles to keep pace with a full waiting room.
+    released: 2025-02-06
+    imdb: https://www.imdb.com/title/tt32561854
+    directors: Damian Marcano
+    writers: Cynthia Adarkwa
+  - name: 1:00 P.M.
+    description: >
+      Dr. Robby advocates for his patients in an overcrowded department while
+      the team works through an unusual and medically complex case.
+    released: 2025-02-13
+    imdb: https://www.imdb.com/title/tt32561852
+    directors: Silver Tree
+    writers: Valerie Chu
+  - name: 2:00 P.M.
+    description: >
+      The team faces back-to-back emotionally challenging cases, including one
+      that raises suspicions of human trafficking.
+    released: 2025-02-20
+    imdb: https://www.imdb.com/title/tt32561853
+    directors: Amanda Marsalis
+    writers: Joe Sachs
+  - name: 3:00 P.M.
+    description: >
+      Interpersonal conflicts among the staff come to a head as the afternoon
+      shift brings a relentless stream of serious trauma cases.
+    released: 2025-02-27
+    imdb: https://www.imdb.com/title/tt32561856
+    directors: Quyen Tran
+    writers: Noah Wyle
+  - name: 4:00 P.M.
+    description: >
+      A serious breach of trust within the department forces Dr. Robby to
+      confront a colleague during an already demanding afternoon.
+    released: 2025-03-06
+    wikipedia: https://en.wikipedia.org/wiki/4:00_P.M._(The_Pitt_season_1)
+    directors: Damian Marcano
+    writers: Simran Baidwan
+  - name: 5:00 P.M.
+    description: >
+      Reports of a mass casualty event nearby put the ER on high alert as the
+      team braces for an incoming surge of patients.
+    released: 2025-03-13
+    imdb: https://www.imdb.com/title/tt32561861
+    directors: Quyen Tran
+    writers: Elyssa Gershman
+  - name: 6:00 P.M.
+    description: >
+      The ER activates mass casualty protocols as a wave of shooting victims
+      arrives, stretching staff and supplies to their limits.
+    released: 2025-03-20
+    wikipedia: https://en.wikipedia.org/wiki/6:00_P.M._(The_Pitt_season_1)
+    directors: Amanda Marsalis
+    writers:
+      - Joe Sachs
+      - R. Scott Gemmill
+  - name: 7:00 P.M.
+    description: >
+      Staff push through physical and emotional exhaustion as they continue
+      treating mass casualty patients with dwindling resources.
+    released: 2025-03-27
+    wikipedia: https://en.wikipedia.org/wiki/7:00_P.M._(The_Pitt_season_1)
+    directors: Damian Marcano
+    writers:
+      - Joe Sachs
+      - R. Scott Gemmill
+  - name: 8:00 P.M.
+    description: >
+      The team works to stabilize the ER and care for survivors as the chaos
+      of the mass casualty event begins to subside.
+    released: 2025-04-03
+    imdb: https://www.imdb.com/title/tt32561864
+    directors: John Cameron
+    writers: Simran Baidwan
+  - name: 9:00 P.M.
+    description: >
+      Dr. Robby and the day-shift team approach the end of their grueling
+      15-hour shift and reflect on the events of the day.
+    released: 2025-04-10
+    wikipedia: https://en.wikipedia.org/wiki/9:00_P.M._(The_Pitt_season_1)
+    directors: John Wells
+    writers: R. Scott Gemmill

@@ -1,0 +1,44 @@
+name: Mortal Kombat
+description: >
+  A martial arts tournament where seven warriors compete to save Earthrealm from the sorcerer Shang Tsung and the four-armed Goro. It is famous for its digitized graphics and violent "Fatality" finishing moves.
+released: 1992-10-08
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)
+imdb: https://www.imdb.com/title/tt0104909/
+developers: Midway Games
+publishers: Midway
+directors:
+  - Ed Boon
+  - John Tobias
+writers: John Tobias
+designers:
+  - Ed Boon
+  - John Tobias
+programmers: Ed Boon
+artists:
+  - John Tobias
+  - John Vogel
+composers: Dan Forden
+characters:
+  - name: Liu Kang
+    actor: Ho-Sung Pak
+  - name: Sonya Blade
+    actor: Elizabeth Malecki
+  - name: Kano
+    actor: Richard Divizio
+  - name: Raiden
+    actor: Carlos Pesina
+  - name: Johnny Cage
+    actor: Daniel Pesina
+  - name: Scorpion
+    actor: Daniel Pesina
+  - name: Sub-Zero
+    actor: Daniel Pesina
+  - name: Reptile
+    actor: Daniel Pesina
+  - name: Goro
+    actor: Curt Chiarelli
+  - name: Shang Tsung
+    actor: Eric Kincade
+      # Ho-Sung Pak

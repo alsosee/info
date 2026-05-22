@@ -1,0 +1,111 @@
+title: Oscar 1968
+wikipedia: https://en.wikipedia.org/wiki/40th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1968
+imdb: https://www.imdb.com/event/ev0000003/1968/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: In the Heat of the Night
+
+  - name: Directing
+    winner:
+      movie: The Graduate
+      directors: Mike Nichols
+
+  - name: Actor in a leading role
+    winner:
+      actor: Rod Steiger
+      movie: In the Heat of the Night
+
+  - name: Actress in a leading role
+    winner:
+      actor: Katharine Hepburn
+      movie: Guess Who's Coming to Dinner
+
+  - name: Actor in a supporting role
+    winner:
+      actor: George Kennedy
+      movie: Cool Hand Luke
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Estelle Parsons
+      movie: Bonnie and Clyde
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Guess Who's Coming to Dinner
+      writers: William Rose
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: In the Heat of the Night
+      writers: Stirling Silliphant
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Closely Watched Trains
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Anderson Platoon
+
+  - name: Documentary Short Subject
+    winner:
+      movie: The Redwoods
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: A Place to Stand
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Box
+
+  - name: Music (Original Music Score)
+    winner:
+      movie: Thoroughly Modern Millie
+      music: Elmer Bernstein
+
+  - name: Music (Scoring of Music -- Adaptation or Treatment)
+    winner:
+      movie: Camelot
+      music:
+        - Alfred Newman
+        - Ken Darby
+
+  - name: Music (Original Song)
+    winner:
+      movie: Doctor Dolittle
+      track: Talk to the Animals
+
+  - name: Sound
+    winner:
+      movie: In the Heat of the Night
+
+  - name: Sound Effects
+    winner:
+      movie: The Dirty Dozen
+
+  - name: Art Direction
+    winner:
+      movie: Camelot
+
+  - name: Cinematography
+    winner:
+      movie: Bonnie and Clyde
+      cinematography: Burnett Guffey
+
+  - name: Costume Design
+    winner:
+      movie: Camelot
+      costume_design: John Truscott
+
+  - name: Film Editing
+    winner:
+      movie: In the Heat of the Night
+      editors: Hal Ashby
+
+  - name: Visual Effects
+    winner:
+      movie: Doctor Dolittle

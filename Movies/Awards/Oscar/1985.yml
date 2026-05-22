@@ -1,0 +1,108 @@
+title: Oscar 1985
+wikipedia: https://en.wikipedia.org/wiki/57th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1985
+imdb: https://www.imdb.com/event/ev0000003/1985/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: F. Murray Abraham
+      movie: Amadeus
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Haing S. Ngor
+      movie: The Killing Fields
+
+  - name: Actress in a leading role
+    winner:
+      actor: Sally Field
+      movie: Places in the Heart
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Peggy Ashcroft
+      movie: A Passage to India
+
+  - name: Art Direction
+    winner:
+      movie: Amadeus
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Dangerous Moves
+
+  - name: Cinematography
+    winner:
+      movie: The Killing Fields
+      cinematography: Chris Menges
+
+  - name: Costume Design
+    winner:
+      movie: Amadeus
+
+  - name: Directing
+    winner:
+      movie: Amadeus
+      directors: Miloš Forman
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Times of Harvey Milk
+
+  - name: Documentary Short Subject
+    winner:
+      movie: The Stone Carvers
+
+  - name: Film Editing
+    winner:
+      movie: The Killing Fields
+      editors: Jim Clark
+
+  - name: Makeup
+    winner:
+      movie: Amadeus
+
+  - name: Music (Original Score)
+    winner:
+      movie: A Passage to India
+      music: Maurice Jarre
+
+  - name: Music (Original Song)
+    winner:
+      movie: The Woman in Red
+      track: I Just Called to Say I Love You
+
+  - name: Music (Original Song Score)
+    winner:
+      movie: Purple Rain
+      music: Prince
+
+  - name: Best Picture
+    winner:
+      movie: Amadeus
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Charade
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Up
+
+  - name: Sound
+    winner:
+      movie: Amadeus
+
+  - name: Visual Effects
+    winner:
+      movie: Indiana Jones and the Temple of Doom
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Amadeus
+      writers: Peter Shaffer
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Places in the Heart
+      writers: Robert Benton

@@ -1,0 +1,61 @@
+name: "Mars Express"
+description: >
+  In the 23rd century on Mars, private investigator Aline Ruby and her android partner Carlos Rivera
+  are tasked with solving the disappearance of a cybernetics student.
+released: 2023-05-23
+rating: 7.5
+length: 1h29m
+genres:
+  - Animated
+  - Science Fiction
+  - Thriller
+  - Neo-noir
+  - Mystery
+wikipedia: https://en.wikipedia.org/wiki/Mars_Express_(film)
+imdb: https://www.imdb.com/title/tt14402146
+tmdb: https://www.themoviedb.org/movie/1019272-mars-express
+rotten_tomatoes: https://www.rottentomatoes.com/m/mars_express
+metacritic: https://www.metacritic.com/movie/mars-express/
+directors: Jérémie Périn
+writers:
+  - Laurent Sarfati
+  - Jérémie Périn
+screenplay:
+  - Laurent Sarfati
+  - Jérémie Périn
+music:
+  - Fred Avril
+  - Philippe Monthaye
+editors: Lila Desiles
+production:
+  - Everybody on Deck
+  - Je Suis Bien Content
+  - EV.L Prod
+  - Plume Finance
+  - France 3 Cinéma
+  - Shine Conseils
+  - Gebeka Films
+  - Amopix
+distributors:
+  - Gebeka Films
+  - GKIDS
+  - Beam Films
+characters:
+  - name: Aline Ruby
+    voice: Léa Drucker
+  - name: Chris Royjacker
+    voice: Mathieu Amalric
+  - name: Carlos Rivera
+    voice: Daniel Njo Lobé
+  - name: Roberta Williams
+    voice: Marie Bouvet
+  - name: Inspector Simon Gordaux
+    voice: Sébastien Chassagne
+  - name: Beryl
+    voice: Marthe Keller
+  - name: Jun Chow
+    voice: Geneviève Doang
+  - name: LEM
+    voice: Thomas Roditi
+  - name: the professor
+    voice: Usul

@@ -1,0 +1,264 @@
+name: Fringe
+description: >
+  FBI Special Agent Olivia Dunham is assigned to the bureau's Fringe Division, where she investigates cases involving "fringe science" such as telepathy, levitation, invisibility, and reanimation. To help her, she recruits an eccentric, formerly institutionalized scientist, Dr. Walter Bishop, and his estranged son, Peter Bishop. Together, they uncover a global conspiracy known as "The Pattern" and a brewing conflict between parallel universes.
+released: 2008-09-09
+rating: TV-14
+genres:
+  - drama
+  - mystery
+  - science fiction
+network: Fox
+wikipedia: https://en.wikipedia.org/wiki/Fringe_(season_1)
+imdb: https://www.imdb.com/title/tt1119644/
+tmdb: https://www.themoviedb.org/tv/1705-fringe/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/fringe/s01
+metacritic: https://www.metacritic.com/tv/fringe/season-1
+creators:
+  - J. J. Abrams
+  - Alex Kurtzman
+  - Roberto Orci
+characters:
+  - name: Olivia Dunham
+    actor: Anna Torv
+  - name: Peter Bishop
+    actor: Joshua Jackson
+  - name: Dr. Walter Bishop
+    actor: John Noble
+  - name: Phillip Broyles
+    actor: Lance Reddick
+  - name: Astrid Farnsworth
+    actor: Jasika Nicole
+  - name: Charlie Francis
+    actor: Kirk Acevedo
+  - name: Nina Sharp
+    actor: Blair Brown
+  - name: John Scott
+    actor: Mark Valley
+episodes:
+  - name: Pilot
+    description: >
+      FBI agent Olivia Dunham investigates a mysterious biological attack on an international flight and recruits a brilliant but institutionalized scientist and his son to help uncover a larger conspiracy.
+    released: 2008-09-09
+    length: 81m
+    imdb: https://www.imdb.com/title/tt1173133/
+    wikipedia: https://en.wikipedia.org/wiki/Pilot_(Fringe)
+    directors: Alex Graves
+    writers:
+      - J. J. Abrams
+      - Alex Kurtzman
+      - Roberto Orci
+  - name: The Same Old Story
+    description: >
+      The team investigates a case where a newborn baby rapidly ages into an 80-year-old man within minutes, leading them to a scientist experimenting with rapid aging.
+    released: 2008-09-16
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274334/
+    wikipedia: https://en.wikipedia.org/wiki/The_Same_Old_Story_(Fringe)
+    directors: Paul Edwards
+    writers:
+      - Jeff Pinkner
+      - J. J. Abrams
+      - Alex Kurtzman
+      - Roberto Orci
+  - name: The Ghost Network
+    description: >
+      The Fringe team investigates a bus filled with an amber-like substance and discovers a man who can predict such events through a past experiment called the "Ghost Network."
+    released: 2008-09-23
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274335/
+    wikipedia: https://en.wikipedia.org/wiki/The_Ghost_Network
+    directors: Frederick E. O. Toye
+    writers:
+      - David H. Goodman
+      - J. R. Orci
+  - name: The Arrival
+    description: >
+      A mysterious cylindrical object known as "The Beacon" emerges from the ground at a construction site, drawing the attention of both the Fringe team and a mysterious figure known as the Observer.
+    released: 2008-09-30
+    length: 49m
+    imdb: https://www.imdb.com/title/tt1274336/
+    wikipedia: https://en.wikipedia.org/wiki/The_Arrival_(Fringe)
+    directors: Paul Edwards
+    writers:
+      - J. J. Abrams
+      - Jeff Pinkner
+  - name: Power Hungry
+    description: >
+      The team tracks a man who has the uncontrolled ability to affect electrical energy after being experimented on by a rogue scientist.
+    released: 2008-10-14
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274337/
+    wikipedia: https://en.wikipedia.org/wiki/Power_Hungry_(Fringe)
+    directors: Christopher Misiano
+    writers:
+      - Jason Cahill
+      - Julia Cho
+  - name: The Cure
+    description: >
+      Two women suffering from a rare disease are exploited by a pharmaceutical company, causing them to emit radiation that has lethal effects on those around them.
+    released: 2008-10-21
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274338/
+    wikipedia: https://en.wikipedia.org/wiki/The_Cure_(Fringe)
+    directors: Bill Eagles
+    writers:
+      - Felicia D. Henderson
+      - Brad Caleb Kane
+  - name: In Which We Meet Mr. Jones
+    description: >
+      Olivia travels to a German prison to meet with biochemist David Robert Jones to find a cure for a synthetic parasite constricting an FBI agent's heart.
+    released: 2008-11-11
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274339/
+    wikipedia: https://en.wikipedia.org/wiki/In_Which_We_Meet_Mr._Jones
+    directors: Brad Anderson
+    writers:
+      - J. J. Abrams
+      - Jeff Pinkner
+  - name: The Equation
+    description: >
+      The Fringe team investigates the kidnapping of a musical prodigy who was taken by a man using a series of flashing lights, leading Walter to realize the abduction is connected to a fellow patient from his past at St. Claire's Hospital.
+    released: 2008-11-18
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274340/
+    wikipedia: https://en.wikipedia.org/wiki/The_Equation_(Fringe)
+    directors: Gwyneth Horder-Payton
+    writers:
+      - J. R. Orci
+      - David H. Goodman
+  - name: The Dreamscape
+    description: >
+      The team investigates a Massive Dynamic employee who jumps out of a window after believing he is being attacked by a swarm of butterflies, leading to the discovery of a deadly psychoactive drug.
+    released: 2008-11-25
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274341/
+    wikipedia: https://en.wikipedia.org/wiki/The_Dreamscape
+    directors: Frederick E. O. Toye
+    writers:
+      - Zack Whedon
+      - Julia Cho
+  - name: Safe
+    description: >
+      A group uses technology to walk through walls to steal safe deposit boxes containing equipment intended to break David Robert Jones out of prison.
+    released: 2008-12-02
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274342/
+    wikipedia: https://en.wikipedia.org/wiki/Safe_(Fringe)
+    directors: Michael Zinberg
+    writers:
+      - David H. Goodman
+      - Jason Cahill
+  - name: Bound
+    description: >
+      Olivia escapes her kidnappers and investigates a chemical that creates a giant, slug-like single cell in victims' stomachs while facing an audit from an old adversary.
+    released: 2009-01-20
+    length: 60m
+    imdb: https://www.imdb.com/title/tt1274343/
+    wikipedia: https://en.wikipedia.org/wiki/Bound_(Fringe)
+    directors: Frederick E. O. Toye
+    writers:
+      - J. J. Abrams
+      - Jeff Pinkner
+      - Alex Kurtzman
+      - Roberto Orci
+  - name: The No-Brainer
+    description: >
+      The team investigates a series of deaths where victims' brains are liquefied after watching a specific video sent to their computers.
+    released: 2009-01-27
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274344/
+    wikipedia: https://en.wikipedia.org/wiki/The_No-Brainer
+    directors: John Polson
+    writers:
+      - David H. Goodman
+      - Brad Caleb Kane
+  - name: The Transformation
+    description: >
+      A scientist transforms into a porcupine-like creature on a plane, leading Olivia to explore her memories of John Scott to stop a virus sale.
+    released: 2009-02-03
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274345/
+    wikipedia: https://en.wikipedia.org/wiki/The_Transformation_(Fringe)
+    directors: Brad Anderson
+    writers:
+      - Zack Whedon
+      - J. R. Orci
+  - name: Ability
+    description: >
+      David Robert Jones turns himself in and challenges Olivia to use her latent abilities to defuse a bomb that causes fatal accelerated cellular growth.
+    released: 2009-02-10
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274346/
+    wikipedia: https://en.wikipedia.org/wiki/Ability_(Fringe)
+    directors: Norberto Barba
+    writers:
+      - David H. Goodman
+      - Glen Whitman
+      - Robert Chiappetta
+  - name: Inner Child
+    description: >
+      A mysterious, subterranean feral child is discovered in a sealed building and develops an empathic connection with Olivia to help catch a serial killer.
+    released: 2009-04-07
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274347/
+    wikipedia: https://en.wikipedia.org/wiki/Inner_Child_(Fringe)
+    directors: Frederick E. O. Toye
+    writers:
+      - Brad Caleb Kane
+      - Julia Cho
+  - name: Unleashed
+    description: >
+      The team hunts a man-made chimera that escaped a lab and infected Agent Charlie Francis with its larvae.
+    released: 2009-04-14
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274348/
+    wikipedia: https://en.wikipedia.org/wiki/Unleashed_(Fringe)
+    directors: Brad Anderson
+    writers:
+      - Zack Whedon
+      - J. R. Orci
+  - name: Bad Dreams
+    description: >
+      Olivia experiences dreams where she is causing people to commit suicide, leading her to discover a man from her past with shared history in drug trials.
+    released: 2009-04-21
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274349/
+    wikipedia: https://en.wikipedia.org/wiki/Bad_Dreams_(Fringe)
+    directors: Akiva Goldsman
+    writers: Akiva Goldsman
+  - name: Midnight
+    description: >
+      A scientist's wife is infected with a contagion that forces her to kill people for their spinal fluid to survive.
+    released: 2009-04-28
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274350/
+    wikipedia: https://en.wikipedia.org/wiki/Midnight_(Fringe)
+    directors: Bobby Roth
+    writers:
+      - J. H. Wyman
+      - Andrew Kreisberg
+  - name: The Road Not Taken
+    description: >
+      The team investigates a woman who spontaneously combusts, leading to revelations about ZFT experiments and Olivia's childhood drug trials.
+    released: 2009-05-05
+    length: 50m
+    imdb: https://www.imdb.com/title/tt1274351/
+    wikipedia: https://en.wikipedia.org/wiki/The_Road_Not_Taken_(Fringe)
+    directors: Frederick E. O. Toye
+    writers:
+      - Jeff Pinkner
+      - J. R. Orci
+      - Akiva Goldsman
+  - name: There's More Than One of Everything
+    description: >
+      David Robert Jones attempts to open a doorway to a parallel universe, leading to a confrontation at Reiden Lake and a startling meeting for Olivia.
+    released: 2009-05-12
+    length: 47m
+    imdb: https://www.imdb.com/title/tt1274352/
+    wikipedia: https://en.wikipedia.org/wiki/There%27s_More_Than_One_of_Everything
+    directors: Brad Anderson
+    writers:
+      - Jeff Pinkner
+      - J. H. Wyman
+      - Akiva Goldsman
+      - Bryan Burk

@@ -1,0 +1,36 @@
+name: "Léon: The Professional"
+description: >
+  A professional hitman in New York reluctantly takes in twelve-year-old Mathilda after her
+  family is murdered by a corrupt DEA agent, training her in his trade as she plots revenge.
+released: 1994-09-14
+rating: R
+length: 1h50m
+genres:
+  - action
+  - crime
+  - drama
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/L%C3%A9on:_The_Professional
+imdb: https://www.imdb.com/title/tt0110413
+tmdb: https://www.themoviedb.org/movie/101-leon
+rotten_tomatoes: https://www.rottentomatoes.com/m/leon_the_professional
+metacritic: https://www.metacritic.com/movie/the-professional
+directors: Luc Besson
+producers: Patrice Ledoux
+screenplay: Luc Besson
+music: Éric Serra
+cinematography: Thierry Arbogast
+editors: Sylvie Landra
+production:
+  - Gaumont
+  - Les Films du Dauphin
+distributors: Gaumont Buena Vista International
+characters:
+  - name: "Léon Montana"
+    actor: Jean Reno
+  - name: Mathilda Lando
+    actor: Natalie Portman
+  - name: Norman Stansfield
+    actor: Gary Oldman
+  - name: Tony
+    actor: Danny Aiello

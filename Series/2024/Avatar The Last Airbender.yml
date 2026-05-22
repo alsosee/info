@@ -1,0 +1,104 @@
+name: "Avatar: The Last Airbender"
+description: >
+  A live-action adaptation of the animated series. Set in a world divided into four nations (Water, Earth, Fire, and Air), the story follows twelve-year-old Aang, the last survivor of the Air Nomads and the next "Avatar." As the only one capable of mastering all four elements, Aang must journey to end the Fire Nation's war and restore balance to the world.
+released: 2024-02-22
+rating: TV-14
+genres:
+  - action
+  - adventure
+  - fantasy
+network: Netflix
+wikipedia: https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender_(2024_TV_series)
+imdb: https://www.imdb.com/title/tt8242480
+tmdb: https://www.themoviedb.org/tv/82452-avatar-the-last-airbender
+creators:
+  - Albert Kim
+production:
+  - Nickelodeon Productions
+  - Rideback
+  - Albert Kim Pictures
+distributors:
+  - Netflix
+characters:
+  - name: Aang
+    actor: Gordon Cormier
+  - name: Katara
+    actor: Kiawentiio
+  - name: Sokka
+    actor: Ian Ousley
+  - name: Prince Zuko
+    actor: Dallas Liu
+  - name: Uncle Iroh
+    actor: Paul Sun-Hyung Lee
+  - name: Commander Zhao
+    actor: Ken Leung
+  - name: Fire Lord Ozai
+    actor: Daniel Dae Kim
+  - name: Princess Azula
+    actor: Elizabeth Yu
+  - name: Suki
+    actor: Maria Zhang
+  - name: King Bumi
+    actor: Utkarsh Ambudkar
+episodes:
+  - name: "Aang"
+    description: Aang learns he is the Avatar. After being frozen for a century, he is found by Katara and Sokka and must escape the Fire Nation's pursuit.
+    released: 2024-02-22
+    length: 63m
+    directors: Michael Goi
+    writers: Albert Kim
+    imdb: https://www.imdb.com/title/tt13446864
+  - name: "Warriors"
+    description: The group visits Kyoshi Island, where they meet the Kyoshi Warriors and Aang seeks guidance from a past Avatar.
+    released: 2024-02-22
+    length: 52m
+    directors: Michael Goi
+    writers: Joshua Hale Fialkov
+    imdb: https://www.imdb.com/title/tt14197940
+  - name: "Omashu"
+    description: In the Earth Kingdom city of Omashu, the group encounters rebels and faces a confrontation with Zuko.
+    released: 2024-02-22
+    length: 52m
+    directors: Jabbar Raisani
+    writers: Christine Boylan
+    imdb: https://www.imdb.com/title/tt14197942
+  - name: "Into the Dark"
+    description: Aang is tested by his old friend Bumi, now the King of Omashu, while Katara and Sokka navigate secret tunnels.
+    released: 2024-02-22
+    length: 51m
+    directors: Jabbar Raisani
+    writers: Keely MacDonald
+    imdb: https://www.imdb.com/title/tt14197946
+  - name: "Spirited Away"
+    description: The trio enters the Spirit World to rescue kidnapped villagers and encounters mysterious spirits.
+    released: 2024-02-22
+    length: 52m
+    directors: Roseanne Liang
+    writers: Gabriel Llanas
+    imdb: https://www.imdb.com/title/tt14197948
+  - name: "Masks"
+    description: Aang seeks help from Avatar Roku and is later captured, leading to an unlikely alliance during his escape.
+    released: 2024-02-22
+    length: 56m
+    directors: Roseanne Liang
+    writers:
+      - Emily Kim
+      - Hunter Riesman
+      - Bryan Konietzko
+    imdb: https://www.imdb.com/title/tt14197950
+  - name: "The North"
+    description: The group arrives at the Northern Water Tribe to prepare for an imminent Fire Nation invasion.
+    released: 2024-02-22
+    length: 51m
+    directors: Jet Wilkinson
+    writers:
+      - Audrey Wong Kennedy
+      - Bryan Konietzko
+    imdb: https://www.imdb.com/title/tt14197954
+  - name: "Legends"
+    description: The Fire Nation launches a massive siege on the North, forcing Aang to tap into immense power to protect the tribe.
+    released: 2024-02-22
+    length: 57m
+    directors: Jet Wilkinson
+    writers: Albert Kim
+    imdb: https://www.imdb.com/title/tt14197958

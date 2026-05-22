@@ -1,0 +1,18 @@
+name: Marathon
+description: >
+  A science fiction first-person shooter set in 2794 aboard the UESC Marathon, a massive interstellar colony ship. The player takes the role of a security officer who must defend the ship from an invasion by an alien race known as the Pfhor, while interacting with the ship's three onboard AIs: Leela, Durandal, and Tycho.
+released: 1994-12-21
+genres:
+  - first-person shooter
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Marathon_(video_game)
+imdb: https://www.imdb.com/title/tt0201760/
+developers: Bungie
+publishers: Bungie
+directors: Jason Jones
+composers: Alexander Seropian
+characters:
+  - name: Leela
+  - name: Durandal
+  - name: Tycho
+  - name: Bernhard Strauss

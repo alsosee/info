@@ -1,0 +1,98 @@
+title: Oscar 1981
+wikipedia: https://en.wikipedia.org/wiki/53rd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1981
+imdb: https://www.imdb.com/event/ev0000003/1981/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Robert De Niro
+      movie: Raging Bull
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Timothy Hutton
+      movie: Ordinary People
+
+  - name: Actress in a leading role
+    winner:
+      actor: Sissy Spacek
+      movie: Coal Miner's Daughter
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Mary Steenburgen
+      movie: Melvin and Howard
+
+  - name: Art Direction
+    winner:
+      movie: Tess
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Moscow Does Not Believe in Tears
+
+  - name: Cinematography
+    winner:
+      movie: Tess
+      cinematography:
+        - Geoffrey Unsworth
+        - Ghislain Cloquet
+
+  - name: Costume Design
+    winner:
+      movie: Tess
+      costume_design: Anthony Powell
+
+  - name: Directing
+    winner:
+      movie: Ordinary People
+      directors: Robert Redford
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "From Mao to Mozart: Isaac Stern in China"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: "Karl Hess: Toward Liberty"
+
+  - name: Film Editing
+    winner:
+      movie: Raging Bull
+      editors: Thelma Schoonmaker
+
+  - name: Music (Original Score)
+    winner:
+      movie: Fame
+      music: Michael Gore
+
+  - name: Music (Original Song)
+    winner:
+      movie: Fame
+      track: Fame
+
+  - name: Best Picture
+    winner:
+      movie: Ordinary People
+
+  - name: Short Film (Animated)
+    winner:
+      movie: The Fly
+
+  - name: Short Film (Dramatic Live Action)
+    winner:
+      movie: The Dollar Bottom
+
+  - name: Sound
+    winner:
+      movie: The Empire Strikes Back
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Ordinary People
+      writers: Alvin Sargent
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Melvin and Howard
+      writers: Bo Goldman

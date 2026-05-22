@@ -1,0 +1,107 @@
+title: Oscar 1970
+wikipedia: https://en.wikipedia.org/wiki/42nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1970
+imdb: https://www.imdb.com/event/ev0000003/1970/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: John Wayne
+      movie: True Grit
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Gig Young
+      movie: They Shoot Horses, Don't They?
+
+  - name: Actress in a leading role
+    winner:
+      actor: Maggie Smith
+      movie: The Prime of Miss Jean Brodie
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Goldie Hawn
+      movie: Cactus Flower
+
+  - name: Art Direction
+    winner:
+      movie: "Hello, Dolly!"
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: Z
+
+  - name: Cinematography
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+      cinematography: Conrad Hall
+
+  - name: Costume Design
+    winner:
+      movie: Anne of the Thousand Days
+      costume_design: Margaret Furse
+
+  - name: Directing
+    winner:
+      movie: Midnight Cowboy
+      directors: John Schlesinger
+
+  - name: Documentary Feature Film
+    winner:
+      movie: "Arthur Rubinstein – The Love of Life"
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Czechoslovakia 1968
+
+  - name: Film Editing
+    winner:
+      movie: Z
+      editors: Françoise Bonnot
+
+  - name: Music (Original Score)
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+      music: Burt Bacharach
+
+  - name: Music (Score of a Musical Picture)
+    winner:
+      movie: "Hello, Dolly!"
+      music:
+        - Lennie Hayton
+        - Lionel Newman
+
+  - name: Music (Original Song)
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+      track: "Raindrops Keep Fallin' on My Head"
+
+  - name: Best Picture
+    winner:
+      movie: Midnight Cowboy
+
+  - name: Short Film (Animated)
+    winner:
+      movie: "It's Tough to Be a Bird"
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Magic Machines
+
+  - name: Sound
+    winner:
+      movie: "Hello, Dolly!"
+
+  - name: Visual Effects
+    winner:
+      movie: Marooned
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Midnight Cowboy
+      writers: Waldo Salt
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Butch Cassidy and the Sundance Kid
+      writers: William Goldman

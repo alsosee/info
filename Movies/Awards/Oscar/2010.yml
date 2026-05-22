@@ -1,0 +1,113 @@
+title: Oscar 2010
+wikipedia: https://en.wikipedia.org/wiki/82nd_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2010
+imdb: https://www.imdb.com/event/ev0000003/2010/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Jeff Bridges
+      movie: Crazy Heart
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Christoph Waltz
+      movie: Inglourious Basterds
+
+  - name: Actress in a leading role
+    winner:
+      actor: Sandra Bullock
+      movie: The Blind Side
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Mo'Nique
+      movie: Precious
+
+  - name: Animated feature film
+    winner:
+      movie: Up
+
+  - name: Art Direction
+    winner:
+      movie: Avatar
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Secret in Their Eyes
+
+  - name: Cinematography
+    winner:
+      movie: Avatar
+      cinematography: Mauro Fiore
+
+  - name: Costume Design
+    winner:
+      movie: The Young Victoria
+
+  - name: Directing
+    winner:
+      movie: The Hurt Locker
+      directors: Kathryn Bigelow
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The Cove
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Music by Prudence
+
+  - name: Film Editing
+    winner:
+      movie: The Hurt Locker
+      editors:
+        - Bob Murawski
+        - Chris Innis
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Star Trek
+
+  - name: Music (Original Score)
+    winner:
+      movie: Up
+      music: Michael Giacchino
+
+  - name: Music (Original Song)
+    winner:
+      movie: Crazy Heart
+      track: The Weary Kind
+
+  - name: Best Picture
+    winner:
+      movie: The Hurt Locker
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Logorama
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The New Tenants
+
+  - name: Sound Editing
+    winner:
+      movie: The Hurt Locker
+
+  - name: Sound Mixing
+    winner:
+      movie: The Hurt Locker
+
+  - name: Visual Effects
+    winner:
+      movie: Avatar
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Precious
+      writers: Geoffrey Fletcher
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: The Hurt Locker
+      writers: Mark Boal

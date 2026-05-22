@@ -1,0 +1,56 @@
+name: Foxcatcher
+description: >
+  The film follows Olympic gold medalist wrestlers Mark and Dave Schultz as they join "Team Foxcatcher," led by the eccentric multimillionaire John du Pont, whose increasing paranoia leads to a tragic conclusion.
+released: 2014-11-14
+rating: R
+length: 2h14m
+genres:
+  - biography
+  - drama
+  - history
+  - sport
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/Foxcatcher
+imdb: https://www.imdb.com/title/tt2012011
+tmdb: https://www.themoviedb.org/movie/203833-foxcatcher
+rotten_tomatoes: https://www.rottentomatoes.com/m/foxcatcher
+metacritic: https://www.metacritic.com/movie/foxcatcher
+directors: Bennett Miller
+screenplay:
+  - E. Max Frye
+  - Dan Futterman
+music: Rob Simonsen
+cinematography: Greig Fraser
+editors:
+  - Stuart Levy
+  - Conor O'Neill
+  - Jay Cassidy
+production:
+  - Annapurna Pictures
+  - Likely Story
+distributors:
+  - Sony Pictures Classics
+  - Annapurna International
+characters:
+  - name: John Eleuthère du Pont
+    actor: Steve Carell
+  - name: Mark Schultz
+    actor: Channing Tatum
+  - name: Dave Schultz
+    actor: Mark Ruffalo
+  - name: Nancy Schultz
+    actor: Sienna Miller
+  - name: Jean du Pont
+    actor: Vanessa Redgrave
+  - name: Jack
+    actor: Anthony Michael Hall
+  - name: Dan Bane
+    actor: David Zabriskie
+  - name: Henry Beck
+    actor: Guy Boyd
+  - name: Fred Cole
+    actor: Brett Rice
+  - name: Danielle Schultz
+    actor: Samara Lee
+  - name: Alexander Schultz
+    actor: Jackson Frazer

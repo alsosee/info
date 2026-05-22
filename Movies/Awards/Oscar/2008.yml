@@ -1,0 +1,115 @@
+title: Oscar 2008
+wikipedia: https://en.wikipedia.org/wiki/80th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2008
+imdb: https://www.imdb.com/event/ev0000003/2008/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Daniel Day-Lewis
+      movie: There Will Be Blood
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Javier Bardem
+      movie: No Country for Old Men
+
+  - name: Actress in a leading role
+    winner:
+      actor: Marion Cotillard
+      movie: La Vie en Rose
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Tilda Swinton
+      movie: Michael Clayton
+
+  - name: Animated feature film
+    winner:
+      movie: Ratatouille
+
+  - name: Art Direction
+    winner:
+      movie: "Sweeney Todd: The Demon Barber of Fleet Street"
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: The Counterfeiters
+
+  - name: Cinematography
+    winner:
+      movie: There Will Be Blood
+      cinematography: Robert Elswit
+
+  - name: Costume Design
+    winner:
+      movie: "Elizabeth: The Golden Age"
+
+  - name: Directing
+    winner:
+      movie: No Country for Old Men
+      directors:
+        - Joel Coen
+        - Ethan Coen
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Taxi to the Dark Side
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Freeheld
+
+  - name: Film Editing
+    winner:
+      movie: The Bourne Ultimatum
+      editors: Christopher Rouse
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: La Vie en Rose
+
+  - name: Music (Original Score)
+    winner:
+      movie: Atonement
+      music: Dario Marianelli
+
+  - name: Music (Original Song)
+    winner:
+      movie: Once
+      track: Falling Slowly
+
+  - name: Best Picture
+    winner:
+      movie: No Country for Old Men
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Peter & the Wolf
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Le Mozart des Pickpockets
+
+  - name: Sound Editing
+    winner:
+      movie: The Bourne Ultimatum
+
+  - name: Sound Mixing
+    winner:
+      movie: The Bourne Ultimatum
+
+  - name: Visual Effects
+    winner:
+      movie: The Golden Compass
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: No Country for Old Men
+      writers:
+        - Joel Coen
+        - Ethan Coen
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Juno
+      writers: Diablo Cody

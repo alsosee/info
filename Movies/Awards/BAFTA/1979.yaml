@@ -1,0 +1,64 @@
+title: BAFTA 1979
+website: https://awards.bafta.org/award/1979/film
+categories:
+    - name: Actor
+      winner:
+        movie: Richard Dreyfuss
+    - name: Actress
+      winner:
+        movie: Jane Fonda
+    - name: Anthony Asquith Award for Original Film Music
+      winner:
+        movie: Star Wars
+    - name: Cinematography
+      winner:
+        movie: Julia
+    - name: Costume Design
+      winner:
+        movie: Death On The Nile
+        constumedesign:
+            - Anthony Powell
+    - name: Direction
+      winner:
+        movie: Midnight Express
+    - name: Film
+      winner:
+        movie: Julia
+    - name: Film Editing
+      winner:
+        movie: Midnight Express
+    - name: Most Promising Newcomer To Leading Film Roles
+      winner:
+        movie: Christopher Reeve
+    - name: Outstanding British Contribution To Cinema
+      winner:
+        movie: Les Bowie, Colin Chilvers, Denys Coop, Roy Field, Derek Meddings, Zorin Perisic, Wally Veevers
+    - name: Production Design
+      winner:
+        movie: Close Encounters Of The Third Kind
+    - name: Robert Flaherty Award (Feature Length Film, Documentary In Content)
+      winner:
+        movie: The Silent Witness
+    - name: Screenplay
+      winner:
+        movie: Julia
+    - name: Short Factual Film
+      winner:
+        movie: 'Hokusai: An Animated Sketchbook'
+    - name: Short Fictional Film
+      winner:
+        movie: Category not awarded this year
+    - name: Soundtrack
+      winner:
+        movie: Star Wars
+    - name: Specialised Film
+      winner:
+        movie: Twenty Times More Likely
+    - name: Supporting Actor
+      winner:
+        movie: Midnight Express
+        actor: John Hurt
+    - name: Supporting Actress
+      winner:
+        movie: Interiors
+        actor: Geraldine Page

@@ -1,0 +1,36 @@
+name: The Martian
+description: >
+  An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his
+  ingenuity to find a way to signal to Earth that he is alive.
+based_on: Books/2011/The Martian
+released: 2015-10-02
+rating: PG-13
+length: 2h22m
+genres:
+  - science fiction
+  - adventure
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/The_Martian_(film)
+imdb: https://www.imdb.com/title/tt3659388
+tmdb: https://www.themoviedb.org/movie/286217-the-martian
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_martian
+directors: Ridley Scott
+screenplay: Drew Goddard
+producers:
+  - Simon Kinberg
+  - Ridley Scott
+  - Michael Schaefer
+  - Mark Huffam
+music: Harry Gregson-Williams
+cinematography: Dariusz Wolski
+editors: Pietro Scalia
+production:
+  - 20th Century Fox
+  - Scott Free Productions
+  - Kinberg Genre
+distributors: 20th Century Fox
+characters:
+  - name: Mark Watney
+    actor: Matt Damon
+  - name: Bruce Ng
+    actor: Benedict Wong

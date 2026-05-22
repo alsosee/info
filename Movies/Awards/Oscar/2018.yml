@@ -1,0 +1,111 @@
+title: Oscar 2018
+wikipedia: https://en.wikipedia.org/wiki/90th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/2018
+imdb: https://www.imdb.com/event/ev0000003/2018/1
+categories:
+  - name: Actor in a leading role
+    winner:
+      actor: Gary Oldman
+      movie: Darkest Hour
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Sam Rockwell
+      movie: Three Billboards Outside Ebbing, Missouri
+
+  - name: Actress in a leading role
+    winner:
+      actor: Frances McDormand
+      movie: Three Billboards Outside Ebbing, Missouri
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Allison Janney
+      movie: I, Tonya
+
+  - name: Animated feature film
+    winner:
+      movie: Coco
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: A Fantastic Woman
+
+  - name: Cinematography
+    winner:
+      movie: Blade Runner 2049
+      cinematography: Roger Deakins
+
+  - name: Costume Design
+    winner:
+      movie: Phantom Thread
+
+  - name: Directing
+    winner:
+      movie: The Shape of Water
+      directors: Guillermo del Toro
+
+  - name: Documentary Feature Film
+    winner:
+      movie: Icarus
+
+  - name: Documentary Short Subject
+    winner:
+      movie: Heaven Is a Traffic Jam on the 405
+
+  - name: Film Editing
+    winner:
+      movie: Dunkirk
+      editors: Lee Smith
+
+  - name: Makeup and Hairstyling
+    winner:
+      movie: Darkest Hour
+
+  - name: Music (Original Score)
+    winner:
+      movie: The Shape of Water
+      music: Alexandre Desplat
+
+  - name: Music (Original Song)
+    winner:
+      movie: Coco
+      track: Remember Me
+
+  - name: Best Picture
+    winner:
+      movie: The Shape of Water
+
+  - name: Production Design
+    winner:
+      movie: The Shape of Water
+
+  - name: Short Film (Animated)
+    winner:
+      movie: Dear Basketball
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: The Silent Child
+
+  - name: Sound Editing
+    winner:
+      movie: Dunkirk
+
+  - name: Sound Mixing
+    winner:
+      movie: Dunkirk
+
+  - name: Visual Effects
+    winner:
+      movie: Blade Runner 2049
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: Call Me by Your Name
+      writers: James Ivory
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: Get Out
+      writers: Jordan Peele

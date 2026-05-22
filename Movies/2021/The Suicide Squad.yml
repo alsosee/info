@@ -1,0 +1,78 @@
+name: "The Suicide Squad"
+description: >
+  Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison
+  join the super-secret, super-shady Task Force X. They are dropped off at the remote, enemy-infused island
+  of Corto Maltese to destroy a Nazi-era laboratory housing the secret "Project Starfish."
+released: 2021-08-05
+rating: R
+length: 2h12m
+genres:
+  - action
+  - comedy
+  - adventure
+  - superhero
+wikipedia: https://en.wikipedia.org/wiki/The_Suicide_Squad_(film)
+imdb: https://www.imdb.com/title/tt6334354
+tmdb: https://www.themoviedb.org/movie/436969-the-suicide-squad
+website: https://www.warnerbros.com/movies/the-suicide-squad
+directors: James Gunn
+producers:
+  - Charles Roven
+  - Peter Safran
+screenplay: James Gunn
+music: John Murphy
+cinematography: Henry Braham
+editors:
+  - Fred Raskin
+  - Christian Wagner
+production:
+  - Warner Bros. Pictures
+  - DC Films
+  - Atlas Entertainment
+  - The Safran Company
+distributors: Warner Bros. Pictures
+characters:
+  - name: Harley Quinn
+    actor: Margot Robbie
+  - name: Robert DuBois / Bloodsport
+    actor: Idris Elba
+  - name: Christopher Smith / Peacemaker
+    actor: John Cena
+  - name: Colonel Rick Flag
+    actor: Joel Kinnaman
+  - name: Nanaue / King Shark
+    voice: Sylvester Stallone
+  - name: Amanda Waller
+    actor: Viola Davis
+  - name: Abner Krill / Polka-Dot Man
+    actor: David Dastmalchian
+  - name: Cleo Cazo / Ratcatcher 2
+    actor: Daniela Melchior
+  - name: Brian Durlin / Savant
+    actor: Michael Rooker
+  - name: Digger Harkness / Captain Boomerang
+    actor: Jai Courtney
+  - name: Gaius Grieves / The Thinker
+    actor: Peter Capaldi
+  - name: Sol Soria
+    actor: Alice Braga
+  - name: Richard "Dick" Hertz / Blackguard
+    actor: Pete Davidson
+  - name: Cory Pitzner / T.D.K.
+    actor: Nathan Fillion
+  - name: Gunter Braun / Javelin
+    actor: Flula Borg
+  - name: Mongal
+    actor: Mayling Ng
+  - name: Weasel
+    actor: Sean Gunn
+  - name: Tyla
+    actor: Storm Reid
+  - name: President General Silvio Luna
+    actor: Juan Diego Botto
+  - name: Major General Mateo Suárez
+    actor: Joaquín Cosío
+  - name: Milton
+    actor: Julio Ruiz
+  - name: Ratcatcher
+    actor: Taika Waititi

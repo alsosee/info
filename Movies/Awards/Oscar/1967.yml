@@ -1,0 +1,131 @@
+title: Oscar 1967
+wikipedia: https://en.wikipedia.org/wiki/39th_Academy_Awards
+website: https://www.oscars.org/oscars/ceremonies/1967
+imdb: https://www.imdb.com/event/ev0000003/1967/1
+categories:
+  - name: Best Picture
+    winner:
+      movie: A Man for All Seasons
+
+  - name: Directing
+    winner:
+      movie: A Man for All Seasons
+      directors: Fred Zinnemann
+
+  - name: Actor in a leading role
+    winner:
+      actor: Paul Scofield
+      movie: A Man for All Seasons
+
+  - name: Actress in a leading role
+    winner:
+      actor: Elizabeth Taylor
+      movie: "Who's Afraid of Virginia Woolf?"
+
+  - name: Actor in a supporting role
+    winner:
+      actor: Walter Matthau
+      movie: The Fortune Cookie
+
+  - name: Actress in a supporting role
+    winner:
+      actor: Sandy Dennis
+      movie: "Who's Afraid of Virginia Woolf?"
+
+  - name: Writing (Original Screenplay)
+    winner:
+      movie: A Man and a Woman
+      writers:
+        - Claude Lelouch
+        - Pierre Uytterhoeven
+
+  - name: Writing (Adapted Screenplay)
+    winner:
+      movie: A Man for All Seasons
+      writers: Robert Bolt
+
+  - name: Best Foreign Language Film
+    winner:
+      movie: A Man and a Woman
+
+  - name: Documentary Feature Film
+    winner:
+      movie: The War Game
+
+  - name: Documentary Short Subject
+    winner:
+      movie: A Year Toward Tomorrow
+
+  - name: Short Film (Live Action)
+    winner:
+      movie: Wild Wings
+
+  - name: Short Film (Animated)
+    winner:
+      movie: A Herb Alpert and the Tijuana Brass Double Feature
+
+  - name: Music (Original Music Score)
+    winner:
+      movie: Born Free
+      music: John Barry
+
+  - name: Music (Scoring of Music -- Adaptation or Treatment)
+    winner:
+      movie: A Funny Thing Happened on the Way to the Forum
+      music: Ken Thorne
+
+  - name: Music (Original Song)
+    winner:
+      movie: Born Free
+      track: Born Free
+
+  - name: Sound
+    winner:
+      movie: Grand Prix
+
+  - name: Sound Effects
+    winner:
+      movie: Grand Prix
+
+  - name: Art Direction (Black-and-White)
+    winner:
+      movie: "Who's Afraid of Virginia Woolf?"
+
+  - name: Art Direction (Color)
+    winner:
+      movie: Fantastic Voyage
+
+  - name: Cinematography (Black-and-White)
+    winner:
+      movie: "Who's Afraid of Virginia Woolf?"
+      cinematography: Haskell Wexler
+
+  - name: Cinematography (Color)
+    winner:
+      movie: A Man for All Seasons
+      cinematography: Ted Moore
+
+  - name: Costume Design (Black-and-White)
+    winner:
+      movie: "Who's Afraid of Virginia Woolf?"
+      costume_design: Irene Sharaff
+
+  - name: Costume Design (Color)
+    winner:
+      movie: A Man for All Seasons
+      costume_design:
+        - Joan Bridge
+        - Elizabeth Haffenden
+
+  - name: Film Editing
+    winner:
+      movie: Grand Prix
+      editors:
+        - Fredric Steinkamp
+        - Henry Berman
+        - Stewart Linder
+        - Frank Santillo
+
+  - name: Visual Effects
+    winner:
+      movie: Fantastic Voyage

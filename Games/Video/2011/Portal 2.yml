@@ -1,0 +1,39 @@
+name: Portal 2
+description: >
+  A first-person puzzle-platform game in which Chell returns to the ruined
+  Aperture Science facility and uses portal-based mechanics, light bridges,
+  gels, and other test elements while encountering GLaDOS, Wheatley, and Cave
+  Johnson.
+previous: Games/Video/2007/Portal
+released: 2011-04-19
+genres:
+  - Puzzle-platform
+wikipedia: https://en.wikipedia.org/wiki/Portal_2
+metacritic: https://www.metacritic.com/game/portal-2/
+fandom: https://half-life.fandom.com/wiki/Portal_2
+ign: https://www.ign.com/games/portal-2
+spotify: https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb
+website: https://store.steampowered.com/app/620/Portal_2/
+developers: Valve
+publishers:
+  - Valve
+  - Electronic Arts
+directors: Joshua Weier
+writers:
+  - Erik Wolpaw
+  - Jay Pinkerton
+  - Chet Faliszek
+composers: Mike Morasky
+characters:
+  - name: Chell
+    actor: Alésia Glidewell
+  - name: GLaDOS
+    actor: Ellen McLain
+  - name: Wheatley
+    actor: Stephen Merchant
+  - name: Cave Johnson
+    actor: J. K. Simmons
+  - name: ATLAS
+    actor: Dee Bradley Baker
+  - name: P-body
+    actor: Dee Bradley Baker
