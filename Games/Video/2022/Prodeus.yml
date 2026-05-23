@@ -1,0 +1,27 @@
+name: Prodeus
+website: https://www.prodeusgame.com/
+description: >
+  Prodeus is a first-person shooter that re-imagines classic 1990s "boomer shooters" using modern rendering techniques and technology. It features a hand-crafted campaign, a complex gore system, and a fully integrated level editor with a community map browser.
+genres:
+  - first-person shooter
+  - action
+  - indie
+wikipedia: https://en.wikipedia.org/wiki/Prodeus
+steam: https://store.steampowered.com/app/964800/Prodeus/
+igdb: https://www.igdb.com/games/prodeus
+gog: https://www.gog.com/game/prodeus
+metacritic: https://www.metacritic.com/game/prodeus/
+released: 2022-09-23
+engine: Unity
+developers:
+  - Bounding Box Software
+publishers:
+  - Humble Games
+  - Balor Games
+designers:
+  - Mike Voeller
+  - Jason Mojica
+  - Josh "Dragonfly" O'Sullivan
+composers:
+  - Andrew Hulshult
+  - James Paddock

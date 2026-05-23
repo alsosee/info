@@ -1,0 +1,188 @@
+name: "Mr. Bean"
+description: >
+  A childlike, nearly wordless man navigates everyday situations through physical comedy and resourceful improvisation, turning simple tasks into elaborate disasters.
+released: 1990-01-01
+genres:
+  - sitcom
+  - comedy
+network: ITV
+wikipedia: https://en.wikipedia.org/wiki/Mr._Bean
+imdb: https://www.imdb.com/title/tt0096657/
+tmdb: https://www.themoviedb.org/tv/4327-mr-bean
+creators:
+  - Rowan Atkinson
+  - Richard Curtis
+directors:
+  - John Howard Davies
+  - John Birkin
+  - Paul Weiland
+writers:
+  - Rowan Atkinson
+  - Richard Curtis
+  - Robin Driscoll
+  - Ben Elton
+characters:
+  - name: "Mr. Bean"
+    actor: Rowan Atkinson
+  - name: Irma Gobb
+    actor: Matilda Ziegler
+episodes:
+  - name: "Mr. Bean"
+    description: >
+      Bean attends a university mathematics exam while using increasingly inventive methods to deal with everyday situations at a beach and church.
+    released: 1990-01-01
+    length: 26m
+    wikipedia: https://en.wikipedia.org/wiki/Mr._Bean_(Mr._Bean_episode)
+    directors: John Howard Davies
+    writers:
+      - Ben Elton
+      - Richard Curtis
+      - Rowan Atkinson
+  - name: The Return of Mr. Bean
+    description: >
+      Bean tries out his new credit card at shops, struggles through a restaurant dinner, and has a brief encounter with royalty.
+    released: 1990-11-05
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/The_Return_of_Mr._Bean
+    directors: John Howard Davies
+    writers:
+      - Richard Curtis
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: The Curse of Mr. Bean
+    description: >
+      Bean faces height anxiety at a swimming pool, devises a scheme to avoid a parking fee, and attends a horror film screening.
+    released: 1990-12-30
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/The_Curse_of_Mr._Bean
+    directors: John Howard Davies
+    writers:
+      - Richard Curtis
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: Mr. Bean Goes to Town
+    description: >
+      Bean struggles with a faulty television aerial, finds himself recovering a stolen camera, and takes in various entertainments around the city.
+    released: 1991-10-15
+    length: 24m
+    wikipedia: https://en.wikipedia.org/wiki/Mr._Bean_Goes_to_Town
+    directors: John Birkin
+    writers:
+      - Richard Curtis
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: The Trouble with Mr. Bean
+    description: >
+      Bean rushes to a dental appointment while managing his morning routine from inside his car, then inadvertently sedates his dentist before heading to a park picnic.
+    released: 1992-01-01
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/The_Trouble_with_Mr._Bean
+    directors: John Birkin
+    writers:
+      - Richard Curtis
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: Mr. Bean Rides Again
+    description: >
+      Bean attempts a series of misguided rescues, gets himself trapped inside a mailbox, and tries to entertain a nauseous fellow passenger on an airplane.
+    released: 1992-02-17
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/Mr._Bean_Rides_Again
+    directors: John Birkin
+    writers:
+      - Richard Curtis
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: "Merry Christmas, Mr. Bean"
+    description: >
+      Bean does his holiday shopping in characteristically chaotic style, accidentally takes charge of a brass band, and prepares an unconventional Christmas dinner.
+    released: 1992-12-29
+    length: 26m
+    wikipedia: https://en.wikipedia.org/wiki/Merry_Christmas,_Mr._Bean
+    directors: John Birkin
+    writers:
+      - Richard Curtis
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: Mr. Bean in Room 426
+    description: >
+      Bean feuds with a neighbouring hotel guest over petty slights, then faces a mortifying predicament after eating bad oysters at an evening banquet.
+    released: 1993-02-17
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/Mr._Bean_in_Room_426
+    directors: Paul Weiland
+    writers:
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: Do-It-Yourself Mr. Bean
+    description: >
+      Bean rings in the New Year by hosting an eccentric party at his flat, then takes on a series of home improvement projects with predictably disastrous results.
+    released: 1994-01-10
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/Do-It-Yourself_Mr._Bean
+    directors: Paul Weiland
+    writers:
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: "Mind the Baby, Mr. Bean"
+    description: >
+      Bean unexpectedly finds himself responsible for a baby at a funfair and attempts to provide makeshift childcare while navigating the rides and attractions.
+    released: 1994-04-25
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/Mind_the_Baby,_Mr._Bean
+    directors: John Birkin
+    writers:
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: Back to School Mr. Bean
+    description: >
+      Bean visits a school open day and discovers that his beloved Mini has been flattened by a military tank during an adjacent event.
+    released: 1994-10-26
+    length: 24m
+    wikipedia: https://en.wikipedia.org/wiki/Back_to_School_Mr._Bean
+    directors: John Birkin
+    writers:
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: "Tee Off, Mr. Bean"
+    description: >
+      Bean's wayward mini-golf shot sends him on an impromptu tour of town as he tries to retrieve his ball from increasingly improbable locations.
+    released: 1995-09-20
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/Tee_Off,_Mr._Bean
+    directors: John Birkin
+    writers:
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: Goodnight Mr. Bean
+    description: >
+      Bean jumps the queue at a hospital, photographs a Queen's Guard on duty, and then tries increasingly bizarre methods to fall asleep at home.
+    released: 1995-10-31
+    length: 25m
+    wikipedia: https://en.wikipedia.org/wiki/Goodnight_Mr._Bean
+    directors: John Birkin
+    writers:
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: Hair by Mr. Bean of London
+    description: >
+      Bean fills in as a barber and delivers a series of spectacularly bad haircuts to unsuspecting customers, then tries his luck cheating at fairground games.
+    released: 1995-11-15
+    length: 26m
+    wikipedia: https://en.wikipedia.org/wiki/Hair_by_Mr._Bean_of_London
+    directors: John Birkin
+    writers:
+      - Robin Driscoll
+      - Rowan Atkinson
+  - name: The Best Bits of Mr. Bean
+    description: >
+      Bean rummages through his loft, finding mementos that prompt a look back at highlights from the series.
+    released: 1995-12-15
+    length: 1h12m
+    wikipedia: https://en.wikipedia.org/wiki/The_Best_Bits_of_Mr._Bean
+    directors: John Howard Davies
+    writers:
+      - Rowan Atkinson
+      - Richard Curtis
+      - Robin Driscoll
+      - Ben Elton

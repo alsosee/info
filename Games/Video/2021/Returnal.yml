@@ -1,0 +1,29 @@
+name: Returnal
+description: >
+  Returnal is a third-person shooter roguelike game that follows Selene Vassos, an astronaut who lands on the alien planet Atropos in search of the mysterious "White Shadow" signal. She finds herself trapped in a time loop, where every death resurrects her at the crash site, forcing her to traverse ever-changing environments and combat extraterrestrial entities.
+released: 2021-04-30
+genres:
+  - third-person shooter
+  - roguelite
+  - bullet hell
+  - psychological horror
+wikipedia: https://en.wikipedia.org/wiki/Returnal_(video_game)
+imdb: https://www.imdb.com/title/tt12516516/
+igdb: https://www.igdb.com/games/returnal
+steam: https://store.steampowered.com/app/1493710/Returnal/
+epic: https://store.epicgames.com/en-US/p/returnal
+website: https://www.playstation.com/en-us/games/returnal/
+spotify: https://open.spotify.com/album/1561443146
+apple_music: https://music.apple.com/us/album/returnal-original-soundtrack/1561443146
+engine: Unreal Engine 4
+developers: Housemarque
+publishers: Sony Interactive Entertainment
+directors: Harry Krueger
+designers: Henri Mustonen
+writers:
+  - Gregory Louden
+  - Lula Lucent
+composers: Bobby Krlic
+characters:
+  - name: Selene Vassos
+    voice: Jane Perry

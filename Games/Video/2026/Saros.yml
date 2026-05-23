@@ -1,0 +1,37 @@
+name: Saros
+genres:
+  - action
+  - roguelite
+  - third-person shooter
+  - bullet hell
+description: >
+  A third-person action roguelite set on the shape-shifting planet Carcosa.
+  As Soltari Enforcer Arjun Devraj, players must survive a bullet-hell landscape
+  shrouded by a permanent eclipse while searching for a lost colony and uncovering
+  the mysteries of the hostile world.
+developers: Housemarque
+publishers: Sony Interactive Entertainment
+released: 2026-04-30
+rating: T
+engine: Unreal Engine 5
+composers: Sam Slater
+wikipedia: https://en.wikipedia.org/wiki/Saros_(video_game)
+playstation: https://store.playstation.com/en-us/product/UP9000-PPSA07632_00-SAROSSTANDARD000
+metacritic: https://www.metacritic.com/game/saros/
+ign: https://www.ign.com/games/saros
+trailer: https://www.youtube.com/watch?v=XtCS5tuvCKs
+characters:
+  - name: Arjun Devraj
+    voice: Rahul Kohli
+  - name: Sheridan Bouchard
+    voice: Jane Perry
+  - name: Nitya
+    voice: Shunori Ramanathan
+  - name: Kayla
+    voice: Adriyan Rae
+  - name: Jerome
+    voice: Ben Prendergast
+  - name: Micah
+    voice: Neil Newbon
+  - name: Claudia
+    voice: Samantha Béart

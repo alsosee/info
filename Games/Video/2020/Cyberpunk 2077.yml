@@ -64,6 +64,7 @@ characters:
   - name: Adam Smasher
     description: Cyborg
     voice: Alec Newman
+    ref: Characters/Adam Smasher
 # references:
 #   - Books/1986/Do Androids Dream of Electric Sheep?
 #   - Books/1984/Neuromancer

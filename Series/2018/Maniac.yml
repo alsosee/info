@@ -1,0 +1,171 @@
+name: Maniac
+description: >
+  Two strangers, Annie Landsberg and Owen Milgrim, connect during a mind-bending pharmaceutical trial conducted by Neberdine Pharmaceutical Biotech. Set in a retro-future New York City, the trial involves three pills designed to "repair" the mind, leading participants through shared hallucinations and vivid dream sequences where they must confront their internal struggles and past traumas.
+released: 2018-09-21
+rating: TV-MA
+genres:
+  - Black comedy
+  - Psychological drama
+  - Science fiction
+  - Surrealism
+wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)
+imdb: https://www.imdb.com/title/tt5628302/
+tmdb: https://www.themoviedb.org/tv/74640-maniac
+rotten_tomatoes: https://www.rottentomatoes.com/tv/maniac
+metacritic: https://www.metacritic.com/tv/maniac/
+spotify: https://open.spotify.com/album/3vaofIDja1ihEoBF2dl467
+network: Netflix
+creators: Patrick Somerville
+directors: Cary Joji Fukunaga
+writers:
+  - Patrick Somerville
+  - Caroline Williams
+  - Nick Cuse
+  - Mauricio Katz
+  - Amelia Gray
+  - Danielle Henderson
+  - Cary Joji Fukunaga
+producers:
+  - Patrick Somerville
+  - Cary Joji Fukunaga
+  - Michael Sugar
+  - Doug Wald
+  - Jonah Hill
+  - Emma Stone
+  - Pal Kristiansen
+  - Anne Kolbjørnsen
+  - Espen Huseby
+music: Dan Romer
+cinematography: Darren Lew
+editors:
+  - Tim Streeto
+  - Pete Beaudreau
+production:
+  - Parliament of Owls
+  - Rubicon TV
+  - Anonymous Content
+  - Paramount Television
+characters:
+  - name: Annie Landsberg
+    actor: Emma Stone
+    description: A woman with borderline personality disorder who dwells unhealthily on her past relationships and the death of her sister.
+  - name: Owen Milgrim
+    actor: Jonah Hill
+    description: The son of a wealthy family who potentially has schizophrenia and struggles to find his own path.
+  - name: Dr. James K. Mantleray
+    actor: Justin Theroux
+    description: The eccentric scientist who originally designed the pharmaceutical trial.
+  - name: Dr. Azumi Fujita
+    actor: Sonoya Mizuno
+    description: A scientist who runs the experiment and feels immense pressure to deliver results.
+  - name: Porter Milgrim
+    actor: Gabriel Byrne
+    description: Owen's wealthy and influential father.
+  - name: Dr. Greta Mantleray
+    actor: Sally Field
+    description: A famous therapist and James's mother; she also provides the voice and personality for the supercomputer GRTA.
+episodes:
+  - name: "The Chosen One!"
+    description: >
+      Owen Milgrim joins a pharmaceutical trial where he meets the mysterious Annie.
+    released: 2018-09-21
+    length: 39m
+    imdb: https://www.imdb.com/title/tt6706410/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep1
+    directors: Cary Joji Fukunaga
+    writers: Patrick Somerville
+  - name: Windmills
+    description: >
+      Annie blackmails her way into the trial and relives a traumatic memory involving her sister.
+    released: 2018-09-21
+    length: 34m
+    imdb: https://www.imdb.com/title/tt6706412/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep2
+    directors: Cary Joji Fukunaga
+    writers: Patrick Somerville
+  - name: Having a Day
+    description: >
+      A sudden death in the lab leads to a hardware malfunction that links Annie and Owen's subconscious.
+    released: 2018-09-21
+    length: 44m
+    imdb: https://www.imdb.com/title/tt6706414/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep3
+    directors: Cary Joji Fukunaga
+    writers:
+      - Patrick Somerville
+      - Caroline Williams
+  - name: Furs by Sebastian
+    description: >
+      Annie and Owen share a fantasy as a 1980s married couple on a mission to rescue a stolen lemur.
+    released: 2018-09-21
+    length: 40m
+    imdb: https://www.imdb.com/title/tt6706416/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep4
+    directors: Cary Joji Fukunaga
+    writers:
+      - Patrick Somerville
+      - Nick Cuse
+  - name: Exactly Like You
+    description: >
+      The pair find themselves as 1940s con artists attending a séance at a mysterious estate.
+    released: 2018-09-21
+    length: 41m
+    imdb: https://www.imdb.com/title/tt6706418/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep5
+    directors: Cary Joji Fukunaga
+    writers:
+      - Caroline Williams
+      - Mauricio Katz
+  - name: Larger Structural Issues
+    description: >
+      As the scientists investigate the subjects' connection, the computer GRTA begins to experience grief.
+    released: 2018-09-21
+    length: 38m
+    imdb: https://www.imdb.com/title/tt6706420/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep6
+    directors: Cary Joji Fukunaga
+    writers:
+      - Patrick Somerville
+      - Nick Cuse
+  - name: "Ceci N'est Pas Une Drill"
+    description: >
+      Annie enters a fantasy epic as a half-elf ranger, while Owen dreams of being a mobster.
+    released: 2018-09-21
+    length: 41m
+    imdb: https://www.imdb.com/title/tt6706422/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep7
+    directors: Cary Joji Fukunaga
+    writers:
+      - Amelia Gray
+      - Danielle Henderson
+  - name: The Lake of the Clouds
+    description: >
+      Their fantasies merge as they reach the "Lake of the Clouds," while GRTA attempts to keep them trapped.
+    released: 2018-09-21
+    length: 47m
+    imdb: https://www.imdb.com/title/tt6706424/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep8
+    directors: Cary Joji Fukunaga
+    writers:
+      - Mauricio Katz
+      - Nick Cuse
+  - name: Utangatta
+    description: >
+      In a final shared dream, Annie and Owen work together to stop the system and confront their traumas.
+    released: 2018-09-21
+    length: 45m
+    imdb: https://www.imdb.com/title/tt6706426/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep9
+    directors: Cary Joji Fukunaga
+    writers: Patrick Somerville
+  - name: Option C
+    description: >
+      The trial concludes, and the participants face the aftermath of the experiment as they attempt to move forward with their lives.
+    released: 2018-09-21
+    length: 47m
+    imdb: https://www.imdb.com/title/tt6706428/
+    wikipedia: https://en.wikipedia.org/wiki/Maniac_(miniseries)#ep10
+    directors: Cary Joji Fukunaga
+    writers:
+      - Patrick Somerville
+      - Cary Joji Fukunaga

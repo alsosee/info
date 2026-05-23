@@ -1,0 +1,45 @@
+name: Turbo Overkill
+description: >
+  An over-the-top, ultra-fast cyberpunk first-person shooter where you play as Johnny Turbo, a half-metal, half-human street cleaner with a chainsaw for a leg. Returning to your hometown of Paradise, you find its population possessed by Syn, a rogue AI, and must use an arsenal of high-powered weaponry and fluid movement to clean up the city.
+released: 2023-08-11
+genres:
+  - first-person shooter
+  - action
+  - cyberpunk
+  - indie
+steam: https://store.steampowered.com/app/1328350/Turbo_Overkill/
+gog: https://www.gog.com/game/turbo-overkill
+imdb: https://www.imdb.com/title/tt19866444/
+metacritic: https://www.metacritic.com/game/pc/turbo-overkill/
+engine: Unity
+developers: Trigger Happy Interactive
+publishers: Apogee Entertainment
+directors: Sam Prebble
+composers:
+  - Tim Stoney
+  - Chipper Hammond
+  - Nikola Nikita Jeremić
+characters:
+  - name: Johnny Turbo
+  - name: S.A.M.M.
+    voice: Jon St. John
+  - name: Dad
+    voice: Jon St. John
+  - name: Syn
+    voice: Patricia Summersett
+  - name: Ripper
+    voice: Patricia Summersett
+  - name: Mom
+    voice: Patricia Summersett
+  - name: Alaric
+    voice: Patricia Summersett
+  - name: Maw
+    voice: Gianni Matragrano
+  - name: Jazz
+    voice: Daniel Denova
+  - name: The Exec
+    voice: DB Cooper
+  - name: The Doc
+    voice: Tay Zonday
+  - name: Buzby
+    voice: Tre Mosley

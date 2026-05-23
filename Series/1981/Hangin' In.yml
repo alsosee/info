@@ -1,0 +1,46 @@
+name: "Hangin' In"
+description: >
+  A Canadian comedy-drama series set at a youth drop-in centre in Toronto, where director Kate Brown
+  and her small staff help teenagers navigate real counselling problems.
+  The show launched the careers of many young Canadian actors who appeared as guest clients of the centre.
+released: 1981-01-07
+genres:
+  - comedy
+  - drama
+network: CBC
+wikipedia: https://en.wikipedia.org/wiki/Hangin%27_In
+imdb: https://www.imdb.com/title/tt0335674
+tmdb: https://www.themoviedb.org/tv/14920-hangin-in/season/1
+creators:
+  - Jack Humphrey
+  - Anna Sandor
+  - Joseph Partington
+music: Cliff Jones
+characters:
+  - name: Kate Brown
+    actor: Lally Cadeau
+  - name: Michael DiFalco
+    actor: David Eisner
+  - name: Doris Webster
+    actor: Ruth Springford
+episodes:
+  - name: A Matter of Principale
+    released: 1981-01-07
+  - name: Pressure Point
+    released: 1981-01-14
+  - name: I Studied with Steinhauser
+    released: 1981-01-21
+  - name: Second Chance
+    released: 1981-01-28
+  - name: Real Pals
+    released: 1981-02-04
+  - name: Freedom of Choice
+    released: 1981-02-11
+  - name: Mothers and Dyads
+    released: 1981-02-18
+  - name: Big Boys Don't Cry
+    released: 1981-02-25
+  - name: Nothing But Trouble
+    released: 1981-03-04
+  - name: I'm Not a Marriage Counsellor
+    released: 1981-03-18

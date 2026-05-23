@@ -1,0 +1,89 @@
+name: Fleabag
+description: >
+  A dry-witted woman, known only as Fleabag, navigates life and love in London while coping with tragedy and a failing business.
+  She frequently breaks the fourth wall to share her internal monologues and cynical outlook with the audience.
+released: 2016-07-21
+rating: TV-MA
+length: 25m
+genres:
+  - comedy
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Fleabag
+imdb: https://www.imdb.com/title/tt5687612
+tmdb: https://www.themoviedb.org/tv/67070
+rotten_tomatoes: https://www.rottentomatoes.com/tv/fleabag
+metacritic: https://www.metacritic.com/tv/fleabag
+amazon_prime: https://www.amazon.com/dp/B01J4SRYTM
+creators: Phoebe Waller-Bridge
+directors:
+  - Tim Kirkby
+  - Harry Bradbeer
+writers: Phoebe Waller-Bridge
+producers:
+  - Phoebe Waller-Bridge
+  - Harry Williams
+  - Jack Williams
+  - Lydia Hampson
+network: BBC Three
+characters:
+  - name: Fleabag
+    actor: Phoebe Waller-Bridge
+  - name: Claire
+    actor: Sian Clifford
+  - name: Dad
+    actor: Bill Paterson
+  - name: Godmother
+    actor: Olivia Colman
+  - name: Martin
+    actor: Brett Gelman
+  - name: Harry
+    actor: Hugh Skinner
+  - name: Arsehole Guy
+    actor: Ben Aldridge
+  - name: Boo
+    actor: Jenny Rainsford
+  - name: Bank Manager
+    actor: Hugh Dennis
+episodes:
+  - name: Episode 1
+    released: 2016-07-21
+    directors: Tim Kirkby
+    writers: Phoebe Waller-Bridge
+    description: Fleabag navigates her failing café and complicated personal life in London.
+    imdb: https://www.imdb.com/title/tt5847752
+    wikipedia: https://en.wikipedia.org/wiki/Fleabag_(series_1)#ep1
+  - name: Episode 2
+    released: 2016-07-28
+    directors: Harry Bradbeer
+    writers: Phoebe Waller-Bridge
+    description: Fleabag attempts to sell a stolen sculpture and deals with a romantic encounter.
+    imdb: https://www.imdb.com/title/tt5847758
+    wikipedia: https://en.wikipedia.org/wiki/Fleabag_(series_1)#ep2
+  - name: Episode 3
+    released: 2016-08-04
+    directors: Harry Bradbeer
+    writers: Phoebe Waller-Bridge
+    description: Fleabag helps her brother-in-law find a birthday gift for her sister.
+    imdb: https://www.imdb.com/title/tt5847762
+    wikipedia: https://en.wikipedia.org/wiki/Fleabag_(series_1)#ep3
+  - name: Episode 4
+    released: 2016-08-11
+    directors: Harry Bradbeer
+    writers: Phoebe Waller-Bridge
+    description: Fleabag and her sister attend a silent retreat together.
+    imdb: https://www.imdb.com/title/tt5847766
+    wikipedia: https://en.wikipedia.org/wiki/Fleabag_(series_1)#ep4
+  - name: Episode 5
+    released: 2016-08-18
+    directors: Harry Bradbeer
+    writers: Phoebe Waller-Bridge
+    description: The family gathers for a memorial lunch on the anniversary of Fleabag's mother's death.
+    imdb: https://www.imdb.com/title/tt5847772
+    wikipedia: https://en.wikipedia.org/wiki/Fleabag_(series_1)#ep5
+  - name: Episode 6
+    released: 2016-08-25
+    directors: Harry Bradbeer
+    writers: Phoebe Waller-Bridge
+    description: Fleabag attends her godmother's art exhibition and confronts her business reality.
+    imdb: https://www.imdb.com/title/tt5847774
+    wikipedia: https://en.wikipedia.org/wiki/Fleabag_(series_1)#ep6
