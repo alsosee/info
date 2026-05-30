@@ -444,6 +444,7 @@ Movies/1948/The Treasure of the Sierra Madre.yml	fac367b0
 Movies/1949/A Letter to Three Wives.yml	63a95f18
 Movies/1949/All the King's Men.yml	886197a7
 Movies/1949/Battleground.yml	4061850
+Movies/1949/Daybreak In Udi.yml	5868bf9d
 Movies/1949/The Heiress.yml	19fd4cd1
 Movies/1949/Twelve O'Clock High.yml	60814e4f
 Movies/1950/All About Eve.yml	7d994d28
@@ -478,7 +479,6 @@ Movies/1956/Somebody Up There Likes Me.yml	9d4a8b83
 Movies/1956/The King and I.yml	25af8229
 Movies/1957/Sayonara.yml	737c4d0a
 Movies/1957/The Bridge On The River Kwai.yml	a414b5ae
-Movies/1957/The Bridge on the River Kwai.yml	59c1c91c
 Movies/1958/Gigi.yml	ead79ce
 Movies/1958/Room At The Top.yml	5a555295
 Movies/1958/Separate Tables.yml	764e4da4
@@ -496,7 +496,6 @@ Movies/1961/Judgment at Nuremberg.yml	e6b6f323
 Movies/1961/The Hustler.yml	797f58b9
 Movies/1961/West Side Story.yml	3a4c4fa1
 Movies/1962/Lawrence Of Arabia.yml	a60363aa
-Movies/1962/Lawrence of Arabia.yml	1e403cdb
 Movies/1962/The Longest Day.yml	a9bb7d76
 Movies/1962/The Miracle Worker.yml	22e1450c
 Movies/1962/To Kill a Mockingbird.yml	d2276370
@@ -520,7 +519,6 @@ Movies/1965/The Sound of Music.yml	f7f2166a
 Movies/1965/Tokyo Olympiad.yml	bc7ea7f2
 Movies/1966/A Man For All Seasons.yml	c1469c1a
 Movies/1966/A Man and a Woman.yml	c8392c33
-Movies/1966/A Man for All Seasons.yml	22db1f93
 Movies/1966/Born Free.yml	b0a8bfc8
 Movies/1966/Category not awarded this year.yml	7c711240
 Movies/1966/Fantastic Voyage.yml	bd53b1ba
@@ -528,25 +526,25 @@ Movies/1966/Grand Prix.yml	c7d2b839
 Movies/1966/Morgan - A Suitable Case For Treatment.yml	989aabbf
 Movies/1966/The Spy Who Came In From The Cold.yml	dc1c5eb3
 Movies/1966/The War Game.yml	737d7f3a
-Movies/1966/Who's Afraid of Virginia Woolf?.yml	540429d7
+Movies/1966/Who's Afraid Of Virginia Woolf?.yml	3df7a727
 Movies/1967/A Man For All Seasons.yml	90a47e2e
 Movies/1967/Bonnie and Clyde.yml	1d5222f6
 Movies/1967/Camelot.yml	a571acf1
 Movies/1967/Category not awarded this year.yml	f130f618
 Movies/1967/Doctor Dolittle.yml	6d46fff
 Movies/1967/Guess Who's Coming to Dinner.yml	7d32836b
-Movies/1967/In the Heat of the Night.yml	6658c5a8
+Movies/1967/In The Heat Of The Night.yml	32ff4d3a
 Movies/1968/2001 A Space Odyssey.yml	7c92c727
-Movies/1968/2001: A Space Odyssey.yml	30c9c250
 Movies/1968/Detective Bullitt.yml	b7d173a7
 Movies/1968/Oliver!.yml	d2d05b39
-Movies/1968/Romeo and Juliet.yml	92a223ae
+Movies/1968/Romeo And Juliet.yml	da733c1f
 Movies/1968/The Graduate.yml	8a7f85f1
-Movies/1968/The Lion in Winter.yml	7685b869
+Movies/1968/The Lion In Winter.yml	cec6e718
 Movies/1969/Butch Cassidy and the Sundance Kid.yml	87d1eb32
 Movies/1969/Hello, Dolly!.yml	5b1183ce
 Movies/1969/Midnight Cowboy.yml	9052aa89
 Movies/1969/Oh! What A Lovely War.yml	71ee1f3d
+Movies/1969/The Prime Of Miss Jean Brodie.yml	6e3a2e0f
 Movies/1969/Wild band.yml	da95c5e4
 Movies/1969/Z.yml	306ae821
 Movies/1970/Butch Cassidy and the Sundance Kid.yml	31d64803
@@ -559,6 +557,7 @@ Movies/1971/Dirty Harry.yml	ea21d4f8
 Movies/1971/Fiddler on the Roof.yml	3eb3eed2
 Movies/1971/Nicholas and Alexandra.yml	a5bbdf3a
 Movies/1971/Sentinels of Silence.yml	144c090b
+Movies/1971/Summer Of '42.yml	98caaee1
 Movies/1971/Sunday, Bloody Sunday.yml	3b1749f6
 Movies/1971/The French Connection.yml	be5c1f30
 Movies/1971/The Go-Between.yml	a559e884
@@ -606,6 +605,7 @@ Movies/1977/Julia.yml	770296e2
 Movies/1977/Star Wars Episode 4.yml	b2802efc
 Movies/1977/Star Wars.yml	55fa4b7
 Movies/1978/Coming Home.yml	568779f
+Movies/1978/Death On The Nile.yml	952c1acb
 Movies/1978/Julia.yml	b180a537
 Movies/1978/Midnight Express.yml	6106974e
 Movies/1978/Star Wars.yml	e704cba8
@@ -633,12 +633,11 @@ Movies/1980/The Empire Strikes Back.yml	1917e4cd
 Movies/1980/The Shining.yml	c362e03d
 Movies/1981/Arthur.yml	188f25c3
 Movies/1981/Chariots Of Fire.yml	f653f89a
-Movies/1981/Chariots of Fire.yml	f5162a6
 Movies/1981/Heavy Metal.yml	5e0b5aab
 Movies/1981/Indiana Jones.yml	c3ca5762
 Movies/1981/Mad Max 2.yml	7f810b64
 Movies/1981/On Golden Pond.yml	2d549677
-Movies/1981/Raiders of the Lost Ark.yml	cf595cb1
+Movies/1981/Raiders Of The Lost Ark.yml	e2514a47
 Movies/1981/Reds.yml	cc4bf7e0
 Movies/1981/The French Lieutenant's Woman.yml	15358baf
 Movies/1982/An Officer and a Gentleman.yml	294b5ab6
@@ -648,7 +647,7 @@ Movies/1982/ET the Extra-Terrestrial.yml	64fe33b7
 Movies/1982/First Blood.yml	af7ade7b
 Movies/1982/Gandhi.yml	e695870c
 Movies/1982/Missing.yml	a9ea2652
-Movies/1983/Fanny and Alexander.yml	20f94c0c
+Movies/1983/Fanny And Alexander.yml	57ffbe83
 Movies/1983/Flashdance.yml	f1fa492d
 Movies/1983/La Traviata.yml	cf62105
 Movies/1983/Project A.yml	bbce87b
@@ -663,6 +662,7 @@ Movies/1984/Amadeus.yml	45ed2ca8
 Movies/1984/Dr Haing S Ngor.yml	daa52dd0
 Movies/1984/Dune.yml	a7c3e6bb
 Movies/1984/Ghostbusters.yml	8a0aff18
+Movies/1984/Indiana Jones And The Temple Of Doom.yml	b29f3100
 Movies/1984/Once Upon A Time In America.yml	e8350f15
 Movies/1984/Places in the Heart.yml	9a0928b9
 Movies/1984/Terminator.yml	1058b49c
@@ -679,9 +679,8 @@ Movies/1985/Rambo First Blood Part II.yml	4600c61f
 Movies/1985/The Purple Rose Of Cairo.yml	8a889b38
 Movies/1985/Witness.yml	bef778b0
 Movies/1986/A Room With A View.yml	11da7b70
-Movies/1986/A Room with a View.yml	d66de9c
 Movies/1986/Aliens.yml	b51f26f4
-Movies/1986/Hannah and Her Sisters.yml	fc611882
+Movies/1986/Hannah And Her Sisters.yml	52c8f4c0
 Movies/1986/Out Of Africa.yml	2d5ea08e
 Movies/1986/Platoon.yml	c80d4329
 Movies/1986/Quicksilver.yml	f806bbd
@@ -769,6 +768,7 @@ Movies/1995/Mortal Kombat.yml	670d5132
 Movies/1995/Pocahontas.yml	380d9f61
 Movies/1995/Restoration.yml	62c59fd0
 Movies/1995/Rob Roy.yml	c44cc529
+Movies/1995/Sense And Sensibility.yml	bfd6dc8d
 Movies/1995/The Madness Of King George.yml	f341995b
 Movies/1995/The Postman (Il Postino).yml	2919e2be
 Movies/1995/The Usual Suspects.yml	370f5f73
@@ -801,7 +801,6 @@ Movies/1998/Rush hour.yml	d6250a80
 Movies/1998/Rushmore.yml	9f304581
 Movies/1998/Saving Private Ryan.yml	6cf62e3
 Movies/1998/Shakespeare In Love.yml	f95d13be
-Movies/1998/Shakespeare in Love.yml	316c3643
 Movies/1998/The Truman Show.yml	f121dc94
 Movies/1999/All About My Mother (Todo Sobre Mi Madre).yml	58d8196
 Movies/1999/American Beauty.yml	3f45a092
@@ -814,6 +813,7 @@ Movies/1999/Topsy-Turvy.yml	b049c18c
 Movies/2000/Almost Famous.yml	5de7702b
 Movies/2000/Crouching Tiger, Hidden Dragon (Wo Hu Cang Long).yml	a43ea6d
 Movies/2000/Crouching Tiger, Hidden Dragon.yml	47befb37
+Movies/2000/Father And Daughter.yml	c69c03ce
 Movies/2000/Final Destination.yml	f6afcd7f
 Movies/2000/Gladiator.yml	77603da2
 Movies/2000/Sexy Beast.yml	99670b72
@@ -829,7 +829,6 @@ Movies/2001/Moulin Rouge!.yml	53bc34a2
 Movies/2001/Moulin Rouge.yml	746cc013
 Movies/2001/Shrek.yml	9fb5d238
 Movies/2001/The Lord Of The Rings: The Fellowship Of The Ring.yml	9373d976
-Movies/2001/The Lord of the Rings: The Fellowship of the Ring.yml	ffe026a9
 Movies/2002/Adaptation.yml	e731178a
 Movies/2002/Chicago.yml	60f42a68
 Movies/2002/Frida.yml	5b9278da
@@ -842,7 +841,6 @@ Movies/2002/The Bourne Identity.yml	e81b2454
 Movies/2002/The Hours.yml	5918160
 Movies/2002/The Lord Of The Rings: The Two Towers.yml	151f8452
 Movies/2002/The Lord of the Rings The Two Towers.yml	196406a2
-Movies/2002/The Lord of the Rings: The Two Towers.yml	cda1925a
 Movies/2002/The Pianist.yml	ff2f96d4
 Movies/2003/Cold Mountain.yml	31f5e575
 Movies/2003/Final Destination 2.yml	c66cd93d
@@ -850,11 +848,9 @@ Movies/2003/House of Sand and Fog.yml	e553879e
 Movies/2003/Hulk.yml	68256d7
 Movies/2003/Lost in Translation.yml	5ae0857f
 Movies/2003/Master And Commander: The Far Side Of The World.yml	f329d4e
-Movies/2003/Master and Commander: The Far Side of the World.yml	9764d499
 Movies/2003/Mystic River.yml	3af56ed3
 Movies/2003/The Lord Of The Rings: The Return Of The King.yml	c8228f82
 Movies/2003/The Lord of the Rings The Return of the King.yml	74fe4784
-Movies/2003/The Lord of the Rings: The Return of the King.yml	64c56f82
 Movies/2003/The Matrix Reloaded.yml	9e7e22b2
 Movies/2003/The Matrix Revolutions.yml	6e388c45
 Movies/2004/Anchorman The Legend of Ron Burgundy.yml	e0515895
@@ -876,8 +872,9 @@ Movies/2005/Crash.yml	abe5b17b
 Movies/2005/Harry Potter and the Goblet of Fire.yml	3fd9d1ad
 Movies/2005/King Kong.yml	9fe73d27
 Movies/2005/Memoirs Of A Geisha.yml	15f0c63f
-Movies/2005/Memoirs of a Geisha.yml	cf5c7efa
+Movies/2005/The Chronicles Of Narnia: The Lion, The Witch And The Wardrobe.yml	71217b9b
 Movies/2005/The Constant Gardener.yml	7bf53431
+Movies/2005/Walk The Line.yml	90fa2d3b
 Movies/2006/An Inconvenient Truth.yml	58e30313
 Movies/2006/Babel.yml	d31e61a6
 Movies/2006/Casino Royale.yml	7935ab25
@@ -900,9 +897,7 @@ Movies/2007/Atonement.yml	12fb2384
 Movies/2007/Harry Potter and the Order of the Phoenix.yml	3f3cc001
 Movies/2007/Juno.yml	4cd62c8e
 Movies/2007/La Vie En Rose.yml	a3d3221c
-Movies/2007/La Vie en Rose.yml	e3bbab31
 Movies/2007/Michael Clayton.yml	938c7b0e
-Movies/2007/No Country For Old Men.yml	2cd79d79
 Movies/2007/No Country for Old Men.yml	e5700dec
 Movies/2007/Ratatouille.yml	2fefdda2
 Movies/2007/Spider-Man 3.yml	31298266
@@ -930,7 +925,6 @@ Movies/2009/The Twilight Saga New Moon.yml	5e343ec8
 Movies/2009/The Young Victoria.yml	cb90dac2
 Movies/2009/Up.yml	75d82821
 Movies/2010/Alice In Wonderland.yml	c0a9ef58
-Movies/2010/Alice in Wonderland.yml	b7af1dd7
 Movies/2010/Black Swan.yml	259996bf
 Movies/2010/Harry Potter and the Deathly Hallows - Part 1.yml	9f9e60cf
 Movies/2010/Inception.yml	7051c4c1
@@ -968,16 +962,16 @@ Movies/2012/Django Unchained.yml	f5cbc744
 Movies/2012/Dredd.yml	71964c97
 Movies/2012/Les Misérables.yml	72462973
 Movies/2012/Life Of Pi.yml	22c4af70
-Movies/2012/Life of Pi.yml	f9f9d07f
 Movies/2012/Lincoln.yml	950753da
 Movies/2012/Magic Mike.yml	de4fa8d0
 Movies/2012/Men in Black 3.yml	726ccf65
 Movies/2012/Pacemaker.yml	cc5a98ae
 Movies/2012/Pitch Perfect.yml	7fb0d35a
+Movies/2012/Searching For Sugar Man.yml	738d3e3f
 Movies/2012/Silver Linings Playbook.yml	825afc75
 Movies/2012/Skyfall.yml	dd6bba29
 Movies/2012/The Hunger Games.yml	c094a3d9
-Movies/2013/12 Years a Slave.yml	25364243
+Movies/2013/12 Years A Slave.yml	dc34d87f
 Movies/2013/American Hustle.yml	1642dd45
 Movies/2013/Blue Jasmine.yml	b8c47333
 Movies/2013/Dallas Buyers Club.yml	37d50aeb
@@ -1014,6 +1008,7 @@ Movies/2014/Whiplash.yml	7fbd6bcc
 Movies/2015/Amy.yml	a243a48a
 Movies/2015/Ant-Man.yml	843148d7
 Movies/2015/Avengers Age of Ultron.yml	6626517c
+Movies/2015/Bridge Of Spies.yml	4af9273a
 Movies/2015/Inside Out.yml	a77b5719
 Movies/2015/Mad Max: Fury Road.yml	2cd05c7f
 Movies/2015/Pitch Perfect 2.yml	5abf8c05
@@ -1083,6 +1078,7 @@ Movies/2019/Jojo Rabbit.yml	b0af87da
 Movies/2019/Joker.yml	a0b8a2ae
 Movies/2019/Judy.yml	c9e9519a
 Movies/2019/Knives Out.yml	9a447981
+Movies/2019/Learning To Skateboard In A Warzone (If You're A Girl).yml	4342d003
 Movies/2019/Little Women.yml	ad45b53c
 Movies/2019/Midsommar.yml	392068bc
 Movies/2019/Once Upon a Time in Hollywood.yml	72f57f1
@@ -1114,6 +1110,7 @@ Movies/2021/Encanto.yml	624ef62f
 Movies/2021/Eternals.yml	83d40f17
 Movies/2021/King Richard.yml	f9f5ed00
 Movies/2021/Mortal Kombat.yml	d44273a7
+Movies/2021/No Time To Die.yml	85022567
 Movies/2021/Old.yml	eaf41df8
 Movies/2021/Shang-Chi and the Legend of the Ten Rings.yml	b559a7f5
 Movies/2021/Spider-Man No Way Home.yml	d5643dd8
@@ -1125,7 +1122,6 @@ Movies/2021/West Side Story.yml	87defc30
 Movies/2022/All Quiet on the Western Front.yml	a75a20a4
 Movies/2022/An Irish Goodbye.yml	c878685
 Movies/2022/Avatar The Way of Water.yml	e7d2ddbc
-Movies/2022/Avatar: The Way of Water.yml	82d6ba4e
 Movies/2022/Black Panther Wakanda Forever.yml	69646093
 Movies/2022/Bullet Train.yml	a358ae3d
 Movies/2022/Chip 'n Dale Rescue Rangers.yml	5271a93a
@@ -1140,6 +1136,7 @@ Movies/2022/Navalny.yml	17d1a16d
 Movies/2022/Puss in Boots The Last Wish.yml	a621fe2
 Movies/2022/RRR.yml	c3b5f3c2
 Movies/2022/The Banshees of Inisherin.yml	5112e126
+Movies/2022/The Boy, The Mole, The Fox and The Horse.yml	2fe9dd8e
 Movies/2022/The Offer.yml	4a068f70
 Movies/2022/The Whale.yml	eeaf45d4
 Movies/2022/Thor Love and Thunder.yml	17c3961f
@@ -1159,6 +1156,7 @@ Movies/2023/Mission Impossible Dead Reckoning.yml	30c58073
 Movies/2023/Oppenheimer.yml	7482650c
 Movies/2023/Poor Things.yml	c9767afd
 Movies/2023/Spider-Man Across the Spider-Verse.yml	b107482
+Movies/2023/The Boy And The Heron.yml	9d4d0156
 Movies/2023/The Covenant.yml	3257f0f
 Movies/2023/The Holdovers.yml	78484341
 Movies/2023/The Hunger Games The Ballad of Songbirds & Snakes.yml	73e05b27
@@ -1172,7 +1170,6 @@ Movies/2024/Anora.yml	22749977
 Movies/2024/Conclave.yml	218c1bbc
 Movies/2024/Deadpool & Wolverine.yml	8db7d2db
 Movies/2024/Dune Part Two.yml	bcd699eb
-Movies/2024/Dune: Part Two.yml	92bc1669
 Movies/2024/Emilia Perez.yml	f1745448
 Movies/2024/Emilia Pérez.yml	98b0d841
 Movies/2024/Furiosa A Mad Max Saga.yml	755d07e8
