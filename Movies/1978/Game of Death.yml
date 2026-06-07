@@ -1,0 +1,64 @@
+name: Game of Death
+description: >
+  A 1978 Hong Kong martial arts film assembled after Bruce Lee's death from new
+  material and surviving footage from his unfinished project. Lee stars as Billy Lo,
+  a martial arts movie star who fakes his death and fights back against the crime
+  syndicate trying to control him.
+released: 1978-03-23
+rating: R
+length: 1h43m
+genres:
+  - martial arts
+  - action
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Game_of_Death
+imdb: https://www.imdb.com/title/tt0077594
+tmdb: https://www.themoviedb.org/movie/13333-game-of-death
+rotten_tomatoes: https://www.rottentomatoes.com/m/1008085-game_of_death
+metacritic: https://www.metacritic.com/movie/game-of-death
+website: https://www.miramax.com/movie/game-of-death
+directors:
+  - Robert Clouse
+  - Bruce Lee
+  - Sammo Hung
+producers:
+  - Raymond Chow
+screenplay:
+  - Jan Spears
+  - Bruce Lee
+music:
+  - John Barry
+  - Joseph Koo
+cinematography:
+  - Ho Lan-shan
+  - Godfrey A. Godar
+editors: Alan Pattillo
+production: Golden Harvest
+distributors:
+  - Golden Harvest
+  - Columbia Pictures
+characters:
+  - name: Billy Lo
+    actor: Bruce Lee
+  - name: Jim Marshall
+    actor: Gig Young
+  - name: Dr. Land
+    actor: Dean Jagger
+  - name: Ann Morris
+    actor: Colleen Camp
+  - name: Steiner
+    actor: Hugh O'Brian
+  - name: Carl Miller
+    actor: Robert Wall
+  - name: Pasqual
+    actor: Dan Inosanto
+  - name: Restaurant Fighter
+    actor: Ji Han-jae
+  - name: Hakim
+    actor: Kareem Abdul-Jabbar
+  - name: Stick
+    actor: Mel Novak
+  - name: Lo Chen
+    actor: Sammo Hung
+  - name: Charlie Wang
+    actor: James Tien

@@ -1,0 +1,62 @@
+name: "Mad Max: Fury Road"
+series: Mad Max
+description: >
+  In a post-apocalyptic desert wasteland, Max Rockatansky is drawn into Imperator
+  Furiosa's escape from the tyrant Immortan Joe and his war party. Together with
+  Joe's captive wives and a conflicted War Boy, they race across the Wasteland in
+  a heavily armored War Rig.
+previous: Movies/1985/Mad Max 3
+released: 2015-05-15
+rating: R
+length: 2h
+genres:
+  - action
+  - adventure
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Mad_Max:_Fury_Road
+imdb: https://www.imdb.com/title/tt1392190
+tmdb: https://www.themoviedb.org/movie/76341-mad-max-fury-road
+rotten_tomatoes: https://www.rottentomatoes.com/m/mad_max_fury_road
+metacritic: https://www.metacritic.com/movie/mad-max-fury-road
+trailer: https://www.youtube.com/watch?v=hEJnMQG9ev8
+directors: George Miller
+screenplay:
+  - George Miller
+  - Brendan McCarthy
+  - Nico Lathouris
+producers:
+  - Doug Mitchell
+  - George Miller
+  - P. J. Voeten
+music: Junkie XL
+cinematography: John Seale
+editors: Margaret Sixel
+production:
+  - Village Roadshow Pictures
+  - Kennedy Miller Mitchell
+distributors:
+  - Roadshow Entertainment
+  - Warner Bros. Pictures
+characters:
+  - name: Max Rockatansky
+    actor: Tom Hardy
+  - name: Imperator Furiosa
+    actor: Charlize Theron
+  - name: Nux
+    actor: Nicholas Hoult
+  - name: Immortan Joe
+    actor: Hugh Keays-Byrne
+  - name: Slit
+    actor: Josh Helman
+  - name: Rictus Erectus
+    actor: Nathan Jones
+  - name: Toast the Knowing
+    actor: Zoë Kravitz
+  - name: The Splendid Angharad
+    actor: Rosie Huntington-Whiteley
+  - name: Capable
+    actor: Riley Keough
+  - name: The Dag
+    actor: Abbey Lee
+  - name: Cheedo the Fragile
+    actor: Courtney Eaton

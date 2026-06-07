@@ -1,0 +1,44 @@
+name: Before Sunset
+description: >
+  Nine years after their night together in Vienna, Jesse and Céline reunite in
+  Paris during the final stop of Jesse's book tour. With only a short time
+  before he must leave for the airport, they walk through the city and confront
+  the lives, regrets, and feelings that have grown between them.
+released: 2004-02-10
+rating: R
+length: 1h20m
+genres:
+  - drama
+  - romance
+wikipedia: https://en.wikipedia.org/wiki/Before_Sunset
+imdb: https://www.imdb.com/title/tt0381681
+tmdb: https://www.themoviedb.org/movie/80-before-sunset
+rotten_tomatoes: https://www.rottentomatoes.com/m/before_sunset
+metacritic: https://www.metacritic.com/movie/before-sunset/
+directors: Richard Linklater
+screenplay:
+  - Richard Linklater
+  - Julie Delpy
+  - Ethan Hawke
+producers: Anne Walker-McBay
+cinematography: Lee Daniel
+editors: Sandra Adair
+production:
+  - Castle Rock Entertainment
+  - Detour Filmproduction
+distributors:
+  - Warner Independent Pictures
+  - Warner Bros. Pictures
+characters:
+  - name: Jesse
+    actor: Ethan Hawke
+  - name: Céline
+    actor: Julie Delpy
+  - name: Bookstore Manager
+    actor: Vernon Dobtcheff
+  - name: Journalist #1
+    actor: Louise Lemoine Torrès
+  - name: Journalist #2
+    actor: Rodolphe Pauly
+  - name: Waitress
+    actor: Mariane Plasteig

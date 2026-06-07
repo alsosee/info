@@ -14,14 +14,21 @@ genres:
   - political drama
 wikipedia: https://en.wikipedia.org/wiki/Black_Panther_(film)
 imdb: https://www.imdb.com/title/tt1825683
+tmdb: https://www.themoviedb.org/movie/284054-black-panther
 rotten_tomatoes: https://www.rottentomatoes.com/m/black_panther_2018
 metacritic: https://www.metacritic.com/movie/black-panther/
+disney_plus: https://www.disneyplus.com/movies/black-panther/1GuXuYPj99Ke
+website: https://movies.disney.com/black-panther
+trailer: https://www.youtube.com/watch?v=xjDjIWPwcPU
 directors: Ryan Coogler
 screenplay:
   - Ryan Coogler
   - Joe Robert Cole
 music: Ludwig Göransson
 cinematography: Rachel Morrison
+editors:
+  - Michael P. Shawver
+  - Debbie Berman
 producers: Kevin Feige
 production: Marvel Studios
 distributors: Walt Disney Studios Motion Pictures

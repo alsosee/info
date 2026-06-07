@@ -1,0 +1,53 @@
+name: "American Psycho"
+description: >
+  Patrick Bateman is a wealthy Manhattan investment banker who hides his alternate psychopathic
+  ego from his co-workers and friends as he delves deeper into his violent, hedonistic fantasies.
+based_on: Books/1991/American Psycho
+released: 2000-04-14
+rating: R
+length: 1h42m
+genres:
+  - psychological horror
+  - black comedy
+wikipedia: https://en.wikipedia.org/wiki/American_Psycho_(film)
+imdb: https://www.imdb.com/title/tt0144084
+tmdb: https://www.themoviedb.org/movie/1359-american-psycho
+tpdb: https://theposterdb.com/poster/19228
+rotten_tomatoes: https://www.rottentomatoes.com/m/american_psycho
+metacritic: https://www.metacritic.com/movie/american-psycho
+directors: Mary Harron
+screenplay:
+  - Mary Harron
+  - Guinevere Turner
+music: John Cale
+cinematography: Andrzej Sekuła
+editors: Andrew Marcus
+production:
+  - Edward R. Pressman Productions
+  - Muse Productions
+distributors: Lionsgate
+characters:
+  - name: Patrick Bateman
+    actor: Christian Bale
+  - name: Donald Kimball
+    actor: Willem Dafoe
+  - name: Paul Allen
+    actor: Jared Leto
+  - name: Jean
+    actor: Chloë Sevigny
+  - name: Evelyn Williams
+    actor: Reese Witherspoon
+  - name: Courtney Rawlinson
+    actor: Samantha Mathis
+  - name: Luis Carruthers
+    actor: Matt Ross
+  - name: Timothy Bryce
+    actor: Justin Theroux
+  - name: Craig McDermott
+    actor: Josh Lucas
+  - name: David Van Patten
+    actor: Bill Sage
+  - name: Christie
+    actor: Cara Seymour
+  - name: Elizabeth
+    actor: Guinevere Turner

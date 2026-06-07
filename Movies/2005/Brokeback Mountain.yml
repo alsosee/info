@@ -1,0 +1,53 @@
+name: Brokeback Mountain
+description: >
+  In 1963 Wyoming, ranch hand Ennis Del Mar and rodeo cowboy Jack Twist meet
+  while herding sheep on Brokeback Mountain. Their connection becomes a hidden,
+  years-long relationship shaped by distance, marriage, social pressure, and the
+  limits of the lives available to them.
+released: 2005-12-09
+rating: R
+length: 2h14m
+genres:
+  - drama
+  - romance
+  - western
+wikipedia: https://en.wikipedia.org/wiki/Brokeback_Mountain
+imdb: https://www.imdb.com/title/tt0388795
+tmdb: https://www.themoviedb.org/movie/142-brokeback-mountain
+rotten_tomatoes: https://www.rottentomatoes.com/m/brokeback_mountain
+metacritic: https://www.metacritic.com/movie/brokeback-mountain
+directors: Ang Lee
+screenplay:
+  - Larry McMurtry
+  - Diana Ossana
+producers:
+  - Diana Ossana
+  - James Schamus
+music: Gustavo Santaolalla
+cinematography: Rodrigo Prieto
+editors:
+  - Geraldine Peroni
+  - Dylan Tichenor
+production:
+  - Focus Features
+  - River Road Entertainment
+distributors: Focus Features
+characters:
+  - name: Ennis Del Mar
+    actor: Heath Ledger
+  - name: Jack Twist
+    actor: Jake Gyllenhaal
+  - name: Alma Beers Del Mar
+    actor: Michelle Williams
+  - name: Lureen Newsome Twist
+    actor: Anne Hathaway
+  - name: Joe Aguirre
+    actor: Randy Quaid
+  - name: Cassie Cartwright
+    actor: Linda Cardellini
+  - name: Lashawn Malone
+    actor: Anna Faris
+  - name: Randall Malone
+    actor: David Harbour
+  - name: Alma Jr.
+    actor: Kate Mara

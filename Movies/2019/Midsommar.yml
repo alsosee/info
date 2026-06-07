@@ -8,7 +8,7 @@ genres:
   - folk horror
 wikipedia: https://en.wikipedia.org/wiki/Midsommar
 imdb: https://www.imdb.com/title/tt8772262
-tmdb: https://www.themoviedb.org/movie/530385-midsommar
+tmdb: https://www.themoviedb.org/movie/490132
 rotten_tomatoes: https://www.rottentomatoes.com/m/midsommar
 metacritic: https://www.metacritic.com/movie/midsommar
 spotify: https://open.spotify.com/album/7ua9yjYsmUO77joP5fknf7
@@ -41,3 +41,19 @@ characters:
     actor: Archie Madekwe
   - name: Connie
     actor: Ellora Torchia
+  - name: Siv
+    actor: Gunnel Fred
+  - name: Ulf
+    actor: Henrik Norlén
+  - name: Inga
+    actor: Julia Ragnarsson
+  - name: Karin
+    actor: Anna Åström
+  - name: Ulla
+    actor: Liv Mjönes
+  - name: Hanna
+    actor: Louise Peterhoff
+  - name: Dan
+    actor: Björn Andrésen
+  - name: Ingemar
+    actor: Hampus Hallberg

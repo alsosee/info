@@ -1,0 +1,69 @@
+name: "Pride & Prejudice"
+description: >
+  Elizabeth Bennet lives with her parents and sisters in the English countryside,
+  where family pressure and social expectations make marriage an urgent concern.
+  When she meets the wealthy and reserved Mr. Darcy, mutual misjudgments and class
+  tensions complicate a growing attraction between them.
+based_on: Books/1813/Pride and Prejudice
+released: 2005-09-16
+rating: PG
+length: 2h7m
+genres:
+  - drama
+  - romance
+wikipedia: https://en.wikipedia.org/wiki/Pride_%26_Prejudice_(2005_film)
+imdb: https://www.imdb.com/title/tt0414387
+tmdb: https://www.themoviedb.org/movie/4348-pride-prejudice
+rotten_tomatoes: https://www.rottentomatoes.com/m/1153077-1153077-pride_and_prejudice
+metacritic: https://www.metacritic.com/movie/pride-prejudice
+trailer: https://www.youtube.com/watch?v=Ur_DIHs92NM
+directors: Joe Wright
+screenplay: Deborah Moggach
+producers:
+  - Tim Bevan
+  - Eric Fellner
+  - Paul Webster
+music: Dario Marianelli
+cinematography: Roman Osin
+editors: Paul Tothill
+production:
+  - Universal Pictures
+  - StudioCanal
+  - Working Title Films
+  - Scion Films
+distributors:
+  - Focus Features
+  - United International Pictures
+characters:
+  - name: Elizabeth Bennet
+    actor: Keira Knightley
+  - name: Mr. Darcy
+    actor: Matthew Macfadyen
+  - name: Mrs. Bennet
+    actor: Brenda Blethyn
+  - name: Mr. Bennet
+    actor: Donald Sutherland
+  - name: Jane Bennet
+    actor: Rosamund Pike
+  - name: Lydia Bennet
+    actor: Jena Malone
+  - name: Mr. Collins
+    actor: Tom Hollander
+  - name: Mrs. Gardiner
+    actor: Penelope Wilton
+  - name: Lady Catherine de Bourgh
+    actor: Judi Dench
+  - name: Charles Bingley
+    actor: Simon Woods
+  - name: Catherine "Kitty" Bennet
+    actor: Carey Mulligan
+  - name: Mary Bennet
+    actor: Talulah Riley
+  - name: George Wickham
+    actor: Rupert Friend
+  - name: Caroline Bingley
+    actor: Kelly Reilly
+  - name: Georgiana Darcy
+    actor: Tamzin Merchant
+  - name: Charlotte Lucas
+    actor: Claudie Blakley

@@ -1,0 +1,52 @@
+name: True Grit
+description: >
+  Fourteen-year-old Mattie Ross hires hard-drinking U.S. Marshal Rooster Cogburn to track down her father's killer, drawing a Texas Ranger into their uneasy pursuit through Indian Territory.
+based_on: Books/1968/True Grit
+released: 2010-12-22
+rating: PG-13
+length: 1h50m
+genres:
+  - western
+  - drama
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/True_Grit_(2010_film)
+imdb: https://www.imdb.com/title/tt1403865
+tmdb: https://www.themoviedb.org/movie/44264-true-grit
+rotten_tomatoes: https://www.rottentomatoes.com/m/true_grit_2010
+metacritic: https://www.metacritic.com/movie/true-grit
+website: http://www.truegritmovie.com
+directors:
+  - Joel Coen
+  - Ethan Coen
+screenplay:
+  - Joel Coen
+  - Ethan Coen
+producers:
+  - Joel Coen
+  - Ethan Coen
+  - Scott Rudin
+music: Carter Burwell
+cinematography: Roger Deakins
+editors: Roderick Jaynes
+production:
+  - Skydance Productions
+  - Scott Rudin Productions
+  - Mike Zoss Productions
+distributors: Paramount Pictures
+characters:
+  - name: Reuben J. "Rooster" Cogburn
+    actor: Jeff Bridges
+  - name: Mattie Ross
+    actor: Hailee Steinfeld
+  - name: LaBoeuf
+    actor: Matt Damon
+  - name: Tom Chaney
+    actor: Josh Brolin
+  - name: Lucky Ned Pepper
+    actor: Barry Pepper
+  - name: Col. Stonehill
+    actor: Dakin Matthews
+  - name: Emmett Quincy
+    actor: Paul Rae
+  - name: Moon
+    actor: Domhnall Gleeson

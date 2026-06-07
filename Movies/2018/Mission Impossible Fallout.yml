@@ -14,6 +14,8 @@ genres:
 website: https://www.missionimpossible.com/
 wikipedia: https://en.wikipedia.org/wiki/Mission%3A_Impossible_%E2%80%93_Fallout
 imdb: https://www.imdb.com/title/tt4912910
+tmdb: https://www.themoviedb.org/movie/353081-mission-impossible-fallout
+tpdb: https://theposterdb.com/posters/5475
 rotten_tomatoes: https://www.rottentomatoes.com/m/mission_impossible_fallout
 metacritic: https://www.metacritic.com/movie/mission-impossible-fallout/
 trailer: https://www.youtube.com/watch?v=wb49-oV0F78
@@ -47,23 +49,23 @@ characters:
     actor: Henry Cavill
   - name: Solomon Lane
     actor: Sean Harris
-  - name: Angela Bassett
-    actor: Erica Sloane
-  - name: Alec Baldwin
-    actor: Alan Hunley
-  - name: Michelle Monaghan
-    actor: Julia Meade-Hunt
-  - name: Wes Bentley
-    actor: Erik
-  - name: Frederick Schmidt
-    actor: Zola Mitsopolis
-  - name: Vanessa Kirby
-    actor: Alanna Mitsopolis
-  - name: Sian Brooke
-    actor: Dr. Delbruuk
-  - name: Kristoffer Joner
-    actor: Nils Debruuk
+  - name: Erika Sloane
+    actor: Angela Bassett
+  - name: Alan Hunley
+    actor: Alec Baldwin
+  - name: Julia
+    actor: Michelle Monaghan
+  - name: Erik
+    actor: Wes Bentley
+  - name: Zola
+    actor: Frederick Schmidt
+  - name: Alanna Mitsopolis / White Widow
+    actor: Vanessa Kirby
+  - name: Nils Delbruuk
+    actor: Kristoffer Joner
+  - name: Decoy John Lark
+    actor: Liang Yang
   - name: Wolf Blitzer
     actor: Wolf Blitzer
-  - name: Caspar Phillipson
-    actor: John F. Kennedy
+  - name: The European
+    actor: Caspar Phillipson

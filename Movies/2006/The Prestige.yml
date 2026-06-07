@@ -1,0 +1,56 @@
+name: The Prestige
+description: >
+  In Victorian London, two rival stage magicians become locked in an escalating
+  contest of secrets, sabotage, and obsession as each tries to create the
+  ultimate illusion.
+based_on: Books/1995/The Prestige
+released: 2006-10-20
+rating: PG-13
+length: 2h10m
+genres:
+  - science fiction
+  - psychological thriller
+  - mystery
+wikipedia: https://en.wikipedia.org/wiki/The_Prestige
+imdb: https://www.imdb.com/title/tt0482571
+tmdb: https://www.themoviedb.org/movie/1124-the-prestige
+rotten_tomatoes: https://www.rottentomatoes.com/m/prestige
+metacritic: https://www.metacritic.com/movie/the-prestige
+directors: Christopher Nolan
+producers:
+  - Emma Thomas
+  - Aaron Ryder
+  - Christopher Nolan
+screenplay:
+  - Jonathan Nolan
+  - Christopher Nolan
+music: David Julyan
+cinematography: Wally Pfister
+editors: Lee Smith
+production:
+  - Newmarket Films
+  - Syncopy
+distributors:
+  - Buena Vista Pictures Distribution
+  - Warner Bros. Pictures
+characters:
+  - name: Robert Angier / Lord Caldlow
+    actor: Hugh Jackman
+  - name: Alfred Borden
+    actor: Christian Bale
+  - name: John Cutter
+    actor: Michael Caine
+  - name: Olivia Wenscombe
+    actor: Scarlett Johansson
+  - name: Julia McCullough
+    actor: Piper Perabo
+  - name: Sarah Borden
+    actor: Rebecca Hall
+  - name: Nikola Tesla
+    actor: David Bowie
+  - name: Mr. Alley
+    actor: Andy Serkis
+  - name: Milton the Magician
+    actor: Ricky Jay
+  - name: Owens
+    actor: Roger Rees

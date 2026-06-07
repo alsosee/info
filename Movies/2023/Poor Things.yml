@@ -1,18 +1,23 @@
 name: Poor Things
 description: >
   The incredible tale about the fantastical evolution of Bella Baxter, a young woman brought back to life by the brilliant and unorthodox scientist Dr. Godwin Baxter.
+based_on: Books/1992/Poor Things
+released: 2023-09-01
+rating: R
 length: 142m
 genres:
   - comedy
   - drama
   - romance
-based_on: Books/1992/Poor Things
-website: https://www.searchlightpictures.com/poor-things/
 wikipedia: https://en.wikipedia.org/wiki/Poor_Things_(film)
-trailer: https://www.youtube.com/watch?v=RlbR5N6veqw
 imdb: https://www.imdb.com/title/tt14230458
+tmdb: https://www.themoviedb.org/movie/792307-poor-things
 rotten_tomatoes: https://www.rottentomatoes.com/m/poor_things
+metacritic: https://www.metacritic.com/movie/poor-things/
+spotify: https://open.spotify.com/album/3gz3XOFJ5w99GDode87xbO
 instagram: https://www.instagram.com/poorthingsfilm/
+website: https://www.searchlightpictures.com/poor-things/
+trailer: https://www.youtube.com/watch?v=RlbR5N6veqw
 directors: Yorgos Lanthimos
 producers:
   - Ed Guiney
@@ -28,7 +33,6 @@ production:
   - Element Pictures
   - TSG Entertainment
 distributors: Searchlight Pictures
-released: 2023-09-01
 characters:
   - name: Bella Baxter
     actor: Emma Stone

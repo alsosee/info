@@ -1,0 +1,44 @@
+name: Destroyer
+description: >
+  A science fiction horror film released as Death Machine, about a weapons company's new
+  chief executive who uncovers an unstable combat robot developed by a deranged designer.
+released: 1994-02-04
+rating: R
+length: 2h
+genres:
+  - science fiction
+  - horror
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Death_Machine
+imdb: https://www.imdb.com/title/tt0109575
+tmdb: https://www.themoviedb.org/movie/1702-death-machine
+directors: Stephen Norrington
+producers:
+  - Dominic Anciano
+screenplay: Stephen Norrington
+music: Crispin Merrell
+cinematography: John de Borman
+editors: Paul Endacott
+production:
+  - Fugitive Features
+  - Victor Company of Japan
+distributors:
+  - Entertainment Film Distributors
+  - Trimark Pictures
+characters:
+  - name: Jack Dante
+    actor: Brad Dourif
+  - name: Hayden Cale
+    actor: Ely Pouget
+  - name: John Carpenter
+    actor: William Hootkins
+  - name: Raimi
+    actor: John Sharian
+  - name: Yutani
+    actor: Martin McDougall
+  - name: Weyland
+    actor: Andreas Wisniewski
+  - name: Scott Ridley
+    actor: Richard Brake
+  - name: Junior Executive
+    actor: Rachel Weisz

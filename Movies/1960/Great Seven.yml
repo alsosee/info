@@ -1,0 +1,43 @@
+name: The Magnificent Seven
+description: >
+  A Western remake of Seven Samurai about seven gunfighters hired by poor Mexican
+  villagers to defend their home from Calvera and his bandits.
+based_on: Movies/1954/Seven samurai
+released: 1960-10-12
+length: 2h8m
+genres:
+  - western
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Magnificent_Seven
+imdb: https://www.imdb.com/title/tt0054047
+tmdb: https://www.themoviedb.org/movie/966-the-magnificent-seven
+rotten_tomatoes: https://www.rottentomatoes.com/m/1013077-magnificent_seven
+metacritic: https://www.metacritic.com/movie/the-magnificent-seven-1960/
+directors: John Sturges
+producers: John Sturges
+screenplay: William Roberts
+music: Elmer Bernstein
+cinematography: Charles Lang
+editors: Ferris Webster
+production:
+  - The Mirisch Company
+  - Alpha Productions
+distributors: United Artists
+characters:
+  - name: Chris Adams
+    actor: Yul Brynner
+  - name: Vin Tanner
+    actor: Steve McQueen
+  - name: Chico
+    actor: Horst Buchholz
+  - name: Bernardo O'Reilly
+    actor: Charles Bronson
+  - name: Lee
+    actor: Robert Vaughn
+  - name: Harry Luck
+    actor: Brad Dexter
+  - name: Britt
+    actor: James Coburn
+  - name: Calvera
+    actor: Eli Wallach

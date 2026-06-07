@@ -1,0 +1,59 @@
+name: The Dark Knight Rises
+description: >
+  Eight years after Batman vanished from Gotham, Bruce Wayne is forced out of
+  exile when the masked revolutionary Bane threatens the city and exposes the
+  fragile peace built on Harvey Dent's legacy.
+previous: Movies/2008/The Dark Knight
+released: 2012-07-20
+rating: PG-13
+length: 2h44m
+genres:
+  - superhero
+  - action
+  - crime
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/The_Dark_Knight_Rises
+imdb: https://www.imdb.com/title/tt1345836
+tmdb: https://www.themoviedb.org/movie/49026-the-dark-knight-rises
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_dark_knight_rises
+metacritic: https://www.metacritic.com/movie/the-dark-knight-rises/
+apple_tv: https://tv.apple.com/us/movie/the-dark-knight-rises/umc.cmc.4chkhft26y3bhfxrtfjemtp2c
+website: https://www.thedarkknightrises.com
+directors: Christopher Nolan
+screenplay:
+  - Jonathan Nolan
+  - Christopher Nolan
+music: Hans Zimmer
+cinematography: Wally Pfister
+editors: Lee Smith
+producers:
+  - Emma Thomas
+  - Christopher Nolan
+  - Charles Roven
+production:
+  - Warner Bros. Pictures
+  - Legendary Pictures
+  - DC Entertainment
+  - Syncopy
+distributors: Warner Bros. Pictures
+characters:
+  - name: Bruce Wayne / Batman
+    actor: Christian Bale
+  - name: Selina Kyle / Catwoman
+    actor: Anne Hathaway
+  - name: Bane
+    actor: Tom Hardy
+  - name: Miranda Tate / Talia al Ghul
+    actor: Marion Cotillard
+  - name: John Blake
+    actor: Joseph Gordon-Levitt
+  - name: Commissioner James Gordon
+    actor: Gary Oldman
+  - name: Alfred Pennyworth
+    actor: Michael Caine
+  - name: Lucius Fox
+    actor: Morgan Freeman
+  - name: Peter Foley
+    actor: Matthew Modine
+  - name: John Daggett
+    actor: Ben Mendelsohn

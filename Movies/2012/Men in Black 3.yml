@@ -14,8 +14,12 @@ genres:
 wikipedia: https://en.wikipedia.org/wiki/Men_in_Black_3
 imdb: https://www.imdb.com/title/tt1409024
 tmdb: https://www.themoviedb.org/movie/41154-men-in-black-3
+tpdb: https://theposterdb.com/poster/1035
 rotten_tomatoes: https://www.rottentomatoes.com/m/men_in_black_3
 metacritic: https://www.metacritic.com/movie/men-in-black-3
+website: https://www.sonypictures.com/movies/meninblack3
+trailer: https://www.youtube.com/watch?v=IyaFEBI_L24
+netflix: https://www.netflix.com/title/70213465
 directors: Barry Sonnenfeld
 screenplay: Etan Cohen
 producers:
@@ -40,7 +44,11 @@ characters:
     actor: Jemaine Clement
   - name: Agent O
     actor: Emma Thompson
+  - name: Agent O (1969)
+    actor: Alice Eve
   - name: Griffin
     actor: Michael Stuhlbarg
+  - name: Andy Warhol
+    actor: Bill Hader
   - name: Colonel James Darrell Edwards Jr.
     actor: Mike Colter

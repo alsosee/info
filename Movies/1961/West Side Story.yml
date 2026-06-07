@@ -1,0 +1,69 @@
+name: West Side Story
+description: >
+  An adaptation of the 1957 Broadway musical, West Side Story follows Tony
+  and Maria, two young people connected to rival New York street gangs, as
+  their romance intensifies tensions between the Jets and the Sharks.
+released: 1961-10-18
+rating: PG
+length: 2h32m
+genres:
+  - musical
+  - drama
+  - romance
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/West_Side_Story_(1961_film)
+imdb: https://www.imdb.com/title/tt0055614
+tmdb: https://www.themoviedb.org/movie/1725-west-side-story
+rotten_tomatoes: https://www.rottentomatoes.com/m/west_side_story
+metacritic: https://www.metacritic.com/movie/west-side-story/
+website: https://www.westsidestory.com/1961-film
+based_on: Musicals/1957/West Side Story
+directors:
+  - Robert Wise
+  - Jerome Robbins
+screenplay: Ernest Lehman
+producers: Robert Wise
+music: Leonard Bernstein
+cinematography: Daniel L. Fapp
+editors: Thomas Stanford
+production:
+  - Mirisch Pictures
+  - Seven Arts Productions
+distributors: United Artists
+characters:
+  - name: Maria
+    actor: Natalie Wood
+  - name: Tony
+    actor: Richard Beymer
+  - name: Riff
+    actor: Russ Tamblyn
+  - name: Anita
+    actor: Rita Moreno
+  - name: Bernardo
+    actor: George Chakiris
+  - name: Lieutenant Schrank
+    actor: Simon Oakland
+  - name: Doc
+    actor: Ned Glass
+  - name: Sergeant Krupke
+    actor: William Bramley
+  - name: Glad Hand
+    actor: John Astin
+  - name: Ice
+    actor: Tucker Smith
+  - name: Action
+    actor: Tony Mordente
+  - name: A-Rab
+    actor: David Winters
+  - name: Baby John
+    actor: Eliot Feld
+  - name: Snowboy
+    actor: Bert Michaels
+  - name: Chino Martin
+    actor: Jose De Vega
+  - name: Pepe
+    actor: Jay Norman
+  - name: Consuelo
+    actor: Yvonne Wilder
+  - name: Rosalia
+    actor: Suzie Kaye

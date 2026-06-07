@@ -1,0 +1,58 @@
+name: Batman Begins
+description: >
+  Bruce Wayne returns to Gotham City after years of training and creates the
+  Batman persona to fight the corruption consuming his home, drawing him into
+  conflict with organized crime, Scarecrow, and the League of Shadows.
+released: 2005-06-15
+rating: PG-13
+length: 2h20m
+genres:
+  - superhero
+  - action
+  - crime
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Batman_Begins
+imdb: https://www.imdb.com/title/tt0372784
+tmdb: https://www.themoviedb.org/movie/272-batman-begins
+rotten_tomatoes: https://www.rottentomatoes.com/m/batman_begins
+metacritic: https://www.metacritic.com/movie/batman-begins/
+directors: Christopher Nolan
+screenplay:
+  - Christopher Nolan
+  - David S. Goyer
+music:
+  - Hans Zimmer
+  - James Newton Howard
+cinematography: Wally Pfister
+editors: Lee Smith
+producers:
+  - Charles Roven
+  - Emma Thomas
+  - Larry Franco
+production:
+  - DC Comics
+  - Legendary Pictures
+  - Syncopy
+  - Patalex III Productions
+distributors: Warner Bros. Pictures
+characters:
+  - name: Bruce Wayne / Batman
+    actor: Christian Bale
+  - name: Alfred Pennyworth
+    actor: Michael Caine
+  - name: Henri Ducard
+    actor: Liam Neeson
+  - name: Rachel Dawes
+    actor: Katie Holmes
+  - name: Sgt. James Gordon
+    actor: Gary Oldman
+  - name: Dr. Jonathan Crane / Scarecrow
+    actor: Cillian Murphy
+  - name: Carmine Falcone
+    actor: Tom Wilkinson
+  - name: William Earle
+    actor: Rutger Hauer
+  - name: "Ra's al Ghul"
+    actor: Ken Watanabe
+  - name: Lucius Fox
+    actor: Morgan Freeman

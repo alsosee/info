@@ -1,0 +1,40 @@
+name: Moneyball
+description: >
+  Billy Beane, general manager of the Oakland Athletics, attempts to assemble a competitive baseball team
+  despite a limited budget by using sabermetrics to identify undervalued players.
+released: 2011-09-23
+rating: PG-13
+length: 2h13m
+genres:
+  - Biography
+  - Drama
+  - Sport
+wikipedia: https://en.wikipedia.org/wiki/Moneyball_(film)
+imdb: https://www.imdb.com/title/tt1210166/
+tmdb: https://www.themoviedb.org/movie/59859-moneyball
+rotten_tomatoes: https://www.rottentomatoes.com/m/moneyball
+metacritic: https://www.metacritic.com/movie/moneyball
+trailer: https://www.youtube.com/watch?v=-4QPVo0UIzc
+directors: Bennett Miller
+screenplay:
+  - Steven Zaillian
+  - Aaron Sorkin
+music: Mychael Danna
+cinematography: Wally Pfister
+editors: Christopher Tellefsen
+production:
+  - Columbia Pictures
+  - Scott Rudin Productions
+  - Michael De Luca Productions
+distributors: Columbia Pictures
+characters:
+  - name: Billy Beane
+    actor: Brad Pitt
+  - name: Peter Brand
+    actor: Jonah Hill
+  - name: Art Howe
+    actor: Philip Seymour Hoffman
+  - name: Sharon Beane
+    actor: Robin Wright
+  - name: Scott Hatteberg
+    actor: Chris Pratt

@@ -9,10 +9,16 @@ genres:
 wikipedia: https://en.wikipedia.org/wiki/The_Bourne_Identity_(2002_film)
 imdb: https://www.imdb.com/title/tt0258463/
 tmdb: https://www.themoviedb.org/movie/2501-the-bourne-identity
+rotten_tomatoes: https://www.rottentomatoes.com/m/bourne_identity
+metacritic: https://www.metacritic.com/movie/the-bourne-identity/
 directors: Doug Liman
 screenplay:
   - Tony Gilroy
   - William Blake Herron
+producers:
+  - Doug Liman
+  - Patrick Crowley
+  - Richard N. Gladstein
 music: John Powell
 cinematography: Oliver Wood
 editors: Saar Klein

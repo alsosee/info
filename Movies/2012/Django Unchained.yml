@@ -1,0 +1,57 @@
+name: Django Unchained
+description: >
+  A revisionist Western about Django Freeman, a freed slave who trains with a German
+  bounty hunter and sets out across the antebellum South to rescue his wife from a
+  brutal Mississippi plantation owner.
+released: 2012-12-25
+rating: R
+length: 2h45m
+genres:
+  - revisionist western
+  - action
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Django_Unchained
+imdb: https://www.imdb.com/title/tt1853728
+tmdb: https://www.themoviedb.org/movie/68718-django-unchained
+rotten_tomatoes: https://www.rottentomatoes.com/m/django_unchained_2012
+metacritic: https://www.metacritic.com/movie/django-unchained
+trailer: https://www.youtube.com/watch?v=rC8VJ9aeB_g
+directors: Quentin Tarantino
+screenplay: Quentin Tarantino
+producers:
+  - Stacey Sher
+  - Reginald Hudlin
+  - Pilar Savone
+cinematography: Robert Richardson
+editors: Fred Raskin
+production:
+  - A Band Apart
+  - Columbia Pictures
+distributors:
+  - The Weinstein Company
+  - Columbia Pictures
+characters:
+  - name: Django Freeman
+    actor: Jamie Foxx
+  - name: Dr. King Schultz
+    actor: Christoph Waltz
+  - name: Calvin J. Candie
+    actor: Leonardo DiCaprio
+  - name: Broomhilda von Shaft
+    actor: Kerry Washington
+  - name: Stephen
+    actor: Samuel L. Jackson
+  - name: Billy Crash
+    actor: Walton Goggins
+  - name: Leonide Moguy
+    actor: Dennis Christopher
+  - name: Butch Pooch / Ace Speck
+    actor: James Remar
+  - name: Spencer "Big Daddy" Bennett
+    actor: Don Johnson
+  - name: Amerigo Vessepi
+    actor: Franco Nero
+  - name: Lara Lee Candie-Fitzwilly
+    actor: Laura Cayouette
+  - name: D'Artagnan
+    actor: Ato Essandoh

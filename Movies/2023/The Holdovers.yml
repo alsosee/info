@@ -11,13 +11,17 @@ genres:
   - period piece
 wikipedia: https://en.wikipedia.org/wiki/The_Holdovers
 imdb: https://www.imdb.com/title/tt14849194
+tmdb: https://www.themoviedb.org/movie/840430-the-holdovers
 rotten_tomatoes: https://www.rottentomatoes.com/m/the_holdovers
 metacritic: https://www.metacritic.com/movie/the-holdovers/
+website: https://www.focusfeatures.com/the-holdovers
+spotify: https://open.spotify.com/album/0wHUziqDA1RVeAP2eafHfW
 trailer: https://www.youtube.com/watch?v=oE8SzqeJ4V0
 prime_video: https://www.amazon.com/Holdovers-Paul-Giamatti/dp/B0CLQXWJ9V
 apple_tv: https://tv.apple.com/us/movie/the-holdovers/umc.cmc.5kd8z3j6qob2b77tuy6d2k8t9
 directors: Alexander Payne
 writers: David Hemingson
+screenplay: David Hemingson
 producers:
   - Mark Johnson
   - Bill Bannerman
@@ -38,8 +42,14 @@ characters:
     actor: Dominic Sessa
   - name: Lydia Crane
     actor: Carrie Preston
-  - name: Tom Tully
+  - name: Mr. Endicott
     actor: Bill Mootos
+  - name: Thomas Tully
+    actor: Stephen Thorne
+  - name: Judy Clotfelter
+    actor: Gillian Vigman
+  - name: Stanley Clotfelter
+    actor: Tate Donovan
   - name: Dr. Hardy Woodrup
     actor: Andrew Garman
   - name: Jason Smith
@@ -52,9 +62,7 @@ characters:
     actor: Jim Kaplan
   - name: Danny
     actor: Naheem Garcia
-  - name: Curtis Lamb
-    actor: Arian Moayed
-  - name: Stanley
+  - name: Elise
     actor: Darby Lily Lee-Stack
-  - name: Miss Crane
-    actor: Gillian Vigman
+  - name: Hugh Cavanaugh
+    actor: Kelly AuCoin

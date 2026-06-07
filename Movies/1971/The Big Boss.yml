@@ -1,0 +1,42 @@
+name: The Big Boss
+description: >
+  A 1971 Hong Kong martial arts film starring Bruce Lee as Cheng Chao-an, a Chinese immigrant
+  who moves to Thailand to work with his cousins at an ice factory. Bound by an oath of
+  nonviolence, Cheng is drawn into conflict when the factory's criminal operation threatens
+  his family.
+released: 1971-10-23
+length: 1h40m
+genres:
+  - martial arts
+  - action
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/The_Big_Boss
+imdb: https://www.imdb.com/title/tt0067824
+tmdb: https://www.themoviedb.org/movie/12481
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_big_boss_1972
+directors:
+  - Lo Wei
+  - Wu Chia-hsiang
+producers:
+  - Raymond Chow
+screenplay: Lo Wei
+music: Wang Fu-ling
+cinematography: Chen Ching-chu
+editors: Sung Ming
+production: Golden Harvest
+distributors: Golden Harvest
+characters:
+  - name: Cheng Chao-an
+    actor: Bruce Lee
+  - name: Chow Mei
+    actor: Maria Yi
+  - name: Hsu Chien
+    actor: James Tien
+  - name: Hsiao Mi
+    actor: Han Ying-chieh
+  - name: Hsiao Chiun
+    actor: Tony Liu
+  - name: Drinkstand owner
+    actor: Nora Miao
+  - name: Ah Kun
+    actor: Li Kun

@@ -1,0 +1,65 @@
+name: The Social Network
+description: >
+  Harvard student Mark Zuckerberg builds a campus social website that quickly becomes Facebook,
+  drawing him into disputes with his former friend, early partners, and rivals over who owns the idea.
+based_on: Books/2009/The Accidental Billionaires
+released: 2010-10-01
+rating: PG-13
+length: 2h
+genres:
+  - biography
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/The_Social_Network
+imdb: https://www.imdb.com/title/tt1285016
+tmdb: https://www.themoviedb.org/movie/37799-the-social-network
+rotten_tomatoes: https://www.rottentomatoes.com/m/the-social-network
+metacritic: https://www.metacritic.com/movie/the-social-network
+spotify: https://open.spotify.com/album/1ijkFiMeHopKkHyvQCWxUa
+apple_tv: https://tv.apple.com/us/movie/the-social-network/umc.cmc.36jj4rzu3eh9jk7uhicvr4vhb
+website: https://www.sonypictures.com/movies/thesocialnetwork
+directors: David Fincher
+screenplay: Aaron Sorkin
+producers:
+  - Scott Rudin
+  - Dana Brunetti
+  - Michael De Luca
+  - Ceán Chaffin
+music:
+  - Trent Reznor
+  - Atticus Ross
+cinematography: Jeff Cronenweth
+editors:
+  - Angus Wall
+  - Kirk Baxter
+production:
+  - Columbia Pictures
+  - Relativity Media
+  - Scott Rudin Productions
+  - Michael De Luca Productions
+  - Trigger Street Productions
+distributors: Sony Pictures Releasing
+characters:
+  - name: Mark Zuckerberg
+    actor: Jesse Eisenberg
+  - name: Eduardo Saverin
+    actor: Andrew Garfield
+  - name: Sean Parker
+    actor: Justin Timberlake
+  - name: Cameron Winklevoss
+    actor: Armie Hammer
+  - name: Tyler Winklevoss
+    actor: Armie Hammer
+  - name: Divya Narendra
+    actor: Max Minghella
+  - name: Christy Lee
+    actor: Brenda Song
+  - name: Marylin Delpy
+    actor: Rashida Jones
+  - name: Erica Albright
+    actor: Rooney Mara
+  - name: Dustin Moskovitz
+    actor: Joseph Mazzello
+  - name: Chris Hughes
+    actor: Patrick Mapel
+  - name: Peter Thiel
+    actor: Wallace Langham

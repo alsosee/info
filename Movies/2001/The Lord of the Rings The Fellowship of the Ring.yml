@@ -1,0 +1,59 @@
+name: "The Lord of the Rings: The Fellowship of the Ring"
+description: >
+  The first installment of Peter Jackson's epic trilogy follows Frodo Baggins, a young hobbit who inherits the One Ring and leaves the Shire with a fellowship formed to help him carry it toward Mordor before Sauron's forces can reclaim it.
+released: 2001-12-19
+rating: PG-13
+length: 2h58m
+genres:
+  - adventure
+  - drama
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring
+imdb: https://www.imdb.com/title/tt0120737
+tmdb: https://www.themoviedb.org/movie/120
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_lord_of_the_rings_the_fellowship_of_the_ring
+metacritic: https://www.metacritic.com/movie/the-lord-of-the-rings-the-fellowship-of-the-ring/
+directors: Peter Jackson
+producers:
+  - Barrie M. Osborne
+  - Fran Walsh
+  - Peter Jackson
+  - Tim Sanders
+screenplay:
+  - Fran Walsh
+  - Philippa Boyens
+  - Peter Jackson
+music: Howard Shore
+cinematography: Andrew Lesnie
+editors: John Gilbert
+production: WingNut Films
+distributors: New Line Cinema
+characters:
+  - name: Frodo Baggins
+    actor: Elijah Wood
+  - name: Gandalf the Grey
+    actor: Ian McKellen
+  - name: Aragorn
+    actor: Viggo Mortensen
+  - name: Samwise Gamgee
+    actor: Sean Astin
+  - name: Legolas
+    actor: Orlando Bloom
+  - name: Gimli
+    actor: John Rhys-Davies
+  - name: Boromir
+    actor: Sean Bean
+  - name: Arwen
+    actor: Liv Tyler
+  - name: Galadriel
+    actor: Cate Blanchett
+  - name: "Saruman the White"
+    actor: Christopher Lee
+  - name: Bilbo Baggins
+    actor: Ian Holm
+  - name: Elrond
+    actor: Hugo Weaving
+  - name: Peregrin Took
+    actor: Billy Boyd
+  - name: Meriadoc Brandybuck
+    actor: Dominic Monaghan

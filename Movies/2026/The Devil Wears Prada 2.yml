@@ -1,0 +1,28 @@
+name: "The Devil Wears Prada 2"
+description: >
+  Set twenty years after the original, Miranda Priestly finds herself struggling to navigate the decline of traditional magazine publishing. She faces off against her former assistant, Emily Charlton, who is now a high-powered executive for a luxury group whose advertising dollars Miranda desperately needs. Andy Sachs finds herself drawn back into Miranda's orbit as the industry shifts.
+previous: Movies/2006/The Devil Wears Prada
+released: 2026-05-01
+rating: PG-13
+genres:
+  - comedy
+  - drama
+directors: David Frankel
+screenplay: Aline Brosh McKenna
+production:
+  - Disney
+  - Wendy Finerman Productions
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Miranda Priestly
+    actor: Meryl Streep
+  - name: Andrea "Andy" Sachs
+    actor: Anne Hathaway
+  - name: Emily Charlton
+    actor: Emily Blunt
+  - name: Nigel Kipling
+    actor: Stanley Tucci
+  - name: Miranda's Husband
+    actor: Kenneth Branagh
+  - name: Amari
+    actor: Simone Ashley

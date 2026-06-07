@@ -8,7 +8,7 @@ description: >
   a rare exotic bird.
 released: 2009-05-29
 rating: PG
-length: 96m
+length: 1h36m
 genres:
   - animation
   - adventure
@@ -19,7 +19,14 @@ imdb: https://www.imdb.com/title/tt1049413
 tmdb: https://www.themoviedb.org/movie/14160-up
 rotten_tomatoes: https://www.rottentomatoes.com/m/up
 metacritic: https://www.metacritic.com/movie/up
-directors: Pete Docter
+trailer: https://www.youtube.com/watch?v=ORFWdXl_zJ4
+directors:
+  - Pete Docter
+  - Bob Peterson
+writers:
+  - Bob Peterson
+  - Pete Docter
+  - Tom McCarthy
 screenplay:
   - Pete Docter
   - Bob Peterson
@@ -34,13 +41,28 @@ distributors: Walt Disney Studios Motion Pictures
 characters:
   - name: Carl Fredricksen
     voice: Ed Asner
+    description: An elderly widower who travels to South America in his flying house to fulfill a promise to his late wife.
   - name: Russell
     voice: Jordan Nagai
+    description: A young, overeager Wilderness Explorer who becomes an accidental stowaway on Carl's flying house.
   - name: Charles Muntz
     voice: Christopher Plummer
+    description: A legendary explorer and Carl's childhood idol who has become obsessed with capturing a rare bird to restore his reputation.
   - name: Dug
     voice: Bob Peterson
+    description: A lovable Golden Retriever who can speak through a high-tech translator collar and befriends Carl and Russell.
+  - name: Kevin
+    voice: Pete Docter
+    description: A giant, colorful, flightless bird that Russell discovers and protects from Muntz.
+  - name: Alpha
+    voice: Bob Peterson
+    description: A Doberman Pinscher and the leader of Muntz's dog pack, whose translator collar often malfunctions.
+  - name: Ellie
+    voice: Elie Docter
+    description: Carl's late wife, whose childhood dream of visiting Paradise Falls serves as the catalyst for the film's adventure.
   - name: Beta
     voice: Delroy Lindo
+    description: A Rottweiler and member of Muntz's dog pack.
   - name: Gamma
     voice: Jerome Ranft
+    description: A Bulldog and member of Muntz's dog pack.

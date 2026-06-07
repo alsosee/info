@@ -1,0 +1,118 @@
+title: Golden Globe 2024
+wikipedia: https://en.wikipedia.org/wiki/81st_Golden_Globe_Awards
+website: https://www.goldenglobes.com/winners-nominees/2024
+imdb: https://www.imdb.com/event/ev0000292/2024/1
+categories:
+  - name: Best Motion Picture – Drama
+    winner:
+      movie: Oppenheimer
+
+  - name: Best Motion Picture – Musical or Comedy
+    winner:
+      movie: Poor Things
+
+  - name: Best Actor – Motion Picture Drama
+    winner:
+      actor: Cillian Murphy
+      movie: Oppenheimer
+
+  - name: Best Actress – Motion Picture Drama
+    winner:
+      actor: Lily Gladstone
+      movie: Killers of the Flower Moon
+
+  - name: Best Actor – Motion Picture Musical or Comedy
+    winner:
+      actor: Paul Giamatti
+      movie: The Holdovers
+
+  - name: Best Actress – Motion Picture Musical or Comedy
+    winner:
+      actor: Emma Stone
+      movie: Poor Things
+
+  - name: Best Supporting Actor – Motion Picture
+    winner:
+      actor: Robert Downey Jr.
+      movie: Oppenheimer
+
+  - name: Best Supporting Actress – Motion Picture
+    winner:
+      actor: Da'Vine Joy Randolph
+      movie: The Holdovers
+
+  - name: Best Director – Motion Picture
+    winner:
+      actor: Christopher Nolan
+      movie: Oppenheimer
+
+  - name: Best Screenplay – Motion Picture
+    winner:
+      writers:
+        - Justine Triet
+        - Arthur Harari
+      movie: Anatomy of a Fall
+
+  - name: Best Original Score – Motion Picture
+    winner:
+      music: Ludwig Göransson
+      movie: Oppenheimer
+
+  - name: Best Original Song – Motion Picture
+    winner:
+      track: What Was I Made For?
+      movie: Barbie
+
+  - name: Best Animated Feature Film
+    winner:
+      movie: The Boy and the Heron
+
+  - name: Best Non-English Language Film
+    winner:
+      movie: Anatomy of a Fall
+
+  - name: Cinematic and Box Office Achievement
+    winner:
+      movie: Barbie
+
+  - name: Best Television Series – Drama
+    winner:
+      movie: Succession
+
+  - name: Best Television Series – Musical or Comedy
+    winner:
+      movie: The Bear
+
+  - name: Best Actor – Television Series Drama
+    winner:
+      actor: Kieran Culkin
+      movie: Succession
+
+  - name: Best Actress – Television Series Drama
+    winner:
+      actor: Sarah Snook
+      movie: Succession
+
+  - name: Best Actor – Television Series Musical or Comedy
+    winner:
+      actor: Jeremy Allen White
+      movie: The Bear
+
+  - name: Best Actress – Television Series Musical or Comedy
+    winner:
+      actor: Ayo Edebiri
+      movie: The Bear
+
+  - name: Best Limited Series, Anthology Series, or Motion Picture Made for Television
+    winner:
+      movie: Beef
+
+  - name: Best Actor – Limited Series, Anthology Series, or Motion Picture Made for Television
+    winner:
+      actor: Steven Yeun
+      movie: Beef
+
+  - name: Best Actress – Limited Series, Anthology Series, or Motion Picture Made for Television
+    winner:
+      actor: Ali Wong
+      movie: Beef
