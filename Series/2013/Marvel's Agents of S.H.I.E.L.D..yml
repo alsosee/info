@@ -61,7 +61,6 @@ episodes:
     characters:
       - name: Maria Hill
         actor: Cobie Smulders
-        ref: Characters/Maria Hill
   - name: 0-8-4
     description: >
       The team travels to Peru to recover an "object of unknown origin," which turns out to be forgotten technology.
@@ -179,7 +178,6 @@ episodes:
     characters:
       - name: Maria Hill
         actor: Cobie Smulders
-        ref: Characters/Maria Hill
   - name: Ragtag
     description: >
       Flashbacks reveal the origins of a team member's training; in the present, the team infiltrates Cybertek to stop Hydra.
