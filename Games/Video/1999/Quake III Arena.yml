@@ -1,0 +1,52 @@
+name: Quake III Arena
+description: >
+  Quake III Arena is a 1999 first-person shooter developed by id Software and the third installment in the Quake series.
+  Unlike its predecessors, it focuses primarily on multiplayer gameplay, replacing the traditional story-based single-player
+  campaign with matches against computer-controlled bots.
+previous: Games/Video/1997/Quake II
+released: 1999-12-02
+genres:
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Quake_III_Arena
+imdb: https://www.imdb.com/title/tt0243514/
+metacritic: https://www.metacritic.com/game/pc/quake-iii-arena
+steam: https://store.steampowered.com/app/2200/Quake_III_Arena
+websites:
+  - https://www.idsoftware.com/en-us/games/quake-iii-arena
+developers: id Software
+publishers: Activision
+programmers:
+  - John Carmack
+  - Robert A. Duffy
+  - Jim Dosé
+writers:
+  - R. A. Salvatore
+  - Seven Swords
+  - Steve Winter
+designers:
+  - Graeme Devine
+  - Tim Willits
+  - Jennell Jaquays
+artists:
+  - Adrian Carmack
+  - Kevin Cloud
+  - Kenneth Scott
+composers:
+  - Sonic Mayhem
+  - Front Line Assembly
+  - Bill Leeb
+characters:
+  - name: Announcer
+    voice: Christian Antkow
+  - name: Sarge
+  - name: Crash
+  - name: Xaero
+  - name: Hunter
+  - name: Orbb
+  - name: Bitterman
+  - name: Doom
+  - name: Major
+  - name: Keel
+  - name: Anarki
+  - name: Slash
+  - name: Visor

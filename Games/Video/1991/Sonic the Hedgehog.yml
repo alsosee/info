@@ -1,0 +1,24 @@
+name: Sonic the Hedgehog
+description: >
+  A landmark platform game developed by Sonic Team for the Sega Genesis,
+  featuring a blue hedgehog who runs at supersonic speeds to foil Doctor
+  Robotnik's plans to collect the Chaos Emeralds. It established the Genesis as
+  a major competitor to Nintendo and became one of the best-selling video games
+  of all time.
+released: 1991-06-23
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(1991_video_game)
+imdb: https://www.imdb.com/title/tt0253724/
+developers: Sonic Team
+publishers: Sega
+designers: Hirokazu Yasuhara
+programmers: Yuji Naka
+artists:
+  - Naoto Ohshima
+  - Jina Ishiwatari
+  - Rieko Kodama
+composers: Masato Nakamura
+characters:
+  - name: Sonic the Hedgehog
+  - name: Doctor Robotnik

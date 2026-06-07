@@ -1,0 +1,43 @@
+name: "Devil May Cry 2"
+description: >
+  Set on the fictional Vie de Marli island, the story follows the demon hunter Dante
+  and the island guardian Lucia as they fight to stop a businessman named Arius
+  from summoning the demon Argosax to achieve supreme power.
+previous: Games/Video/2001/Devil May Cry
+released: 2003-01-28
+genres:
+  - action-adventure
+  - hack and slash
+wikipedia: https://en.wikipedia.org/wiki/Devil_May_Cry_2
+imdb: https://www.imdb.com/title/tt0350801/
+metacritic: https://www.metacritic.com/game/devil-may-cry-2/
+fandom: https://devilmaycry.fandom.com/wiki/Devil_May_Cry_2
+ign: https://www.ign.com/games/devil-may-cry-2/
+developers: Capcom Production Studio 1
+publishers: Capcom
+directors: Hideaki Itsuno
+producers:
+  - Tsuyoshi Tanaka
+  - Katsuhiro Sudo
+artists:
+  - Daigo Ikeno
+  - Naru Omori
+writers:
+  - Katsuya Akitomo
+  - Masashi Takimoto
+  - Shusaku Matsukawa
+composers:
+  - Masato Kouda
+  - Tetsuya Shibata
+  - Satoshi Ise
+characters:
+  - name: Dante
+    voice: Matthew Kaminsky
+  - name: Lucia
+    voice: Françoise Gralewski
+  - name: Arius
+    voice: Sherman Howard
+  - name: Matier
+    voice: Flo Di Re
+  - name: Trish
+    voice: Danielle Burgio

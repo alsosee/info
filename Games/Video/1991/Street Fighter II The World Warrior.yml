@@ -1,0 +1,46 @@
+name: "Street Fighter II: The World Warrior"
+description: >
+  Eight martial artists from around the world enter a fighting tournament and
+  face off against Shadaloo's four boss fighters. Capcom's arcade sequel
+  expanded the first Street Fighter with a larger playable roster, distinct
+  move sets, combo-driven head-to-head play, and a competitive format that
+  helped define the modern fighting game genre.
+previous: Games/Video/1987/Street Fighter
+released: 1991-03-07
+series: Street Fighter
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Street_Fighter_II
+fandom: https://streetfighter.fandom.com/wiki/Street_Fighter_II%3A_The_World_Warrior
+website: https://captown.capcom.com/en/classic_games/23
+developers: Capcom
+publishers: Capcom
+directors: Akira Nishitani
+producers: Yoshiki Okamoto
+designers:
+  - Akira Nishitani
+  - Akira Yasuda
+programmers:
+  - Shinichi Ueyama
+  - Seiji Okada
+  - Yoshihiro Matsui
+  - Motohide Eshiro
+artists:
+  - Eri Nakamura
+  - Satoru Yamashita
+composers:
+  - Yoko Shimomura
+  - Isao Abe
+characters:
+  - name: Ryu
+  - name: Ken Masters
+  - name: Chun-Li
+  - name: E. Honda
+  - name: Blanka
+  - name: Zangief
+  - name: Guile
+  - name: Dhalsim
+  - name: Balrog
+  - name: Vega
+  - name: Sagat
+  - name: M. Bison

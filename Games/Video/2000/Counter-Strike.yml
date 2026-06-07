@@ -1,0 +1,21 @@
+name: Counter-Strike
+description: >
+  A tactical multiplayer first-person shooter in which Terrorists and
+  Counter-Terrorists compete in round-based objective modes such as bomb
+  defusal and hostage rescue. Originating as a Half-Life mod, it became one of
+  the defining competitive PC shooters of the early 2000s.
+released: 2000-11-09
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike_(video_game)
+metacritic: https://www.metacritic.com/game/counter-strike/
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike
+website: https://store.steampowered.com/app/10/CounterStrike/
+developers: Valve Corporation
+publishers:
+  - Valve Corporation
+  - Sierra Studios
+designers:
+  - Minh Le
+  - Jess Cliffe

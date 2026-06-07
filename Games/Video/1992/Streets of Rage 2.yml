@@ -1,0 +1,29 @@
+name: "Streets of Rage 2"
+description: >
+  Widely considered the pinnacle of the series and the genre, this sequel
+  introduces Max Thunder and Eddie "Skate" Hunter to the roster as they join
+  Axel and Blaze to rescue Adam Hunter from Mr. X. The game features improved
+  graphics, larger character sprites, and a legendary electronic soundtrack by
+  Yuzo Koshiro and Motohiro Kawashima.
+previous: Games/Video/1991/Streets of Rage
+released: 1992-12-20
+genres:
+  - beat 'em up
+wikipedia: https://en.wikipedia.org/wiki/Streets_of_Rage_2
+imdb: https://www.imdb.com/title/tt0253761/
+fandom: https://streetsofrage.fandom.com/wiki/Streets_of_Rage_2
+developers:
+  - Sega
+  - Ancient
+  - Shout! Design Works
+  - MNM Software
+publishers: Sega
+composers:
+  - Yuzo Koshiro
+  - Motohiro Kawashima
+characters:
+  - name: Axel Stone
+  - name: Blaze Fielding
+  - name: Max Thunder
+  - name: Eddie "Skate" Hunter
+  - name: Adam Hunter

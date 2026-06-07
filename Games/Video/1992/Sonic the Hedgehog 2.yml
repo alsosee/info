@@ -1,0 +1,25 @@
+name: Sonic the Hedgehog 2
+description: >
+  A 1992 sequel that introduces Sonic's sidekick Miles "Tails" Prower and the
+  iconic "spin dash" move. Players traverse larger, more varied levels to stop
+  Doctor Robotnik from powering his space station, the Death Egg, with the
+  Chaos Emeralds.
+previous: Games/Video/1991/Sonic the Hedgehog
+released: 1992-11-24
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2
+imdb: https://www.imdb.com/title/tt0253725/
+developers: Sega Technical Institute
+publishers: Sega
+directors: Masaharu Yoshii
+designers:
+  - Hirokazu Yasuhara
+  - Yutaka Sugano
+programmers: Yuji Naka
+artists: Yasushi Yamaguchi
+composers: Masato Nakamura
+characters:
+  - name: Sonic the Hedgehog
+  - name: Miles "Tails" Prower
+  - name: Doctor Robotnik

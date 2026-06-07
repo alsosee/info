@@ -1,0 +1,23 @@
+name: ZeroRanger
+description: >
+  A vertically scrolling 2D shoot 'em up with a heavy emphasis on shooting, dodging, and mystery.
+  The game follows the story of two fighters defending their planet, Daikon, from an alien invasion known as Green Orange.
+released: 2018-09-28
+genres:
+  - shoot 'em up
+  - action
+  - indie
+wikipedia: https://en.wikipedia.org/wiki/ZeroRanger
+imdb: https://www.imdb.com/title/tt10464414/
+website: http://systemerasure.com/
+trailer: https://www.youtube.com/watch?v=CSO3jV0Gz_0
+steam: https://store.steampowered.com/app/809020/ZeroRanger/
+itch_io: https://system-erasure.itch.io/zeroranger
+engine: GameMaker Studio
+developers: System Erasure
+publishers: System Erasure
+directors:
+  - Eero Lahtinen
+  - Antti Ukkola
+artists: Antti Ukkola
+composers: Eero Lahtinen

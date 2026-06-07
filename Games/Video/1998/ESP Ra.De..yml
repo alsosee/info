@@ -1,0 +1,40 @@
+name: "ESP Ra.De."
+description: >
+  Vertically scrolling bullet hell arcade game set in Tokyo in 2018.
+  Players control one of three teenagers with extra-sensory perception (ESPers)
+  who must fight against Lady Garra and her Yaksa syndicate.
+  It is notable for featuring human characters flying on their own
+  rather than piloting traditional vehicles.
+released: 1998-04-22
+genres:
+  - scrolling shooter
+  - bullet hell
+wikipedia: https://en.wikipedia.org/wiki/ESP_Ra.De.
+giantbomb: https://www.giantbomb.com/esp-rade/3030-14944/
+igdb: https://www.igdb.com/games/esp-ra-de
+spotify: https://open.spotify.com/album/75vwolqyGEacjOjHYqUDpf
+website: http://www.cave.co.jp/game/arc/esprade/
+developers: Cave
+publishers:
+  - Atlus
+  - Nihon System
+programmers:
+  - Ryuichi Yabuki
+  - Satoshi Kōyama
+  - Tsuneki Ikeda
+designers:
+  - Akira Wakabayashi
+  - Atsushi Aburano
+  - Riichiro Nitta
+  - Yūko Nakamura
+artists: Junya Inoue
+composers: Masahiro Kusunoki
+characters:
+  - name: Yūsuke Sagami
+    voice: Junya Inoue
+  - name: Jb-5th
+    voice: Ryuichi Yabuki
+  - name: Irori Mimasaka
+    voice: Yūko Nakamura
+  - name: Lady Garra
+    voice: Akira Wakabayashi

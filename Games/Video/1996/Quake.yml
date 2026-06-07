@@ -1,0 +1,35 @@
+name: Quake
+description: >
+  Quake is a first-person shooter that follows a soldier, later known as Ranger,
+  who travels through teleportation "slipgates" to stop an invasion of Earth
+  by a hostile force codenamed "Quake." Notable for its dark fantasy atmosphere
+  inspired by H. P. Lovecraft, the game was a technological breakthrough as one
+  of the first to feature a fully real-time 3D rendering engine.
+released: 1996-07-22
+genres:
+  - first-person shooter
+rating: M
+wikipedia: https://en.wikipedia.org/wiki/Quake_(video_game)
+imdb: https://www.imdb.com/title/tt0117417
+steam: https://store.steampowered.com/app/2310/Quake
+metacritic: https://www.metacritic.com/game/pc/quake
+developers: id Software
+publishers: GT Interactive
+directors: John Romero
+designers:
+  - John Romero
+  - Sandy Petersen
+  - American McGee
+  - Tim Willits
+programmers:
+  - John Carmack
+  - Michael Abrash
+  - John Cash
+artists:
+  - Adrian Carmack
+  - Kevin Cloud
+  - Paul Steed
+composers: Trent Reznor
+characters:
+  - name: Ranger
+    voice: Trent Reznor

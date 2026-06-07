@@ -1,0 +1,53 @@
+name: Tekken
+description: >
+  Fighters from around the world enter the King of Iron Fist Tournament, where
+  Kazuya Mishima seeks revenge against his father, Heihachi Mishima. Namco's
+  arcade fighting game helped establish 3D polygonal fighters, using a
+  limb-based control scheme and a PlayStation-based arcade board before being
+  ported to Sony's home console.
+released: 1994-12-09
+series: Tekken
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Tekken_(video_game)
+fandom: https://tekken.fandom.com/wiki/Tekken
+website: https://web.archive.org/web/20090417123130/http://www.bandainamcogames.co.jp/cs/list/tekken
+developers: Namco
+publishers: Namco
+directors: Seiichi Ishii
+producers: Hajime Nakatani
+designers: Seiichi Ishii
+programmers:
+  - Masanori Yamada
+  - Naoki Ito
+  - Yoshihito Saito
+  - Toshihiro Ito
+  - Kiyomi Moriya
+artists:
+  - Kunihiko Nakata
+  - Masanori Kimura
+  - Yoshihisa Yaguchi
+  - Kenichi Isozaki
+composers:
+  - Yoshie Takayanagi
+  - Yoshie Arakawa
+  - Kazuhiro Nakamura
+characters:
+  - name: Anna Williams
+  - name: Armor King
+  - name: Devil
+  - name: Ganryu
+  - name: Heihachi Mishima
+  - name: Jack
+  - name: Kazuya Mishima
+  - name: King
+  - name: Kuma
+  - name: Kunimitsu
+  - name: Lee Chaolan
+  - name: Marshall Law
+  - name: Michelle Chang
+  - name: Nina Williams
+  - name: Paul Phoenix
+  - name: Prototype Jack
+  - name: Wang Jinrei
+  - name: Yoshimitsu

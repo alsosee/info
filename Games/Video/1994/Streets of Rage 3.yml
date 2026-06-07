@@ -1,0 +1,29 @@
+name: "Streets of Rage 3"
+description: >
+  The third entry in the original trilogy introduces a more complex plot with
+  multiple endings and branching paths. Axel, Blaze, and Skate are joined by the
+  cyborg Dr. Zan as they fight to stop the Syndicate from replacing city officials
+  with robotic clones. The game refined the combat mechanics with vertical dodge
+  rolls and a rechargeable special attack meter.
+previous: Games/Video/1992/Streets of Rage 2
+released: 1994-03-18
+genres:
+  - beat 'em up
+wikipedia: https://en.wikipedia.org/wiki/Streets_of_Rage_3
+imdb: https://www.imdb.com/title/tt0246253/
+fandom: https://streetsofrage.fandom.com/wiki/Streets_of_Rage_3
+developers:
+  - Sega
+  - Ancient
+publishers: Sega
+designers: Yui
+composers:
+  - Yuzo Koshiro
+  - Motohiro Kawashima
+characters:
+  - name: Axel Stone
+  - name: Blaze Fielding
+  - name: Eddie "Skate" Hunter
+  - name: Dr. Zan
+  - name: Shiva
+  - name: Roo

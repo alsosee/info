@@ -1,0 +1,32 @@
+name: Perfect Dark
+description: >
+  First-person shooter in which Carrington Institute agent Joanna Dark uncovers
+  a conspiracy involving the powerful dataDyne corporation and rival alien
+  factions. Developed as Rare's spiritual successor to GoldenEye 007, the game
+  expanded the Nintendo 64 shooter formula with objective-driven missions,
+  stealth elements, cooperative play, and deep multiplayer options.
+released: 2000-05-22
+genres:
+  - first-person shooter
+  - stealth
+rating: M
+wikipedia: https://en.wikipedia.org/wiki/Perfect_Dark
+metacritic: https://www.metacritic.com/game/perfect-dark-2000/
+fandom: https://perfectdark.fandom.com/wiki/Perfect_Dark
+ign: https://www.ign.com/games/perfect-dark
+website: https://www.nintendo.com/en-gb/Games/Nintendo-64/Perfect-Dark-269635.html
+developers: Rare
+publishers:
+  - Rare
+  - Nintendo
+designers:
+  - Duncan Botwood
+  - David Doak
+programmers: Mark Edmonds
+composers:
+  - Grant Kirkhope
+  - Graeme Norgate
+  - David Clynick
+characters:
+  - name: Joanna Dark
+    actor: Eveline Fischer

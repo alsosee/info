@@ -1,0 +1,32 @@
+name: Street Fighter
+description: >
+  Ryu enters a worldwide martial arts tournament, battling opponents across
+  multiple countries before facing the Muay Thai champion Sagat. Capcom's
+  arcade fighting game introduced command-based special moves, a challenger
+  system, and the six-button attack layout later refined by its sequels.
+released: 1987-08-30
+series: Street Fighter
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Street_Fighter_(video_game)
+fandom: https://streetfighter.fandom.com/wiki/Street_Fighter_(game)
+website: https://www.streetfighter.com
+developers: Capcom
+publishers: Capcom
+directors: Takashi Nishiyama
+designers: Hiroshi Matsumoto
+programmers: Hiroshi Koike
+composers: Yoshihiro Sakaguchi
+characters:
+  - name: Ryu
+  - name: Ken Masters
+  - name: Retsu
+  - name: Geki
+  - name: Joe
+  - name: Mike
+  - name: Lee
+  - name: Gen
+  - name: Birdie
+  - name: Eagle
+  - name: Adon
+  - name: Sagat

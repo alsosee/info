@@ -1,0 +1,35 @@
+name: The Legend of Zelda
+description: >
+  Action-adventure game set in the kingdom of Hyrule, where Link explores an
+  open overworld and maze-like dungeons to recover the Triforce of Wisdom and
+  rescue Princess Zelda from Ganon. The game introduced the long-running Zelda
+  series and became a landmark for nonlinear console adventure games.
+released: 1986-02-21
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)
+metacritic: https://www.metacritic.com/game/the-legend-of-zelda/
+fandom: https://zelda.fandom.com/wiki/The_Legend_of_Zelda
+ign: https://www.ign.com/games/the-legend-of-zelda
+website: https://www.nintendo.com/en-gb/Games/NES/The-Legend-of-Zelda-796345.html
+developers: Nintendo R&D4
+publishers: Nintendo
+directors:
+  - Shigeru Miyamoto
+  - Takashi Tezuka
+designers:
+  - Shigeru Miyamoto
+  - Takashi Tezuka
+producers: Shigeru Miyamoto
+programmers:
+  - Toshihiko Nakago
+  - Yasunari Soejima
+  - I. Marui
+writers:
+  - Takashi Tezuka
+  - Keiji Terui
+composers: Koji Kondo
+characters:
+  - name: Link
+  - name: Princess Zelda
+  - name: Ganon

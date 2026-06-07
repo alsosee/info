@@ -1,0 +1,37 @@
+name: Doom
+description: >
+  A first-person shooter reboot in which the Doom Slayer fights through a
+  demon-overrun Union Aerospace Corporation facility on Mars and into Hell,
+  emphasizing fast arena combat, aggressive movement, Glory Kills, and the
+  SnapMap level editor.
+released: 2016-05-13
+genres:
+  - first-person shooter
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Doom_(2016_video_game)
+imdb: https://www.imdb.com/title/tt1799527
+metacritic: https://www.metacritic.com/game/doom/
+fandom: https://doom.fandom.com/wiki/Doom_(2016)
+ign: https://www.ign.com/games/doom-4
+spotify: https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp
+website: https://bethesda.net/en/game/doom
+steam: https://store.steampowered.com/app/379720/Doom_2016/
+developers: id Software
+publishers: Bethesda Softworks
+directors:
+  - Marty Stratton
+  - Hugo Martin
+writers: Adam Gascoine
+composers: Mick Gordon
+characters:
+  - name: Samuel Hayden
+    actor: Darin De Paul
+  - name: VEGA
+    actor: Kevin Schon
+  - name: Olivia Pierce
+    actor: Abby Craden
+  - name: UAC Spokesperson
+    actor: Bumper Robinson
+  - name: UAC Facility Voice
+    actor: Elizabeth Daily

@@ -10,13 +10,17 @@ genres:
   - top-down shooter
   - action
 wikipedia: https://en.wikipedia.org/wiki/Hotline_Miami
+igdb: https://www.igdb.com/games/hotline-miami
+tpdb: https://theposterdb.com/posters/11434
 metacritic: https://www.metacritic.com/game/hotline-miami/critic-reviews/
 fandom: https://hotlinemiami.fandom.com/wiki/Hotline_Miami
 ign: https://www.ign.com/games/hotline-miami
 website: https://www.hotlinemiami.com
+trailer: https://www.youtube.com/watch?v=2n_Byno02jg
 steam: https://store.steampowered.com/app/219150/Hotline_Miami/
 developers: Dennaton Games
 publishers: Devolver Digital
+engine: GameMaker
 directors:
   - Jonatan Söderström
   - Dennis Wedin
@@ -34,3 +38,15 @@ composers:
   - Eirik Suhrke
   - Coconuts
   - El Huervo
+characters:
+  - name: Jacket
+  - name: Biker
+  - name: Beard
+  - name: The Girlfriend
+  - name: Richter
+  - name: The Janitors
+  - name: The Father
+  - name: The Bodyguard
+  - name: Richard
+  - name: Don Juan
+  - name: Rasmus

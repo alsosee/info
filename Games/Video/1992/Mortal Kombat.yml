@@ -2,10 +2,13 @@ name: Mortal Kombat
 description: >
   A martial arts tournament where seven warriors compete to save Earthrealm from the sorcerer Shang Tsung and the four-armed Goro. It is famous for its digitized graphics and violent "Fatality" finishing moves.
 released: 1992-10-08
+series: Mortal Kombat
 genres:
   - fighting
 wikipedia: https://en.wikipedia.org/wiki/Mortal_Kombat_(1992_video_game)
-imdb: https://www.imdb.com/title/tt0104909/
+imdb: https://www.imdb.com/title/tt0203701/
+fandom: https://mortalkombat.fandom.com/wiki/Mortal_Kombat_(1992_video_game)
+spotify: https://open.spotify.com/album/5ADzg7I1UtDGjAPP57XNjO
 developers: Midway Games
 publishers: Midway
 directors:
@@ -40,5 +43,4 @@ characters:
   - name: Goro
     actor: Curt Chiarelli
   - name: Shang Tsung
-    actor: Eric Kincade
-      # Ho-Sung Pak
+    actor: Ho-Sung Pak

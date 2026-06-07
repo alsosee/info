@@ -1,0 +1,39 @@
+name: "The Legend of Zelda: Majora's Mask"
+description: >
+  Action-adventure game in which Link is drawn into the parallel world of
+  Termina, where he must use masks, transformations, and a repeating three-day
+  cycle to stop the moon from crashing into the world. The Nintendo 64 sequel
+  to Ocarina of Time is known for its darker tone, time-loop structure, and
+  character-focused side quests.
+released: 2000-04-27
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Majora%27s_Mask
+metacritic: https://www.metacritic.com/game/the-legend-of-zelda-majoras-mask/
+fandom: https://zelda.fandom.com/wiki/The_Legend_of_Zelda:_Majora%27s_Mask
+ign: https://www.ign.com/games/the-legend-of-zelda-majoras-mask
+website: https://www.nintendo.com/en-gb/Games/Nintendo-64/The-Legend-of-Zelda-Majora-s-Mask-269525.html
+developers: Nintendo EAD
+publishers: Nintendo
+directors:
+  - Eiji Aonuma
+  - Yoshiaki Koizumi
+producers: Shigeru Miyamoto
+artists:
+  - Yusuke Nakano
+  - Takaya Imamura
+programmers:
+  - Toshio Iwawaki
+  - Toshihiko Nakago
+writers:
+  - Mitsuhiro Takano
+  - Eiji Aonuma
+  - Yoshiaki Koizumi
+composers: Koji Kondo
+characters:
+  - name: Link
+  - name: Skull Kid
+  - name: Tatl
+  - name: Tael
+  - name: Happy Mask Salesman
+  - name: Princess Zelda
