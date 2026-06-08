@@ -67,6 +67,10 @@ content:
       type: string
     founded:
       type: string
+    headquarters:
+      type: string
+    location:
+      type: string
     founders:
       type: array
       items:
@@ -189,6 +193,12 @@ content:
       type: string
     kickstarter:
       type: string
+    itch:
+      type: string
+    drivethrurpg:
+      type: string
+    github:
+      type: string
 
     # for books
     isbn:
@@ -216,6 +226,10 @@ content:
       label: Artist
     colorist:
       type: person
+    letterer:
+      type: person
+    issues:
+      type: int
     illustrators:
       type: array
       items:
@@ -355,6 +369,8 @@ content:
       items:
         type: person
       label: Designer
+    license:
+      type: string
 
     # for podcasts
     hosts:
@@ -373,12 +389,22 @@ content:
       type: reference
       label: Remake
 
+    not:
+      type: array
+      items:
+        type: reference
+      label: Not
+
     characters:
       type: array
       items:
         type: character
 
     # for awards
+    awards:
+      type: array
+      items:
+        type: award
     categories:
       type: array
       items:

@@ -22,14 +22,14 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Clone info
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: alsosee/info
           path: info
           token: ${{ secrets.PKG_TOKEN }}
 
       - name: Clone info state
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: alsosee/info
           path: state
@@ -37,7 +37,7 @@ jobs:
           token: ${{ secrets.PKG_TOKEN }}
 
       - name: Clone media
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: alsosee/media
           path: media

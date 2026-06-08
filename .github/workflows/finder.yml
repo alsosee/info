@@ -17,10 +17,10 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Checkout finder
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           repository: alsosee/finder
           path: finder
@@ -41,7 +41,7 @@ jobs:
           platforms: linux/amd64
 
       - name: Trigger deploy
-        uses: peter-evans/repository-dispatch@v3
+        uses: peter-evans/repository-dispatch@v4
         with:
           token: ${{ secrets.TOKEN }}
           repository: alsosee/info
