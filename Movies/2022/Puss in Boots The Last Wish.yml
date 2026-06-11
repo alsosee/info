@@ -18,8 +18,10 @@ genres:
   - fairy tale
 wikipedia: https://en.wikipedia.org/wiki/Puss_in_Boots:_The_Last_Wish
 imdb: https://www.imdb.com/title/tt3915174/
+tmdb: https://www.themoviedb.org/movie/315162-puss-in-boots-the-last-wish
 rotten_tomatoes: https://www.rottentomatoes.com/m/puss_in_boots_the_last_wish
 metacritic: https://www.metacritic.com/movie/puss-in-boots-the-last-wish/
+website: https://www.dreamworks.com/movies/puss-in-boots-the-last-wish
 trailer: https://www.youtube.com/watch?v=RqrXhwS33yc
 netflix: https://www.netflix.com/title/81002747
 prime_video: https://www.amazon.com/Puss-Boots-Last-Wish/dp/B0BPV7VQ1M
@@ -33,10 +35,14 @@ directors:
 writers:
   - Paul Fisher
   - Tommy Swerdlow
+screenplay:
+  - Paul Fisher
+  - Tommy Swerdlow
 producers:
   - Mark Swift
   - Latifa Ouaou
 music: Heitor Pereira
+cinematography: Chris Stover
 editors: James Ryan
 production:
   - DreamWorks Animation

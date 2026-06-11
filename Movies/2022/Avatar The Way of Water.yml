@@ -16,6 +16,7 @@ genres:
 website: https://www.avatar.com/
 wikipedia: https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water
 imdb: https://www.imdb.com/title/tt1630029
+tmdb: https://www.themoviedb.org/movie/76600-avatar-the-way-of-water
 rotten_tomatoes: https://www.rottentomatoes.com/m/avatar_the_way_of_water
 metacritic: https://www.metacritic.com/movie/avatar-the-way-of-water/
 trailer: https://www.youtube.com/watch?v=d9MyW72ELq0
@@ -27,6 +28,10 @@ writers: James Cameron
 producers:
   - James Cameron
   - Jon Landau
+screenplay:
+  - James Cameron
+  - Rick Jaffa
+  - Amanda Silver
 music: Simon Franglen
 cinematography: Russell Carpenter
 editors:
