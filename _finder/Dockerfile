@@ -1,13 +1,16 @@
-FROM ghcr.io/alsosee/codegen:latest AS codegen
+FROM golang:1.21 AS codegen
+
+WORKDIR /src/finder
+COPY finder /src/finder
+
+RUN go test -mod=vendor -cover ./codegen/...
+RUN CGO_ENABLED=0 go build -ldflags="-w -s" -mod=vendor -o /usr/local/bin/codegen ./codegen
 
 FROM golang:1.21 AS build-env
 
 WORKDIR /src/
 
 COPY . /src/
-
-# _finder directory exist in the current repo
-# COPY /src/_finder /src/_finder
 
 COPY --from=codegen /usr/local/bin/codegen /usr/local/bin/codegen
 
