@@ -229,7 +229,9 @@ content:
     letterer:
       type: person
     issues:
-      type: int
+      type: array
+      items:
+        type: issue
     illustrators:
       type: array
       items:
@@ -495,6 +497,15 @@ episode:
     wikipedia:
       type: string
     fandom:
+      type: string
+issue:
+  type: object
+  properties:
+    number:
+      type: string
+    title:
+      type: string
+    released:
       type: string
 character:
   type: object

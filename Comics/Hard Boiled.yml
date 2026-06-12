@@ -17,5 +17,8 @@ letterer: John Workman
 editors: Randy Stradley
 cover_artist: Geof Darrow
 publication: 1990-09-01
-issues: 3
+issues:
+  - number: "1"
+  - number: "2"
+  - number: "3"
 isbn: 9781878574589
