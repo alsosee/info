@@ -101,6 +101,7 @@ Companies/Bazmark Productions.yml	7aa804ea
 Companies/Bethesda Game Studios.yml	8f79ff82
 Companies/Bethesda Softworks.yml	dc310c3b
 Companies/BiM Distribuzione.yml	60730e40
+Companies/Big Blue Box Studios.yml	373d1be6
 Companies/Big Indie Pictures.yml	d14f85c5
 Companies/Big Talk Productions.yml	1d6f39d2
 Companies/Bitters End.yml	62064134
@@ -212,6 +213,7 @@ Companies/Firebrand Games.yml	be8fc757
 Companies/Firemonkeys Studios.yml	f681cd2b
 Companies/First Light.yml	64ac3dc0
 Companies/First Look Media.yml	b3df7b80
+Companies/Flaming Fowl Studios.yml	460259eb
 Companies/Focus Entertainment.yml	4f312587
 Companies/Focus Features.yml	26a6b707
 Companies/Fox 2000 Pictures.yml	dcee8ca6
@@ -229,6 +231,7 @@ Companies/Gameloft.yml	fd66c8eb
 Companies/Gary Sanchez Productions.yml	830d2673
 Companies/Gaumont Buena Vista International.yml	a24e8279
 Companies/Gaumont.yml	cc56bef4
+Companies/Gearbox Software.yml	5bb650a2
 Companies/Ghost Games.yml	4df67dd7
 Companies/Ghoulardi Film Company.yml	d33cefff
 Companies/Gloria Sanchez Productions.yml	c7de8baa
@@ -519,7 +522,6 @@ Companies/United International Pictures.yml	7427893d
 Companies/Universal Pictures International.yml	a5929997
 Companies/Universal Pictures.yml	bc5c15d4
 Companies/Valhalla Motion Pictures.yml	a1823d60
-Companies/Valve Corporation.yml	47dc3ff6
 Companies/Valve.yml	7dbc5592
 Companies/Vendian Entertainment.yml	e7b3081b
 Companies/Vertigo Entertainment.yml	41609edc
@@ -602,7 +604,7 @@ Games/Video/1997/Quake II.yml	42fa07c
 Games/Video/1997/Tekken 3.yml	7e6ab979
 Games/Video/1998/ESP Ra.De..yml	f58e8638
 Games/Video/1998/Fallout 2.yml	e2ebf6e1
-Games/Video/1998/Half-Life.yml	c51f802c
+Games/Video/1998/Half-Life.yml	1c138b7a
 Games/Video/1998/Marvel vs. Capcom Clash of Super Heroes.yml	78910e3e
 Games/Video/1998/Need for Speed III Hot Pursuit.yml	f01ea107
 Games/Video/1998/StarCraft.yml	22dff42f
@@ -611,6 +613,7 @@ Games/Video/1998/The Settlers III.yml	82a961af
 Games/Video/1998/Xenogears.yml	cf823745
 Games/Video/1999/EverQuest.yml	42edaf34
 Games/Video/1999/Grand Theft Auto 2.yml	2b75ccfa
+Games/Video/1999/Half-Life Opposing Force.yml	553b8cdc
 Games/Video/1999/Need for Speed High Stakes.yml	38e6c6b5
 Games/Video/1999/Quake III Arena.yml	fbd9f81b
 Games/Video/1999/Silent Hill.yml	c45a2332
@@ -631,6 +634,8 @@ Games/Video/2000/The Operative No One Lives Forever.yml	f7b8c20d
 Games/Video/2000/Tony Hawk's Pro Skater 2.yml	80561103
 Games/Video/2001/Devil May Cry.yml	5d8c0107
 Games/Video/2001/Grand Theft Auto III.yml	64407a70
+Games/Video/2001/Half-Life Blue Shift.yml	c706276a
+Games/Video/2001/Half-Life Decay.yml	444707fb
 Games/Video/2001/Silent Hill 2.yml	6d71f429
 Games/Video/2001/The Settlers IV.yml	fa676381
 Games/Video/2002/Final Fantasy XI Online.yml	b73956e4
@@ -643,9 +648,9 @@ Games/Video/2003/Need for Speed Underground.yml	723fbb9
 Games/Video/2003/Silent Hill 3.yml	3d65ce26
 Games/Video/2003/The Elder Scrolls Travels Stormhold.yml	c5be0ee9
 Games/Video/2003/XIII.yml	e6cc60fb
-Games/Video/2004/Fable.yml	b8a48893
+Games/Video/2004/Fable.yml	54fdbac8
 Games/Video/2004/Grand Theft Auto San Andreas.yml	c62402b7
-Games/Video/2004/Half-Life 2.yml	efe4e9d8
+Games/Video/2004/Half-Life 2.yml	a79063a1
 Games/Video/2004/Jets'n'Guns.yml	ce3619f0
 Games/Video/2004/Need for Speed Underground 2.yml	84c19e31
 Games/Video/2004/Red Dead Revolver.yml	27581a4e
@@ -653,9 +658,12 @@ Games/Video/2004/Silent Hill 4 The Room.yml	a1286989
 Games/Video/2004/The Elder Scrolls Travels Dawnstar.yml	e875ae2f
 Games/Video/2004/The Elder Scrolls Travels Shadowkey.yml	70a64e55
 Games/Video/2005/Devil May Cry 3 Dantes Awakening.yml	ea9112b2
+Games/Video/2005/Fable The Lost Chapters.yml	67c257df
 Games/Video/2005/Forza Motorsport.yml	3db01eea
+Games/Video/2005/Half-Life 2 Lost Coast.yml	ffffa7f5
 Games/Video/2005/Need for Speed Most Wanted.yml	3c50e68a
 Games/Video/2005/Quake 4.yml	5c3bb3d8
+Games/Video/2006/Half-Life 2 Episode One.yml	c2ff4e00
 Games/Video/2006/Need for Speed Carbon.yml	4cee55fa
 Games/Video/2006/Saints Row.yml	5d7b0950
 Games/Video/2006/The Elder Scrolls IV Oblivion.yml	726230aa
@@ -663,6 +671,7 @@ Games/Video/2007/Assassin's Creed.yml	eb34d2ff
 Games/Video/2007/Enemy Territory Quake Wars.yml	221a2a85
 Games/Video/2007/Final Fantasy Tactics The War of the Lions.yml	578167f2
 Games/Video/2007/Forza Motorsport 2.yml	3d9379fc
+Games/Video/2007/Half-Life 2 Episode Two.yml	ccaf61b9
 Games/Video/2007/Halo 3.yml	5f7ce5d9
 Games/Video/2007/Need for Speed ProStreet.yml	7e8104a6
 Games/Video/2007/Portal.yml	93f8a813
@@ -670,7 +679,8 @@ Games/Video/2007/The Witcher.yml	877cfa79
 Games/Video/2008/Assassin's Creed Altair's Chronicles.yml	ed415af6
 Games/Video/2008/Braid.yml	f468829
 Games/Video/2008/Dead Space.yml	12bc3e2
-Games/Video/2008/Fable II.yml	dc3a6558
+Games/Video/2008/Fable II Pub Games.yml	46b59cd0
+Games/Video/2008/Fable II.yml	472cf9aa
 Games/Video/2008/Grand Theft Auto IV.yml	6de0a675
 Games/Video/2008/Mirror's Edge.yml	bc4c60f0
 Games/Video/2008/Need for Speed Undercover.yml	7a4dd3c9
@@ -686,6 +696,7 @@ Games/Video/2009/Wolfenstein.yml	10c7c79a
 Games/Video/2010/Alan Wake.yml	f3318996
 Games/Video/2010/Assassin's Creed Brotherhood.yml	c22be7c0
 Games/Video/2010/Assassin's Creed Project Legacy.yml	e5f1b93f
+Games/Video/2010/Fable III.yml	99db614
 Games/Video/2010/Need for Speed Hot Pursuit.yml	89828059
 Games/Video/2010/Need for Speed World.yml	8bf4ce63
 Games/Video/2010/Quake Live.yml	d5d801ab
@@ -696,6 +707,7 @@ Games/Video/2011/Assassin's Creed Revelations.yml	8297b341
 Games/Video/2011/Battlefield 3.yml	ea21bc9e
 Games/Video/2011/Dead Space 2.yml	4e93fe4d
 Games/Video/2011/Driver San Francisco.yml	576333da
+Games/Video/2011/Fable Coin Golf.yml	ff204c50
 Games/Video/2011/Forza Motorsport 4.yml	c621bbbd
 Games/Video/2011/L.A. Noire.yml	7ae94d8a
 Games/Video/2011/Need for Speed The Run.yml	85c105f5
@@ -707,6 +719,8 @@ Games/Video/2011/The Witcher 2 Assassins of Kings.yml	eded2092
 Games/Video/2012/Assassin's Creed III Liberation.yml	35d80b85
 Games/Video/2012/Assassin's Creed III.yml	dc51f58a
 Games/Video/2012/Darksiders II.yml	9300675e
+Games/Video/2012/Fable Heroes.yml	d18a4e33
+Games/Video/2012/Fable The Journey.yml	3604ed4a
 Games/Video/2012/Fez.yml	f8b93d5d
 Games/Video/2012/Forza Horizon.yml	3c90d59e
 Games/Video/2012/Hotline Miami.yml	ea21165c
@@ -736,6 +750,7 @@ Games/Video/2014/Assassin's Creed Freedom Cry.yml	5642ecc0
 Games/Video/2014/Assassin's Creed Memories.yml	54867d57
 Games/Video/2014/Assassin's Creed Rogue.yml	c675563d
 Games/Video/2014/Assassin's Creed Unity.yml	d2b8ec8c
+Games/Video/2014/Fable Anniversary.yml	e0510f16
 Games/Video/2014/Forza Horizon 2.yml	99ffa1d5
 Games/Video/2014/Sunset Overdrive.yml	a4078230
 Games/Video/2014/The Binding of Isaac Rebirth.yml	b6a3c3e9
@@ -781,6 +796,7 @@ Games/Video/2017/The Elder Scrolls Legends.yml	2286d0bb
 Games/Video/2018/Assassin's Creed Odyssey.yml	a1705a2d
 Games/Video/2018/Assassin's Creed Rebellion.yml	10e9e630
 Games/Video/2018/Detroit Become Human.yml	288ca4a3
+Games/Video/2018/Fable Fortune.yml	2de0424d
 Games/Video/2018/Forza Horizon 4.yml	3bf20b2c
 Games/Video/2018/Gris.yml	f1370445
 Games/Video/2018/Gwent The Witcher Card Game.yml	aa38f399
@@ -803,7 +819,7 @@ Games/Video/2020/Cyberpunk 2077.yml	ca416b1d
 Games/Video/2020/Desperados III.yml	221a606e
 Games/Video/2020/Doom Eternal.yml	df6619d1
 Games/Video/2020/Hades.yml	a47c7e41
-Games/Video/2020/Half-Life Alyx.yml	6ce5a42d
+Games/Video/2020/Half-Life Alyx.yml	504e565d
 Games/Video/2020/Jets'n'Guns 2.yml	ffe21ad0
 Games/Video/2020/One-Punch Man A Hero Nobody Knows.yml	27da525
 Games/Video/2020/The Elder Scrolls Blades.yml	11d45440
@@ -865,9 +881,12 @@ Games/Video/2026/Marathon.yml	97f2140
 Games/Video/2026/Pragmata.yml	fedf4906
 Games/Video/2026/Resident Evil Requiem.yml	5190d343
 Games/Video/2026/Saros.yml	10d30ed6
+Games/Video/2027/Fable.yml	71ade44a
 Games/Video/Series/Assassin's Creed.yml	3db3688f
 Games/Video/Series/Baldur's Gate.yml	958def3a
+Games/Video/Series/Fable.yml	3ea29d52
 Games/Video/Series/Forza.yml	adccd450
+Games/Video/Series/Half-Life.yml	c585a68a
 Games/Video/Series/Jets'n'Guns.yml	9fbc81ec
 Games/Video/Series/Need for Speed.yml	aa8fc628
 Games/Video/Series/Quake.yml	9b2a0c89
@@ -2536,6 +2555,7 @@ People/Ben Affleck.yml	41a3d6fa
 People/Ben Burtt.yml	40cce52c
 People/Ben Chaplin.yml	85d6be3f
 People/Ben Davis.yml	702e5360
+People/Ben Huskins.yml	593a8ee
 People/Ben Kingsley.yml	fd218955
 People/Ben Kutchins.yml	81461191
 People/Ben Matthews.yml	3bcdd9dc
@@ -3037,6 +3057,7 @@ People/Deirdre O'Connell.yml	68f7ce4c
 People/Delroy Lindo.yml	ad36a49b
 People/Demetri Goritsas.yml	e5e75b61
 People/Demi Moore.yml	416755d8
+People/Dene Carter.yml	9ef68341
 People/Denis Lavant.yml	d25ec77e
 People/Denis O'Hare.yml	ec89506e
 People/Denis Villeneuve.yml	82a20040
@@ -3385,6 +3406,7 @@ People/Harry Gregson-Williams.yml	1c1ea082
 People/Harry Keramidas.yml	c91c93ac
 People/Harry Krueger.yml	aa851135
 People/Harry Melling.yml	9ec7d495
+People/Harry S. Robins.yml	5faa082f
 People/Harry Shum Jr..yml	f3f63ca2
 People/Harry Williams.yml	e6226b51
 People/Haruo Murata.yml	b71f1790
@@ -3529,6 +3551,7 @@ People/James Herbert.yml	9f36b0ba
 People/James Hong.yml	e4efea50
 People/James Horner.yml	d8fd86d8
 People/James Laxton.yml	9efae8cd
+People/James Leach.yml	75f5fa3b
 People/James M. Johnston.yml	17f84ee1
 People/James Mangold.yml	5654f907
 People/James Manos Jr..yml	c646d46d
@@ -4254,6 +4277,7 @@ People/Mark Strong.yml	250467d9
 People/Mark Wahlberg.yml	4283331e
 People/Mark Waters.yml	f79775df
 People/Mark Webber.yml	c38fe8ae
+People/Mark Webley.yml	c81cabe8
 People/Mark Williams.yml	5cc9a5ae
 People/Mark Yoshikawa.yml	fd480c17
 People/Marlon Brando.yml	21622223
@@ -4407,6 +4431,7 @@ People/Michael Rooker.yml	10e57509
 People/Michael Schur.yml	5e1f9f70
 People/Michael Seresin.yml	2998c07
 People/Michael Shannon.yml	e490ca4a
+People/Michael Shapiro.yml	959541d
 People/Michael Sheen.yml	e4a24067
 People/Michael Showalter.yml	730459f0
 People/Michael Slovis.yml	a79107e9
@@ -4763,6 +4788,7 @@ People/Randall Duk Kim.yml	63968e56
 People/Randall Einhorn.yml	6921c5f0
 People/Randall Emmett.yml	54e27343
 People/Randy Newman.yml	25e88b32
+People/Randy Pitchford.yml	a3a54a0b
 People/Randy Quaid.yml	4ad8b88d
 People/Randy Thom.yml	aec93c9
 People/Raoul Trujillo.yml	9f221142
@@ -5477,6 +5503,7 @@ People/Zlatko Burić.yml	3622028c
 People/Zoe Saldaña.yml	4a30fa2
 People/Zooey Deschanel.yml	77526873
 People/Zoë Kravitz.yml	715e0d8c
+People/Zoë Wanamaker.yml	c078c4a7
 People/Ágnes Hranitzky.yml	33fb5806
 People/Édgar Ramírez.yml	b1ca6f87
 People/Łukasz Żal.yml	27f72b
