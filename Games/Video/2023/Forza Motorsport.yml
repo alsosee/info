@@ -1,8 +1,14 @@
 name: Forza Motorsport
+description: >
+  Reboot of the Motorsport racing simulation series for Windows and Xbox Series
+  X/S, rebuilt around live-service progression, modern ForzaTech rendering, and
+  circuit racing with realistic cars and tracks.
+previous: Games/Video/2021/Forza Horizon 5
 genres:
   - racing
   - simulation
 released: 2023-10-10
+series: Forza
 website: http://www.forzamotorsport.net/
 wikipedia: https://en.wikipedia.org/wiki/Forza_Motorsport_(2023_video_game)
 publishers: Xbox Game Studios
