@@ -1,11 +1,27 @@
 name: Half-Life
-description: A theoretical physicist must escape from an underground research facility after a catastrophic experiment opens a portal to an alien dimension.
+description: >
+  A theoretical physicist must escape from the Black Mesa Research Facility after
+  a catastrophic experiment opens a portal to the alien dimension Xen.
 released: 1998-11-19
+series: Half-Life
 genres:
-  - First-person shooter
+  - first-person shooter
 wikipedia: https://en.wikipedia.org/wiki/Half-Life_(video_game)
 metacritic: https://www.metacritic.com/game/half-life/
-developers: Valve Corporation
+fandom: https://half-life.fandom.com/wiki/Half-Life
+ign: https://www.ign.com/games/half-life
+website: https://www.half-life.com/en/halflife
+steam: https://store.steampowered.com/app/70/HalfLife/
+developers: Valve
 publishers: Sierra Studios
 writers: Marc Laidlaw
 composers: Kelly Bailey
+characters:
+  - name: Gordon Freeman
+  - name: G-Man
+    actor: Michael Shapiro
+  - name: Barney Calhoun
+    actor: Michael Shapiro
+  - name: Isaac Kleiner
+    actor: Harry S. Robins
+  - name: Nihilanth

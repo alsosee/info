@@ -1,0 +1,22 @@
+name: "Half-Life: Decay"
+description: >
+  Cooperative PlayStation 2 expansion to Half-Life following Black Mesa scientists
+  Gina Cross and Colette Green during the resonance cascade.
+previous: Games/Video/2001/Half-Life Blue Shift
+released: 2001-11-14
+series: Half-Life
+genres:
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Half-Life:_Decay
+fandom: https://half-life.fandom.com/wiki/Half-Life:_Decay
+developers: Gearbox Software
+publishers: Sierra Studios
+writers:
+  - Marc Laidlaw
+  - Randy Pitchford
+characters:
+  - name: Gina Cross
+  - name: Colette Green
+  - name: Richard Keller
+  - name: Gordon Freeman
+  - name: Rosenberg

@@ -1,0 +1,19 @@
+name: "Half-Life 2: Lost Coast"
+description: >
+  Standalone Half-Life 2 technology showcase set on a coastal village, built to
+  demonstrate high-dynamic-range rendering and commentary features.
+previous: Games/Video/2004/Half-Life 2
+released: 2005-10-27
+series: Half-Life
+genres:
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Half-Life_2:_Lost_Coast
+fandom: https://half-life.fandom.com/wiki/Half-Life_2:_Lost_Coast
+steam: https://store.steampowered.com/app/340/HalfLife_2_Lost_Coast/
+developers: Valve
+publishers: Valve
+writers: Marc Laidlaw
+composers: Kelly Bailey
+characters:
+  - name: Gordon Freeman
+  - name: The Fisherman
