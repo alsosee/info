@@ -1,0 +1,30 @@
+name: "Assassin's Creed Shadows"
+description: >
+  Action role-playing game set in late Sengoku-period Japan, following shinobi
+  Naoe and samurai Yasuke through intertwined approaches to stealth and combat.
+previous: Games/Video/2023/Assassin's Creed Nexus VR
+released: 2025-03-20
+series: Assassin's Creed
+genres:
+  - action role-playing
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Assassin%27s_Creed_Shadows
+metacritic: https://www.metacritic.com/game/assassins-creed-shadows/
+fandom: https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed:_Shadows
+developers: Ubisoft Quebec
+publishers: Ubisoft
+directors: Jonathan Dumont
+writers:
+  - Ryan Galletta
+  - Russell Lees
+composers:
+  - The Flight
+  - TEKE::TEKE
+characters:
+  - name: Naoe
+    actor: Masumi Tsunoda
+  - name: Yasuke
+    actor: Tongayi Chirisa
+  - name: Fujibayashi Nagato
+  - name: Oda Nobunaga
+  - name: Momochi Sandayu

@@ -1,0 +1,18 @@
+name: "Assassin's Creed II: Discovery"
+description: >
+  Side-scrolling handheld game starring Ezio during the Spanish Inquisition,
+  focused on stealth, platforming, and rescuing imprisoned Assassins.
+previous: Games/Video/2009/Assassin's Creed Bloodlines
+released: 2009-11-17
+series: Assassin's Creed
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Assassin%27s_Creed_II:_Discovery
+developers: Griptonite Games
+publishers: Ubisoft
+characters:
+  - name: Ezio Auditore da Firenze
+  - name: Antonio de Magianis
+  - name: Luis de Santángel
+  - name: Tomás de Torquemada

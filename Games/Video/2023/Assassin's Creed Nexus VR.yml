@@ -1,0 +1,23 @@
+name: "Assassin's Creed Nexus VR"
+description: >
+  Virtual reality action-adventure game for Meta Quest, letting players embody
+  Ezio, Connor, and Kassandra in first-person Assassin missions.
+previous: Games/Video/2023/Assassin's Creed Mirage
+released: 2023-11-16
+series: Assassin's Creed
+genres:
+  - action-adventure
+  - virtual reality
+wikipedia: https://en.wikipedia.org/wiki/Assassin%27s_Creed_Nexus_VR
+metacritic: https://www.metacritic.com/game/assassins-creed-nexus-vr/
+fandom: https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed_Nexus_VR
+developers: Ubisoft Red Storm
+publishers: Ubisoft
+characters:
+  - name: Ezio Auditore da Firenze
+    actor: Roger Craig Smith
+  - name: Ratonhnhaké:ton
+    actor: Noah Watts
+  - name: Kassandra
+    actor: Melissanthi Mahut
+  - name: Dominika Wilk

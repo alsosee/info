@@ -1,0 +1,18 @@
+name: "Assassin's Creed: Recollection"
+description: >
+  iOS strategy card game built around collecting characters, locations, and events
+  from the Assassin's Creed universe.
+previous: Games/Video/2011/Assassin's Creed Revelations
+released: 2011
+series: Assassin's Creed
+genres:
+  - strategy
+  - card game
+wikipedia: https://en.wikipedia.org/wiki/Assassin%27s_Creed#Assassin's_Creed:_Recollection
+developers: Ubisoft
+publishers: Ubisoft
+characters:
+  - name: Altaïr Ibn-La'Ahad
+  - name: Ezio Auditore da Firenze
+  - name: Niccolò Machiavelli
+  - name: Cesare Borgia

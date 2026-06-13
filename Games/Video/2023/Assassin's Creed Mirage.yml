@@ -1,0 +1,29 @@
+name: "Assassin's Creed Mirage"
+description: >
+  Stealth-focused action-adventure game set in 9th-century Baghdad, following
+  Basim Ibn Ishaq before the events of Assassin's Creed Valhalla.
+previous: Games/Video/2020/Assassin's Creed Valhalla
+released: 2023-10-05
+series: Assassin's Creed
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Assassin%27s_Creed_Mirage
+metacritic: https://www.metacritic.com/game/assassins-creed-mirage/
+fandom: https://assassinscreed.fandom.com/wiki/Assassin%27s_Creed:_Mirage
+developers: Ubisoft Bordeaux
+publishers: Ubisoft
+directors: Stéphane Boudon
+writers: Sarah Beaulieu
+composers: Brendan Angelides
+characters:
+  - name: Basim Ibn Ishaq
+    actor: Lee Majdoub
+  - name: Roshan
+    actor: Shohreh Aghdashloo
+  - name: Nehal
+    actor: Jan Kamar
+  - name: Ali ibn Muhammad
+    actor: Aladeen Tawfeek
+  - name: Fuladh
+    actor: Laith Nakli
