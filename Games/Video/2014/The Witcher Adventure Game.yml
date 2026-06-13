@@ -1,0 +1,31 @@
+name: The Witcher Adventure Game
+description: >
+  Digital adaptation of the board game where Geralt, Triss, Dandelion, and Yarpen
+  travel the Continent completing quests, fighting monsters, and collecting resources.
+based_on:
+  - Books/1993/The Last Wish
+  - Books/1992/Sword of Destiny
+  - Books/1994/Blood of Elves
+  - Books/1995/Time of Contempt
+  - Books/1996/Baptism of Fire
+  - Books/1997/The Tower of the Swallow
+  - Books/1999/The Lady of the Lake
+previous: Games/Video/2012/The Witcher Versus
+released: 2014-11-27
+series: The Witcher
+genres:
+  - board game
+  - strategy
+wikipedia: https://en.wikipedia.org/wiki/The_Witcher_(video_game_series)
+fandom: https://witcher.fandom.com/wiki/The_Witcher_Adventure_Game
+steam: https://store.steampowered.com/app/303800/The_Witcher_Adventure_Game/
+developers:
+  - CD Projekt Red
+  - Can Explode Games
+publishers: CD Projekt
+designers: Ignacy Trzewiczek
+characters:
+  - name: Geralt of Rivia
+  - name: Triss Merigold
+  - name: Dandelion
+  - name: Yarpen Zigrin

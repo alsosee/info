@@ -1,0 +1,28 @@
+name: The Witcher Battle Arena
+description: >
+  Mobile multiplayer online battle arena spin-off featuring characters from the
+  Witcher universe in short team-based matches.
+based_on:
+  - Books/1993/The Last Wish
+  - Books/1992/Sword of Destiny
+  - Books/1994/Blood of Elves
+  - Books/1995/Time of Contempt
+  - Books/1996/Baptism of Fire
+  - Books/1997/The Tower of the Swallow
+  - Books/1999/The Lady of the Lake
+previous: Games/Video/2014/The Witcher Adventure Game
+released: 2015-01-22
+series: The Witcher
+genres:
+  - multiplayer online battle arena
+wikipedia: https://en.wikipedia.org/wiki/The_Witcher_Battle_Arena
+fandom: https://witcher.fandom.com/wiki/The_Witcher_Battle_Arena
+developers: Fuero Games
+publishers: CD Projekt
+characters:
+  - name: Geralt of Rivia
+  - name: Letho of Gulet
+  - name: Philippa Eilhart
+  - name: Zoltan Chivay
+  - name: Iorveth
+  - name: Saskia

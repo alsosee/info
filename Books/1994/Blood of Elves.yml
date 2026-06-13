@@ -1,0 +1,21 @@
+name: Blood of Elves
+description: >
+  First novel in The Witcher Saga, following Ciri's training at Kaer Morhen and
+  the political forces seeking to control her after the fall of Cintra.
+previous: Books/1992/Sword of Destiny
+released: 1994
+series: The Witcher
+genres:
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Blood_of_Elves
+goodreads: https://www.goodreads.com/book/show/6043781-blood-of-elves
+authors: Andrzej Sapkowski
+publishers: SuperNowa
+characters:
+  - name: Geralt of Rivia
+  - name: Ciri
+  - name: Yennefer of Vengerberg
+  - name: Triss Merigold
+  - name: Dandelion
+  - name: Vesemir
+  - name: Emhyr var Emreis

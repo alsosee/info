@@ -1,0 +1,26 @@
+name: Roach Race
+description: >
+  Side-scrolling arcade spin-off from the Witcher universe, starring Geralt's
+  horse Roach in a standalone version of the minigame from Cyberpunk 2077.
+based_on:
+  - Books/1993/The Last Wish
+  - Books/1992/Sword of Destiny
+  - Books/1994/Blood of Elves
+  - Books/1995/Time of Contempt
+  - Books/1996/Baptism of Fire
+  - Books/1997/The Tower of the Swallow
+  - Books/1999/The Lady of the Lake
+  - Books/2013/Season of Storms
+previous: Games/Video/2021/The Witcher Monster Slayer
+released: 2022-09-06
+series: The Witcher
+genres:
+  - platform
+  - arcade
+wikipedia: https://en.wikipedia.org/wiki/The_Witcher_(video_game_series)
+fandom: https://witcher.fandom.com/wiki/Roach_Race
+developers: CD Projekt Red
+publishers: CD Projekt
+characters:
+  - name: Roach
+  - name: Geralt of Rivia

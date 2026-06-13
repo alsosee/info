@@ -1,0 +1,20 @@
+name: Sword of Destiny
+description: >
+  Short story collection that deepens Geralt's relationship with Yennefer and
+  introduces his bond with Ciri through stories about choice, destiny, and war.
+previous: Books/1993/The Last Wish
+released: 1992
+series: The Witcher
+genres:
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Sword_of_Destiny
+goodreads: https://www.goodreads.com/book/show/25454056-sword-of-destiny
+authors: Andrzej Sapkowski
+publishers: SuperNowa
+characters:
+  - name: Geralt of Rivia
+  - name: Yennefer of Vengerberg
+  - name: Ciri
+  - name: Dandelion
+  - name: Borch Three Jackdaws
+  - name: Eithné

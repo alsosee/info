@@ -1,0 +1,29 @@
+name: The Witcher
+description: >
+  Fantasy video game series developed primarily by CD Projekt Red, based on
+  Andrzej Sapkowski's Witcher books and continuing Geralt of Rivia's story in
+  non-canonical sequels and spin-offs.
+based_on:
+  - Books/1993/The Last Wish
+  - Books/1992/Sword of Destiny
+  - Books/1994/Blood of Elves
+  - Books/1995/Time of Contempt
+  - Books/1996/Baptism of Fire
+  - Books/1997/The Tower of the Swallow
+  - Books/1999/The Lady of the Lake
+  - Books/2013/Season of Storms
+  - Books/2024/Crossroads of Ravens
+genres:
+  - action role-playing
+released: 2007-10-26
+wikipedia: https://en.wikipedia.org/wiki/The_Witcher_(video_game_series)
+fandom: https://witcher.fandom.com/wiki/The_Witcher_Wiki
+website: https://www.thewitcher.com
+developers:
+  - CD Projekt Red
+  - Fuero Games
+  - Spokko
+publishers:
+  - CD Projekt
+  - Atari
+  - Bandai Namco Entertainment

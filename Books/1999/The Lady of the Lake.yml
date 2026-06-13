@@ -1,0 +1,21 @@
+name: The Lady of the Lake
+description: >
+  Final Witcher Saga novel, bringing Ciri, Geralt, and Yennefer through the
+  consequences of war, prophecy, and the Wild Hunt across multiple worlds.
+previous: Books/1997/The Tower of the Swallow
+released: 1999
+series: The Witcher
+genres:
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Lady_of_the_Lake_(Sapkowski_novel)
+goodreads: https://www.goodreads.com/book/show/18192875-the-lady-of-the-lake
+authors: Andrzej Sapkowski
+publishers: SuperNowa
+characters:
+  - name: Geralt of Rivia
+  - name: Ciri
+  - name: Yennefer of Vengerberg
+  - name: Dandelion
+  - name: Emhyr var Emreis
+  - name: Eredin Bréacc Glas
+  - name: Nimue

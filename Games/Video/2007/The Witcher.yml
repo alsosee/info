@@ -1,0 +1,48 @@
+name: The Witcher
+description: >
+  Action role-playing game set after the Witcher books, following Geralt of Rivia
+  after he returns with amnesia and becomes entangled in a conflict over stolen witcher secrets.
+based_on:
+  - Books/1993/The Last Wish
+  - Books/1992/Sword of Destiny
+  - Books/1994/Blood of Elves
+  - Books/1995/Time of Contempt
+  - Books/1996/Baptism of Fire
+  - Books/1997/The Tower of the Swallow
+  - Books/1999/The Lady of the Lake
+released: 2007-10-26
+series: The Witcher
+genres:
+  - action role-playing
+wikipedia: https://en.wikipedia.org/wiki/The_Witcher_(video_game)
+metacritic: https://www.metacritic.com/game/the-witcher/
+fandom: https://witcher.fandom.com/wiki/The_Witcher_(game)
+ign: https://www.ign.com/games/the-witcher
+website: https://www.thewitcher.com/us/en/witcher1
+steam: https://store.steampowered.com/app/20900/The_Witcher_Enhanced_Edition_Directors_Cut/
+gog: https://www.gog.com/en/game/the_witcher
+developers: CD Projekt Red
+publishers:
+  - CD Projekt
+  - Atari
+directors: Jacek Brzeziński
+producers: Maciej Miąsik
+designers: Michał Madej
+writers:
+  - Artur Ganszyniec
+  - Sebastian Stępień
+  - Marcin Blacha
+composers:
+  - Adam Skorupa
+  - Paweł Błaszczak
+characters:
+  - name: Geralt of Rivia
+    actor: Doug Cockle
+  - name: Triss Merigold
+    actor: Jaimi Barbakoff
+  - name: Shani
+  - name: Dandelion
+    actor: John Schwab
+  - name: Zoltan Chivay
+  - name: Alvin
+  - name: Jacques de Aldersberg
