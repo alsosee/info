@@ -1,17 +1,18 @@
-name: Fable
+name: "Fable: The Lost Chapters"
 description: >
-  Action role-playing game set in the fantasy land of Albion, where a hero's
-  quests, choices, and moral alignment alter their abilities, appearance, and
-  reputation over the course of the story.
-released: 2004-09-14
+  Expanded version of Fable with additional quests, regions, enemies, weapons,
+  spells, armor, and an extended final act after the original ending.
+previous: Games/Video/2004/Fable
+released: 2005-09-20
 series: Fable
 genres:
   - action role-playing
   - fantasy
 wikipedia: https://en.wikipedia.org/wiki/Fable_(2004_video_game)
-metacritic: https://www.metacritic.com/game/fable-2004/
-fandom: https://fable.fandom.com/wiki/Fable
-ign: https://www.ign.com/games/fable
+metacritic: https://www.metacritic.com/game/fable-the-lost-chapters/
+fandom: https://fable.fandom.com/wiki/Fable:_The_Lost_Chapters
+ign: https://www.ign.com/games/fable-the-lost-chapters
+steam: https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters/
 developers:
   - Big Blue Box Studios
   - Lionhead Studios
@@ -33,8 +34,6 @@ characters:
   - name: Guildmaster
   - name: Jack of Blades
   - name: Briar Rose
-  - name: Whisper
-  - name: Thunder
-  - name: Twinblade
-  - name: Lady Grey
   - name: Scythe
+  - name: The Oracle
+  - name: The Snowspire Chief

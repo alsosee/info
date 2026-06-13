@@ -1,0 +1,23 @@
+name: Fable Fortune
+description: >
+  Free-to-play digital collectible card game set in Albion, built around hero
+  decks, morality choices, cooperative boss battles, and Fable-themed cards.
+previous: Games/Video/2014/Fable Anniversary
+released: 2018-02-22
+series: Fable
+genres:
+  - card game
+  - strategy
+wikipedia: https://en.wikipedia.org/wiki/Fable_Fortune
+fandom: https://fable.fandom.com/wiki/Fable_Fortune
+developers:
+  - Flaming Fowl Studios
+  - Mediatonic
+publishers: Mediatonic
+characters:
+  - name: Alchemist
+  - name: Gravedigger
+  - name: Knight
+  - name: Merchant
+  - name: Prophet
+  - name: Shapeshifter
