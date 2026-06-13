@@ -1,0 +1,33 @@
+name: Quake 4
+description: >
+  First-person shooter sequel to Quake II, following Matthew Kane and Rhino Squad
+  during a second human invasion of the Strogg homeworld.
+previous: Games/Video/1999/Quake III Arena
+released: 2005-10-18
+series: Quake
+genres:
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Quake_4
+metacritic: https://www.metacritic.com/game/quake-4/
+fandom: https://quake.fandom.com/wiki/Quake_4
+ign: https://www.ign.com/games/quake-4
+steam: https://store.steampowered.com/app/2210/Quake_4/
+developers: Raven Software
+publishers: Activision
+directors: Eric Biessman
+designers: Jim Hughes
+programmers:
+  - Rick Johnson
+  - Jeffrey Newquist
+artists: Kevin Long
+composers:
+  - Zachary Quarles
+  - Kevin Schilder
+characters:
+  - name: Matthew Kane
+  - name: Corporal Voss
+  - name: Lieutenant Voss
+  - name: Sledge
+  - name: Strauss
+  - name: Bidwell
+  - name: Makron

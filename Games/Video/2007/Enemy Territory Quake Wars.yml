@@ -1,0 +1,37 @@
+name: "Enemy Territory: Quake Wars"
+description: >
+  Class-based multiplayer first-person shooter set before Quake II, pitting the
+  human Global Defense Force against the Strogg invasion across objective-driven maps.
+previous: Games/Video/2005/Quake 4
+released: 2007-09-28
+series: Quake
+genres:
+  - first-person shooter
+  - real-time strategy
+wikipedia: https://en.wikipedia.org/wiki/Enemy_Territory:_Quake_Wars
+metacritic: https://www.metacritic.com/game/enemy-territory-quake-wars/
+fandom: https://quake.fandom.com/wiki/Enemy_Territory:_Quake_Wars
+ign: https://www.ign.com/games/enemy-territory-quake-wars
+steam: https://store.steampowered.com/app/10000/Enemy_Territory_Quake_Wars/
+developers: Splash Damage
+publishers: Activision
+producers:
+  - Kevin Cloud
+  - Neil Postlethwaite
+directors: Paul Wedgwood
+designers:
+  - Matt Wilson
+  - Mark Fry
+programmers:
+  - John Carmack
+  - Arnout van Meer
+artists:
+  - Richard Jolly
+  - Francis Hobbins
+  - Peter Boehme
+composers: Bill Brown
+characters:
+  - name: Global Defense Force Soldier
+  - name: Strogg Aggressor
+  - name: GDF Field Ops
+  - name: Strogg Technician

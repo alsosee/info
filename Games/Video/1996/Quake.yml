@@ -5,7 +5,8 @@ description: >
   by a hostile force codenamed "Quake." Notable for its dark fantasy atmosphere
   inspired by H. P. Lovecraft, the game was a technological breakthrough as one
   of the first to feature a fully real-time 3D rendering engine.
-released: 1996-07-22
+released: 1996-06-22
+series: Quake
 genres:
   - first-person shooter
 rating: M
@@ -32,4 +33,4 @@ artists:
 composers: Trent Reznor
 characters:
   - name: Ranger
-    voice: Trent Reznor
+    actor: Trent Reznor

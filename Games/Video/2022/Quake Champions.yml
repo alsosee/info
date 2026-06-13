@@ -1,0 +1,41 @@
+name: Quake Champions
+description: >
+  Free-to-play arena first-person shooter that expands Quake's multiplayer format
+  with distinct champions, active abilities, and characters drawn from id Software games.
+previous: Games/Video/2010/Quake Live
+released: 2022-08-18
+series: Quake
+genres:
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Quake_Champions
+metacritic: https://www.metacritic.com/game/quake-champions/
+fandom: https://quake.fandom.com/wiki/Quake_Champions
+website: https://quake.bethesda.net
+steam: https://store.steampowered.com/app/611500/Quake_Champions/
+developers:
+  - id Software
+  - Saber Interactive
+publishers: Bethesda Softworks
+directors: Tim Willits
+producers:
+  - Brandon Riffe
+  - Matthew Charles
+designers: Adam Pyle
+programmers: Billy Ethan Khan
+artists: Shinichiro Hara
+composers:
+  - Chris Vrenna
+  - Andrew Hulshult
+characters:
+  - name: Ranger
+  - name: Nyx
+  - name: Scalebearer
+  - name: Anarki
+  - name: Slash
+  - name: Galena
+  - name: Clutch
+  - name: Visor
+  - name: Sorlag
+  - name: Doom Slayer
+  - name: B.J. Blazkowicz
+  - name: Strogg & Peeker

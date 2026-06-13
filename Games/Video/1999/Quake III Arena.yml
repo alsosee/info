@@ -5,6 +5,7 @@ description: >
   campaign with matches against computer-controlled bots.
 previous: Games/Video/1997/Quake II
 released: 1999-12-02
+series: Quake
 genres:
   - first-person shooter
 wikipedia: https://en.wikipedia.org/wiki/Quake_III_Arena
@@ -37,7 +38,7 @@ composers:
   - Bill Leeb
 characters:
   - name: Announcer
-    voice: Christian Antkow
+    actor: Christian Antkow
   - name: Sarge
   - name: Crash
   - name: Xaero

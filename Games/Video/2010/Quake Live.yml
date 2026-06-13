@@ -1,0 +1,33 @@
+name: Quake Live
+description: >
+  Online arena first-person shooter based on Quake III Arena, originally launched
+  through a browser plug-in and later relaunched as a standalone Steam title.
+previous: Games/Video/2007/Enemy Territory Quake Wars
+released: 2010-08-06
+series: Quake
+genres:
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Quake_Live
+metacritic: https://www.metacritic.com/game/quake-live/
+fandom: https://quake.fandom.com/wiki/Quake_Live
+steam: https://store.steampowered.com/app/282440/Quake_Live/
+developers: id Software
+publishers: Bethesda Softworks
+directors: Tim Willits
+programmers:
+  - Adam Pyle
+  - Mike Rubits
+characters:
+  - name: Sarge
+  - name: Crash
+  - name: Anarki
+  - name: Bitterman
+  - name: Doom
+  - name: Hunter
+  - name: Keel
+  - name: Major
+  - name: Orbb
+  - name: Ranger
+  - name: Slash
+  - name: Visor
+  - name: Xaero
