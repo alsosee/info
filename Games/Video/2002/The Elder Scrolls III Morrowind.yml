@@ -15,6 +15,8 @@ ign: https://www.ign.com/games/the-elder-scrolls-iii-morrowind
 website: https://elderscrolls.bethesda.net/en/morrowind
 spotify: https://open.spotify.com/album/6B2humRHk1tT1onqXo6nyq
 trailer: https://www.youtube.com/watch?v=CljX4P8KfbE
+previous: Games/Video/1998/The Elder Scrolls Adventures Redguard
+series: The Elder Scrolls
 developers: Bethesda Game Studios
 publishers: Bethesda Softworks
 producers: Todd Howard
@@ -26,12 +28,12 @@ writers:
 composers: Jeremy Soule
 characters:
   - name: Dagoth Ur
-    voice: Jeff Baker
+    actor: Jeff Baker
   - name: Vivec
-    voice: Jeff Baker
+    actor: Jeff Baker
   - name: Caius Cosades
-    voice: Jeff Baker
+    actor: Jeff Baker
   - name: Azura
-    voice: Lynda Carter
+    actor: Lynda Carter
   - name: Uriel Septim VII
-    voice: Vaughan McBride
+    actor: Vaughan McBride

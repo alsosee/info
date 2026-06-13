@@ -1,0 +1,35 @@
+name: "The Elder Scrolls IV: Oblivion"
+description: >
+  Open-world action role-playing game set in Cyrodiil, where the Hero of Kvatch
+  helps Martin Septim stop Mehrunes Dagon and close the Oblivion gates.
+previous: Games/Video/2004/The Elder Scrolls Travels Shadowkey
+released: 2006-03-20
+series: The Elder Scrolls
+genres:
+  - action role-playing
+  - open world
+wikipedia: https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion
+metacritic: https://www.metacritic.com/game/the-elder-scrolls-iv-oblivion/
+fandom: https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_IV:_Oblivion
+ign: https://www.ign.com/games/the-elder-scrolls-iv-oblivion
+website: https://elderscrolls.bethesda.net/en/oblivion
+steam: https://store.steampowered.com/app/22330/The_Elder_Scrolls_IV_Oblivion_Game_of_the_Year_Edition/
+developers: Bethesda Game Studios
+publishers:
+  - Bethesda Softworks
+  - 2K
+directors: Todd Howard
+designers: Ken Rolston
+writers: Emil Pagliarulo
+composers: Jeremy Soule
+characters:
+  - name: Martin Septim
+    actor: Sean Bean
+  - name: Uriel Septim VII
+    actor: Patrick Stewart
+  - name: Mehrunes Dagon
+    actor: Terence Stamp
+  - name: Baurus
+    actor: Michael Mack
+  - name: Mankar Camoran
+  - name: The Hero of Kvatch

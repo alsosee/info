@@ -13,6 +13,7 @@ metacritic: https://www.metacritic.com/game/the-elder-scrolls-chapter-ii-daggerf
 fandom: https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls_II:_Daggerfall
 website: https://elderscrolls.bethesda.net/en/daggerfall
 steam: https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/
+previous: Games/Video/1994/The Elder Scrolls Arena
 series: The Elder Scrolls
 developers: Bethesda Softworks
 publishers: Bethesda Softworks
@@ -24,3 +25,13 @@ designers:
 composers:
   - Eric Heberling
   - Andy Warr
+characters:
+  - name: Uriel Septim VII
+  - name: Lysandus
+  - name: Mynisera
+  - name: Gothryd
+  - name: Mannimarco
+  - name: The Underking
+  - name: Nulfaga
+  - name: Gortwog gro-Nagorm
+  - name: The Agent

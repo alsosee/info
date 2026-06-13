@@ -1,0 +1,20 @@
+name: "The Elder Scrolls: Castles"
+description: >
+  Management game set in The Elder Scrolls universe, where players build and
+  govern a castle dynasty across generations of rulers, subjects, and quests.
+previous: Games/Video/2020/The Elder Scrolls Blades
+released: 2024-09-10
+series: The Elder Scrolls
+genres:
+  - simulation
+  - management
+wikipedia: https://en.wikipedia.org/wiki/The_Elder_Scrolls:_Castles
+fandom: https://elderscrolls.fandom.com/wiki/The_Elder_Scrolls:_Castles
+website: https://elderscrolls.bethesda.net/en/castles
+developers: Bethesda Game Studios
+publishers: Bethesda Softworks
+characters:
+  - name: The Ruler
+  - name: Ysabel
+  - name: Ulfric Stormcloak
+  - name: Cicero
