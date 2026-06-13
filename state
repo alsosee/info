@@ -224,6 +224,7 @@ Companies/Frenesy Film Company.yml	691981dc
 Companies/Fuero Games.yml	746d9b2d
 Companies/GK Films.yml	d515d6c
 Companies/GKIDS.yml	87a9d6df
+Companies/GT Interactive.yml	26b78f45
 Companies/Gameloft.yml	fd66c8eb
 Companies/Gary Sanchez Productions.yml	830d2673
 Companies/Gaumont Buena Vista International.yml	a24e8279
@@ -424,6 +425,7 @@ Companies/Rockstar North.yml	da971812
 Companies/Rockstar San Diego.yml	55af2ca
 Companies/Rogue Pictures.yml	7a5c513d
 Companies/SF Studios.yml	9b83a9b2
+Companies/Saber Interactive.yml	d507a2ef
 Companies/Sailor Bear.yml	a368287e
 Companies/Samuel Goldwyn Films.yml	b50f39ea
 Companies/Sandrew Metronome.yml	1028b972
@@ -454,6 +456,7 @@ Companies/Sony Pictures Entertainment Japan.yml	3ceafe77
 Companies/Sony Pictures Releasing International.yml	ea02f6e9
 Companies/Sony Pictures Releasing.yml	d61c0ad6
 Companies/Sony Pictures.yml	713da00e
+Companies/Splash Damage.yml	41ccfa59
 Companies/Spokko.yml	dbbf3d52
 Companies/Square Electronic Arts.yml	ff89e3f2
 Companies/Square Enix.yml	d3baa21b
@@ -587,7 +590,7 @@ Games/Video/1994/The Need for Speed.yml	f347592
 Games/Video/1994/X-COM UFO Defense.yml	f8cacf64
 Games/Video/1995/Tekken 2.yml	2d839c9b
 Games/Video/1996/Broken Sword The Shadow of the Templars.yml	305eaa7c
-Games/Video/1996/Quake.yml	7f00b546
+Games/Video/1996/Quake.yml	4eb2fd34
 Games/Video/1996/The Elder Scrolls II Daggerfall.yml	4b06d361
 Games/Video/1996/The Settlers II Veni, Vidi, Vici.yml	2b55e514
 Games/Video/1996/Tomb Raider.yml	62bab158
@@ -595,7 +598,7 @@ Games/Video/1997/An Elder Scrolls Legend Battlespire.yml	8a2f700d
 Games/Video/1997/Fallout.yml	8b4f5cc8
 Games/Video/1997/Grand Theft Auto.yml	15076bc1
 Games/Video/1997/Need for Speed II.yml	8a3ea4b7
-Games/Video/1997/Quake II.yml	1b4f79a2
+Games/Video/1997/Quake II.yml	42fa07c
 Games/Video/1997/Tekken 3.yml	7e6ab979
 Games/Video/1998/ESP Ra.De..yml	f58e8638
 Games/Video/1998/Fallout 2.yml	e2ebf6e1
@@ -609,7 +612,7 @@ Games/Video/1998/Xenogears.yml	cf823745
 Games/Video/1999/EverQuest.yml	42edaf34
 Games/Video/1999/Grand Theft Auto 2.yml	2b75ccfa
 Games/Video/1999/Need for Speed High Stakes.yml	38e6c6b5
-Games/Video/1999/Quake III Arena.yml	e68ce9f4
+Games/Video/1999/Quake III Arena.yml	fbd9f81b
 Games/Video/1999/Silent Hill.yml	c45a2332
 Games/Video/1999/Street Fighter III 3rd Strike.yml	46e3533c
 Games/Video/1999/Vib-Ribbon.yml	de24276b
@@ -652,10 +655,12 @@ Games/Video/2004/The Elder Scrolls Travels Shadowkey.yml	70a64e55
 Games/Video/2005/Devil May Cry 3 Dantes Awakening.yml	ea9112b2
 Games/Video/2005/Forza Motorsport.yml	3db01eea
 Games/Video/2005/Need for Speed Most Wanted.yml	3c50e68a
+Games/Video/2005/Quake 4.yml	5c3bb3d8
 Games/Video/2006/Need for Speed Carbon.yml	4cee55fa
 Games/Video/2006/Saints Row.yml	5d7b0950
 Games/Video/2006/The Elder Scrolls IV Oblivion.yml	726230aa
 Games/Video/2007/Assassin's Creed.yml	eb34d2ff
+Games/Video/2007/Enemy Territory Quake Wars.yml	221a2a85
 Games/Video/2007/Final Fantasy Tactics The War of the Lions.yml	578167f2
 Games/Video/2007/Forza Motorsport 2.yml	3d9379fc
 Games/Video/2007/Halo 3.yml	5f7ce5d9
@@ -683,6 +688,7 @@ Games/Video/2010/Assassin's Creed Brotherhood.yml	c22be7c0
 Games/Video/2010/Assassin's Creed Project Legacy.yml	e5f1b93f
 Games/Video/2010/Need for Speed Hot Pursuit.yml	89828059
 Games/Video/2010/Need for Speed World.yml	8bf4ce63
+Games/Video/2010/Quake Live.yml	d5d801ab
 Games/Video/2010/Red Dead Redemption.yml	e6ae37c9
 Games/Video/2011/Assassin's Creed Multiplayer Rearmed.yml	646ed538
 Games/Video/2011/Assassin's Creed Recollection.yml	4ded642b
@@ -812,6 +818,7 @@ Games/Video/2021/The Witcher Monster Slayer.yml	704cbe6e
 Games/Video/2022/Need for Speed Unbound.yml	8ba85eba
 Games/Video/2022/Pentiment.yml	ccc821b6
 Games/Video/2022/Prodeus.yml	cb87b954
+Games/Video/2022/Quake Champions.yml	ada05fd
 Games/Video/2022/Return to Monkey Island.yml	ee3e344
 Games/Video/2022/Roach Race.yml	4e51d5c0
 Games/Video/2022/Stray.yml	c2a34b8d
@@ -863,6 +870,7 @@ Games/Video/Series/Baldur's Gate.yml	958def3a
 Games/Video/Series/Forza.yml	adccd450
 Games/Video/Series/Jets'n'Guns.yml	9fbc81ec
 Games/Video/Series/Need for Speed.yml	aa8fc628
+Games/Video/Series/Quake.yml	9b2a0c89
 Games/Video/Series/Street Fighter.yml	c8d4fae0
 Games/Video/Series/Tekken.yml	e7b62521
 Games/Video/Series/The Elder Scrolls.yml	b040bfd1
@@ -2278,6 +2286,7 @@ People/Adam Goldberg.yml	def7770a
 People/Adam Greenberg.yml	e56677f6
 People/Adam McKay.yml	68d99313
 People/Adam Pearson.yml	70fc6916
+People/Adam Pyle.yml	b5575c59
 People/Adam Sandler.yml	9c68640d
 People/Adam Scott.yml	cfe28ce9
 People/Adam Skorupa.yml	c118b3aa
