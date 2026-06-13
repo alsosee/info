@@ -34,6 +34,7 @@ Companies/01 Distribution.yml	39f31bc
 Companies/1492 Pictures.yml	414135a
 Companies/20th Century Fox.yml	4788b188
 Companies/20th Century Studios.yml	e2a9e538
+Companies/2K.yml	4105e54d
 Companies/3 Arts Entertainment.yml	2187a213
 Companies/40 Acres and a Mule Filmworks.yml	9bb48d85
 Companies/A Band Apart.yml	57c13c17
@@ -458,6 +459,7 @@ Companies/T-Street Productions.yml	64b70f33
 Companies/TC Productions.yml	c79a978b
 Companies/THQ Nordic.yml	c0ee4ac8
 Companies/THQ.yml	8791f630
+Companies/TKO Software.yml	743d5e3f
 Companies/TSG Entertainment.yml	4139ce27
 Companies/TV Tokyo.yml	5bd1a110
 Companies/Team Silent.yml	380f05ed
@@ -503,6 +505,7 @@ Companies/Vendian Entertainment.yml	e7b3081b
 Companies/Vertigo Entertainment.yml	41609edc
 Companies/VideoFilmes.yml	762fe044
 Companies/Village Roadshow Pictures.yml	7d624ca8
+Companies/Vir2L Studios.yml	fa0bac2e
 Companies/Virgin Interactive Entertainment.yml	1ea3c8e4
 Companies/Virtual Studios.yml	dd1dbae3
 Companies/Visceral Games.yml	c3c69486
@@ -529,6 +532,7 @@ Companies/X Verleih AG.yml	a0a065f2
 Companies/XYZ Films.yml	aa42b782
 Companies/Xbox Game Studios.yml	2b8d8a14
 Companies/ZDF/Arte.yml	d933ac0b
+Companies/ZeniMax Online Studios.yml	c65a245b
 Companies/Zentropa Entertainments.yml	f2763ed6
 Companies/Zero Gravity Management.yml	9b2a4b33
 Companies/Zide/Perry Productions.yml	de7b0789
@@ -561,15 +565,16 @@ Games/Video/1994/Sonic & Knuckles.yml	ab8a725a
 Games/Video/1994/Sonic the Hedgehog 3.yml	9595c4fd
 Games/Video/1994/Streets of Rage 3.yml	4bbf96f3
 Games/Video/1994/Tekken.yml	cf1bd84
-Games/Video/1994/The Elder Scrolls Arena.yml	1b34ba10
+Games/Video/1994/The Elder Scrolls Arena.yml	e715836e
 Games/Video/1994/The Need for Speed.yml	f347592
 Games/Video/1994/X-COM UFO Defense.yml	f8cacf64
 Games/Video/1995/Tekken 2.yml	2d839c9b
 Games/Video/1996/Broken Sword The Shadow of the Templars.yml	305eaa7c
 Games/Video/1996/Quake.yml	7f00b546
-Games/Video/1996/The Elder Scrolls II Daggerfall.yml	996037a6
+Games/Video/1996/The Elder Scrolls II Daggerfall.yml	4b06d361
 Games/Video/1996/The Settlers II Veni, Vidi, Vici.yml	2b55e514
 Games/Video/1996/Tomb Raider.yml	62bab158
+Games/Video/1997/An Elder Scrolls Legend Battlespire.yml	8a2f700d
 Games/Video/1997/Fallout.yml	8b4f5cc8
 Games/Video/1997/Grand Theft Auto.yml	15076bc1
 Games/Video/1997/Need for Speed II.yml	8a3ea4b7
@@ -581,6 +586,7 @@ Games/Video/1998/Half-Life.yml	c51f802c
 Games/Video/1998/Marvel vs. Capcom Clash of Super Heroes.yml	78910e3e
 Games/Video/1998/Need for Speed III Hot Pursuit.yml	f01ea107
 Games/Video/1998/StarCraft.yml	22dff42f
+Games/Video/1998/The Elder Scrolls Adventures Redguard.yml	86c4354a
 Games/Video/1998/The Settlers III.yml	82a961af
 Games/Video/1998/Xenogears.yml	cf823745
 Games/Video/1999/EverQuest.yml	42edaf34
@@ -611,10 +617,11 @@ Games/Video/2002/Final Fantasy XI Online.yml	b73956e4
 Games/Video/2002/Grand Theft Auto Vice City.yml	fb68b00f
 Games/Video/2002/Need for Speed Hot Pursuit 2.yml	caa33533
 Games/Video/2002/No One Lives Forever 2 A Spy in H.A.R.M.'s Way.yml	b1066234
-Games/Video/2002/The Elder Scrolls III Morrowind.yml	f695e915
+Games/Video/2002/The Elder Scrolls III Morrowind.yml	7f12ef5f
 Games/Video/2003/Devil May Cry 2.yml	b2905107
 Games/Video/2003/Need for Speed Underground.yml	723fbb9
 Games/Video/2003/Silent Hill 3.yml	3d65ce26
+Games/Video/2003/The Elder Scrolls Travels Stormhold.yml	c5be0ee9
 Games/Video/2003/XIII.yml	e6cc60fb
 Games/Video/2004/Fable.yml	b8a48893
 Games/Video/2004/Grand Theft Auto San Andreas.yml	c62402b7
@@ -623,11 +630,14 @@ Games/Video/2004/Jets'n'Guns.yml	ce3619f0
 Games/Video/2004/Need for Speed Underground 2.yml	84c19e31
 Games/Video/2004/Red Dead Revolver.yml	27581a4e
 Games/Video/2004/Silent Hill 4 The Room.yml	a1286989
+Games/Video/2004/The Elder Scrolls Travels Dawnstar.yml	e875ae2f
+Games/Video/2004/The Elder Scrolls Travels Shadowkey.yml	70a64e55
 Games/Video/2005/Devil May Cry 3 Dantes Awakening.yml	ea9112b2
 Games/Video/2005/Forza Motorsport.yml	3db01eea
 Games/Video/2005/Need for Speed Most Wanted.yml	3c50e68a
 Games/Video/2006/Need for Speed Carbon.yml	4cee55fa
 Games/Video/2006/Saints Row.yml	5d7b0950
+Games/Video/2006/The Elder Scrolls IV Oblivion.yml	726230aa
 Games/Video/2007/Assassin's Creed.yml	eb34d2ff
 Games/Video/2007/Final Fantasy Tactics The War of the Lions.yml	578167f2
 Games/Video/2007/Forza Motorsport 2.yml	3d9379fc
@@ -668,7 +678,7 @@ Games/Video/2011/Need for Speed The Run.yml	85c105f5
 Games/Video/2011/Portal 2.yml	6542cde3
 Games/Video/2011/Shift 2 Unleashed.yml	5ad80830
 Games/Video/2011/SpaceChem.yml	694aea8b
-Games/Video/2011/The Elder Scrolls V Skyrim.yml	62120871
+Games/Video/2011/The Elder Scrolls V Skyrim.yml	ab315302
 Games/Video/2012/Assassin's Creed III Liberation.yml	35d80b85
 Games/Video/2012/Assassin's Creed III.yml	dc51f58a
 Games/Video/2012/Darksiders II.yml	9300675e
@@ -703,6 +713,7 @@ Games/Video/2014/Assassin's Creed Unity.yml	d2b8ec8c
 Games/Video/2014/Forza Horizon 2.yml	99ffa1d5
 Games/Video/2014/Sunset Overdrive.yml	a4078230
 Games/Video/2014/The Binding of Isaac Rebirth.yml	b6a3c3e9
+Games/Video/2014/The Elder Scrolls Online.yml	fe233a0f
 Games/Video/2014/The Last of Us Left Behind.yml	9647d113
 Games/Video/2014/The Talos Principle.yml	1c0248c0
 Games/Video/2014/Watch Dogs.yml	c6979d45
@@ -737,6 +748,7 @@ Games/Video/2017/Need for Speed Payback.yml	a6dc853c
 Games/Video/2017/Nex Machina.yml	236455b8
 Games/Video/2017/NieR Automata.yml	d9f88818
 Games/Video/2017/Space Pirate Trainer.yml	6e5cbb39
+Games/Video/2017/The Elder Scrolls Legends.yml	2286d0bb
 Games/Video/2018/Assassin's Creed Odyssey.yml	a1705a2d
 Games/Video/2018/Assassin's Creed Rebellion.yml	10e9e630
 Games/Video/2018/Detroit Become Human.yml	288ca4a3
@@ -763,6 +775,7 @@ Games/Video/2020/Hades.yml	a47c7e41
 Games/Video/2020/Half-Life Alyx.yml	6ce5a42d
 Games/Video/2020/Jets'n'Guns 2.yml	ffe21ad0
 Games/Video/2020/One-Punch Man A Hero Nobody Knows.yml	27da525
+Games/Video/2020/The Elder Scrolls Blades.yml	11d45440
 Games/Video/2020/The Last of Us Part II.yml	393fcce9
 Games/Video/2020/Watch Dogs Legion.yml	7bfef373
 Games/Video/2021/Forza Horizon 5.yml	4dea0f1c
@@ -800,6 +813,7 @@ Games/Video/2024/Call of Duty Black Ops 6.yml	be730047
 Games/Video/2024/Doom + Doom II.yml	320bbf72
 Games/Video/2024/Knock on the Coffin Lid.yml	40e0916b
 Games/Video/2024/Silent Hill 2.yml	468c2f3f
+Games/Video/2024/The Elder Scrolls Castles.yml	2b5f8028
 Games/Video/2025/ARC Raiders.yml	37b99b3a
 Games/Video/2025/Ascent DX.yml	904753a2
 Games/Video/2025/Assassin's Creed Shadows.yml	9edc523b
@@ -824,7 +838,7 @@ Games/Video/Series/Jets'n'Guns.yml	9fbc81ec
 Games/Video/Series/Need for Speed.yml	aa8fc628
 Games/Video/Series/Street Fighter.yml	c8d4fae0
 Games/Video/Series/Tekken.yml	e7b62521
-Games/Video/Series/The Elder Scrolls.yml	dfc519fa
+Games/Video/Series/The Elder Scrolls.yml	b040bfd1
 Games/Video/Series/The Settlers.yml	5c9ec157
 Movies/1895/Train Arrival.yml	0
 Movies/1903/Train Bulgary.yml	d706506d
@@ -3101,6 +3115,7 @@ People/Elliott Gould.yml	59bd9c9a
 People/Elmer Bernstein.yml	2b42395c
 People/Elísabet Ronaldsdóttir.yml	c44da54f
 People/Embeth Davidtz.yml	a9b4770e
+People/Emil Pagliarulo.yml	7a3e7994
 People/Emile Hirsch.yml	bd8e2035
 People/Emile Sherman.yml	6957f42a
 People/Emilia Jones.yml	3d1d78de
@@ -3842,6 +3857,7 @@ People/Julia Roberts.yml	8a7c4bd3
 People/Julia Stiles.yml	d6be1fb6
 People/Julian Casey.yml	b5ede06a
 People/Julian Dennison.yml	a2500d38
+People/Julian LeFay.yml	8a838bb
 People/Julianne Moore.yml	6e09d5bb
 People/Julianne Nicholson.yml	270da494
 People/Julie Andrews.yml	1be073c3
@@ -3930,6 +3946,7 @@ People/Ken Jeong.yml	52c7678b
 People/Ken Kwapis.yml	f7283065
 People/Ken Leung.yml	d53a0130
 People/Ken Marino.yml	51314021
+People/Ken Rolston.yml	cc4cdfe9
 People/Ken Schretzmann.yml	67c77dcb
 People/Ken Watanabe.yml	7c04f928
 People/Kengo Kora.yml	bc3dac62
@@ -5137,6 +5154,7 @@ People/Temuera Morrison.yml	ccbceefc
 People/Teo Yoo.yml	e20b6e0f
 People/Terence Blanchard.yml	9b46699a
 People/Terence Chang.yml	d1d12245
+People/Terence Stamp.yml	b8b20f62
 People/Terence Winter.yml	2d42ab9
 People/Terrence Howard.yml	220251f7
 People/Terrence Malick.yml	ac006f8
