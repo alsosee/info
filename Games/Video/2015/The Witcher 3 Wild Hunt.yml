@@ -2,15 +2,6 @@ name: "The Witcher 3: Wild Hunt"
 description: >
   Open-world action role-playing game in which Geralt searches for Ciri while the
   Wild Hunt pursues her and war spreads across the Northern Kingdoms.
-based_on:
-  - Books/1993/The Last Wish
-  - Books/1992/Sword of Destiny
-  - Books/1994/Blood of Elves
-  - Books/1995/Time of Contempt
-  - Books/1996/Baptism of Fire
-  - Books/1997/The Tower of the Swallow
-  - Books/1999/The Lady of the Lake
-  - Books/2013/Season of Storms
 previous: Games/Video/2015/The Witcher Battle Arena
 released: 2015-05-19
 series: The Witcher
