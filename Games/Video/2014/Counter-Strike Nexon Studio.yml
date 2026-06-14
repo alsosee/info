@@ -1,0 +1,21 @@
+name: "Counter-Strike Nexon: Studio"
+description: >
+  A Steam release based on Counter-Strike Online, originally launched as
+  Counter-Strike Nexon: Zombies, with multiplayer modes, zombie variants,
+  character customization, and user-created Studio content.
+released: 2014-10-07
+series: Counter-Strike
+previous: Games/Video/2013/Counter-Strike Online 2
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike_Online
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike_Nexon:_Studio
+steam: https://store.steampowered.com/app/273110/CounterStrike_Nexon_Studio/
+developers: Nexon
+publishers: Nexon
+characters:
+  - name: Counter-Terrorist
+  - name: Terrorist
+  - name: Zombie
+  - name: Human

@@ -1,0 +1,20 @@
+name: Counter-Strike Online 2
+description: >
+  A Source engine sequel to Counter-Strike Online for Asian markets, retaining
+  Counter-Strike's tactical team play while adding free-to-play progression,
+  expanded character options, and regional live-service content.
+released: 2013
+series: Counter-Strike
+previous: Games/Video/2012/Counter-Strike Global Offensive
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike_Online
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike_Online_2
+developers: Nexon
+publishers: Nexon
+characters:
+  - name: Counter-Terrorist
+  - name: Terrorist
+  - name: Zombie
+  - name: Human

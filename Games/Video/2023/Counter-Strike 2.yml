@@ -1,0 +1,30 @@
+name: Counter-Strike 2
+description: >
+  A Source 2 update and successor to Counter-Strike: Global Offensive,
+  replacing it on Steam with rebuilt maps, revised smoke grenades, sub-tick
+  networking, and updated competitive systems.
+released: 2023-09-27
+series: Counter-Strike
+previous: Games/Video/2014/Counter-Strike Nexon Studio
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike_2
+metacritic: https://www.metacritic.com/game/counter-strike-2/
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike_2
+website: https://www.counter-strike.net/cs2
+steam: https://store.steampowered.com/app/730/CounterStrike_2/
+developers: Valve
+publishers: Valve
+composers: Mike Morasky
+characters:
+  - name: Counter-Terrorist
+  - name: Terrorist
+  - name: Phoenix Connexion
+  - name: Elite Crew
+  - name: GIGN
+  - name: SAS
+  - name: FBI
+  - name: The Professionals
+  - name: Separatist
+  - name: Anarchist

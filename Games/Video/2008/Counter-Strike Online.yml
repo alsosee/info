@@ -1,0 +1,21 @@
+name: Counter-Strike Online
+description: >
+  A free-to-play Counter-Strike adaptation for Asian markets, developed by
+  Nexon with Valve oversight and expanded with additional weapons, modes,
+  characters, and live-service progression.
+released: 2008
+series: Counter-Strike
+previous: Games/Video/2004/Counter-Strike Source
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike_Online
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike_Online
+developers: Nexon
+publishers: Nexon
+characters:
+  - name: Counter-Terrorist
+  - name: Terrorist
+  - name: Zombie
+  - name: Human
+  - name: Hostage

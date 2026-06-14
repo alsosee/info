@@ -1,0 +1,24 @@
+name: "Counter-Strike: Source"
+description: >
+  A Source engine remake of Counter-Strike that rebuilds the tactical,
+  team-based multiplayer shooter with updated physics, visuals, maps, and
+  online infrastructure.
+released: 2004-11-01
+series: Counter-Strike
+previous: Games/Video/2004/Counter-Strike Condition Zero
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike:_Source
+metacritic: https://www.metacritic.com/game/counter-strike-source/
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike:_Source
+ign: https://www.ign.com/games/counter-strike-source
+steam: https://store.steampowered.com/app/240/CounterStrike_Source/
+developers:
+  - Valve
+  - Turtle Rock Studios
+publishers: Valve
+characters:
+  - name: Counter-Terrorist
+  - name: Terrorist
+  - name: Hostage

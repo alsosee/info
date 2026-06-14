@@ -1,0 +1,30 @@
+name: "Counter-Strike: Global Offensive"
+description: >
+  A multiplayer tactical shooter that expands Counter-Strike with updated
+  maps, matchmaking, weapon skins, new factions, and support for the modern
+  competitive esports scene.
+released: 2012-08-21
+series: Counter-Strike
+previous: Games/Video/2008/Counter-Strike Online
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike:_Global_Offensive
+metacritic: https://www.metacritic.com/game/counter-strike-global-offensive/
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike:_Global_Offensive
+ign: https://www.ign.com/games/counter-strike-global-offensive
+developers:
+  - Valve
+  - Hidden Path Entertainment
+publishers: Valve
+composers: Mike Morasky
+characters:
+  - name: Counter-Terrorist
+  - name: Terrorist
+  - name: Phoenix Connexion
+  - name: Elite Crew
+  - name: GIGN
+  - name: SAS
+  - name: FBI
+  - name: Separatist
+  - name: Anarchist

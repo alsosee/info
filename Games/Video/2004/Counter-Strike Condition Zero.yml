@@ -1,0 +1,31 @@
+name: "Counter-Strike: Condition Zero"
+description: >
+  A follow-up to Counter-Strike that updates the original multiplayer game and
+  adds single-player content, including the Tour of Duty bot campaign and the
+  Deleted Scenes mission campaign.
+released: 2004-03-23
+series: Counter-Strike
+previous: Games/Video/2003/Counter-Strike Neo
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike:_Condition_Zero
+metacritic: https://www.metacritic.com/game/counter-strike-condition-zero/
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero
+ign: https://www.ign.com/games/counter-strike-condition-zero
+steam: https://store.steampowered.com/app/80/CounterStrike_Condition_Zero/
+developers:
+  - Ritual Entertainment
+  - Turtle Rock Studios
+  - Valve
+publishers:
+  - Sierra Entertainment
+  - Valve
+designers:
+  - Minh Le
+  - Jess Cliffe
+composers: Zak Belica
+characters:
+  - name: Counter-Terrorist
+  - name: Terrorist
+  - name: Hostage

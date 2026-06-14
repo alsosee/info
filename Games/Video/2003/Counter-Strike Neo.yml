@@ -1,0 +1,18 @@
+name: Counter-Strike Neo
+description: >
+  A Japan-only arcade adaptation of Counter-Strike published by Namco, changing
+  the series into a more futuristic arcade shooter with anime-styled characters,
+  single-player missions, mini-games, and seasonal events.
+released: 2003
+series: Counter-Strike
+previous: Games/Video/2000/Counter-Strike
+genres:
+  - tactical shooter
+  - first-person shooter
+wikipedia: https://en.wikipedia.org/wiki/Counter-Strike
+fandom: https://counterstrike.fandom.com/wiki/Counter-Strike_Neo
+developers: Namco
+publishers: Namco
+characters:
+  - name: CSF
+  - name: NEO
