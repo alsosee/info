@@ -1,0 +1,44 @@
+name: Diablo
+description: >
+  Dark fantasy action role-playing game set beneath the town of Tristram,
+  where players descend through procedurally generated dungeons to confront
+  Diablo, the Lord of Terror. Its fast real-time combat, randomized loot, and
+  Battle.net multiplayer helped define the action RPG format.
+released: 1997-01-03
+genres:
+  - action role-playing
+  - hack and slash
+  - dark fantasy
+wikipedia: https://en.wikipedia.org/wiki/Diablo_(video_game)
+metacritic: https://www.metacritic.com/game/diablo/
+fandom: https://diablo.fandom.com/wiki/Diablo_(Game)
+ign: https://www.ign.com/games/diablo
+website: https://us.shop.battle.net/en-us/product/diablo
+gog: https://www.gog.com/en/game/diablo
+series: Diablo
+developers: Blizzard North
+publishers: Blizzard Entertainment
+producers: Bill Roper
+designers:
+  - Erich Schaefer
+  - David Brevik
+programmers: David Brevik
+writers:
+  - Erich Schaefer
+  - Eric Sexton
+  - Chris Metzen
+  - Bill Roper
+composers: Matt Uelmen
+characters:
+  - name: Diablo
+    actor: Bill Roper
+  - name: Deckard Cain
+    actor: Michael Gough
+  - name: Archbishop Lazarus
+    actor: Paul Eiding
+  - name: King Leoric
+    actor: Chris Metzen
+  - name: Adria
+    actor: Lani Minella
+  - name: The Butcher
+    actor: Bill Roper

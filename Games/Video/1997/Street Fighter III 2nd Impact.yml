@@ -1,0 +1,35 @@
+name: "Street Fighter III: 2nd Impact"
+description: >
+  Capcom's arcade update to Street Fighter III expands the roster with Hugo,
+  Urien, and Akuma while making Yang a distinct fighter from Yun. It refines the
+  parry-driven fighting system with EX specials, personal actions, tech throws,
+  bonus rounds, and new character-specific matchups on CP System III hardware.
+released: 1997-10-18
+series: Street Fighter
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Street_Fighter_III:_2nd_Impact
+fandom: https://streetfighter.fandom.com/wiki/Street_Fighter_III%3A_2nd_Impact
+website: https://www.streetfighter.com/en/35th/history.html
+developers: Capcom
+publishers: Capcom
+composers:
+  - Hideki Okugawa
+  - Yuki Iwai
+characters:
+  - name: Alex
+  - name: Akuma
+  - name: Dudley
+  - name: Elena
+  - name: Gill
+  - name: Hugo Andore
+  - name: Ibuki
+  - name: Ken Masters
+  - name: Necro
+  - name: Oro
+  - name: Ryu
+  - name: Sean Matsuda
+  - name: Shin Akuma
+  - name: Urien
+  - name: Yang Lee
+  - name: Yun Lee

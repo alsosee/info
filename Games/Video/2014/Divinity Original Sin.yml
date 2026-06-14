@@ -1,0 +1,41 @@
+name: "Divinity: Original Sin"
+description: >
+  Isometric role-playing game set in the fantasy world of Rivellon, where two
+  Source Hunters investigate a murder in Cyseal and uncover a larger conspiracy
+  around Source magic. It combines cooperative play, turn-based tactical combat,
+  systemic world interactions, and a campaign editor built from Larian Studios'
+  Divinity Engine tools.
+released: 2014-06-30
+genres:
+  - role-playing
+  - tactical role-playing
+series: Divinity
+wikipedia: https://en.wikipedia.org/wiki/Divinity:_Original_Sin
+metacritic: https://www.metacritic.com/game/divinity-original-sin/
+fandom: https://divinity.fandom.com/wiki/Divinity:_Original_Sin
+ign: https://www.ign.com/games/divinity-original-sin
+steam: https://store.steampowered.com/app/230230/Divinity_Original_Sin_Classic/
+gog: https://www.gog.com/en/game/divinity_original_sin_enhanced_edition
+website: https://divinity.com/original-sin
+developers: Larian Studios
+publishers: Larian Studios
+directors: Swen Vincke
+producers: David Walgrave
+designers: Farhang Namdar
+writers:
+  - Jan Van Dosselaer
+  - Sarah Baylus
+  - Swen Vincke
+composers: Kirill Pokrovsky
+engine: Divinity Engine
+characters:
+  - name: Source Hunter
+  - name: Zandalor
+  - name: Arhu
+  - name: Madora
+  - name: Jahan
+  - name: Bairdotr
+  - name: Wolgraff
+  - name: Icara
+  - name: Leandra
+  - name: Astarte

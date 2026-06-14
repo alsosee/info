@@ -1,0 +1,54 @@
+name: "Baldur's Gate II: Shadows of Amn"
+description: >
+  Fantasy role-playing game in which Gorion's Ward is drawn into a conflict
+  with the mage Jon Irenicus in Athkatla and the surrounding lands of Amn,
+  using Advanced Dungeons & Dragons rules and BioWare's Infinity Engine.
+released: 2000-09-21
+genres:
+  - role-playing
+  - fantasy
+series: Baldur's Gate
+wikipedia: "https://en.wikipedia.org/wiki/Baldur%27s_Gate_II%3A_Shadows_of_Amn"
+metacritic: https://www.metacritic.com/game/baldurs-gate-ii-shadows-of-amn/
+fandom: https://baldursgate.fandom.com/wiki/Baldur%27s_Gate_II%3A_Shadows_of_Amn
+ign: https://www.ign.com/games/baldurs-gate-ii-shadows-of-amn
+steam: https://store.steampowered.com/app/257350/Baldurs_Gate_II_Enhanced_Edition/
+gog: https://www.gog.com/en/game/baldurs_gate_2_enhanced_edition
+website: https://web.archive.org/web/20040402035400/http://www.interplay.com/bgate2/
+developers: BioWare
+publishers:
+  - Black Isle Studios
+  - Interplay Entertainment
+producers: Ben Smedstad
+designers:
+  - James Ohlen
+  - Kevin Martens
+writers: James Ohlen
+composers: Michael Hoenig
+characters:
+  - name: Jon Irenicus
+    actor: David Warner
+  - name: Imoen
+    actor: Melissa Disney
+  - name: Jaheira
+    actor: Heidi Shannon
+  - name: Minsc
+    actor: Jim Cummings
+  - name: Bodhi
+    actor: B.J. Ward
+  - name: Aerie
+    actor: Kath Soucie
+  - name: Nalia de'Arnise
+    actor: Grey Griffin
+  - name: Viconia DeVir
+    actor: Grey Griffin
+  - name: Mazzy Fentan
+    actor: Jennifer Hale
+  - name: Haer'Dalis
+    actor: Michael Bell
+  - name: Jan Jansen
+    actor: Jack Roth
+  - name: Drizzt Do'Urden
+    actor: Jeff Bennett
+references:
+  - Games/Tabletop/Dungeons & Dragons

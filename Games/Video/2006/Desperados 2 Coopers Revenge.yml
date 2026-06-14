@@ -1,0 +1,39 @@
+name: "Desperados 2: Cooper's Revenge"
+description: >
+  Real-time tactics Western game in which John Cooper reunites his old gang to
+  investigate the murder of his brother and uncover the identity of Angel Face.
+previous: Games/Video/2001/Desperados Wanted Dead or Alive
+released: 2006-04-21
+series: Desperados
+genres:
+  - real-time tactics
+  - stealth
+  - western
+wikipedia: https://en.wikipedia.org/wiki/Desperados_2:_Cooper%27s_Revenge
+metacritic: https://www.metacritic.com/game/desperados-2-coopers-revenge/
+fandom: https://desperados.fandom.com/wiki/Desperados_2:_Cooper%27s_Revenge
+steam: https://store.steampowered.com/app/9710/Desperados_2_Coopers_Revenge/
+gog: https://www.gog.com/en/game/desperados_2
+developers: Spellbound Entertainment
+publishers: Atari
+directors: Jean-Marc Haessig
+designers: Matthias Nock
+writers:
+  - Hans-Jörg Knabel
+  - Jean-Marc Haessig
+artists: Serge Mandon
+composers: Dynamedion
+engine: Trinigy Vision Engine
+characters:
+  - name: John Cooper
+    actor: Torsten Münchow
+  - name: Kate O'Hara
+    actor: Petra Barthel
+  - name: Arthur "Doc" McCoy
+    actor: Michael Betz
+  - name: Sam Williams
+    actor: Olaf Renoldi
+  - name: Pablo Sanchez
+    actor: Helge Heynold
+  - name: Hawkeye
+    actor: Dieter Gring

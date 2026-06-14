@@ -1,0 +1,74 @@
+name: "Star Wars: Episode VII – The Force Awakens"
+series: Star Wars
+previous: Movies/1977/Star Wars Episode 4
+description: >
+  Thirty years after the defeat of the Galactic Empire, the Resistance searches
+  for the missing Luke Skywalker while the First Order rises from the Empire's
+  remains. Rey, Finn, Poe Dameron, Han Solo, and Chewbacca are drawn into the
+  struggle as Kylo Ren hunts for the map that could lead to Luke.
+released: 2015-12-18
+rating: PG-13
+length: 2h18m
+genres:
+  - action
+  - adventure
+  - fantasy
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens
+imdb: https://www.imdb.com/title/tt2488496
+tmdb: https://www.themoviedb.org/movie/140607-star-wars-the-force-awakens
+tpdb: https://theposterdb.com/posters/162
+rotten_tomatoes: https://www.rottentomatoes.com/m/star_wars_episode_vii_the_force_awakens
+metacritic: https://www.metacritic.com/movie/star-wars-episode-vii---the-force-awakens/
+disney_plus: https://www.disneyplus.com/browse/entity-2854a94d-3702-40bd-97a4-12d55a809188
+website: https://www.starwars.com/films/star-wars-episode-vii-the-force-awakens
+trailer: https://www.youtube.com/watch?v=sGbxmsDFVnE
+directors: J. J. Abrams
+screenplay:
+  - Lawrence Kasdan
+  - J. J. Abrams
+  - Michael Arndt
+producers:
+  - Kathleen Kennedy
+  - J. J. Abrams
+  - Bryan Burk
+music: John Williams
+cinematography: Dan Mindel
+editors:
+  - Mary Jo Markey
+  - Maryann Brandon
+production:
+  - Lucasfilm
+  - Bad Robot
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Han Solo
+    actor: Harrison Ford
+  - name: Luke Skywalker
+    actor: Mark Hamill
+  - name: Leia Organa
+    actor: Carrie Fisher
+  - name: Kylo Ren
+    actor: Adam Driver
+  - name: Rey
+    actor: Daisy Ridley
+  - name: Finn
+    actor: John Boyega
+  - name: Poe Dameron
+    actor: Oscar Isaac
+  - name: Maz Kanata
+    actor: Lupita Nyong'o
+  - name: Supreme Leader Snoke
+    actor: Andy Serkis
+  - name: General Hux
+    actor: Domhnall Gleeson
+  - name: C-3PO
+    actor: Anthony Daniels
+  - name: Chewbacca
+    actor: Peter Mayhew
+  - name: Lor San Tekka
+    actor: Max von Sydow
+  - name: Captain Phasma
+    actor: Gwendoline Christie
+  - name: R2-D2
+    actor: Kenny Baker

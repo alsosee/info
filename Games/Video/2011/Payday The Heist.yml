@@ -1,0 +1,35 @@
+name: "PAYDAY: The Heist"
+description: >
+  Cooperative first-person shooter in which the Payday Gang carries out a
+  series of high-stakes robberies while managing civilians, hostages, police
+  assaults, and randomized mission events.
+released: 2011-10-18
+genres:
+  - first-person shooter
+  - cooperative
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/Payday:_The_Heist
+metacritic: https://www.metacritic.com/game/payday-the-heist/
+fandom: https://payday.fandom.com/wiki/PAYDAY:_The_Heist
+ign: https://www.ign.com/games/payday-the-heist
+steam: https://store.steampowered.com/app/24240/PAYDAY_The_Heist/
+website: https://www.paydaythegame.com/buy/
+series: Payday
+engine: Diesel
+developers: Overkill Software
+publishers: Sony Online Entertainment
+directors: Simon Viklund
+producers: Bo Andersson Klint
+designers: Ulf Andersson
+composers: Simon Viklund
+characters:
+  - name: Dallas
+    actor: Simon Kerr
+  - name: Hoxton
+    actor: Pete Gold
+  - name: Chains
+    actor: Howard Thompson
+  - name: Wolf
+    actor: Ulf Andersson
+  - name: Bain
+    actor: Simon Viklund

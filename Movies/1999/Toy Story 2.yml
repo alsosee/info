@@ -1,0 +1,82 @@
+name: Toy Story 2
+description: >
+  When Woody is stolen by a greedy toy collector, Buzz Lightyear and the other
+  toys leave Andy's room to rescue him. At the collector's apartment, Woody
+  discovers his origins as the star of a vintage television show and must decide
+  where he belongs.
+previous: Movies/1995/Toy Story
+released: 1999-11-24
+rating: G
+length: 1h32m
+genres:
+  - animation
+  - adventure
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Toy_Story_2
+imdb: https://www.imdb.com/title/tt0120363
+tmdb: https://www.themoviedb.org/movie/863-toy-story-2
+tpdb: https://theposterdb.com/posters/1503
+rotten_tomatoes: https://www.rottentomatoes.com/m/toy_story_2
+metacritic: https://www.metacritic.com/movie/toy-story-2/
+disney_plus: https://www.disneyplus.com/browse/entity-55bb8618-baac-449e-9f63-f402f41371a2
+website: https://www.pixar.com/toy-story-2
+trailer: https://video.disney.com/watch/toy-story-2-trailer-4bd8003619b0f93a6ac45c67
+directors:
+  - John Lasseter
+  - Ash Brannon
+  - Lee Unkrich
+writers:
+  - John Lasseter
+  - Pete Docter
+  - Ash Brannon
+  - Andrew Stanton
+screenplay:
+  - Andrew Stanton
+  - Rita Hsiao
+  - Doug Chamberlin
+  - Chris Webb
+producers:
+  - Helene Plotkin
+  - Karen Robert Jackson
+music: Randy Newman
+cinematography: Sharon Calahan
+editors:
+  - Edie Bleiman
+  - David Ian Salter
+  - Lee Unkrich
+production: Pixar Animation Studios
+distributors: Buena Vista Pictures Distribution
+characters:
+  - name: Woody
+    voice: Tom Hanks
+  - name: Buzz Lightyear
+    voice: Tim Allen
+  - name: Jessie
+    voice: Joan Cusack
+  - name: Stinky Pete
+    voice: Kelsey Grammer
+  - name: Mr. Potato Head
+    voice: Don Rickles
+  - name: Slinky Dog
+    voice: Jim Varney
+  - name: Rex
+    voice: Wallace Shawn
+  - name: Hamm
+    voice: John Ratzenberger
+  - name: Bo Peep
+    voice: Annie Potts
+  - name: Al McWhiggin
+    voice: Wayne Knight
+  - name: Mrs. Potato Head
+    voice: Estelle Harris
+  - name: Andy
+    voice: John Morris
+  - name: Andy's Mom
+    voice: Laurie Metcalf
+  - name: Tour Guide Barbie
+    voice: Jodi Benson
+  - name: Wheezy
+    voice: Joe Ranft
+  - name: Emperor Zurg
+    voice: Andrew Stanton
