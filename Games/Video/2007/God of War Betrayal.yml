@@ -1,0 +1,27 @@
+name: "God of War: Betrayal"
+description: >
+  A Java ME mobile side-scrolling action game set between God of War and God of
+  War II, following Kratos as he pursues a mysterious assassin after being
+  framed for murder.
+released: 2007-06-20
+series: God of War
+previous: Games/Video/2007/God of War II
+genres:
+  - action-adventure
+  - hack and slash
+wikipedia: https://en.wikipedia.org/wiki/God_of_War:_Betrayal
+fandom: https://godofwar.fandom.com/wiki/God_of_War:_Betrayal
+developers:
+  - Javaground
+  - SOE Los Angeles
+publishers: Sony Pictures Digital
+directors: Philip Cohen
+designers:
+  - Philip Cohen
+  - Nathan Leland
+  - Alan Barasch
+writers: Marianne Krawczyk
+characters:
+  - name: Kratos
+  - name: Argos
+  - name: Ceryx
