@@ -351,6 +351,7 @@ Companies/Netflix.yml	3c4489ac
 Companies/New Line Cinema.yml	8414c468
 Companies/New Regency.yml	6fb6ca13
 Companies/Newmarket Films.yml	912c3557
+Companies/Nexon.yml	e1da250c
 Companies/Next Entertainment World.yml	c92d2227
 Companies/Nickelodeon.yml	7ba0f88f
 Companies/Nintendo.yml	c5cd4cbe
@@ -445,6 +446,7 @@ Companies/Sega.yml	9063ba70
 Companies/Showtime.yml	a67823d1
 Companies/Sideshow.yml	68356e7b
 Companies/Sidney Kimmel Entertainment.yml	17181e18
+Companies/Sierra Entertainment.yml	eec065da
 Companies/Sierra Studios.yml	80938c91
 Companies/Sikelia Productions.yml	ba729a22
 Companies/Silver Pictures.yml	ca41ef9a
@@ -507,6 +509,7 @@ Companies/TriArt Film.yml	6056f063
 Companies/TriStar Pictures.yml	73b9ad08
 Companies/Trigger Street Productions.yml	6bb6790b
 Companies/Turn 10 Studios.yml	84896abc
+Companies/Turtle Rock Studios.yml	b0c25109
 Companies/UGC Distribution.yml	c3b773d8
 Companies/USA Films.yml	b699fab1
 Companies/Ubi Soft.yml	193c4394
@@ -619,7 +622,7 @@ Games/Video/1999/Quake III Arena.yml	fbd9f81b
 Games/Video/1999/Silent Hill.yml	c45a2332
 Games/Video/1999/Street Fighter III 3rd Strike.yml	46e3533c
 Games/Video/1999/Vib-Ribbon.yml	de24276b
-Games/Video/2000/Counter-Strike.yml	41c2b17d
+Games/Video/2000/Counter-Strike.yml	f84e9dbe
 Games/Video/2000/Deus Ex.yml	af8bf56
 Games/Video/2000/Diablo II.yml	a093dcee
 Games/Video/2000/Final Fantasy IX.yml	aa79165d
@@ -643,11 +646,14 @@ Games/Video/2002/Grand Theft Auto Vice City.yml	fb68b00f
 Games/Video/2002/Need for Speed Hot Pursuit 2.yml	caa33533
 Games/Video/2002/No One Lives Forever 2 A Spy in H.A.R.M.'s Way.yml	b1066234
 Games/Video/2002/The Elder Scrolls III Morrowind.yml	7f12ef5f
+Games/Video/2003/Counter-Strike Neo.yml	fac47afa
 Games/Video/2003/Devil May Cry 2.yml	b2905107
 Games/Video/2003/Need for Speed Underground.yml	723fbb9
 Games/Video/2003/Silent Hill 3.yml	3d65ce26
 Games/Video/2003/The Elder Scrolls Travels Stormhold.yml	c5be0ee9
 Games/Video/2003/XIII.yml	e6cc60fb
+Games/Video/2004/Counter-Strike Condition Zero.yml	4e3ac52c
+Games/Video/2004/Counter-Strike Source.yml	731d826e
 Games/Video/2004/Fable.yml	54fdbac8
 Games/Video/2004/Grand Theft Auto San Andreas.yml	c62402b7
 Games/Video/2004/Half-Life 2.yml	a79063a1
@@ -678,6 +684,7 @@ Games/Video/2007/Portal.yml	2bbb9efb
 Games/Video/2007/The Witcher.yml	877cfa79
 Games/Video/2008/Assassin's Creed Altair's Chronicles.yml	ed415af6
 Games/Video/2008/Braid.yml	f468829
+Games/Video/2008/Counter-Strike Online.yml	9bda35c1
 Games/Video/2008/Dead Space.yml	12bc3e2
 Games/Video/2008/Fable II Pub Games.yml	46b59cd0
 Games/Video/2008/Fable II.yml	472cf9aa
@@ -718,6 +725,7 @@ Games/Video/2011/The Elder Scrolls V Skyrim.yml	ab315302
 Games/Video/2011/The Witcher 2 Assassins of Kings.yml	eded2092
 Games/Video/2012/Assassin's Creed III Liberation.yml	35d80b85
 Games/Video/2012/Assassin's Creed III.yml	dc51f58a
+Games/Video/2012/Counter-Strike Global Offensive.yml	b7c0fd3c
 Games/Video/2012/Darksiders II.yml	9300675e
 Games/Video/2012/Fable Heroes.yml	d18a4e33
 Games/Video/2012/Fable The Journey.yml	3604ed4a
@@ -734,6 +742,7 @@ Games/Video/2012/The Witcher Versus.yml	b718839
 Games/Video/2013/Assassin's Creed IV Black Flag.yml	d063178a
 Games/Video/2013/Assassin's Creed Pirates.yml	916ab36c
 Games/Video/2013/Call of Juarez Gunslinger.yml	ec41611b
+Games/Video/2013/Counter-Strike Online 2.yml	fb8bbb32
 Games/Video/2013/Danmaku Unlimited 2.yml	2fd20bf8
 Games/Video/2013/Dead Space 3.yml	ff1d3f18
 Games/Video/2013/Final Fantasy XIV Online.yml	b3aeaacf
@@ -750,6 +759,7 @@ Games/Video/2014/Assassin's Creed Freedom Cry.yml	5642ecc0
 Games/Video/2014/Assassin's Creed Memories.yml	54867d57
 Games/Video/2014/Assassin's Creed Rogue.yml	c675563d
 Games/Video/2014/Assassin's Creed Unity.yml	d2b8ec8c
+Games/Video/2014/Counter-Strike Nexon Studio.yml	e2d36f96
 Games/Video/2014/Fable Anniversary.yml	e0510f16
 Games/Video/2014/Forza Horizon 2.yml	99ffa1d5
 Games/Video/2014/Sunset Overdrive.yml	a4078230
@@ -847,6 +857,7 @@ Games/Video/2023/Alan Wake 2.yml	80640277
 Games/Video/2023/Assassin's Creed Mirage.yml	59668690
 Games/Video/2023/Assassin's Creed Nexus VR.yml	683a81d
 Games/Video/2023/Baldur's Gate 3.yml	87d6b7e0
+Games/Video/2023/Counter-Strike 2.yml	9cc4ca98
 Games/Video/2023/Cyberpunk 2077 Phantom Liberty.yml	afebb60
 Games/Video/2023/Deliver Us Mars.yml	3622c4d2
 Games/Video/2023/Forza Customs.yml	fd8c373d
@@ -886,6 +897,7 @@ Games/Video/2026/Saros.yml	10d30ed6
 Games/Video/2027/Fable.yml	71ade44a
 Games/Video/Series/Assassin's Creed.yml	3db3688f
 Games/Video/Series/Baldur's Gate.yml	958def3a
+Games/Video/Series/Counter-Strike.yml	afe239c1
 Games/Video/Series/Fable.yml	3ea29d52
 Games/Video/Series/Forza.yml	adccd450
 Games/Video/Series/Half-Life.yml	c585a68a
@@ -3702,6 +3714,7 @@ People/Jerry Goldsmith.yml	1838ba77
 People/Jerskin Fendrix.yml	69aa8c0
 People/Jesper Christensen.yml	18f029fe
 People/Jesper Kyd.yml	c04cf5ed
+People/Jess Cliffe.yml	b87ef355
 People/Jesse Eisenberg.yml	fc44c745
 People/Jesse Plemons.yml	ccb3fe
 People/Jesse Williams.yml	f1de2dc0
@@ -4486,6 +4499,7 @@ People/Milla Jovovich.yml	e164acf2
 People/Millie Bobby Brown.yml	fa810e42
 People/Mindy Kaling.yml	ca957e16
 People/Ming-Na Wen.yml	545a54df
+People/Minh Le.yml	f1546866
 People/Minka Kelly.yml	c00e7931
 People/Minoru Chiaki.yml	56292a5c
 People/Miranda Richardson.yml	44baa367
