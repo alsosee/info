@@ -1,0 +1,25 @@
+name: Aperture Desk Job
+description: >
+  Short action game and Steam Deck showcase set at Aperture Science, where a
+  product inspector and a personality core test increasingly dangerous toilet inventions.
+previous: Games/Video/2017/Bridge Constructor Portal
+released: 2022-03-01
+series: Portal
+genres:
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Aperture_Desk_Job
+fandom: https://portal-valve.fandom.com/wiki/Aperture_Desk_Job
+website: https://www.aperturescience.com
+steam: https://store.steampowered.com/app/1902490/Aperture_Desk_Job/
+developers: Valve
+publishers: Valve
+characters:
+  - name: Grady
+    actor: Nate Bargatze
+  - name: Cave Johnson
+    actor: J. K. Simmons
+  - name: Prison Warden
+    actor: Debra Wilson
+  - name: Announcer
+    actor: Debra Wilson
+  - name: Product Inspector

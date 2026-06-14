@@ -1,0 +1,24 @@
+name: Bridge Constructor Portal
+description: >
+  Engineering simulation puzzle game that combines Bridge Constructor with Portal,
+  asking players to build structures inside Aperture Laboratories under GLaDOS's supervision.
+previous: Games/Video/2011/Portal 2
+released: 2017-12-20
+series: Portal
+genres:
+  - simulation
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/Bridge_Constructor_Portal
+metacritic: https://www.metacritic.com/game/bridge-constructor-portal/
+fandom: https://portal-valve.fandom.com/wiki/Bridge_Constructor_Portal
+ign: https://www.ign.com/games/bridge-constructor-portal
+steam: https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/
+developers: ClockStone
+publishers: Headup Games
+composers: Maximilian Stroka
+characters:
+  - name: GLaDOS
+    actor: Ellen McLain
+  - name: Bendies
+  - name: Sentry Turret
+    actor: Ellen McLain

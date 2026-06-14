@@ -6,14 +6,15 @@ description: >
   Johnson.
 previous: Games/Video/2007/Portal
 released: 2011-04-19
+series: Portal
 genres:
-  - Puzzle-platform
+  - puzzle-platform
 wikipedia: https://en.wikipedia.org/wiki/Portal_2
 metacritic: https://www.metacritic.com/game/portal-2/
 fandom: https://half-life.fandom.com/wiki/Portal_2
 ign: https://www.ign.com/games/portal-2
 spotify: https://open.spotify.com/album/3avDuVP1Ua1QsCXLoSStHb
-website: https://store.steampowered.com/app/620/Portal_2/
+steam: https://store.steampowered.com/app/620/Portal_2/
 developers: Valve
 publishers:
   - Valve
