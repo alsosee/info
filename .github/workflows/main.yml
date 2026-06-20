@@ -16,6 +16,10 @@ on:
   repository_dispatch:
     types: [deploy]
 
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
 jobs:
   main:
     runs-on: ubuntu-latest
