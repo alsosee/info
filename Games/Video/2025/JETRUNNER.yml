@@ -1,0 +1,26 @@
+name: JETRUNNER
+description: >
+  JETRUNNER is a parkour first-person shooter built around speedrunning,
+  precision platforming, and arena routes. Players guide rookie Nina White
+  through a futuristic sport that mixes wall-running, grappling, gadgets, and
+  target shooting across handcrafted courses.
+released: 2025-09-04
+genres:
+  - first-person shooter
+  - parkour
+  - platformer
+  - racing
+website: https://www.riddlebit.net
+steam: https://store.steampowered.com/app/2865670/JETRUNNER/
+metacritic: https://www.metacritic.com/game/jetrunner/
+trailer: https://www.youtube.com/watch?v=Izf9sbWT_yo
+developers: Riddlebit Software
+publishers: Curveball Games
+directors: Oliver M. B. Nakken
+characters:
+  - name: Nina White
+    voice: Sara Secora
+  - name: Mick Acaster
+    voice: Matthew Mercer
+  - name: Jacque
+    voice: Alejandro Saab

@@ -1,0 +1,31 @@
+name: UFO 50
+description: >
+  UFO 50 is a retro-styled collection of 50 complete single-player and local multiplayer games presented as the recovered catalog of the fictional 1980s studio UFO Soft. The anthology spans platformers, shoot 'em ups, puzzle games, roguelites, RPGs, strategy games, and other genres while using a shared 32-color 8-bit aesthetic.
+released: 2024-09-18
+genres:
+  - action
+  - adventure
+  - arcade
+  - puzzle
+  - role-playing
+  - strategy
+website: https://50games.fun
+wikipedia: https://en.wikipedia.org/wiki/UFO_50
+metacritic: https://www.metacritic.com/game/ufo-50/
+opencritic: https://opencritic.com/game/17307/ufo-50
+steam: https://store.steampowered.com/app/1147860/UFO_50/
+nintendo: https://www.nintendo.com/us/store/products/ufo-50-switch/
+trailer: https://www.youtube.com/watch?v=tfW0K4rRLnw
+websites:
+  - https://phlogiston.bandcamp.com/album/ufo-50
+developers: Mossmouth
+publishers: Mossmouth
+designers:
+  - Derek Yu
+  - Jon Perry
+  - Eirik Suhrke
+  - Paul Hubans
+  - Tyriq Plummer
+  - Ojiro Fumoto
+composers: Eirik Suhrke
+engine: GameMaker Studio

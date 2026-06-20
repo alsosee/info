@@ -1,0 +1,16 @@
+name: Megabonk
+description: >
+  A third-person roguelike survival game about fighting enemy hordes and bosses
+  across randomly generated 3D maps. Players collect loot, level up characters,
+  upgrade weapons, and build increasingly powerful combinations over each run.
+released: 2025-09-18
+genres:
+  - roguelike
+  - survival
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Megabonk
+steam: https://store.steampowered.com/app/3405340/Megabonk/
+metacritic: https://www.metacritic.com/game/megabonk/
+developers: vedinad
+publishers: vedinad
+engine: Unity

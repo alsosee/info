@@ -1,0 +1,27 @@
+name: Mewgenics
+description: >
+  Mewgenics is a tactical roguelike role-playing game about breeding and
+  managing generations of cats, then sending teams into grid-based battles.
+  Cats inherit traits, mutations, abilities, and long-term consequences,
+  turning each run into a mix of combat, colony management, and strange legacy
+  planning.
+released: 2026-02-10
+genres:
+  - tactical role-playing
+  - roguelike
+  - life simulation
+  - strategy
+wikipedia: https://en.wikipedia.org/wiki/Mewgenics
+website: https://www.mewgenics.com
+steam: https://store.steampowered.com/app/686060/Mewgenics/
+metacritic: https://www.metacritic.com/game/mewgenics/
+opencritic: https://opencritic.com/game/20055/mewgenics
+trailer: https://www.youtube.com/watch?v=7CERHyHRXjI
+developers:
+  - Edmund McMillen
+  - Tyler Glaiel
+publishers:
+  - Edmund McMillen
+  - Tyler Glaiel
+composers: Ridiculon
+engine: Glaiel Game Engine

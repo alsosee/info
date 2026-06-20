@@ -1,0 +1,32 @@
+name: Mixtape
+description: >
+  A narrative adventure about Stacey Rockford, Van Slater, and Cassandra Morino spending their last night of high school together.
+  A curated playlist pulls the friends into dreamlike playable memories, with vignettes built around teenage mischief, music, and coming-of-age moments.
+released: 2026-05-07
+genres:
+  - adventure
+  - indie
+  - narrative
+website: https://mixtape.game/
+wikipedia: https://en.wikipedia.org/wiki/Mixtape_(video_game)
+metacritic: https://www.metacritic.com/game/mixtape/
+opencritic: https://opencritic.com/game/20188/mixtape
+steam: https://store.steampowered.com/app/2582320/Mixtape/
+epic: https://store.epicgames.com/p/mixtape-f18a26
+playstation: https://store.playstation.com/concept/10014780
+xbox: https://www.xbox.com/games/store/mixtape/9NH0MSG29X6L
+nintendo: https://www.nintendo.com/us/store/products/mixtape-switch-2/
+trailer: https://www.youtube.com/watch?v=aQoEd5rnxiQ
+developers: Beethoven & Dinosaur
+publishers: Annapurna Interactive
+directors: Johnny Galvatron
+writers: Johnny Galvatron
+composers: Josh Abrahams
+programmers:
+  - Justin Blackwell
+  - Geordie Hall
+engine: Unreal Engine 5
+characters:
+  - name: Stacey Rockford
+  - name: Van Slater
+  - name: Cassandra Morino

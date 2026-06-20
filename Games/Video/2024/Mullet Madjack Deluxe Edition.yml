@@ -1,0 +1,30 @@
+name: "Mullet Madjack: Deluxe Edition"
+description: >
+  A deluxe edition bundle for the retro anime first-person shooter Mullet
+  Madjack, combining the base game with the original soundtrack and official
+  artbook. The game sends Jack Banhammer through a dopamine-fueled cyberpunk
+  tower, where kills and fast movement keep a ten-second life timer from
+  running out.
+released: 2024-05-15
+genres:
+  - first-person shooter
+  - roguelite
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Mullet_MadJack
+metacritic: https://www.metacritic.com/game/mullet-madjack/
+steam: https://store.steampowered.com/bundle/41372/MULLET_MAD_JACK__DELUXE_EDITION/
+website: https://mulletmadjack.epopeiagames.com/
+xbox: https://www.xbox.com/en-US/games/store/mullet-madjack/9PG8TV30NN9H
+nintendo: https://www.nintendo.com/us/store/products/mullet-madjack-switch/
+spotify: https://open.spotify.com/album/5Jix2124Gc7frIqVp7m7v8
+developers: HAMMER95
+publishers: Epopeia Games
+directors: Alessandro C. Martinello
+designers: Thiago Augusto Weizenmann
+programmers: Leonardo Zimbres
+composers:
+  - Fernando Pepe
+  - Mateus Polati
+engine: Unity
+characters:
+  - name: Jack Banhammer

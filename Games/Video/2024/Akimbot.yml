@@ -1,0 +1,25 @@
+name: Akimbot
+description: >
+  Akimbot is a 3D action-adventure platformer about Exe, an outlaw robot, and
+  Shipset, his reluctant sidekick, as they escape prison and cross a robot-only
+  galaxy. The game mixes third-person shooting, platforming, spaceship
+  sequences, and weapon upgrades in a colorful science-fiction setting.
+released: 2024-08-29
+genres:
+  - action-adventure
+  - platform
+  - third-person shooter
+steam: https://store.steampowered.com/app/1843540/Akimbot/
+metacritic: https://www.metacritic.com/game/akimbot/
+opencritic: https://opencritic.com/game/17236/akimbot
+playstation: https://store.playstation.com/en-us/concept/10010408/
+xbox: https://www.xbox.com/en-US/games/store/akimbot/9pj9mgl5hm9j
+x: https://x.com/akimbot_game
+trailer: https://www.youtube.com/watch?v=-teLtCIIlco
+developers: Evil Raptor
+publishers: PLAION
+engine: Unreal Engine
+characters:
+  - name: Exe
+  - name: Shipset
+  - name: Evilware
