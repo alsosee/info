@@ -1,0 +1,90 @@
+name: The Boys
+description: >
+  The first season introduces Hughie Campbell after a personal tragedy draws
+  him into Billy Butcher's campaign against Vought International and its
+  celebrity superhero team, the Seven.
+released: 2019-07-26
+rating: TV-MA
+genres:
+  - action
+  - black comedy
+  - drama
+  - satire
+  - superhero
+network: Amazon Prime Video
+wikipedia: https://en.wikipedia.org/wiki/The_Boys_season_1
+imdb: https://www.imdb.com/title/tt1190634/episodes/?season=1
+tmdb: https://www.themoviedb.org/tv/76479-the-boys/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_boys_2019/s01
+prime_video: https://www.amazon.com/The-Boys-Season-1/dp/B0DWSKFWQJ
+creators: Eric Kripke
+characters:
+  - name: William "Billy" Butcher
+    actor: Karl Urban
+  - name: Hugh "Hughie" Campbell Jr.
+    actor: Jack Quaid
+  - name: John Gillman / Homelander
+    actor: Antony Starr
+  - name: Annie January / Starlight
+    actor: Erin Moriarty
+  - name: Maggie Shaw / Queen Maeve
+    actor: Dominique McElligott
+  - name: Reggie Franklin / A-Train
+    actor: Jessie T. Usher
+  - name: Marvin T. "Mother's" Milk / M.M.
+    actor: Laz Alonso
+  - name: Kevin Moskowitz / The Deep
+    actor: Chace Crawford
+  - name: Serge / Frenchie
+    actor: Tomer Capone
+  - name: Kimiko Miyashiro / The Female
+    actor: Karen Fukuhara
+  - name: Earving / Black Noir
+    actor: Nathan Mitchell
+  - name: Madelyn Stillwell
+    actor: Elisabeth Shue
+episodes:
+  - name: The Name of the Game
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/The_Name_of_the_Game_(The_Boys_episode)
+    directors: Dan Trachtenberg
+    writers: Eric Kripke
+  - name: Cherry
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/Cherry_(The_Boys_episode)
+    directors: Matt Shakman
+    writers: Eric Kripke
+  - name: Get Some
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/Get_Some_(The_Boys_episode)
+    directors: Phil Sgriccia
+    writers: George Mastras
+  - name: The Female of the Species
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/The_Female_of_the_Species_(The_Boys_episode)
+    directors: Fred Toye
+    writers: Craig Rosenberg
+  - name: Good for the Soul
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/Good_for_the_Soul_(The_Boys_episode)
+    directors: Stefan Schwartz
+    writers: Anne Cofell Saunders
+  - name: The Innocents
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/The_Innocents_(The_Boys_episode)
+    directors: Jennifer Phang
+    writers: Rebecca Sonnenshine
+  - name: The Self-Preservation Society
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/The_Self-Preservation_Society_(The_Boys_episode)
+    directors: Dan Attias
+    writers:
+      - Craig Rosenberg
+      - Ellie Monahan
+  - name: You Found Me
+    released: 2019-07-26
+    wikipedia: https://en.wikipedia.org/wiki/You_Found_Me_(The_Boys_episode)
+    directors: Eric Kripke
+    writers:
+      - Anne Cofell Saunders
+      - Rebecca Sonnenshine

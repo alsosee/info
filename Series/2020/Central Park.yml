@@ -1,0 +1,105 @@
+name: Central Park
+description: >
+  The first season introduces the Tillerman-Hunter family, who live in and care for New York's Central Park while hotel heiress Bitsy Brandenham begins plotting to buy the park and turn it into real estate.
+released: 2020-05-29
+rating: TV-PG
+genres:
+  - animation
+  - comedy
+  - musical
+network: Apple TV+
+wikipedia: https://en.wikipedia.org/wiki/Central_Park_(TV_series)
+imdb: https://www.imdb.com/title/tt8129006
+tmdb: https://www.themoviedb.org/tv/102904-central-park/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/central_park/s01
+metacritic: https://www.metacritic.com/tv/central-park/season-1/
+apple_tv: https://tv.apple.com/us/show/central-park/umc.cmc.4qe3i11erof30x0vz8nwnjkw3
+trailer: https://www.youtube.com/watch?v=mvrXv63y4kI
+creators:
+  - Josh Gad
+  - Loren Bouchard
+  - Nora Smith
+producers:
+  - Kevin Larsen
+  - Lindsey Stoddart
+characters:
+  - name: Molly Tillerman
+    voice: Kristen Bell
+  - name: Cole Tillerman
+    voice: Tituss Burgess
+  - name: Helen
+    voice: Daveed Diggs
+  - name: Birdie
+    voice: Josh Gad
+  - name: Paige Hunter
+    voice: Kathryn Hahn
+  - name: Owen Tillerman
+    voice: Leslie Odom Jr.
+  - name: Bitsy Brandenham
+    voice: Stanley Tucci
+episodes:
+  - name: Episode One
+    description: >
+      Birdie introduces the Tillerman-Hunter family, Bitsy Brandenham, and the competing dreams that tie all of them to Central Park.
+    released: 2020-05-29
+    directors: Gavin Dell
+    writers:
+      - Loren Bouchard
+      - Nora Smith
+      - Regina Hicks
+  - name: Skater's Circle
+    description: >
+      Owen tries to resolve a conflict with Central Park's skaters while Molly and Cole look for a way to see Shampagne again.
+    released: 2020-05-29
+    directors: Corey Barnes
+    writers: Halsted Sullivan
+  - name: Hat Luncheon
+    description: >
+      Owen prepares for a major park luncheon as Paige investigates a funding vote and Molly tries to reconnect with Brendan.
+    released: 2020-06-05
+    directors: Ian Hamilton
+    writers: Chuck Tatham
+  - name: Garbage Ballet
+    description: >
+      A garbage crisis hits the park while Paige feels sick at home and Molly deals with the fallout from her kiss with Brendan.
+    released: 2020-06-12
+    directors: Gavin Dell
+    writers: Monica Padrick
+  - name: Dog Spray Afternoon
+    description: >
+      Bitsy hires a tagger to deface the park while Paige keeps digging into suspicious real estate purchases.
+    released: 2020-06-19
+    directors: Joel Moser
+    writers:
+      - Annie Levine
+      - Jonathan Emerson
+  - name: Rival Busker
+    description: >
+      A new narrator takes over for Birdie as Owen and Cole follow an owl cam and Paige continues investigating Bitsy from the hotel.
+    released: 2020-06-26
+    directors: Corey Barnes
+    writers: Sanjay Shah
+  - name: Squirrel, Interrupted
+    description: >
+      Cole prepares for a Central Park scavenger hunt based on his favorite book series while Molly spends time playing chess with Paige.
+    released: 2020-07-03
+    directors: "Mario D'Anna"
+    writers: Jeff Drake
+  - name: Hot Oven
+    description: >
+      Molly invites Brendan to dinner, forcing her to navigate his family connection to Bitsy as Owen obsesses over homemade pizza.
+    released: 2020-07-10
+    directors: Corey Barnes
+    writers: Rachel Hastings
+  - name: Live It Up Tonight
+    description: >
+      Bitsy sends an auditor after Owen while Molly and Cole attend a pop-culture tour and Owen and Paige try to salvage a date night.
+    released: 2020-07-17
+    directors: "Mario D'Anna"
+    writers: Syreeta Singleton
+  - name: A Fish Called Snakehead
+    description: >
+      Owen investigates a possible invasive snakehead fish in the Harlem Meer as Bitsy tries to use the story for her own campaign.
+    released: 2020-07-24
+    directors: Corey Barnes
+    writers: Mark Alton Brown
