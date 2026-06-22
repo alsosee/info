@@ -1,0 +1,51 @@
+name: Aladdin
+description: >
+  A kindhearted street thief discovers a magic lamp and poses as a prince to
+  court Princess Jasmine, while the royal vizier Jafar schemes to seize the
+  Genie's power for himself.
+released: 1992-11-25
+rating: G
+length: 90m
+genres:
+  - animation
+  - adventure
+  - comedy
+  - fantasy
+  - musical
+  - romance
+wikipedia: https://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+imdb: https://www.imdb.com/title/tt0103639
+tmdb: https://www.themoviedb.org/movie/812-aladdin
+website: https://movies.disney.com/aladdin
+directors:
+  - Ron Clements
+  - John Musker
+producers:
+  - Ron Clements
+  - John Musker
+screenplay:
+  - Ron Clements
+  - John Musker
+  - Ted Elliott
+  - Terry Rossio
+music: Alan Menken
+editors: H. Lee Peterson
+production: Walt Disney Feature Animation
+distributors: Buena Vista Pictures Distribution
+characters:
+  - name: Aladdin
+    voice: Scott Weinger
+  - name: Genie
+    voice: Robin Williams
+  - name: Princess Jasmine
+    voice: Linda Larkin
+  - name: Jafar
+    voice: Jonathan Freeman
+  - name: Iago
+    voice: Gilbert Gottfried
+  - name: Abu
+    voice: Frank Welker
+  - name: The Sultan
+    voice: Douglas Seale
+  - name: Razoul
+    voice: Jim Cummings

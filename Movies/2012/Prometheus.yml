@@ -1,0 +1,41 @@
+name: Prometheus
+series: Alien
+previous: Movies/1997/Alien Resurrection
+description: >
+  A team of explorers follows an ancient star map to a distant moon in search
+  of humanity's creators and discovers a threat capable of ending humankind.
+released: 2012-06-08
+rating: R
+length: 2h4m
+genres:
+  - science fiction
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Prometheus_(2012_film)
+imdb: https://www.imdb.com/title/tt1446714
+tmdb: https://www.themoviedb.org/movie/70981-prometheus
+directors: Ridley Scott
+producers:
+  - David Giler
+  - Walter Hill
+  - Ridley Scott
+screenplay:
+  - Jon Spaihts
+  - Damon Lindelof
+music: Marc Streitenfeld
+cinematography: Dariusz Wolski
+editors: Pietro Scalia
+production:
+  - Scott Free Productions
+  - Brandywine Productions
+distributors: 20th Century Fox
+characters:
+  - name: Elizabeth Shaw
+    actor: Noomi Rapace
+  - name: David 8
+    actor: Michael Fassbender
+  - name: Meredith Vickers
+    actor: Charlize Theron
+  - name: Janek
+    actor: Idris Elba
+  - name: Peter Weyland
+    actor: Guy Pearce

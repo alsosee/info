@@ -1,0 +1,40 @@
+name: "Aliens vs. Predator: Requiem"
+series: Alien
+previous: Movies/2004/Alien vs. Predator
+description: >
+  A Predator ship crashes near a Colorado town, unleashing Xenomorphs and a
+  deadly hybrid while a lone Predator arrives to contain the outbreak.
+released: 2007-12-25
+rating: R
+length: 1h34m
+genres:
+  - science fiction
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Aliens_vs._Predator:_Requiem
+imdb: https://www.imdb.com/title/tt0758730
+tmdb: https://www.themoviedb.org/movie/440-alien-vs-predator-requiem
+directors:
+  - Colin Strause
+  - Greg Strause
+producers:
+  - John Davis
+  - David Giler
+  - Walter Hill
+screenplay: Shane Salerno
+music: Brian Tyler
+cinematography: Daniel C. Pearl
+editors: Dan Zimmerman
+production:
+  - Davis Entertainment
+  - Brandywine Productions
+distributors: 20th Century Fox
+characters:
+  - name: Dallas Howard
+    actor: Steven Pasquale
+  - name: Kelly O'Brien
+    actor: Reiko Aylesworth
+  - name: Sheriff Eddie Morales
+    actor: John Ortiz
+  - name: Wolf
+    actor: Ian Whyte

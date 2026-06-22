@@ -1,0 +1,43 @@
+name: "Alien: Covenant"
+series: Alien
+previous: Movies/2012/Prometheus
+description: >
+  The colony ship Covenant diverts to an apparently habitable world, where its
+  crew encounters a survivor of the Prometheus expedition and lethal organisms.
+released: 2017-05-19
+rating: R
+length: 2h2m
+genres:
+  - science fiction
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Alien:_Covenant
+imdb: https://www.imdb.com/title/tt2316204
+tmdb: https://www.themoviedb.org/movie/126889-alien-covenant
+directors: Ridley Scott
+producers:
+  - David Giler
+  - Walter Hill
+  - Mark Huffam
+  - Michael Schaefer
+  - Ridley Scott
+screenplay:
+  - John Logan
+  - Dante Harper
+music: Jed Kurzel
+cinematography: Dariusz Wolski
+editors: Pietro Scalia
+production:
+  - Scott Free Productions
+  - Brandywine Productions
+distributors: 20th Century Fox
+characters:
+  - name: David 8
+    actor: Michael Fassbender
+  - name: Walter One
+    actor: Michael Fassbender
+  - name: Daniels
+    actor: Katherine Waterston
+  - name: Christopher Oram
+    actor: Billy Crudup
+  - name: Tennessee Faris
+    actor: Danny McBride

@@ -1,0 +1,65 @@
+name: Max Payne
+description: >
+  Haunted by the murder of his wife and child, DEA agent Max Payne follows a
+  trail through New York's criminal underworld. His search intersects with
+  assassin Mona Sax as both investigate a conspiracy tied to a powerful drug.
+based_on: Games/Video/2001/Max Payne
+released: 2008-10-17
+rating: PG-13
+length: 1h40m
+genres:
+  - action
+  - crime
+  - drama
+  - thriller
+  - mystery
+wikipedia: https://en.wikipedia.org/wiki/Max_Payne_(film)
+imdb: https://www.imdb.com/title/tt0467197
+tmdb: https://www.themoviedb.org/movie/13051-max-payne
+rotten_tomatoes: https://www.rottentomatoes.com/m/max_payne
+metacritic: https://www.metacritic.com/movie/max-payne/
+apple_tv: https://tv.apple.com/us/movie/max-payne/umc.cmc.fp3k20uo8je1f25hzf0hawt
+trailer: https://www.youtube.com/watch?v=GklHaGfncJI
+directors: John Moore
+producers:
+  - John Moore
+  - Scott Faye
+  - Julie Yorn
+screenplay: Beau Thorne
+music:
+  - Marco Beltrami
+  - Buck Sanders
+cinematography: Jonathan Sela
+editors: Dan Zimmerman
+production:
+  - Dune Entertainment
+  - Firm Films
+  - Foxtor Productions
+distributors: 20th Century Fox
+characters:
+  - name: Max Payne
+    actor: Mark Wahlberg
+  - name: Mona Sax
+    actor: Mila Kunis
+  - name: B.B. Hensley
+    actor: Beau Bridges
+  - name: Jim Bravura
+    actor: Ludacris
+  - name: Jason Colvin
+    actor: Chris O'Donnell
+  - name: Alex Balder
+    actor: Donal Logue
+  - name: Jack Lupino
+    actor: Amaury Nolasco
+  - name: Nicole Horne
+    actor: Kate Burton
+  - name: Natasha Sax
+    actor: Olga Kurylenko
+  - name: Joe Salle
+    actor: Rothaford Gray
+  - name: Owen Green
+    actor: Joel Gordon
+  - name: Lincoln DeNeuf
+    actor: Jamie Hector
+  - name: Michelle Payne
+    actor: Marianthi Evans

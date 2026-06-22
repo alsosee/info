@@ -1,0 +1,53 @@
+name: Ghostbusters II
+series: Ghostbusters
+previous: Movies/1984/Ghostbusters
+description: >
+  Five years after saving New York City, the Ghostbusters have been forced out of business by lawsuits and official restrictions.
+  When Dana Barrett's infant son becomes the target of a supernatural force tied to a haunted painting and a river of psychoreactive slime, the team reunites to face a new paranormal threat.
+released: 1989-06-16
+rating: PG
+length: 1h48m
+genres:
+  - supernatural comedy
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Ghostbusters_II
+imdb: https://www.imdb.com/title/tt0097428
+tmdb: https://www.themoviedb.org/movie/2978-ghostbusters-ii
+rotten_tomatoes: https://www.rottentomatoes.com/m/ghostbusters_2
+metacritic: https://www.metacritic.com/movie/ghostbusters-ii/
+website: https://www.sonypictures.com/movies/ghostbustersii
+trailer: https://www.youtube.com/watch?v=weIqC-oUGmA
+directors: Ivan Reitman
+screenplay:
+  - Dan Aykroyd
+  - Harold Ramis
+producers: Ivan Reitman
+music: Randy Edelman
+cinematography: Michael Chapman
+editors:
+  - Donn Cambern
+  - Sheldon Kahn
+production: Columbia Pictures
+distributors: Columbia Pictures
+characters:
+  - name: Peter Venkman
+    actor: Bill Murray
+  - name: Ray Stantz
+    actor: Dan Aykroyd
+  - name: Dana Barrett
+    actor: Sigourney Weaver
+  - name: Egon Spengler
+    actor: Harold Ramis
+  - name: Louis Tully
+    actor: Rick Moranis
+  - name: Winston Zeddemore
+    actor: Ernie Hudson
+  - name: Janine Melnitz
+    actor: Annie Potts
+  - name: Janosz Poha
+    actor: Peter MacNicol
+  - name: Jack Hardemeyer
+    actor: Kurt Fuller
+  - name: Vigo the Carpathian
+    actor: Wilhelm von Homburg
+    voice: Max von Sydow

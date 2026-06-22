@@ -1,0 +1,43 @@
+name: Alien Resurrection
+series: Alien
+previous: Movies/1992/Alien 3
+description: >
+  Two centuries after Ripley's death, military scientists clone her to recover
+  a Xenomorph queen, but the creatures escape aboard a research vessel.
+released: 1997-11-26
+rating: R
+length: 1h49m
+genres:
+  - science fiction
+  - horror
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Alien_Resurrection
+imdb: https://www.imdb.com/title/tt0118583
+tmdb: https://www.themoviedb.org/movie/8078-alien-resurrection
+directors: Jean-Pierre Jeunet
+producers:
+  - Gordon Carroll
+  - David Giler
+  - Walter Hill
+  - Bill Badalato
+screenplay: Joss Whedon
+music: John Frizzell
+cinematography: Darius Khondji
+editors: Hervé Schneid
+production:
+  - Brandywine Productions
+  - 20th Century Fox
+distributors: 20th Century Fox
+characters:
+  - name: Ripley 8
+    actor: Sigourney Weaver
+  - name: Annalee Call
+    actor: Winona Ryder
+  - name: Frank Elgyn
+    actor: Michael Wincott
+  - name: Ron Johner
+    actor: Ron Perlman
+  - name: Vriess
+    actor: Dominique Pinon
+  - name: General Perez
+    actor: Dan Hedaya

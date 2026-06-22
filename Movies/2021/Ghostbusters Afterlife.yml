@@ -1,0 +1,69 @@
+name: "Ghostbusters: Afterlife"
+series: Ghostbusters
+previous: Movies/1989/Ghostbusters II
+description: >
+  A struggling single mother and her two children move to a small Oklahoma town after inheriting an old farmhouse from her estranged father.
+  The family begins uncovering its connection to the original Ghostbusters as strange seismic activity and paranormal events point to an unfinished legacy.
+released: 2021-11-19
+rating: PG-13
+length: 2h04m
+genres:
+  - supernatural comedy
+  - fantasy
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Ghostbusters:_Afterlife
+imdb: https://www.imdb.com/title/tt4513678
+tmdb: https://www.themoviedb.org/movie/425909-ghostbusters-afterlife
+rotten_tomatoes: https://www.rottentomatoes.com/m/ghostbusters_afterlife
+metacritic: https://www.metacritic.com/movie/ghostbusters-afterlife/
+website: https://www.ghostbusters.com/
+trailer: https://www.youtube.com/watch?v=ahZFCF--uRY
+directors: Jason Reitman
+screenplay:
+  - Gil Kenan
+  - Jason Reitman
+producers: Ivan Reitman
+music: Rob Simonsen
+cinematography: Eric Steelberg
+editors:
+  - Dana E. Glauberman
+  - Nathan Orloff
+production:
+  - Columbia Pictures
+  - Bron Creative
+  - Ghost Corps
+distributors: Sony Pictures Releasing
+characters:
+  - name: Callie Spengler
+    actor: Carrie Coon
+  - name: Trevor Spengler
+    actor: Finn Wolfhard
+  - name: Phoebe Spengler
+    actor: Mckenna Grace
+  - name: Gary Grooberson
+    actor: Paul Rudd
+  - name: Podcast
+    actor: Logan Kim
+  - name: Lucky Domingo
+    actor: Celeste O'Connor
+  - name: Sherman Domingo
+    actor: Bokeem Woodbine
+  - name: Peter Venkman
+    actor: Bill Murray
+  - name: Ray Stantz
+    actor: Dan Aykroyd
+  - name: Winston Zeddemore
+    actor: Ernie Hudson
+  - name: Janine Melnitz
+    actor: Annie Potts
+  - name: Dana Barrett
+    actor: Sigourney Weaver
+  - name: Egon Spengler
+    actor: Bob Gunton
+  - name: Ivo Shandor
+    actor: J. K. Simmons
+  - name: Gozer
+    actor: Olivia Wilde
+    voice: Shohreh Aghdashloo
+  - name: Muncher
+    voice: Josh Gad

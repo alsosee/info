@@ -1,0 +1,44 @@
+name: Alien 3
+series: Alien
+previous: Movies/1986/Aliens
+description: >
+  Ellen Ripley crash-lands on the prison planet Fiorina 161, where she must
+  rally the inmates against a Xenomorph while confronting a threat within herself.
+released: 1992-05-22
+rating: R
+length: 1h54m
+genres:
+  - science fiction
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Alien_3
+imdb: https://www.imdb.com/title/tt0103644
+tmdb: https://www.themoviedb.org/movie/8077-alien-3
+directors: David Fincher
+producers:
+  - Gordon Carroll
+  - David Giler
+  - Walter Hill
+screenplay:
+  - David Giler
+  - Walter Hill
+  - Larry Ferguson
+music: Elliot Goldenthal
+cinematography: Alex Thomson
+editors: Terry Rawlings
+production:
+  - Brandywine Productions
+  - 20th Century Fox
+distributors: 20th Century Fox
+characters:
+  - name: Ellen Ripley
+    actor: Sigourney Weaver
+  - name: Jonathan Clemens
+    actor: Charles Dance
+  - name: Harold Andrews
+    actor: Brian Glover
+  - name: Leonard Dillon
+    actor: Charles S. Dutton
+  - name: Robert Morse
+    actor: Danny Webb
+  - name: Bishop
+    actor: Lance Henriksen

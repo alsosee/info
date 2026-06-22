@@ -1,0 +1,44 @@
+name: "Lara Croft: Tomb Raider"
+series: Tomb Raider
+based_on: Games/Video/1996/Tomb Raider
+description: >
+  Adventurer Lara Croft races a secret society to recover an ancient artifact capable of controlling time before a rare planetary alignment.
+released: 2001-06-15
+rating: PG-13
+length: 1h40m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Lara_Croft:_Tomb_Raider
+imdb: https://www.imdb.com/title/tt0146316
+tmdb: https://www.themoviedb.org/movie/1995-lara-croft-tomb-raider
+rotten_tomatoes: https://www.rottentomatoes.com/m/lara_croft_tomb_raider
+directors: Simon West
+producers:
+  - Lawrence Gordon
+  - Lloyd Levin
+  - Colin Wilson
+screenplay:
+  - Patrick Massett
+  - John Zinman
+music: Graeme Revell
+cinematography: Peter Menzies Jr.
+editors: Glen Scantlebury
+production:
+  - Paramount Pictures
+  - Mutual Film Company
+  - Lawrence Gordon Productions
+  - Eidos Interactive
+distributors: Paramount Pictures
+characters:
+  - name: Lara Croft
+    actor: Angelina Jolie
+  - name: Manfred Powell
+    actor: Iain Glen
+  - name: Alex West
+    actor: Daniel Craig
+  - name: Lord Richard Croft
+    actor: Jon Voight
+  - name: Bryce Turing
+    actor: Noah Taylor

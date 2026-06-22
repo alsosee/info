@@ -1,0 +1,42 @@
+name: Tomb Raider
+series: Tomb Raider
+based_on: Games/Video/2013/Tomb Raider
+description: >
+  Lara Croft follows clues left by her missing father to the island of Yamatai, where an expedition seeks the tomb of Queen Himiko.
+released: 2018-03-16
+rating: PG-13
+length: 1h58m
+genres:
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Tomb_Raider_(film)
+imdb: https://www.imdb.com/title/tt1365519
+tmdb: https://www.themoviedb.org/movie/338970-tomb-raider
+rotten_tomatoes: https://www.rottentomatoes.com/m/tomb_raider_2018
+directors: Roar Uthaug
+producers: Graham King
+screenplay:
+  - Geneva Robertson-Dworet
+  - Alastair Siddons
+music: Tom Holkenborg
+cinematography: George Richmond
+editors:
+  - Stuart Baird
+  - Michael Tronick
+  - Tom Harrison-Read
+production:
+  - Metro-Goldwyn-Mayer
+  - GK Films
+  - Square Enix
+distributors: Warner Bros. Pictures
+characters:
+  - name: Lara Croft
+    actor: Alicia Vikander
+  - name: Lord Richard Croft
+    actor: Dominic West
+  - name: Mathias Vogel
+    actor: Walton Goggins
+  - name: Lu Ren
+    actor: Daniel Wu
+  - name: Ana Miller
+    actor: Kristin Scott Thomas

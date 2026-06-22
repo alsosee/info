@@ -1,0 +1,61 @@
+name: Warcraft
+description: >
+  As the orc world of Draenor collapses, the warlock Gul'dan opens a portal
+  to Azeroth and leads the Horde into war against the human kingdom of
+  Stormwind. Anduin Lothar and Durotan, warriors on opposite sides of the
+  conflict, struggle to protect their people from the power driving the
+  invasion.
+based_on: Games/Video/1994/Warcraft Orcs & Humans
+released: 2016-06-10
+rating: PG-13
+length: 2h3m
+genres:
+  - fantasy
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Warcraft_(film)
+imdb: https://www.imdb.com/title/tt0803096
+tmdb: https://www.themoviedb.org/movie/68735-warcraft
+rotten_tomatoes: https://www.rottentomatoes.com/m/warcraft
+metacritic: https://www.metacritic.com/movie/warcraft/
+directors: Duncan Jones
+screenplay:
+  - Charles Leavitt
+  - Duncan Jones
+music: Ramin Djawadi
+cinematography: Simon Duggan
+editors: Paul Hirsch
+producers:
+  - Charles Roven
+  - Alex Gartner
+  - Thomas Tull
+  - Jon Jashni
+  - Stuart Fenegan
+production:
+  - Legendary Pictures
+  - Blizzard Entertainment
+  - Atlas Entertainment
+distributors: Universal Pictures
+characters:
+  - name: Anduin Lothar
+    actor: Travis Fimmel
+  - name: Garona
+    actor: Paula Patton
+  - name: Medivh
+    actor: Ben Foster
+  - name: King Llane Wrynn
+    actor: Dominic Cooper
+  - name: Durotan
+    actor: Toby Kebbell
+  - name: Khadgar
+    actor: Ben Schnetzer
+  - name: Orgrim Doomhammer
+    actor: Robert Kazinsky
+  - name: Gul'dan
+    actor: Daniel Wu
+  - name: Queen Taria
+    actor: Ruth Negga
+  - name: Draka
+    actor: Anna Galvin
+  - name: Blackhand
+    actor: Clancy Brown

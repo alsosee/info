@@ -1,0 +1,43 @@
+name: "Alien: Romulus"
+series: Alien
+previous: Movies/2017/Alien Covenant
+description: >
+  Young colonists scavenging a derelict space station encounter the most
+  terrifying life form in the universe.
+released: 2024-08-16
+rating: R
+length: 1h59m
+genres:
+  - science fiction
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Alien:_Romulus
+imdb: https://www.imdb.com/title/tt18412256
+tmdb: https://www.themoviedb.org/movie/945961-alien-romulus
+directors: Fede Álvarez
+producers:
+  - Ridley Scott
+  - Michael Pruss
+  - Walter Hill
+screenplay:
+  - Fede Álvarez
+  - Rodo Sayagues
+music: Benjamin Wallfisch
+cinematography: Galo Olivares
+editors: Jake Roberts
+production:
+  - Scott Free Productions
+  - Brandywine Productions
+distributors: 20th Century Studios
+characters:
+  - name: Rain Carradine
+    actor: Cailee Spaeny
+  - name: Andy
+    actor: David Jonsson
+  - name: Tyler Harrison
+    actor: Archie Renaux
+  - name: Kay Harrison
+    actor: Isabela Merced
+  - name: Bjorn
+    actor: Spike Fearn
+  - name: Navarro
+    actor: Aileen Wu
