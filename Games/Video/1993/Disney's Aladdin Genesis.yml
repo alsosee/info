@@ -1,0 +1,16 @@
+name: "Disney's Aladdin (Sega Genesis)"
+description: >
+  Virgin Games' adaptation follows Aladdin through Agrabah and the Cave of
+  Wonders with fluid Disney-assisted animation and scimitar-based combat.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - action
+  - platformer
+wikipedia: https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(Sega_Genesis_video_game)
+developers: Virgin Games
+publishers: Sega
+designers: David Perry
+composers:
+  - Donald Griffin
+  - Tommy Tallarico

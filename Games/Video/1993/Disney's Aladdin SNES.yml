@@ -1,0 +1,13 @@
+name: "Disney's Aladdin (Super Nintendo)"
+description: >
+  Capcom's distinct adaptation emphasizes acrobatic platforming as Aladdin
+  journeys from Agrabah to Jafar's palace with apples and a gliding cloth.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - action
+  - platformer
+wikipedia: https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(SNES_video_game)
+developers: Capcom
+publishers: Capcom
+designers: Shinji Mikami

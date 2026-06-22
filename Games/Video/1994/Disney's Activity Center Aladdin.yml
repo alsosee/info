@@ -1,0 +1,11 @@
+name: "Disney's Activity Center: Aladdin"
+description: >
+  An educational activity collection set in Agrabah offers drawing, memory,
+  music, and puzzle games featuring characters from the film.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - educational
+  - puzzle
+developers: Disney Interactive
+publishers: Disney Interactive

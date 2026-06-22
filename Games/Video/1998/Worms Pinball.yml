@@ -1,0 +1,14 @@
+name: Worms Pinball
+description: >
+  Worms-themed pinball game adapted from the Worms table in Addiction Pinball with missions, bonuses, and animated characters.
+series: Worms
+released: 1998
+genres:
+  - pinball
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Addiction_Pinball
+steam: https://store.steampowered.com/app/70660/Worms_Pinball/
+developers:
+  - Team17
+publishers:
+  - MicroProse

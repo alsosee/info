@@ -1,0 +1,10 @@
+name: "Disney's Aladdin (Tiger handheld)"
+description: >
+  Tiger Electronics' dedicated LCD game condenses Aladdin's journey into
+  arcade stages involving Agrabah, the Cave of Wonders, and Jafar.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - action
+developers: Tiger Electronics
+publishers: Tiger Electronics

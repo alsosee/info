@@ -1,0 +1,10 @@
+name: "Disney's Aladdin (Tiger wrist game)"
+description: >
+  This LCD wrist game presents four stages of magic-carpet action as Aladdin
+  attempts to rescue Jasmine and stop Jafar's plan for Agrabah.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - action
+developers: Tiger Electronics
+publishers: Tiger Electronics

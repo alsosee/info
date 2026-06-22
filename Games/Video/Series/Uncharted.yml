@@ -1,0 +1,21 @@
+name: Uncharted
+description: >
+  Action-adventure video game series following fortune hunter Nathan Drake and
+  companions as they travel the world uncovering historical mysteries and hidden
+  treasures. Developed by Naughty Dog and acclaimed for its cinematic
+  storytelling, the franchise has sold over 41 million units across PlayStation
+  platforms and PC.
+genres:
+  - action-adventure
+  - third-person shooter
+  - platformer
+released: 2007-11-19
+wikipedia: https://en.wikipedia.org/wiki/Uncharted
+fandom: https://uncharted.fandom.com/wiki/Uncharted_Wiki:Main_Page
+website: https://www.playstation.com/en-us/uncharted/
+developers: Naughty Dog
+publishers: Sony Interactive Entertainment
+characters:
+  - name: Nathan Drake
+    voice: Nolan North
+    ref: Characters/Nathan Drake

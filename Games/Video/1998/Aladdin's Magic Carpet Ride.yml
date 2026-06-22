@@ -1,0 +1,14 @@
+name: "Aladdin's Magic Carpet Ride"
+description: >
+  A DisneyQuest virtual-reality attraction lets four players fly through
+  Agrabah and the Cave of Wonders while searching for gems and Genie's lamp.
+based_on: Movies/1992/Aladdin
+released: 1998-06-19
+series: Aladdin
+genres:
+  - adventure
+  - simulation
+  - virtual reality
+developers: Walt Disney Imagineering Research & Development
+publishers: Walt Disney Attractions
+composers: Ron Fish

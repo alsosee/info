@@ -1,0 +1,9 @@
+name: "Tomb Raider: Puzzle Paradox"
+series: Tomb Raider
+description: >
+  A Java mobile puzzle game built around tile matching and imagery from Tomb Raider: Legend.
+genres:
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/Tomb_Raider
+developers: IOMO
+publishers: Eidos Interactive

@@ -1,0 +1,13 @@
+name: "Disney's Aladdin (Game Gear and Master System)"
+description: >
+  SIMS' original 8-bit adaptation combines chase stages, platforming, and
+  magic-carpet sequences while retelling the animated film.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - action
+  - platformer
+wikipedia: https://en.wikipedia.org/wiki/Disney%27s_Aladdin_(1994_video_game)
+developers: SIMS
+publishers: Sega
+composers: Yoko Wada

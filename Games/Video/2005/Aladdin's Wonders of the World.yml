@@ -1,0 +1,11 @@
+name: "Aladdin's Wonders of the World"
+description: >
+  This V.Smile educational adventure joins Aladdin and Genie on a magic-carpet
+  trip through world landmarks and age-focused learning activities.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - adventure
+  - educational
+developers: VTech Electronics North America
+publishers: VTech Electronics North America

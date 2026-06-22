@@ -1,0 +1,20 @@
+name: Sonic the Hedgehog
+description: >
+  A Japanese video game series and media franchise created by Yuji Naka, Naoto
+  Ohshima, and Hirokazu Yasuhara for Sega. The franchise centers on Sonic, an
+  anthropomorphic blue hedgehog with supersonic speed, who battles the mad
+  scientist Doctor Eggman and his robot army. Known for its high-speed
+  platforming, the series has sold over 1.6 billion units as of 2023.
+released: 1991-06-23
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Sonic_the_Hedgehog
+developers:
+  - Sonic Team
+  - Sega Technical Institute
+publishers:
+  - Sega
+creators:
+  - Yuji Naka
+  - Naoto Ohshima
+  - Hirokazu Yasuhara

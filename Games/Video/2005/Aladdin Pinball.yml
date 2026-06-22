@@ -1,0 +1,11 @@
+name: Aladdin Pinball
+description: >
+  A downloadable pinball game links three themed tables based on Agrabah's
+  marketplace, the Cave of Wonders, and the royal palace.
+based_on: Movies/1992/Aladdin
+released: 2005-07-11
+series: Aladdin
+genres:
+  - pinball
+developers: Schell Games
+publishers: Disney Online

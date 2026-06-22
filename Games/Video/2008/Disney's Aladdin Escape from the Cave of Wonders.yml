@@ -1,0 +1,11 @@
+name: "Disney's Aladdin: Escape from the Cave of Wonders"
+description: >
+  A browser action game challenges Aladdin to flee the collapsing Cave of
+  Wonders on the Magic Carpet while avoiding obstacles.
+based_on: Movies/1992/Aladdin
+series: Aladdin
+genres:
+  - action
+  - endless runner
+  - platformer
+publishers: Disney

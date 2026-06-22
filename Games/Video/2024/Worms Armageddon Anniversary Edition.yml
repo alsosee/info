@@ -1,0 +1,14 @@
+name: "Worms Armageddon: Anniversary Edition"
+description: >
+  Console anniversary edition of Worms Armageddon with modern display support, interactive museum features, and platform-specific extras.
+series: Worms
+remake_of: Games/Video/1999/Worms Armageddon
+released: 2024-09-26
+genres:
+  - artillery
+  - turn-based tactics
+wikipedia: https://en.wikipedia.org/wiki/Worms_Armageddon
+developers:
+  - Digital Eclipse
+publishers:
+  - Team17

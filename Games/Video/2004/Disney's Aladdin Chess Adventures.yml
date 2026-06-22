@@ -1,0 +1,14 @@
+name: "Disney's Aladdin Chess Adventures"
+description: >
+  A story-driven chess game teaches rules, tactics, and puzzles as players
+  build an army of pieces and complete quests with Aladdin and his friends.
+based_on: Movies/1992/Aladdin
+released: 2004-10-05
+series: Aladdin
+genres:
+  - educational
+  - strategy
+developers: Fluent Entertainment
+publishers:
+  - Sierra Entertainment
+  - Vivendi Universal Games

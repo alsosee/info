@@ -1,0 +1,13 @@
+name: Worms
+description: >
+  Turn-based artillery strategy game where teams of worms battle across destructible landscapes with an eccentric arsenal.
+series: Worms
+released: 1995-11-17
+genres:
+  - artillery
+  - turn-based tactics
+wikipedia: https://en.wikipedia.org/wiki/Worms_(1995_video_game)
+developers:
+  - Team17
+publishers:
+  - Ocean Software

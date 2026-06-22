@@ -1,0 +1,24 @@
+name: "Tomb Raider: Anniversary"
+series: Tomb Raider
+previous: Games/Video/2006/Tomb Raider Legend
+remake_of: Games/Video/1996/Tomb Raider
+description: >
+  A reimagining of Lara's search for the Scion of Atlantis using the engine and continuity established by Tomb Raider: Legend.
+released: 2007-06-01
+genres:
+  - action-adventure
+  - platform
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/Tomb_Raider:_Anniversary
+metacritic: https://www.metacritic.com/game/tomb-raider-anniversary/
+steam: https://store.steampowered.com/app/8000/Tomb_Raider_Anniversary/
+developers:
+  - Crystal Dynamics
+  - Buzz Monkey Software
+publishers: Eidos Interactive
+directors: Jason Botta
+writers: Toby Gard
+composers: Troels Brun Folmann
+characters:
+  - name: Lara Croft
+    voice: Keeley Hawes

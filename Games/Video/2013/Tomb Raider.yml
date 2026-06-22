@@ -1,0 +1,29 @@
+name: Tomb Raider
+series: Tomb Raider
+description: >
+  A young Lara Croft is shipwrecked on Yamatai and must survive the island while rescuing her expedition companions.
+released: 2013-03-05
+genres:
+  - action-adventure
+  - survival
+wikipedia: https://en.wikipedia.org/wiki/Tomb_Raider_(2013_video_game)
+imdb: https://www.imdb.com/title/tt1797530
+metacritic: https://www.metacritic.com/game/tomb-raider/
+steam: https://store.steampowered.com/app/203160/Tomb_Raider/
+developers: Crystal Dynamics
+publishers: Square Enix
+directors:
+  - Daniel Chayer
+  - Daniel Neuburger
+writers:
+  - Rhianna Pratchett
+  - Susan O'Connor
+  - John Stafford
+composers: Jason Graves
+characters:
+  - name: Lara Croft
+    voice: Camilla Luddington
+  - name: Samantha Nishimura
+    voice: Arden Cho
+  - name: Conrad Roth
+    voice: Robin Atkin Downes

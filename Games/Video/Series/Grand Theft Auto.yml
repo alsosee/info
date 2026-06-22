@@ -1,0 +1,24 @@
+name: Grand Theft Auto
+description: >
+  Action-adventure video game series created by David Jones and Mike Dailly,
+  centered on criminal protagonists operating in open-world cities inspired by
+  real locations. Originally developed by DMA Design and later by Rockstar North,
+  the series expanded from top-down action games into large-scale 3D open-world
+  entries including Grand Theft Auto III, Grand Theft Auto IV, and Grand Theft Auto V.
+genres:
+  - action-adventure
+  - open world
+  - crime
+released: 1997-11-28
+wikipedia: https://en.wikipedia.org/wiki/Grand_Theft_Auto
+fandom: https://gta.fandom.com/wiki/Grand_Theft_Auto
+website: https://www.rockstargames.com/games/gta
+developers:
+  - DMA Design
+  - Rockstar North
+  - Rockstar Leeds
+  - Rockstar Canada
+publishers:
+  - BMG Interactive
+  - Rockstar Games
+  - Take-Two Interactive

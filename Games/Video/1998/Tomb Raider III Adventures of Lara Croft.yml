@@ -1,0 +1,19 @@
+name: "Tomb Raider III: Adventures of Lara Croft"
+series: Tomb Raider
+previous: Games/Video/1997/Tomb Raider II
+description: >
+  Lara searches locations around the world for four artifacts forged from a meteorite with mysterious powers.
+released: 1998-11-20
+genres:
+  - action-adventure
+  - platform
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/Tomb_Raider_III
+developers: Core Design
+publishers: Eidos Interactive
+designers: Andy Sandham
+writers: Vicky Arnold
+composers: Nathan McCree
+characters:
+  - name: Lara Croft
+    voice: Judith Gibbins

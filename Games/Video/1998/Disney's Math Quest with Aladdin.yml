@@ -1,0 +1,12 @@
+name: "Disney's Math Quest with Aladdin"
+description: >
+  Players solve arithmetic and geometry activities across Agrabah while
+  helping Aladdin's friends overcome a new magical threat.
+based_on: Movies/1992/Aladdin
+released: 1998-02-22
+series: Aladdin
+genres:
+  - educational
+  - puzzle
+developers: Disney Interactive
+publishers: Disney Interactive

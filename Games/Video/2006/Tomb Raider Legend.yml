@@ -1,0 +1,22 @@
+name: "Tomb Raider: Legend"
+series: Tomb Raider
+description: >
+  Lara follows clues surrounding the disappearance of her mother while searching for fragments of the sword Excalibur.
+released: 2006-04-07
+genres:
+  - action-adventure
+  - platform
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/Tomb_Raider:_Legend
+metacritic: https://www.metacritic.com/game/tomb-raider-legend/
+steam: https://store.steampowered.com/app/7000/Tomb_Raider_Legend/
+developers: Crystal Dynamics
+publishers: Eidos Interactive
+directors: Doug Church
+writers:
+  - Eric Lindstrom
+  - Toby Gard
+composers: Troels Brun Folmann
+characters:
+  - name: Lara Croft
+    voice: Keeley Hawes

@@ -1,0 +1,12 @@
+name: "Disney's ReadingQuest With Aladdin"
+description: >
+  Genie, Jasmine, and Iago guide players through literacy puzzles to recover a
+  missing inscription and free Aladdin from Jafar's trap.
+based_on: Movies/1992/Aladdin
+released: 1998-12-30
+series: Aladdin
+genres:
+  - educational
+  - puzzle
+developers: Disney Interactive
+publishers: Disney Interactive
