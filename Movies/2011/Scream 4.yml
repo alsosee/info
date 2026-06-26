@@ -1,0 +1,53 @@
+name: Scream 4
+series: Scream
+description: >
+  Sidney Prescott returns to Woodsboro on the fifteenth anniversary of the
+  original murders, where a new Ghostface begins targeting local teenagers.
+previous: Movies/2000/Scream 3
+released: 2011-04-15
+rating: R
+length: 111m
+genres:
+  - slasher
+  - horror
+  - mystery
+  - black comedy
+wikipedia: https://en.wikipedia.org/wiki/Scream_4
+imdb: https://www.imdb.com/title/tt1262416
+tmdb: https://www.themoviedb.org/movie/41446-scream-4
+directors: Wes Craven
+writers: Kevin Williamson
+producers:
+  - Wes Craven
+  - Iya Labunka
+  - Kevin Williamson
+music: Marco Beltrami
+cinematography: Peter Deming
+editors: Peter McNulty
+production:
+  - Corvus Corax Productions
+  - Outerbanks Entertainment
+  - The Weinstein Company
+distributors: Dimension Films
+characters:
+  - name: Sidney Prescott
+    actor: Neve Campbell
+  - name: Dewey Riley
+    actor: David Arquette
+  - name: Gale Weathers-Riley
+    actor: Courteney Cox
+  - name: Jill Roberts
+    actor: Emma Roberts
+  - name: Kirby Reed
+    actor: Hayden Panettiere
+  - name: Anthony Perkins
+    actor: Anthony Anderson
+  - name: Ross Hoss
+    actor: Adam Brody
+  - name: Charlie Walker
+    actor: Rory Culkin
+  - name: Judy Hicks
+    actor: Marley Shelton
+  - name: Ghostface
+    voice: Roger L. Jackson
+

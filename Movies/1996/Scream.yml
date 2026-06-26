@@ -1,0 +1,49 @@
+name: Scream
+series: Scream
+description: >
+  In Woodsboro, California, high school student Sidney Prescott and her friends
+  become the targets of a masked killer on the anniversary of her mother's
+  murder.
+released: 1996-12-20
+rating: R
+length: 111m
+genres:
+  - slasher
+  - horror
+  - mystery
+  - black comedy
+wikipedia: https://en.wikipedia.org/wiki/Scream_(1996_film)
+imdb: https://www.imdb.com/title/tt0117571
+tmdb: https://www.themoviedb.org/movie/4232-scream
+directors: Wes Craven
+writers: Kevin Williamson
+producers:
+  - Cathy Konrad
+  - Cary Woods
+music: Marco Beltrami
+cinematography: Mark Irwin
+editors: Patrick Lussier
+production: Woods Entertainment
+distributors: Dimension Films
+characters:
+  - name: Sidney Prescott
+    actor: Neve Campbell
+  - name: Dewey Riley
+    actor: David Arquette
+  - name: Gale Weathers
+    actor: Courteney Cox
+  - name: Stu Macher
+    actor: Matthew Lillard
+  - name: Tatum Riley
+    actor: Rose McGowan
+  - name: Billy Loomis
+    actor: Skeet Ulrich
+  - name: Randy Meeks
+    actor: Jamie Kennedy
+  - name: Casey Becker
+    actor: Drew Barrymore
+  - name: Cotton Weary
+    actor: Liev Schreiber
+  - name: Ghostface
+    voice: Roger L. Jackson
+

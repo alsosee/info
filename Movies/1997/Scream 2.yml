@@ -1,0 +1,56 @@
+name: Scream 2
+series: Scream
+description: >
+  Sidney Prescott and other survivors of the Woodsboro massacre are targeted by
+  a copycat Ghostface killer while attending Windsor College.
+previous: Movies/1996/Scream
+released: 1997-12-12
+rating: R
+length: 120m
+genres:
+  - slasher
+  - horror
+  - mystery
+  - black comedy
+wikipedia: https://en.wikipedia.org/wiki/Scream_2
+imdb: https://www.imdb.com/title/tt0120082
+tmdb: https://www.themoviedb.org/movie/4233-scream-2
+directors: Wes Craven
+writers: Kevin Williamson
+producers:
+  - Wes Craven
+  - Cathy Konrad
+  - Marianne Maddalena
+music: Marco Beltrami
+cinematography: Peter Deming
+editors: Patrick Lussier
+production:
+  - Konrad Pictures
+  - Craven-Maddalena Films
+distributors: Dimension Films
+characters:
+  - name: Dewey Riley
+    actor: David Arquette
+  - name: Sidney Prescott
+    actor: Neve Campbell
+  - name: Gale Weathers
+    actor: Courteney Cox
+  - name: Cici Cooper
+    actor: Sarah Michelle Gellar
+  - name: Randy Meeks
+    actor: Jamie Kennedy
+  - name: Debbie Salt
+    actor: Laurie Metcalf
+  - name: Hallie McDaniel
+    actor: Elise Neal
+  - name: Derek Feldman
+    actor: Jerry O'Connell
+  - name: Mickey Altieri
+    actor: Timothy Olyphant
+  - name: Maureen Evans
+    actor: Jada Pinkett
+  - name: Cotton Weary
+    actor: Liev Schreiber
+  - name: Ghostface
+    voice: Roger L. Jackson
+

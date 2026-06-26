@@ -1,0 +1,59 @@
+name: Scream
+series: Scream
+description: >
+  Twenty-five years after the original Woodsboro murders, a new Ghostface begins
+  targeting teenagers connected to the town's past.
+previous: Movies/2011/Scream 4
+released: 2022-01-14
+rating: R
+length: 114m
+genres:
+  - slasher
+  - horror
+  - mystery
+  - black comedy
+wikipedia: https://en.wikipedia.org/wiki/Scream_(2022_film)
+imdb: https://www.imdb.com/title/tt11245972
+tmdb: https://www.themoviedb.org/movie/646385-scream
+directors:
+  - Matt Bettinelli-Olpin
+  - Tyler Gillett
+writers:
+  - James Vanderbilt
+  - Guy Busick
+producers:
+  - William Sherak
+  - James Vanderbilt
+  - Paul Neinstein
+music: Brian Tyler
+cinematography: Brett Jutkiewicz
+editors: Michel Aller
+production:
+  - Spyglass Media Group
+  - Project X Entertainment
+  - Radio Silence Productions
+distributors: Paramount Pictures
+characters:
+  - name: Sidney Prescott
+    actor: Neve Campbell
+  - name: Gale Weathers
+    actor: Courteney Cox
+  - name: Dewey Riley
+    actor: David Arquette
+  - name: Sam Carpenter
+    actor: Melissa Barrera
+  - name: Tara Carpenter
+    actor: Jenna Ortega
+  - name: Richie Kirsch
+    actor: Jack Quaid
+  - name: Amber Freeman
+    actor: Mikey Madison
+  - name: Mindy Meeks-Martin
+    actor: Jasmin Savoy Brown
+  - name: Chad Meeks-Martin
+    actor: Mason Gooding
+  - name: Judy Hicks
+    actor: Marley Shelton
+  - name: Ghostface
+    voice: Roger L. Jackson
+

@@ -1,0 +1,65 @@
+name: Scream VI
+series: Scream
+description: >
+  Survivors of the latest Woodsboro murders move to New York City, where a new
+  Ghostface killer begins stalking them.
+previous: Movies/2022/Scream
+released: 2023-03-10
+rating: R
+length: 122m
+genres:
+  - slasher
+  - horror
+  - mystery
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Scream_VI
+imdb: https://www.imdb.com/title/tt17663992
+tmdb: https://www.themoviedb.org/movie/934433-scream-vi
+directors:
+  - Matt Bettinelli-Olpin
+  - Tyler Gillett
+writers:
+  - James Vanderbilt
+  - Guy Busick
+producers:
+  - William Sherak
+  - James Vanderbilt
+  - Paul Neinstein
+music:
+  - Brian Tyler
+  - Sven Faulconer
+cinematography: Brett Jutkiewicz
+editors: Jay Prychidny
+production:
+  - Spyglass Media Group
+  - Project X Entertainment
+  - Radio Silence Productions
+distributors: Paramount Pictures
+characters:
+  - name: Sam Carpenter
+    actor: Melissa Barrera
+  - name: Mindy Meeks-Martin
+    actor: Jasmin Savoy Brown
+  - name: Ethan Landry
+    actor: Jack Champion
+  - name: Christopher Stone
+    actor: Henry Czerny
+  - name: Chad Meeks-Martin
+    actor: Mason Gooding
+  - name: Ghostface
+    voice: Roger L. Jackson
+  - name: Quinn Bailey
+    actor: Liana Liberato
+  - name: Wayne Bailey
+    actor: Dermot Mulroney
+  - name: Anika Kayoko
+    actor: Devyn Nekoda
+  - name: Tara Carpenter
+    actor: Jenna Ortega
+  - name: Danny Brackett
+    actor: Josh Segarra
+  - name: Kirby Reed
+    actor: Hayden Panettiere
+  - name: Gale Weathers
+    actor: Courteney Cox
+

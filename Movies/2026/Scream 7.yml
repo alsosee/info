@@ -1,0 +1,52 @@
+name: Scream 7
+series: Scream
+description: >
+  Sidney Prescott has built a new life in Indiana, but a new Ghostface targets
+  her daughter Tatum and pulls Sidney back into the franchise's legacy of
+  attacks.
+previous: Movies/2023/Scream VI
+released: 2026-02-27
+rating: R
+length: 114m
+genres:
+  - slasher
+  - horror
+  - mystery
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Scream_7
+imdb: https://www.imdb.com/title/tt27047903
+website: https://www.screammovie.com
+directors: Kevin Williamson
+screenplay:
+  - Kevin Williamson
+  - Guy Busick
+producers:
+  - William Sherak
+  - James Vanderbilt
+  - Paul Neinstein
+music: Marco Beltrami
+cinematography: Ramsey Nickell
+editors: Jim Page
+production:
+  - Spyglass Media Group
+  - Project X Entertainment
+distributors: Paramount Pictures
+characters:
+  - name: Sidney Prescott
+    actor: Neve Campbell
+  - name: Tatum
+    actor: Isabel May
+  - name: Mindy Meeks-Martin
+    actor: Jasmin Savoy Brown
+  - name: Chad Meeks-Martin
+    actor: Mason Gooding
+  - name: Stu Macher
+    actor: Matthew Lillard
+  - name: Dewey Riley
+    actor: David Arquette
+  - name: Gale Weathers
+    actor: Courteney Cox
+  - name: Mark Evans
+    actor: Joel McHale
+  - name: Ghostface
+    voice: Roger L. Jackson

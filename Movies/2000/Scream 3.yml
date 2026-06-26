@@ -1,0 +1,56 @@
+name: Scream 3
+series: Scream
+description: >
+  Sidney Prescott is drawn out of hiding after a new Ghostface killer begins
+  targeting the cast and crew of the Hollywood production Stab 3.
+previous: Movies/1997/Scream 2
+released: 2000-02-04
+rating: R
+length: 117m
+genres:
+  - slasher
+  - horror
+  - mystery
+  - black comedy
+wikipedia: https://en.wikipedia.org/wiki/Scream_3
+imdb: https://www.imdb.com/title/tt0134084
+tmdb: https://www.themoviedb.org/movie/4234-scream-3
+directors: Wes Craven
+writers: Ehren Kruger
+producers:
+  - Cathy Konrad
+  - Kevin Williamson
+  - Marianne Maddalena
+music: Marco Beltrami
+cinematography: Peter Deming
+editors: Patrick Lussier
+production:
+  - Konrad Pictures
+  - Craven/Maddalena Films
+distributors: Dimension Films
+characters:
+  - name: Dewey Riley
+    actor: David Arquette
+  - name: Sidney Prescott
+    actor: Neve Campbell
+  - name: Gale Weathers
+    actor: Courteney Cox
+  - name: Mark Kincaid
+    actor: Patrick Dempsey
+  - name: Roman Bridger
+    actor: Scott Foley
+  - name: John Milton
+    actor: Lance Henriksen
+  - name: Tom Prinze
+    actor: Matt Keeslar
+  - name: Sarah Darling
+    actor: Jenny McCarthy
+  - name: Angelina Tyler
+    actor: Emily Mortimer
+  - name: Jennifer Jolie
+    actor: Parker Posey
+  - name: Cotton Weary
+    actor: Liev Schreiber
+  - name: Ghostface
+    voice: Roger L. Jackson
+
