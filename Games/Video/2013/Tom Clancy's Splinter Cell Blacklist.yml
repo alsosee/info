@@ -1,0 +1,32 @@
+name: "Tom Clancy's Splinter Cell: Blacklist"
+description: >
+  Sam Fisher leads the newly formed Fourth Echelon against the Engineers, a
+  terrorist group pressuring the United States through escalating Blacklist
+  attacks.
+previous: Games/Video/2011/Tom Clancy's Splinter Cell Classic Trilogy HD
+released: 2013-08-20
+series: Tom Clancy's Splinter Cell
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Blacklist
+developers: Ubisoft Toronto
+publishers: Ubisoft
+directors:
+  - Maxime Beland
+  - Patrick Redding
+producers:
+  - Alexandre Parizeau
+  - Andrew Wilson
+designers:
+  - Laurent Malville
+  - Nitai Bessette
+writers:
+  - Richard Dansky
+  - Matt MacLennan
+composers:
+  - Mike Zarin
+  - Tony Hajjar
+characters:
+  - name: Sam Fisher
+    actor: Eric Johnson

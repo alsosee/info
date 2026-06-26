@@ -1,0 +1,29 @@
+name: "Tom Clancy's Splinter Cell: Double Agent"
+description: >
+  Sam Fisher goes undercover inside a terrorist organization, balancing Third
+  Echelon objectives against trust with the group he has infiltrated across two
+  substantially different platform versions.
+previous: Games/Video/2006/Tom Clancy's Splinter Cell Essentials
+released: 2006-10-19
+series: Tom Clancy's Splinter Cell
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Double_Agent
+developers:
+  - Ubisoft Milan
+  - Ubisoft Shanghai
+  - Ubisoft Montreal
+publishers: Ubisoft
+designers:
+  - Chris Smith
+  - David Laquerre
+  - Thomas Simon
+composers:
+  - Michael McCann
+  - Cris Velasco
+  - Sascha Dikiciyan
+characters:
+  - name: Sam Fisher
+    actor: Michael Ironside
+

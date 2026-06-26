@@ -1,0 +1,29 @@
+name: "Tom Clancy's Splinter Cell: Pandora Tomorrow"
+description: >
+  Sam Fisher returns for a Third Echelon operation centered on a biological
+  warfare threat, while the series adds competitive spies-versus-mercenaries
+  multiplayer.
+previous: Games/Video/2002/Tom Clancy's Splinter Cell
+released: 2004-03-26
+series: Tom Clancy's Splinter Cell
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Pandora_Tomorrow
+developers:
+  - Ubisoft Milan
+  - Ubisoft Shanghai
+publishers: Ubisoft
+producers: Domitille Doat-Le Bigot
+designers: Denis Muffat-Meridol
+writers: J. T. Petty
+composers:
+  - Guy Dubuc
+  - Jack Wall
+  - Marc Lessart
+characters:
+  - name: Sam Fisher
+    actor: Michael Ironside
+  - name: Irving Lambert
+    actor: Dennis Haysbert
+

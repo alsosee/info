@@ -1,0 +1,27 @@
+name: "Tom Clancy's Splinter Cell"
+description: >
+  Stealth action-adventure game introducing NSA operative Sam Fisher and Third
+  Echelon, with missions built around light, shadow, surveillance, and covert
+  infiltration.
+released: 2002-11-18
+series: Tom Clancy's Splinter Cell
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell_(video_game)
+developers: Ubisoft Montreal
+publishers: Ubisoft
+producers:
+  - Mathieu Ferland
+  - Reid Schneider
+designers:
+  - Nathan Wolff
+  - Clint Hocking
+writers:
+  - J. T. Petty
+  - Clint Hocking
+composers: Michael Richard Plowman
+characters:
+  - name: Sam Fisher
+    actor: Michael Ironside
+

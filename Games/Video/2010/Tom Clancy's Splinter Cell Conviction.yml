@@ -1,0 +1,29 @@
+name: "Tom Clancy's Splinter Cell: Conviction"
+description: >
+  Sam Fisher operates outside Third Echelon while investigating a conspiracy
+  tied to his daughter, in a faster stealth-action sequel built around rapid
+  target marking and last-known-position tactics.
+previous: Games/Video/2006/Tom Clancy's Splinter Cell Double Agent
+released: 2010-04-13
+series: Tom Clancy's Splinter Cell
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Conviction
+developers: Ubisoft Montreal
+publishers:
+  - Ubisoft
+  - Microsoft Game Studios
+directors: Maxime Beland
+producers: Alexandre Parizeau
+designers: Steven Masters
+writers:
+  - Richard Dansky
+  - Mike Lee
+composers:
+  - Kaveh Cohen
+  - Michael Nielsen
+  - Amon Tobin
+characters:
+  - name: Sam Fisher
+    actor: Michael Ironside

@@ -1,0 +1,18 @@
+name: "Tom Clancy's Splinter Cell 3D"
+description: >
+  Nintendo 3DS adaptation of Chaos Theory, reworking Sam Fisher's third main
+  campaign for handheld play.
+previous: Games/Video/2010/Tom Clancy's Splinter Cell Conviction
+released: 2011-03-25
+series: Tom Clancy's Splinter Cell
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Chaos_Theory
+developers: Gameloft
+publishers: Ubisoft
+composers: Amon Tobin
+characters:
+  - name: Sam Fisher
+    actor: Michael Ironside
+

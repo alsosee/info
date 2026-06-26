@@ -1,0 +1,24 @@
+name: "Tom Clancy's Splinter Cell: Essentials"
+description: >
+  PlayStation Portable stealth game that frames Sam Fisher's past missions as
+  flashbacks during an NSA interrogation after the events surrounding his
+  daughter's reported death.
+previous: Games/Video/2005/Tom Clancy's Splinter Cell Chaos Theory
+released: 2006-03-21
+series: Tom Clancy's Splinter Cell
+genres:
+  - action-adventure
+  - stealth
+wikipedia: https://en.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell:_Essentials
+developers: Ubisoft Montreal
+publishers: Ubisoft
+producers: Jean-Francois Mailloux
+designers: Fabrice Cuny
+writers: Michael Brooks Lee
+composers:
+  - Guy Dubuc
+  - Marc Lessard
+characters:
+  - name: Sam Fisher
+    actor: Michael Ironside
+
