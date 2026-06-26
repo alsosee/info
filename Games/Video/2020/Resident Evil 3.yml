@@ -1,0 +1,36 @@
+name: Resident Evil 3
+series: Resident Evil
+based_on: Games/Video/1999/Resident Evil 3 Nemesis
+description: >
+  Remake of Resident Evil 3: Nemesis that follows Jill Valentine and Carlos Oliveira through the Raccoon City outbreak while Nemesis pursues surviving S.T.A.R.S. members.
+released: 2020-04-03
+genres:
+  - survival horror
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_3_(2020_video_game)
+metacritic: https://www.metacritic.com/game/resident-evil-3/
+fandom: https://residentevil.fandom.com/wiki/Resident_Evil_3_(2020_game)
+ign: https://www.ign.com/games/resident-evil-3-remake
+steam: https://store.steampowered.com/app/952060/
+engine: RE Engine
+developers: Capcom
+publishers: Capcom
+directors:
+  - Kiyohiko Sakata
+  - Yasuhiro Seto
+producers:
+  - Masachika Kawata
+  - Peter Fabiano
+writers: Yasuhisa Kawamura
+composers:
+  - Kota Suzuki
+  - Azusa Kato
+characters:
+  - name: Jill Valentine
+    voice: Nicole Tompkins
+  - name: Carlos Oliveira
+    voice: Jeff Schine
+  - name: Nikolai Zinoviev
+    voice: Neil Newbon
+  - name: Mikhail Victor
+    voice: William Hope

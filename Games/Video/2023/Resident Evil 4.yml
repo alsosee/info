@@ -1,0 +1,34 @@
+name: Resident Evil 4
+series: Resident Evil
+based_on: Games/Video/2005/Resident Evil 4
+description: >
+  Remake of Resident Evil 4 that reimagines Leon S. Kennedy's mission to rescue Ashley Graham with updated survival horror systems, expanded characterization, and RE Engine production.
+released: 2023-03-24
+genres:
+  - survival horror
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_4_(2023_video_game)
+metacritic: https://www.metacritic.com/game/resident-evil-4/
+fandom: https://residentevil.fandom.com/wiki/Resident_Evil_4_(2023_game)
+ign: https://www.ign.com/games/resident-evil-4-remake
+steam: https://store.steampowered.com/app/2050650/
+engine: RE Engine
+developers: Capcom
+publishers: Capcom
+directors: Yasuhiro Anpo
+producers: Yoshiaki Hirabayashi
+writers: Haruo Murata
+composers:
+  - Kota Suzuki
+  - Nozomi Ohomoto
+characters:
+  - name: Leon S. Kennedy
+    voice: Nick Apostolides
+  - name: Ashley Graham
+    voice: Genevieve Buechner
+  - name: Ada Wong
+    voice: Lily Gao
+  - name: Luis Serra Navarro
+    voice: Andre Pena
+  - name: Osmund Saddler
+    voice: Christopher Jane

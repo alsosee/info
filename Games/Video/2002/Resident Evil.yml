@@ -1,0 +1,32 @@
+name: Resident Evil
+series: Resident Evil
+based_on: Games/Video/1996/Resident Evil
+description: >
+  GameCube remake of the original survival horror game, rebuilding the Spencer Mansion with updated visuals, revised puzzles, new areas, and expanded story material while retaining the dual Chris Redfield and Jill Valentine campaigns.
+released: 2002-03-22
+genres:
+  - survival horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_(2002_video_game)
+metacritic: https://www.metacritic.com/game/resident-evil/
+fandom: https://residentevil.fandom.com/wiki/Resident_Evil_(2002_game)
+ign: https://www.ign.com/games/resident-evil-remake
+developers: Capcom Production Studio 4
+publishers: Capcom
+directors: Shinji Mikami
+producers: Hiroyuki Kobayashi
+designers: Shinji Mikami
+writers: Hiroki Kato
+composers:
+  - Shusaku Uchiyama
+  - Misao Senbongi
+characters:
+  - name: Chris Redfield
+    voice: Joe Whyte
+  - name: Jill Valentine
+    voice: Heidi Anderson
+  - name: Albert Wesker
+    voice: Peter Jessop
+  - name: Barry Burton
+    voice: Barry Gjerde
+  - name: Rebecca Chambers
+    voice: Hope Levy

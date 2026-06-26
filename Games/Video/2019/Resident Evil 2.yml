@@ -1,0 +1,35 @@
+name: Resident Evil 2
+series: Resident Evil
+based_on: Games/Video/1998/Resident Evil 2
+description: >
+  Remake of Resident Evil 2 that reimagines Leon S. Kennedy and Claire Redfield's escape from Raccoon City with over-the-shoulder combat, redesigned environments, and the RE Engine.
+released: 2019-01-25
+genres:
+  - survival horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_2_(2019_video_game)
+metacritic: https://www.metacritic.com/game/resident-evil-2/
+fandom: https://residentevil.fandom.com/wiki/Resident_Evil_2_(2019_game)
+ign: https://www.ign.com/games/resident-evil-2-remake
+steam: https://store.steampowered.com/app/883710/
+engine: RE Engine
+developers: Capcom
+publishers: Capcom
+directors:
+  - Kazunori Kadoi
+  - Yasuhiro Anpo
+producers: Yoshiaki Hirabayashi
+writers: Brent Friedman
+composers:
+  - Shusaku Uchiyama
+  - Zhenlan Kang
+characters:
+  - name: Leon S. Kennedy
+    voice: Nick Apostolides
+  - name: Claire Redfield
+    voice: Stephanie Panisello
+  - name: Ada Wong
+    voice: Jolene Andersen
+  - name: Sherry Birkin
+    voice: Eliza Pryor
+  - name: Annette Birkin
+    voice: Karen Strassman

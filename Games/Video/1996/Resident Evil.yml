@@ -1,0 +1,32 @@
+name: Resident Evil
+series: Resident Evil
+description: >
+  Survival horror game in which S.T.A.R.S. members Chris Redfield and Jill Valentine investigate a mansion near Raccoon City after a series of violent incidents. The game established many of the franchise's fixed-camera exploration, puzzle, and resource-management conventions.
+released: 1996-03-22
+genres:
+  - survival horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_(1996_video_game)
+metacritic: https://www.metacritic.com/game/resident-evil/
+fandom: https://residentevil.fandom.com/wiki/Resident_Evil
+ign: https://www.ign.com/games/resident-evil
+developers: Capcom
+publishers: Capcom
+directors: Shinji Mikami
+producers: Tokuro Fujiwara
+designers: Shinji Mikami
+writers: Kenichi Iwao
+composers:
+  - Makoto Tomozawa
+  - Koichi Hiroki
+  - Masami Ueda
+characters:
+  - name: Chris Redfield
+    actor: Charlie Kraslavsky
+  - name: Jill Valentine
+    actor: Inezh
+  - name: Albert Wesker
+    actor: Sergio Jones
+  - name: Barry Burton
+    actor: Greg Smith
+  - name: Rebecca Chambers
+    actor: Linda
