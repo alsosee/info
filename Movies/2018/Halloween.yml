@@ -1,0 +1,51 @@
+name: Halloween
+series: Halloween
+previous: Movies/1978/Halloween
+description: >
+  Forty years after Michael Myers' first Haddonfield murders, Laurie Strode has
+  prepared for his possible return as he escapes custody before Halloween.
+released: 2018-10-19
+rating: R
+length: 106m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween_(2018_film)
+imdb: https://www.imdb.com/title/tt1502407
+tmdb: https://www.themoviedb.org/movie/424139-halloween
+directors: David Gordon Green
+writers:
+  - Jeff Fradley
+  - Danny McBride
+  - David Gordon Green
+producers:
+  - Malek Akkad
+  - Jason Blum
+  - Bill Block
+music:
+  - John Carpenter
+  - Cody Carpenter
+  - Daniel Davies
+cinematography: Michael Simmonds
+editors: Tim Alverson
+production:
+  - Miramax
+  - Blumhouse Productions
+  - Trancas International Films
+  - Rough House Pictures
+distributors: Universal Pictures
+characters:
+  - name: Laurie Strode
+    actor: Jamie Lee Curtis
+  - name: Karen Nelson
+    actor: Judy Greer
+  - name: Allyson Nelson
+    actor: Andi Matichak
+  - name: Deputy Frank Hawkins
+    actor: Will Patton
+  - name: Dr. Ranbir Sartain
+    actor: Haluk Bilginer
+  - name: Vicky
+    actor: Virginia Gardner
+  - name: Michael Myers
+    actor: James Jude Courtney

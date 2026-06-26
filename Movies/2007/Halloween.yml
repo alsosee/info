@@ -1,0 +1,47 @@
+name: Halloween
+series: Halloween
+description: >
+  Rob Zombie reimagines Michael Myers' childhood, institutionalization, and
+  return to Haddonfield, where he stalks Laurie Strode and her friends on
+  Halloween night.
+released: 2007-08-31
+rating: R
+length: 110m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween_(2007_film)
+imdb: https://www.imdb.com/title/tt0373883
+tmdb: https://www.themoviedb.org/movie/2082-halloween
+directors: Rob Zombie
+screenplay: Rob Zombie
+producers:
+  - Malek Akkad
+  - Andy Gould
+  - Rob Zombie
+music: Tyler Bates
+cinematography: Phil Parmet
+editors: Glenn Garland
+production:
+  - Dimension Films
+  - Nightfall Productions
+  - Spectacle Entertainment Group
+  - Trancas International Films
+distributors:
+  - Metro-Goldwyn-Mayer
+  - The Weinstein Company
+characters:
+  - name: Dr. Samuel Loomis
+    actor: Malcolm McDowell
+  - name: Deborah Myers
+    actor: Sheri Moon Zombie
+  - name: Michael Myers
+    actor: Tyler Mane
+  - name: Laurie Strode
+    actor: Scout Taylor-Compton
+  - name: Sheriff Lee Brackett
+    actor: Brad Dourif
+  - name: Annie Brackett
+    actor: Danielle Harris
+  - name: Ronnie White
+    actor: William Forsythe

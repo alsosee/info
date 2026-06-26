@@ -1,0 +1,38 @@
+name: "Halloween 4: The Return of Michael Myers"
+series: Halloween
+previous: Movies/1982/Halloween III Season of the Witch
+description: >
+  Ten years after the hospital fire, Michael Myers awakens during a transfer and
+  returns to Haddonfield to find his young niece Jamie Lloyd.
+released: 1988-10-21
+rating: R
+length: 88m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween_4:_The_Return_of_Michael_Myers
+imdb: https://www.imdb.com/title/tt0095271
+tmdb: https://www.themoviedb.org/movie/11357-halloween-4-the-return-of-michael-myers
+directors: Dwight H. Little
+screenplay: Alan B. McElroy
+producers: Paul Freeman
+music: Alan Howarth
+cinematography: Peter Lyons Collister
+editors: Curtiss Clayton
+production: Trancas International
+distributors: Galaxy International Releasing
+characters:
+  - name: Dr. Samuel Loomis
+    actor: Donald Pleasence
+  - name: Jamie Lloyd
+    actor: Danielle Harris
+  - name: Rachel Carruthers
+    actor: Ellie Cornell
+  - name: Michael Myers
+    actor: George P. Wilbur
+  - name: Sheriff Ben Meeker
+    actor: Beau Starr
+  - name: Brady
+    actor: Sasha Jenson
+  - name: Kelly Meeker
+    actor: Kathleen Kinmont

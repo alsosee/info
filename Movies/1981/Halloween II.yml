@@ -1,0 +1,47 @@
+name: Halloween II
+series: Halloween
+previous: Movies/1978/Halloween
+description: >
+  On the same night as the Haddonfield attacks, Laurie Strode is taken to the
+  local hospital while Michael Myers continues pursuing her and Dr. Loomis
+  searches for him.
+released: 1981-10-30
+rating: R
+length: 92m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween_II_(1981_film)
+imdb: https://www.imdb.com/title/tt0082495
+tmdb: https://www.themoviedb.org/movie/11281-halloween-ii
+directors: Rick Rosenthal
+writers:
+  - John Carpenter
+  - Debra Hill
+producers:
+  - Debra Hill
+  - John Carpenter
+music:
+  - John Carpenter
+  - Alan Howarth
+cinematography: Dean Cundey
+editors:
+  - Mark Goldblatt
+  - Skip Schoolnik
+production: Dino De Laurentiis Corporation
+distributors: Universal Pictures
+characters:
+  - name: Laurie Strode
+    actor: Jamie Lee Curtis
+  - name: Dr. Samuel Loomis
+    actor: Donald Pleasence
+  - name: Michael Myers
+    actor: Dick Warlock
+  - name: Sheriff Leigh Brackett
+    actor: Charles Cyphers
+  - name: Jimmy Lloyd
+    actor: Lance Guest
+  - name: Karen Bailey
+    actor: Pamela Susan Shoop
+  - name: Marion Chambers
+    actor: Nancy Stephens

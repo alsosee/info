@@ -1,0 +1,41 @@
+name: "Halloween: The Curse of Michael Myers"
+series: Halloween
+previous: Movies/1989/Halloween 5 The Revenge of Michael Myers
+description: >
+  Years after Jamie Lloyd disappears, Michael Myers returns to Haddonfield as
+  Tommy Doyle and Dr. Loomis investigate a cult tied to his violence.
+released: 1995-09-29
+rating: R
+length: 88m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween:_The_Curse_of_Michael_Myers
+imdb: https://www.imdb.com/title/tt0113253
+tmdb: https://www.themoviedb.org/movie/10987-halloween-the-curse-of-michael-myers
+directors: Joe Chappelle
+writers: Daniel Farrands
+producers: Paul Freeman
+music: Alan Howarth
+cinematography: Billy Dickson
+editors: Randolph K. Bricker
+production:
+  - Nightfall Productions
+  - Trancas International
+  - Halloween VI Productions
+distributors: Dimension Films
+characters:
+  - name: Dr. Samuel Loomis
+    actor: Donald Pleasence
+  - name: Tommy Doyle
+    actor: Paul Rudd
+  - name: Kara Strode
+    actor: Marianne Hagan
+  - name: Dr. Terence Wynn
+    actor: Mitchell Ryan
+  - name: Jamie Lloyd
+    actor: J. C. Brandy
+  - name: Michael Myers
+    actor: George P. Wilbur
+  - name: Danny Strode
+    actor: Devin Gardner

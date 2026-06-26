@@ -1,0 +1,46 @@
+name: Halloween
+series: Halloween
+description: >
+  Escaped patient Michael Myers returns to Haddonfield, Illinois, fifteen years
+  after murdering his sister and begins stalking babysitter Laurie Strode while
+  his psychiatrist tries to stop him.
+released: 1978-10-25
+rating: R
+length: 91m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween_(1978_film)
+imdb: https://www.imdb.com/title/tt0077651
+tmdb: https://www.themoviedb.org/movie/948-halloween
+directors: John Carpenter
+screenplay:
+  - John Carpenter
+  - Debra Hill
+producers: Debra Hill
+music: John Carpenter
+cinematography: Dean Cundey
+editors:
+  - Tommy Lee Wallace
+  - Charles Bornstein
+production:
+  - Compass International Pictures
+  - Falcon International Productions
+distributors:
+  - Compass International Pictures
+  - Aquarius Releasing
+characters:
+  - name: Laurie Strode
+    actor: Jamie Lee Curtis
+  - name: Dr. Samuel Loomis
+    actor: Donald Pleasence
+  - name: Michael Myers
+    actor: Nick Castle
+  - name: Annie Brackett
+    actor: Nancy Loomis
+  - name: Lynda Van der Klok
+    actor: P. J. Soles
+  - name: Sheriff Leigh Brackett
+    actor: Charles Cyphers
+  - name: Judith Myers
+    actor: Sandy Johnson

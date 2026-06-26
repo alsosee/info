@@ -1,0 +1,42 @@
+name: Halloween II
+series: Halloween
+previous: Movies/2007/Halloween
+description: >
+  A year after the Haddonfield massacre, Laurie Strode struggles with trauma
+  while Michael Myers resurfaces and follows visions that draw him back to her.
+released: 2009-08-28
+rating: R
+length: 105m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween_II_(2009_film)
+imdb: https://www.imdb.com/title/tt1311067
+tmdb: https://www.themoviedb.org/movie/24150-halloween-ii
+directors: Rob Zombie
+writers: Rob Zombie
+producers:
+  - Malek Akkad
+  - Andy Gould
+  - Rob Zombie
+music: Tyler Bates
+cinematography: Brandon Trost
+editors: Glenn Garland
+production:
+  - Dimension Films
+  - Trancas International Films
+  - Spectacle Entertainment Group
+distributors: Dimension Films
+characters:
+  - name: Dr. Samuel Loomis
+    actor: Malcolm McDowell
+  - name: Michael Myers
+    actor: Tyler Mane
+  - name: Deborah Myers
+    actor: Sheri Moon Zombie
+  - name: Sheriff Lee Brackett
+    actor: Brad Dourif
+  - name: Annie Brackett
+    actor: Danielle Harris
+  - name: Laurie Strode
+    actor: Scout Taylor-Compton
