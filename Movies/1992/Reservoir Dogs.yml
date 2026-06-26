@@ -11,7 +11,13 @@ genres:
 wikipedia: https://en.wikipedia.org/wiki/Reservoir_Dogs
 imdb: https://www.imdb.com/title/tt0105236
 tmdb: https://www.themoviedb.org/movie/500
+rotten_tomatoes: https://www.rottentomatoes.com/m/reservoir_dogs
+metacritic: https://www.metacritic.com/movie/reservoir-dogs
 directors: Quentin Tarantino
+producers: Lawrence Bender
+screenplay: Quentin Tarantino
+cinematography: Andrzej Sekuła
+editors: Sally Menke
 production:
   - Live Entertainment
   - Dog Eat Dog Productions

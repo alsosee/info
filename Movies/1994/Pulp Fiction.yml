@@ -11,7 +11,13 @@ genres:
 wikipedia: https://en.wikipedia.org/wiki/Pulp_Fiction
 imdb: https://www.imdb.com/title/tt0110912
 tmdb: https://www.themoviedb.org/movie/680
+rotten_tomatoes: https://www.rottentomatoes.com/m/pulp_fiction
+metacritic: https://www.metacritic.com/movie/pulp-fiction
 directors: Quentin Tarantino
+producers: Lawrence Bender
+screenplay: Quentin Tarantino
+cinematography: Andrzej Sekuła
+editors: Sally Menke
 production:
   - A Band Apart
   - Jersey Films

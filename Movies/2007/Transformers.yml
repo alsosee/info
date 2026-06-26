@@ -1,4 +1,6 @@
 name: Transformers
+series: Transformers
+previous: Movies/1986/The Transformers The Movie
 description: >
   A teenager becomes entangled in a war between heroic Autobots and evil Decepticons—shape-shifting
   alien robots—as both factions seek a powerful artifact called the AllSpark to determine the fate
@@ -13,6 +15,9 @@ genres:
 wikipedia: https://en.wikipedia.org/wiki/Transformers_(film)
 imdb: https://www.imdb.com/title/tt0418279/
 tmdb: https://www.themoviedb.org/movie/1858-transformers
+rotten_tomatoes: https://www.rottentomatoes.com/m/transformers
+metacritic: https://www.metacritic.com/movie/transformers
+trailer: https://www.youtube.com/watch?v=dxQxgAfNzyE
 directors: Michael Bay
 screenplay:
   - Roberto Orci

@@ -1,4 +1,6 @@
 name: "Predator: Badlands"
+series: Predator
+previous: Movies/2025/Predator Killer of Killers
 description: >
   Set in the future on a remote planet, a young Predator named Dek, outcast
   from his clan, forms an unlikely alliance with a Weyland-Yutani android
@@ -16,6 +18,7 @@ wikipedia: https://en.wikipedia.org/wiki/Predator:_Badlands
 imdb: https://www.imdb.com/title/tt31221147
 tmdb: https://www.themoviedb.org/movie/1243553-predator-badlands
 rotten_tomatoes: https://www.rottentomatoes.com/m/predator_badlands
+metacritic: https://www.metacritic.com/movie/predator-badlands
 directors: Dan Trachtenberg
 producers:
   - John Davis
