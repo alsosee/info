@@ -1,0 +1,46 @@
+name: Jurassic Park III
+series: Jurassic Park
+previous: Movies/1997/The Lost World Jurassic Park
+description: >
+  Alan Grant is lured back to Isla Sorna by a couple searching for their missing son,
+  only to become stranded among new predators on the abandoned dinosaur island.
+released: 2001-07-18
+rating: PG-13
+length: 1h32m
+genres:
+  - science fiction
+  - adventure
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_III
+imdb: https://www.imdb.com/title/tt0163025
+tmdb: https://www.themoviedb.org/movie/331-jurassic-park-iii
+directors: Joe Johnston
+screenplay:
+  - Peter Buchman
+  - Alexander Payne
+  - Jim Taylor
+producers:
+  - Kathleen Kennedy
+  - Larry Franco
+music: Don Davis
+cinematography: Shelly Johnson
+editors: Robert Dalva
+production:
+  - Universal Pictures
+  - Amblin Entertainment
+distributors: Universal Pictures
+characters:
+  - name: Alan Grant
+    actor: Sam Neill
+  - name: Paul Kirby
+    actor: William H. Macy
+  - name: Amanda Kirby
+    actor: Tea Leoni
+  - name: Billy Brennan
+    actor: Alessandro Nivola
+  - name: Eric Kirby
+    actor: Trevor Morgan
+  - name: Udesky
+    actor: Michael Jeter
+  - name: Ellie Sattler
+    actor: Laura Dern

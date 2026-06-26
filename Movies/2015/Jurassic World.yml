@@ -1,0 +1,50 @@
+name: Jurassic World
+series: Jurassic Park
+previous: Movies/2001/Jurassic Park III
+description: >
+  A fully operational dinosaur theme park on Isla Nublar descends into chaos when
+  a genetically engineered hybrid escapes containment and threatens visitors.
+released: 2015-06-12
+rating: PG-13
+length: 2h4m
+genres:
+  - science fiction
+  - adventure
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_World
+imdb: https://www.imdb.com/title/tt0369610
+tmdb: https://www.themoviedb.org/movie/135397-jurassic-world
+directors: Colin Trevorrow
+screenplay:
+  - Rick Jaffa
+  - Amanda Silver
+  - Derek Connolly
+  - Colin Trevorrow
+producers:
+  - Frank Marshall
+  - Patrick Crowley
+music: Michael Giacchino
+cinematography: John Schwartzman
+editors: Kevin Stitt
+production:
+  - Universal Pictures
+  - Amblin Entertainment
+  - The Kennedy/Marshall Company
+distributors: Universal Pictures
+characters:
+  - name: Owen Grady
+    actor: Chris Pratt
+  - name: Claire Dearing
+    actor: Bryce Dallas Howard
+  - name: Vic Hoskins
+    actor: Vincent D'Onofrio
+  - name: Gray Mitchell
+    actor: Ty Simpkins
+  - name: Zach Mitchell
+    actor: Nick Robinson
+  - name: Simon Masrani
+    actor: Irrfan Khan
+  - name: Henry Wu
+    actor: BD Wong
+  - name: Barry Sembene
+    actor: Omar Sy

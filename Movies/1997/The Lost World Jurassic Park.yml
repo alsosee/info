@@ -1,0 +1,47 @@
+name: "The Lost World: Jurassic Park"
+series: Jurassic Park
+previous: Movies/1993/Jurassic Park
+description: >
+  A research team travels to Isla Sorna, the hidden breeding ground for Jurassic Park's dinosaurs,
+  while a rival expedition tries to capture the animals for a new mainland attraction.
+released: 1997-05-23
+rating: PG-13
+length: 2h9m
+genres:
+  - science fiction
+  - adventure
+  - action
+wikipedia: https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park
+imdb: https://www.imdb.com/title/tt0119567
+tmdb: https://www.themoviedb.org/movie/330-the-lost-world-jurassic-park
+directors: Steven Spielberg
+screenplay: David Koepp
+producers:
+  - Gerald R. Molen
+  - Colin Wilson
+music: John Williams
+cinematography: Janusz Kaminski
+editors: Michael Kahn
+production:
+  - Universal Pictures
+  - Amblin Entertainment
+distributors: Universal Pictures
+characters:
+  - name: Ian Malcolm
+    actor: Jeff Goldblum
+  - name: Sarah Harding
+    actor: Julianne Moore
+  - name: Roland Tembo
+    actor: Pete Postlethwaite
+  - name: Peter Ludlow
+    actor: Arliss Howard
+  - name: Nick Van Owen
+    actor: Vince Vaughn
+  - name: Kelly Curtis
+    actor: Vanessa Lee Chester
+  - name: Eddie Carr
+    actor: Richard Schiff
+  - name: Dieter Stark
+    actor: Peter Stormare
+  - name: John Hammond
+    actor: Richard Attenborough
