@@ -23,7 +23,7 @@ concurrency:
 jobs:
   main:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - name: Clone info
         uses: actions/checkout@v6
