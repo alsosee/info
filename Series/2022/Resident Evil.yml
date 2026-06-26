@@ -1,0 +1,49 @@
+name: Resident Evil
+description: >
+  Live-action action horror series set across two timelines, following Jade and Billie Wesker as teenagers in New Raccoon City and Jade years later in a world transformed by the T-virus.
+based_on: Games/Video/Series/Resident Evil
+released: 2022-07-14
+rating: TV-MA
+genres:
+  - action
+  - horror
+network: Netflix
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_(TV_series)
+imdb: https://www.imdb.com/title/tt9660182
+tmdb: https://www.themoviedb.org/tv/108296-resident-evil/season/1
+netflix: https://www.netflix.com/title/80996532
+creators: Andrew Dabb
+music: Gregory Reveret
+production:
+  - Amalgamated Nonsense
+  - Constantin Television
+characters:
+  - name: Jade Wesker
+    actor: Ella Balinska
+  - name: Young Jade Wesker
+    actor: Tamara Smart
+  - name: Billie Wesker
+    actor: Adeline Rudolph
+  - name: Young Billie Wesker
+    actor: Siena Agudong
+  - name: Albert Wesker
+    actor: Lance Reddick
+  - name: Evelyn Marcus
+    actor: Paola Nunez
+episodes:
+  - name: Welcome to New Raccoon City
+    released: 2022-07-14
+  - name: The Devil You Know
+    released: 2022-07-14
+  - name: The Light
+    released: 2022-07-14
+  - name: The Turn
+    released: 2022-07-14
+  - name: Home Movies
+    released: 2022-07-14
+  - name: Someone's Little Girl
+    released: 2022-07-14
+  - name: Parasite
+    released: 2022-07-14
+  - name: Revelations
+    released: 2022-07-14

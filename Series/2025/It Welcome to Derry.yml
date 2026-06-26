@@ -1,0 +1,150 @@
+name: "It: Welcome to Derry"
+description: >
+  In 1962, the Hanlon family moves to Derry, Maine as a missing-child case and disturbing visions reveal that the town's recurring evil is stirring again. The season expands the backstory of Pennywise and Derry as a prequel to the 2017 and 2019 It films.
+based_on: Books/1986/It
+released: 2025-10-26
+rating: TV-MA
+genres:
+  - supernatural horror
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/It_%E2%80%93_Welcome_to_Derry
+imdb: https://www.imdb.com/title/tt19244304
+tmdb: https://www.themoviedb.org/tv/157239-it-welcome-to-derry/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/it_welcome_to_derry/s01
+website: https://www.hbo.com/it-welcome-to-derry
+trailer: https://www.youtube.com/watch?v=rdWYdYcZLrg
+creators:
+  - Andy Muschietti
+  - Barbara Muschietti
+  - Jason Fuchs
+writers:
+  - Jason Fuchs
+  - Brad Caleb Kane
+  - Austin Guzman
+  - Guadalís Del Carmen
+  - Gabe Hobson
+  - Helen Shang
+  - Cord Jefferson
+producers:
+  - Barbara Muschietti
+  - Andy Muschietti
+  - Jason Fuchs
+  - Brad Caleb Kane
+  - David Coatsworth
+  - Bill Skarsgård
+  - Dan Lin
+  - Roy Lee
+  - Shelley Meals
+music: Benjamin Wallfisch
+cinematography:
+  - Daniel Vilar
+  - Rasmus Heise
+  - Luc Montpellier
+  - Paul Sarossy
+  - Catherine Lutes
+editors:
+  - Esther Sokolow
+  - Matthew V. Colonna
+  - Grant Wooldridge
+  - Glenn Garland
+production:
+  - Rideback
+  - Vertigo Entertainment
+  - FiveTen Productions
+  - K Plus Ultra
+  - Double Dream
+  - Warner Bros. Television
+  - HBO
+characters:
+  - name: Charlotte Hanlon
+    actor: Taylour Paige
+  - name: Leroy Hanlon
+    actor: Jovan Adepo
+  - name: Francis Shaw
+    actor: James Remar
+  - name: Hank Grogan
+    actor: Stephen Rider
+  - name: Marge Truman
+    actor: Matilda Lawler
+  - name: Veronica "Ronnie" Grogan
+    actor: Amanda Christine
+  - name: Lilly Bainbridge
+    actor: Clara Stack
+  - name: Will Hanlon
+    actor: Blake Cameron James
+  - name: Rich Santos
+    actor: Arian S. Cartaya
+  - name: Matty Clements
+    actor: Miles Ekhardt
+  - name: Teddy Uris
+    actor: Mikkal Karim-Fidler
+  - name: Phil Malkin
+    actor: Jack Molloy Legault
+  - name: Susie Malkin
+    actor: Matilda Legault
+  - name: Dick Hallorann
+    actor: Chris Chalk
+  - name: Pennywise
+    actor: Bill Skarsgård
+episodes:
+  - name: The Pilot
+    description: >
+      A missing boy, a military arrival, and disturbing visions draw several Derry residents toward the same hidden threat.
+    released: 2025-10-26
+    wikipedia: https://en.wikipedia.org/wiki/The_Pilot_(It:_Welcome_to_Derry)
+    directors: Andy Muschietti
+    writers: Jason Fuchs
+  - name: The Thing in the Dark
+    description: >
+      The police investigation focuses on Hank Grogan while Leroy Hanlon and Dick Hallorann are pulled into a military search for an unknown force.
+    released: 2025-11-02
+    directors: Andy Muschietti
+    writers: Austin Guzman
+  - name: Now You See It
+    description: >
+      Lilly and Ronnie look for proof of what is haunting Derry, while Hallorann's abilities become useful to Shaw's military operation.
+    released: 2025-11-09
+    length: 58m
+    wikipedia: https://en.wikipedia.org/wiki/Now_You_See_It_(It:_Welcome_to_Derry)
+    directors: Andrew Bernstein
+    writers:
+      - Guadalís Del Carmen
+      - Gabe Hobson
+  - name: The Great Swirling Apparatus of Our Planet's Function
+    description: >
+      The children's evidence raises new questions about Derry's evil as Hallorann glimpses more of the force beneath the town.
+    released: 2025-11-16
+    directors: Andrew Bernstein
+    writers: Helen Shang
+  - name: 29 Neibolt Street
+    description: >
+      The search leads the children and the military toward Neibolt Street, where Derry's old pattern begins to close in around them.
+    released: 2025-11-23
+    directors: Emmanuel Osei-Kuffour Jr.
+    writers: Brad Caleb Kane
+  - name: In the Name of the Father
+    description: >
+      Lilly becomes fixated on a possible way to stop the entity while tensions around Hank, Charlotte, and the Black Spot intensify.
+    released: 2025-11-30
+    wikipedia: https://en.wikipedia.org/wiki/In_the_Name_of_the_Father_(It:_Welcome_to_Derry)
+    directors: Jamie Travis
+    writers:
+      - Jason Fuchs
+      - Cord Jefferson
+      - Brad Caleb Kane
+  - name: The Black Spot
+    description: >
+      Derry's buried history and present-day violence converge around the Black Spot as Pennywise's past becomes clearer.
+    released: 2025-12-07
+    length: 63m
+    wikipedia: https://en.wikipedia.org/wiki/The_Black_Spot_(It:_Welcome_to_Derry)
+    directors: Andy Muschietti
+    writers:
+      - Jason Fuchs
+      - Brad Caleb Kane
+  - name: Winter Fire
+    description: >
+      The children and adults try to protect Derry from Pennywise as the military plan for the entity threatens to break containment.
+    released: 2025-12-14
+    directors: Andy Muschietti
+    writers: Jason Fuchs

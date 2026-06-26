@@ -1,0 +1,72 @@
+name: It
+description: >
+  In 1960, a group of children in Derry, Maine discover that an ancient shapeshifting creature is preying on the town. Thirty years later, the surviving members of the Losers Club return to face the entity again after it resurfaces.
+based_on: Books/1986/It
+released: 1990-11-18
+rating: TV-14
+genres:
+  - supernatural horror
+  - psychological drama
+  - coming-of-age
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/It_(miniseries)
+imdb: https://www.imdb.com/title/tt0099864
+tmdb: https://www.themoviedb.org/tv/19614-it/season/1
+directors: Tommy Lee Wallace
+writers:
+  - Lawrence D. Cohen
+  - Tommy Lee Wallace
+producers:
+  - Mark Basino
+  - Allen S. Epstein
+  - Jim Green
+music: Richard Bellis
+cinematography: Richard Leiterman
+editors:
+  - David Blangsted
+  - Robert F. Shugrue
+production:
+  - Lorimar Television
+  - DawnField Entertainment
+  - The Konigsberg & Sanitsky Company
+  - Green/Epstein Productions
+characters:
+  - name: Pennywise
+    actor: Tim Curry
+  - name: Bill Denbrough
+    actor: Richard Thomas
+  - name: Beverly Marsh
+    actor: Annette O'Toole
+  - name: Ben Hanscom
+    actor: John Ritter
+  - name: Richie Tozier
+    actor: Harry Anderson
+  - name: Eddie Kaspbrak
+    actor: Dennis Christopher
+  - name: Mike Hanlon
+    actor: Tim Reid
+  - name: Stanley Uris
+    actor: Richard Masur
+  - name: Young Bill Denbrough
+    actor: Jonathan Brandis
+  - name: Young Beverly Marsh
+    actor: Emily Perkins
+  - name: Young Richie Tozier
+    actor: Seth Green
+episodes:
+  - name: Part 1
+    description: >
+      In 1960, the children who become the Losers Club investigate a series of disappearances and frightening visions in Derry.
+    released: 1990-11-18
+    length: 1h36m
+    directors: Tommy Lee Wallace
+    writers:
+      - Lawrence D. Cohen
+      - Tommy Lee Wallace
+  - name: Part 2
+    description: >
+      Thirty years later, the adult Losers return to Derry after a new wave of attacks suggests that the creature has awakened again.
+    released: 1990-11-20
+    length: 1h36m
+    directors: Tommy Lee Wallace
+    writers: Tommy Lee Wallace

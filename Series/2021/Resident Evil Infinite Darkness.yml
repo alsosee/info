@@ -1,0 +1,39 @@
+name: "Resident Evil: Infinite Darkness"
+description: >
+  Animated miniseries in which Leon S. Kennedy and Claire Redfield investigate linked bioterror incidents involving the White House and Penamstan.
+based_on: Games/Video/Series/Resident Evil
+released: 2021-07-08
+rating: TV-MA
+genres:
+  - animation
+  - horror
+network: Netflix
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Infinite_Darkness
+imdb: https://www.imdb.com/title/tt13173456
+tmdb: https://www.themoviedb.org/tv/110642-resident-evil-infinite-darkness/season/1
+netflix: https://www.netflix.com/title/80987064
+creators: Hiroyuki Kobayashi
+directors: Eiichiro Hasumi
+writers: Shogo Muto
+production:
+  - Capcom
+  - TMS Entertainment
+  - Quebico
+characters:
+  - name: Leon S. Kennedy
+    voice: Nick Apostolides
+  - name: Claire Redfield
+    voice: Stephanie Panisello
+  - name: Jason
+    voice: Ray Chase
+  - name: Shen May
+    voice: Jona Xiao
+episodes:
+  - name: Episode 1
+    released: 2021-07-08
+  - name: Episode 2
+    released: 2021-07-08
+  - name: Episode 3
+    released: 2021-07-08
+  - name: Episode 4
+    released: 2021-07-08
