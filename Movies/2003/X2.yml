@@ -1,0 +1,58 @@
+name: X2
+series: X-Men
+previous: Movies/2000/X-Men
+description: >
+  After an attack on the White House intensifies fear of mutants, the X-Men and
+  Magneto's allies face a military scientist with a plan to destroy mutantkind.
+released: 2003-05-02
+rating: PG-13
+length: 2h14m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/X2_(film)
+imdb: https://www.imdb.com/title/tt0290334
+tmdb: https://www.themoviedb.org/movie/36658-x2
+rotten_tomatoes: https://www.rottentomatoes.com/m/x2_xmen_united
+metacritic: https://www.metacritic.com/movie/x2-x-men-united/
+directors: Bryan Singer
+producers:
+  - Lauren Shuler Donner
+  - Ralph Winter
+screenplay:
+  - Michael Dougherty
+  - Dan Harris
+  - David Hayter
+music: John Ottman
+cinematography: Newton Thomas Sigel
+editors:
+  - John Ottman
+  - Elliot Graham
+production:
+  - 20th Century Fox
+  - Marvel Enterprises
+  - The Donners' Company
+  - Bad Hat Harry Productions
+distributors: 20th Century Fox
+characters:
+  - name: Logan / Wolverine
+    actor: Hugh Jackman
+  - name: Charles Xavier / Professor X
+    actor: Patrick Stewart
+  - name: Erik Lehnsherr / Magneto
+    actor: Ian McKellen
+  - name: Ororo Munroe / Storm
+    actor: Halle Berry
+  - name: Jean Grey
+    actor: Famke Janssen
+  - name: Scott Summers / Cyclops
+    actor: James Marsden
+  - name: Marie / Rogue
+    actor: Anna Paquin
+  - name: Mystique
+    actor: Rebecca Romijn
+  - name: William Stryker
+    actor: Brian Cox
+  - name: Kurt Wagner / Nightcrawler
+    actor: Alan Cumming

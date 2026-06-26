@@ -1,0 +1,58 @@
+name: "X-Men: Apocalypse"
+series: X-Men
+previous: Movies/2014/X-Men Days of Future Past
+description: >
+  When the ancient mutant Apocalypse awakens in 1983, the young X-Men must
+  stop him and his followers from remaking the world through destruction.
+released: 2016-05-27
+rating: PG-13
+length: 2h24m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/X-Men:_Apocalypse
+imdb: https://www.imdb.com/title/tt3385516
+tmdb: https://www.themoviedb.org/movie/246655-x-men-apocalypse
+rotten_tomatoes: https://www.rottentomatoes.com/m/x_men_apocalypse
+metacritic: https://www.metacritic.com/movie/x-men-apocalypse/
+directors: Bryan Singer
+producers:
+  - Simon Kinberg
+  - Hutch Parker
+  - Lauren Shuler Donner
+  - Bryan Singer
+screenplay: Simon Kinberg
+music: John Ottman
+cinematography: Newton Thomas Sigel
+editors:
+  - John Ottman
+  - Michael Louis Hill
+production:
+  - 20th Century Fox
+  - Marvel Entertainment
+  - Bad Hat Harry Productions
+  - Kinberg Genre
+  - The Donners' Company
+distributors: 20th Century Fox
+characters:
+  - name: Charles Xavier / Professor X
+    actor: James McAvoy
+  - name: Erik Lehnsherr / Magneto
+    actor: Michael Fassbender
+  - name: Raven Darkholme / Mystique
+    actor: Jennifer Lawrence
+  - name: En Sabah Nur / Apocalypse
+    actor: Oscar Isaac
+  - name: Hank McCoy / Beast
+    actor: Nicholas Hoult
+  - name: Moira MacTaggert
+    actor: Rose Byrne
+  - name: Scott Summers / Cyclops
+    actor: Tye Sheridan
+  - name: Jean Grey
+    actor: Sophie Turner
+  - name: Betsy Braddock / Psylocke
+    actor: Olivia Munn
+  - name: Alex Summers / Havok
+    actor: Lucas Till

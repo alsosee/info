@@ -1,0 +1,60 @@
+name: "X-Men Origins: Wolverine"
+series: X-Men
+previous: Movies/2006/X-Men The Last Stand
+description: >
+  Logan's violent past with his half-brother Victor Creed leads him into the
+  Weapon X program and the experiment that bonds adamantium to his skeleton.
+released: 2009-05-01
+rating: PG-13
+length: 1h47m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/X-Men_Origins:_Wolverine
+imdb: https://www.imdb.com/title/tt0458525
+tmdb: https://www.themoviedb.org/movie/2080-x-men-origins-wolverine
+rotten_tomatoes: https://www.rottentomatoes.com/m/wolverine
+metacritic: https://www.metacritic.com/movie/x-men-origins-wolverine/
+directors: Gavin Hood
+producers:
+  - Lauren Shuler Donner
+  - Ralph Winter
+  - Hugh Jackman
+  - John Palermo
+screenplay:
+  - David Benioff
+  - Skip Woods
+music: Harry Gregson-Williams
+cinematography: Donald McAlpine
+editors:
+  - Nicolas De Toth
+  - Megan Gill
+production:
+  - 20th Century Fox
+  - Marvel Entertainment
+  - Dune Entertainment
+  - The Donners' Company
+  - Seed Productions
+distributors: 20th Century Fox
+characters:
+  - name: James Howlett / Logan / Wolverine
+    actor: Hugh Jackman
+  - name: Victor Creed
+    actor: Liev Schreiber
+  - name: William Stryker
+    actor: Danny Huston
+  - name: Kayla Silverfox
+    actor: Lynn Collins
+  - name: Wade Wilson
+    actor: Ryan Reynolds
+  - name: Remy LeBeau / Gambit
+    actor: Taylor Kitsch
+  - name: John Wraith
+    actor: will.i.am
+  - name: Chris Bradley
+    actor: Dominic Monaghan
+  - name: Fred Dukes
+    actor: Kevin Durand
+  - name: Agent Zero
+    actor: Daniel Henney

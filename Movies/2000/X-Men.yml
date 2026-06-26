@@ -1,0 +1,54 @@
+name: X-Men
+series: X-Men
+description: >
+  A teenage mutant is drawn into a conflict between Professor Charles Xavier's
+  X-Men and Magneto's Brotherhood as both sides fight over humanity's future.
+released: 2000-07-14
+rating: PG-13
+length: 1h44m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/X-Men_(film)
+imdb: https://www.imdb.com/title/tt0120903
+tmdb: https://www.themoviedb.org/movie/36657-x-men
+rotten_tomatoes: https://www.rottentomatoes.com/m/xmen
+metacritic: https://www.metacritic.com/movie/x-men/
+directors: Bryan Singer
+producers:
+  - Lauren Shuler Donner
+  - Ralph Winter
+screenplay: David Hayter
+music: Michael Kamen
+cinematography: Newton Thomas Sigel
+editors:
+  - Steven Rosenblum
+  - Kevin Stitt
+  - John Wright
+production:
+  - Marvel Entertainment Group
+  - The Donners' Company
+  - Bad Hat Harry Productions
+distributors: 20th Century Fox
+characters:
+  - name: Charles Xavier / Professor X
+    actor: Patrick Stewart
+  - name: Logan / Wolverine
+    actor: Hugh Jackman
+  - name: Erik Lehnsherr / Magneto
+    actor: Ian McKellen
+  - name: Ororo Munroe / Storm
+    actor: Halle Berry
+  - name: Jean Grey
+    actor: Famke Janssen
+  - name: Scott Summers / Cyclops
+    actor: James Marsden
+  - name: Senator Robert Kelly
+    actor: Bruce Davison
+  - name: Mystique
+    actor: Rebecca Romijn
+  - name: Toad
+    actor: Ray Park
+  - name: Marie / Rogue
+    actor: Anna Paquin

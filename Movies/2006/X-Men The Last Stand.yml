@@ -1,0 +1,60 @@
+name: "X-Men: The Last Stand"
+series: X-Men
+previous: Movies/2003/X2
+description: >
+  A pharmaceutical cure for mutation divides the mutant community while Jean
+  Grey returns with dangerous new power that threatens the X-Men from within.
+released: 2006-05-26
+rating: PG-13
+length: 1h44m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/X-Men:_The_Last_Stand
+imdb: https://www.imdb.com/title/tt0376994
+tmdb: https://www.themoviedb.org/movie/36668-x-men-the-last-stand
+rotten_tomatoes: https://www.rottentomatoes.com/m/x_men_3_the_last_stand
+metacritic: https://www.metacritic.com/movie/x-men-the-last-stand/
+directors: Brett Ratner
+producers:
+  - Lauren Shuler Donner
+  - Ralph Winter
+  - Avi Arad
+screenplay:
+  - Simon Kinberg
+  - Zak Penn
+music: John Powell
+cinematography: Dante Spinotti
+editors:
+  - Mark Helfrich
+  - Mark Goldblatt
+  - Julia Wong
+production:
+  - 20th Century Fox
+  - Marvel Entertainment
+  - The Donners' Company
+  - Dune Entertainment
+  - Ingenious Film Partners
+distributors: 20th Century Fox
+characters:
+  - name: Logan / Wolverine
+    actor: Hugh Jackman
+  - name: Ororo Munroe / Storm
+    actor: Halle Berry
+  - name: Erik Lehnsherr / Magneto
+    actor: Ian McKellen
+  - name: Jean Grey / Phoenix
+    actor: Famke Janssen
+  - name: Marie / Rogue
+    actor: Anna Paquin
+  - name: Hank McCoy / Beast
+    actor: Kelsey Grammer
+  - name: Scott Summers / Cyclops
+    actor: James Marsden
+  - name: Mystique
+    actor: Rebecca Romijn
+  - name: Bobby Drake / Iceman
+    actor: Shawn Ashmore
+  - name: Charles Xavier / Professor X
+    actor: Patrick Stewart

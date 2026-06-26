@@ -1,0 +1,63 @@
+name: "X-Men: First Class"
+series: X-Men
+previous: Movies/2009/X-Men Origins Wolverine
+description: >
+  In the 1960s, Charles Xavier and Erik Lehnsherr gather young mutants as the
+  Cold War brings them into conflict with Sebastian Shaw's Hellfire Club.
+released: 2011-06-03
+rating: PG-13
+length: 2h12m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/X-Men:_First_Class
+imdb: https://www.imdb.com/title/tt1270798
+tmdb: https://www.themoviedb.org/movie/49538-x-men-first-class
+rotten_tomatoes: https://www.rottentomatoes.com/m/x_men_first_class
+metacritic: https://www.metacritic.com/movie/x-men-first-class/
+directors: Matthew Vaughn
+producers:
+  - Lauren Shuler Donner
+  - Bryan Singer
+  - Simon Kinberg
+  - Gregory Goodman
+screenplay:
+  - Ashley Edward Miller
+  - Zack Stentz
+  - Jane Goldman
+  - Matthew Vaughn
+music: Henry Jackman
+cinematography: John Mathieson
+editors:
+  - Lee Smith
+  - Eddie Hamilton
+production:
+  - 20th Century Fox
+  - Marvel Entertainment
+  - The Donners' Company
+  - Bad Hat Harry Productions
+  - Dune Entertainment
+  - Ingenious Film Partners
+distributors: 20th Century Fox
+characters:
+  - name: Charles Xavier
+    actor: James McAvoy
+  - name: Erik Lehnsherr
+    actor: Michael Fassbender
+  - name: Moira MacTaggert
+    actor: Rose Byrne
+  - name: Emma Frost
+    actor: January Jones
+  - name: Man in Black
+    actor: Oliver Platt
+  - name: Sebastian Shaw
+    actor: Kevin Bacon
+  - name: Raven Darkholme / Mystique
+    actor: Jennifer Lawrence
+  - name: Hank McCoy / Beast
+    actor: Nicholas Hoult
+  - name: Angel Salvadore
+    actor: Zoë Kravitz
+  - name: Alex Summers / Havok
+    actor: Lucas Till

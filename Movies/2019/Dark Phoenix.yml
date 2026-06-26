@@ -1,0 +1,57 @@
+name: Dark Phoenix
+series: X-Men
+previous: Movies/2016/X-Men Apocalypse
+description: >
+  After a space mission exposes Jean Grey to a cosmic force, her growing power
+  destabilizes the X-Men and draws the attention of alien manipulators.
+released: 2019-06-07
+rating: PG-13
+length: 1h54m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/Dark_Phoenix_(film)
+imdb: https://www.imdb.com/title/tt6565702
+tmdb: https://www.themoviedb.org/movie/320288-dark-phoenix
+rotten_tomatoes: https://www.rottentomatoes.com/m/dark_phoenix
+metacritic: https://www.metacritic.com/movie/dark-phoenix/
+directors: Simon Kinberg
+producers:
+  - Simon Kinberg
+  - Hutch Parker
+  - Lauren Shuler Donner
+  - Todd Hallowell
+screenplay: Simon Kinberg
+music: Hans Zimmer
+cinematography: Mauro Fiore
+editors: Lee Smith
+production:
+  - 20th Century Fox
+  - Marvel Entertainment
+  - Kinberg Genre
+  - Hutch Parker Productions
+  - Bad Hat Harry Productions
+  - The Donners' Company
+distributors: 20th Century Fox
+characters:
+  - name: Charles Xavier / Professor X
+    actor: James McAvoy
+  - name: Erik Lehnsherr / Magneto
+    actor: Michael Fassbender
+  - name: Vuk
+    actor: Jessica Chastain
+  - name: Raven Darkholme / Mystique
+    actor: Jennifer Lawrence
+  - name: Hank McCoy / Beast
+    actor: Nicholas Hoult
+  - name: Jean Grey / Phoenix
+    actor: Sophie Turner
+  - name: Scott Summers / Cyclops
+    actor: Tye Sheridan
+  - name: Ororo Munroe / Storm
+    actor: Alexandra Shipp
+  - name: Peter Maximoff / Quicksilver
+    actor: Evan Peters
+  - name: Kurt Wagner / Nightcrawler
+    actor: Kodi Smit-McPhee

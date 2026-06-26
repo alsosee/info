@@ -1,0 +1,57 @@
+name: "X-Men: Days of Future Past"
+series: X-Men
+previous: Movies/2013/The Wolverine
+description: >
+  In a future where Sentinels hunt mutants, Wolverine's consciousness is sent
+  back to 1973 to help the younger X-Men prevent the war before it begins.
+released: 2014-05-23
+rating: PG-13
+length: 2h12m
+genres:
+  - superhero
+  - action
+  - sci-fi
+wikipedia: https://en.wikipedia.org/wiki/X-Men:_Days_of_Future_Past
+imdb: https://www.imdb.com/title/tt1877832
+tmdb: https://www.themoviedb.org/movie/127585-x-men-days-of-future-past
+rotten_tomatoes: https://www.rottentomatoes.com/m/x_men_days_of_future_past
+metacritic: https://www.metacritic.com/movie/x-men-days-of-future-past/
+directors: Bryan Singer
+producers:
+  - Lauren Shuler Donner
+  - Bryan Singer
+  - Simon Kinberg
+  - Hutch Parker
+screenplay: Simon Kinberg
+music: John Ottman
+cinematography: Newton Thomas Sigel
+editors: John Ottman
+production:
+  - 20th Century Fox
+  - Marvel Entertainment
+  - The Donners' Company
+  - Bad Hat Harry Productions
+  - TSG Entertainment
+  - Kinberg Genre
+distributors: 20th Century Fox
+characters:
+  - name: Logan / Wolverine
+    actor: Hugh Jackman
+  - name: Charles Xavier
+    actor: James McAvoy
+  - name: Erik Lehnsherr
+    actor: Michael Fassbender
+  - name: Raven Darkholme / Mystique
+    actor: Jennifer Lawrence
+  - name: Ororo Munroe / Storm
+    actor: Halle Berry
+  - name: Kitty Pryde
+    actor: Elliot Page
+  - name: Bolivar Trask
+    actor: Peter Dinklage
+  - name: Erik Lehnsherr / Magneto
+    actor: Ian McKellen
+  - name: Charles Xavier / Professor X
+    actor: Patrick Stewart
+  - name: Hank McCoy / Beast
+    actor: Nicholas Hoult
