@@ -1,0 +1,37 @@
+name: Freddy vs. Jason
+series: Friday the 13th
+description: >
+  Freddy Krueger manipulates Jason Voorhees into spreading fear in Springwood,
+  forcing the two killers into conflict.
+previous: Movies/2002/Jason X
+released: 2003-08-15
+rating: R
+length: 97m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Freddy_vs._Jason
+imdb: https://www.imdb.com/title/tt0329101
+directors: Ronny Yu
+writers:
+  - Damian Shannon
+  - Mark Swift
+producers: Sean S. Cunningham
+music: Graeme Revell
+cinematography: Fred Murphy
+editors: Mark Stevens
+production:
+  - New Line Cinema
+  - Crystal Lake Entertainment
+distributors: New Line Cinema
+characters:
+  - name: Lori Campbell
+    actor: Monica Keena
+  - name: Kia Waterson
+    actor: Kelly Rowland
+  - name: Will Rollins
+    actor: Jason Ritter
+  - name: Freddy Krueger
+    actor: Robert Englund
+  - name: Jason Voorhees
+    actor: Ken Kirzinger

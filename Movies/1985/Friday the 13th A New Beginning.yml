@@ -1,0 +1,39 @@
+name: "Friday the 13th: A New Beginning"
+series: Friday the 13th
+description: >
+  Years after Jason Voorhees terrorized him, Tommy Jarvis enters a halfway house
+  where a new string of killings reopens old fears.
+previous: Movies/1984/Friday the 13th The Final Chapter
+released: 1985-03-22
+rating: R
+length: 92m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th:_A_New_Beginning
+imdb: https://www.imdb.com/title/tt0089173
+directors: Danny Steinmann
+screenplay:
+  - Martin Kitrosser
+  - David Cohen
+  - Danny Steinmann
+story_by:
+  - Martin Kitrosser
+  - David Cohen
+producers: Timothy Silver
+music: Harry Manfredini
+cinematography: Stephen L. Posey
+editors: Bruce Green
+production:
+  - Georgetown Productions
+  - Terror
+distributors: Paramount Pictures
+characters:
+  - name: Pam Roberts
+    actor: Melanie Kinnaman
+  - name: Tommy Jarvis
+    actor: John Shepherd
+  - name: Reggie Winter
+    actor: Shavar Ross
+  - name: Roy Burns
+    actor: Dick Wieand

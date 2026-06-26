@@ -1,0 +1,34 @@
+name: Friday the 13th
+series: Friday the 13th
+description: >
+  A group of young counselors preparing to reopen Camp Crystal Lake are stalked
+  by a killer tied to the camp's violent past.
+released: 1980-05-09
+rating: R
+length: 95m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th_(1980_film)
+imdb: https://www.imdb.com/title/tt0080761
+directors: Sean S. Cunningham
+writers: Victor Miller
+producers: Sean S. Cunningham
+music: Harry Manfredini
+cinematography: Barry Abrams
+editors: Bill Freda
+production: Georgetown Productions
+distributors:
+  - Paramount Pictures
+  - Warner Bros.
+characters:
+  - name: Alice Hardy
+    actor: Adrienne King
+  - name: Pamela Voorhees
+    actor: Betsy Palmer
+  - name: Jack Burrell
+    actor: Kevin Bacon
+  - name: Steve Christy
+    actor: Peter Brouwer
+  - name: Jason Voorhees
+    actor: Ari Lehman

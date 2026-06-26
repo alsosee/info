@@ -1,0 +1,33 @@
+name: Friday the 13th Part 2
+series: Friday the 13th
+description: >
+  Five years after the Camp Crystal Lake murders, a counselor-training camp near
+  the lake becomes the target of Jason Voorhees.
+previous: Movies/1980/Friday the 13th
+released: 1981-05-01
+rating: R
+length: 87m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th_Part_2
+imdb: https://www.imdb.com/title/tt0082418
+directors: Steve Miner
+writers: Ron Kurz
+producers: Steve Miner
+music: Harry Manfredini
+cinematography: Peter Stein
+editors: Susan E. Cunningham
+production: Georgetown Productions
+distributors: Paramount Pictures
+characters:
+  - name: Ginny Field
+    actor: Amy Steel
+  - name: Paul Holt
+    actor: John Furey
+  - name: Jason Voorhees
+    actor: Warrington Gillette
+  - name: Alice Hardy
+    actor: Adrienne King
+  - name: Pamela Voorhees
+    actor: Betsy Palmer

@@ -1,0 +1,49 @@
+name: Friday the 13th
+series: Friday the 13th
+description: >
+  A young man searching for his missing sister around Crystal Lake crosses paths
+  with Jason Voorhees and a group staying at a nearby cabin.
+remake_of: Movies/1980/Friday the 13th
+released: 2009-02-13
+rating: R
+length: 97m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th_(2009_film)
+imdb: https://www.imdb.com/title/tt0758746
+directors: Marcus Nispel
+screenplay:
+  - Damian Shannon
+  - Mark Swift
+story_by:
+  - Damian Shannon
+  - Mark Swift
+  - Mark Wheaton
+producers:
+  - Sean S. Cunningham
+  - Michael Bay
+  - Andrew Form
+  - Brad Fuller
+music: Steve Jablonsky
+cinematography: Daniel C. Pearl
+editors: Ken Blackwell
+production:
+  - New Line Cinema
+  - Paramount Pictures
+  - Platinum Dunes
+  - Crystal Lake Entertainment
+distributors:
+  - Warner Bros. Pictures
+  - Paramount Pictures
+characters:
+  - name: Clay Miller
+    actor: Jared Padalecki
+  - name: Jenna Montgomery
+    actor: Danielle Panabaker
+  - name: Whitney Miller
+    actor: Amanda Righetti
+  - name: Trent Sutton
+    actor: Travis Van Winkle
+  - name: Jason Voorhees
+    actor: Derek Mears

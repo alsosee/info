@@ -1,0 +1,36 @@
+name: "Friday the 13th: The Final Chapter"
+series: Friday the 13th
+description: >
+  After surviving the events at Higgins Haven, Jason Voorhees returns to Crystal
+  Lake and targets the Jarvis family and their visiting neighbors.
+previous: Movies/1982/Friday the 13th Part III
+released: 1984-04-13
+rating: R
+length: 91m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th:_The_Final_Chapter
+imdb: https://www.imdb.com/title/tt0087298
+directors: Joseph Zito
+screenplay: Barney Cohen
+story_by: Bruce Hidemi Sakow
+producers: Frank Mancuso Jr.
+music: Harry Manfredini
+cinematography: João Fernandes
+editors:
+  - Joel Goodman
+  - Daniel Loewenthal
+production: Friday Four
+distributors: Paramount Pictures
+characters:
+  - name: Trish Jarvis
+    actor: Kimberly Beck
+  - name: Tommy Jarvis
+    actor: Corey Feldman
+  - name: Jason Voorhees
+    actor: Ted White
+  - name: Rob Dier
+    actor: Erich Anderson
+  - name: Jimmy Mortimer
+    actor: Crispin Glover
