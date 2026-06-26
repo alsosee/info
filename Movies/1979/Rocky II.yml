@@ -1,0 +1,46 @@
+name: Rocky II
+series: Rocky
+description: >
+  After his narrow loss to Apollo Creed, Rocky Balboa struggles with fame,
+  family, and money while Apollo pushes for a rematch to settle doubts about
+  their first fight.
+previous: Movies/1976/Rocky
+released: 1979-06-15
+rating: PG
+length: 2h
+genres:
+  - sports
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Rocky_II
+imdb: https://www.imdb.com/title/tt0079817
+tmdb: https://www.themoviedb.org/movie/1367-rocky-ii
+directors: Sylvester Stallone
+producers:
+  - Irwin Winkler
+  - Robert Chartoff
+screenplay: Sylvester Stallone
+music: Bill Conti
+cinematography: Bill Butler
+editors:
+  - Danford B. Greene
+  - Stanford C. Allen
+  - Janice Hampton
+production: Chartoff-Winkler Productions
+distributors: United Artists
+characters:
+  - name: Rocky Balboa
+    actor: Sylvester Stallone
+  - name: Adrian Balboa
+    actor: Talia Shire
+  - name: Paulie Pennino
+    actor: Burt Young
+  - name: Apollo Creed
+    actor: Carl Weathers
+  - name: Mickey Goldmill
+    actor: Burgess Meredith
+  - name: Duke Evers
+    actor: Tony Burton
+  - name: Mary Anne Creed
+    actor: Sylvia Meals
+  - name: Tony Gazzo
+    actor: Joe Spinell

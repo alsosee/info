@@ -1,0 +1,44 @@
+name: Rocky
+series: Rocky
+description: >
+  Small-time Philadelphia boxer Rocky Balboa gets an unlikely shot at the world
+  heavyweight championship against Apollo Creed and tries to prove he can go the
+  distance.
+released: 1976-12-03
+rating: PG
+length: 1h59m
+genres:
+  - sports
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Rocky
+imdb: https://www.imdb.com/title/tt0075148
+tmdb: https://www.themoviedb.org/movie/1366-rocky
+directors: John G. Avildsen
+producers:
+  - Irwin Winkler
+  - Robert Chartoff
+screenplay: Sylvester Stallone
+music: Bill Conti
+cinematography: James Crabe
+editors:
+  - Richard Halsey
+  - Scott Conrad
+production: Chartoff-Winkler Productions
+distributors: United Artists
+characters:
+  - name: Rocky Balboa
+    actor: Sylvester Stallone
+  - name: Adrian Pennino
+    actor: Talia Shire
+  - name: Paulie Pennino
+    actor: Burt Young
+  - name: Apollo Creed
+    actor: Carl Weathers
+  - name: Mickey Goldmill
+    actor: Burgess Meredith
+  - name: George Jergens
+    actor: Thayer David
+  - name: Tony Gazzo
+    actor: Joe Spinell
+  - name: Duke Evers
+    actor: Tony Burton

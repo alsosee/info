@@ -1,0 +1,50 @@
+name: Rocky Balboa
+series: Rocky
+description: >
+  Years after leaving boxing behind, widower Rocky Balboa is pulled back toward
+  the ring when a computer-simulated bout with the current champion sparks
+  public interest in one last exhibition fight.
+previous: Movies/1990/Rocky V
+released: 2006-12-20
+rating: PG
+length: 1h42m
+genres:
+  - sports
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Rocky_Balboa_(film)
+imdb: https://www.imdb.com/title/tt0479143
+tmdb: https://www.themoviedb.org/movie/1246-rocky-balboa
+directors: Sylvester Stallone
+producers:
+  - Charles Winkler
+  - William Chartoff
+  - David Winkler
+  - Kevin King-Templeton
+screenplay: Sylvester Stallone
+music: Bill Conti
+cinematography: Clark Mathis
+editors: Sean Albertson
+production:
+  - Metro-Goldwyn-Mayer Pictures
+  - Columbia Pictures
+  - Revolution Studios
+  - Chartoff Productions
+  - Winkler Films
+distributors:
+  - MGM Distribution Co.
+  - 20th Century Fox
+characters:
+  - name: Rocky Balboa
+    actor: Sylvester Stallone
+  - name: Paulie Pennino
+    actor: Burt Young
+  - name: Mason Dixon
+    actor: Antonio Tarver
+  - name: Marie
+    actor: Geraldine Hughes
+  - name: Robert Balboa Jr.
+    actor: Milo Ventimiglia
+  - name: Steps
+    actor: James Francis Kelly III
+  - name: Duke Evers
+    actor: Tony Burton

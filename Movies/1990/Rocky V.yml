@@ -1,0 +1,48 @@
+name: Rocky V
+series: Rocky
+description: >
+  Forced to retire and return to Philadelphia after financial and medical
+  setbacks, Rocky Balboa trains young boxer Tommy Gunn while struggling to
+  reconnect with his son.
+previous: Movies/1985/Rocky IV
+released: 1990-11-16
+rating: PG-13
+length: 1h51m
+genres:
+  - sports
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Rocky_V
+imdb: https://www.imdb.com/title/tt0100507
+tmdb: https://www.themoviedb.org/movie/1375-rocky-v
+directors: John G. Avildsen
+producers:
+  - Irwin Winkler
+  - Robert Chartoff
+screenplay: Sylvester Stallone
+music: Bill Conti
+cinematography: Steven Poster
+editors:
+  - John G. Avildsen
+  - Robert A. Ferretti
+  - Michael N. Knue
+production: Chartoff-Winkler Productions
+distributors:
+  - United Artists
+  - United International Pictures
+characters:
+  - name: Rocky Balboa
+    actor: Sylvester Stallone
+  - name: Adrian Balboa
+    actor: Talia Shire
+  - name: Paulie Pennino
+    actor: Burt Young
+  - name: Robert Balboa Jr.
+    actor: Sage Stallone
+  - name: Tommy Gunn
+    actor: Tommy Morrison
+  - name: Mickey Goldmill
+    actor: Burgess Meredith
+  - name: George Washington Duke
+    actor: Richard Gant
+  - name: Duke Evers
+    actor: Tony Burton

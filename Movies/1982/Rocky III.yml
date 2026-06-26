@@ -1,0 +1,47 @@
+name: Rocky III
+series: Rocky
+description: >
+  Rocky Balboa loses his edge after becoming champion and must turn to former
+  rival Apollo Creed when the powerful challenger Clubber Lang threatens his
+  title and confidence.
+previous: Movies/1979/Rocky II
+released: 1982-05-28
+rating: PG
+length: 1h40m
+genres:
+  - sports
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Rocky_III
+imdb: https://www.imdb.com/title/tt0084602
+tmdb: https://www.themoviedb.org/movie/1371-rocky-iii
+directors: Sylvester Stallone
+producers:
+  - Irwin Winkler
+  - Robert Chartoff
+screenplay: Sylvester Stallone
+music: Bill Conti
+cinematography: Bill Butler
+editors:
+  - Don Zimmerman
+  - Mark Warner
+production:
+  - United Artists
+  - Chartoff-Winkler Productions
+distributors: MGM/UA Entertainment Co.
+characters:
+  - name: Rocky Balboa
+    actor: Sylvester Stallone
+  - name: Adrian Balboa
+    actor: Talia Shire
+  - name: Paulie Pennino
+    actor: Burt Young
+  - name: Apollo Creed
+    actor: Carl Weathers
+  - name: Mickey Goldmill
+    actor: Burgess Meredith
+  - name: Clubber Lang
+    actor: Mr. T
+  - name: Thunderlips
+    actor: Hulk Hogan
+  - name: Duke Evers
+    actor: Tony Burton

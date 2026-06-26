@@ -1,0 +1,46 @@
+name: Rocky IV
+series: Rocky
+description: >
+  Rocky Balboa is drawn into a Cold War-era boxing showdown with Soviet fighter
+  Ivan Drago after Drago's exhibition bout with Apollo Creed ends in tragedy.
+previous: Movies/1982/Rocky III
+released: 1985-11-27
+rating: PG
+length: 1h31m
+genres:
+  - sports
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Rocky_IV
+imdb: https://www.imdb.com/title/tt0089927
+tmdb: https://www.themoviedb.org/movie/1374-rocky-iv
+directors: Sylvester Stallone
+producers:
+  - Irwin Winkler
+  - Robert Chartoff
+screenplay: Sylvester Stallone
+music: Vince DiCola
+cinematography: Bill Butler
+editors:
+  - Don Zimmerman
+  - John W. Wheeler
+production:
+  - United Artists
+  - Chartoff-Winkler Productions
+distributors: MGM/UA Entertainment Co.
+characters:
+  - name: Rocky Balboa
+    actor: Sylvester Stallone
+  - name: Adrian Balboa
+    actor: Talia Shire
+  - name: Paulie Pennino
+    actor: Burt Young
+  - name: Apollo Creed
+    actor: Carl Weathers
+  - name: Ivan Drago
+    actor: Dolph Lundgren
+  - name: Ludmilla Drago
+    actor: Brigitte Nielsen
+  - name: Duke Evers
+    actor: Tony Burton
+  - name: Mary Anne Creed
+    actor: Sylvia Meals
