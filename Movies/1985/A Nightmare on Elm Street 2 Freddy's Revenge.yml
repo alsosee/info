@@ -1,0 +1,43 @@
+name: "A Nightmare on Elm Street 2: Freddy's Revenge"
+series: A Nightmare on Elm Street
+description: >
+  Jesse Walsh moves into Nancy Thompson's former house and begins suffering
+  nightmares in which Freddy Krueger tries to possess him and use his body to
+  kill again.
+previous: Movies/1984/A Nightmare on Elm Street
+released: 1985-11-01
+rating: R
+length: 87m
+genres:
+  - supernatural horror
+  - slasher
+wikipedia: https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_2:_Freddy%27s_Revenge
+imdb: https://www.imdb.com/title/tt0089686
+directors: Jack Sholder
+writers: David Chaskin
+producers: Robert Shaye
+music: Christopher Young
+cinematography:
+  - Jacques Haitkin
+  - Christopher Tufty
+editors:
+  - Bob Brady
+  - Arline Garson
+production:
+  - New Line Cinema
+  - Heron Communications
+  - Smart Egg Pictures
+distributors: New Line Cinema
+characters:
+  - name: Jesse Walsh
+    actor: Mark Patton
+  - name: Lisa Webber
+    actor: Kim Myers
+  - name: Ron Grady
+    actor: Robert Rusler
+  - name: Ken Walsh
+    actor: Clu Gulager
+  - name: Cheryl Walsh
+    actor: Hope Lange
+  - name: Freddy Krueger
+    actor: Robert Englund

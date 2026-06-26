@@ -1,0 +1,51 @@
+name: "A Nightmare on Elm Street 4: The Dream Master"
+series: A Nightmare on Elm Street
+description: >
+  Freddy Krueger returns to target the surviving Dream Warriors and uses
+  Kristen Parker's friend Alice Johnson to reach a new group of victims.
+previous: Movies/1987/A Nightmare on Elm Street 3 Dream Warriors
+released: 1988-08-19
+rating: R
+length: 93m
+genres:
+  - fantasy horror
+  - slasher
+wikipedia: https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_4:_The_Dream_Master
+imdb: https://www.imdb.com/title/tt0095742
+directors: Renny Harlin
+screenplay:
+  - Brian Helgeland
+  - Scott Pierce
+story_by:
+  - William Kotzwinkle
+  - Brian Helgeland
+producers:
+  - Robert Shaye
+  - Rachel Talalay
+music: Craig Safan
+cinematography: Steven Fierberg
+editors:
+  - Michael N. Knue
+  - Chuck Weiss
+production:
+  - New Line Cinema
+  - Heron Communications
+  - Smart Egg Pictures
+distributors: New Line Cinema
+characters:
+  - name: Alice Johnson
+    actor: Lisa Wilcox
+  - name: Dan Jordan
+    actor: Danny Hassel
+  - name: Freddy Krueger
+    actor: Robert Englund
+  - name: Kristen Parker
+    actor: Tuesday Knight
+  - name: Debbie Stevens
+    actor: Brooke Theiss
+  - name: Roland Kincaid
+    actor: Ken Sagoes
+  - name: Joey Crusel
+    actor: Rodney Eastman
+  - name: Rick Johnson
+    actor: Andras Jones

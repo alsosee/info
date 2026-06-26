@@ -1,0 +1,41 @@
+name: A Nightmare on Elm Street
+series: A Nightmare on Elm Street
+description: >
+  Teenager Nancy Thompson and her friends are stalked in their dreams by Freddy
+  Krueger, a burned killer with a bladed glove whose attacks cross into reality.
+released: 1984-11-09
+rating: R
+length: 91m
+genres:
+  - supernatural horror
+  - slasher
+wikipedia: https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street
+imdb: https://www.imdb.com/title/tt0087800
+directors: Wes Craven
+writers: Wes Craven
+producers: Robert Shaye
+music: Charles Bernstein
+cinematography: Jacques Haitkin
+editors:
+  - Patrick McMahon
+  - Rick Shaine
+production:
+  - New Line Cinema
+  - Media Home Entertainment
+  - Smart Egg Pictures
+distributors: New Line Cinema
+characters:
+  - name: Nancy Thompson
+    actor: Heather Langenkamp
+  - name: Freddy Krueger
+    actor: Robert Englund
+  - name: Glen Lantz
+    actor: Johnny Depp
+  - name: Marge Thompson
+    actor: Ronee Blakley
+  - name: Lt. Donald Thompson
+    actor: John Saxon
+  - name: Tina Gray
+    actor: Amanda Wyss
+  - name: Rod Lane
+    actor: Nick Corri

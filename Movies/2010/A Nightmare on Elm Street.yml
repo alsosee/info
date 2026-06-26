@@ -1,0 +1,47 @@
+name: A Nightmare on Elm Street
+series: A Nightmare on Elm Street
+description: >
+  A group of teenagers are hunted in their dreams by Freddy Krueger, a vengeful
+  figure from their childhood whose attacks become deadly in the waking world.
+remake_of: Movies/1984/A Nightmare on Elm Street
+released: 2010-04-30
+rating: R
+length: 95m
+genres:
+  - supernatural horror
+  - slasher
+wikipedia: https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_(2010_film)
+imdb: https://www.imdb.com/title/tt1179056
+directors: Samuel Bayer
+screenplay:
+  - Wesley Strick
+  - Eric Heisserer
+story_by: Wesley Strick
+producers:
+  - Michael Bay
+  - Andrew Form
+  - Brad Fuller
+music: Steve Jablonsky
+cinematography: Jeff Cutter
+editors: Glen Scantlebury
+production:
+  - New Line Cinema
+  - Platinum Dunes
+distributors: Warner Bros. Pictures
+characters:
+  - name: Freddy Krueger
+    actor: Jackie Earle Haley
+  - name: Quentin Smith
+    actor: Kyle Gallner
+  - name: Nancy Holbrook
+    actor: Rooney Mara
+  - name: Kris Fowles
+    actor: Katie Cassidy
+  - name: Jesse Braun
+    actor: Thomas Dekker
+  - name: Dean Russell
+    actor: Kellan Lutz
+  - name: Alan Smith
+    actor: Clancy Brown
+  - name: Dr. Gwen Holbrook
+    actor: Connie Britton

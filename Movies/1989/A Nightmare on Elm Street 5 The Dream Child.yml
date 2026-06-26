@@ -1,0 +1,48 @@
+name: "A Nightmare on Elm Street 5: The Dream Child"
+series: A Nightmare on Elm Street
+description: >
+  Alice Johnson discovers that Freddy Krueger is using the dreams of her unborn
+  child to return and threaten her friends.
+previous: Movies/1988/A Nightmare on Elm Street 4 The Dream Master
+released: 1989-08-11
+rating: R
+length: 89m
+genres:
+  - gothic horror
+  - slasher
+wikipedia: https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_5:_The_Dream_Child
+imdb: https://www.imdb.com/title/tt0097981
+directors: Stephen Hopkins
+screenplay: Leslie Bohem
+story_by:
+  - John Skipp
+  - Craig Spector
+  - Leslie Bohem
+producers:
+  - Robert Shaye
+  - Rupert Harvey
+music: Jay Ferguson
+cinematography: Peter Levy
+editors:
+  - Brent A. Schoenfeld
+  - Chuck Weiss
+production:
+  - New Line Cinema
+  - Heron Communications
+  - Smart Egg Pictures
+distributors: New Line Cinema
+characters:
+  - name: Alice Johnson
+    actor: Lisa Wilcox
+  - name: Freddy Krueger
+    actor: Robert Englund
+  - name: Yvonne Miller
+    actor: Kelly Jo Minter
+  - name: Dan Jordan
+    actor: Danny Hassel
+  - name: Mark Gray
+    actor: Joe Seely
+  - name: Greta Gibson
+    actor: Erika Anderson
+  - name: Jacob Johnson
+    actor: Whit Hertford

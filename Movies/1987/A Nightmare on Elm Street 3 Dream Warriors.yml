@@ -1,0 +1,51 @@
+name: "A Nightmare on Elm Street 3: Dream Warriors"
+series: A Nightmare on Elm Street
+description: >
+  Nancy Thompson returns as a therapist at a psychiatric hospital, where a group
+  of teenagers learn to use their dream powers against Freddy Krueger.
+previous: Movies/1985/A Nightmare on Elm Street 2 Freddy's Revenge
+released: 1987-02-27
+rating: R
+length: 96m
+genres:
+  - fantasy horror
+  - slasher
+wikipedia: https://en.wikipedia.org/wiki/A_Nightmare_on_Elm_Street_3:_Dream_Warriors
+imdb: https://www.imdb.com/title/tt0093629
+directors: Chuck Russell
+screenplay:
+  - Wes Craven
+  - Bruce Wagner
+  - Frank Darabont
+  - Chuck Russell
+story_by:
+  - Wes Craven
+  - Bruce Wagner
+producers:
+  - Robert Shaye
+  - Wes Craven
+music: Angelo Badalamenti
+cinematography: Roy H. Wagner
+editors:
+  - Terry Stokes
+  - Chuck Weiss
+production:
+  - New Line Cinema
+  - Heron Communications
+  - Smart Egg Pictures
+distributors: New Line Cinema
+characters:
+  - name: Nancy Thompson
+    actor: Heather Langenkamp
+  - name: Kristen Parker
+    actor: Patricia Arquette
+  - name: Freddy Krueger
+    actor: Robert Englund
+  - name: Dr. Neil Gordon
+    actor: Craig Wasson
+  - name: Roland Kincaid
+    actor: Ken Sagoes
+  - name: Joey Crusel
+    actor: Rodney Eastman
+  - name: Max Daniels
+    actor: Laurence Fishburne
