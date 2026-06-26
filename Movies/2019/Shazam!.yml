@@ -1,0 +1,39 @@
+name: Shazam!
+series: DC Extended Universe
+description: >
+  Foster teenager Billy Batson is granted the ability to transform into an
+  adult superhero and must learn what his new powers mean as Doctor Sivana
+  hunts the same magic.
+released: 2019-04-05
+rating: PG-13
+length: 2h12m
+genres:
+  - superhero
+  - action
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Shazam!_(film)
+imdb: https://www.imdb.com/title/tt0448115
+tmdb: https://www.themoviedb.org/movie/287947-shazam
+directors: David F. Sandberg
+screenplay: Henry Gayden
+music: Benjamin Wallfisch
+cinematography: Maxime Alexandre
+editors: Michel Aller
+producers: Peter Safran
+production:
+  - New Line Cinema
+  - DC Films
+  - The Safran Company
+  - Seven Bucks Productions
+distributors: Warner Bros. Pictures
+characters:
+  - name: Shazam
+    actor: Zachary Levi
+  - name: Doctor Thaddeus Sivana
+    actor: Mark Strong
+  - name: Billy Batson
+    actor: Asher Angel
+  - name: Freddy Freeman
+    actor: Jack Dylan Grazer
+  - name: Wizard
+    actor: Djimon Hounsou

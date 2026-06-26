@@ -1,0 +1,45 @@
+name: Aquaman
+series: DC Extended Universe
+description: >
+  Arthur Curry is drawn into the politics of Atlantis and must challenge his
+  half-brother Orm before the underwater kingdoms wage war on the surface world.
+released: 2018-12-21
+rating: PG-13
+length: 2h23m
+genres:
+  - superhero
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Aquaman_(film)
+imdb: https://www.imdb.com/title/tt1477834
+tmdb: https://www.themoviedb.org/movie/297802-aquaman
+directors: James Wan
+screenplay:
+  - David Leslie Johnson-McGoldrick
+  - Will Beall
+music: Rupert Gregson-Williams
+cinematography: Don Burgess
+editors: Kirk Morri
+producers:
+  - Peter Safran
+  - Rob Cowan
+production:
+  - Warner Bros. Pictures
+  - DC Films
+  - The Safran Company
+distributors: Warner Bros. Pictures
+characters:
+  - name: Arthur Curry / Aquaman
+    actor: Jason Momoa
+  - name: Mera
+    actor: Amber Heard
+  - name: Nuidis Vulko
+    actor: Willem Dafoe
+  - name: Orm Marius / Ocean Master
+    actor: Patrick Wilson
+  - name: Nereus
+    actor: Dolph Lundgren
+  - name: David Kane / Black Manta
+    actor: Yahya Abdul-Mateen II
+  - name: Atlanna
+    actor: Nicole Kidman

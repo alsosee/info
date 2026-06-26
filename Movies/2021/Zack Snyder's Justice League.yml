@@ -1,0 +1,60 @@
+name: "Zack Snyder's Justice League"
+series: DC Extended Universe
+previous: Movies/2017/Justice League
+description: >
+  Zack Snyder's director's cut expands the Justice League story as Batman,
+  Wonder Woman, and their new allies unite against Steppenwolf, Darkseid, and
+  the forces of Apokolips.
+released: 2021-03-18
+rating: R
+length: 4h2m
+genres:
+  - superhero
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Zack_Snyder%27s_Justice_League
+imdb: https://www.imdb.com/title/tt12361974
+tmdb: https://www.themoviedb.org/movie/791373-zack-snyder-s-justice-league
+directors: Zack Snyder
+screenplay: Chris Terrio
+music: Tom Holkenborg
+cinematography: Fabian Wagner
+editors: David Brenner
+producers:
+  - Charles Roven
+  - Deborah Snyder
+production:
+  - Warner Bros. Pictures
+  - DC Films
+  - Atlas Entertainment
+  - The Stone Quarry
+distributors: HBO Max
+characters:
+  - name: Bruce Wayne / Batman
+    actor: Ben Affleck
+  - name: Clark Kent / Superman
+    actor: Henry Cavill
+  - name: Diana Prince / Wonder Woman
+    actor: Gal Gadot
+  - name: Victor Stone / Cyborg
+    actor: Ray Fisher
+  - name: Barry Allen / Flash
+    actor: Ezra Miller
+  - name: Arthur Curry / Aquaman
+    actor: Jason Momoa
+  - name: General Calvin Swanwick / Martian Manhunter
+    actor: Harry Lennix
+  - name: Lois Lane
+    actor: Amy Adams
+  - name: Alfred Pennyworth
+    actor: Jeremy Irons
+  - name: Martha Kent
+    actor: Diane Lane
+  - name: Hippolyta
+    actor: Connie Nielsen
+  - name: James Gordon
+    actor: J. K. Simmons
+  - name: Steppenwolf
+    voice: Ciarán Hinds
+  - name: Darkseid
+    voice: Ray Porter

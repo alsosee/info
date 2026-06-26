@@ -1,0 +1,49 @@
+name: Wonder Woman 1984
+series: DC Extended Universe
+previous: Movies/2017/Wonder Woman
+description: >
+  In 1984, Diana Prince confronts the consequences of a wish-granting artifact
+  when Maxwell Lord and Barbara Minerva pursue power at escalating cost.
+released: 2020-12-25
+rating: PG-13
+length: 2h31m
+genres:
+  - superhero
+  - action
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Wonder_Woman_1984
+imdb: https://www.imdb.com/title/tt7126948
+tmdb: https://www.themoviedb.org/movie/464052-wonder-woman-1984
+directors: Patty Jenkins
+screenplay:
+  - Patty Jenkins
+  - Geoff Johns
+  - Dave Callaham
+music: Hans Zimmer
+cinematography: Matthew Jensen
+editors: Richard Pearson
+producers:
+  - Charles Roven
+  - Deborah Snyder
+  - Zack Snyder
+  - Patty Jenkins
+  - Gal Gadot
+  - Stephen Jones
+production:
+  - Warner Bros. Pictures
+  - Atlas Entertainment
+  - The Stone Quarry
+distributors: Warner Bros. Pictures
+characters:
+  - name: Diana Prince / Wonder Woman
+    actor: Gal Gadot
+  - name: Steve Trevor
+    actor: Chris Pine
+  - name: Barbara Minerva / Cheetah
+    actor: Kristen Wiig
+  - name: Maxwell Lord
+    actor: Pedro Pascal
+  - name: Antiope
+    actor: Robin Wright
+  - name: Hippolyta
+    actor: Connie Nielsen

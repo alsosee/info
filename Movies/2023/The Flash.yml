@@ -1,0 +1,48 @@
+name: The Flash
+series: DC Extended Universe
+description: >
+  Barry Allen travels back in time to prevent his mother's death, creating a
+  changed reality where he must work with Batman and Supergirl against General Zod.
+released: 2023-06-16
+rating: PG-13
+length: 2h24m
+genres:
+  - superhero
+  - action
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/The_Flash_(film)
+imdb: https://www.imdb.com/title/tt0439572
+tmdb: https://www.themoviedb.org/movie/298618-the-flash
+directors: Andy Muschietti
+screenplay: Christina Hodson
+music: Benjamin Wallfisch
+cinematography: Henry Braham
+editors:
+  - Jason Ballantine
+  - Paul Machliss
+producers:
+  - Barbara Muschietti
+  - Michael Disco
+production:
+  - Warner Bros. Pictures
+  - DC Films
+  - Double Dream
+  - The Disco Factory
+distributors: Warner Bros. Pictures
+characters:
+  - name: Barry Allen / Flash
+    actor: Ezra Miller
+  - name: Kara Zor-El / Supergirl
+    actor: Sasha Calle
+  - name: General Zod
+    actor: Michael Shannon
+  - name: Henry Allen
+    actor: Ron Livingston
+  - name: Nora Allen
+    actor: Maribel Verdú
+  - name: Iris West
+    actor: Kiersey Clemons
+  - name: Faora-Ul
+    actor: Antje Traue
+  - name: Bruce Wayne / Batman
+    actor: Michael Keaton
