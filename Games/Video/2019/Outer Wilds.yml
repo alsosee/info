@@ -4,6 +4,8 @@ description: >
   Players explore a planetary system that resets every 22 minutes when the sun goes supernova,
   investigating the ruins of an ancient alien race called the Nomai to uncover the secrets of the universe.
 released: 2019-05-28
+not:
+  - Games/Video/2019/The Outer Worlds
 genres:
   - action-adventure
   - mystery
