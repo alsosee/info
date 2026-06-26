@@ -1,0 +1,30 @@
+name: "Resident Evil: Degeneration"
+description: >
+  Animated horror film in which Leon S. Kennedy and Claire Redfield respond to a bioterror incident at Harvardville Airport and uncover a conspiracy involving the T-virus.
+based_on: Games/Video/Series/Resident Evil
+released: 2008-10-18
+rating: R
+length: 1h36m
+genres:
+  - animation
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Degeneration
+imdb: https://www.imdb.com/title/tt1174954
+tmdb: https://www.themoviedb.org/movie/13648-resident-evil-degeneration
+metacritic: https://www.metacritic.com/movie/resident-evil-degeneration/
+directors: Makoto Kamiya
+screenplay: Shotaro Suga
+music: Tetsuya Takahashi
+production:
+  - Capcom
+  - Digital Frontier
+distributors: Sony Pictures Home Entertainment
+characters:
+  - name: Leon S. Kennedy
+    voice: Paul Mercier
+  - name: Claire Redfield
+    voice: Alyson Court
+  - name: Angela Miller
+    voice: Laura Bailey
+  - name: Curtis Miller
+    voice: Roger Craig Smith

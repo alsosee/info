@@ -1,0 +1,33 @@
+name: "Resident Evil: Death Island"
+description: >
+  Animated horror film bringing Leon S. Kennedy, Chris Redfield, Jill Valentine, Claire Redfield, and Rebecca Chambers together during a bioterror investigation connected to Alcatraz Island.
+based_on: Games/Video/Series/Resident Evil
+previous: Movies/2017/Resident Evil Vendetta
+released: 2023-07-07
+rating: R
+length: 1h31m
+genres:
+  - animation
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Death_Island
+imdb: https://www.imdb.com/title/tt26674627
+tmdb: https://www.themoviedb.org/movie/1083862-resident-evil-death-island
+directors: Eiichiro Hasumi
+screenplay: Makoto Fukami
+music: Rei Kondo
+production:
+  - Capcom
+  - TMS Entertainment
+  - Quebico
+distributors: Sony Pictures Home Entertainment
+characters:
+  - name: Leon S. Kennedy
+    voice: Matthew Mercer
+  - name: Chris Redfield
+    voice: Kevin Dorman
+  - name: Jill Valentine
+    voice: Nicole Tompkins
+  - name: Claire Redfield
+    voice: Stephanie Panisello
+  - name: Rebecca Chambers
+    voice: Erin Cahill

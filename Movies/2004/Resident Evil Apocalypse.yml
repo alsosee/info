@@ -1,0 +1,36 @@
+name: "Resident Evil: Apocalypse"
+description: >
+  Action horror sequel in which Alice, Jill Valentine, and other survivors try to escape Raccoon City after Umbrella's T-virus outbreak reaches the surface.
+based_on: Games/Video/Series/Resident Evil
+previous: Movies/2002/Resident Evil
+released: 2004-09-10
+rating: R
+length: 1h34m
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Apocalypse
+imdb: https://www.imdb.com/title/tt0318627
+tmdb: https://www.themoviedb.org/movie/1577-resident-evil-apocalypse
+metacritic: https://www.metacritic.com/movie/resident-evil-apocalypse/
+directors: Alexander Witt
+screenplay: Paul W. S. Anderson
+music: Jeff Danna
+cinematography: Christian Sebaldt
+editors: Eddie Hamilton
+production:
+  - Constantin Film
+  - Impact Pictures
+  - Davis Films
+distributors: Screen Gems
+characters:
+  - name: Alice
+    actor: Milla Jovovich
+  - name: Jill Valentine
+    actor: Sienna Guillory
+  - name: Carlos Olivera
+    actor: Oded Fehr
+  - name: Angela Ashford
+    actor: Sophie Vavasseur
+  - name: Nemesis
+    actor: Matthew G. Taylor

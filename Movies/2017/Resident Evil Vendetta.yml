@@ -1,0 +1,30 @@
+name: "Resident Evil: Vendetta"
+description: >
+  Animated horror film in which Chris Redfield, Leon S. Kennedy, and Rebecca Chambers pursue a bioterrorist planning a large-scale viral attack.
+based_on: Games/Video/Series/Resident Evil
+previous: Movies/2012/Resident Evil Damnation
+released: 2017-05-27
+rating: R
+length: 1h37m
+genres:
+  - animation
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Vendetta
+imdb: https://www.imdb.com/title/tt5776208
+tmdb: https://www.themoviedb.org/movie/400136-resident-evil-vendetta
+directors: Takanori Tsujimoto
+screenplay: Makoto Fukami
+music: Kenji Kawai
+production:
+  - Capcom
+  - Marza Animation Planet
+distributors: Kadokawa
+characters:
+  - name: Chris Redfield
+    voice: Kevin Dorman
+  - name: Leon S. Kennedy
+    voice: Matthew Mercer
+  - name: Rebecca Chambers
+    voice: Erin Cahill
+  - name: Glenn Arias
+    voice: John DeMita

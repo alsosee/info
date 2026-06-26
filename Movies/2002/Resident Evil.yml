@@ -1,0 +1,35 @@
+name: Resident Evil
+description: >
+  Action horror film in which an amnesiac security operative named Alice joins a team investigating a viral outbreak inside Umbrella Corporation's underground Hive facility.
+based_on: Games/Video/1996/Resident Evil
+released: 2002-03-15
+rating: R
+length: 1h40m
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_(film)
+imdb: https://www.imdb.com/title/tt0120804
+tmdb: https://www.themoviedb.org/movie/1576-resident-evil
+metacritic: https://www.metacritic.com/movie/resident-evil/
+directors: Paul W. S. Anderson
+screenplay: Paul W. S. Anderson
+music:
+  - Marco Beltrami
+  - Marilyn Manson
+cinematography: David Johnson
+editors: Alexander Berner
+production:
+  - Constantin Film
+  - Impact Pictures
+  - Davis Films
+distributors: Screen Gems
+characters:
+  - name: Alice
+    actor: Milla Jovovich
+  - name: Rain Ocampo
+    actor: Michelle Rodriguez
+  - name: Matt Addison
+    actor: Eric Mabius
+  - name: James Shade
+    actor: Colin Salmon

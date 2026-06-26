@@ -1,0 +1,30 @@
+name: "Resident Evil: Damnation"
+description: >
+  Animated horror film in which Leon S. Kennedy investigates the use of bio-organic weapons during a civil war in Eastern Europe.
+based_on: Games/Video/Series/Resident Evil
+previous: Movies/2008/Resident Evil Degeneration
+released: 2012-10-27
+rating: R
+length: 1h40m
+genres:
+  - animation
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Damnation
+imdb: https://www.imdb.com/title/tt1753496
+tmdb: https://www.themoviedb.org/movie/133121-resident-evil-damnation
+directors: Makoto Kamiya
+screenplay: Shotaro Suga
+music: Tetsuya Takahashi
+production:
+  - Capcom
+  - Digital Frontier
+distributors: Sony Pictures Home Entertainment
+characters:
+  - name: Leon S. Kennedy
+    voice: Matthew Mercer
+  - name: Ada Wong
+    voice: Courtenay Taylor
+  - name: Buddy
+    voice: Dave Wittenberg
+  - name: Svetlana Belikova
+    voice: Wendee Lee

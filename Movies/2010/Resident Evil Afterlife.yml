@@ -1,0 +1,34 @@
+name: "Resident Evil: Afterlife"
+description: >
+  Action horror sequel in which Alice searches for a rumored safe haven called Arcadia and reunites with Claire Redfield while battling Umbrella forces in Los Angeles.
+based_on: Games/Video/Series/Resident Evil
+previous: Movies/2007/Resident Evil Extinction
+released: 2010-09-10
+rating: R
+length: 1h37m
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Afterlife
+imdb: https://www.imdb.com/title/tt1220634
+tmdb: https://www.themoviedb.org/movie/35791-resident-evil-afterlife
+metacritic: https://www.metacritic.com/movie/resident-evil-afterlife/
+directors: Paul W. S. Anderson
+screenplay: Paul W. S. Anderson
+music: Tomandandy
+cinematography: Glen MacPherson
+editors: Niven Howie
+production:
+  - Constantin Film
+  - Impact Pictures
+  - Davis Films
+distributors: Screen Gems
+characters:
+  - name: Alice
+    actor: Milla Jovovich
+  - name: Claire Redfield
+    actor: Ali Larter
+  - name: Chris Redfield
+    actor: Wentworth Miller
+  - name: Albert Wesker
+    actor: Shawn Roberts

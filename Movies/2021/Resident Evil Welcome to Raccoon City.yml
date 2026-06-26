@@ -1,0 +1,35 @@
+name: "Resident Evil: Welcome to Raccoon City"
+description: >
+  Live-action reboot adapting elements of the first two Resident Evil games as Claire Redfield, Leon S. Kennedy, Chris Redfield, and Jill Valentine face an outbreak in Raccoon City.
+based_on: Games/Video/1998/Resident Evil 2
+released: 2021-11-24
+rating: R
+length: 1h47m
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Welcome_to_Raccoon_City
+imdb: https://www.imdb.com/title/tt6920084
+tmdb: https://www.themoviedb.org/movie/460458-resident-evil-welcome-to-raccoon-city
+metacritic: https://www.metacritic.com/movie/resident-evil-welcome-to-raccoon-city/
+directors: Johannes Roberts
+screenplay: Johannes Roberts
+music: Mark Korven
+cinematography: Maxime Alexandre
+editors: Dev Singh
+production:
+  - Constantin Film
+  - Davis Films
+  - The Fyzz Facility
+distributors: Sony Pictures Releasing
+characters:
+  - name: Claire Redfield
+    actor: Kaya Scodelario
+  - name: Leon S. Kennedy
+    actor: Avan Jogia
+  - name: Chris Redfield
+    actor: Robbie Amell
+  - name: Jill Valentine
+    actor: Hannah John-Kamen
+  - name: Albert Wesker
+    actor: Tom Hopper

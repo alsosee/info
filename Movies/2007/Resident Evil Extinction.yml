@@ -1,0 +1,34 @@
+name: "Resident Evil: Extinction"
+description: >
+  Post-apocalyptic action horror sequel following Alice and a convoy of survivors crossing the Nevada desert while Umbrella continues experiments tied to the T-virus.
+based_on: Games/Video/Series/Resident Evil
+previous: Movies/2004/Resident Evil Apocalypse
+released: 2007-09-21
+rating: R
+length: 1h34m
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Extinction
+imdb: https://www.imdb.com/title/tt0432021
+tmdb: https://www.themoviedb.org/movie/7737-resident-evil-extinction
+metacritic: https://www.metacritic.com/movie/resident-evil-extinction/
+directors: Russell Mulcahy
+screenplay: Paul W. S. Anderson
+music: Charlie Clouser
+cinematography: David Johnson
+editors: Niven Howie
+production:
+  - Constantin Film
+  - Impact Pictures
+  - Davis Films
+distributors: Screen Gems
+characters:
+  - name: Alice
+    actor: Milla Jovovich
+  - name: Claire Redfield
+    actor: Ali Larter
+  - name: Carlos Olivera
+    actor: Oded Fehr
+  - name: Dr. Alexander Isaacs
+    actor: Iain Glen

@@ -1,0 +1,36 @@
+name: "Resident Evil: Retribution"
+description: >
+  Action horror sequel in which Alice escapes from an Umbrella underwater testing facility while simulated outbreak zones and familiar allies blur the line between experiment and survival mission.
+based_on: Games/Video/Series/Resident Evil
+previous: Movies/2010/Resident Evil Afterlife
+released: 2012-09-14
+rating: R
+length: 1h35m
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil:_Retribution
+imdb: https://www.imdb.com/title/tt1855325
+tmdb: https://www.themoviedb.org/movie/71679-resident-evil-retribution
+metacritic: https://www.metacritic.com/movie/resident-evil-retribution/
+directors: Paul W. S. Anderson
+screenplay: Paul W. S. Anderson
+music: Tomandandy
+cinematography: Glen MacPherson
+editors: Niven Howie
+production:
+  - Constantin Film
+  - Impact Pictures
+  - Davis Films
+distributors: Screen Gems
+characters:
+  - name: Alice
+    actor: Milla Jovovich
+  - name: Ada Wong
+    actor: Li Bingbing
+  - name: Jill Valentine
+    actor: Sienna Guillory
+  - name: Leon S. Kennedy
+    actor: Johann Urb
+  - name: Barry Burton
+    actor: Kevin Durand

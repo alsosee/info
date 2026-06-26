@@ -1,0 +1,24 @@
+name: Resident Evil
+description: >
+  Upcoming live-action reboot directed by Zach Cregger, following a medical courier caught in a viral outbreak of infected monsters during events connected to the Resident Evil game timeline.
+based_on: Games/Video/Series/Resident Evil
+released: 2026-09-18
+genres:
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_(2026_film)
+imdb: https://www.imdb.com/title/tt33500290
+directors: Zach Cregger
+screenplay:
+  - Zach Cregger
+  - Shay Hatten
+cinematography: Dariusz Wolski
+editors: Joe Murphy
+production:
+  - Constantin Film
+  - Davis Films
+  - Vertigo Entertainment
+  - PlayStation Productions
+distributors: Columbia Pictures
+characters:
+  - name: Bryan
+    actor: Austin Abrams
