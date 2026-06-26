@@ -1,0 +1,43 @@
+name: Beneath the Planet of the Apes
+description: >
+  Astronaut Brent follows Taylor's trail to the planet ruled by apes and searches
+  for him with Nova's help. Their journey leads beneath the Forbidden Zone, where
+  a hidden human society poses a new threat to apes and humans alike.
+previous: Movies/1968/Planet of the Apes
+released: 1970-05-26
+rating: G
+length: 1h35m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Beneath_the_Planet_of_the_Apes
+imdb: https://www.imdb.com/title/tt0065462
+tmdb: https://www.themoviedb.org/movie/1685-beneath-the-planet-of-the-apes
+rotten_tomatoes: https://www.rottentomatoes.com/m/beneath_the_planet_of_the_apes
+metacritic: https://www.metacritic.com/movie/beneath-the-planet-of-the-apes
+directors: Ted Post
+screenplay: Paul Dehn
+producers:
+  - Arthur P. Jacobs
+music: Leonard Rosenman
+cinematography: Milton R. Krasner
+editors: Marion Rothman
+production: APJAC Productions
+distributors: 20th Century-Fox
+characters:
+  - name: Brent
+    actor: James Franciscus
+  - name: Zira
+    actor: Kim Hunter
+  - name: Dr. Zaius
+    actor: Maurice Evans
+  - name: Nova
+    actor: Linda Harrison
+  - name: Taylor
+    actor: Charlton Heston
+  - name: General Ursus
+    actor: James Gregory
+  - name: Cornelius
+    actor: David Watson
+  - name: Mendez
+    actor: Paul Richards

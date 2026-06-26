@@ -1,0 +1,45 @@
+name: Planet of the Apes
+description: >
+  Astronaut Leo Davidson crash-lands on a world where intelligent apes rule over
+  enslaved humans. As he searches for a way home, Leo becomes central to a revolt
+  that challenges the planet's social order.
+released: 2001-07-27
+rating: PG-13
+length: 2h0m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Planet_of_the_Apes_(2001_film)
+imdb: https://www.imdb.com/title/tt0133152
+tmdb: https://www.themoviedb.org/movie/869-planet-of-the-apes
+rotten_tomatoes: https://www.rottentomatoes.com/m/planet_of_the_apes_2001
+directors: Tim Burton
+screenplay:
+  - William Broyles Jr.
+  - Lawrence Konner
+  - Mark Rosenthal
+producers:
+  - Richard D. Zanuck
+music: Danny Elfman
+cinematography: Philippe Rousselot
+editors: Chris Lebenzon
+production:
+  - 20th Century Fox
+  - The Zanuck Company
+distributors: 20th Century Fox
+characters:
+  - name: Leo Davidson
+    actor: Mark Wahlberg
+  - name: General Thade
+    actor: Tim Roth
+  - name: Ari
+    actor: Helena Bonham Carter
+  - name: Attar
+    actor: Michael Clarke Duncan
+  - name: Karubi
+    actor: Kris Kristofferson
+  - name: Daena
+    actor: Estella Warren
+  - name: Limbo
+    actor: Paul Giamatti

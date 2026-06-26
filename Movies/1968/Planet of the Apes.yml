@@ -1,0 +1,41 @@
+name: Planet of the Apes
+description: >
+  Astronaut George Taylor crash-lands on a distant planet where intelligent apes
+  rule over mute, primitive humans. Captured and studied by ape scientists, Taylor
+  struggles to prove his intelligence and uncover the planet's hidden truth.
+released: 1968-04-03
+rating: G
+length: 1h52m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)
+imdb: https://www.imdb.com/title/tt0063442
+tmdb: https://www.themoviedb.org/movie/871-planet-of-the-apes
+rotten_tomatoes: https://www.rottentomatoes.com/m/planet_of_the_apes
+directors: Franklin J. Schaffner
+screenplay:
+  - Michael Wilson
+  - Rod Serling
+producers:
+  - Arthur P. Jacobs
+music: Jerry Goldsmith
+cinematography: Leon Shamroy
+editors: Hugh S. Fowler
+production: APJAC Productions
+distributors: 20th Century-Fox
+characters:
+  - name: George Taylor
+    actor: Charlton Heston
+  - name: Cornelius
+    actor: Roddy McDowall
+  - name: Dr. Zira
+    actor: Kim Hunter
+  - name: Dr. Zaius
+    actor: Maurice Evans
+  - name: Nova
+    actor: Linda Harrison
+  - name: Dr. Honorious
+    actor: James Daly
+  - name: President of the Assembly
+    actor: James Whitmore
