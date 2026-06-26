@@ -1,0 +1,12 @@
+name: "Jurassic Park III: Island Attack"
+series: Jurassic Park
+description: >
+  An isometric Game Boy Advance action-adventure game in which Alan Grant tries
+  to escape Isla Sorna by reaching a rescue boat.
+based_on: Movies/2001/Jurassic Park III
+released: 2001
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_III:_Island_Attack
+developers: Mobile21
+publishers: Konami

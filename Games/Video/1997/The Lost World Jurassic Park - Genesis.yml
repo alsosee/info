@@ -1,0 +1,12 @@
+name: "The Lost World: Jurassic Park"
+series: Jurassic Park
+description: >
+  An overhead action game for Genesis set on Isla Sorna, with mission objectives,
+  vehicles, dinosaurs, and boss encounters.
+based_on: Movies/1997/The Lost World Jurassic Park
+released: 1997
+genres:
+  - action
+wikipedia: https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_(Sega_Genesis_game)
+developers: Appaloosa Interactive
+publishers: Sega

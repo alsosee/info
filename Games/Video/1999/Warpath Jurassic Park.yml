@@ -1,0 +1,16 @@
+name: "Warpath: Jurassic Park"
+series: Jurassic Park
+description: >
+  A dinosaur fighting game for PlayStation featuring arenas and creatures drawn
+  from Jurassic Park and The Lost World.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+released: 1999
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Warpath:_Jurassic_Park
+developers:
+  - Black Ops Entertainment
+  - DreamWorks Interactive
+publishers: Electronic Arts

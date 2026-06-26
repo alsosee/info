@@ -1,0 +1,13 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  An overhead action-adventure game in which Alan Grant explores Isla Nublar
+  and survives escaped dinosaurs after the park's systems fail.
+based_on: Movies/1993/Jurassic Park
+released: 1993
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_(NES_video_game)
+developers: Ocean Software
+publishers: Ocean Software
+composers: Jonathan Dunn

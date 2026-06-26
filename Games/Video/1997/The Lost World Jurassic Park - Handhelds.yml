@@ -1,0 +1,18 @@
+name: "The Lost World: Jurassic Park"
+series: Jurassic Park
+description: >
+  Handheld adaptations of The Lost World: Jurassic Park released across Game Boy,
+  Game Gear, Game.com, and R-Zone systems.
+based_on: Movies/1997/The Lost World Jurassic Park
+released: 1997
+genres:
+  - action
+wikipedia: https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_(handheld_game)
+developers:
+  - Aspect
+  - Tiger Electronics
+  - Torus Games
+publishers:
+  - Sega
+  - Tiger Electronics
+  - THQ

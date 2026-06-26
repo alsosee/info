@@ -1,0 +1,13 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  A Sega arcade rail shooter in which players protect a tour vehicle from dinosaurs
+  in a hydraulic cabinet modeled after the film's park vehicles.
+based_on: Movies/1993/Jurassic Park
+released: 1994
+genres:
+  - rail shooter
+  - arcade
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Jurassic_Park_(1993)
+developers: Sega
+publishers: Sega

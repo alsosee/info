@@ -1,0 +1,12 @@
+name: "Jurassic Park III: Park Builder"
+series: Jurassic Park
+description: >
+  A Game Boy Advance construction and management game about building a dinosaur
+  amusement park with rides, shops, and dinosaur facilities.
+based_on: Movies/2001/Jurassic Park III
+released: 2001
+genres:
+  - construction and management simulation
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_III:_Park_Builder
+developers: Konami
+publishers: Konami

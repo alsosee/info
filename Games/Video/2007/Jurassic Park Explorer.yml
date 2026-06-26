@@ -1,0 +1,16 @@
+name: Jurassic Park Explorer
+series: Jurassic Park
+description: >
+  An interactive DVD and board game set on Isla Sorna, combining dinosaur trivia,
+  clips, and minigames from the original trilogy.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+  - Movies/2001/Jurassic Park III
+released: 2007-08
+genres:
+  - trivia
+  - board game
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Later_Jurassic_Park_games_(2007%E2%80%932015)
+developers: Brighter Minds Media
+publishers: Brighter Minds Media

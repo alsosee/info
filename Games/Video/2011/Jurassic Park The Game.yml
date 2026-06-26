@@ -1,0 +1,29 @@
+name: "Jurassic Park: The Game"
+series: Jurassic Park
+description: >
+  An episodic graphic adventure set after the events of the first film, following
+  new survivors and InGen staff during the Isla Nublar incident.
+based_on: Movies/1993/Jurassic Park
+released: 2011-11-15
+genres:
+  - graphic adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park:_The_Game
+developers: Telltale Games
+publishers: Telltale Games
+directors:
+  - Daniel Herrera
+  - Marco Brezzo
+  - Andrew Langley
+  - Nick Herman
+designers:
+  - Joe Pinney
+  - Mark Darin
+  - John Drake
+  - Jonathan Straw
+writers:
+  - Joe Pinney
+  - Mark Darin
+  - Ed Kuehnel
+  - John Drake
+  - Jonathan Straw
+composers: Jared Emerson-Johnson

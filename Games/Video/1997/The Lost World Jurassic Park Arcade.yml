@@ -1,0 +1,13 @@
+name: "The Lost World: Jurassic Park"
+series: Jurassic Park
+description: >
+  A Sega arcade rail shooter based on The Lost World, using Model 3 hardware for
+  dinosaur chase and shooting sequences.
+based_on: Movies/1997/The Lost World Jurassic Park
+released: 1997
+genres:
+  - rail shooter
+  - arcade
+wikipedia: https://en.wikipedia.org/wiki/The_Lost_World:_Jurassic_Park_(arcade_game)
+developers: Sega AM3
+publishers: Sega

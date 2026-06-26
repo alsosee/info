@@ -1,0 +1,12 @@
+name: "Scan Command: Jurassic Park"
+series: Jurassic Park
+description: >
+  A PC game using a barcode-scanner accessory to collect DNA and command dinosaurs
+  in battles inspired by Jurassic Park III.
+based_on: Movies/2001/Jurassic Park III
+released: 2001
+genres:
+  - action
+  - strategy
+wikipedia: https://en.wikipedia.org/wiki/Scan_Command:_Jurassic_Park
+publishers: Knowledge Adventure

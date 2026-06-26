@@ -1,0 +1,12 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  A point-and-click adventure set after the film, following a scientist stranded on
+  Isla Nublar while collecting dinosaur eggs.
+based_on: Movies/1993/Jurassic Park
+released: 1993
+genres:
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park:_The_Game_(Sega_CD)
+developers: Sega
+publishers: Sega

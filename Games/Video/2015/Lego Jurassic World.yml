@@ -1,0 +1,23 @@
+name: Lego Jurassic World
+series: Jurassic Park
+description: >
+  A Lego action-adventure game adapting the first four Jurassic Park and Jurassic World films
+  with playable characters, dinosaurs, and puzzle-platforming levels.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+  - Movies/2001/Jurassic Park III
+  - Movies/2015/Jurassic World
+released: 2015-06-12
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Lego_Jurassic_World
+steam: https://store.steampowered.com/app/352400/LEGO_Jurassic_World/
+developers:
+  - Traveller's Tales
+  - TT Fusion
+publishers: Warner Bros. Interactive Entertainment
+directors: Jon Burton
+composers:
+  - Rob Westwood
+  - Ian Livingstone

@@ -1,0 +1,16 @@
+name: "Jurassic Park Institute Tour: Dinosaur Rescue"
+series: Jurassic Park
+description: >
+  A Japan-exclusive Game Boy Advance minigame collection released through the
+  Jurassic Park Institute Tour exhibition.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+  - Movies/2001/Jurassic Park III
+released: 2003-07-18
+genres:
+  - minigame
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Jurassic_Park_Institute_Tour:_Dinosaur_Rescue_(2003)
+developers: Rocket Company
+publishers: Rocket Company

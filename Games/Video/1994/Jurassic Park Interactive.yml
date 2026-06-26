@@ -1,0 +1,13 @@
+name: Jurassic Park Interactive
+series: Jurassic Park
+description: >
+  A 3DO game built around full-motion video and minigames inspired by the characters,
+  locations, and dinosaur encounters from Jurassic Park.
+based_on: Movies/1993/Jurassic Park
+released: 1994
+genres:
+  - minigame
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_Interactive
+developers: Universal Interactive
+publishers: Universal Interactive

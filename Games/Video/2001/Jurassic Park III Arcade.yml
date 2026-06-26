@@ -1,0 +1,13 @@
+name: Jurassic Park III
+series: Jurassic Park
+description: >
+  A Konami light-gun arcade game in which mercenaries are sent to Isla Sorna to
+  rescue survivors while fighting off dinosaurs.
+based_on: Movies/2001/Jurassic Park III
+released: 2001
+genres:
+  - light gun shooter
+  - arcade
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Jurassic_Park_III_(2001)
+developers: Konami
+publishers: Konami

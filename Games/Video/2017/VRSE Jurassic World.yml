@@ -1,0 +1,11 @@
+name: VRSE Jurassic World
+series: Jurassic Park
+description: >
+  A mobile virtual-reality game based on Jurassic World.
+based_on: Movies/2015/Jurassic World
+released: 2017-08-08
+genres:
+  - virtual reality
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Other_games
+developers: Skyrocket
+publishers: Skyrocket

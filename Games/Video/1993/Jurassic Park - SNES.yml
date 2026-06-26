@@ -1,0 +1,15 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  A Super NES action-adventure game combining isometric outdoor exploration
+  with first-person indoor sequences across the dinosaur park.
+based_on: Movies/1993/Jurassic Park
+released: 1993
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_(Super_NES_video_game)
+developers: Ocean Software
+publishers: Ocean Software
+composers:
+  - Jon Dunn
+  - Jonathan Dunn

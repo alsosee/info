@@ -1,0 +1,15 @@
+name: Jurassic Park Builder
+series: Jurassic Park
+description: >
+  A construction and management simulation game in which players build Jurassic,
+  aquatic, and glacier parks filled with prehistoric animals.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+  - Movies/2001/Jurassic Park III
+released: 2012-07
+genres:
+  - construction and management simulation
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_Builder
+developers: Ludia
+publishers: Ludia

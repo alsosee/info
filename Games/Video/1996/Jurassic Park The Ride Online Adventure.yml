@@ -1,0 +1,13 @@
+name: "Jurassic Park: The Ride Online Adventure"
+series: Jurassic Park
+description: >
+  An online promotional adventure for Jurassic Park: The Ride in which the player
+  explores a facility while avoiding an escaped Velociraptor.
+based_on: Movies/1993/Jurassic Park
+released: 1996
+genres:
+  - adventure
+  - online
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Sequels_and_other_games_(1994%E2%80%931996)
+developers: Universal
+publishers: Universal

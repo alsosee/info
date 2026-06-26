@@ -1,0 +1,13 @@
+name: "Jurassic Park III: Danger Zone!"
+series: Jurassic Park
+description: >
+  A virtual board-game style PC game in which players navigate Jurassic Park III
+  scenarios and dinosaur encounters.
+based_on: Movies/2001/Jurassic Park III
+released: 2001
+genres:
+  - board game
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Jurassic_Park_III_(2001)
+developers: Knowledge Adventure
+publishers: Knowledge Adventure

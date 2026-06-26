@@ -1,0 +1,13 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  A side-scrolling action platformer that lets players play as either Alan Grant
+  or a Velociraptor in scenarios inspired by the film.
+based_on: Movies/1993/Jurassic Park
+released: 1993
+genres:
+  - platform
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_(Sega_video_game)
+developers: BlueSky Software
+publishers: Sega

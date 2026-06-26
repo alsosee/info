@@ -1,0 +1,16 @@
+name: Jurassic Park Arcade
+series: Jurassic Park
+description: >
+  A Raw Thrills arcade shooter based on the original Jurassic Park trilogy, sending
+  players through dinosaur rescue and containment missions.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+  - Movies/2001/Jurassic Park III
+released: 2015-03
+genres:
+  - rail shooter
+  - arcade
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_Arcade
+developers: Raw Thrills
+publishers: Raw Thrills

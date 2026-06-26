@@ -1,0 +1,13 @@
+name: "Jurassic Park III: The DNA Factor"
+series: Jurassic Park
+description: >
+  A side-scrolling Game Boy Advance platform game built around collecting dinosaur
+  DNA and solving species-creation puzzles.
+based_on: Movies/2001/Jurassic Park III
+released: 2001
+genres:
+  - platform
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_III:_The_DNA_Factor
+developers: Konami Computer Entertainment Hawaii
+publishers: Konami

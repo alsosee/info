@@ -1,0 +1,13 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  A side-scrolling platform game for Sega handheld and 8-bit systems with dinosaur
+  encounters and vehicle stages based on the film.
+based_on: Movies/1993/Jurassic Park
+released: 1993
+genres:
+  - platform
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Jurassic_Park_(1993)
+developers: Sega
+publishers: Sega

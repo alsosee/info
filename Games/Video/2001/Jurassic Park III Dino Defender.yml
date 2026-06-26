@@ -1,0 +1,13 @@
+name: "Jurassic Park III: Dino Defender"
+series: Jurassic Park
+description: >
+  A side-scrolling platform game for younger players, based on Jurassic Park III
+  and set around dinosaur hazards on Isla Sorna.
+based_on: Movies/2001/Jurassic Park III
+released: 2001
+genres:
+  - platform
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Jurassic_Park_III_(2001)
+developers: Knowledge Adventure
+publishers: Knowledge Adventure

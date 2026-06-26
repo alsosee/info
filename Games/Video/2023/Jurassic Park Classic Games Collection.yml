@@ -1,0 +1,13 @@
+name: "Jurassic Park: Classic Games Collection"
+series: Jurassic Park
+description: >
+  A compilation of several 8-bit and 16-bit Jurassic Park games with added save states,
+  in-game maps, and rewind support.
+based_on: Movies/1993/Jurassic Park
+released: 2023-11-22
+genres:
+  - compilation
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Jurassic_Park:_Classic_Games_Collection
+developers: Limited Run Games
+publishers: Limited Run Games

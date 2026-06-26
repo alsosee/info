@@ -1,0 +1,18 @@
+name: Jurassic World Facts
+series: Jurassic Park
+description: >
+  A mobile companion game tied to Jurassic World toys and dinosaur facts from
+  the Park and World films.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+  - Movies/2001/Jurassic Park III
+  - Movies/2015/Jurassic World
+  - Movies/2018/Jurassic World Fallen Kingdom
+released: 2018
+genres:
+  - educational
+  - companion
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Titles_released_in_the_2010s
+developers: Mattel
+publishers: Mattel

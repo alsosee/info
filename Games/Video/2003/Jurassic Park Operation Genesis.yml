@@ -1,0 +1,21 @@
+name: "Jurassic Park: Operation Genesis"
+series: Jurassic Park
+description: >
+  A park-building simulation game that lets players design and manage a Jurassic Park
+  with dinosaurs, visitor attractions, and park emergencies.
+based_on:
+  - Movies/1993/Jurassic Park
+  - Movies/1997/The Lost World Jurassic Park
+  - Movies/2001/Jurassic Park III
+released: 2003
+genres:
+  - construction and management simulation
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park:_Operation_Genesis
+developers: Blue Tongue Entertainment
+publishers:
+  - Universal Interactive
+  - Konami
+designers: Ben O'Donnell
+composers:
+  - Jonathan Dunn
+  - Stephen Duckworth

@@ -1,0 +1,17 @@
+name: Trespasser
+series: Jurassic Park
+description: >
+  A first-person action game set after The Lost World, following Anne on Isla Sorna
+  in an ambitious physics-driven survival scenario.
+based_on: Movies/1997/The Lost World Jurassic Park
+released: 1998
+genres:
+  - first-person shooter
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Trespasser_(video_game)
+developers: DreamWorks Interactive
+publishers: Electronic Arts
+designers:
+  - Seamus Blackley
+  - Richard Wyckoff
+composers: Bill Brown

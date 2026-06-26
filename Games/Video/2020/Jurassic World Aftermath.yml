@@ -1,0 +1,14 @@
+name: Jurassic World Aftermath
+series: Jurassic Park
+description: >
+  A virtual-reality survival adventure set between Jurassic World and Fallen Kingdom,
+  focused on avoiding raptors inside an abandoned Isla Nublar facility.
+based_on: Movies/2015/Jurassic World
+released: 2020-12-17
+genres:
+  - virtual reality
+  - survival
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_World_Aftermath
+developers: Coatsink
+publishers: Oculus Studios

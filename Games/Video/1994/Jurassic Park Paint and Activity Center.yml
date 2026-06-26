@@ -1,0 +1,13 @@
+name: "Jurassic Park: Paint and Activity Center"
+series: Jurassic Park
+description: >
+  A computer activity game based on Jurassic Park, built around drawing and other
+  child-friendly interactive activities.
+based_on: Movies/1993/Jurassic Park
+released: 1994
+genres:
+  - educational
+  - activity
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_video_games#Sequels_and_other_games_(1994%E2%80%931996)
+developers: Hi Tech Entertainment
+publishers: Hi Tech Entertainment

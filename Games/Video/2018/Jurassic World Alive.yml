@@ -1,0 +1,15 @@
+name: Jurassic World Alive
+series: Jurassic Park
+description: >
+  A location-based mobile game where players collect dinosaur DNA, create hybrids,
+  and use their creatures in battles.
+based_on: Movies/2015/Jurassic World
+released: 2018-03-14
+genres:
+  - augmented reality
+  - location-based
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_World_Alive
+developers: Ludia
+publishers:
+  - Ludia
+  - Universal

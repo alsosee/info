@@ -1,0 +1,16 @@
+name: Jurassic Park
+series: Jurassic Park
+description: >
+  A computer action game combining isometric exploration and first-person shooter
+  sections as Alan Grant searches the island for Lex and Tim.
+based_on: Movies/1993/Jurassic Park
+released: 1993
+genres:
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Jurassic_Park_(computer_video_game)
+developers: Ocean Software
+publishers: Ocean Software
+designers:
+  - Matthew Wood
+  - Warren Lancashire
+composers: Dean Evans
