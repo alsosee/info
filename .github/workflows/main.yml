@@ -87,9 +87,13 @@ jobs:
           R2_BUCKET: ${{ vars.CF_R2_SITE_BUCKET }}
         run: |
           : "${R2_BUCKET:=finder}"
+          du -sh output
+          find output -type f -printf '%s\t%p\n' | sort -nr | head -20 | numfmt --field=1 --to=iec
           aws s3 sync output "s3://${R2_BUCKET}" \
             --endpoint-url "https://${CF_ACCOUNT_ID}.r2.cloudflarestorage.com" \
-            --delete
+            --delete \
+            --checksum \
+            --no-progress
 
       - name: Commit and push state
         shell: bash
