@@ -1,0 +1,35 @@
+name: worker
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [finder-worker]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout info
+        uses: actions/checkout@v6
+
+      - name: Checkout finder
+        uses: actions/checkout@v6
+        with:
+          repository: alsosee/finder
+          path: finder
+          ref: ${{ github.event.client_payload.sha || 'main' }}
+          token: ${{ secrets.PKG_TOKEN }}
+
+      - name: Prepare Worker source
+        shell: bash
+        run: |
+          rm -rf _finder/worker/src
+          cp -R finder/worker/src _finder/worker/src
+
+      - name: Deploy Worker
+        uses: cloudflare/wrangler-action@v3.5.0
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          command: deploy --config _finder/worker/wrangler.toml
