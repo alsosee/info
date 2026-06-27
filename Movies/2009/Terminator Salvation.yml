@@ -1,0 +1,51 @@
+name: Terminator Salvation
+series: Terminator
+description: >
+  In the early years of the human-machine war, John Connor leads resistance
+  operations against Skynet while a mysterious survivor named Marcus Wright
+  becomes central to the fight.
+previous: Movies/2003/Terminator 3 Rise of the Machines
+released: 2009-05-21
+rating: PG-13
+length: 1h55m
+genres:
+  - science fiction
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Terminator_Salvation
+imdb: https://www.imdb.com/title/tt0438488
+tmdb: https://www.themoviedb.org/movie/534-terminator-salvation
+rotten_tomatoes: https://www.rottentomatoes.com/m/terminator_salvation
+metacritic: https://www.metacritic.com/movie/terminator-salvation/
+directors: McG
+screenplay:
+  - John Brancato
+  - Michael Ferris
+producers:
+  - Derek Anderson
+  - Moritz Borman
+  - Victor Kubicek
+  - Jeffrey Silver
+music: Danny Elfman
+cinematography: Shane Hurlbut
+editors: Conrad Buff
+production:
+  - The Halcyon Company
+  - Wonderland Sound and Vision
+distributors:
+  - Warner Bros. Pictures
+  - Columbia Pictures
+characters:
+  - name: John Connor
+    actor: Christian Bale
+  - name: Marcus Wright
+    actor: Sam Worthington
+  - name: Kyle Reese
+    actor: Anton Yelchin
+  - name: Blair Williams
+    actor: Moon Bloodgood
+  - name: Kate Connor
+    actor: Bryce Dallas Howard
+  - name: Barnes
+    actor: Common
+  - name: Dr. Serena Kogan
+    actor: Helena Bonham Carter

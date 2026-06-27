@@ -1,0 +1,15 @@
+name: "Paranormal Activity: The Lost Soul"
+description: >
+  A survival horror adventure based on the film franchise's mythology, sending
+  players through a haunted suburban house with optional VR support and
+  randomized scares.
+based_on: Movies/2007/Paranormal Activity
+released: 2017-08-15
+rating: M
+genres:
+  - survival horror
+  - adventure
+  - virtual reality
+website: https://store.steampowered.com/app/467660/Paranormal_Activity_The_Lost_Soul/
+developers: VRWERX
+publishers: VRWERX

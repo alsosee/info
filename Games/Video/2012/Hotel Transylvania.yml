@@ -1,0 +1,17 @@
+name: Hotel Transylvania
+series: Hotel Transylvania
+based_on: Movies/2012/Hotel Transylvania
+description: >
+  A side-scrolling platform game based on the animated film, following Mavis and the hotel monsters through locations inspired by Hotel Transylvania.
+released: 2012-09-18
+genres:
+  - platform
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Hotel_Transylvania#Video_games
+developers: WayForward Technologies
+publishers: GameMill Entertainment
+characters:
+  - name: Mavis Dracula
+    actor: Selena Gomez
+  - name: Count Dracula
+    actor: Adam Sandler

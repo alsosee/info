@@ -1,0 +1,35 @@
+name: Paranormal Activity
+series: Paranormal Activity
+description: >
+  Katie and Micah set up a camera in their San Diego home after a presence that
+  has haunted Katie since childhood begins disturbing them at night.
+released: 2007-10-14
+rating: R
+length: 1h26m
+genres:
+  - found footage
+  - supernatural horror
+wikipedia: https://en.wikipedia.org/wiki/Paranormal_Activity
+imdb: https://www.imdb.com/title/tt1179904
+tmdb: https://www.themoviedb.org/movie/23827-paranormal-activity
+directors: Oren Peli
+producers:
+  - Jason Blum
+  - Oren Peli
+writers: Oren Peli
+cinematography: Oren Peli
+editors: Oren Peli
+production:
+  - Solana Films
+  - Blumhouse Productions
+distributors: Paramount Pictures
+characters:
+  - name: Katie
+    actor: Katie Featherston
+  - name: Micah
+    actor: Micah Sloat
+  - name: The Psychic
+    actor: Mark Fredrichs
+  - name: Amber
+    actor: Amber Armstrong
+

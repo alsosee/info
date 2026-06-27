@@ -1,6 +1,9 @@
 name: "The Lord of the Rings: The Return of the King"
+series: Middle-earth
 description: >
   The final installment of Peter Jackson's epic trilogy follows Frodo and Sam as they near Mount Doom guided by the treacherous Gollum, while Aragorn leads the free peoples of Middle-earth in a desperate last stand against Sauron's forces at the siege of Minas Tirith.
+based_on:
+  - Books/1955/The Return of the King
 previous: Movies/2002/The Lord of the Rings The Two Towers
 released: 2003-12-17
 rating: PG-13

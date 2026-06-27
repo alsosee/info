@@ -1,0 +1,23 @@
+name: "BioShock Infinite"
+description: >
+  First-person shooter set in 1912 in the airborne city of Columbia, where former Pinkerton agent Booker
+  DeWitt is sent to retrieve a mysterious young woman named Elizabeth, becoming entangled in a civil war
+  between the city's ruling elite and a rebel underclass.
+previous: Games/Video/2010/BioShock 2
+released: 2013-03-26
+genres:
+  - first-person shooter
+  - action RPG
+wikipedia: https://en.wikipedia.org/wiki/BioShock_Infinite
+metacritic: https://www.metacritic.com/game/bioshock-infinite/
+fandom: https://bioshock.fandom.com/wiki/BioShock_Infinite
+developers: Irrational Games
+publishers: 2K Games
+directors: Ken Levine
+writers: Ken Levine
+composers: Garry Schyman
+characters:
+  - name: Booker DeWitt
+    actor: Troy Baker
+  - name: Elizabeth
+    actor: Courtnee Draper

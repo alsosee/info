@@ -1,0 +1,62 @@
+name: "Pirates of the Caribbean: Dead Man's Chest"
+series: Pirates of the Caribbean
+previous: "Movies/2003/Pirates of the Caribbean The Curse of the Black Pearl"
+description: >
+  Captain Jack Sparrow races to settle a supernatural debt with Davy Jones while
+  Will Turner and Elizabeth Swann are drawn into Lord Cutler Beckett's hunt for
+  Jack's compass. Their search leads toward the Dead Man's Chest and the heart
+  that controls the Flying Dutchman.
+released: 2006-07-07
+rating: PG-13
+length: 2h30m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Man%27s_Chest
+imdb: https://www.imdb.com/title/tt0383574
+tmdb: https://www.themoviedb.org/movie/58-pirates-of-the-caribbean-dead-man-s-chest
+rotten_tomatoes: https://www.rottentomatoes.com/m/pirates_of_the_caribbean_dead_mans_chest
+metacritic: https://www.metacritic.com/movie/pirates-of-the-caribbean-dead-mans-chest
+website: https://pirates.disney.com
+directors: Gore Verbinski
+producers: Jerry Bruckheimer
+screenplay:
+  - Ted Elliott
+  - Terry Rossio
+music: Hans Zimmer
+cinematography: Dariusz Wolski
+editors:
+  - Craig Wood
+  - Stephen Rivkin
+production:
+  - Walt Disney Pictures
+  - Jerry Bruckheimer Films
+distributors: Buena Vista Pictures Distribution
+characters:
+  - name: Captain Jack Sparrow
+    actor: Johnny Depp
+  - name: Will Turner
+    actor: Orlando Bloom
+  - name: Elizabeth Swann
+    actor: Keira Knightley
+  - name: Bootstrap Bill Turner
+    actor: "Stellan Skarsgård"
+  - name: Davy Jones
+    actor: Bill Nighy
+  - name: James Norrington
+    actor: Jack Davenport
+  - name: Joshamee Gibbs
+    actor: Kevin R. McNally
+  - name: Governor Weatherby Swann
+    actor: Jonathan Pryce
+  - name: Lord Cutler Beckett
+    actor: Tom Hollander
+  - name: Pintel
+    actor: Lee Arenberg
+  - name: Ragetti
+    actor: Mackenzie Crook
+  - name: Tia Dalma
+    actor: Naomie Harris
+  - name: Captain Barbossa
+    actor: Geoffrey Rush

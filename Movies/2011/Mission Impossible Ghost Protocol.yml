@@ -1,0 +1,54 @@
+name: "Mission: Impossible – Ghost Protocol"
+series: "Mission: Impossible"
+previous: Movies/2006/Mission Impossible III
+description: >
+  After the IMF is implicated in the bombing of the Kremlin, Ethan Hunt and a small
+  disavowed team operate without official support. Their mission is to stop a nuclear
+  extremist before he can trigger a global catastrophe.
+released: 2011-12-16
+rating: PG-13
+length: 2h13m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Mission%3A_Impossible_%E2%80%93_Ghost_Protocol
+imdb: https://www.imdb.com/title/tt1229238
+tmdb: https://www.themoviedb.org/movie/56292-mission-impossible-ghost-protocol
+directors: Brad Bird
+screenplay:
+  - Josh Appelbaum
+  - André Nemec
+producers:
+  - Tom Cruise
+  - J. J. Abrams
+  - Bryan Burk
+music: Michael Giacchino
+cinematography: Robert Elswit
+editors: Paul Hirsch
+production:
+  - Paramount Pictures
+  - Skydance Productions
+  - Bad Robot
+  - TC Productions
+distributors: Paramount Pictures
+characters:
+  - name: Ethan Hunt
+    actor: Tom Cruise
+  - name: William Brandt
+    actor: Jeremy Renner
+  - name: Jane Carter
+    actor: Paula Patton
+  - name: Benji Dunn
+    actor: Simon Pegg
+  - name: Luther Stickell
+    actor: Ving Rhames
+  - name: Kurt Hendricks
+    actor: Michael Nyqvist
+  - name: Anatoly Sidorov
+    actor: Vladimir Mashkov
+  - name: Sabine Moreau
+    actor: Léa Seydoux
+  - name: Trevor Hanaway
+    actor: Josh Holloway

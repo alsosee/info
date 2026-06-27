@@ -1,0 +1,38 @@
+name: Shrek 5
+series: Shrek
+description: >
+  The fifth main Shrek film continues the DreamWorks Animation franchise with
+  Shrek, Donkey, Princess Fiona, and Shrek and Fiona's children appearing in a
+  new animated adventure.
+previous: Movies/2010/Shrek Forever After
+released: 2027-06-30
+genres:
+  - animation
+  - comedy
+  - family
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Shrek_5
+tmdb: https://www.themoviedb.org/movie/421892-shrek-5
+directors:
+  - Walt Dohrn
+  - Conrad Vernon
+  - Brad Ableson
+screenplay: Michael McCullers
+producers:
+  - Gina Shay
+  - Chris Meledandri
+production: DreamWorks Animation
+distributors: Universal Pictures
+characters:
+  - name: Shrek
+    voice: Mike Myers
+  - name: Donkey
+    voice: Eddie Murphy
+  - name: Princess Fiona
+    voice: Cameron Diaz
+  - name: Felicia
+    voice: Zendaya
+  - name: Fergus
+    voice: Marcello Hernández
+  - name: Farkle
+    voice: Skyler Gisondo

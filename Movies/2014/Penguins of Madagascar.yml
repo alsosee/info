@@ -1,0 +1,62 @@
+name: Penguins of Madagascar
+series: Madagascar
+description: >
+  Skipper, Kowalski, Rico, and Private leave the zoo behind for a spy adventure
+  that pairs them with the North Wind intelligence agency. Together they face
+  Dave, an octopus seeking revenge on penguins for upstaging him in aquariums
+  and zoos.
+previous: Movies/2012/Madagascar 3 Europe's Most Wanted
+released: 2014-11-26
+rating: PG
+length: 1h32m
+genres:
+  - animation
+  - adventure
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Penguins_of_Madagascar
+imdb: https://www.imdb.com/title/tt1911658
+tmdb: https://www.themoviedb.org/movie/270946-penguins-of-madagascar
+rotten_tomatoes: https://www.rottentomatoes.com/m/penguins_of_madagascar
+metacritic: https://www.metacritic.com/movie/penguins-of-madagascar
+website: https://www.dreamworks.com/movies/penguins-of-madagascar
+directors:
+  - Eric Darnell
+  - Simon J. Smith
+producers:
+  - Lara Breay
+  - Mark Swift
+screenplay:
+  - Michael Colton
+  - John Aboud
+  - Brandon Sawyer
+story_by:
+  - Alan Schoolcraft
+  - Brent Simons
+  - Michael Colton
+  - John Aboud
+music: Lorne Balfe
+editors: Nick Kenway
+production:
+  - DreamWorks Animation
+  - Pacific Data Images
+distributors: 20th Century Fox
+characters:
+  - name: Skipper
+    voice: Tom McGrath
+  - name: Kowalski
+    voice: Chris Miller
+  - name: Private
+    voice: Christopher Knights
+  - name: Rico
+    voice: Conrad Vernon
+  - name: Classified
+    voice: Benedict Cumberbatch
+  - name: Short Fuse
+    voice: Ken Jeong
+  - name: Eva
+    voice: Annet Mahendru
+  - name: Corporal
+    voice: Peter Stormare
+  - name: Dave
+    voice: John Malkovich

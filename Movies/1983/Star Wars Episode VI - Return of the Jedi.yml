@@ -1,0 +1,64 @@
+name: "Star Wars: Episode VI – Return of the Jedi"
+series: Star Wars
+previous: Movies/1980/Star Wars Episode V - The Empire Strikes Back
+description: >
+  Luke Skywalker leads a mission to rescue Han Solo from Jabba the Hutt while
+  the Rebel Alliance prepares an attack on the Empire's second Death Star. As
+  the battle nears, Luke must confront Darth Vader and Emperor Palpatine.
+released: 1983-05-25
+rating: PG
+length: 2h11m
+genres:
+  - action
+  - adventure
+  - fantasy
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Return_of_the_Jedi
+imdb: https://www.imdb.com/title/tt0086190
+tmdb: https://www.themoviedb.org/movie/1892-return-of-the-jedi
+rotten_tomatoes: https://www.rottentomatoes.com/m/star_wars_episode_vi_return_of_the_jedi
+metacritic: https://www.metacritic.com/movie/star-wars-episode-vi---return-of-the-jedi/
+website: https://www.starwars.com/films/star-wars-episode-vi-return-of-the-jedi
+directors: Richard Marquand
+screenplay:
+  - Lawrence Kasdan
+  - George Lucas
+producers: Howard Kazanjian
+music: John Williams
+cinematography: Alan Hume
+editors:
+  - Sean Barton
+  - Marcia Lucas
+  - Duwayne Dunham
+production: Lucasfilm
+distributors: 20th Century Fox
+characters:
+  - name: Luke Skywalker
+    actor: Mark Hamill
+  - name: Han Solo
+    actor: Harrison Ford
+  - name: Princess Leia Organa
+    actor: Carrie Fisher
+  - name: Lando Calrissian
+    actor: Billy Dee Williams
+  - name: C-3PO
+    actor: Anthony Daniels
+  - name: Darth Vader
+    actor: David Prowse
+    voice: James Earl Jones
+  - name: Chewbacca
+    actor: Peter Mayhew
+  - name: R2-D2
+    actor: Kenny Baker
+  - name: Yoda
+    voice: Frank Oz
+  - name: Obi-Wan Kenobi
+    actor: Alec Guinness
+  - name: Emperor Palpatine
+    actor: Ian McDiarmid
+  - name: Wicket W. Warrick
+    actor: Warwick Davis
+  - name: Jabba the Hutt
+    voice: Larry Ward
+  - name: Boba Fett
+    actor: Jeremy Bulloch

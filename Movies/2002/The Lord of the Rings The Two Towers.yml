@@ -1,6 +1,9 @@
 name: "The Lord of the Rings: The Two Towers"
+series: Middle-earth
 description: >
   The second installment of Peter Jackson's epic trilogy follows three interconnected storylines as Frodo and Sam journey toward Mordor with the treacherous Gollum, Merry and Pippin encounter the Ents, and Aragorn, Legolas, and Gimli help Rohan defend against Saruman's forces at the Battle of Helm's Deep.
+based_on:
+  - Books/1954/The Two Towers
 previous: Movies/2001/The Lord of the Rings The Fellowship of the Ring
 released: 2002-12-18
 rating: PG-13

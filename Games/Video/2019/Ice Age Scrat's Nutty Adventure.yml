@@ -1,0 +1,15 @@
+name: "Ice Age: Scrat's Nutty Adventure"
+series: Ice Age
+description: >
+  An action-adventure game starring Scrat as he explores temples, solves puzzles, and searches for the Crystal Nuts to recover his acorn.
+released: 2019-10-18
+genres:
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/Ice_Age:_Scrat%27s_Nutty_Adventure
+developers: Just Add Water
+publishers: Outright Games
+composers: Allister Brimble
+engine: Unity
+characters:
+  - name: Scrat
+    actor: Chris Wedge

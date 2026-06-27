@@ -1,0 +1,136 @@
+name: Painkiller
+description: >
+  A limited series dramatizing the birth of America's opioid epidemic, following Purdue Pharma's aggressive
+  marketing of OxyContin through the eyes of a tenacious federal investigator, a young sales representative,
+  and ordinary families whose lives are upended by addiction.
+released: 2023-08-10
+rating: TV-MA
+genres:
+  - drama
+  - crime
+network: Netflix
+wikipedia: https://en.wikipedia.org/wiki/Painkiller_(TV_series)
+imdb: https://www.imdb.com/title/tt11816814
+tmdb: https://www.themoviedb.org/tv/158083-painkiller/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/painkiller/s01
+metacritic: https://www.metacritic.com/tv/painkiller/season-1
+netflix: https://www.netflix.com/title/81095069
+creators:
+  - Micah Fitzerman-Blue
+  - Noah Harpster
+directors: Peter Berg
+writers:
+  - Micah Fitzerman-Blue
+  - Noah Harpster
+  - Will Hettinger
+  - Boo Killebrew
+characters:
+  - name: Edie Flowers
+    actor: Uzo Aduba
+  - name: Richard Sackler
+    actor: Matthew Broderick
+  - name: Glen Kryger
+    actor: Taylor Kitsch
+  - name: Raymond Sackler
+    actor: Sam Anderson
+  - name: Arthur Sackler
+    actor: Clark Gregg
+  - name: "John L. Brownlee"
+    actor: Tyler Ritter
+  - name: Shannon Schaeffer
+    actor: West Duchovny
+  - name: Lily Kryger
+    actor: Carolina Bartczak
+  - name: Tyler Kryger
+    actor: Jack Mulhern
+  - name: Britt
+    actor: Dina Shihabi
+  - name: Gregory Fitzgibbons
+    actor: John Ales
+  - name: Bill Havens
+    actor: Ron Lea
+  - name: Brianna Ortiz
+    actor: Ana Cruz Kayne
+  - name: Mortimer Sackler
+    actor: John Rothman
+  - name: Michael Friedman
+    actor: John Murphy
+  - name: Curtis Wright
+    actor: Noah Harpster
+  - name: Deborah Marlowe
+    actor: Trenna Keating
+episodes:
+  - name: The One to Start With, The One to Stay With
+    description: >
+      Richard Sackler bets on an extended-release opioid as a breakthrough painkiller, while a college
+      graduate named Shannon joins Purdue's sales force and a factory worker named Glen suffers a workplace injury.
+    released: 2023-08-10
+    length: 51m
+    imdb: https://www.imdb.com/title/tt11835644
+    directors: Peter Berg
+    writers:
+      - Micah Fitzerman-Blue
+      - Noah Harpster
+
+  - name: Jesus Gave Me Water
+    description: >
+      A patient using OxyContin attends a Purdue conference while federal investigator Edie witnesses
+      the drug's alarming effects and Richard pushes the company's ambitions further.
+    released: 2023-08-10
+    length: 47m
+    imdb: https://www.imdb.com/title/tt11835646
+    directors: Peter Berg
+    writers:
+      - Micah Fitzerman-Blue
+      - Noah Harpster
+
+  - name: Blizzard of the Century
+    description: >
+      Glen's escalating addiction lands him in the emergency room, while Edie struggles to persuade
+      her boss, the US Attorney, to open a case against Purdue Pharma.
+    released: 2023-08-10
+    length: 42m
+    imdb: https://www.imdb.com/title/tt11835648
+    directors: Peter Berg
+    writers:
+      - Will Hettinger
+      - Micah Fitzerman-Blue
+      - Noah Harpster
+
+  - name: Is Believed
+    description: >
+      Edie presses forward with her investigation of Purdue, Shannon begins to question her role at
+      the company, and Glen's behavior at work becomes increasingly erratic.
+    released: 2023-08-10
+    length: 45m
+    imdb: https://www.imdb.com/title/tt11835704
+    directors: Peter Berg
+    writers:
+      - Boo Killebrew
+      - Micah Fitzerman-Blue
+      - Noah Harpster
+
+  - name: "Hot! Hot! Hot!"
+    description: >
+      Glen reaches a breaking point as his addiction spirals, while Edie's investigation turns up
+      potentially damning evidence against the pharmaceutical giant.
+    released: 2023-08-10
+    length: 60m
+    imdb: https://www.imdb.com/title/tt11835652
+    directors: Peter Berg
+    writers:
+      - Boo Killebrew
+      - Micah Fitzerman-Blue
+      - Noah Harpster
+
+  - name: "What's in a Name?"
+    description: >
+      Edie and her team bring the case against Purdue Pharma to court, while Glen and Shannon each
+      face pivotal decisions about the paths their lives will take.
+    released: 2023-08-10
+    length: 44m
+    imdb: https://www.imdb.com/title/tt11835654
+    directors: Peter Berg
+    writers:
+      - Micah Fitzerman-Blue
+      - Noah Harpster

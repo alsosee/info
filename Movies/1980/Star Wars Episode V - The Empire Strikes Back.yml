@@ -1,0 +1,57 @@
+name: "Star Wars: Episode V – The Empire Strikes Back"
+series: Star Wars
+previous: Movies/1977/Star Wars Episode 4
+description: >
+  Three years after the destruction of the Death Star, the Rebel Alliance is
+  driven from its hidden base by the Galactic Empire. As Han Solo, Leia Organa,
+  and their allies flee Darth Vader's forces, Luke Skywalker travels to Dagobah
+  to train with the Jedi Master Yoda.
+released: 1980-05-21
+rating: PG
+length: 2h4m
+genres:
+  - action
+  - adventure
+  - fantasy
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/The_Empire_Strikes_Back
+imdb: https://www.imdb.com/title/tt0080684
+tmdb: https://www.themoviedb.org/movie/1891-the-empire-strikes-back
+rotten_tomatoes: https://www.rottentomatoes.com/m/empire_strikes_back
+metacritic: https://www.metacritic.com/movie/star-wars-episode-v---the-empire-strikes-back/
+website: https://www.starwars.com/films/star-wars-episode-v-the-empire-strikes-back
+directors: Irvin Kershner
+screenplay:
+  - Leigh Brackett
+  - Lawrence Kasdan
+producers: Gary Kurtz
+music: John Williams
+cinematography: Peter Suschitzky
+editors: Paul Hirsch
+production: Lucasfilm
+distributors: 20th Century Fox
+characters:
+  - name: Luke Skywalker
+    actor: Mark Hamill
+  - name: Han Solo
+    actor: Harrison Ford
+  - name: Princess Leia Organa
+    actor: Carrie Fisher
+  - name: Lando Calrissian
+    actor: Billy Dee Williams
+  - name: C-3PO
+    actor: Anthony Daniels
+  - name: Darth Vader
+    actor: David Prowse
+    voice: James Earl Jones
+  - name: Chewbacca
+    actor: Peter Mayhew
+  - name: R2-D2
+    actor: Kenny Baker
+  - name: Yoda
+    voice: Frank Oz
+  - name: Obi-Wan Kenobi
+    actor: Alec Guinness
+  - name: Boba Fett
+    actor: Jeremy Bulloch
+    voice: Jason Wingreen

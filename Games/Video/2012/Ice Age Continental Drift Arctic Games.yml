@@ -1,0 +1,21 @@
+name: "Ice Age: Continental Drift - Arctic Games"
+series: Ice Age
+based_on: Movies/2012/Ice Age Continental Drift
+description: >
+  A tie-in party game based on Ice Age: Continental Drift, built around winter and arctic-themed competitions between the herd and the pirates.
+released: 2012-07-10
+genres:
+  - party
+  - sports
+wikipedia: https://en.wikipedia.org/wiki/Ice_Age:_Continental_Drift
+developers: Behaviour Interactive
+publishers: Activision
+characters:
+  - name: Manny
+    actor: Ray Romano
+  - name: Sid
+    actor: John Leguizamo
+  - name: Diego
+    actor: Denis Leary
+  - name: Captain Gutt
+    actor: Peter Dinklage

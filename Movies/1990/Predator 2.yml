@@ -1,0 +1,54 @@
+name: Predator 2
+series: Predator
+previous: Movies/1987/Predator
+description: >
+  In a violent near-future Los Angeles, police lieutenant Mike Harrigan investigates a string of killings tied to warring drug cartels.
+  The case reveals a Predator hunting armed humans across the city and drawing Harrigan into its ritualized pursuit.
+released: 1990-11-21
+rating: R
+length: 108m
+genres:
+  - science fiction
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Predator_2
+imdb: https://www.imdb.com/title/tt0100403
+tmdb: https://www.themoviedb.org/movie/169-predator-2
+rotten_tomatoes: https://www.rottentomatoes.com/m/predator_2
+metacritic: https://www.metacritic.com/movie/predator-2
+directors: Stephen Hopkins
+producers:
+  - Lawrence Gordon
+  - Joel Silver
+  - John Davis
+screenplay:
+  - Jim Thomas
+  - John Thomas
+music: Alan Silvestri
+cinematography: Peter Levy
+editors:
+  - Mark Goldblatt
+  - Bert Lovitt
+production:
+  - 20th Century Fox
+  - Silver Pictures
+  - Gordon Company
+  - Davis Entertainment
+distributors: 20th Century Fox
+characters:
+  - name: Lieutenant Mike Harrigan
+    actor: Danny Glover
+  - name: Special Agent Peter Keyes
+    actor: Gary Busey
+  - name: Detective Danny Archuleta
+    actor: Rubén Blades
+  - name: Detective Leona Cantrell
+    actor: María Conchita Alonso
+  - name: Detective Jerry Lambert
+    actor: Bill Paxton
+  - name: Captain Phil Heinemann
+    actor: Robert Davi
+  - name: King Willie
+    actor: Calvin Lockhart
+  - name: The Predator
+    actor: Kevin Peter Hall

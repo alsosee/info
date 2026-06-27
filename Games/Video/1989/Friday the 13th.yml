@@ -1,0 +1,15 @@
+name: Friday the 13th
+series: Friday the 13th
+description: >
+  A Nintendo Entertainment System horror game in which Camp Crystal Lake
+  counselors search the camp and fight Jason Voorhees.
+released: 1989
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th_(1989_video_game)
+developers: Atlus
+publishers: LJN
+composers: Hirohiko Takayama
+characters:
+  - name: Jason Voorhees

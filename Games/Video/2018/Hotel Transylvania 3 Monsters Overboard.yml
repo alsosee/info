@@ -1,0 +1,28 @@
+name: "Hotel Transylvania 3: Monsters Overboard"
+series: Hotel Transylvania
+based_on: Movies/2018/Hotel Transylvania 3 Summer Vacation
+description: >
+  A tie-in adventure game based on Hotel Transylvania 3: Summer Vacation, sending Dracula and Mavis across the Lost Islands to rescue the missing Drac-Pack.
+released: 2018-07-10
+genres:
+  - adventure
+  - strategy
+wikipedia: https://en.wikipedia.org/wiki/Hotel_Transylvania_3:_Summer_Vacation#Video_game
+metacritic: https://www.metacritic.com/game/hotel-transylvania-3-monsters-overboard
+developers: Torus Games
+publishers: Outright Games
+characters:
+  - name: Count Dracula
+    actor: Brock Powell
+  - name: Mavis Dracula
+    actor: Melissa Sturm
+  - name: Wayne
+    actor: Michael Buscemi
+  - name: Ericka Van Helsing
+    actor: Julianne Buescher
+  - name: Frankenstein
+    actor: Danny Gendron
+  - name: Jonathan Loughran
+    actor: Brian T. Stevenson
+  - name: Murray
+    actor: Keegan-Michael Key

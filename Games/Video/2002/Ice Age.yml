@@ -1,0 +1,19 @@
+name: Ice Age
+series: Ice Age
+based_on: Movies/2002/Ice Age
+description: >
+  A Game Boy Advance platform game based on the 2002 film, with players guiding Sid and Manny through side-scrolling levels while protecting Roshan.
+released: 2002-03-18
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Ice_Age_(2002_video_game)
+metacritic: https://www.metacritic.com/game/ice-age/
+developers: Artificial Mind and Movement
+publishers: Ubi Soft
+characters:
+  - name: Sid
+    actor: John Leguizamo
+  - name: Manny
+    actor: Ray Romano
+  - name: Roshan
+    actor: Tara Strong

@@ -1,0 +1,51 @@
+name: "Terminator 3: Rise of the Machines"
+series: Terminator
+description: >
+  Years after Sarah Connor prevented Judgment Day, a new Terminator model targets John
+  Connor and his future allies while a reprogrammed T-850 is sent to protect them.
+previous: Movies/1991/Terminator 2
+released: 2003-07-02
+rating: R
+length: 1h49m
+genres:
+  - science fiction
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Terminator_3:_Rise_of_the_Machines
+imdb: https://www.imdb.com/title/tt0181852
+tmdb: https://www.themoviedb.org/movie/296-terminator-3-rise-of-the-machines
+rotten_tomatoes: https://www.rottentomatoes.com/m/terminator_3_rise_of_the_machines
+metacritic: https://www.metacritic.com/movie/terminator-3-rise-of-the-machines/
+directors: Jonathan Mostow
+screenplay:
+  - John Brancato
+  - Michael Ferris
+producers:
+  - Hal Lieberman
+  - Colin Wilson
+  - Mario F. Kassar
+  - Andrew G. Vajna
+  - Joel B. Michaels
+music: Marco Beltrami
+cinematography: Don Burgess
+editors:
+  - Neil Travis
+  - Nicolas de Toth
+production:
+  - Intermedia
+  - C2 Pictures
+distributors:
+  - Warner Bros. Pictures
+  - Columbia Pictures
+characters:
+  - name: T-850
+    actor: Arnold Schwarzenegger
+  - name: John Connor
+    actor: Nick Stahl
+  - name: Kate Brewster
+    actor: Claire Danes
+  - name: T-X
+    actor: Kristanna Loken
+  - name: Lieutenant General Robert Brewster
+    actor: David Andrews
+  - name: Dr. Peter Silberman
+    actor: Earl Boen

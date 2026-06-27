@@ -1,0 +1,49 @@
+name: "Mission: Impossible 2"
+series: "Mission: Impossible"
+previous: Movies/1996/Mission Impossible
+description: >
+  Ethan Hunt is recruited to stop a rogue IMF agent from using a deadly engineered virus
+  and its cure for profit. To get close to the target, he works with professional thief
+  Nyah Nordoff-Hall, whose past with the villain complicates the mission.
+released: 2000-05-24
+rating: PG-13
+length: 2h04m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Mission%3A_Impossible_2
+imdb: https://www.imdb.com/title/tt0120755
+tmdb: https://www.themoviedb.org/movie/955-mission-impossible-ii
+directors: John Woo
+screenplay: Robert Towne
+producers:
+  - Tom Cruise
+  - Paula Wagner
+music: Hans Zimmer
+cinematography: Jeffrey L. Kimball
+editors:
+  - Christian Wagner
+  - Steven Kemper
+production:
+  - Paramount Pictures
+  - Cruise/Wagner Productions
+distributors: Paramount Pictures
+characters:
+  - name: Ethan Hunt
+    actor: Tom Cruise
+  - name: Sean Ambrose
+    actor: Dougray Scott
+  - name: Nyah Nordoff-Hall
+    actor: Thandiwe Newton
+  - name: Hugh Stamp
+    actor: Richard Roxburgh
+  - name: Billy Baird
+    actor: John Polson
+  - name: John C. McCloy
+    actor: Brendan Gleeson
+  - name: Dr. Vladimir Nekhorvich
+    actor: Rade Šerbedžija
+  - name: Luther Stickell
+    actor: Ving Rhames

@@ -1,0 +1,73 @@
+name: "Star Wars: Episode IX – The Rise of Skywalker"
+series: Star Wars
+previous: Movies/2017/Star Wars Episode VIII - The Last Jedi
+description: >
+  The Resistance faces a final threat when Emperor Palpatine's return draws Rey,
+  Finn, and Poe Dameron into a desperate mission against the First Order and the
+  hidden Sith fleet. Rey's training and her connection to Kylo Ren become central
+  to the galaxy's last stand.
+released: 2019-12-20
+rating: PG-13
+length: 2h22m
+genres:
+  - action
+  - adventure
+  - fantasy
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Star_Wars:_The_Rise_of_Skywalker
+imdb: https://www.imdb.com/title/tt2527338
+tmdb: https://www.themoviedb.org/movie/181812-star-wars-the-rise-of-skywalker
+rotten_tomatoes: https://www.rottentomatoes.com/m/star_wars_the_rise_of_skywalker
+metacritic: https://www.metacritic.com/movie/star-wars-episode-ix---the-rise-of-skywalker/
+website: https://www.starwars.com/films/star-wars-episode-ix-the-rise-of-skywalker
+trailer: https://www.youtube.com/watch?v=8Qn_spdM5Zg
+directors: J. J. Abrams
+screenplay:
+  - Chris Terrio
+  - J. J. Abrams
+producers:
+  - Kathleen Kennedy
+  - J. J. Abrams
+  - Michelle Rejwan
+music: John Williams
+cinematography: Dan Mindel
+editors:
+  - Maryann Brandon
+  - Stefan Grube
+production:
+  - Lucasfilm
+  - Bad Robot
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Leia Organa
+    actor: Carrie Fisher
+  - name: Luke Skywalker
+    actor: Mark Hamill
+  - name: Kylo Ren
+    actor: Adam Driver
+  - name: Rey
+    actor: Daisy Ridley
+  - name: Finn
+    actor: John Boyega
+  - name: Poe Dameron
+    actor: Oscar Isaac
+  - name: C-3PO
+    actor: Anthony Daniels
+  - name: Jannah
+    actor: Naomi Ackie
+  - name: General Hux
+    actor: Domhnall Gleeson
+  - name: Allegiant General Pryde
+    actor: Richard E. Grant
+  - name: Maz Kanata
+    actor: Lupita Nyong'o
+  - name: Zorii Bliss
+    actor: Keri Russell
+  - name: Chewbacca
+    actor: Joonas Suotamo
+  - name: Rose Tico
+    actor: Kelly Marie Tran
+  - name: Emperor Palpatine
+    actor: Ian McDiarmid
+  - name: Lando Calrissian
+    actor: Billy Dee Williams

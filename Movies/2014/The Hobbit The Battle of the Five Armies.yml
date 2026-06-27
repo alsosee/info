@@ -1,0 +1,64 @@
+name: "The Hobbit: The Battle of the Five Armies"
+series: Middle-earth
+description: >
+  The final installment of Peter Jackson's Hobbit trilogy follows Bilbo Baggins, Thorin Oakenshield, and the peoples of Middle-earth as rival armies converge on the Lonely Mountain after Smaug leaves his lair.
+based_on:
+  - Books/1937/The Hobbit
+previous: Movies/2013/The Hobbit The Desolation of Smaug
+released: 2014-12-17
+rating: PG-13
+length: 2h24m
+genres:
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Hobbit:_The_Battle_of_the_Five_Armies
+imdb: https://www.imdb.com/title/tt2310332
+tmdb: https://www.themoviedb.org/movie/122917
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_hobbit_the_battle_of_the_five_armies
+metacritic: https://www.metacritic.com/movie/the-hobbit-the-battle-of-the-five-armies/
+directors: Peter Jackson
+producers:
+  - Carolynne Cunningham
+  - Zane Weiner
+  - Fran Walsh
+  - Peter Jackson
+screenplay:
+  - Fran Walsh
+  - Philippa Boyens
+  - Peter Jackson
+  - Guillermo del Toro
+music: Howard Shore
+cinematography: Andrew Lesnie
+editors: Jabez Olssen
+production:
+  - New Line Cinema
+  - Metro-Goldwyn-Mayer Pictures
+  - WingNut Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Bilbo Baggins
+    actor: Martin Freeman
+  - name: Gandalf the Grey
+    actor: Ian McKellen
+  - name: Thorin Oakenshield
+    actor: Richard Armitage
+  - name: Tauriel
+    actor: Evangeline Lilly
+  - name: Thranduil
+    actor: Lee Pace
+  - name: Bard the Bowman
+    actor: Luke Evans
+  - name: Smaug
+    actor: Benedict Cumberbatch
+  - name: Balin
+    actor: Ken Stott
+  - name: Bofur
+    actor: James Nesbitt
+  - name: Galadriel
+    actor: Cate Blanchett
+  - name: Saruman
+    actor: Christopher Lee
+  - name: Elrond
+    actor: Hugo Weaving
+  - name: Legolas
+    actor: Orlando Bloom

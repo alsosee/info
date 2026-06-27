@@ -1,0 +1,62 @@
+name: "The Hobbit: An Unexpected Journey"
+series: Middle-earth
+description: >
+  The first installment of Peter Jackson's Hobbit trilogy follows Bilbo Baggins as he is recruited by Gandalf to join Thorin Oakenshield and his company of dwarves on a quest to reclaim the Lonely Mountain from the dragon Smaug.
+based_on:
+  - Books/1937/The Hobbit
+previous: Movies/2003/The Lord of the Rings The Return of the King
+released: 2012-12-14
+rating: PG-13
+length: 2h49m
+genres:
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Hobbit:_An_Unexpected_Journey
+imdb: https://www.imdb.com/title/tt0903624
+tmdb: https://www.themoviedb.org/movie/49051
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_hobbit_an_unexpected_journey
+metacritic: https://www.metacritic.com/movie/the-hobbit-an-unexpected-journey/
+directors: Peter Jackson
+producers:
+  - Carolynne Cunningham
+  - Zane Weiner
+  - Fran Walsh
+  - Peter Jackson
+screenplay:
+  - Fran Walsh
+  - Philippa Boyens
+  - Peter Jackson
+  - Guillermo del Toro
+music: Howard Shore
+cinematography: Andrew Lesnie
+editors: Jabez Olssen
+production:
+  - New Line Cinema
+  - Metro-Goldwyn-Mayer Pictures
+  - WingNut Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Bilbo Baggins
+    actor: Martin Freeman
+  - name: Gandalf the Grey
+    actor: Ian McKellen
+  - name: Thorin Oakenshield
+    actor: Richard Armitage
+  - name: Balin
+    actor: Ken Stott
+  - name: Bofur
+    actor: James Nesbitt
+  - name: Radagast
+    actor: Sylvester McCoy
+  - name: Galadriel
+    actor: Cate Blanchett
+  - name: Saruman
+    actor: Christopher Lee
+  - name: Elrond
+    actor: Hugo Weaving
+  - name: Gollum
+    actor: Andy Serkis
+  - name: Frodo Baggins
+    actor: Elijah Wood
+  - name: Older Bilbo Baggins
+    actor: Ian Holm

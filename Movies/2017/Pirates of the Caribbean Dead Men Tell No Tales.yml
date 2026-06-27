@@ -1,0 +1,58 @@
+name: "Pirates of the Caribbean: Dead Men Tell No Tales"
+series: Pirates of the Caribbean
+previous: "Movies/2011/Pirates of the Caribbean On Stranger Tides"
+description: >
+  Captain Jack Sparrow is pursued by Captain Armando Salazar and a ghostly crew
+  escaped from the Devil's Triangle. Jack joins Henry Turner and astronomer
+  Carina Smyth in a search for the Trident of Poseidon, an artifact tied to
+  every curse at sea.
+released: 2017-05-26
+rating: PG-13
+length: 2h9m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_Dead_Men_Tell_No_Tales
+imdb: https://www.imdb.com/title/tt1790809
+tmdb: https://www.themoviedb.org/movie/166426-pirates-of-the-caribbean-dead-men-tell-no-tales
+rotten_tomatoes: https://www.rottentomatoes.com/m/pirates_of_the_caribbean_dead_men_tell_no_tales
+metacritic: https://www.metacritic.com/movie/pirates-of-the-caribbean-dead-men-tell-no-tales
+website: https://pirates.disney.com
+directors:
+  - "Joachim Rønning"
+  - Espen Sandberg
+producers: Jerry Bruckheimer
+screenplay: Jeff Nathanson
+music: Geoff Zanelli
+cinematography: Paul Cameron
+editors:
+  - Roger Barton
+  - Leigh Folsom Boyd
+production:
+  - Walt Disney Pictures
+  - Jerry Bruckheimer Films
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Captain Jack Sparrow
+    actor: Johnny Depp
+  - name: Captain Armando Salazar
+    actor: Javier Bardem
+  - name: Henry Turner
+    actor: Brenton Thwaites
+  - name: Carina Smyth
+    actor: Kaya Scodelario
+  - name: Joshamee Gibbs
+    actor: Kevin R. McNally
+  - name: Captain Barbossa
+    actor: Geoffrey Rush
+  - name: Will Turner
+    actor: Orlando Bloom
+  - name: Elizabeth Swann
+    actor: Keira Knightley
+  - name: Scrum
+    actor: Stephen Graham
+  - name: Shansa
+    actor: Golshifteh Farahani
+  - name: Scarfield
+    actor: David Wenham

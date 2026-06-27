@@ -1,0 +1,56 @@
+name: Gandhi
+description: >
+  An epic biographical drama following Mohandas K. Gandhi from his early political awakening
+  in South Africa to his leadership of India's nonviolent independence movement against
+  British colonial rule.
+released: 1982-11-30
+rating: PG
+length: 3h11m
+genres:
+  - biography
+  - history
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Gandhi_(film)
+imdb: https://www.imdb.com/title/tt0083987
+tmdb: https://www.themoviedb.org/movie/783-gandhi
+rotten_tomatoes: https://www.rottentomatoes.com/m/gandhi
+website: https://www.sonypictures.com/movies/gandhi
+trailer: https://www.youtube.com/watch?v=5y8DZUShVis
+directors: Richard Attenborough
+producers:
+  - Richard Attenborough
+screenplay: John Briley
+music:
+  - Ravi Shankar
+  - George Fenton
+cinematography:
+  - Billy Williams
+  - Ronnie Taylor
+editors: John Bloom
+production:
+  - Goldcrest Films
+  - International Film Investors
+  - National Film Development Corporation of India
+  - Indo-British Films
+distributors: Columbia Pictures
+characters:
+  - name: Mohandas K. Gandhi
+    actor: Ben Kingsley
+  - name: Kasturba Gandhi
+    actor: Rohini Hattangadi
+  - name: Jawaharlal Nehru
+    actor: Roshan Seth
+  - name: Margaret Bourke-White
+    actor: Candice Bergen
+  - name: General Dyer
+    actor: Edward Fox
+  - name: Lord Irwin
+    actor: John Gielgud
+  - name: Judge Broomfield
+    actor: Trevor Howard
+  - name: Lord Chelmsford
+    actor: John Mills
+  - name: Vince Walker
+    actor: Martin Sheen
+  - name: Reverend Charlie Andrews
+    actor: Ian Charleson

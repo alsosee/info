@@ -1,0 +1,54 @@
+name: "Pirates of the Caribbean: On Stranger Tides"
+series: Pirates of the Caribbean
+previous: "Movies/2007/Pirates of the Caribbean At World's End"
+description: >
+  Captain Jack Sparrow searches for the Fountain of Youth after crossing paths
+  with Angelica, a mysterious woman from his past. The voyage draws him aboard
+  Blackbeard's Queen Anne's Revenge while Barbossa leads a rival British
+  expedition toward the same prize.
+released: 2011-05-20
+rating: PG-13
+length: 2h17m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_On_Stranger_Tides
+imdb: https://www.imdb.com/title/tt1298650
+tmdb: https://www.themoviedb.org/movie/1865-pirates-of-the-caribbean-on-stranger-tides
+rotten_tomatoes: https://www.rottentomatoes.com/m/pirates_of_the_caribbean_on_stranger_tides
+metacritic: https://www.metacritic.com/movie/pirates-of-the-caribbean-on-stranger-tides
+website: https://pirates.disney.com
+directors: Rob Marshall
+producers: Jerry Bruckheimer
+screenplay:
+  - Ted Elliott
+  - Terry Rossio
+music: Hans Zimmer
+cinematography: Dariusz Wolski
+editors:
+  - David Brenner
+  - Wyatt Smith
+production:
+  - Walt Disney Pictures
+  - Jerry Bruckheimer Films
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Captain Jack Sparrow
+    actor: Johnny Depp
+  - name: Angelica
+    actor: "Penélope Cruz"
+  - name: Blackbeard
+    actor: Ian McShane
+  - name: Joshamee Gibbs
+    actor: Kevin R. McNally
+  - name: Captain Barbossa
+    actor: Geoffrey Rush
+  - name: Philip Swift
+    actor: Sam Claflin
+  - name: Syrena
+    actor: "Àstrid Bergès-Frisbey"
+  - name: Scrum
+    actor: Stephen Graham
+  - name: King George II
+    actor: Richard Griffiths

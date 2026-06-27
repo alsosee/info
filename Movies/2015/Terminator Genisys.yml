@@ -1,0 +1,48 @@
+name: Terminator Genisys
+series: Terminator
+description: >
+  When the resistance sends Kyle Reese back to 1984, he finds Sarah Connor
+  protected by an aging Terminator and caught in an altered timeline.
+previous: Movies/2009/Terminator Salvation
+released: 2015-07-01
+rating: PG-13
+length: 2h06m
+genres:
+  - science fiction
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Terminator_Genisys
+imdb: https://www.imdb.com/title/tt1340138
+tmdb: https://www.themoviedb.org/movie/87101-terminator-genisys
+rotten_tomatoes: https://www.rottentomatoes.com/m/terminator_genisys
+metacritic: https://www.metacritic.com/movie/terminator-genisys/
+directors: Alan Taylor
+screenplay:
+  - Laeta Kalogridis
+  - Patrick Lussier
+producers:
+  - David Ellison
+  - Dana Goldberg
+music: Lorne Balfe
+cinematography: Kramer Morgenthau
+editors: Roger Barton
+production: Skydance Productions
+distributors: Paramount Pictures
+characters:
+  - name: Guardian
+    actor: Arnold Schwarzenegger
+  - name: John Connor
+    actor: Jason Clarke
+  - name: Sarah Connor
+    actor: Emilia Clarke
+  - name: Kyle Reese
+    actor: Jai Courtney
+  - name: O'Brien
+    actor: J. K. Simmons
+  - name: Danny Dyson
+    actor: Dayo Okeniyi
+  - name: Alex
+    actor: Matt Smith
+  - name: Miles Dyson
+    actor: Courtney B. Vance
+  - name: T-1000
+    actor: Lee Byung-hun

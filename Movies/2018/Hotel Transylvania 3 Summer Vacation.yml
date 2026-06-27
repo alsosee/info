@@ -1,0 +1,55 @@
+name: "Hotel Transylvania 3: Summer Vacation"
+series: Hotel Transylvania
+previous: Movies/2015/Hotel Transylvania 2
+description: >
+  Mavis surprises Dracula with a monster cruise so the family and their friends can take a vacation from running the hotel.
+  Dracula unexpectedly falls for the ship's captain, Ericka, who is secretly connected to the monster-hunting Van Helsing family.
+released: 2018-07-13
+rating: PG
+length: 1h37m
+genres:
+  - animation
+  - comedy
+  - family
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Hotel_Transylvania_3:_Summer_Vacation
+imdb: https://www.imdb.com/title/tt5220122
+tmdb: https://www.themoviedb.org/movie/400155-hotel-transylvania-3-summer-vacation
+rotten_tomatoes: https://www.rottentomatoes.com/m/hotel_transylvania_3_summer_vacation
+metacritic: https://www.metacritic.com/movie/hotel-transylvania-3-summer-vacation
+directors: Genndy Tartakovsky
+producers: Michelle Murdocca
+screenplay:
+  - Genndy Tartakovsky
+  - Michael McCullers
+music: Mark Mothersbaugh
+editors: Joyce Arrastia
+production:
+  - Sony Pictures Animation
+  - MRC
+distributors: Sony Pictures Releasing
+characters:
+  - name: Count Dracula
+    voice: Adam Sandler
+  - name: Jonathan Loughran
+    voice: Andy Samberg
+  - name: Mavis Dracula
+    voice: Selena Gomez
+  - name: Frankenstein
+    voice: Kevin James
+  - name: Griffin
+    voice: David Spade
+  - name: Wayne
+    voice: Steve Buscemi
+  - name: Murray
+    voice: Keegan-Michael Key
+  - name: Wanda
+    voice: Molly Shannon
+  - name: Eunice
+    voice: Fran Drescher
+  - name: Ericka Van Helsing
+    voice: Kathryn Hahn
+  - name: Abraham Van Helsing
+    voice: Jim Gaffigan
+  - name: Vlad
+    voice: Mel Brooks

@@ -1,0 +1,65 @@
+name: Toy Story
+description: >
+  When Andy receives a new Buzz Lightyear action figure, his longtime favorite
+  toy Woody worries that he has been replaced. After the two rivals are
+  separated from Andy, they must work together to get home before the family
+  moves away.
+released: 1995-11-22
+rating: G
+length: 1h21m
+genres:
+  - animation
+  - adventure
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Toy_Story
+imdb: https://www.imdb.com/title/tt0114709
+tmdb: https://www.themoviedb.org/movie/862-toy-story
+rotten_tomatoes: https://www.rottentomatoes.com/m/toy_story
+metacritic: https://www.metacritic.com/movie/toy-story
+website: https://www.pixar.com/toy-story
+directors: John Lasseter
+writers:
+  - John Lasseter
+  - Pete Docter
+  - Andrew Stanton
+  - Joe Ranft
+screenplay:
+  - Joss Whedon
+  - Andrew Stanton
+  - Joel Cohen
+  - Alec Sokolow
+producers:
+  - Bonnie Arnold
+  - Ralph Guggenheim
+music: Randy Newman
+editors:
+  - Robert Gordon
+  - Lee Unkrich
+production: Pixar
+distributors: Buena Vista Pictures Distribution
+characters:
+  - name: Woody
+    voice: Tom Hanks
+  - name: Buzz Lightyear
+    voice: Tim Allen
+  - name: Mr. Potato Head
+    voice: Don Rickles
+  - name: Slinky Dog
+    voice: Jim Varney
+  - name: Rex
+    voice: Wallace Shawn
+  - name: Hamm
+    voice: John Ratzenberger
+  - name: Bo Peep
+    voice: Annie Potts
+  - name: Andy
+    voice: John Morris
+  - name: Sid Phillips
+    voice: Erik von Detten
+  - name: Andy's Mom
+    voice: Laurie Metcalf
+  - name: Sergeant
+    voice: R. Lee Ermey
+  - name: Hannah Phillips
+    voice: Sarah Freeman

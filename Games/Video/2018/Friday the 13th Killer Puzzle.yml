@@ -1,0 +1,20 @@
+name: "Friday the 13th: Killer Puzzle"
+series: Friday the 13th
+description: >
+  A horror puzzle game where players slide Jason Voorhees through grid-based
+  levels to solve murder set pieces across themed episodes.
+released: 2018-01-20
+genres:
+  - horror
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th:_Killer_Puzzle
+developers: Blue Wizard Digital
+publishers: Blue Wizard Digital
+directors: Jason Kapalka
+producers: Nate Schmold
+programmers:
+  - Matthew Sieber
+  - Matthew Miller
+composers: Nate Schmold
+characters:
+  - name: Jason Voorhees

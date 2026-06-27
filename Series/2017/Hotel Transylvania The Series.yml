@@ -1,0 +1,40 @@
+name: "Hotel Transylvania: The Series"
+series: Hotel Transylvania
+based_on: Movies/2012/Hotel Transylvania
+description: >
+  A prequel series following teenage Mavis Dracula and her friends as they run into supernatural trouble at Hotel Transylvania while Dracula is away at the Vampire Council.
+released: 2017-06-25
+length: 22m
+genres:
+  - animation
+  - comedy
+  - fantasy
+network: Disney Channel
+wikipedia: https://en.wikipedia.org/wiki/Hotel_Transylvania:_The_Series
+imdb: https://www.imdb.com/title/tt4858114
+creators: Mark Steinberg
+directors: Robin Budd
+producers:
+  - Rick Mischel
+  - Scott Dyer
+  - Irene Weibel
+music:
+  - Stephen Skratt
+  - Asher Lenz
+production:
+  - Sony Pictures Animation
+  - Nelvana
+  - Corus Entertainment
+characters:
+  - name: Mavis Dracula
+    voice: Bryn McAuley
+  - name: Wendy Blob
+    voice: Evany Rosen
+  - name: Hank N Stein
+    voice: Gage Munroe
+  - name: Pedro
+    voice: Joseph Motiki
+  - name: Aunt Lydia
+    voice: Dan Chameroy
+  - name: Dracula
+    voice: David Berni

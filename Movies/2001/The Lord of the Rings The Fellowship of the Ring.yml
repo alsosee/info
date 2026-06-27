@@ -1,6 +1,9 @@
 name: "The Lord of the Rings: The Fellowship of the Ring"
+series: Middle-earth
 description: >
   The first installment of Peter Jackson's epic trilogy follows Frodo Baggins, a young hobbit who inherits the One Ring and leaves the Shire with a fellowship formed to help him carry it toward Mordor before Sauron's forces can reclaim it.
+based_on:
+  - Books/1954/The Fellowship of the Ring
 released: 2001-12-19
 rating: PG-13
 length: 2h58m

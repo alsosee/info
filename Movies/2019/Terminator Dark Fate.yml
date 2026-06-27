@@ -1,0 +1,47 @@
+name: "Terminator: Dark Fate"
+series: Terminator
+description: >
+  Decades after Sarah Connor changed the future, an augmented soldier arrives
+  from another timeline to protect Dani Ramos from a new liquid-metal Terminator.
+previous: Movies/1991/Terminator 2
+released: 2019-11-01
+rating: R
+length: 2h08m
+genres:
+  - science fiction
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Terminator:_Dark_Fate
+imdb: https://www.imdb.com/title/tt6450804
+tmdb: https://www.themoviedb.org/movie/290859-terminator-dark-fate
+rotten_tomatoes: https://www.rottentomatoes.com/m/terminator_dark_fate
+metacritic: https://www.metacritic.com/movie/terminator-dark-fate/
+directors: Tim Miller
+screenplay:
+  - David Goyer
+  - Justin Rhodes
+  - Billy Ray
+producers:
+  - James Cameron
+  - David Ellison
+music: Tom Holkenborg
+cinematography: Ken Seng
+editors: Julian Clarke
+production:
+  - Skydance Media
+  - Lightstorm Entertainment
+distributors:
+  - Paramount Pictures
+  - 20th Century Fox
+characters:
+  - name: Sarah Connor
+    actor: Linda Hamilton
+  - name: T-800
+    actor: Arnold Schwarzenegger
+  - name: Grace
+    actor: Mackenzie Davis
+  - name: Dani Ramos
+    actor: Natalia Reyes
+  - name: Rev-9
+    actor: Gabriel Luna
+  - name: Diego Ramos
+    actor: Diego Boneta

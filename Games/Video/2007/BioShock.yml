@@ -1,0 +1,27 @@
+name: BioShock
+description: >
+  First-person shooter set in the underwater dystopian city of Rapture, a collapsed Objectivist utopia, where player character Jack must fight genetically mutated survivors while uncovering the city's dark history and his own mysterious past.
+released: 2007-08-21
+genres:
+  - first-person shooter
+  - action RPG
+wikipedia: https://en.wikipedia.org/wiki/BioShock
+metacritic: https://www.metacritic.com/game/bioshock/
+fandom: https://bioshock.fandom.com/wiki/BioShock
+developers:
+  - 2K Boston
+  - 2K Australia
+publishers: 2K Games
+directors:
+  - Ken Levine
+  - Alyssa Finley
+composers: Garry Schyman
+characters:
+  - name: Andrew Ryan
+    actor: Armin Shimerman
+  - name: Atlas
+    actor: Karl Hanover
+  - name: Brigid Tenenbaum
+    actor: Anne Bobby
+  - name: Sander Cohen
+    actor: T. Ryder Smith

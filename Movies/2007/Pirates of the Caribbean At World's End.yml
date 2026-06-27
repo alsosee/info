@@ -1,0 +1,60 @@
+name: "Pirates of the Caribbean: At World's End"
+series: Pirates of the Caribbean
+previous: "Movies/2006/Pirates of the Caribbean Dead Man's Chest"
+description: >
+  Will Turner, Elizabeth Swann, Hector Barbossa, and the Black Pearl crew set
+  out to rescue Captain Jack Sparrow from Davy Jones' Locker. Their uneasy
+  alliance must also face Lord Cutler Beckett, who now controls Davy Jones and
+  threatens piracy across the seas.
+released: 2007-05-25
+rating: PG-13
+length: 2h48m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean:_At_World%27s_End
+imdb: https://www.imdb.com/title/tt0449088
+tmdb: https://www.themoviedb.org/movie/285-pirates-of-the-caribbean-at-world-s-end
+rotten_tomatoes: https://www.rottentomatoes.com/m/pirates_of_the_caribbean_at_worlds_end
+metacritic: https://www.metacritic.com/movie/pirates-of-the-caribbean-at-worlds-end
+website: https://pirates.disney.com
+directors: Gore Verbinski
+producers: Jerry Bruckheimer
+screenplay:
+  - Ted Elliott
+  - Terry Rossio
+music: Hans Zimmer
+cinematography: Dariusz Wolski
+editors:
+  - Craig Wood
+  - Stephen Rivkin
+production:
+  - Walt Disney Pictures
+  - Jerry Bruckheimer Films
+distributors: Buena Vista Pictures Distribution
+characters:
+  - name: Captain Jack Sparrow
+    actor: Johnny Depp
+  - name: Will Turner
+    actor: Orlando Bloom
+  - name: Elizabeth Swann
+    actor: Keira Knightley
+  - name: Bootstrap Bill Turner
+    actor: "Stellan Skarsgård"
+  - name: Davy Jones
+    actor: Bill Nighy
+  - name: Sao Feng
+    actor: Chow Yun-fat
+  - name: Captain Barbossa
+    actor: Geoffrey Rush
+  - name: James Norrington
+    actor: Jack Davenport
+  - name: Joshamee Gibbs
+    actor: Kevin R. McNally
+  - name: Governor Weatherby Swann
+    actor: Jonathan Pryce
+  - name: Tia Dalma
+    actor: Naomie Harris
+  - name: Lord Cutler Beckett
+    actor: Tom Hollander

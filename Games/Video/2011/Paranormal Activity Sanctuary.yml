@@ -1,0 +1,13 @@
+name: "Paranormal Activity: Sanctuary"
+description: >
+  A location-based augmented reality mobile game in which players act as
+  demonologists, complete missions at real-world locations, and cast spells to
+  protect sanctuaries from demonic forces.
+based_on: Movies/2007/Paranormal Activity
+released: 2011-02-04
+genres:
+  - augmented reality
+  - horror
+developers: Ogmento
+publishers: Ogmento
+

@@ -1,0 +1,18 @@
+name: Halloween
+series: Halloween
+description: >
+  Atari 2600 horror action game based on the 1978 film, casting the player as a
+  babysitter who rescues children from a knife-wielding killer inside a house.
+released: 1983-10
+genres:
+  - action
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Halloween_(video_game)
+developers: MicroGraphicImage
+publishers: Wizard Video
+designers:
+  - Tim Martin
+  - Robert Barber
+characters:
+  - name: Babysitter
+  - name: Killer

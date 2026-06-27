@@ -1,0 +1,20 @@
+name: "Friday the 13th: The Game"
+series: Friday the 13th
+description: >
+  An asymmetrical multiplayer survival horror game where one player controls
+  Jason Voorhees while others try to survive as Camp Crystal Lake counselors.
+released: 2017-05-26
+genres:
+  - survival horror
+wikipedia: https://en.wikipedia.org/wiki/Friday_the_13th:_The_Game
+steam: https://store.steampowered.com/app/438740/Friday_the_13th_The_Game/
+developers: IllFonic
+publishers: Gun Media
+engine: Unreal Engine 4
+directors: David Langeliers
+producers: Bryce Glover
+designers: Dan Russet
+programmers: Paul Jackson
+composers: Harry Manfredini
+characters:
+  - name: Jason Voorhees

@@ -1,0 +1,55 @@
+name: Hotel Transylvania 2
+series: Hotel Transylvania
+previous: Movies/2012/Hotel Transylvania
+description: >
+  Dracula worries that his half-human grandson Dennis may not inherit vampire powers and recruits his monster friends to help bring out the boy's monster side.
+  The plan grows more complicated when Dracula's old-fashioned father Vlad comes to visit.
+released: 2015-09-25
+rating: PG
+length: 1h29m
+genres:
+  - animation
+  - comedy
+  - family
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Hotel_Transylvania_2
+imdb: https://www.imdb.com/title/tt2510894
+tmdb: https://www.themoviedb.org/movie/159824-hotel-transylvania-2
+rotten_tomatoes: https://www.rottentomatoes.com/m/hotel_transylvania_2
+metacritic: https://www.metacritic.com/movie/hotel-transylvania-2
+directors: Genndy Tartakovsky
+producers: Michelle Murdocca
+screenplay:
+  - Robert Smigel
+  - Adam Sandler
+music: Mark Mothersbaugh
+editors: Catherine Apple
+production:
+  - Columbia Pictures
+  - Sony Pictures Animation
+  - LStar Capital
+  - MRC
+distributors: Sony Pictures Releasing
+characters:
+  - name: Count Dracula
+    voice: Adam Sandler
+  - name: Jonathan Loughran
+    voice: Andy Samberg
+  - name: Mavis Dracula
+    voice: Selena Gomez
+  - name: Frankenstein
+    voice: Kevin James
+  - name: Griffin
+    voice: David Spade
+  - name: Wayne
+    voice: Steve Buscemi
+  - name: Murray
+    voice: Keegan-Michael Key
+  - name: Wanda
+    voice: Molly Shannon
+  - name: Eunice
+    voice: Fran Drescher
+  - name: Vlad
+    voice: Mel Brooks
+  - name: Dennis
+    voice: Asher Blinkoff

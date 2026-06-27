@@ -1,0 +1,56 @@
+name: "Mission: Impossible III"
+series: "Mission: Impossible"
+previous: Movies/2000/Mission Impossible 2
+description: >
+  Ethan Hunt has stepped back from field work to train new IMF recruits and build a life
+  with Julia Meade. When a former trainee is captured, he returns to action and confronts
+  arms dealer Owen Davian.
+released: 2006-05-05
+rating: PG-13
+length: 2h06m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Mission%3A_Impossible_III
+imdb: https://www.imdb.com/title/tt0317919
+tmdb: https://www.themoviedb.org/movie/956-mission-impossible-iii
+directors: J. J. Abrams
+screenplay:
+  - Alex Kurtzman
+  - Roberto Orci
+  - J. J. Abrams
+producers:
+  - Tom Cruise
+  - Paula Wagner
+music: Michael Giacchino
+cinematography: Dan Mindel
+editors:
+  - Mary Jo Markey
+  - Maryann Brandon
+production:
+  - Paramount Pictures
+  - Cruise/Wagner Productions
+distributors: Paramount Pictures
+characters:
+  - name: Ethan Hunt
+    actor: Tom Cruise
+  - name: Owen Davian
+    actor: Philip Seymour Hoffman
+  - name: Luther Stickell
+    actor: Ving Rhames
+  - name: John Musgrave
+    actor: Billy Crudup
+  - name: Julia Meade
+    actor: Michelle Monaghan
+  - name: Declan Gormley
+    actor: Jonathan Rhys Meyers
+  - name: Lindsey Farris
+    actor: Keri Russell
+  - name: Zhen Lei
+    actor: Maggie Q
+  - name: Theodore Brassel
+    actor: Laurence Fishburne
+  - name: Benji Dunn
+    actor: Simon Pegg
