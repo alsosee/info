@@ -76,12 +76,20 @@ jobs:
           ignorefile: .ignore
           force: ${{ env.FORCE }}
 
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3.5.0
-        with:
-          apiToken: ${{ secrets.CF_API_TOKEN }}
-          accountId: ${{ secrets.CF_ACCOUNT_ID }}
-          command: pages deploy output --project-name=finder --branch=main --commit-dirty=true
+      - name: Sync static site to Cloudflare R2
+        shell: bash
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.CF_R2_ACCESS_KEY_SECRET }}
+          AWS_DEFAULT_REGION: auto
+          AWS_EC2_METADATA_DISABLED: true
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          R2_BUCKET: ${{ vars.CF_R2_SITE_BUCKET }}
+        run: |
+          : "${R2_BUCKET:=finder}"
+          aws s3 sync output "s3://${R2_BUCKET}" \
+            --endpoint-url "https://${CF_ACCOUNT_ID}.r2.cloudflarestorage.com" \
+            --delete
 
       - name: Commit and push state
         shell: bash
