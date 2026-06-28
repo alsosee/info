@@ -87,6 +87,8 @@ jobs:
           R2_BUCKET: ${{ vars.CF_R2_SITE_BUCKET }}
         run: |
           : "${R2_BUCKET:=finder}"
+          aws configure set default.s3.max_concurrent_requests 64
+          aws configure set default.s3.max_queue_size 10000
           python3 info/.github/scripts/r2_deploy.py \
             --source output \
             --staging "${RUNNER_TEMP}/r2-upload" \

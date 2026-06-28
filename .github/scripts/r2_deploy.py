@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 import argparse
-import concurrent.futures
 import gzip
 import hashlib
 import json
@@ -71,17 +70,9 @@ def prepare_file(source, destination, compress):
         shutil.copy2(source, destination)
         return False
 
-    tmp = destination.with_suffix(destination.suffix + '.gz-tmp')
-    with source.open('rb') as src, tmp.open('wb') as raw:
+    with source.open('rb') as src, destination.open('wb') as raw:
         with gzip.GzipFile(filename='', mode='wb', fileobj=raw, compresslevel=6, mtime=0) as gz:
             shutil.copyfileobj(src, gz, length=1024 * 1024)
-
-    if tmp.stat().st_size >= source.stat().st_size:
-        tmp.unlink()
-        shutil.copy2(source, destination)
-        return False
-
-    tmp.replace(destination)
     return True
 
 
@@ -168,17 +159,54 @@ def delete_keys(keys, bucket, endpoint_url, dry_run):
                 pass
 
 
-def upload_file(entry, bucket, endpoint_url, dry_run):
+def group_name(entry):
+    encoding = entry.get('content_encoding') or 'identity'
+    value = encoding + '__' + entry['content_type']
+    return ''.join(c if c.isalnum() else '_' for c in value)
+
+
+def link_or_copy(source, destination):
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        os.link(source, destination)
+    except OSError:
+        shutil.copy2(source, destination)
+
+
+def build_changed_upload_trees(upload_entries, staging):
+    upload_root = staging.parent / (staging.name + '-changed')
+    if upload_root.exists():
+        shutil.rmtree(upload_root)
+    upload_root.mkdir(parents=True)
+
+    groups = {}
+    for entry in upload_entries:
+        group = group_name(entry)
+        group_root = upload_root / group
+        link_or_copy(Path(entry['staged_path']), group_root / entry['key'])
+        groups.setdefault(group, {
+            'root': group_root,
+            'content_type': entry['content_type'],
+            'content_encoding': entry.get('content_encoding'),
+            'count': 0,
+        })
+        groups[group]['count'] += 1
+    return groups
+
+
+def sync_group(group, bucket, endpoint_url, dry_run):
     args = [
-        's3api', 'put-object',
-        '--bucket', bucket,
-        '--key', entry['key'],
-        '--body', entry['staged_path'],
-        '--content-type', entry['content_type'],
+        's3', 'sync', str(group['root']), f's3://{bucket}',
         '--endpoint-url', endpoint_url,
+        '--content-type', group['content_type'],
+        '--no-progress',
+        '--only-show-errors',
+        '--size-only',
     ]
-    if entry.get('content_encoding'):
-        args.extend(['--content-encoding', entry['content_encoding']])
+    if group.get('content_encoding'):
+        args.extend(['--content-encoding', group['content_encoding']])
+    print(f"Uploading {group['count']} files as {group['content_type']}"
+          + (f" ({group['content_encoding']})" if group.get('content_encoding') else ''))
     aws(args, dry_run=dry_run)
 
 
@@ -190,7 +218,6 @@ def main():
     parser.add_argument('--bucket', required=True)
     parser.add_argument('--endpoint-url', required=True)
     parser.add_argument('--dry-run', action='store_true')
-    parser.add_argument('--max-workers', type=int, default=32)
     args = parser.parse_args()
 
     source = args.source
@@ -263,20 +290,12 @@ def main():
     print(f'Changed uploads: {len(upload_entries)}')
     print(f'Deleted keys: {len(delete_candidates)}')
 
+    groups = build_changed_upload_trees(upload_entries, staging)
     if args.dry_run:
-        print('Dry run: skipping R2 writes')
+        print(f'Dry run: skipping {len(groups)} grouped R2 syncs')
     else:
-        completed = 0
-        with concurrent.futures.ThreadPoolExecutor(max_workers=args.max_workers) as executor:
-            futures = [
-                executor.submit(upload_file, entry, args.bucket, args.endpoint_url, False)
-                for entry in upload_entries
-            ]
-            for future in concurrent.futures.as_completed(futures):
-                future.result()
-                completed += 1
-                if completed == len(upload_entries) or completed % 100 == 0:
-                    print(f'Uploaded {completed}/{len(upload_entries)} changed files')
+        for group in groups.values():
+            sync_group(group, args.bucket, args.endpoint_url, False)
     if delete_candidates and not args.dry_run:
         delete_keys(delete_candidates, args.bucket, args.endpoint_url, False)
 
