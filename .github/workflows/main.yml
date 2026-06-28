@@ -76,7 +76,7 @@ jobs:
           ignorefile: .ignore
           force: ${{ env.FORCE }}
 
-      - name: Sync static site to Cloudflare R2
+      - name: Deploy static site to Cloudflare R2
         shell: bash
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.CF_R2_ACCESS_KEY_ID }}
@@ -87,12 +87,12 @@ jobs:
           R2_BUCKET: ${{ vars.CF_R2_SITE_BUCKET }}
         run: |
           : "${R2_BUCKET:=finder}"
-          du -sh output
-          find output -type f -printf '%s\t%p\n' | sort -nr | awk 'NR <= 20 { print }' | numfmt --field=1 --to=iec
-          aws s3 sync output "s3://${R2_BUCKET}" \
-            --endpoint-url "https://${CF_ACCOUNT_ID}.r2.cloudflarestorage.com" \
-            --delete \
-            --no-progress
+          python3 info/.github/scripts/r2_deploy.py \
+            --source output \
+            --staging "${RUNNER_TEMP}/r2-upload" \
+            --manifest state/r2-site-manifest.json \
+            --bucket "${R2_BUCKET}" \
+            --endpoint-url "https://${CF_ACCOUNT_ID}.r2.cloudflarestorage.com"
 
       - name: Commit and push state
         shell: bash
@@ -105,6 +105,6 @@ jobs:
 
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'gha@alsosee.info'
-          git add "state"
-          git commit -m "Update index state [skip ci]"
+          git add "state" "r2-site-manifest.json"
+          git commit -m "Update deploy state [skip ci]"
           git push origin state
