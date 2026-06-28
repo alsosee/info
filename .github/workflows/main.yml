@@ -46,6 +46,10 @@ jobs:
           repository: alsosee/media
           path: media
           token: ${{ secrets.PKG_TOKEN }}
+          filter: blob:none
+          sparse-checkout: |
+            **/.thumbs.yml
+          sparse-checkout-cone-mode: false
 
       - name: Set environment variable (repository_dispatch)
         if: github.event_name == 'repository_dispatch' && github.event.client_payload.force
