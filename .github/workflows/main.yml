@@ -92,7 +92,7 @@ jobs:
           aws s3 sync output "s3://${R2_BUCKET}" \
             --endpoint-url "https://${CF_ACCOUNT_ID}.r2.cloudflarestorage.com" \
             --delete \
-            --checksum \
+            --checksum-mode enabled \
             --no-progress
 
       - name: Commit and push state
