@@ -3,11 +3,15 @@ main = "src/index.js"
 compatibility_date = "2024-02-25"
 
 routes = [
-  { pattern = "alsosee.info/api/*", zone_name = "alsosee.info" }
+  { pattern = "alsosee.info/*", zone_name = "alsosee.info" }
 ]
 
 [vars]
 GITHUB_REPO = "alsosee/media"
+
+[[r2_buckets]]
+binding = "SITE"
+bucket_name = "alsosee-info"
 
 [[r2_buckets]]
 binding = "MEDIA"
