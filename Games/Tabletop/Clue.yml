@@ -1,0 +1,16 @@
+name: Clue
+description: >
+  Clue, known as Cluedo outside North America, is a murder mystery deduction board game in which players identify the murderer, weapon, and room in a country-house killing.
+  Designed by Anthony E. Pratt and first manufactured by Waddingtons in 1949, it was published in the United States by Parker Brothers as Clue.
+website: https://instructions.hasbro.com/en-us/instruction/clue-game
+wikipedia: https://en.wikipedia.org/wiki/Cluedo
+designers: Anthony E. Pratt
+publishers:
+  - Waddingtons
+  - Parker Brothers
+  - Hasbro
+publication: 1949
+genres:
+  - deduction
+  - murder mystery
+  - board game

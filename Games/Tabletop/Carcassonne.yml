@@ -1,0 +1,16 @@
+name: Carcassonne
+description: >
+  Carcassonne is a tile-laying German-style board game in which players build a medieval landscape and place followers to score cities, roads, monasteries, and fields.
+  Designed by Klaus-Jürgen Wrede, it was first published by Hans im Glück in 2000 and won both the Spiel des Jahres and Deutscher Spiele Preis in 2001.
+website: https://www.zmangames.com/game/carcassonne/
+wikipedia: https://en.wikipedia.org/wiki/Carcassonne_(board_game)
+designers: Klaus-Jürgen Wrede
+publishers:
+  - Hans im Glück
+  - Z-Man Games
+publication: 2000
+genres:
+  - tile-laying
+  - strategy
+  - eurogame
+  - board game
