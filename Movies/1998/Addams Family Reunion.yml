@@ -1,0 +1,43 @@
+name: Addams Family Reunion
+series: The Addams Family
+previous: Movies/1993/Addams Family Values
+description: >
+  Gomez and Morticia search for relatives after learning that Gomez's
+  grandparents have developed a mysterious condition, only to arrive at the
+  wrong family reunion.
+released: 1998-09-22
+rating: PG
+length: 1h31m
+genres:
+  - comedy
+  - family
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Addams_Family_Reunion
+imdb: https://www.imdb.com/title/tt0146402
+directors: Dave Payne
+screenplay:
+  - Rob Kerchner
+  - Scott Sandin
+producers: Mike Elliott
+music: Amotz Plessner
+cinematography: Christian Sebaldt
+editors: J. J. Jackson
+production: Saban Entertainment
+distributors: Warner Home Video
+characters:
+  - name: Morticia Addams
+    actor: Daryl Hannah
+  - name: Gomez Addams
+    actor: Tim Curry
+  - name: Wednesday Addams
+    actor: Nicole Fugere
+  - name: Pugsley Addams
+    actor: Jerry Messing
+  - name: Lurch
+    actor: Carel Struycken
+  - name: Thing
+    actor: Christopher Hart
+  - name: Phillip Adams
+    actor: Ed Begley Jr.
+  - name: Grandpapa Addams
+    actor: Kevin McCarthy

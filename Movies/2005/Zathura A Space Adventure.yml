@@ -1,0 +1,50 @@
+name: "Zathura: A Space Adventure"
+series: Jumanji
+previous: Movies/1995/Jumanji
+description: >
+  Two brothers discover a mysterious board game that launches their house into
+  outer space. With their home drifting through a series of cosmic dangers, they
+  must keep playing if they want to return to Earth.
+released: 2005-11-11
+rating: PG
+length: 1h41m
+genres:
+  - science fiction
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Zathura:_A_Space_Adventure
+imdb: https://www.imdb.com/title/tt0406375
+tmdb: https://www.themoviedb.org/movie/6795-zathura-a-space-adventure
+tpdb: https://theposterdb.com/poster/54117
+rotten_tomatoes: https://www.rottentomatoes.com/m/zathura_a_space_adventure
+metacritic: https://www.metacritic.com/movie/zathura-a-space-adventure
+website: https://www.sonypictures.com/movies/zathura
+trailer: https://www.youtube.com/watch?v=zNxm_obDpNU
+directors: Jon Favreau
+screenplay:
+  - David Koepp
+  - John Kamps
+producers:
+  - William Teitler
+  - Scott Kroopf
+  - Michael De Luca
+music: John Debney
+cinematography: Guillermo Navarro
+editors: Dan Lebental
+production:
+  - Columbia Pictures
+  - Radar Pictures
+  - Teitler Film
+  - Michael De Luca Productions
+distributors: Sony Pictures Releasing
+characters:
+  - name: Walter
+    actor: Josh Hutcherson
+  - name: Danny
+    actor: Jonah Bobo
+  - name: Astronaut
+    actor: Dax Shepard
+  - name: Lisa
+    actor: Kristen Stewart
+  - name: Dad
+    actor: Tim Robbins

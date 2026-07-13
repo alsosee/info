@@ -1,0 +1,58 @@
+name: Fantastic Beasts and Where to Find Them
+description: >
+  In 1926, British magizoologist Newt Scamander arrives in New York City with a suitcase of magical creatures
+  and becomes entangled with the hidden American wizarding community. The film is a Wizarding World prequel
+  and the first installment in the Fantastic Beasts series.
+released: 2016-11-18
+rating: PG-13
+length: 2h13m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Fantastic Beasts
+wikipedia: https://en.wikipedia.org/wiki/Fantastic_Beasts_and_Where_to_Find_Them_(film)
+imdb: https://www.imdb.com/title/tt3183660
+tmdb: https://www.themoviedb.org/movie/259316-fantastic-beasts-and-where-to-find-them
+directors: David Yates
+screenplay: J. K. Rowling
+music: James Newton Howard
+cinematography: Philippe Rousselot
+editors: Mark Day
+producers:
+  - David Heyman
+  - J. K. Rowling
+  - Steve Kloves
+  - Lionel Wigram
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Newt Scamander
+    description: A British magizoologist traveling with a case of magical creatures
+    actor: Eddie Redmayne
+  - name: Tina Goldstein
+    description: A demoted MACUSA Auror who becomes involved in Newt's case
+    actor: Katherine Waterston
+  - name: Jacob Kowalski
+    description: A No-Maj aspiring baker drawn into the wizarding world
+    actor: Dan Fogler
+  - name: Queenie Goldstein
+    description: Tina's Legilimens sister
+    actor: Alison Sudol
+  - name: Credence Barebone
+    description: Mary Lou Barebone's troubled adopted son
+    actor: Ezra Miller
+  - name: Mary Lou Barebone
+    description: Leader of the anti-witchcraft New Salem Philanthropic Society
+    actor: Samantha Morton
+  - name: Seraphina Picquery
+    description: President of MACUSA
+    actor: Carmen Ejogo
+  - name: Percival Graves
+    description: MACUSA's Director of Magical Security
+    actor: Colin Farrell
+  - name: Gellert Grindelwald
+    description: A dark wizard seeking to reshape the wizarding world
+    actor: Johnny Depp

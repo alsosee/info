@@ -1,0 +1,65 @@
+name: "Fantastic Beasts: The Crimes of Grindelwald"
+description: >
+  Newt Scamander travels to Paris as Albus Dumbledore asks him to help oppose Gellert Grindelwald's
+  growing movement. The film follows a divided wizarding world as Grindelwald gathers followers and
+  Credence Barebone searches for his identity.
+previous: Movies/2016/Fantastic Beasts and Where to Find Them
+released: 2018-11-16
+rating: PG-13
+length: 2h14m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: Fantastic Beasts
+wikipedia: https://en.wikipedia.org/wiki/Fantastic_Beasts:_The_Crimes_of_Grindelwald
+imdb: https://www.imdb.com/title/tt4123430
+tmdb: https://www.themoviedb.org/movie/338952-fantastic-beasts-the-crimes-of-grindelwald
+directors: David Yates
+screenplay: J. K. Rowling
+music: James Newton Howard
+cinematography: Philippe Rousselot
+editors: Mark Day
+producers:
+  - David Heyman
+  - J. K. Rowling
+  - Steve Kloves
+  - Lionel Wigram
+production:
+  - Warner Bros. Pictures
+  - Heyday Films
+distributors: Warner Bros. Pictures
+characters:
+  - name: Newt Scamander
+    description: A magizoologist recruited by Dumbledore
+    actor: Eddie Redmayne
+  - name: Tina Goldstein
+    description: A MACUSA Auror searching for Credence in Paris
+    actor: Katherine Waterston
+  - name: Jacob Kowalski
+    description: A No-Maj baker and friend of Newt
+    actor: Dan Fogler
+  - name: Queenie Goldstein
+    description: Tina's Legilimens sister
+    actor: Alison Sudol
+  - name: Credence Barebone
+    description: A powerful Obscurial seeking the truth about his family
+    actor: Ezra Miller
+  - name: Leta Lestrange
+    description: Newt's former classmate and Theseus Scamander's fiancee
+    actor: Zoe Kravitz
+  - name: Theseus Scamander
+    description: Newt's brother and a Ministry of Magic Auror
+    actor: Callum Turner
+  - name: Nagini
+    description: A Maledictus performer at the Circus Arcanus
+    actor: Claudia Kim
+  - name: Yusuf Kama
+    description: A wizard pursuing Credence
+    actor: William Nadylam
+  - name: Albus Dumbledore
+    description: Hogwarts professor opposing Grindelwald
+    actor: Jude Law
+  - name: Gellert Grindelwald
+    description: A dark wizard rallying followers across Europe
+    actor: Johnny Depp

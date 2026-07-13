@@ -1,0 +1,61 @@
+name: The Lego Batman Movie
+series: The Lego Movie
+description: >
+  Batman defends Gotham City from the Joker while learning that being a hero
+  does not have to mean working alone. With Robin, Barbara Gordon, and Alfred
+  pulled into his orbit, he has to confront both a villainous takeover and his
+  own isolation.
+released: 2017-02-10
+rating: PG
+length: 1h44m
+genres:
+  - animation
+  - action
+  - adventure
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/The_Lego_Batman_Movie
+imdb: https://www.imdb.com/title/tt4116284
+tmdb: https://www.themoviedb.org/movie/324849-the-lego-batman-movie
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_lego_batman_movie
+metacritic: https://www.metacritic.com/movie/the-lego-batman-movie
+website: https://www.warnerbros.com/movies/lego-batman-movie
+directors: Chris McKay
+producers:
+  - Dan Lin
+  - Phil Lord
+  - Christopher Miller
+  - Roy Lee
+screenplay:
+  - Seth Grahame-Smith
+  - Chris McKenna
+  - Erik Sommers
+  - Jared Stern
+  - John Whittington
+music: Lorne Balfe
+editors:
+  - David Burrows
+  - Matt Villa
+  - John Venzon
+production:
+  - Warner Animation Group
+  - DC Entertainment
+  - RatPac-Dune Entertainment
+  - Lin Pictures
+  - Lord Miller Productions
+  - Vertigo Entertainment
+  - Animal Logic
+distributors: Warner Bros. Pictures
+characters:
+  - name: Batman / Bruce Wayne
+    voice: Will Arnett
+  - name: Joker
+    voice: Zach Galifianakis
+  - name: Robin / Dick Grayson
+    voice: Michael Cera
+  - name: Barbara Gordon / Batgirl
+    voice: Rosario Dawson
+  - name: Alfred Pennyworth
+    voice: Ralph Fiennes
+  - name: Harley Quinn
+    voice: Jenny Slate
