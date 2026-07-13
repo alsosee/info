@@ -1,0 +1,51 @@
+name: The Mummy
+series: The Mummy
+description: >
+  Adventurer Rick O'Connell joins librarian Evelyn Carnahan and her brother
+  Jonathan on an expedition to the lost city of Hamunaptra, where they
+  accidentally awaken the cursed high priest Imhotep.
+released: 1999-05-07
+rating: PG-13
+length: 2h5m
+genres:
+  - action
+  - adventure
+  - fantasy
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/The_Mummy_(1999_film)
+imdb: https://www.imdb.com/title/tt0120616
+tmdb: https://www.themoviedb.org/movie/564-the-mummy
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_mummy
+metacritic: https://www.metacritic.com/movie/the-mummy/
+trailer: https://www.youtube.com/watch?v=f7oKxlaUBac
+directors: Stephen Sommers
+screenplay: Stephen Sommers
+producers:
+  - James Jacks
+  - Sean Daniel
+music: Jerry Goldsmith
+cinematography: Adrian Biddle
+editors: Bob Ducsay
+production:
+  - Universal Pictures
+  - Alphaville Films
+distributors: Universal Pictures
+characters:
+  - name: Rick O'Connell
+    actor: Brendan Fraser
+  - name: Evelyn Carnahan
+    actor: Rachel Weisz
+  - name: Jonathan Carnahan
+    actor: John Hannah
+  - name: Imhotep
+    actor: Arnold Vosloo
+  - name: Anck-su-namun
+    actor: Patricia Velásquez
+  - name: Ardeth Bay
+    actor: Oded Fehr
+  - name: Beni Gabor
+    actor: Kevin J. O'Connor
+  - name: Dr. Allen Chamberlain
+    actor: Jonathan Hyde
+  - name: Dr. Terence Bey
+    actor: Erick Avari
