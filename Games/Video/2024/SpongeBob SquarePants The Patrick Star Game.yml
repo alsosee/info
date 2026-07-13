@@ -1,0 +1,17 @@
+name: "SpongeBob SquarePants: The Patrick Star Game"
+series: SpongeBob SquarePants
+description: >
+  The Patrick Star Game is a third-person physics sandbox centered on Patrick
+  Star. Players explore Bikini Bottom, interact with objects, complete quests,
+  and unlock costumes.
+released: 2024-10-04
+genres:
+  - platform
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_The_Patrick_Star_Game
+developers: PHL Collective
+publishers: Outright Games
+engine: Unity
+characters:
+  - name: Patrick Star
+    actor: Bill Fagerbakke

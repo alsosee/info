@@ -1,0 +1,30 @@
+name: "SpongeBob SquarePants: The Cosmic Shake"
+series: SpongeBob SquarePants
+description: >
+  The Cosmic Shake is a platform action-adventure game in which SpongeBob and
+  Patrick travel through wish-powered alternate realities to rescue their friends
+  and restore Bikini Bottom.
+released: 2023-01-31
+genres:
+  - platform
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_The_Cosmic_Shake
+developers: Purple Lamp
+publishers: THQ Nordic
+directors:
+  - Daniel Bernard
+  - Adam Khoury
+writers:
+  - Sebastian Klemm-Lorenz
+  - Tina Hörgl
+designers:
+  - Julian Breddy
+  - Adam Khoury
+  - Daniela Etzinger
+  - Andreas Lenz
+  - Armin Hotter
+composers:
+  - Anderson Alden
+  - Jake Boring
+  - Aaron Kaplan
+engine: Unreal Engine 4

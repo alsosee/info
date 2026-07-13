@@ -1,0 +1,23 @@
+name: "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated"
+series: SpongeBob SquarePants
+description: >
+  Battle for Bikini Bottom - Rehydrated is a remake of the 2003 console game,
+  rebuilding SpongeBob, Patrick, and Sandy's fight against Plankton's robot army
+  with updated visuals and restored multiplayer content.
+remake_of: Games/Video/2003/SpongeBob SquarePants Battle for Bikini Bottom
+released: 2020-06-23
+genres:
+  - platform
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/SpongeBob_SquarePants:_Battle_for_Bikini_Bottom_%E2%80%93_Rehydrated
+developers: Purple Lamp Studios
+publishers: THQ Nordic
+directors: Daniel Bernard
+designers:
+  - Julian Breddy
+  - Andrea Villa
+  - Daniela Etzinger
+  - Aled Gwyn Davies
+  - Roberto Padron
+composers: Gabriel Schönangerer
+engine: Unreal Engine 4

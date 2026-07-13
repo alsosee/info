@@ -1,0 +1,14 @@
+name: SpongeBob HeroPants
+series: SpongeBob SquarePants
+description: >
+  SpongeBob HeroPants is an action-adventure platform game tied to The SpongeBob
+  Movie: Sponge Out of Water. Players use superhero versions of SpongeBob,
+  Patrick, Squidward, Mr. Krabs, Sandy, and Plankton.
+released: 2015-02-03
+genres:
+  - action-adventure
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/SpongeBob_HeroPants
+developers: Behaviour Santiago
+publishers: Activision
+engine: Unity
