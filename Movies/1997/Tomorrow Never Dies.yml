@@ -1,0 +1,44 @@
+name: Tomorrow Never Dies
+series: James Bond
+description: >
+  James Bond investigates media mogul Elliot Carver after a British warship is sunk in disputed waters and a global crisis begins to unfold.
+previous: Movies/1995/GoldenEye
+released: 1997-12-18
+rating: PG-13
+length: 1h59m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Tomorrow_Never_Dies
+imdb: https://www.imdb.com/title/tt0120347
+tmdb: https://www.themoviedb.org/movie/714-tomorrow-never-dies
+rotten_tomatoes: https://www.rottentomatoes.com/m/tomorrow_never_dies
+metacritic: https://www.metacritic.com/movie/tomorrow-never-dies
+directors: Roger Spottiswoode
+screenplay: Bruce Feirstein
+producers:
+  - Michael G. Wilson
+  - Barbara Broccoli
+music: David Arnold
+cinematography: Robert Elswit
+editors:
+  - Michel Arcand
+  - Dominique Fortin
+production:
+  - Eon Productions
+distributors:
+  - Metro-Goldwyn-Mayer
+  - United International Pictures
+characters:
+  - name: James Bond
+    actor: Pierce Brosnan
+  - name: Wai Lin
+    actor: Michelle Yeoh
+  - name: Elliot Carver
+    actor: Jonathan Pryce
+  - name: Paris Carver
+    actor: Teri Hatcher
+  - name: Stamper
+    actor: Götz Otto

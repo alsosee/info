@@ -1,0 +1,42 @@
+name: Dr. No
+series: James Bond
+description: >
+  British agent James Bond is sent to Jamaica to investigate a fellow agent's disappearance and uncovers Dr. No's plot against the American space program.
+released: 1962-10-05
+rating: PG
+length: 1h45m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Dr._No_(film)
+imdb: https://www.imdb.com/title/tt0055928
+tmdb: https://www.themoviedb.org/movie/646-dr-no
+rotten_tomatoes: https://www.rottentomatoes.com/m/dr_no
+metacritic: https://www.metacritic.com/movie/dr-no
+directors: Terence Young
+screenplay:
+  - Richard Maibaum
+  - Johanna Harwood
+  - Berkely Mather
+producers:
+  - Harry Saltzman
+  - Albert R. Broccoli
+music: Monty Norman
+cinematography: Ted Moore
+editors: Peter R. Hunt
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Sean Connery
+  - name: Dr. Julius No
+    actor: Joseph Wiseman
+  - name: Honey Ryder
+    actor: Ursula Andress
+  - name: M
+    actor: Bernard Lee
+  - name: Miss Moneypenny
+    actor: Lois Maxwell

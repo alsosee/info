@@ -1,0 +1,40 @@
+name: Moonraker
+series: James Bond
+description: >
+  James Bond investigates the theft of a space shuttle and follows industrialist Hugo Drax from California to Venice, Rio, and outer space.
+previous: Movies/1977/The Spy Who Loved Me
+released: 1979-06-26
+rating: PG
+length: 2h6m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/Moonraker_(film)
+imdb: https://www.imdb.com/title/tt0079574
+tmdb: https://www.themoviedb.org/movie/698-moonraker
+rotten_tomatoes: https://www.rottentomatoes.com/m/1014217-moonraker
+metacritic: https://www.metacritic.com/movie/moonraker
+directors: Lewis Gilbert
+screenplay: Christopher Wood
+producers:
+  - Albert R. Broccoli
+music: John Barry
+cinematography: Jean Tournier
+editors: John Glen
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Roger Moore
+  - name: Hugo Drax
+    actor: Michael Lonsdale
+  - name: Holly Goodhead
+    actor: Lois Chiles
+  - name: Jaws
+    actor: Richard Kiel
+  - name: Corinne Dufour
+    actor: Corinne Cléry

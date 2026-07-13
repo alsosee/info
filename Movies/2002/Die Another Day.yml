@@ -1,0 +1,47 @@
+name: Die Another Day
+series: James Bond
+description: >
+  James Bond returns from captivity to investigate a North Korean operative, a diamond magnate, and a satellite weapon with global reach.
+previous: Movies/1999/The World Is Not Enough
+released: 2002-11-22
+rating: PG-13
+length: 2h13m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Die_Another_Day
+imdb: https://www.imdb.com/title/tt0246460
+tmdb: https://www.themoviedb.org/movie/36669-die-another-day
+rotten_tomatoes: https://www.rottentomatoes.com/m/die_another_day
+metacritic: https://www.metacritic.com/movie/die-another-day
+directors: Lee Tamahori
+screenplay:
+  - Neal Purvis
+  - Robert Wade
+producers:
+  - Michael G. Wilson
+  - Barbara Broccoli
+music: David Arnold
+cinematography: David Tattersall
+editors:
+  - Christian Wagner
+  - Andrew MacRitchie
+production:
+  - Eon Productions
+  - Metro-Goldwyn-Mayer
+distributors:
+  - Metro-Goldwyn-Mayer
+  - 20th Century Fox
+characters:
+  - name: James Bond
+    actor: Pierce Brosnan
+  - name: Jinx
+    actor: Halle Berry
+  - name: Gustav Graves
+    actor: Toby Stephens
+  - name: Miranda Frost
+    actor: Rosamund Pike
+  - name: Zao
+    actor: Rick Yune

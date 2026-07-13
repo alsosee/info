@@ -1,0 +1,46 @@
+name: A View to a Kill
+series: James Bond
+description: >
+  James Bond investigates industrialist Max Zorin, whose microchip empire hides a plan to dominate the market through catastrophic sabotage.
+previous: Movies/1983/Octopussy
+released: 1985-05-24
+rating: PG
+length: 2h11m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/A_View_to_a_Kill
+imdb: https://www.imdb.com/title/tt0090264
+tmdb: https://www.themoviedb.org/movie/707-a-view-to-a-kill
+rotten_tomatoes: https://www.rottentomatoes.com/m/view_to_a_kill
+metacritic: https://www.metacritic.com/movie/a-view-to-a-kill
+directors: John Glen
+screenplay:
+  - Richard Maibaum
+  - Michael G. Wilson
+producers:
+  - Albert R. Broccoli
+  - Michael G. Wilson
+music: John Barry
+cinematography: Alan Hume
+editors:
+  - Peter Davies
+  - Henry Richardson
+production:
+  - Eon Productions
+distributors:
+  - Metro-Goldwyn-Mayer
+  - United International Pictures
+characters:
+  - name: James Bond
+    actor: Roger Moore
+  - name: Max Zorin
+    actor: Christopher Walken
+  - name: Stacey Sutton
+    actor: Tanya Roberts
+  - name: May Day
+    actor: Grace Jones
+  - name: Pola Ivanova
+    actor: Fiona Fullerton

@@ -1,0 +1,46 @@
+name: The World Is Not Enough
+series: James Bond
+description: >
+  James Bond protects oil heiress Elektra King while investigating a nuclear threat connected to the terrorist Renard.
+previous: Movies/1997/Tomorrow Never Dies
+released: 1999-11-19
+rating: PG-13
+length: 2h8m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/The_World_Is_Not_Enough
+imdb: https://www.imdb.com/title/tt0143145
+tmdb: https://www.themoviedb.org/movie/36643-the-world-is-not-enough
+rotten_tomatoes: https://www.rottentomatoes.com/m/world_is_not_enough
+metacritic: https://www.metacritic.com/movie/the-world-is-not-enough
+directors: Michael Apted
+screenplay:
+  - Neal Purvis
+  - Robert Wade
+  - Bruce Feirstein
+producers:
+  - Michael G. Wilson
+  - Barbara Broccoli
+music: David Arnold
+cinematography: Adrian Biddle
+editors: Jim Clark
+production:
+  - Eon Productions
+  - Metro-Goldwyn-Mayer
+distributors:
+  - Metro-Goldwyn-Mayer
+  - United International Pictures
+characters:
+  - name: James Bond
+    actor: Pierce Brosnan
+  - name: Elektra King
+    actor: Sophie Marceau
+  - name: Renard
+    actor: Robert Carlyle
+  - name: Christmas Jones
+    actor: Denise Richards
+  - name: Valentin Zukovsky
+    actor: Robbie Coltrane

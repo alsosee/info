@@ -1,0 +1,46 @@
+name: Spectre
+series: James Bond
+description: >
+  James Bond follows a message from the past into a secret criminal network while MI6 faces political pressure that could end the 00 program.
+previous: Movies/2012/Skyfall
+released: 2015-10-26
+rating: PG-13
+length: 2h28m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Spectre_(2015_film)
+imdb: https://www.imdb.com/title/tt2379713
+tmdb: https://www.themoviedb.org/movie/206647-spectre
+rotten_tomatoes: https://www.rottentomatoes.com/m/spectre_2015
+metacritic: https://www.metacritic.com/movie/spectre
+directors: Sam Mendes
+screenplay:
+  - John Logan
+  - Neal Purvis
+  - Robert Wade
+  - Jez Butterworth
+producers:
+  - Michael G. Wilson
+  - Barbara Broccoli
+music: Thomas Newman
+cinematography: Hoyte van Hoytema
+editors: Lee Smith
+production:
+  - Eon Productions
+  - Metro-Goldwyn-Mayer
+  - Columbia Pictures
+distributors: Sony Pictures Releasing
+characters:
+  - name: James Bond
+    actor: Daniel Craig
+  - name: Madeleine Swann
+    actor: Léa Seydoux
+  - name: Ernst Stavro Blofeld
+    actor: Christoph Waltz
+  - name: M
+    actor: Ralph Fiennes
+  - name: Lucia Sciarra
+    actor: Monica Bellucci

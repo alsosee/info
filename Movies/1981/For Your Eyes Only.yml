@@ -1,0 +1,41 @@
+name: For Your Eyes Only
+series: James Bond
+description: >
+  James Bond searches for a lost missile-command system in the Mediterranean while crossing paths with a woman seeking revenge for her parents' murder.
+previous: Movies/1979/Moonraker
+released: 1981-06-26
+rating: PG
+length: 2h7m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/For_Your_Eyes_Only_(film)
+imdb: https://www.imdb.com/title/tt0082398
+tmdb: https://www.themoviedb.org/movie/699-for-your-eyes-only
+rotten_tomatoes: https://www.rottentomatoes.com/m/for_your_eyes_only
+metacritic: https://www.metacritic.com/movie/for-your-eyes-only
+directors: John Glen
+screenplay:
+  - Richard Maibaum
+  - Michael G. Wilson
+producers:
+  - Albert R. Broccoli
+music: Bill Conti
+cinematography: Alan Hume
+editors: John Grover
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Roger Moore
+  - name: Melina Havelock
+    actor: Carole Bouquet
+  - name: Aristotle Kristatos
+    actor: Julian Glover
+  - name: Milos Columbo
+    actor: Topol
+  - name: Bibi Dahl
+    actor: Lynn-Holly Johnson

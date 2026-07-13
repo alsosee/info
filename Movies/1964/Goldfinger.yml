@@ -1,0 +1,42 @@
+name: Goldfinger
+series: James Bond
+description: >
+  James Bond investigates bullion dealer Auric Goldfinger and uncovers a plan aimed at the United States gold reserve at Fort Knox.
+previous: Movies/1963/From Russia with Love
+released: 1964-09-17
+rating: PG
+length: 1h49m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Goldfinger_(film)
+imdb: https://www.imdb.com/title/tt0058150
+tmdb: https://www.themoviedb.org/movie/658-goldfinger
+rotten_tomatoes: https://www.rottentomatoes.com/m/goldfinger
+metacritic: https://www.metacritic.com/movie/goldfinger
+directors: Guy Hamilton
+screenplay:
+  - Richard Maibaum
+  - Paul Dehn
+producers:
+  - Harry Saltzman
+  - Albert R. Broccoli
+music: John Barry
+cinematography: Ted Moore
+editors: Peter R. Hunt
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Sean Connery
+  - name: Auric Goldfinger
+    actor: Gert Fröbe
+  - name: Pussy Galore
+    actor: Honor Blackman
+  - name: Oddjob
+    actor: Harold Sakata
+  - name: M
+    actor: Bernard Lee

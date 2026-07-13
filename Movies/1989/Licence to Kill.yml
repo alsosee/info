@@ -1,0 +1,44 @@
+name: Licence to Kill
+series: James Bond
+description: >
+  James Bond resigns from MI6 to pursue drug lord Franz Sanchez after a personal attack against Felix Leiter.
+previous: Movies/1987/The Living Daylights
+released: 1989-07-07
+rating: PG-13
+length: 2h13m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Licence_to_Kill
+imdb: https://www.imdb.com/title/tt0097742
+tmdb: https://www.themoviedb.org/movie/709-licence-to-kill
+rotten_tomatoes: https://www.rottentomatoes.com/m/licence_to_kill
+metacritic: https://www.metacritic.com/movie/licence-to-kill
+directors: John Glen
+screenplay:
+  - Michael G. Wilson
+  - Richard Maibaum
+producers:
+  - Albert R. Broccoli
+  - Michael G. Wilson
+music: Michael Kamen
+cinematography: Alec Mills
+editors: John Grover
+production:
+  - Eon Productions
+distributors:
+  - Metro-Goldwyn-Mayer
+  - United International Pictures
+characters:
+  - name: James Bond
+    actor: Timothy Dalton
+  - name: Franz Sanchez
+    actor: Robert Davi
+  - name: Pam Bouvier
+    actor: Carey Lowell
+  - name: Lupe Lamora
+    actor: Talisa Soto
+  - name: Felix Leiter
+    actor: David Hedison

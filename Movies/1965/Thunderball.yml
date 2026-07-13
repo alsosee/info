@@ -1,0 +1,41 @@
+name: Thunderball
+series: James Bond
+description: >
+  James Bond searches the Bahamas for stolen nuclear warheads after SPECTRE hijacks a NATO aircraft and threatens global blackmail.
+previous: Movies/1964/Goldfinger
+released: 1965-12-09
+rating: PG
+length: 2h10m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Thunderball_(film)
+imdb: https://www.imdb.com/title/tt0059800
+tmdb: https://www.themoviedb.org/movie/660-thunderball
+rotten_tomatoes: https://www.rottentomatoes.com/m/thunderball
+metacritic: https://www.metacritic.com/movie/thunderball
+directors: Terence Young
+screenplay:
+  - Richard Maibaum
+  - John Hopkins
+producers:
+  - Kevin McClory
+music: John Barry
+cinematography: Ted Moore
+editors: Peter R. Hunt
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Sean Connery
+  - name: Emilio Largo
+    actor: Adolfo Celi
+  - name: Domino Derval
+    actor: Claudine Auger
+  - name: Fiona Volpe
+    actor: Luciana Paluzzi
+  - name: Ernst Stavro Blofeld
+    actor: Anthony Dawson

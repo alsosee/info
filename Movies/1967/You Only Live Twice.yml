@@ -1,0 +1,40 @@
+name: You Only Live Twice
+series: James Bond
+description: >
+  James Bond is sent to Japan after spacecraft disappear in orbit, leading him toward a hidden SPECTRE base and its leader.
+previous: Movies/1965/Thunderball
+released: 1967-06-12
+rating: PG
+length: 1h57m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/You_Only_Live_Twice_(film)
+imdb: https://www.imdb.com/title/tt0062512
+tmdb: https://www.themoviedb.org/movie/667-you-only-live-twice
+rotten_tomatoes: https://www.rottentomatoes.com/m/you_only_live_twice
+metacritic: https://www.metacritic.com/movie/you-only-live-twice
+directors: Lewis Gilbert
+screenplay: Roald Dahl
+producers:
+  - Harry Saltzman
+  - Albert R. Broccoli
+music: John Barry
+cinematography: Freddie Young
+editors: Peter R. Hunt
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Sean Connery
+  - name: Ernst Stavro Blofeld
+    actor: Donald Pleasence
+  - name: Aki
+    actor: Akiko Wakabayashi
+  - name: Kissy Suzuki
+    actor: Mie Hama
+  - name: Tiger Tanaka
+    actor: Tetsurō Tamba

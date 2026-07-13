@@ -1,0 +1,40 @@
+name: From Russia with Love
+series: James Bond
+description: >
+  James Bond travels to Istanbul to help a Soviet cipher clerk defect, unaware that SPECTRE is using the mission to lure him into a trap.
+previous: Movies/1962/Dr. No
+released: 1963-10-10
+rating: PG
+length: 1h55m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/From_Russia_with_Love_(film)
+imdb: https://www.imdb.com/title/tt0057076
+tmdb: https://www.themoviedb.org/movie/657-from-russia-with-love
+rotten_tomatoes: https://www.rottentomatoes.com/m/from_russia_with_love
+metacritic: https://www.metacritic.com/movie/from-russia-with-love
+directors: Terence Young
+screenplay: Richard Maibaum
+producers:
+  - Harry Saltzman
+  - Albert R. Broccoli
+music: John Barry
+cinematography: Ted Moore
+editors: Peter R. Hunt
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Sean Connery
+  - name: Tatiana Romanova
+    actor: Daniela Bianchi
+  - name: Red Grant
+    actor: Robert Shaw
+  - name: Rosa Klebb
+    actor: Lotte Lenya
+  - name: Ali Kerim Bey
+    actor: Pedro Armendáriz

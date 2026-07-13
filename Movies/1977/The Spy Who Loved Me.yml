@@ -1,0 +1,41 @@
+name: The Spy Who Loved Me
+series: James Bond
+description: >
+  James Bond teams with Soviet agent Anya Amasova to find missing nuclear submarines and stop a shipping magnate's undersea plan.
+previous: Movies/1974/The Man with the Golden Gun
+released: 1977-07-07
+rating: PG
+length: 2h5m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/The_Spy_Who_Loved_Me_(film)
+imdb: https://www.imdb.com/title/tt0076752
+tmdb: https://www.themoviedb.org/movie/691-the-spy-who-loved-me
+rotten_tomatoes: https://www.rottentomatoes.com/m/spy_who_loved_me
+metacritic: https://www.metacritic.com/movie/the-spy-who-loved-me
+directors: Lewis Gilbert
+screenplay:
+  - Christopher Wood
+  - Richard Maibaum
+producers:
+  - Albert R. Broccoli
+music: Marvin Hamlisch
+cinematography: Claude Renoir
+editors: John Glen
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Roger Moore
+  - name: Anya Amasova
+    actor: Barbara Bach
+  - name: Karl Stromberg
+    actor: Curd Jürgens
+  - name: Jaws
+    actor: Richard Kiel
+  - name: Naomi
+    actor: Caroline Munro

@@ -1,0 +1,45 @@
+name: GoldenEye
+series: James Bond
+description: >
+  James Bond faces a former ally while investigating the theft of a satellite weapon that can cripple global financial systems.
+previous: Movies/1989/Licence to Kill
+released: 1995-11-17
+rating: PG-13
+length: 2h10m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/GoldenEye
+imdb: https://www.imdb.com/title/tt0113189
+tmdb: https://www.themoviedb.org/movie/710-goldeneye
+rotten_tomatoes: https://www.rottentomatoes.com/m/goldeneye
+metacritic: https://www.metacritic.com/movie/goldeneye
+directors: Martin Campbell
+screenplay:
+  - Jeffrey Caine
+  - Bruce Feirstein
+producers:
+  - Michael G. Wilson
+  - Barbara Broccoli
+music: Éric Serra
+cinematography: Phil Méheux
+editors: Terry Rawlings
+production:
+  - Eon Productions
+  - United Artists
+distributors:
+  - Metro-Goldwyn-Mayer
+  - United International Pictures
+characters:
+  - name: James Bond
+    actor: Pierce Brosnan
+  - name: Alec Trevelyan
+    actor: Sean Bean
+  - name: Natalya Simonova
+    actor: Izabella Scorupco
+  - name: Xenia Onatopp
+    actor: Famke Janssen
+  - name: M
+    actor: Judi Dench

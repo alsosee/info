@@ -1,0 +1,42 @@
+name: Diamonds Are Forever
+series: James Bond
+description: >
+  James Bond follows a diamond-smuggling pipeline from Amsterdam to Las Vegas and discovers a larger scheme involving Blofeld.
+previous: Movies/1969/On Her Majesty's Secret Service
+released: 1971-12-14
+rating: PG
+length: 2h
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Diamonds_Are_Forever_(film)
+imdb: https://www.imdb.com/title/tt0066995
+tmdb: https://www.themoviedb.org/movie/681-diamonds-are-forever
+rotten_tomatoes: https://www.rottentomatoes.com/m/diamonds_are_forever
+metacritic: https://www.metacritic.com/movie/diamonds-are-forever
+directors: Guy Hamilton
+screenplay:
+  - Richard Maibaum
+  - Tom Mankiewicz
+producers:
+  - Harry Saltzman
+  - Albert R. Broccoli
+music: John Barry
+cinematography: Ted Moore
+editors: Bert Bates
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Sean Connery
+  - name: Tiffany Case
+    actor: Jill St. John
+  - name: Ernst Stavro Blofeld
+    actor: Charles Gray
+  - name: Plenty O'Toole
+    actor: Lana Wood
+  - name: Willard Whyte
+    actor: Jimmy Dean

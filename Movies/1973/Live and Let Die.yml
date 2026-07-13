@@ -1,0 +1,40 @@
+name: Live and Let Die
+series: James Bond
+description: >
+  James Bond investigates the deaths of British agents and follows the trail to a Caribbean dictator, a Harlem crime lord, and a heroin-smuggling operation.
+previous: Movies/1971/Diamonds Are Forever
+released: 1973-06-27
+rating: PG
+length: 2h1m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Live_and_Let_Die_(film)
+imdb: https://www.imdb.com/title/tt0070328
+tmdb: https://www.themoviedb.org/movie/253-live-and-let-die
+rotten_tomatoes: https://www.rottentomatoes.com/m/live_and_let_die
+metacritic: https://www.metacritic.com/movie/live-and-let-die
+directors: Guy Hamilton
+screenplay: Tom Mankiewicz
+producers:
+  - Harry Saltzman
+  - Albert R. Broccoli
+music: George Martin
+cinematography: Ted Moore
+editors: Bert Bates
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Roger Moore
+  - name: Kananga
+    actor: Yaphet Kotto
+  - name: Solitaire
+    actor: Jane Seymour
+  - name: Tee Hee
+    actor: Julius Harris
+  - name: Sheriff J. W. Pepper
+    actor: Clifton James

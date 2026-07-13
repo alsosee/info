@@ -1,0 +1,42 @@
+name: The Man with the Golden Gun
+series: James Bond
+description: >
+  James Bond searches for a missing solar-energy device while being targeted by Francisco Scaramanga, an assassin known for his golden gun.
+previous: Movies/1973/Live and Let Die
+released: 1974-12-19
+rating: PG
+length: 2h5m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/The_Man_with_the_Golden_Gun_(film)
+imdb: https://www.imdb.com/title/tt0071807
+tmdb: https://www.themoviedb.org/movie/682-the-man-with-the-golden-gun
+rotten_tomatoes: https://www.rottentomatoes.com/m/man_with_the_golden_gun
+metacritic: https://www.metacritic.com/movie/the-man-with-the-golden-gun
+directors: Guy Hamilton
+screenplay:
+  - Richard Maibaum
+  - Tom Mankiewicz
+producers:
+  - Harry Saltzman
+  - Albert R. Broccoli
+music: John Barry
+cinematography: Ted Moore
+editors: Raymond Poulton
+production:
+  - Eon Productions
+distributors: United Artists
+characters:
+  - name: James Bond
+    actor: Roger Moore
+  - name: Francisco Scaramanga
+    actor: Christopher Lee
+  - name: Mary Goodnight
+    actor: Britt Ekland
+  - name: Andrea Anders
+    actor: Maud Adams
+  - name: Nick Nack
+    actor: Hervé Villechaize

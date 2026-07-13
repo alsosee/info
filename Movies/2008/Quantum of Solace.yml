@@ -1,0 +1,47 @@
+name: Quantum of Solace
+series: James Bond
+description: >
+  James Bond follows the organization behind Vesper Lynd's betrayal and uncovers a resource-control conspiracy in Bolivia.
+previous: Movies/2006/Casino Royale
+released: 2008-10-31
+rating: PG-13
+length: 1h46m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Quantum_of_Solace
+imdb: https://www.imdb.com/title/tt0830515
+tmdb: https://www.themoviedb.org/movie/10764-quantum-of-solace
+rotten_tomatoes: https://www.rottentomatoes.com/m/quantum_of_solace
+metacritic: https://www.metacritic.com/movie/quantum-of-solace
+directors: Marc Forster
+screenplay:
+  - Paul Haggis
+  - Neal Purvis
+  - Robert Wade
+producers:
+  - Michael G. Wilson
+  - Barbara Broccoli
+music: David Arnold
+cinematography: Roberto Schaefer
+editors:
+  - Matt Chesse
+  - Richard Pearson
+production:
+  - Eon Productions
+  - Metro-Goldwyn-Mayer Pictures
+  - Columbia Pictures
+distributors: Sony Pictures Releasing
+characters:
+  - name: James Bond
+    actor: Daniel Craig
+  - name: Camille Montes
+    actor: Olga Kurylenko
+  - name: Dominic Greene
+    actor: Mathieu Amalric
+  - name: M
+    actor: Judi Dench
+  - name: Felix Leiter
+    actor: Jeffrey Wright

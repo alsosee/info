@@ -1,0 +1,46 @@
+name: The Living Daylights
+series: James Bond
+description: >
+  James Bond protects a defecting Soviet general and becomes entangled in a scheme involving arms deals, diamonds, and the Afghan resistance.
+previous: Movies/1985/A View to a Kill
+released: 1987-06-27
+rating: PG
+length: 2h10m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/The_Living_Daylights
+imdb: https://www.imdb.com/title/tt0093428
+tmdb: https://www.themoviedb.org/movie/708-the-living-daylights
+rotten_tomatoes: https://www.rottentomatoes.com/m/living_daylights
+metacritic: https://www.metacritic.com/movie/the-living-daylights
+directors: John Glen
+screenplay:
+  - Richard Maibaum
+  - Michael G. Wilson
+producers:
+  - Albert R. Broccoli
+  - Michael G. Wilson
+music: John Barry
+cinematography: Alec Mills
+editors:
+  - Peter Davies
+  - John Grover
+production:
+  - Eon Productions
+distributors:
+  - Metro-Goldwyn-Mayer
+  - United International Pictures
+characters:
+  - name: James Bond
+    actor: Timothy Dalton
+  - name: Kara Milovy
+    actor: Maryam d'Abo
+  - name: Georgi Koskov
+    actor: Jeroen Krabbé
+  - name: Brad Whitaker
+    actor: Joe Don Baker
+  - name: Necros
+    actor: Andreas Wisniewski

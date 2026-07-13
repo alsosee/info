@@ -1,0 +1,46 @@
+name: Octopussy
+series: James Bond
+description: >
+  James Bond follows a Fabergé egg smuggling operation from East Germany to India and uncovers a plot tied to a rogue Soviet general.
+previous: Movies/1981/For Your Eyes Only
+released: 1983-06-06
+rating: PG
+length: 2h11m
+genres:
+  - action
+  - adventure
+  - thriller
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Octopussy
+imdb: https://www.imdb.com/title/tt0086034
+tmdb: https://www.themoviedb.org/movie/700-octopussy
+rotten_tomatoes: https://www.rottentomatoes.com/m/octopussy
+metacritic: https://www.metacritic.com/movie/octopussy
+directors: John Glen
+screenplay:
+  - George MacDonald Fraser
+  - Richard Maibaum
+  - Michael G. Wilson
+producers:
+  - Albert R. Broccoli
+music: John Barry
+cinematography: Alan Hume
+editors:
+  - Peter Davies
+  - Henry Richardson
+production:
+  - Eon Productions
+distributors:
+  - Metro-Goldwyn-Mayer
+  - United International Pictures
+characters:
+  - name: James Bond
+    actor: Roger Moore
+  - name: Octopussy
+    actor: Maud Adams
+  - name: Kamal Khan
+    actor: Louis Jourdan
+  - name: Gobinda
+    actor: Kabir Bedi
+  - name: Magda
+    actor: Kristina Wayborn
