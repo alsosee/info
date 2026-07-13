@@ -1,4 +1,5 @@
 name: Die Hard
+series: Die Hard
 description: >
   A New York cop flies to Los Angeles on Christmas Eve to reconcile with his estranged wife,
   only to find himself the lone defender when a group of armed terrorists seizes the Nakatomi
@@ -13,6 +14,8 @@ genres:
 wikipedia: https://en.wikipedia.org/wiki/Die_Hard
 imdb: https://www.imdb.com/title/tt0095016
 tmdb: https://www.themoviedb.org/movie/562-die-hard
+rotten_tomatoes: https://www.rottentomatoes.com/m/die_hard
+metacritic: https://www.metacritic.com/movie/die-hard
 directors: John McTiernan
 screenplay:
   - Jeb Stuart

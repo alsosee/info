@@ -1,0 +1,48 @@
+name: A Good Day to Die Hard
+series: Die Hard
+description: >
+  John McClane travels to Moscow after learning that his estranged son Jack has been arrested.
+  He soon discovers Jack is working undercover, and the two are drawn into a violent conspiracy
+  involving a Russian political prisoner and a stolen file.
+previous: Movies/2007/Live Free or Die Hard
+released: 2013-02-14
+rating: R
+length: 1h37m
+genres:
+  - action
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/A_Good_Day_to_Die_Hard
+imdb: https://www.imdb.com/title/tt1606378
+tmdb: https://www.themoviedb.org/movie/47964-a-good-day-to-die-hard
+rotten_tomatoes: https://www.rottentomatoes.com/m/a_good_day_to_die_hard
+metacritic: https://www.metacritic.com/movie/a-good-day-to-die-hard
+directors: John Moore
+screenplay: Skip Woods
+producers:
+  - Alex Young
+  - Wyck Godfrey
+music: Marco Beltrami
+cinematography: Jonathan Sela
+editors: Dan Zimmerman
+production:
+  - Giant Pictures
+  - Temple Hill Entertainment
+  - TSG Entertainment
+distributors: 20th Century Fox
+characters:
+  - name: John McClane
+    actor: Bruce Willis
+  - name: Jack McClane
+    actor: Jai Courtney
+  - name: Yuri Komarov
+    actor: Sebastian Koch
+  - name: Irina Komarov
+    actor: Yuliya Snigir
+  - name: Mike Collins
+    actor: Cole Hauser
+  - name: Alik
+    actor: Rasha Bukvic
+  - name: Viktor Chagarin
+    actor: Sergei Kolesnikov
+  - name: Murphy
+    actor: Amaury Nolasco
