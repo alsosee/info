@@ -1,7 +1,9 @@
 name: Ocean's Eleven
+series: Ocean's
 description: >
   Fresh out of prison, Danny Ocean assembles a specialist crew to rob three Las Vegas casinos in a single night.
   The plan targets ruthless casino owner Terry Benedict, whose relationship with Danny's ex-wife raises the stakes beyond the money.
+based_on: Movies/1960/Ocean's 11
 released: 2001-12-07
 rating: PG-13
 length: 1h56m
