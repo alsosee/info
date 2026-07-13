@@ -1,15 +1,20 @@
 name: Rush Hour
-description: A Hong Kong police inspector and an LAPD detective form an unlikely partnership to rescue a Chinese consul's kidnapped daughter.
+description: >
+  A Hong Kong police inspector and an LAPD detective form an unlikely partnership
+  to rescue a Chinese consul's kidnapped daughter in Los Angeles.
 released: 1998-09-18
 rating: PG-13
 length: 1h37m
 genres:
-  - Action
-  - Comedy
-  - Crime
+  - action
+  - comedy
+  - crime
 wikipedia: https://en.wikipedia.org/wiki/Rush_Hour_(1998_film)
-imdb: https://www.imdb.com/title/tt0120812/
+imdb: https://www.imdb.com/title/tt0120812
 tmdb: https://www.themoviedb.org/movie/2109-rush-hour
+rotten_tomatoes: https://www.rottentomatoes.com/m/rush_hour
+metacritic: https://www.metacritic.com/movie/rush-hour
+trailer: https://www.youtube.com/watch?v=JMiFsFQcFLE
 directors: Brett Ratner
 screenplay:
   - Jim Kouf

@@ -1,0 +1,50 @@
+name: Beverly Hills Cop III
+series: Beverly Hills Cop
+description: >
+  Axel Foley returns to Beverly Hills while investigating a murder tied to a counterfeit operation.
+  His trail leads to WonderWorld, a popular amusement park where he teams with Billy Rosewood and local detectives.
+previous: Movies/1987/Beverly Hills Cop II
+released: 1994-05-25
+rating: R
+length: 1h44m
+genres:
+  - buddy cop
+  - action comedy
+wikipedia: https://en.wikipedia.org/wiki/Beverly_Hills_Cop_III
+imdb: https://www.imdb.com/title/tt0109254
+tmdb: https://www.themoviedb.org/movie/306-beverly-hills-cop-iii
+rotten_tomatoes: https://www.rottentomatoes.com/m/beverly_hills_cop_iii
+metacritic: https://www.metacritic.com/movie/beverly-hills-cop-iii
+directors: John Landis
+producers:
+  - Mace Neufeld
+  - Robert Rehme
+screenplay: Steven E. de Souza
+music: Nile Rodgers
+cinematography: Mac Ahlberg
+editors: Dale Beldin
+production:
+  - Neufeld/Rehme Productions
+  - Eddie Murphy Productions
+distributors: Paramount Pictures
+characters:
+  - name: Axel Foley
+    actor: Eddie Murphy
+  - name: Billy Rosewood
+    actor: Judge Reinhold
+  - name: Jon Flint
+    actor: Héctor Elizondo
+  - name: Ellis DeWald
+    actor: Timothy Carhart
+  - name: Orrin Sanderson
+    actor: John Saxon
+  - name: Janice Perkins
+    actor: Theresa Randle
+  - name: Dave Thornton
+    actor: Alan Young
+  - name: Steve Fulbright
+    actor: Stephen McHattie
+  - name: Serge
+    actor: Bronson Pinchot
+  - name: Inspector Douglas Todd
+    actor: Gilbert R. Hill

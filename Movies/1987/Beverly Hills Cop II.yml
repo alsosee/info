@@ -1,0 +1,57 @@
+name: Beverly Hills Cop II
+series: Beverly Hills Cop
+description: >
+  Detroit detective Axel Foley returns to Beverly Hills after Captain Andrew Bogomil is seriously wounded.
+  Reuniting with Billy Rosewood and John Taggart, Foley investigates a criminal organization connected to a string of high-profile robberies.
+previous: Movies/1984/Beverly Hills Cop
+released: 1987-05-20
+rating: R
+length: 1h43m
+genres:
+  - buddy cop
+  - action comedy
+wikipedia: https://en.wikipedia.org/wiki/Beverly_Hills_Cop_II
+imdb: https://www.imdb.com/title/tt0092644
+tmdb: https://www.themoviedb.org/movie/96-beverly-hills-cop-ii
+rotten_tomatoes: https://www.rottentomatoes.com/m/beverly_hills_cop_ii
+metacritic: https://www.metacritic.com/movie/beverly-hills-cop-ii
+directors: Tony Scott
+producers:
+  - Don Simpson
+  - Jerry Bruckheimer
+screenplay:
+  - Larry Ferguson
+  - Warren Skaaren
+music: Harold Faltermeyer
+cinematography: Jeffrey L. Kimball
+editors:
+  - Chris Lebenzon
+  - Michael Tronick
+  - Billy Weber
+production:
+  - Don Simpson/Jerry Bruckheimer Films
+  - Eddie Murphy Productions
+distributors: Paramount Pictures
+characters:
+  - name: Axel Foley
+    actor: Eddie Murphy
+  - name: Billy Rosewood
+    actor: Judge Reinhold
+  - name: John Taggart
+    actor: John Ashton
+  - name: Andrew Bogomil
+    actor: Ronny Cox
+  - name: Karla Fry
+    actor: Brigitte Nielsen
+  - name: Maxwell Dent
+    actor: Jürgen Prochnow
+  - name: Harold Lutz
+    actor: Allen Garfield
+  - name: Jeffrey Friedman
+    actor: Paul Reiser
+  - name: Jan Bogomil
+    actor: Alice Adair
+  - name: Charles Cain
+    actor: Dean Stockwell
+  - name: Inspector Douglas Todd
+    actor: Gilbert R. Hill
