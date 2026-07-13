@@ -1,0 +1,57 @@
+name: "The Maze Runner"
+series: Maze Runner
+description: >
+  A teenage boy named Thomas wakes up with no memory in the Glade, a walled community surrounded by a deadly mechanical maze. As the first girl arrives and the maze begins to change, Thomas and the other Gladers search for a way out and the reason they were trapped.
+based_on: Books/2009/The Maze Runner
+released: 2014-09-19
+rating: PG-13
+length: 1h53m
+genres:
+  - science fiction
+  - action
+  - dystopian
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Maze_Runner_(film)
+imdb: https://www.imdb.com/title/tt1790864
+tmdb: https://www.themoviedb.org/movie/198663-the-maze-runner
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_maze_runner
+metacritic: https://www.metacritic.com/movie/the-maze-runner/
+directors: Wes Ball
+screenplay:
+  - Noah Oppenheim
+  - Grant Pierce Myers
+  - T. S. Nowlin
+producers:
+  - Ellen Goldsmith-Vein
+  - Wyck Godfrey
+  - Marty Bowen
+  - Lee Stollman
+music: John Paesano
+cinematography: Enrique Chediak
+editors: Dan Zimmerman
+production:
+  - Gotham Group
+  - Temple Hill Entertainment
+  - Oddball Entertainment
+distributors: 20th Century Fox
+characters:
+  - name: Thomas
+    actor: Dylan O'Brien
+  - name: Teresa
+    actor: Kaya Scodelario
+  - name: Newt
+    actor: Thomas Brodie-Sangster
+  - name: Minho
+    actor: Ki Hong Lee
+  - name: Gally
+    actor: Will Poulter
+  - name: Alby
+    actor: Aml Ameen
+  - name: Ava Paige
+    actor: Patricia Clarkson
+  - name: Chuck
+    actor: Blake Cooper
+  - name: Frypan
+    actor: Dexter Darden
+  - name: Winston
+    actor: Alexander Flores

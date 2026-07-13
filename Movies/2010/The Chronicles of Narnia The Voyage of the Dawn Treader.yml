@@ -1,0 +1,52 @@
+name: "The Chronicles of Narnia: The Voyage of the Dawn Treader"
+description: >
+  Lucy and Edmund Pevensie return to Narnia with their cousin Eustace and join
+  King Caspian aboard the Dawn Treader. Their voyage across the Eastern Ocean
+  searches for seven lost lords and tests each traveler along the way.
+based_on: Books/1952/The Voyage of the Dawn Treader
+previous: Movies/2008/The Chronicles of Narnia Prince Caspian
+released: 2010-12-10
+rating: PG
+length: 1h53m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: The Chronicles of Narnia
+wikipedia: https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Voyage_of_the_Dawn_Treader
+imdb: https://www.imdb.com/title/tt0980970
+tmdb: https://www.themoviedb.org/movie/10140-the-chronicles-of-narnia-the-voyage-of-the-dawn-treader
+rotten_tomatoes: https://www.rottentomatoes.com/m/chronicles_of_narnia_the_voyage_of_the_dawn_treader
+directors: Michael Apted
+screenplay:
+  - Christopher Markus
+  - Stephen McFeely
+  - Michael Petroni
+music: David Arnold
+cinematography: Dante Spinotti
+editors: Rick Shaine
+producers:
+  - Mark Johnson
+  - Andrew Adamson
+  - Philip Steuer
+production:
+  - Fox 2000 Pictures
+  - Walden Media
+  - Dune Entertainment
+  - Mark Johnson Productions
+distributors: 20th Century Fox
+characters:
+  - name: Lucy Pevensie
+    actor: Georgie Henley
+  - name: Edmund Pevensie
+    actor: Skandar Keynes
+  - name: Prince Caspian
+    actor: Ben Barnes
+  - name: Eustace Scrubb
+    actor: Will Poulter
+  - name: White Witch
+    actor: Tilda Swinton
+  - name: Reepicheep
+    voice: Simon Pegg
+  - name: Aslan
+    voice: Liam Neeson

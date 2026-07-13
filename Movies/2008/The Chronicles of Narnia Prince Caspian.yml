@@ -1,0 +1,54 @@
+name: "The Chronicles of Narnia: Prince Caspian"
+description: >
+  The Pevensie siblings return to Narnia and find that centuries have passed
+  since their reign. They join Prince Caspian and the hidden Narnians in a fight
+  against King Miraz and the Telmarine rule.
+based_on: Books/1951/Prince Caspian
+previous: Movies/2005/The Chronicles of Narnia The Lion, the Witch and the Wardrobe
+released: 2008-05-16
+rating: PG
+length: 2h30m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: The Chronicles of Narnia
+wikipedia: https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_Prince_Caspian
+imdb: https://www.imdb.com/title/tt0499448
+tmdb: https://www.themoviedb.org/movie/2454-the-chronicles-of-narnia-prince-caspian
+rotten_tomatoes: https://www.rottentomatoes.com/m/chronicles_of_narnia_prince_caspian
+directors: Andrew Adamson
+screenplay:
+  - Andrew Adamson
+  - Christopher Markus
+  - Stephen McFeely
+music: Harry Gregson-Williams
+cinematography: Karl Walter Lindenlaub
+editors: Sim Evan-Jones
+producers:
+  - Mark Johnson
+  - Andrew Adamson
+  - Philip Steuer
+production:
+  - Walt Disney Pictures
+  - Walden Media
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Prince Caspian
+    actor: Ben Barnes
+  - name: Lucy Pevensie
+    actor: Georgie Henley
+  - name: Edmund Pevensie
+    actor: Skandar Keynes
+  - name: Peter Pevensie
+    actor: William Moseley
+  - name: Susan Pevensie
+    actor: Anna Popplewell
+  - name: Miraz
+    actor: Sergio Castellitto
+  - name: Trumpkin
+    actor: Peter Dinklage
+  - name: Reepicheep
+    voice: Eddie Izzard
+  - name: Aslan
+    voice: Liam Neeson

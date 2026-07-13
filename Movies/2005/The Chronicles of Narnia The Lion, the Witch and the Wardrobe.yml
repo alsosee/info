@@ -1,0 +1,54 @@
+name: "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+description: >
+  Four siblings evacuated during World War II discover a wardrobe portal to
+  Narnia, a magical realm held in winter by the White Witch. Guided by Aslan,
+  they become central to Narnia's fight for freedom.
+based_on: Books/1950/The Lion, the Witch and the Wardrobe
+released: 2005-12-09
+rating: PG
+length: 2h23m
+genres:
+  - adventure
+  - family
+  - fantasy
+series: The Chronicles of Narnia
+wikipedia: https://en.wikipedia.org/wiki/The_Chronicles_of_Narnia:_The_Lion,_the_Witch_and_the_Wardrobe
+imdb: https://www.imdb.com/title/tt0363771
+tmdb: https://www.themoviedb.org/movie/411-the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe
+rotten_tomatoes: https://www.rottentomatoes.com/m/chronicles_of_narnia_lion_witch_wardrobe
+directors: Andrew Adamson
+screenplay:
+  - Ann Peacock
+  - Andrew Adamson
+  - Christopher Markus
+  - Stephen McFeely
+music: Harry Gregson-Williams
+cinematography: Donald McAlpine
+editors:
+  - Sim Evan-Jones
+  - Jim May
+producers:
+  - Mark Johnson
+  - Philip Steuer
+production:
+  - Walt Disney Pictures
+  - Walden Media
+  - Mark Johnson Productions
+distributors: Buena Vista Pictures Distribution
+characters:
+  - name: Lucy Pevensie
+    actor: Georgie Henley
+  - name: Edmund Pevensie
+    actor: Skandar Keynes
+  - name: Peter Pevensie
+    actor: William Moseley
+  - name: Susan Pevensie
+    actor: Anna Popplewell
+  - name: White Witch
+    actor: Tilda Swinton
+  - name: Mr. Tumnus
+    actor: James McAvoy
+  - name: Professor Kirke
+    actor: Jim Broadbent
+  - name: Aslan
+    voice: Liam Neeson
