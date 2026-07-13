@@ -1,0 +1,44 @@
+name: "Hollow Knight: Silksong"
+description: >
+  Hollow Knight: Silksong is a Metroidvania action-adventure game where players
+  control Hornet after she is captured and taken to Pharloom, a haunted kingdom
+  ruled by silk and song. The sequel expands Hollow Knight's exploration,
+  platforming, questing, and boss combat with Hornet's faster movement and
+  silk-based abilities.
+previous: Games/Video/2017/Hollow Knight
+released: 2025-09-04
+genres:
+  - metroidvania
+  - action-adventure
+  - platform
+website: https://hollowknightsilksong.com
+wikipedia: https://en.wikipedia.org/wiki/Hollow_Knight%3A_Silksong
+metacritic: https://www.metacritic.com/game/hollow-knight-silksong/
+opencritic: https://opencritic.com/game/7425/hollow-knight-silksong
+websites:
+  - https://hollowknight.wiki/w/Hollow_Knight%3A_Silksong
+spotify: https://open.spotify.com/album/2mvEK1s3lpArLiUVRkqoD5
+steam: https://store.steampowered.com/app/1030300/Hollow_Knight_Silksong/
+gog: https://www.gog.com/game/hollow_knight_silksong
+humble_bundle: https://www.humblebundle.com/store/hollow-knight-silksong
+playstation: https://store.playstation.com/en-us/concept/10005908
+xbox: https://www.xbox.com/en-us/games/store/hollow-knight-silksong/9n116v0599hb
+nintendo: https://www.nintendo.com/us/store/products/hollow-knight-silksong-switch/
+trailer: https://www.youtube.com/watch?v=6XGeJwsUP9c
+developers: Team Cherry
+publishers: Team Cherry
+directors:
+  - Ari Gibson
+  - William Pellen
+designers:
+  - Ari Gibson
+  - William Pellen
+programmers:
+  - William Pellen
+  - Jack Vine
+artists: Ari Gibson
+writers:
+  - Ari Gibson
+  - William Pellen
+composers: Christopher Larkin
+engine: Unity
