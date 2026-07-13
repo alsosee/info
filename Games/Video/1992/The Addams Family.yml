@@ -1,0 +1,27 @@
+name: The Addams Family
+series: The Addams Family
+description: >
+  A platform game based on the 1991 film in which Gomez explores the Addams
+  mansion to rescue his family and protect their fortune from Abigail Craven.
+released: 1992
+genres:
+  - platform
+  - action-adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Addams_Family_(video_game)
+developers:
+  - Ocean Software
+  - ICOM Simulations
+publishers:
+  - Ocean Software
+  - NEC
+designers: Warren Lancashire
+composers: Jonathan Dunn
+characters:
+  - name: Gomez Addams
+  - name: Morticia Addams
+  - name: Wednesday Addams
+  - name: Pugsley Addams
+  - name: Uncle Fester
+  - name: Grandmama
+  - name: Lurch
+  - name: Thing

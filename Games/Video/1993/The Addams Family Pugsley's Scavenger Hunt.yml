@@ -1,0 +1,24 @@
+name: "The Addams Family: Pugsley's Scavenger Hunt"
+series: The Addams Family
+description: >
+  A side-scrolling platform game based on the 1992 animated series, following
+  Pugsley as he searches the Addams house for items in Wednesday's scavenger
+  hunt challenge.
+released: 1993
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/The_Addams_Family:_Pugsley%27s_Scavenger_Hunt
+developers:
+  - Ocean Software
+  - Enigma Variations
+publishers: Ocean Software
+directors: Colin Gordon
+designers: Stephen Hey
+composers: Jonathan Dunn
+characters:
+  - name: Pugsley Addams
+  - name: Wednesday Addams
+  - name: Gomez Addams
+  - name: Morticia Addams
+  - name: Uncle Fester
+  - name: Lurch

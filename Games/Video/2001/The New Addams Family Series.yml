@@ -1,0 +1,17 @@
+name: The New Addams Family Series
+series: The Addams Family
+description: >
+  A Game Boy Color adventure game based on The New Addams Family, with Pugsley
+  and Wednesday exploring the mansion to stop it from being demolished and turned
+  into an amusement park.
+released: 2001-12-17
+genres:
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Addams_Family_(video_game_series)#The_New_Addams_Family
+developers: 7th Sense
+publishers: Microids
+characters:
+  - name: Pugsley Addams
+  - name: Wednesday Addams
+  - name: Gomez Addams
+  - name: Morticia Addams

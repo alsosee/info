@@ -1,0 +1,22 @@
+name: Fester's Quest
+series: The Addams Family
+description: >
+  A run-and-gun adventure for the NES in which Uncle Fester fights through city
+  streets, sewers, and alien hideouts to stop an extraterrestrial invasion.
+released: 1989
+genres:
+  - run and gun
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Fester%27s_Quest
+developers: Sunsoft
+publishers: Sunsoft
+composers: Naoki Kodaka
+characters:
+  - name: Uncle Fester
+  - name: Gomez Addams
+  - name: Morticia Addams
+  - name: Wednesday Addams
+  - name: Pugsley Addams
+  - name: Grandmama
+  - name: Lurch
+  - name: Thing
