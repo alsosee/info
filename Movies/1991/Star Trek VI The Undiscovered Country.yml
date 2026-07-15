@@ -1,0 +1,31 @@
+name: "Star Trek VI: The Undiscovered Country"
+series: Star Trek
+description: >
+  Kirk and the Enterprise crew escort a Klingon chancellor during peace talks,
+  only to become entangled in a conspiracy that threatens the Federation and the
+  Klingon Empire.
+previous: Movies/1989/Star Trek V The Final Frontier
+released: 1991-12-06
+rating: PG
+length: 1h50m
+genres:
+  - science fiction
+  - mystery
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country
+imdb: https://www.imdb.com/title/tt0102975
+tmdb: https://www.themoviedb.org/movie/174-star-trek-vi-the-undiscovered-country
+directors: Nicholas Meyer
+screenplay:
+  - Nicholas Meyer
+  - Denny Martin Flinn
+music: Cliff Eidelman
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Spock
+    actor: Leonard Nimoy
+  - name: Chang
+    actor: Christopher Plummer

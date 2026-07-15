@@ -1,0 +1,23 @@
+name: "Star Trek: Scouts"
+description: >
+  A short-form animated preschool web series following JR, Sprocket, and Roo as
+  young friends training to become future Starfleet explorers through Holodeck
+  adventures.
+released: 2025-09-08
+rating: TV-Y
+genres:
+  - animation
+  - children
+  - science fiction
+network: YouTube
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek#YouTube_series
+production:
+  - Nickelodeon Digital Studio
+  - CBS Studios
+characters:
+  - name: JR
+    voice: Hudson Brooks
+  - name: Sprocket
+    voice: Monique Thomas
+  - name: Roo
+    voice: Dominique Skye Turner

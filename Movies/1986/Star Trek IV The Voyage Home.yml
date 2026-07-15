@@ -1,0 +1,33 @@
+name: "Star Trek IV: The Voyage Home"
+series: Star Trek
+description: >
+  The former Enterprise crew travels back to 20th-century San Francisco to find
+  humpback whales, the only beings that can answer an alien probe threatening
+  Earth.
+previous: Movies/1984/Star Trek III The Search for Spock
+released: 1986-11-26
+rating: PG
+length: 1h59m
+genres:
+  - science fiction
+  - adventure
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home
+imdb: https://www.imdb.com/title/tt0092007
+tmdb: https://www.themoviedb.org/movie/168-star-trek-iv-the-voyage-home
+directors: Leonard Nimoy
+screenplay:
+  - Steve Meerson
+  - Peter Krikes
+  - Nicholas Meyer
+  - Harve Bennett
+music: Leonard Rosenman
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Spock
+    actor: Leonard Nimoy
+  - name: Gillian Taylor
+    actor: Catherine Hicks

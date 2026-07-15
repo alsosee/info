@@ -1,0 +1,28 @@
+name: "Star Trek V: The Final Frontier"
+series: Star Trek
+description: >
+  The Enterprise crew confronts Sybok, Spock's half-brother, after he hijacks a
+  diplomatic mission in a quest to find a mythical planet at the center of the
+  galaxy.
+previous: Movies/1986/Star Trek IV The Voyage Home
+released: 1989-06-09
+rating: PG
+length: 1h46m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier
+imdb: https://www.imdb.com/title/tt0098382
+tmdb: https://www.themoviedb.org/movie/172-star-trek-v-the-final-frontier
+directors: William Shatner
+screenplay: David Loughery
+music: Jerry Goldsmith
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Spock
+    actor: Leonard Nimoy
+  - name: Sybok
+    actor: Laurence Luckinbill

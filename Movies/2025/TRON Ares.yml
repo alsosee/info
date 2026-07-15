@@ -1,0 +1,30 @@
+name: "TRON: Ares"
+series: TRON
+description: >
+  Ares, a highly advanced program from the digital world, is sent into the real
+  world on a mission that brings humanity into direct contact with artificial
+  intelligence from the Grid.
+previous: Movies/2010/TRON Legacy
+released: 2025-10-10
+rating: PG-13
+length: 1h59m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Tron:_Ares
+imdb: https://www.imdb.com/title/tt6604188
+directors: Joachim Rønning
+screenplay: Jesse Wigutow
+music: Nine Inch Nails
+production:
+  - Walt Disney Pictures
+  - Sean Bailey Productions
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Ares
+    actor: Jared Leto
+  - name: Eve Kim
+    actor: Greta Lee
+  - name: Julian Dillinger
+    actor: Evan Peters

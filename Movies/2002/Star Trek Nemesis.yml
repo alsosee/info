@@ -1,0 +1,29 @@
+name: "Star Trek: Nemesis"
+series: Star Trek
+description: >
+  The Enterprise-E is sent to Romulus after a coup brings a mysterious new
+  Praetor to power, forcing Picard to confront a personal threat tied to his own
+  identity.
+previous: Movies/1998/Star Trek Insurrection
+released: 2002-12-13
+rating: PG-13
+length: 1h56m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Nemesis
+imdb: https://www.imdb.com/title/tt0253754
+tmdb: https://www.themoviedb.org/movie/201-star-trek-nemesis
+directors: Stuart Baird
+screenplay: John Logan
+music: Jerry Goldsmith
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: Shinzon
+    actor: Tom Hardy
+  - name: Data
+    actor: Brent Spiner

@@ -1,0 +1,24 @@
+name: "Star Trek: Discovery"
+description: >
+  Science specialist Michael Burnham is pulled into war and later deep-space
+  mysteries aboard the USS Discovery, a Starfleet vessel with experimental
+  technology.
+released: 2017-09-24
+rating: TV-14
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: CBS All Access
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Discovery_season_1
+imdb: https://www.imdb.com/title/tt5171438
+creators:
+  - Bryan Fuller
+  - Alex Kurtzman
+characters:
+  - name: Michael Burnham
+    actor: Sonequa Martin-Green
+  - name: Gabriel Lorca
+    actor: Jason Isaacs
+  - name: Saru
+    actor: Doug Jones

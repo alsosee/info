@@ -1,0 +1,13 @@
+name: 21 Jump Street
+description: >
+  A buddy cop comedy film series based on the police procedural television show,
+  following two immature undercover officers assigned to infiltrate schools.
+wikipedia: https://en.wikipedia.org/wiki/21_Jump_Street_(franchise)
+genres:
+  - comedy
+  - action
+  - crime
+based_on: Series/1987/21 Jump Street
+distributors:
+  - Columbia Pictures
+  - Metro-Goldwyn-Mayer

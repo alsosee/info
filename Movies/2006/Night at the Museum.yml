@@ -1,0 +1,30 @@
+name: Night at the Museum
+series: Night at the Museum
+description: >
+  New night guard Larry Daley discovers that the exhibits at the American Museum
+  of Natural History come alive after dark because of an ancient Egyptian tablet.
+released: 2006-12-22
+rating: PG
+length: 1h48m
+genres:
+  - adventure
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Night_at_the_Museum
+imdb: https://www.imdb.com/title/tt0477347
+directors: Shawn Levy
+screenplay:
+  - Robert Ben Garant
+  - Thomas Lennon
+music: Alan Silvestri
+production:
+  - 20th Century Fox
+  - 1492 Pictures
+distributors: 20th Century Fox
+characters:
+  - name: Larry Daley
+    actor: Ben Stiller
+  - name: Theodore Roosevelt
+    actor: Robin Williams
+  - name: Ahkmenrah
+    actor: Rami Malek

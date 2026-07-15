@@ -1,0 +1,31 @@
+name: "TRON: Legacy"
+series: TRON
+description: >
+  Sam Flynn enters the Grid while searching for his missing father, discovering a
+  digital world ruled by Kevin Flynn's authoritarian program Clu.
+previous: Movies/1982/TRON
+released: 2010-12-17
+rating: PG
+length: 2h5m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Tron:_Legacy
+imdb: https://www.imdb.com/title/tt1104001
+directors: Joseph Kosinski
+screenplay:
+  - Edward Kitsis
+  - Adam Horowitz
+music: Daft Punk
+production:
+  - Walt Disney Pictures
+  - Sean Bailey Productions
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Kevin Flynn
+    actor: Jeff Bridges
+  - name: Sam Flynn
+    actor: Garrett Hedlund
+  - name: Quorra
+    actor: Olivia Wilde

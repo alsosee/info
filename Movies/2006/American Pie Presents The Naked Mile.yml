@@ -1,0 +1,28 @@
+name: "American Pie Presents: The Naked Mile"
+series: American Pie
+description: >
+  Erik Stifler visits his cousin Dwight at college for the annual Naked Mile,
+  hoping to gain confidence before taking the next step in his relationship.
+previous: Movies/2005/American Pie Presents Band Camp
+released: 2006-12-19
+rating: R
+length: 1h38m
+genres:
+  - comedy
+  - teen
+wikipedia: https://en.wikipedia.org/wiki/American_Pie_Presents:_The_Naked_Mile
+imdb: https://www.imdb.com/title/tt0808146
+directors: Joe Nussbaum
+screenplay: Erik Lindsay
+music: Jeff Cardoni
+production:
+  - Rogue Pictures
+  - Universal Pictures Home Entertainment
+distributors: Universal Studios Home Entertainment
+characters:
+  - name: Erik Stifler
+    actor: John White
+  - name: Dwight Stifler
+    actor: Steve Talley
+  - name: Noah Levenstein
+    actor: Eugene Levy

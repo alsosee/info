@@ -1,0 +1,23 @@
+name: "Star Trek: Prodigy"
+description: >
+  A group of young aliens discover an abandoned Starfleet vessel and learn the
+  ideals of exploration and cooperation while pursued across the Delta Quadrant.
+released: 2021-10-28
+rating: TV-Y7
+genres:
+  - animation
+  - adventure
+  - science fiction
+network: Paramount+
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Prodigy_season_1
+imdb: https://www.imdb.com/title/tt9795876
+creators:
+  - Kevin Hageman
+  - Dan Hageman
+characters:
+  - name: Dal R'El
+    voice: Brett Gray
+  - name: Gwyndala
+    voice: Ella Purnell
+  - name: Kathryn Janeway
+    voice: Kate Mulgrew

@@ -1,0 +1,31 @@
+name: "Night at the Museum: Battle of the Smithsonian"
+series: Night at the Museum
+description: >
+  Larry Daley travels to the Smithsonian after his museum friends are shipped to
+  storage and the Egyptian ruler Kahmunrah tries to seize the tablet.
+previous: Movies/2006/Night at the Museum
+released: 2009-05-22
+rating: PG
+length: 1h45m
+genres:
+  - adventure
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Night_at_the_Museum:_Battle_of_the_Smithsonian
+imdb: https://www.imdb.com/title/tt1078912
+directors: Shawn Levy
+screenplay:
+  - Robert Ben Garant
+  - Thomas Lennon
+music: Alan Silvestri
+production:
+  - 20th Century Fox
+  - 21 Laps Entertainment
+distributors: 20th Century Fox
+characters:
+  - name: Larry Daley
+    actor: Ben Stiller
+  - name: Amelia Earhart
+    actor: Amy Adams
+  - name: Kahmunrah
+    actor: Hank Azaria

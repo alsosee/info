@@ -1,0 +1,31 @@
+name: American Reunion
+series: American Pie
+description: >
+  Jim, Michelle, Stifler, and their friends return to East Great Falls for a high
+  school reunion and confront how much their lives have changed.
+previous: Movies/2003/American Wedding
+released: 2012-04-06
+rating: R
+length: 1h53m
+genres:
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/American_Reunion
+imdb: https://www.imdb.com/title/tt1605630
+directors:
+  - Jon Hurwitz
+  - Hayden Schlossberg
+screenplay:
+  - Jon Hurwitz
+  - Hayden Schlossberg
+music: Lyle Workman
+production:
+  - Universal Pictures
+  - Relativity Media
+distributors: Universal Pictures
+characters:
+  - name: Jim Levenstein
+    actor: Jason Biggs
+  - name: Michelle Flaherty
+    actor: Alyson Hannigan
+  - name: Steve Stifler
+    actor: Seann William Scott

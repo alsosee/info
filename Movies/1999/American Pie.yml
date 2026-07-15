@@ -1,0 +1,29 @@
+name: American Pie
+series: American Pie
+description: >
+  Four high school friends make a pact to lose their virginity before graduation,
+  setting off a chain of awkward romantic and sexual misadventures.
+released: 1999-07-09
+rating: R
+length: 1h35m
+genres:
+  - comedy
+  - teen
+wikipedia: https://en.wikipedia.org/wiki/American_Pie_(film)
+imdb: https://www.imdb.com/title/tt0163651
+directors:
+  - Paul Weitz
+  - Chris Weitz
+screenplay: Adam Herz
+music: David Lawrence
+production:
+  - Universal Pictures
+  - Zide/Perry Productions
+distributors: Universal Pictures
+characters:
+  - name: Jim Levenstein
+    actor: Jason Biggs
+  - name: Michelle Flaherty
+    actor: Alyson Hannigan
+  - name: Steve Stifler
+    actor: Seann William Scott

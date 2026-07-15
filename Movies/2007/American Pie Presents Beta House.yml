@@ -1,0 +1,28 @@
+name: "American Pie Presents: Beta House"
+series: American Pie
+description: >
+  Erik Stifler pledges his cousin Dwight's fraternity and becomes caught in a
+  campus rivalry with a rival house.
+previous: Movies/2006/American Pie Presents The Naked Mile
+released: 2007-12-26
+rating: R
+length: 1h28m
+genres:
+  - comedy
+  - teen
+wikipedia: https://en.wikipedia.org/wiki/American_Pie_Presents:_Beta_House
+imdb: https://www.imdb.com/title/tt0974959
+directors: Andrew Waller
+screenplay: Erik Lindsay
+music: David Lawrence
+production:
+  - Rogue Pictures
+  - Universal Pictures Home Entertainment
+distributors: Universal Studios Home Entertainment
+characters:
+  - name: Erik Stifler
+    actor: John White
+  - name: Dwight Stifler
+    actor: Steve Talley
+  - name: Noah Levenstein
+    actor: Eugene Levy

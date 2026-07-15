@@ -1,0 +1,21 @@
+name: Star Trek
+description: >
+  Captain James T. Kirk leads the USS Enterprise on a five-year mission of
+  exploration, diplomacy, and first contact across the galaxy.
+released: 1966-09-08
+rating: TV-PG
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: NBC
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series_season_1
+imdb: https://www.imdb.com/title/tt0060028
+creators: Gene Roddenberry
+characters:
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Spock
+    actor: Leonard Nimoy
+  - name: Leonard McCoy
+    actor: DeForest Kelley

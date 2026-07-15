@@ -1,0 +1,27 @@
+name: "Star Trek: Picard, Season 3"
+description: >
+  Picard reunites with former Enterprise crewmates after Beverly Crusher sends a
+  distress call tied to a conspiracy threatening Starfleet.
+previous: Series/2022/Star Trek Picard, Season 2
+released: 2023-02-16
+rating: TV-MA
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: Paramount+
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_3
+imdb: https://www.imdb.com/title/tt8806524
+tmdb: https://www.themoviedb.org/tv/85949-star-trek-picard/season/3
+creators:
+  - Akiva Goldsman
+  - Michael Chabon
+  - Kirsten Beyer
+  - Alex Kurtzman
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: William Riker
+    actor: Jonathan Frakes
+  - name: Beverly Crusher
+    actor: Gates McFadden

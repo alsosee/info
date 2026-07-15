@@ -1,0 +1,34 @@
+name: Star Trek Into Darkness
+series: Star Trek
+description: >
+  The Enterprise crew pursues a rogue Starfleet operative whose attacks expose a
+  militarized conspiracy and a dangerous figure from Starfleet's past.
+previous: Movies/2009/Star Trek
+released: 2013-05-17
+rating: PG-13
+length: 2h12m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_Into_Darkness
+imdb: https://www.imdb.com/title/tt1408101
+tmdb: https://www.themoviedb.org/movie/54138-star-trek-into-darkness
+directors: J. J. Abrams
+screenplay:
+  - Roberto Orci
+  - Alex Kurtzman
+  - Damon Lindelof
+music: Michael Giacchino
+production:
+  - Paramount Pictures
+  - Skydance Productions
+  - Bad Robot Productions
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: Chris Pine
+  - name: Spock
+    actor: Zachary Quinto
+  - name: Khan Noonien Singh
+    actor: Benedict Cumberbatch

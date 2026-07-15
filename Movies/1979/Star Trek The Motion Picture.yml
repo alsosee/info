@@ -1,0 +1,29 @@
+name: "Star Trek: The Motion Picture"
+series: Star Trek
+description: >
+  Admiral James T. Kirk reunites the Enterprise crew when a vast alien cloud
+  called V'Ger approaches Earth, forcing Starfleet to confront a threat tied to
+  humanity's own spacefaring past.
+released: 1979-12-07
+rating: G
+length: 2h12m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture
+imdb: https://www.imdb.com/title/tt0079945
+tmdb: https://www.themoviedb.org/movie/152-star-trek-the-motion-picture
+directors: Robert Wise
+screenplay: Harold Livingston
+music: Jerry Goldsmith
+production:
+  - Paramount Pictures
+  - Century Associates
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Spock
+    actor: Leonard Nimoy
+  - name: Leonard McCoy
+    actor: DeForest Kelley

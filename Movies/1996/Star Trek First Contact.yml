@@ -1,0 +1,31 @@
+name: "Star Trek: First Contact"
+series: Star Trek
+description: >
+  The Enterprise-E follows the Borg back to the 21st century, where Picard and
+  his crew must protect the first warp flight that leads to humanity's first
+  contact with Vulcans.
+previous: Movies/1994/Star Trek Generations
+released: 1996-11-22
+rating: PG-13
+length: 1h51m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_First_Contact
+imdb: https://www.imdb.com/title/tt0117731
+tmdb: https://www.themoviedb.org/movie/199-star-trek-first-contact
+directors: Jonathan Frakes
+screenplay:
+  - Brannon Braga
+  - Ronald D. Moore
+music: Jerry Goldsmith
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: William Riker
+    actor: Jonathan Frakes
+  - name: Borg Queen
+    actor: Alice Krige

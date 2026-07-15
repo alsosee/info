@@ -1,0 +1,23 @@
+name: "Star Trek: Enterprise"
+description: >
+  Captain Jonathan Archer commands Earth's first warp-five starship in a prequel
+  era before the founding of the United Federation of Planets.
+released: 2001-09-26
+rating: TV-PG
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: UPN
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Enterprise_season_1
+imdb: https://www.imdb.com/title/tt0244365
+creators:
+  - Rick Berman
+  - Brannon Braga
+characters:
+  - name: Jonathan Archer
+    actor: Scott Bakula
+  - name: T'Pol
+    actor: Jolene Blalock
+  - name: Charles Tucker III
+    actor: Connor Trinneer

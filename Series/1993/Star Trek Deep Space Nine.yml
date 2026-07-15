@@ -1,0 +1,24 @@
+name: "Star Trek: Deep Space Nine"
+description: >
+  Commander Benjamin Sisko takes command of a Federation-administered space
+  station near Bajor and a stable wormhole, placing Starfleet at the center of
+  religious, political, and interstellar conflict.
+released: 1993-01-03
+rating: TV-PG
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: Syndication
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine_season_1
+imdb: https://www.imdb.com/title/tt0106145
+creators:
+  - Rick Berman
+  - Michael Piller
+characters:
+  - name: Benjamin Sisko
+    actor: Avery Brooks
+  - name: Kira Nerys
+    actor: Nana Visitor
+  - name: Odo
+    actor: René Auberjonois

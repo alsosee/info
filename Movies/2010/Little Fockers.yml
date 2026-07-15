@@ -1,0 +1,29 @@
+name: Little Fockers
+series: Meet the Parents
+description: >
+  Greg tries to prove himself as the family's future patriarch while Jack's
+  suspicions return during preparations for the twins' birthday party.
+previous: Movies/2004/Meet the Fockers
+released: 2010-12-22
+rating: PG-13
+length: 1h38m
+genres:
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Little_Fockers
+imdb: https://www.imdb.com/title/tt0970866
+directors: Paul Weitz
+screenplay:
+  - John Hamburg
+  - Larry Stuckey
+music: Stephen Trask
+production:
+  - Universal Pictures
+  - Tribeca Productions
+distributors: Universal Pictures
+characters:
+  - name: Greg Focker
+    actor: Ben Stiller
+  - name: Jack Byrnes
+    actor: Robert De Niro
+  - name: Pam Focker
+    actor: Teri Polo

@@ -1,0 +1,31 @@
+name: "Night at the Museum: Kahmunrah Rises Again"
+series: Night at the Museum
+description: >
+  Nick Daley becomes the museum's new night guard and must stop Kahmunrah after
+  the ancient ruler returns with another plan for conquest.
+previous: Movies/2014/Night at the Museum Secret of the Tomb
+released: 2022-12-09
+rating: PG
+length: 1h17m
+genres:
+  - animation
+  - adventure
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Night_at_the_Museum:_Kahmunrah_Rises_Again
+imdb: https://www.imdb.com/title/tt13623880
+directors: Matt Danner
+screenplay:
+  - Ray DeLaurentis
+  - William Schifrin
+music: John Paesano
+production:
+  - 20th Century Animation
+  - 21 Laps Entertainment
+distributors: Disney+
+characters:
+  - name: Nick Daley
+    voice: Joshua Bassett
+  - name: Larry Daley
+    voice: Zachary Levi
+  - name: Kahmunrah
+    voice: Joseph Kamal

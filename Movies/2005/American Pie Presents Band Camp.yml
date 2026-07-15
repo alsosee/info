@@ -1,0 +1,26 @@
+name: "American Pie Presents: Band Camp"
+series: American Pie
+description: >
+  Matt Stifler is sent to band camp as punishment, where his attempts to imitate
+  his older brother force him to reconsider how he treats other people.
+previous: Movies/2003/American Wedding
+released: 2005-12-26
+rating: R
+length: 1h34m
+genres:
+  - comedy
+  - teen
+wikipedia: https://en.wikipedia.org/wiki/American_Pie_Presents:_Band_Camp
+imdb: https://www.imdb.com/title/tt0436058
+directors: Steve Rash
+screenplay: Brad Riddell
+music: Robert Folk
+production:
+  - Rogue Pictures
+  - Universal Pictures Home Entertainment
+distributors: Universal Studios Home Entertainment
+characters:
+  - name: Matt Stifler
+    actor: Tad Hilgenbrink
+  - name: Noah Levenstein
+    actor: Eugene Levy

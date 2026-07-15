@@ -1,0 +1,29 @@
+name: Star Trek Generations
+series: Star Trek
+description: >
+  Captain Jean-Luc Picard and Captain James T. Kirk are drawn into the mystery of
+  the Nexus while a desperate scientist threatens a populated star system.
+previous: Movies/1991/Star Trek VI The Undiscovered Country
+released: 1994-11-18
+rating: PG
+length: 1h58m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_Generations
+imdb: https://www.imdb.com/title/tt0111280
+tmdb: https://www.themoviedb.org/movie/193-star-trek-generations
+directors: David Carson
+screenplay:
+  - Ronald D. Moore
+  - Brannon Braga
+music: Dennis McCarthy
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Tolian Soran
+    actor: Malcolm McDowell

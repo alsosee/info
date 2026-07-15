@@ -1,0 +1,30 @@
+name: "Austin Powers: The Spy Who Shagged Me"
+series: Austin Powers
+description: >
+  Dr. Evil travels back to 1969 to steal Austin Powers' mojo, sending Austin into
+  the past with CIA agent Felicity Shagwell to stop him.
+previous: Movies/1997/Austin Powers International Man of Mystery
+released: 1999-06-11
+rating: PG-13
+length: 1h35m
+genres:
+  - comedy
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Austin_Powers:_The_Spy_Who_Shagged_Me
+imdb: https://www.imdb.com/title/tt0145660
+directors: Jay Roach
+screenplay:
+  - Mike Myers
+  - Michael McCullers
+music: George S. Clinton
+production:
+  - New Line Cinema
+  - Eric's Boy
+distributors: New Line Cinema
+characters:
+  - name: Austin Powers
+    actor: Mike Myers
+  - name: Dr. Evil
+    actor: Mike Myers
+  - name: Felicity Shagwell
+    actor: Heather Graham

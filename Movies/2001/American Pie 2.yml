@@ -1,0 +1,28 @@
+name: American Pie 2
+series: American Pie
+description: >
+  The friends reunite after their first year of college for a summer at a beach
+  house, hoping to recapture their old bond while navigating new relationships.
+previous: Movies/1999/American Pie
+released: 2001-08-10
+rating: R
+length: 1h48m
+genres:
+  - comedy
+  - teen
+wikipedia: https://en.wikipedia.org/wiki/American_Pie_2
+imdb: https://www.imdb.com/title/tt0252866
+directors: J. B. Rogers
+screenplay: Adam Herz
+music: David Lawrence
+production:
+  - Universal Pictures
+  - Zide/Perry Productions
+distributors: Universal Pictures
+characters:
+  - name: Jim Levenstein
+    actor: Jason Biggs
+  - name: Michelle Flaherty
+    actor: Alyson Hannigan
+  - name: Steve Stifler
+    actor: Seann William Scott

@@ -1,0 +1,32 @@
+name: National Treasure
+series: National Treasure
+description: >
+  Historian Benjamin Franklin Gates races to find a treasure hidden by the
+  Founding Fathers, following clues that lead him to the Declaration of
+  Independence.
+released: 2004-11-19
+rating: PG
+length: 2h11m
+genres:
+  - adventure
+  - action
+  - mystery
+wikipedia: https://en.wikipedia.org/wiki/National_Treasure_(film)
+imdb: https://www.imdb.com/title/tt0368891
+directors: Jon Turteltaub
+screenplay:
+  - Jim Kouf
+  - Cormac Wibberley
+  - Marianne Wibberley
+music: Trevor Rabin
+production:
+  - Walt Disney Pictures
+  - Jerry Bruckheimer Films
+distributors: Buena Vista Pictures
+characters:
+  - name: Benjamin Franklin Gates
+    actor: Nicolas Cage
+  - name: Abigail Chase
+    actor: Diane Kruger
+  - name: Riley Poole
+    actor: Justin Bartha

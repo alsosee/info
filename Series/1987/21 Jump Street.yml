@@ -1,0 +1,23 @@
+name: 21 Jump Street
+description: >
+  Young-looking police officers work undercover in high schools and colleges,
+  investigating crimes involving teenagers while dealing with the pressure of
+  youth culture from the inside.
+released: 1987-04-12
+rating: TV-14
+genres:
+  - crime
+  - drama
+network: Fox
+wikipedia: https://en.wikipedia.org/wiki/21_Jump_Street
+imdb: https://www.imdb.com/title/tt0092312
+creators:
+  - Patrick Hasburgh
+  - Stephen J. Cannell
+characters:
+  - name: Tom Hanson
+    actor: Johnny Depp
+  - name: Judy Hoffs
+    actor: Holly Robinson
+  - name: Doug Penhall
+    actor: Peter DeLuise

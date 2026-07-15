@@ -1,0 +1,22 @@
+name: "Star Trek: The Next Generation"
+description: >
+  Set nearly a century after the original series, Captain Jean-Luc Picard and the
+  USS Enterprise-D crew explore the galaxy while confronting new political,
+  ethical, and scientific challenges.
+released: 1987-09-28
+rating: TV-PG
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: Syndication
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation_season_1
+imdb: https://www.imdb.com/title/tt0092455
+creators: Gene Roddenberry
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: William Riker
+    actor: Jonathan Frakes
+  - name: Data
+    actor: Brent Spiner

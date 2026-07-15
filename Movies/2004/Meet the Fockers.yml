@@ -1,0 +1,29 @@
+name: Meet the Fockers
+series: Meet the Parents
+description: >
+  Greg introduces Jack and Dina Byrnes to his free-spirited parents, turning a
+  family visit into a clash of temperaments, secrets, and expectations.
+previous: Movies/2000/Meet the Parents
+released: 2004-12-22
+rating: PG-13
+length: 1h55m
+genres:
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Meet_the_Fockers
+imdb: https://www.imdb.com/title/tt0290002
+directors: Jay Roach
+screenplay:
+  - Jim Herzfeld
+  - John Hamburg
+music: Randy Newman
+production:
+  - Universal Pictures
+  - Tribeca Productions
+distributors: Universal Pictures
+characters:
+  - name: Greg Focker
+    actor: Ben Stiller
+  - name: Jack Byrnes
+    actor: Robert De Niro
+  - name: Bernie Focker
+    actor: Dustin Hoffman

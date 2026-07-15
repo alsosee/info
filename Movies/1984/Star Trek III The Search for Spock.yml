@@ -1,0 +1,27 @@
+name: "Star Trek III: The Search for Spock"
+series: Star Trek
+description: >
+  Kirk and his crew defy Starfleet orders to recover Spock's body from the
+  Genesis planet after learning that his living spirit may still survive.
+previous: Movies/1982/Star Trek II The Wrath of Khan
+released: 1984-06-01
+rating: PG
+length: 1h45m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_III:_The_Search_for_Spock
+imdb: https://www.imdb.com/title/tt0088170
+tmdb: https://www.themoviedb.org/movie/157-star-trek-iii-the-search-for-spock
+directors: Leonard Nimoy
+screenplay: Harve Bennett
+music: James Horner
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Spock
+    actor: Leonard Nimoy
+  - name: Kruge
+    actor: Christopher Lloyd

@@ -1,0 +1,28 @@
+name: "Star Trek: Insurrection"
+series: Star Trek
+description: >
+  Picard and the Enterprise crew rebel against Starfleet orders after discovering
+  a covert plan to relocate a peaceful people from a planet with rejuvenating
+  properties.
+previous: Movies/1996/Star Trek First Contact
+released: 1998-12-11
+rating: PG
+length: 1h43m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Insurrection
+imdb: https://www.imdb.com/title/tt0120844
+tmdb: https://www.themoviedb.org/movie/200-star-trek-insurrection
+directors: Jonathan Frakes
+screenplay: Michael Piller
+music: Jerry Goldsmith
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: Anij
+    actor: Donna Murphy
+  - name: Ahdar Ru'afo
+    actor: F. Murray Abraham

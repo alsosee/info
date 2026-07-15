@@ -1,0 +1,37 @@
+name: 22 Jump Street
+series: 21 Jump Street
+description: >
+  Schmidt and Jenko go undercover at a college to investigate another synthetic
+  drug case, straining their partnership as campus life pulls them in different
+  directions.
+based_on: Series/1987/21 Jump Street
+previous: Movies/2012/21 Jump Street
+released: 2014-06-13
+rating: R
+length: 1h52m
+genres:
+  - comedy
+  - action
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/22_Jump_Street
+imdb: https://www.imdb.com/title/tt2294449
+directors:
+  - Phil Lord
+  - Christopher Miller
+screenplay:
+  - Michael Bacall
+  - Oren Uziel
+  - Rodney Rothman
+music: Mark Mothersbaugh
+production:
+  - Columbia Pictures
+  - Metro-Goldwyn-Mayer
+  - Original Film
+distributors: Sony Pictures Releasing
+characters:
+  - name: Morton Schmidt
+    actor: Jonah Hill
+  - name: Greg Jenko
+    actor: Channing Tatum
+  - name: Captain Dickson
+    actor: Ice Cube

@@ -1,0 +1,26 @@
+name: TRON
+series: TRON
+description: >
+  Computer programmer Kevin Flynn is transported inside a digital world where
+  programs fight under the control of the Master Control Program.
+released: 1982-07-09
+rating: PG
+length: 1h36m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Tron
+imdb: https://www.imdb.com/title/tt0084827
+directors: Steven Lisberger
+screenplay: Steven Lisberger
+music: Wendy Carlos
+production: Walt Disney Productions
+distributors: Buena Vista Distribution
+characters:
+  - name: Kevin Flynn
+    actor: Jeff Bridges
+  - name: Tron
+    actor: Bruce Boxleitner
+  - name: Lora Baines
+    actor: Cindy Morgan

@@ -1,0 +1,27 @@
+name: American Wedding
+series: American Pie
+description: >
+  Jim and Michelle prepare for their wedding while Stifler, Finch, and the rest
+  of the group turn the celebration into another round of escalating chaos.
+previous: Movies/2001/American Pie 2
+released: 2003-08-01
+rating: R
+length: 1h36m
+genres:
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/American_Wedding
+imdb: https://www.imdb.com/title/tt0328828
+directors: Jesse Dylan
+screenplay: Adam Herz
+music: Christophe Beck
+production:
+  - Universal Pictures
+  - Zide/Perry Productions
+distributors: Universal Pictures
+characters:
+  - name: Jim Levenstein
+    actor: Jason Biggs
+  - name: Michelle Flaherty
+    actor: Alyson Hannigan
+  - name: Steve Stifler
+    actor: Seann William Scott

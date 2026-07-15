@@ -1,0 +1,27 @@
+name: "Star Trek II: The Wrath of Khan"
+series: Star Trek
+description: >
+  Admiral Kirk faces Khan Noonien Singh, an old enemy who escapes exile and
+  seizes an experimental device with the power to create or destroy worlds.
+previous: Movies/1979/Star Trek The Motion Picture
+released: 1982-06-04
+rating: PG
+length: 1h53m
+genres:
+  - science fiction
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_II:_The_Wrath_of_Khan
+imdb: https://www.imdb.com/title/tt0084726
+tmdb: https://www.themoviedb.org/movie/154-star-trek-ii-the-wrath-of-khan
+directors: Nicholas Meyer
+screenplay: Jack B. Sowards
+music: James Horner
+production: Paramount Pictures
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: William Shatner
+  - name: Spock
+    actor: Leonard Nimoy
+  - name: Khan Noonien Singh
+    actor: Ricardo Montalbán

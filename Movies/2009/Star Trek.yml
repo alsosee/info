@@ -1,0 +1,33 @@
+name: Star Trek
+series: Star Trek
+description: >
+  A Romulan attack creates an alternate timeline where a young James T. Kirk,
+  Spock, and the Enterprise crew come together earlier than expected to stop a
+  threat to the Federation.
+released: 2009-05-08
+rating: PG-13
+length: 2h7m
+genres:
+  - science fiction
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_(film)
+imdb: https://www.imdb.com/title/tt0796366
+tmdb: https://www.themoviedb.org/movie/13475-star-trek
+directors: J. J. Abrams
+screenplay:
+  - Roberto Orci
+  - Alex Kurtzman
+music: Michael Giacchino
+production:
+  - Paramount Pictures
+  - Spyglass Entertainment
+  - Bad Robot Productions
+distributors: Paramount Pictures
+characters:
+  - name: James T. Kirk
+    actor: Chris Pine
+  - name: Spock
+    actor: Zachary Quinto
+  - name: Nero
+    actor: Eric Bana

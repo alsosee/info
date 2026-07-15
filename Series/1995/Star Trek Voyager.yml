@@ -1,0 +1,25 @@
+name: "Star Trek: Voyager"
+description: >
+  Captain Kathryn Janeway leads the USS Voyager after it is stranded in the
+  Delta Quadrant, far from Federation space and forced to make a long journey
+  home.
+released: 1995-01-16
+rating: TV-PG
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: UPN
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Voyager_season_1
+imdb: https://www.imdb.com/title/tt0112178
+creators:
+  - Rick Berman
+  - Michael Piller
+  - Jeri Taylor
+characters:
+  - name: Kathryn Janeway
+    actor: Kate Mulgrew
+  - name: Chakotay
+    actor: Robert Beltran
+  - name: Tuvok
+    actor: Tim Russ

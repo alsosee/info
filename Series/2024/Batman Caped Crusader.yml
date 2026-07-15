@@ -1,0 +1,176 @@
+name: "Batman: Caped Crusader"
+description: >
+  Set in a 1940s-inspired Gotham City, the series follows a young Bruce Wayne
+  early in his career as Batman as his fight against organized crime and
+  corruption draws in allies, enemies, and dangerous consequences.
+released: 2024-08-01
+rating: TV-14
+genres:
+  - animation
+  - superhero
+  - detective
+  - noir
+network: Amazon Prime Video
+wikipedia: https://en.wikipedia.org/wiki/Batman%3A_Caped_Crusader
+imdb: https://www.imdb.com/title/tt14681596
+rotten_tomatoes: https://www.rottentomatoes.com/tv/batman_caped_crusader
+prime_video: https://www.primevideo.com/detail/0LNIBWJBQOUDUHI58KYUJ92R5T
+trailer: https://www.youtube.com/watch?v=3AyMV8HKgCs
+fandom: https://batman-caped-crusader.fandom.com/wiki/Batman:_Caped_Crusader
+creators: Bruce Timm
+showrunners:
+  - Bruce Timm
+  - James Tucker
+writers:
+  - Bruce Timm
+  - Ed Brubaker
+  - Jase Ricci
+  - Greg Rucka
+  - Adamma Ebo
+  - Adanne Ebo
+  - Halley Gross
+  - Marc Bernardin
+producers:
+  - Bruce Timm
+  - J. J. Abrams
+  - Matt Reeves
+  - Ed Brubaker
+  - James Tucker
+  - Daniel Pipski
+  - Rachel Rusch Rich
+  - Sam Register
+music: Frederik Wiedmann
+editors: Marc Stone
+production:
+  - Bad Robot Productions
+  - 6th & Idaho Motion Picture Company
+  - DC Entertainment
+  - Warner Bros. Animation
+  - Amazon MGM Studios
+characters:
+  - name: Bruce Wayne / Batman
+    voice: Hamish Linklater
+  - name: Alfred Pennyworth
+    voice: Jason Watkins
+  - name: James "Jim" Gordon
+    voice: Eric Morgan Stuart
+  - name: Barbara Gordon
+    voice: Krystal Joy Brown
+  - name: Harvey Bullock
+    voice: John DiMaggio
+  - name: Arnold Flass
+    voice: Gary Anthony Williams
+  - name: Renee Montoya
+    voice: Michelle C. Bonilla
+  - name: Harvey Dent / Two-Face
+    voice: Diedrich Bader
+  - name: Rupert Thorne
+    voice: Cedric Yarbrough
+  - name: Lucius Fox
+    voice: Bumper Robinson
+  - name: Dr. Harleen Quinzel / Harley Quinn
+    voice: Jamie Chung
+  - name: Selina Kyle / Catwoman
+    voice: Christina Ricci
+  - name: Oswalda Cobblepot / Penguin
+    voice: Minnie Driver
+  - name: Basil Karlo / Clayface
+    voice: Dan Donohue
+  - name: Jim Craddock / Gentleman Ghost
+    voice: Toby Stephens
+  - name: Onomatopoeia
+    voice: Reid Scott
+  - name: Natalia Night / Nocturna
+    voice: Mckenna Grace
+episodes:
+  - name: In Treacherous Waters
+    description: >
+      Explosions across Gotham pull Batman into a mob conflict between Rupert
+      Thorne and the Penguin while Jim and Barbara Gordon push for reform from
+      inside the justice system.
+    released: 2024-08-01
+    length: 25m
+    directors: Christina Sotta
+    story:
+      - Jase Ricci
+      - Bruce Timm
+    teleplay: Jase Ricci
+  - name: "...And Be a Villain"
+    description: >
+      Batman and Detective Montoya investigate a missing movie star and a
+      strange threat haunting Gotham's film studios.
+    released: 2024-08-01
+    length: 26m
+    directors: Matt Peters
+    writers: Greg Rucka
+  - name: Kiss of the Catwoman
+    description: >
+      Selina Kyle turns to jewel theft as Catwoman, drawing Batman's attention
+      while Bruce Wayne faces pressure to confront his own anger.
+    released: 2024-08-01
+    length: 26m
+    directors: Christopher Berkeley
+    story:
+      - Ed Brubaker
+      - Bruce Timm
+    teleplay:
+      - Adamma Ebo
+      - Adanne Ebo
+  - name: The Night of the Hunters
+    description: >
+      Mayor Jessop creates a task force to capture Batman, and corrupt
+      detectives Bullock and Flass use Firebug as bait for their trap.
+    released: 2024-08-01
+    length: 26m
+    directors: Christina Sotta
+    writers: Ed Brubaker
+  - name: The Stress of Her Regard
+    description: >
+      Barbara suspects Dr. Harleen Quinzel may be connected to the abductions
+      of wealthy Gotham men whose fortunes have suddenly vanished.
+    released: 2024-08-01
+    length: 26m
+    directors: Matt Peters
+    writers: Halley Gross
+  - name: Night Ride
+    description: >
+      Batman investigates a spectral robber on horseback as Harvey Dent weighs
+      a campaign donation from a dangerous source.
+    released: 2024-08-01
+    length: 25m
+    directors: Christopher Berkeley
+    writers: Marc Bernardin
+  - name: Moving Target
+    description: >
+      After an attempt on Commissioner Gordon's life, Montoya protects him
+      while Batman searches for the person who ordered the hit.
+    released: 2024-08-01
+    length: 24m
+    directors: Christina Sotta
+    writers:
+      - Adamma Ebo
+      - Adanne Ebo
+  - name: Nocturne
+    description: >
+      Batman looks into missing children at a Harvey Dent campaign carnival and
+      uncovers a dangerous mystery beneath the event.
+    released: 2024-08-01
+    length: 26m
+    directors: Matt Peters
+    writers: Halley Gross
+  - name: The Killer Inside Me
+    description: >
+      Harvey Dent struggles with the aftermath of an attack as Batman and Bruce
+      Wayne try to stop his search for revenge from consuming him.
+    released: 2024-08-01
+    length: 25m
+    directors: Christopher Berkeley
+    writers: Jase Ricci
+  - name: Savage Night
+    description: >
+      Barbara Gordon and Batman work to protect Harvey Dent long enough for him
+      to testify as Gotham's criminals and corrupt officers close in.
+    released: 2024-08-01
+    length: 26m
+    directors: Christina Sotta
+    writers: Ed Brubaker

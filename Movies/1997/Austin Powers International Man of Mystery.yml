@@ -1,0 +1,27 @@
+name: "Austin Powers: International Man of Mystery"
+series: Austin Powers
+description: >
+  Swinging 1960s spy Austin Powers is revived in the 1990s to stop his old enemy
+  Dr. Evil, whose schemes and sensibilities are just as outdated as Austin's.
+released: 1997-05-02
+rating: PG-13
+length: 1h29m
+genres:
+  - comedy
+  - spy
+wikipedia: https://en.wikipedia.org/wiki/Austin_Powers:_International_Man_of_Mystery
+imdb: https://www.imdb.com/title/tt0118655
+directors: Jay Roach
+screenplay: Mike Myers
+music: George S. Clinton
+production:
+  - New Line Cinema
+  - Capella International
+distributors: New Line Cinema
+characters:
+  - name: Austin Powers
+    actor: Mike Myers
+  - name: Dr. Evil
+    actor: Mike Myers
+  - name: Vanessa Kensington
+    actor: Elizabeth Hurley
