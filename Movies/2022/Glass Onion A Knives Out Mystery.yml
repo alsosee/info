@@ -1,8 +1,10 @@
 name: "Glass Onion: A Knives Out Mystery"
+series: Knives Out
 description: >
   Tech billionaire Miles Bron invites his friends for a getaway on his private Greek island.
   When someone turns up dead, Detective Benoit Blanc is put on the case.
 rating: PG-13
+previous: Movies/2019/Knives Out
 genres:
   - comedy
   - crime
