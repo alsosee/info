@@ -1,2 +1,44 @@
+name: Bullitt
+description: >
+  San Francisco police lieutenant Frank Bullitt is assigned to protect a mob
+  witness, then investigates the conspiracy surrounding the case after the
+  assignment goes wrong.
+released: 1968-10-17
+rating: PG
+length: 1h53m
+genres:
+  - crime
+  - thriller
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Bullitt
+imdb: https://www.imdb.com/title/tt0062765
+tmdb: https://www.themoviedb.org/movie/916-bullitt
+rotten_tomatoes: https://www.rottentomatoes.com/m/bullitt
+metacritic: https://www.metacritic.com/movie/bullitt
+directors: Peter Yates
+producers: Philip D'Antoni
+screenplay:
+  - Alan R. Trustman
+  - Harry Kleiner
+music: Lalo Schifrin
+cinematography: William A. Fraker
+editors: Frank P. Keller
+production: Solar Productions
+distributors: Warner Bros.-Seven Arts
 references:
-  - Transport/1968 Ford Mustang GT.yml
+  - Transport/1968 Ford Mustang GT
+characters:
+  - name: Frank Bullitt
+    actor: Steve McQueen
+  - name: Walter Chalmers
+    actor: Robert Vaughn
+  - name: Cathy
+    actor: Jacqueline Bisset
+  - name: Delgetti
+    actor: Don Gordon
+  - name: Weissberg
+    actor: Robert Duvall
+  - name: Captain Bennett
+    actor: Simon Oakland
+  - name: Captain Baker
+    actor: Norman Fell

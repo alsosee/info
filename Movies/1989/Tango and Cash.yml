@@ -1,0 +1,46 @@
+name: "Tango & Cash"
+description: >
+  Rival Los Angeles police detectives Ray Tango and Gabriel Cash are framed by
+  a crime lord and must break out of prison to clear their names and bring him
+  down.
+released: 1989-12-22
+rating: R
+length: 1h44m
+genres:
+  - buddy cop
+  - action
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Tango_%26_Cash
+imdb: https://www.imdb.com/title/tt0098439
+tmdb: https://www.themoviedb.org/movie/9618-tango-cash
+rotten_tomatoes: https://www.rottentomatoes.com/m/tango_and_cash
+metacritic: https://www.metacritic.com/movie/tango-cash
+directors:
+  - Andrei Konchalovsky
+  - Albert Magnoli
+producers:
+  - Jon Peters
+  - Peter Guber
+screenplay: Randy Feldman
+music: Harold Faltermeyer
+cinematography: Donald E. Thorin
+editors:
+  - Hubert C. de la Bouillerie
+  - Robert A. Ferretti
+production: The Guber-Peters Company
+distributors: Warner Bros.
+characters:
+  - name: Raymond Tango
+    actor: Sylvester Stallone
+  - name: Gabriel Cash
+    actor: Kurt Russell
+  - name: Yves Perret
+    actor: Jack Palance
+  - name: Katherine "Kiki" Tango
+    actor: Teri Hatcher
+  - name: Requin
+    actor: Brion James
+  - name: Quan
+    actor: James Hong
+  - name: Owen
+    actor: Michael J. Pollard
