@@ -35,3 +35,108 @@ characters:
     actor: David Oyelowo
   - name: Allison Becker
     actor: Rashida Jones
+episodes:
+  - name: Freedom Day
+    description: >
+      Sheriff Becker's plans for the future are thrown off course after his wife
+      meets a hacker with information about the silo.
+    released: 2023-05-05
+    length: 59m
+    imdb: https://www.imdb.com/title/tt14693272/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#Freedom_Day
+    directors: Morten Tyldum
+    writers: Graham Yost
+  - name: Holston's Pick
+    description: >
+      Juliette pieces together what might have led to a co-worker's mysterious
+      death as Holston follows Allison's final clues.
+    released: 2023-05-05
+    length: 48m
+    imdb: https://www.imdb.com/title/tt17057038/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#Holston's_Pick
+    directors: Morten Tyldum
+    writers:
+      - Jessica Blaire
+      - Cassie Pappas
+  - name: Machines
+    description: >
+      Mayor Jahns clashes with Bernard while Juliette negotiates a dangerous
+      generator shutdown in Mechanical.
+    released: 2023-05-12
+    length: 1h2m
+    imdb: https://www.imdb.com/title/tt17057042/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#Machines
+    directors: Morten Tyldum
+    writers: Ingrid Escajeda
+  - name: Truth
+    description: >
+      Juliette tries to gain Deputy Marnes's trust as they investigate recent
+      deaths and the forces moving against her new role.
+    released: 2023-05-19
+    length: 45m
+    imdb: https://www.imdb.com/title/tt16091606/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#Truth
+    directors: David Semel
+    writers: Remi Aubuchon
+  - name: The Janitor's Boy
+    description: >
+      Sims appoints Billings as chief deputy while Juliette's search for the
+      truth behind two murders puts her at odds with Judicial.
+    released: 2023-05-26
+    length: 51m
+    imdb: https://www.imdb.com/title/tt17073696/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#The_Janitor's_Boy
+    directors: David Semel
+    writers: Graham Yost
+  - name: The Relic
+    description: >
+      Juliette uses a forbidden relic to follow George's trail and uncover
+      disturbing secrets about someone she thought she knew.
+    released: 2023-06-02
+    length: 51m
+    imdb: https://www.imdb.com/title/tt18078232/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#The_Relic
+    directors: Bert & Bertie
+    writers: Aric Avelino
+  - name: The Flamekeepers
+    description: >
+      Juliette seeks out Gloria and learns about a hidden group dedicated to
+      preserving the silo's forbidden past.
+    released: 2023-06-09
+    length: 47m
+    imdb: https://www.imdb.com/title/tt19782800/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#The_Flamekeepers
+    directors: Bert & Bertie
+    writers: Jessica Blaire
+  - name: Hanna
+    description: >
+      Juliette searches for a way to access George's hard drive while her
+      mother's past reveals more about the silo's hidden controls.
+    released: 2023-06-16
+    length: 43m
+    imdb: https://www.imdb.com/title/tt19782808/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#Hanna
+    directors: Adam Bernstein
+    writers:
+      - Jeffery Wang
+      - Ingrid Escajeda
+  - name: The Getaway
+    description: >
+      Juliette evades Judicial surveillance and turns to Patrick and Danny for
+      help accessing the secrets on George's hard drive.
+    released: 2023-06-23
+    length: 44m
+    imdb: https://www.imdb.com/title/tt19782850/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#The_Getaway
+    directors: Adam Bernstein
+    writers: Lekethia Dalcoe
+  - name: Outside
+    description: >
+      Bernard pushes Juliette toward a cleaning as she prepares to test what the
+      silo believes about the world beyond its walls.
+    released: 2023-06-30
+    length: 45m
+    imdb: https://www.imdb.com/title/tt19782854/
+    wikipedia: https://en.wikipedia.org/wiki/Silo_(TV_series)#Outside
+    directors: Adam Bernstein
+    writers: Fred Golan
