@@ -1,0 +1,34 @@
+name: "Mortal Kombat Annihilation"
+series: Mortal Kombat
+description: >
+  Earth's champions have only days to stop Shao Kahn after he breaks the rules of
+  Mortal Kombat and begins merging Outworld with Earthrealm.
+previous: Movies/1995/Mortal Kombat
+released: 1997-11-21
+rating: PG-13
+length: 1h35m
+genres:
+  - martial arts
+  - fantasy
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Mortal_Kombat_Annihilation
+imdb: https://www.imdb.com/title/tt0119707
+tmdb: https://www.themoviedb.org/movie/9823-mortal-kombat-annihilation
+directors: John R. Leonetti
+screenplay:
+  - Brent V. Friedman
+  - Bryce Zabel
+music: George S. Clinton
+production:
+  - New Line Cinema
+  - Threshold Entertainment
+distributors: New Line Cinema
+characters:
+  - name: Liu Kang
+    actor: Robin Shou
+  - name: Sonya Blade
+    actor: Sandra Hess
+  - name: Lord Rayden
+    actor: James Remar
+  - name: Shao Kahn
+    actor: Brian Thompson

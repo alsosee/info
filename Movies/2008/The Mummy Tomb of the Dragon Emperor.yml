@@ -1,0 +1,35 @@
+name: "The Mummy: Tomb of the Dragon Emperor"
+series: The Mummy
+description: >
+  Rick and Evelyn O'Connell travel to China after their son helps awaken a cursed
+  emperor who seeks to raise his terracotta army and regain immortality.
+previous: Movies/2001/The Mummy Returns
+released: 2008-08-01
+rating: PG-13
+length: 1h52m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Mummy:_Tomb_of_the_Dragon_Emperor
+imdb: https://www.imdb.com/title/tt0859163
+tmdb: https://www.themoviedb.org/movie/1735-the-mummy-tomb-of-the-dragon-emperor
+directors: Rob Cohen
+screenplay:
+  - Alfred Gough
+  - Miles Millar
+music: Randy Edelman
+production:
+  - Universal Pictures
+  - Relativity Media
+  - Alphaville Films
+distributors: Universal Pictures
+characters:
+  - name: Rick O'Connell
+    actor: Brendan Fraser
+  - name: Evelyn O'Connell
+    actor: Maria Bello
+  - name: Alex O'Connell
+    actor: Luke Ford
+  - name: Emperor Han
+    actor: Jet Li

@@ -1,0 +1,38 @@
+name: "Underworld: Awakening"
+series: Underworld
+description: >
+  Selene awakens after years of captivity to a world where humans have discovered
+  vampires and Lycans and are attempting to eradicate both species.
+previous: Movies/2009/Underworld Rise of the Lycans
+released: 2012-01-20
+rating: R
+length: 1h28m
+genres:
+  - action
+  - horror
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Underworld:_Awakening
+imdb: https://www.imdb.com/title/tt1496025
+tmdb: https://www.themoviedb.org/movie/52520-underworld-awakening
+directors:
+  - Måns Mårlind
+  - Björn Stein
+screenplay:
+  - Len Wiseman
+  - John Hlavin
+  - J. Michael Straczynski
+  - Allison Burnett
+music: Paul Haslinger
+production:
+  - Lakeshore Entertainment
+  - Screen Gems
+distributors: Screen Gems
+characters:
+  - name: Selene
+    actor: Kate Beckinsale
+  - name: David
+    actor: Theo James
+  - name: Eve
+    actor: India Eisley
+  - name: Dr. Jacob Lane
+    actor: Stephen Rea

@@ -1,0 +1,37 @@
+name: The Mummy
+series: The Mummy
+description: >
+  A soldier of fortune accidentally releases Princess Ahmanet, an ancient
+  Egyptian royal whose curse draws him into a hidden world of monsters and secret
+  organizations.
+released: 2017-06-09
+rating: PG-13
+length: 1h50m
+genres:
+  - action
+  - adventure
+  - fantasy
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/The_Mummy_(2017_film)
+imdb: https://www.imdb.com/title/tt2345759
+tmdb: https://www.themoviedb.org/movie/282035-the-mummy
+directors: Alex Kurtzman
+screenplay:
+  - David Koepp
+  - Christopher McQuarrie
+  - Dylan Kussman
+music: Brian Tyler
+production:
+  - Universal Pictures
+  - Perfect World Pictures
+  - Secret Hideout
+distributors: Universal Pictures
+characters:
+  - name: Nick Morton
+    actor: Tom Cruise
+  - name: Princess Ahmanet
+    actor: Sofia Boutella
+  - name: Jenny Halsey
+    actor: Annabelle Wallis
+  - name: Dr. Henry Jekyll
+    actor: Russell Crowe

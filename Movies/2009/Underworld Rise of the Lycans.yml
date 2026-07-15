@@ -1,0 +1,35 @@
+name: "Underworld: Rise of the Lycans"
+series: Underworld
+description: >
+  In a prequel to the vampire-Lycan war, Lucian leads enslaved Lycans against
+  vampire elder Viktor after forbidden love exposes the cruelty of vampire rule.
+previous: Movies/2006/Underworld Evolution
+released: 2009-01-23
+rating: R
+length: 1h32m
+genres:
+  - action
+  - horror
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Underworld:_Rise_of_the_Lycans
+imdb: https://www.imdb.com/title/tt0834001
+tmdb: https://www.themoviedb.org/movie/12437-underworld-rise-of-the-lycans
+directors: Patrick Tatopoulos
+screenplay:
+  - Danny McBride
+  - Dirk Blackman
+  - Howard McCain
+music: Paul Haslinger
+production:
+  - Lakeshore Entertainment
+  - Screen Gems
+distributors: Screen Gems
+characters:
+  - name: Lucian
+    actor: Michael Sheen
+  - name: Sonja
+    actor: Rhona Mitra
+  - name: Viktor
+    actor: Bill Nighy
+  - name: Raze
+    actor: Kevin Grevioux

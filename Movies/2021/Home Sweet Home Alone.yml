@@ -1,0 +1,33 @@
+name: Home Sweet Home Alone
+series: Home Alone
+description: >
+  A young boy left at home for the holidays sets traps for a married couple who
+  believe he has taken a valuable family heirloom.
+previous: Movies/2012/Home Alone The Holiday Heist
+released: 2021-11-12
+rating: PG
+length: 1h33m
+genres:
+  - christmas
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Home_Sweet_Home_Alone
+imdb: https://www.imdb.com/title/tt11012066
+tmdb: https://www.themoviedb.org/movie/654974-home-sweet-home-alone
+disney_plus: https://www.disneyplus.com/movies/home-sweet-home-alone/5BlRglPbZl7A
+directors: Dan Mazer
+screenplay:
+  - Mikey Day
+  - Streeter Seidell
+music: John Debney
+production:
+  - 20th Century Studios
+  - Hutch Parker Entertainment
+distributors: Disney+
+characters:
+  - name: Max Mercer
+    actor: Archie Yates
+  - name: Pam McKenzie
+    actor: Ellie Kemper
+  - name: Jeff McKenzie
+    actor: Rob Delaney

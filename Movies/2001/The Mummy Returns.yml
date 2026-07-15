@@ -1,0 +1,32 @@
+name: The Mummy Returns
+series: The Mummy
+description: >
+  Rick and Evelyn O'Connell face Imhotep again after their son is caught in a
+  race to control the legendary Scorpion King and an ancient army.
+previous: Movies/1999/The Mummy
+released: 2001-05-04
+rating: PG-13
+length: 2h10m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/The_Mummy_Returns
+imdb: https://www.imdb.com/title/tt0209163
+tmdb: https://www.themoviedb.org/movie/1734-the-mummy-returns
+directors: Stephen Sommers
+screenplay: Stephen Sommers
+music: Alan Silvestri
+production:
+  - Universal Pictures
+  - Alphaville Films
+distributors: Universal Pictures
+characters:
+  - name: Rick O'Connell
+    actor: Brendan Fraser
+  - name: Evelyn O'Connell
+    actor: Rachel Weisz
+  - name: Imhotep
+    actor: Arnold Vosloo
+  - name: Mathayus / The Scorpion King
+    actor: Dwayne Johnson

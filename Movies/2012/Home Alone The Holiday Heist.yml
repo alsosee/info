@@ -1,0 +1,30 @@
+name: "Home Alone: The Holiday Heist"
+series: Home Alone
+description: >
+  A boy staying in a new house over Christmas mistakes a group of art thieves
+  for ghosts and sets traps to protect his home and family.
+previous: Movies/2002/Home Alone 4
+released: 2012-11-25
+rating: PG
+length: 1h27m
+genres:
+  - christmas
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Home_Alone:_The_Holiday_Heist
+imdb: https://www.imdb.com/title/tt2308733
+tmdb: https://www.themoviedb.org/movie/134375-home-alone-the-holiday-heist
+directors: Peter Hewitt
+screenplay: Aaron Ginsburg and Wade McIntyre
+music: David Kitay
+production:
+  - Fox Television Studios
+  - Manitoba Film and Music
+distributors: ABC Family
+characters:
+  - name: Finn Baxter
+    actor: Christian Martyn
+  - name: Alexis Baxter
+    actor: Jodelle Ferland
+  - name: Sinclair
+    actor: Malcolm McDowell

@@ -1,0 +1,32 @@
+name: "Home Alone 4"
+series: Home Alone
+description: >
+  Kevin McCallister spends Christmas at his father's girlfriend's mansion and
+  must defend the house when Marv and a new partner plan a robbery.
+previous: Movies/1997/Home Alone 3
+released: 2002-11-03
+rating: PG
+length: 1h29m
+genres:
+  - christmas
+  - comedy
+  - family
+wikipedia: https://en.wikipedia.org/wiki/Home_Alone_4
+imdb: https://www.imdb.com/title/tt0329200
+tmdb: https://www.themoviedb.org/movie/12536-home-alone-4
+directors: Rod Daniel
+screenplay:
+  - Debra Frank
+  - Steve L. Hayes
+music: Teddy Castellucci
+production:
+  - 20th Century Fox Television
+  - Fox Television Studios
+distributors: ABC
+characters:
+  - name: Kevin McCallister
+    actor: Mike Weinberg
+  - name: Peter McCallister
+    actor: Jason Beghe
+  - name: Marv Murchins
+    actor: French Stewart

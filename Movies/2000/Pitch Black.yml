@@ -1,0 +1,35 @@
+name: Pitch Black
+series: The Chronicles of Riddick
+description: >
+  After a transport ship crash-lands on a desert planet, the survivors must work
+  with escaped convict Riddick when predatory creatures emerge during a long
+  eclipse.
+released: 2000-02-18
+rating: R
+length: 1h49m
+genres:
+  - science fiction
+  - horror
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Pitch_Black_(film)
+imdb: https://www.imdb.com/title/tt0134847
+tmdb: https://www.themoviedb.org/movie/2787-pitch-black
+directors: David Twohy
+screenplay:
+  - Jim Wheat
+  - Ken Wheat
+  - David Twohy
+music: Graeme Revell
+production:
+  - Interscope Communications
+  - PolyGram Filmed Entertainment
+distributors: USA Films
+characters:
+  - name: Richard B. Riddick
+    actor: Vin Diesel
+  - name: Carolyn Fry
+    actor: Radha Mitchell
+  - name: William J. Johns
+    actor: Cole Hauser
+  - name: Abu "Imam" al-Walid
+    actor: Keith David

@@ -1,0 +1,32 @@
+name: "Underworld: Evolution"
+series: Underworld
+description: >
+  Selene and Michael search for answers about the origins of the vampire-Lycan
+  war while the awakened vampire elder Markus hunts them.
+previous: Movies/2003/Underworld
+released: 2006-01-20
+rating: R
+length: 1h46m
+genres:
+  - action
+  - horror
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Underworld:_Evolution
+imdb: https://www.imdb.com/title/tt0401855
+tmdb: https://www.themoviedb.org/movie/834-underworld-evolution
+directors: Len Wiseman
+screenplay: Danny McBride
+music: Marco Beltrami
+production:
+  - Lakeshore Entertainment
+  - Screen Gems
+distributors: Screen Gems
+characters:
+  - name: Selene
+    actor: Kate Beckinsale
+  - name: Michael Corvin
+    actor: Scott Speedman
+  - name: Markus Corvinus
+    actor: Tony Curran
+  - name: Alexander Corvinus
+    actor: Derek Jacobi

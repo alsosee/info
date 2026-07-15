@@ -1,0 +1,32 @@
+name: Riddick
+series: The Chronicles of Riddick
+description: >
+  Betrayed and left for dead on a harsh planet, Riddick activates an emergency
+  beacon that draws mercenaries while alien predators close in.
+previous: Movies/2004/The Chronicles of Riddick
+released: 2013-09-06
+rating: R
+length: 1h59m
+genres:
+  - science fiction
+  - action
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Riddick_(film)
+imdb: https://www.imdb.com/title/tt1411250
+tmdb: https://www.themoviedb.org/movie/87421-riddick
+directors: David Twohy
+screenplay: David Twohy
+music: Graeme Revell
+production:
+  - Radar Pictures
+  - One Race Films
+distributors: Universal Pictures
+characters:
+  - name: Richard B. Riddick
+    actor: Vin Diesel
+  - name: Dahl
+    actor: Katee Sackhoff
+  - name: Santana
+    actor: Jordi Mollà
+  - name: Boss Johns
+    actor: Matt Nable

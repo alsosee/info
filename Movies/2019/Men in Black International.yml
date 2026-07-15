@@ -1,0 +1,35 @@
+name: "Men in Black: International"
+series: Men in Black
+description: >
+  Agents H and M investigate a mole inside the Men in Black while pursuing an
+  alien weapon that could threaten Earth.
+previous: Movies/2012/Men in Black 3
+released: 2019-06-14
+rating: PG-13
+length: 1h54m
+genres:
+  - science fiction
+  - action
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Men_in_Black:_International
+imdb: https://www.imdb.com/title/tt2283336
+tmdb: https://www.themoviedb.org/movie/479455-men-in-black-international
+directors: F. Gary Gray
+screenplay:
+  - Art Marcum
+  - Matt Holloway
+music: Danny Elfman and Chris Bacon
+production:
+  - Columbia Pictures
+  - Amblin Entertainment
+  - Parkes+MacDonald Image Nation
+distributors: Sony Pictures Releasing
+characters:
+  - name: Agent H
+    actor: Chris Hemsworth
+  - name: Agent M
+    actor: Tessa Thompson
+  - name: High T
+    actor: Liam Neeson
+  - name: Agent O
+    actor: Emma Thompson
