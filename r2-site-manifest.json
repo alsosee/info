@@ -25791,730 +25791,884 @@
     "Movies/Series/21 Jump Street.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7d6cf57d5a7986e4fbdbd235a8feb93cec63ebf526bcdb55310d3c7be826994b",
-      "size": 5118,
-      "source_size": 62181
+      "sha256": "dccfbe67080bf9a664009f5adda851d2942763a3cd51cbfd74579a15a35c585d",
+      "size": 5459,
+      "source_size": 67796
     },
     "Movies/Series/A Nightmare on Elm Street.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "02af02c3d638f096d172291fd5deb8b66e128f4709527515f963c8ec2cef186e",
-      "size": 5262,
-      "source_size": 64974
+      "sha256": "bc47dbbc6720a803dbf566be7b6884ece6fba6b2d2d3c62d830ba5abe72398b1",
+      "size": 5600,
+      "source_size": 70589
     },
     "Movies/Series/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "607d586f4d7197bab54db2bbf35fd10ddf8a83e302f66ed2cfe9e7ff8c617572",
-      "size": 5260,
-      "source_size": 64275
+      "sha256": "0e25c5aad01b5939a072dd2332dafd8efa31e2c745a961715062c175148fdc12",
+      "size": 5595,
+      "source_size": 69890
+    },
+    "Movies/Series/Alvin and the Chipmunks.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "32552d9ce9eb24e3b2283bde390e43334f6818be0e58d8c9771ac1f4606736c9",
+      "size": 5138,
+      "source_size": 66814
     },
     "Movies/Series/American Pie.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b39583c19b583761ffb8eb8555c0d7d7a38939cfc6d7a781b67c2b816635977c",
-      "size": 5262,
-      "source_size": 63323
+      "sha256": "8b8199dbeb780d7e65712707e5a3c8291c8598f5f94903fb9a03e838dd4e93dc",
+      "size": 5597,
+      "source_size": 68938
     },
     "Movies/Series/Ant-Man.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "00c6d5cec6e27cf048786958f9309c2c1a138d33705c77ed6de5df2c5ed86b9a",
-      "size": 5008,
-      "source_size": 62241
+      "sha256": "3bb472da703d52fbf733532970956aac06aded71732e8bb31dc6562b0da2ec31",
+      "size": 5349,
+      "source_size": 67856
     },
     "Movies/Series/Austin Powers.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "68c70626e91d7b46a170369c74d909123e9a8a6649b995f32106fd451a735fb6",
-      "size": 4968,
-      "source_size": 61896
+      "sha256": "eec288377d4373b7aa80259eca96137ea4f664a225b12372ff2e266f1245e5db",
+      "size": 5310,
+      "source_size": 67511
     },
     "Movies/Series/Avatar.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3c1d62825918f491eaa95e03b48d6374a6cd8e117d65b51867e556c0d094f030",
-      "size": 4984,
-      "source_size": 61845
+      "sha256": "c81fc94fd61635eabf134029762dc240a4b19425232f6b17fc1ef93c6a575600",
+      "size": 5326,
+      "source_size": 67460
     },
     "Movies/Series/Avengers.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "45f667e39ede4ad122aed1a82d916b801aa754c5c74ed91fec985dd662bdb2e7",
-      "size": 5060,
-      "source_size": 62755
+      "sha256": "04daf0a878fe4c42fdc49ef42be98e97ad931a81af6824d4513905b25d377671",
+      "size": 5401,
+      "source_size": 68370
     },
     "Movies/Series/Back to the Future.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a6f3d411cbf1fc3bf10d2522f8eeca4950bae02c5762caee73c471ef1ce8b275",
-      "size": 5367,
-      "source_size": 63459
+      "sha256": "070b09505ebd93e2edcae84d9c5cbe9e2bac9ed068a127a575aad194520f60d6",
+      "size": 5710,
+      "source_size": 69074
     },
     "Movies/Series/Bad Boys.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "117aced2a4c17fabd573f919b0f6f11bb10efed178a03b55967167619e952ef6",
-      "size": 5067,
-      "source_size": 62739
+      "sha256": "0f1b03d9f56c393e0591c10e5640dd98413e9ac9bac44509978e48a339fdec98",
+      "size": 5406,
+      "source_size": 68354
     },
     "Movies/Series/Beverly Hills Cop.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "243b36e0280608c146d2f7dd4a3fbcf65d0c9087e7529e3f55b15299f75ff763",
-      "size": 5046,
-      "source_size": 62864
+      "sha256": "6b0d41f2317fb143b02472be201dd79633e217845633ec4ddeeebe8882de9b87",
+      "size": 5388,
+      "source_size": 68479
     },
     "Movies/Series/Black Panther.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1423579f85a3dcbf54f0020fdedc2ea80316b66f7bd0daa7c2f4113e514cef00",
-      "size": 4981,
-      "source_size": 61930
+      "sha256": "67a9c32c84107eab9994d7f11c7f7ef232b1e7ef2f2b3005b5f1e1c7fd1c0d07",
+      "size": 5324,
+      "source_size": 67545
     },
     "Movies/Series/Blade Runner.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "52e3caa481800319a002176168eef8ec17282a70e4a0eec0c096becc85bc2ebd",
-      "size": 4986,
-      "source_size": 61474
+      "sha256": "8fcded35e00ca3893762b7531d34c6866dc05a7ce561e44ea2311506f314d773",
+      "size": 5327,
+      "source_size": 67089
     },
     "Movies/Series/Bourne.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "70b86a00396a39b0cb89d32b3e1fb3bfdbb93d831a2675757b5d24793e58e948",
-      "size": 5093,
-      "source_size": 63198
+      "sha256": "41607fe422c59e8c90ffbb18051f35dd3eb2ac82aad2828ebd83f82ddbcd1b7d",
+      "size": 5437,
+      "source_size": 68813
     },
     "Movies/Series/Captain America.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ec70e0623cf6003947ecda440dfbeae850c82fc9d413090e0ccca35e33e42cf9",
-      "size": 5026,
-      "source_size": 62890
+      "sha256": "acaaa29f16908e1306d8fd93919d0825955ef5db96db0aba207cba783debc9e0",
+      "size": 5368,
+      "source_size": 68505
     },
     "Movies/Series/Captain Marvel.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b5752488057f0fa2988ec13251775b96198c95cda76629ebab4bf898cb275861",
-      "size": 4972,
-      "source_size": 61859
+      "sha256": "d2b82b5c0a4178c53d10fd48a2b5eb7ac8d6f524c96bb280b6c8dcd4d977e61f",
+      "size": 5313,
+      "source_size": 67474
+    },
+    "Movies/Series/Child's Play.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e4db480c750a359d47edcd9a015f3584af660e44087bc1c07cfc239afed3f02e",
+      "size": 5159,
+      "source_size": 66733
     },
     "Movies/Series/Cloverfield.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "41e10538ce1dfd5611cde614039879461bf54ddd005e22a2215db688e78fde12",
-      "size": 5014,
-      "source_size": 62342
+      "sha256": "b9860fcfe434619bce38cb9fd8116eb762b67934ddc7dc2ff7bdc155d39adffe",
+      "size": 5358,
+      "source_size": 67957
     },
     "Movies/Series/Criminal City.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "63269790329dc78792322e0e2d14ce5a9526bf7a609a7dd2c2f914c9bd3f18e6",
-      "size": 4986,
-      "source_size": 61899
+      "sha256": "471f02a30cb7b7dc304e47d6ea5abb88fb466e203681194bd50c95144400f6c6",
+      "size": 5328,
+      "source_size": 67514
     },
     "Movies/Series/DC Extended Universe.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e3aebcc5ad44e177b36d74de206d8f927556a1fbd09e2364525c3d93703a9598",
-      "size": 5481,
-      "source_size": 67785
+      "sha256": "c0cdfb8ded3512cb5386486720588a65c6a2965a244be8c9222097b0c0a81b68",
+      "size": 5822,
+      "source_size": 73400
     },
     "Movies/Series/Deadpool.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "39f35f4b916815144627860fb8ba800ec1ffde9855848202447f4bdaa376564f",
-      "size": 4985,
-      "source_size": 61860
+      "sha256": "c9f51751ac98bfcf3fddd0ef7c789bd3b6a26b4d8b5fc34e707c434204dea303",
+      "size": 5323,
+      "source_size": 67475
+    },
+    "Movies/Series/Demon Slayer Kimetsu no Yaiba.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c041b258476b15a98a693e71264d71cd066f972d7850e9ffc943f1d21ee5c10c",
+      "size": 5168,
+      "source_size": 66838
     },
     "Movies/Series/Despicable Me.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8e6b4444f9dacebacfd61cb815c13f2a27b16ab967723f11aa2c324e8cfcbe2d",
-      "size": 5143,
-      "source_size": 63664
+      "sha256": "52879f41c6f39c89fb565638284b8ab0468f2ccbb113af08e7a669ab40e0c0c8",
+      "size": 5482,
+      "source_size": 69279
+    },
+    "Movies/Series/Diary of a Wimpy Kid.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a8e5aa3a379d065d0e56d2c21df48d401b90cc5fcb4d686ab6502135d9e2e462",
+      "size": 5141,
+      "source_size": 66739
     },
     "Movies/Series/Die Hard.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c9867cd54fabf61942f23dff67a6f856bcd24700dd1625902d4515f95fa8c67f",
-      "size": 5124,
-      "source_size": 63208
+      "sha256": "813cc7691ff19e686a630c16285157f820e113ff2df67be666c00d80bece5f00",
+      "size": 5465,
+      "source_size": 68823
     },
     "Movies/Series/Doctor Strange.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "839b6b366e92521f14c83996d82f97f3a435e062001020eb9a5180f2998fcb25",
-      "size": 4997,
-      "source_size": 61967
+      "sha256": "91efdc57591cbbc55fc64ced15ec50092d398c0874c2a56ea1732d5dbdae0024",
+      "size": 5339,
+      "source_size": 67582
+    },
+    "Movies/Series/Dragon Ball.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "529bc249645c90d85dc8b1db8e1d8abbc7a90182545b0c70b4f03a3e05f0b5ac",
+      "size": 5136,
+      "source_size": 66710
+    },
+    "Movies/Series/Evil Dead.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "aded9fff3b84088585b9496cba1840501033a31571932d1e796e5d9b16b049a7",
+      "size": 5124,
+      "source_size": 66659
     },
     "Movies/Series/Fantastic Beasts.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "20c4bdedef6899d389dd13fe064700a61b6af2b7c9c30ef5e1be33b44d816ce4",
-      "size": 5094,
-      "source_size": 62575
+      "sha256": "06fea7b04612c18ac1938dfd87a72334363118155dd97692edd334573fa9a0e3",
+      "size": 5437,
+      "source_size": 68190
     },
     "Movies/Series/Fast & Furious.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c678119d56158e510ad0405b3aa0297e63a38d0e36d236a327965c7d401dc2be",
-      "size": 5338,
-      "source_size": 65938
+      "sha256": "1eb79a7cca4fcc607d4f3b1b02c42b99620ec6760d77cf4890cdce3c3df6173e",
+      "size": 5676,
+      "source_size": 71553
     },
     "Movies/Series/Final Destination.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "67e23593a8642493c8e4e1620ebe3983d3d832704a1676df1f2f537d950aedce",
-      "size": 5335,
-      "source_size": 64421
+      "sha256": "8815ed7f21bec528723496cefe3528676b77d56296f1b5c871ce061c0796737f",
+      "size": 5675,
+      "source_size": 70036
     },
     "Movies/Series/Finding Nemo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6afd454aacaf4cb76d3b823bcb5eca134c860cf1c6d79444b334d052b4149630",
-      "size": 4984,
-      "source_size": 61885
+      "sha256": "991d4422476a3ed093c381b61b023dcde1483c0bcc1233efb71e6a364b12877c",
+      "size": 5329,
+      "source_size": 67500
     },
     "Movies/Series/Friday the 13th.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fd5d10824e2eca71ffadf4a01c374b56e107b3bd56fae628e4e3e2cb5b4ddb9e",
-      "size": 5405,
-      "source_size": 66607
+      "sha256": "68c31a774583efb6289fc11e9cc38dc5c8b70c3713c14bcd3edbb77fa3f79e41",
+      "size": 5750,
+      "source_size": 72222
     },
     "Movies/Series/Ghostbusters.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9ccb3e41c9a4b13aceaf292a23534f7ddbfdd313ba2b11ed6075311264b0b2a2",
-      "size": 5092,
-      "source_size": 63242
+      "sha256": "b061f476f11955f6495cb7ec8a666a17a3ff116e5bffe5caa92cb867d0ae3724",
+      "size": 5439,
+      "source_size": 68857
     },
     "Movies/Series/Guardians of the Galaxy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3eec56872fd95a1961089082425d2224e447793f32cb340a79598f583c850f36",
-      "size": 5035,
-      "source_size": 62505
+      "sha256": "86254b30ae1854e3fbd40e585c68c47e5303972f38133cbd41e52debeaa937df",
+      "size": 5380,
+      "source_size": 68120
     },
     "Movies/Series/Halloween.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dd5c83ae26a8a20fd66a60d48a69d3fffe07833dd4d7a7f081b86713dcdad98b",
-      "size": 5403,
-      "source_size": 66802
+      "sha256": "5a85df78d86b546395a6dbc7748db66dfafa86de1df7798fe74fa37df480057c",
+      "size": 5747,
+      "source_size": 72417
     },
     "Movies/Series/Harry Potter.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "88f9a8dc0aa071f0c5c039fbac3be8b02af1097e72155b37e6f7d631e4f95a79",
-      "size": 5328,
-      "source_size": 65006
+      "sha256": "1d6de5a662755440912500ad1ff34c4b45e38de275c8a00ce8ad5a8cc2355a99",
+      "size": 5671,
+      "source_size": 70621
+    },
+    "Movies/Series/Hellraiser.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0cc80224d5c3b56f55529dcbdc89fcaf020ba87f79579412776b73f1bd90f02c",
+      "size": 5136,
+      "source_size": 66682
     },
     "Movies/Series/Home Alone.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dae3f89859eb81b92381bbe76a21e1a40429cc52fea617f221820609eaa667b7",
-      "size": 5305,
-      "source_size": 64162
+      "sha256": "5f73c4c523e5ca1bb9ea5f7949ecc3ae1e7776d0f6834a131ba3ab72d52d5f18",
+      "size": 5644,
+      "source_size": 69777
     },
     "Movies/Series/Hotel Transylvania.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f0ae4efd50e61eb3f362216fb3231b5e0d806b800cba8b9502fccdefbd51ee88",
-      "size": 5259,
-      "source_size": 64295
+      "sha256": "7da5c1463fd2d15730af5244e006cce153967282148840149d8fc28d68869a4d",
+      "size": 5596,
+      "source_size": 69910
     },
     "Movies/Series/How to Train Your Dragon.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cc210848f17cbb0350546c9e725ad0218f1967436540790eca14b1acc1294ae1",
-      "size": 4925,
-      "source_size": 61357
+      "sha256": "a2e9df4e7a76dfbb31d36fd07815e37dd01d013011c8c9519705232c6966ad62",
+      "size": 5268,
+      "source_size": 66972
     },
     "Movies/Series/Ice Age.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "17d4016765b2d20472abec15b2482477a733ee77cfbe7812263172aec1837e7c",
-      "size": 5286,
-      "source_size": 63849
+      "sha256": "6a4ad8f76ad0815627c61eed30326a904e285129703fa8cc2d8a85dbbc2d6e24",
+      "size": 5628,
+      "source_size": 69464
     },
     "Movies/Series/Indiana Jones.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9d1bc91118e045507e1cfe1fdbb16e9cd2d780e7ba2b7b4c8531eec40f1184bd",
-      "size": 4978,
-      "source_size": 61515
+      "sha256": "fdd7426d1595e8995aba4009287b425adb823521545dfe1fe05515e51aee4066",
+      "size": 5318,
+      "source_size": 67130
+    },
+    "Movies/Series/Infernal Affairs.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cc3e08e03749fc2e52a222b5fa7537e29f0fe4d03216c0416a856a305aa01a54",
+      "size": 5135,
+      "source_size": 66716
     },
     "Movies/Series/Insidious.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "79c78540907aec5b7f01e71070f57d6fa6b3155d4339c9af775fd42e891511f3",
-      "size": 5147,
-      "source_size": 63697
+      "sha256": "bfe574312c2ddc2ef02e2dc171bb45a7b776abac6cbb247b5cd0ec7b80b4e599",
+      "size": 5485,
+      "source_size": 69312
+    },
+    "Movies/Series/Ip Man.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6ca32d0747a7067dcccbb7105c1314a63a68b7c2d5b0d7a8e8b407bc9a3ee4b7",
+      "size": 5131,
+      "source_size": 66658
     },
     "Movies/Series/Iron Man.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b0733174f019a7674a678f2286a226c80431b685dcf15f9213f1bf4cc836167b",
-      "size": 5018,
-      "source_size": 62270
+      "sha256": "a918a0c34abcb624960ec604b0b83a8f253cd067018ad141dc959cf3ac96c592",
+      "size": 5358,
+      "source_size": 67885
     },
     "Movies/Series/James Bond.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3c5eed800ba1ee93388cf8c2321429c7007b9634d325c24e89d271fdbbda2fd4",
-      "size": 5909,
-      "source_size": 71827
+      "sha256": "9db857b2a1776c80cc3568d943344f6272437313df11d549bcc93a24b82a26c7",
+      "size": 6257,
+      "source_size": 77442
     },
     "Movies/Series/John Wick.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "21d00c41ac3cc8c374d34c28e076a480633c9ab6e2ab40e45b4df05b359b08a7",
-      "size": 5207,
-      "source_size": 63919
+      "sha256": "8d1e3a65c8bc084600fcdc5eb0e7fbab97048327813f1790e2cd32e4d2b521ae",
+      "size": 5551,
+      "source_size": 69534
     },
     "Movies/Series/Jumanji.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1eb97fd44cbb8e0a43431e2805db85584465069928416e61c434263a7b0ad5c2",
-      "size": 5315,
-      "source_size": 63493
+      "sha256": "f0e56e3c8616fa8ec8715785f670940712773730404479049b3a479750a8c6da",
+      "size": 5656,
+      "source_size": 69108
     },
     "Movies/Series/Jurassic Park.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bea79de432d687b8f0f0a7171a3160b200bac05b3f35f19bb81bfa4feda4a63c",
-      "size": 5265,
-      "source_size": 64257
+      "sha256": "f4f963dee1ee0178b5893a868594f6db6c2ed338b5aed32a4e60ffd6f9e2b0e6",
+      "size": 5602,
+      "source_size": 69872
     },
     "Movies/Series/Kingsman.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8188f9e3c9df1dfd1053090986e79d14fe1e22f2de94d99256fc3c8980126240",
-      "size": 5045,
-      "source_size": 62352
+      "sha256": "25afb3fe836b456604d257d1fa3b21cc740b6938e42fa9d36eb74d063bdaa4c4",
+      "size": 5385,
+      "source_size": 67967
     },
     "Movies/Series/Knives Out.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1234639ec1fdf5f303ff2e8524010501d5019f0f754c8c9a6d74bb4b186ab71c",
-      "size": 5277,
-      "source_size": 63289
+      "sha256": "318bc0266a26c2081e09bcd94e95e6d68bd4b5d6bb7a6b3753f65d22236d22cb",
+      "size": 5618,
+      "source_size": 68904
     },
     "Movies/Series/Kung Fu Panda.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "054de09be2fb98f861911ee518f6e94a4f0b82f58a4fc1d2a45fc9a3065f1cd3",
-      "size": 5191,
-      "source_size": 63051
+      "sha256": "c096a0b2b3411f53cd1507511aea7699591dba8ad68afab0276c861968c1dfe7",
+      "size": 5533,
+      "source_size": 68666
     },
     "Movies/Series/Mad Max.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "362f57ba4e70e9daaa3bef0f0e93c5dcc056c686a46214db02accf3955de4bf0",
-      "size": 5141,
-      "source_size": 62794
+      "sha256": "7c3193ddcf59f61c2def2f6ba3b78403e6e00a23d564843fa1b06532ae70f302",
+      "size": 5483,
+      "source_size": 68409
     },
     "Movies/Series/Madagascar.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c096d962a95c9831e4e75653af7962afc70eb048f1771ef58d671e42901a1029",
-      "size": 5376,
-      "source_size": 64534
+      "sha256": "23e3a1fdfae70a35ec96ee5400d72828f5cc971f0481707d6bd99596ed3983fb",
+      "size": 5718,
+      "source_size": 70149
     },
     "Movies/Series/Maze Runner.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "698b65fa4ec50d14d5628e4a3d64be89d094ae42904bbce11e2ab0fea8eb10b0",
-      "size": 5034,
-      "source_size": 62383
+      "sha256": "111ffbc24f8f628b7bdfd309f487bd9849fae091782b88022e9eec4ed910ddf0",
+      "size": 5378,
+      "source_size": 67998
     },
     "Movies/Series/Meet the Parents.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0591e8c961e66f2970e68fe2d2bbf1048bf518cf95ead61c3569ae7afa9de3a5",
-      "size": 5087,
-      "source_size": 62046
+      "sha256": "e51efbf7f279c77b199fc1e3af0579ef2bb26fb3c3977cfd28858d3aee0d1f98",
+      "size": 5425,
+      "source_size": 67661
     },
     "Movies/Series/Men in Black.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fdaf684f9e27db7e1741732bed9f2dbc2036bc9fe8ea0ec3b95590834245188d",
-      "size": 5188,
-      "source_size": 63160
+      "sha256": "2d6136fd2e474a4da550bb9a97a605298e7b9a050616c8111a3ca715acd88a35",
+      "size": 5529,
+      "source_size": 68775
     },
     "Movies/Series/Middle-earth.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a6be0347cf33b7593672c05f77c6c849a738eb9f07f43c1e8452f581c3210a41",
-      "size": 5218,
-      "source_size": 63963
+      "sha256": "da04c7ec1524ceba07c13f96063bd11d695f65cb8219d7ccc3567a344b64b90a",
+      "size": 5560,
+      "source_size": 69578
     },
     "Movies/Series/Mission Impossible.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ad49b64c75c2d496f489a10422e4251b78843b88d137bdfbfc829e2a75d29645",
-      "size": 4774,
-      "source_size": 61059
+      "sha256": "6d65d5a6d167fe3397f733e8973de0084c2d7c3471131439cc25dae2056dccf3",
+      "size": 5116,
+      "source_size": 66674
     },
     "Movies/Series/Mission: Impossible.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9043a4868ba001535874468e96810f3d61676b77076044d27a20078bf0d9bdeb",
-      "size": 5213,
-      "source_size": 64381
+      "sha256": "246959824ddb0dfba0cc89e19ec4bed8339005b79cff97830bf1122322644781",
+      "size": 5548,
+      "source_size": 69996
     },
     "Movies/Series/MonsterVerse.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2778df7cf98b8290a385ed662481e5c9aad25ecdc4e0aee503f15200176d8d1e",
-      "size": 5105,
-      "source_size": 62985
+      "sha256": "21bf5bb508462db37653ef93895151a267129a77cec365ed6541c45914da3cc0",
+      "size": 5446,
+      "source_size": 68600
     },
     "Movies/Series/Monsters, Inc..html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7fbb2587b402860bd6ad58a8f9b2125b33db3b760286202d9f8576b2443ef51a",
-      "size": 5094,
-      "source_size": 62149
+      "sha256": "0348802bd7bb9b3a51c6452affa6090632ad985e87d3663d499bd363762bbf34",
+      "size": 5436,
+      "source_size": 67764
     },
     "Movies/Series/Mortal Kombat.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "07c9b4bbd44507ca40729b5ddeb59f25ede06b8ad4b6d3f495f1cd5c7f5bc1f8",
-      "size": 5323,
-      "source_size": 63707
+      "sha256": "0655295da521dafeded690391774f00c7fc510be5e4b66cef6e23a2936b4d797",
+      "size": 5665,
+      "source_size": 69322
+    },
+    "Movies/Series/My Hero Academia.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "820d53b9a76287a5f72450c59c5fff161f046844c98f3d248acc95a51f928cac",
+      "size": 5162,
+      "source_size": 66752
     },
     "Movies/Series/National Treasure.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "668dc4e44310235f8bba50a79a9b7657f75812566a76c03f7e80a688e0860cf2",
-      "size": 4977,
-      "source_size": 61848
+      "sha256": "4e24eb8a731f141112b8b5160ff00b63e8e344da182adfdfb8b08cacde1b49b0",
+      "size": 5318,
+      "source_size": 67463
     },
     "Movies/Series/Night at the Museum.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9037e66544534b9cfdcb7aab671ca72214d77c1ffa5dd91a6e84e5c26b00545f",
-      "size": 5030,
-      "source_size": 62278
+      "sha256": "632a9facf734c13b8e1884bcbbcb1c0aaf77220d8f953b4339d1817c29fc2d92",
+      "size": 5370,
+      "source_size": 67893
     },
     "Movies/Series/Now You See Me.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a2fea2646031ed62c5197054586a9e7836027e59f6b1cba1e2d195f6101f9615",
-      "size": 5144,
-      "source_size": 62245
+      "sha256": "0cbb4e287676dd86be77c1e4f1c28d0fdf06621bf0c51c12539f428feba81f55",
+      "size": 5486,
+      "source_size": 67860
     },
     "Movies/Series/Ocean's.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ee2b4bec8296b17057947be5e5630e243e5af7d7bd5f55abcdfebbfea822bf0f",
-      "size": 5099,
-      "source_size": 63119
+      "sha256": "6e68def3ab18af31652dff31280082c80aeafd0fae231a8f3119baeeb9a37e48",
+      "size": 5440,
+      "source_size": 68734
+    },
+    "Movies/Series/Once Upon a Time in China.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "421c76e6fd776311b25f9901eecb67ece762813db7d1eb1b370ef7d36b178ce6",
+      "size": 5159,
+      "source_size": 66782
     },
     "Movies/Series/Paddington.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8ecd3b789a666c1db32c0d9ce1993cdd103a5be5d3c6c9afeff9e626ded0d9e6",
-      "size": 5038,
-      "source_size": 62374
+      "sha256": "3f99521b10ec9bfc3d41652da316fdae5021ebcb6ff3ef711105b4a443eabcff",
+      "size": 5381,
+      "source_size": 67989
     },
     "Movies/Series/Paranormal Activity.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4ee0267e3edb3b4cb510766dc77584b7ba4a8e60cc6333126dccc2d131e195df",
-      "size": 5218,
-      "source_size": 64806
+      "sha256": "7e96cb82f38f2bf31c1844364845561c1345c46afae198a619c0495da7858706",
+      "size": 5556,
+      "source_size": 70421
     },
     "Movies/Series/Percy Jackson.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f04837c799db4b3ac2c5ef49a2e59eec3534bfee9338a12077e499e1c78792f6",
-      "size": 5027,
-      "source_size": 62004
+      "sha256": "1390a8f1aee837f38fbd0b02668d6270de98150ed52471c2cdb3880348c1fc05",
+      "size": 5366,
+      "source_size": 67619
     },
     "Movies/Series/Pirates of the Caribbean.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2039d6af6a90176f51c4aa6f9b14325660f003e2b4487eb249db157f3d335d54",
-      "size": 5165,
-      "source_size": 63619
+      "sha256": "67f072e9e5f7312f0e2a1a5b356d9912f9f948a32c711a6016cfae2c079ec7fc",
+      "size": 5504,
+      "source_size": 69234
     },
     "Movies/Series/Pitch Perfect.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fe67bed0f5352c06d78c246403f5ca8ba6ff9bdf89c4732b2d6876123bbdaa04",
-      "size": 5106,
-      "source_size": 62450
+      "sha256": "a47b4a9c4f087d4d0b11ba8b54022a9743e5e3ed1a4f727a09fcb29a58a79d2a",
+      "size": 5445,
+      "source_size": 68065
     },
     "Movies/Series/Planet of the Apes.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2e7c1860ed2fa0bd1900420c553f9d3b55f181baf62533055d97cf6a90e8cfe7",
-      "size": 5412,
-      "source_size": 65972
+      "sha256": "284759254408c06a473a5a45f8a7095142ba73a13cdd0a733e92f088f18d70b2",
+      "size": 5751,
+      "source_size": 71587
+    },
+    "Movies/Series/Pok\u00e9mon.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e0bba29f0d36855e9f7006d4437c0c430432e1f12ed8ea28eb6cba8489e48f6a",
+      "size": 5144,
+      "source_size": 66680
+    },
+    "Movies/Series/Police Academy.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "30cb180b81d98cf12789e962f4fb2a69e96be475d43bd8a5dc4257fba848c90e",
+      "size": 5124,
+      "source_size": 66658
+    },
+    "Movies/Series/Police Story.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d36a8b566f36739b7c01a3117ba03987b6561d75bb0eb3f691f64301d7320f4e",
+      "size": 5139,
+      "source_size": 66696
     },
     "Movies/Series/Predator.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bc5add5d065800729462e0e8e35505b8c1cd6120d7fe680225cb7b1bc89ef5c6",
-      "size": 5161,
-      "source_size": 64029
+      "sha256": "ed1bc67cf2303c67ff863dbe77781389970aa30da74d2d8370ff1df9a3f7f109",
+      "size": 5500,
+      "source_size": 69644
+    },
+    "Movies/Series/Project A.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c4fcfedf633fe0ca55daa433e1bce7283a7b9b2be3dd962802ac0fd2025743de",
+      "size": 5137,
+      "source_size": 66723
     },
     "Movies/Series/Puss in Boots.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "80174cd360c86f9963ce19b305d6165d4a754016baac4ed49c77a8f3ed657ca0",
-      "size": 4998,
-      "source_size": 61929
+      "sha256": "740980a865d43d18c5cf355c6273bee67b0af4de1d247f628c8fd3236085df3e",
+      "size": 5339,
+      "source_size": 67544
     },
     "Movies/Series/Rambo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d5954e51ddb78ad8bce6e3f397f91f847388d84d6d531b52e02506ffeb2b55a0",
-      "size": 5130,
-      "source_size": 63169
+      "sha256": "49f594b6c6d9f3be19d268da6f9873114178d73ba13922bbcdb7c885b490891a",
+      "size": 5470,
+      "source_size": 68784
     },
     "Movies/Series/Resident Evil.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f961a4b323288081483c072c1bc46b0ab9e20ebd8496714477a2cca3c4fcb873",
-      "size": 4870,
-      "source_size": 61304
+      "sha256": "2aa8f8a1fdfc2ec1bd56a2fd827c3c88d050044c1f721acaf238a68443ad1b33",
+      "size": 5212,
+      "source_size": 66919
     },
     "Movies/Series/Rocky.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3d34346b70f5d630aa74b75480274490217630f40e40aa0f27d57e9c317fbf05",
-      "size": 5260,
-      "source_size": 64800
+      "sha256": "b92398105df6acd5d1cd2ce8cad06caad647411e4220a4a50dc9b75c3cf1e120",
+      "size": 5598,
+      "source_size": 70415
     },
     "Movies/Series/Saw.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d48247cf8cdbe8342977450900b8a6c97efbbf9389a3ace3e0ec29237e4c8b6d",
-      "size": 5131,
-      "source_size": 62675
+      "sha256": "2e9268c65b0536c89b190600733bfcdec7462ff80e7a0c70ea96127561494230",
+      "size": 5473,
+      "source_size": 68290
+    },
+    "Movies/Series/Scary Movie.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "634440d65a2069435e032e320862e9e4e4233e21737504134f62c252fffbdfde",
+      "size": 5126,
+      "source_size": 66680
     },
     "Movies/Series/Scream.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "12614a10d8a268fb6d401a438fdda8c05e4d96d1c010ad569255c2d335c23531",
-      "size": 5209,
-      "source_size": 64025
+      "sha256": "6f4377b7d3addb117c65f404db65216c56d55f79734303b24f609cf656f404e9",
+      "size": 5547,
+      "source_size": 69640
     },
     "Movies/Series/Shrek.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6570ad525bdcfefe589b29b9976cf85616fba249d8abebf10fc477cc177f50d4",
-      "size": 5060,
-      "source_size": 62826
+      "sha256": "0f0eb3c7209cd71ce166df0dac0498385224cca97eeb0273e8a6132d90aa1fc9",
+      "size": 5403,
+      "source_size": 68441
     },
     "Movies/Series/Sonic the Hedgehog.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0660fbedbc3d6868ebc8e6ece4356c41d6ecb01c64ced8cb4a1078f6f14642d1",
-      "size": 5190,
-      "source_size": 62947
+      "sha256": "8dfc7be76d8b9d719678605bfba031a0b80e70503dc2b4cac93402a4d689f775",
+      "size": 5533,
+      "source_size": 68562
     },
     "Movies/Series/Spider-Man.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c8de2f974c8f0acfb716bc83a553e43c8d5abdcc175e200e2bc98ebece694e6b",
-      "size": 5036,
-      "source_size": 62372
+      "sha256": "dc8801fb562ad66506db74e9548c6cd83b2aea38feef460bfebd3a1ee42b18b1",
+      "size": 5380,
+      "source_size": 67987
     },
     "Movies/Series/Spider-Verse.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "10b7d44abe4234efe0a4b2418e4a13c95597362db9cd65c60da4ff60e186e274",
-      "size": 4984,
-      "source_size": 61971
+      "sha256": "77c6faa4d49dab0eb2c4bbc20ff2e11ea2dd73dbaddc45809b9ef6817dd6f031",
+      "size": 5327,
+      "source_size": 67586
     },
     "Movies/Series/Star Trek.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "77fd0b9e0e2fd769ca21466130b85458bd3554191b08c6cfa7c5101d5861b4ec",
-      "size": 5665,
-      "source_size": 67526
+      "sha256": "9dcb9e7ea6ba1271f89ba9de38faa01e259553f211fbf627805cce7b08fcbe18",
+      "size": 6007,
+      "source_size": 73141
     },
     "Movies/Series/Star Wars.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ee18ec51430eb413d1bcdc08c215eb8375a10c6ddd5e45aba0055ac10a4ba685",
-      "size": 5410,
-      "source_size": 65350
+      "sha256": "cedbea7ea80b8f757809014d747e8edfd6a613eeaae0a1513b0b53ad65d33cd2",
+      "size": 5747,
+      "source_size": 70965
     },
     "Movies/Series/TRON.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e69cc2d26a0eddf3212e31fc309815b6ed9b200e296908f7b6b72282651bc3ef",
-      "size": 4970,
-      "source_size": 61766
+      "sha256": "9b5d7a02ad7879d61de728a3dc404703c035e1a8c4cd8d84efb1d65991f7d9b6",
+      "size": 5312,
+      "source_size": 67381
     },
     "Movies/Series/Taken.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "45c41a3ab6af8ae5bf02d2cf226f8c305a59b3f19db6ddd2d605f06e3dcb84cb",
-      "size": 5001,
-      "source_size": 62232
+      "sha256": "64cd0032fc454261672df40a86532a3a5a65e766721d4fff433c87608da8a9e6",
+      "size": 5341,
+      "source_size": 67847
     },
     "Movies/Series/Terminator.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96528833670b2e9259e466aed24b94724cddb22462ae3ef56482ecf5ef384aa7",
-      "size": 5286,
-      "source_size": 63931
+      "sha256": "14cbc4f0a3f121cae794d0ed08727ceeece6d0c88dff9d790432b03b55e01b52",
+      "size": 5629,
+      "source_size": 69546
     },
     "Movies/Series/The Addams Family.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cada3e6ff881f49992d75fc0eab74fa581c365010a6259e1b10313b90052121e",
-      "size": 5157,
-      "source_size": 63779
+      "sha256": "a307626f85c4bf0a5011c6a9cdffd6e1f4c24a1bff2b5db48e5016c94fb4b49a",
+      "size": 5497,
+      "source_size": 69394
     },
     "Movies/Series/The Chronicles of Narnia.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cb52e73609889068b58fe27accf56f33d12d0f8ed5af6d4360b98ca0d66b448c",
-      "size": 5089,
-      "source_size": 62660
+      "sha256": "5ba78867e8e56d39ea672d0d10ed8a9c5d8ab88c3f1f43dee83662f631b05551",
+      "size": 5430,
+      "source_size": 68275
     },
     "Movies/Series/The Chronicles of Riddick.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0418b61f2ae4a4c3312e1ed7cc892196e4deff78a53b99547811db5b4cbc8242",
-      "size": 5229,
-      "source_size": 63073
+      "sha256": "97423fcef10fa36a3dee11bd93d9759ab9a6af7009a07f524e8c77bb55578a8a",
+      "size": 5570,
+      "source_size": 68688
     },
     "Movies/Series/The Conjuring Universe.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a2a4a60eabb8f248e4d7fcf042c39b5a9806a85808bd2b826290b8248ea74977",
-      "size": 5360,
-      "source_size": 65992
+      "sha256": "12203391507362c097f55f5342c6573b34dbae4e3d785498919786f802b2fc7d",
+      "size": 5699,
+      "source_size": 71607
     },
     "Movies/Series/The Equalizer.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "53536f20080028deefc58e8c3f493c6fa4a5df52e48626d66b3b464ad942713b",
-      "size": 5117,
-      "source_size": 62492
+      "sha256": "0cdd16973f3f1ef661e1a2458dc1879cc87c42012902845cddce8248ef4a13ba",
+      "size": 5462,
+      "source_size": 68107
+    },
+    "Movies/Series/The Exorcist.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "264a52632956380110a1c2ed1df87b21f9279665099418a38b86c5a50f0a487d",
+      "size": 5162,
+      "source_size": 66728
     },
     "Movies/Series/The Expendables.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ed08960f0b54297b3c69e33279beaccea0590b91240ae17a860cda68c36c9141",
-      "size": 5051,
-      "source_size": 62806
+      "sha256": "c9e52bb9a4ba18a83a89be3717fb35e05258192a2745cddf076edb747c30a6e0",
+      "size": 5390,
+      "source_size": 68421
     },
     "Movies/Series/The Godfather.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ca4f4a6e2d0810b93ea5cf26bda95a00ff2aa749a535b9d349a012ee5f4b5881",
-      "size": 5048,
-      "source_size": 62411
+      "sha256": "36ae234699b19783cdf0e1b14d5063da870e89ccf104358e6c67ddb827c822b8",
+      "size": 5389,
+      "source_size": 68026
     },
     "Movies/Series/The Hangover.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9a186ea88fc9d488edb134186e58b6b29a73ae7eebc836aedfa439a6c95bbf04",
-      "size": 4966,
-      "source_size": 61771
+      "sha256": "da759a4aaff28e721935c1a35126e2c91e95b576267243d77be22440152af33d",
+      "size": 5308,
+      "source_size": 67386
     },
     "Movies/Series/The Incredibles.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "708b5059aa22896fe986e80dedc83e9257697b76bebd72b7ee67797e9c22cbf0",
-      "size": 4981,
-      "source_size": 61917
+      "sha256": "94a88711bc104793ea99e9e5bba4c6ec9ef0bb7ff0f505640aec4f25fc87fc0c",
+      "size": 5323,
+      "source_size": 67532
+    },
+    "Movies/Series/The Karate Kid.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "95c883c867ebd39adf1bc37ee88146d91d85dc8f7903c5915643245807ccb258",
+      "size": 5143,
+      "source_size": 66722
     },
     "Movies/Series/The Lego Movie.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dd2e01368f050a3ce27c6729d7998e875e720a03f6af8bae05bfa5693c9bb0d5",
-      "size": 5189,
-      "source_size": 63095
+      "sha256": "1b35f9e25bac667254b316e11b7a5e1a57475cc7c1fda80299f16a3b4a0d73b6",
+      "size": 5534,
+      "source_size": 68710
     },
     "Movies/Series/The Matrix.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ad716a606482096ed0bb2081890fcfffb6eca0989ae6ad7f287fa677cd8ad1af",
-      "size": 5230,
-      "source_size": 63360
+      "sha256": "c1b53338816a5eac2257250dd9c5c0f777f104ee64eef025efbfa2811a9a5f89",
+      "size": 5572,
+      "source_size": 68975
     },
     "Movies/Series/The Mummy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "85212edd339ac0e8d6e29f9a7f0355d7d10a7ddb4d393ba81c0b4a02291bb0f3",
-      "size": 5303,
-      "source_size": 63525
+      "sha256": "aef0f4905bb6a06265acbbaa825644b8d536b5c19f4c17a35cdd6527ef60e54f",
+      "size": 5646,
+      "source_size": 69140
+    },
+    "Movies/Series/The Naked Gun.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "af28af1abd7e4c1155331a29fd911a3f89f63ef80114aa0eff71dd4110eabf3d",
+      "size": 5135,
+      "source_size": 66686
+    },
+    "Movies/Series/The Omen.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a994a5231908075a81b1b16b46cc4ca5f4712372dec7703a438c73a0438906b1",
+      "size": 5154,
+      "source_size": 66703
+    },
+    "Movies/Series/The Pink Panther.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f707486c518f8299085662271f0870c505703a12bc7d6ef67b52878420186d8e",
+      "size": 5134,
+      "source_size": 66746
     },
     "Movies/Series/The Purge.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "766644095020c909e7c9ca595f9e0994a80056320b2e85dce6bcba97e856e8c3",
-      "size": 5099,
-      "source_size": 63213
+      "sha256": "428b70ce783ae96a1781046d105a8f3da7b6dd56d50c9b4640d29ffebaeaf282",
+      "size": 5438,
+      "source_size": 68828
+    },
+    "Movies/Series/The Texas Chainsaw Massacre.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "facc6696223f2a16f226a9ba505541150d7e39a4b4d7dac11e880de34a44fb3f",
+      "size": 5147,
+      "source_size": 66787
     },
     "Movies/Series/Thor.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c8ac9acf55a2f2fea963bb8f99b0755f7234b870c362722e3774fcdeeb4a2ebf",
-      "size": 5032,
-      "source_size": 62682
+      "sha256": "8210aa44bcdc037cb861245da9b054c1d560b18e7f1d6d389e681ba313da2fd0",
+      "size": 5376,
+      "source_size": 68297
     },
     "Movies/Series/Tomb Raider.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c20a46b3d6c4724e5a3265b94a05074a26af0561325414fb8af435903aee7ff6",
-      "size": 5044,
-      "source_size": 62392
+      "sha256": "819a154e01f748137db9e18a5780139ee9420f248a060d562ec168825a0faddb",
+      "size": 5384,
+      "source_size": 68007
     },
     "Movies/Series/Top Gun.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3c542697bd602f713938e9577c565c01d1c132beb3fbee324d332ee32d4110ab",
-      "size": 5082,
-      "source_size": 62131
+      "sha256": "dc781baf800d59d739e79647f7a4fa4d6d18c668d08932449fc0fdcbb551d5b5",
+      "size": 5419,
+      "source_size": 67746
     },
     "Movies/Series/Toy Story.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a04b1d06054775df449afe734fdadc4049e03e2c5a3c5d744f19c3b8b7b1dc67",
-      "size": 4857,
-      "source_size": 61174
+      "sha256": "55a02fc93b83097958e0e94a6edc7e69a0bdbf78ab3e309398ea9b9686cc761c",
+      "size": 5201,
+      "source_size": 66789
     },
     "Movies/Series/Transformers.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "723a59f0fb29bb383627ab66f9bc56704f2603add6a78fe8db87dc157a84379c",
-      "size": 5296,
-      "source_size": 65149
+      "sha256": "a0a93e6367546916800f4e5e654f228de7a9153d41817f0f94aa8a38947dc349",
+      "size": 5634,
+      "source_size": 70764
     },
     "Movies/Series/Underworld.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f5c7c31390fd90aec274ef1caa4399a84d23f03f8bc768012e1682b22910a58e",
-      "size": 5227,
-      "source_size": 63607
+      "sha256": "ac48f2d549ab5ad3926bdf508558b93b7446ed23fa7ac887150d11084025a028",
+      "size": 5567,
+      "source_size": 69222
     },
     "Movies/Series/X-Men.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8ad744d5df36e011ca8eceb80ad98e77b15a7f698cafb9fc66b063f6eef7e520",
-      "size": 5405,
-      "source_size": 65853
+      "sha256": "474178028891b91fd6b7831f4dd593d4e4776d61a8f76567a6f1c506a762a06e",
+      "size": 5747,
+      "source_size": 71468
     },
     "Movies/Series/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9c27d9c30c11973f80e99bde71ba0359accf0ff79e3d27f4c69751d48982118b",
-      "size": 4479,
-      "source_size": 60297
+      "sha256": "a0f5e380ed0eafe99841f43ec0098a05782be21c12d28d078d88f77cafbb7acf",
+      "size": 4820,
+      "source_size": 65912
     },
     "Movies/index.html": {
       "content_encoding": "gzip",

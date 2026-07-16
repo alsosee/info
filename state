@@ -3456,6 +3456,7 @@ Movies/Awards/Oscar/2025.yml	86b39699
 Movies/Series/21 Jump Street.yml	7b7c8b5
 Movies/Series/A Nightmare on Elm Street.yml	b6d4f86f
 Movies/Series/Alien.yml	fc0eb9c4
+Movies/Series/Alvin and the Chipmunks.yml	36bd4922
 Movies/Series/American Pie.yml	e0b6ac8c
 Movies/Series/Ant-Man.yml	e1f947ac
 Movies/Series/Austin Powers.yml	2533e2de
@@ -3469,13 +3470,18 @@ Movies/Series/Blade Runner.yml	babdcfc1
 Movies/Series/Bourne.yml	1a098c13
 Movies/Series/Captain America.yml	f1712193
 Movies/Series/Captain Marvel.yml	1221bc44
+Movies/Series/Child's Play.yml	6c9e3306
 Movies/Series/Cloverfield.yml	5c054db5
 Movies/Series/Criminal City.yml	f86eea3
 Movies/Series/DC Extended Universe.yml	b6bd099d
 Movies/Series/Deadpool.yml	79cdf06d
+Movies/Series/Demon Slayer Kimetsu no Yaiba.yml	a825cbb2
 Movies/Series/Despicable Me.yml	e00253ee
+Movies/Series/Diary of a Wimpy Kid.yml	77463a6a
 Movies/Series/Die Hard.yml	b9174944
 Movies/Series/Doctor Strange.yml	36a734fe
+Movies/Series/Dragon Ball.yml	1283e924
+Movies/Series/Evil Dead.yml	d0a09cd0
 Movies/Series/Fantastic Beasts.yml	c559470
 Movies/Series/Fast & Furious.yml	baec5cd7
 Movies/Series/Final Destination.yml	38755dc2
@@ -3485,12 +3491,15 @@ Movies/Series/Ghostbusters.yml	48ff872d
 Movies/Series/Guardians of the Galaxy.yml	d723a6b
 Movies/Series/Halloween.yml	6d4cc9f2
 Movies/Series/Harry Potter.yml	449e60c7
+Movies/Series/Hellraiser.yml	66d080f7
 Movies/Series/Home Alone.yml	a3343e3b
 Movies/Series/Hotel Transylvania.yml	c5f1de5b
 Movies/Series/How to Train Your Dragon.yml	80ec5788
 Movies/Series/Ice Age.yml	7c8742f1
 Movies/Series/Indiana Jones.yml	88aa157d
+Movies/Series/Infernal Affairs.yml	3b4cae2
 Movies/Series/Insidious.yml	1b853e1a
+Movies/Series/Ip Man.yml	f3b9831c
 Movies/Series/Iron Man.yml	497cc110
 Movies/Series/James Bond.yml	476551b9
 Movies/Series/John Wick.yml	61cc298f
@@ -3510,22 +3519,29 @@ Movies/Series/Mission: Impossible.yml	38e931de
 Movies/Series/MonsterVerse.yml	dd1178f
 Movies/Series/Monsters, Inc..yml	4643e94a
 Movies/Series/Mortal Kombat.yml	6d5d4ab2
+Movies/Series/My Hero Academia.yml	1c9ee959
 Movies/Series/National Treasure.yml	7a4dde7e
 Movies/Series/Night at the Museum.yml	62796ac3
 Movies/Series/Now You See Me.yml	46aa3523
 Movies/Series/Ocean's.yml	d3a18a0e
+Movies/Series/Once Upon a Time in China.yml	95e95e14
 Movies/Series/Paddington.yml	bc4bd721
 Movies/Series/Paranormal Activity.yml	7db2b62e
 Movies/Series/Percy Jackson.yml	d06608d9
 Movies/Series/Pirates of the Caribbean.yml	163fe541
 Movies/Series/Pitch Perfect.yml	f211a844
 Movies/Series/Planet of the Apes.yml	e7bfb3f3
+Movies/Series/Pokémon.yml	b42db012
+Movies/Series/Police Academy.yml	cdbe5e3f
+Movies/Series/Police Story.yml	39b74ea7
 Movies/Series/Predator.yml	8ad85610
+Movies/Series/Project A.yml	769eee99
 Movies/Series/Puss in Boots.yml	ca842d1
 Movies/Series/Rambo.yml	2da8e72e
 Movies/Series/Resident Evil.yml	29ee000e
 Movies/Series/Rocky.yml	eba51c3f
 Movies/Series/Saw.yml	8ff0cf32
+Movies/Series/Scary Movie.yml	897eb68b
 Movies/Series/Scream.yml	2debdac2
 Movies/Series/Shrek.yml	9cf93343
 Movies/Series/Sonic the Hedgehog.yml	c9e75914
@@ -3541,14 +3557,20 @@ Movies/Series/The Chronicles of Narnia.yml	2c7f10a
 Movies/Series/The Chronicles of Riddick.yml	49b98919
 Movies/Series/The Conjuring Universe.yml	1cb05080
 Movies/Series/The Equalizer.yml	c98a09a5
+Movies/Series/The Exorcist.yml	683d8e4e
 Movies/Series/The Expendables.yml	f7718c59
 Movies/Series/The Godfather.yml	c2673991
 Movies/Series/The Hangover.yml	32a6216d
 Movies/Series/The Incredibles.yml	d21a8966
+Movies/Series/The Karate Kid.yml	4b0dcc16
 Movies/Series/The Lego Movie.yml	510081f3
 Movies/Series/The Matrix.yml	793de1a8
 Movies/Series/The Mummy.yml	b4208644
+Movies/Series/The Naked Gun.yml	a11120d9
+Movies/Series/The Omen.yml	f70d994
+Movies/Series/The Pink Panther.yml	e99cd034
 Movies/Series/The Purge.yml	e00e28f
+Movies/Series/The Texas Chainsaw Massacre.yml	4974c49a
 Movies/Series/Thor.yml	d77a6b13
 Movies/Series/Tomb Raider.yml	7977e046
 Movies/Series/Top Gun.yml	42fa6a24
