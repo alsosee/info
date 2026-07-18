@@ -7,12 +7,12 @@
 - Use plural schema fields where they already exist: `authors`, `publishers`, `directors`, `writers`, `producers`, `editors`, `developers`, `composers`, `designers`.
 - Do not add singular aliases like `author` or `publisher`; normalize them to `authors` and `publishers`.
 - If CI reports `Unknown field`, either fix the content to an existing field or add the field to `_finder/schema.yml` when it is legitimate reusable metadata.
-- Keep commits scoped by content area when possible (`Movies`, `People`, `Series`, `Games`, schema/workflow fixes separately). Do not mix unrelated staged changes into a commit.
+- Keep commits scoped by content area when possible (`Movies`, `People`, `Shows`, `Games`, schema/workflow fixes separately). Do not mix unrelated staged changes into a commit.
 - Use Conventional Commits for commit messages, for example `fix: model comic issues as objects` or `chore: update schema docs`.
 - Never skip commit verification. Do not use `git commit --no-verify`; fix the failing check instead.
 - When asked to review or commit a subset of directories, inspect and stage only those paths.
 - Avoid committing generated/local/project-noise files unless explicitly requested.
-- No `ref: Characters/...` entries in movie/show/series character lists unless the user explicitly asks for them. Keep character `name`, `actor`, and `voice` fields.
+- No `ref: Characters/...` entries in movie/show character lists unless the user explicitly asks for them. Keep character `name`, `actor`, and `voice` fields.
 
 ## References and Series
 
@@ -42,12 +42,13 @@ Fields (from `Warner Bros. Pictures.yml`):
 
 ## Shows Schema
 
-Files live at `Shows/{Show Name}.yml`.
+Show season files live at `Shows/{year}/{Show Name}.yml` for the first season or limited/standalone entry, and `Shows/{year}/{Show Name}, Season {N}.yml` for later seasons.
 
 Fields (from `CriticalRole.yml`):
 - `name` — display name
 - `website` — official site URL
 - Other social/streaming fields may apply (infer from existing files)
+- For multi-season shows, use `series: Show Name` as a plain string. Do not point it to a `Series` subdirectory under `Shows`; generated series pages infer the path from `Shows`.
 
 ## Video Game Schema
 

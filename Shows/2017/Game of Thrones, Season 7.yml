@@ -1,0 +1,156 @@
+name: "Game of Thrones, Season 7"
+description: >
+  The penultimate season sees the converge of the main storylines as Daenerys Targaryen finally reaches
+  Westeros. While she seeks to reclaim the Iron Throne from Cersei Lannister, Jon Snow warns of the
+  impending threat of the White Walkers beyond the Wall.
+previous: Shows/2016/Game of Thrones, Season 6
+released: 2017-07-16
+rating: TV-MA
+genres:
+  - drama
+  - fantasy
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Game_of_Thrones_(season_7)
+imdb: https://www.imdb.com/title/tt0944947/
+tmdb: https://www.themoviedb.org/tv/1399-game-of-thrones/season/7
+rotten_tomatoes: https://www.rottentomatoes.com/tv/game-of-thrones/s07
+metacritic: https://www.metacritic.com/tv/game-of-thrones/season-7
+spotify: https://open.spotify.com/album/1S7p6v6v6v6v6v6v6v6v6v
+creators:
+  - David Benioff
+  - D. B. Weiss
+directors:
+  - Jeremy Podeswa
+  - Mark Mylod
+  - Matt Shakman
+  - Alan Taylor
+producers:
+  - David Benioff
+  - D. B. Weiss
+  - Frank Doelger
+  - Carolyn Strauss
+  - George R. R. Martin
+  - Bernadette Caulfield
+  - Guymon Casady
+  - Vince Gerardis
+characters:
+  - name: Peter Dinklage
+    actor: Tyrion Lannister
+  - name: Nikolaj Coster-Waldau
+    actor: Jaime Lannister
+  - name: Lena Headey
+    actor: Cersei Lannister
+  - name: Emilia Clarke
+    actor: Daenerys Targaryen
+  - name: Kit Harington
+    actor: Jon Snow
+  - name: Aidan Gillen
+    actor: Petyr "Littlefinger" Baelish
+  - name: Liam Cunningham
+    actor: Davos Seaworth
+  - name: Carice van Houten
+    actor: Melisandre
+  - name: Sophie Turner
+    actor: Sansa Stark
+  - name: Maisie Williams
+    actor: Arya Stark
+  - name: Isaac Hempstead Wright
+    actor: Bran Stark
+  - name: Alfie Allen
+    actor: Theon Greyjoy
+  - name: John Bradley
+    actor: Samwell Tarly
+  - name: Kristofer Hivju
+    actor: Tormund Giantsbane
+  - name: Gwendoline Christie
+    actor: Brienne of Tarth
+  - name: Conleth Hill
+    actor: Varys
+  - name: Jerome Flynn
+    actor: Bronn
+  - name: Iain Glen
+    actor: Jorah Mormont
+  - name: Nathalie Emmanuel
+    actor: Missandei
+  - name: Rory McCann
+    actor: Sandor "The Hound" Clegane
+episodes:
+  - name: Dragonstone
+    description: >
+      Jon organizes the defense of the North while Daenerys arrives at her ancestral home of Dragonstone.
+    released: 2017-07-16
+    length: 59m
+    imdb: https://www.imdb.com/title/tt5654088/
+    wikipedia: https://en.wikipedia.org/wiki/Dragonstone_(Game_of_Thrones)
+    directors: Jeremy Podeswa
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: Stormborn
+    description: >
+      Daenerys receives an unexpected visitor while Jon faces resistance to his plan for an alliance with her.
+    released: 2017-07-23
+    length: 59m
+    imdb: https://www.imdb.com/title/tt5654310/
+    wikipedia: https://en.wikipedia.org/wiki/Stormborn
+    directors: Mark Mylod
+    writers: Bryan Cogman
+
+  - name: The Queen's Justice
+    description: >
+      Jon and Daenerys finally meet while Cersei takes revenge on her enemies in the south.
+    released: 2017-07-30
+    length: 63m
+    imdb: https://www.imdb.com/title/tt5654312/
+    wikipedia: https://en.wikipedia.org/wiki/The_Queen%27s_Justice
+    directors: Mark Mylod
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Spoils of War
+    description: >
+      The Lannisters face a devastating attack from Daenerys and her dragon while Arya returns to Winterfell.
+    released: 2017-08-06
+    length: 50m
+    imdb: https://www.imdb.com/title/tt5654314/
+    wikipedia: https://en.wikipedia.org/wiki/The_Spoils_of_War_(Game_of_Thrones)
+    directors: Matt Shakman
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: Eastwatch
+    description: >
+      Jon leads a dangerous mission beyond the Wall to capture a wight and prove the White Walker threat.
+    released: 2017-08-13
+    length: 59m
+    imdb: https://www.imdb.com/title/tt5723356/
+    wikipedia: https://en.wikipedia.org/wiki/Eastwatch
+    directors: Matt Shakman
+    writers: Dave Hill
+
+  - name: Beyond the Wall
+    description: >
+      Jon and his team are surrounded by the army of the dead, leading to a desperate rescue by Daenerys.
+    released: 2017-08-20
+    length: 70m
+    imdb: https://www.imdb.com/title/tt5723354/
+    wikipedia: https://en.wikipedia.org/wiki/Beyond_the_Wall_(Game_of_Thrones)
+    directors: Alan Taylor
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Dragon and the Wolf
+    description: >
+      A massive meeting is held at the Dragonpit in King's Landing while a secret about Jon's parentage is revealed.
+    released: 2017-08-27
+    length: 81m
+    imdb: https://www.imdb.com/title/tt5723358/
+    wikipedia: https://en.wikipedia.org/wiki/The_Dragon_and_the_Wolf
+    directors: Jeremy Podeswa
+    writers:
+      - David Benioff
+      - D. B. Weiss

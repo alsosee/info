@@ -1,0 +1,197 @@
+name: "Game of Thrones, Season 6"
+description: >
+  The sixth season follows the struggle for power in the Seven Kingdoms and beyond. While Jon Snow's
+  fate is revealed at Castle Black, Sansa Stark seeks to reclaim Winterfell from the Boltons. Daenerys
+  Targaryen must consolidate her rule in Meereen before finally setting sail for Westeros.
+previous: Shows/2015/Game of Thrones, Season 5
+released: 2016-04-24
+rating: TV-MA
+genres:
+  - drama
+  - fantasy
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Game_of_Thrones_(season_6)
+imdb: https://www.imdb.com/title/tt0944947/
+tmdb: https://www.themoviedb.org/tv/1399-game-of-thrones/season/6
+rotten_tomatoes: https://www.rottentomatoes.com/tv/game-of-thrones/s06
+metacritic: https://www.metacritic.com/tv/game-of-thrones/season-6
+spotify: https://open.spotify.com/album/1S6v6p6v6p6v6p6v6p6v6p
+creators:
+  - David Benioff
+  - D. B. Weiss
+directors:
+  - Jeremy Podeswa
+  - David Sackheim
+  - Jack Bender
+  - Mark Mylod
+  - Miguel Sapochnik
+producers:
+  - David Benioff
+  - D. B. Weiss
+  - Frank Doelger
+  - Carolyn Strauss
+  - George R. R. Martin
+  - Bernadette Caulfield
+  - Guymon Casady
+  - Vince Gerardis
+characters:
+  - name: Peter Dinklage
+    actor: Tyrion Lannister
+  - name: Nikolaj Coster-Waldau
+    actor: Jaime Lannister
+  - name: Lena Headey
+    actor: Cersei Lannister
+  - name: Emilia Clarke
+    actor: Daenerys Targaryen
+  - name: Kit Harington
+    actor: Jon Snow
+  - name: Aidan Gillen
+    actor: Petyr "Littlefinger" Baelish
+  - name: Liam Cunningham
+    actor: Davos Seaworth
+  - name: Carice van Houten
+    actor: Melisandre
+  - name: Sophie Turner
+    actor: Sansa Stark
+  - name: Maisie Williams
+    actor: Arya Stark
+  - name: Isaac Hempstead Wright
+    actor: Bran Stark
+  - name: Alfie Allen
+    actor: Theon Greyjoy
+  - name: John Bradley
+    actor: Samwell Tarly
+  - name: Kristofer Hivju
+    actor: Tormund Giantsbane
+  - name: Gwendoline Christie
+    actor: Brienne of Tarth
+  - name: Iwan Rheon
+    actor: Ramsay Bolton
+  - name: Conleth Hill
+    actor: Varys
+  - name: Jerome Flynn
+    actor: Bronn
+  - name: Iain Glen
+    actor: Jorah Mormont
+  - name: Michiel Huisman
+    actor: Daario Naharis
+  - name: Nathalie Emmanuel
+    actor: Missandei
+  - name: Dean-Charles Chapman
+    actor: Tommen Baratheon
+  - name: Jonathan Pryce
+    actor: The High Sparrow
+episodes:
+  - name: The Red Woman
+    description: >
+      Jon Snow's body is discovered at Castle Black while Daenerys is captured by a Dothraki khalasar.
+    released: 2016-04-24
+    length: 50m
+    imdb: https://www.imdb.com/title/tt3658014/
+    wikipedia: https://en.wikipedia.org/wiki/The_Red_Woman
+    directors: Jeremy Podeswa
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: Home
+    description: >
+      Bran continues his training with the Three-Eyed Raven while Davos pleads with Melisandre to intervene.
+    released: 2016-05-01
+    length: 54m
+    imdb: https://www.imdb.com/title/tt4065632/
+    wikipedia: https://en.wikipedia.org/wiki/Home_(Game_of_Thrones)
+    directors: Jeremy Podeswa
+    writers: Dave Hill
+
+  - name: Oathbreaker
+    description: >
+      Jon Snow faces the men who betrayed him while Sam and Gilly travel toward Oldtown.
+    released: 2016-05-08
+    length: 52m
+    imdb: https://www.imdb.com/title/tt4283016/
+    wikipedia: https://en.wikipedia.org/wiki/Oathbreaker_(Game_of_Thrones)
+    directors: Daniel Sackheim
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: Book of the Stranger
+    description: >
+      Sansa arrives at Castle Black for a reunion while Daenerys faces the khals in Vaes Dothrak.
+    released: 2016-05-15
+    length: 59m
+    imdb: https://www.imdb.com/title/tt4283020/
+    wikipedia: https://en.wikipedia.org/wiki/Book_of_the_Stranger
+    directors: Daniel Sackheim
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Door
+    description: >
+      The origins of the White Walkers are revealed as Bran's past and present collide in a tragic escape.
+    released: 2016-05-22
+    length: 57m
+    imdb: https://www.imdb.com/title/tt4283022/
+    wikipedia: https://en.wikipedia.org/wiki/The_Door_(Game_of_Thrones)
+    directors: Jack Bender
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: Blood of My Blood
+    description: >
+      Arya is given a second chance to prove her loyalty while Bran and Meereen are rescued by a long-lost ally.
+    released: 2016-05-29
+    length: 52m
+    imdb: https://www.imdb.com/title/tt4283054/
+    wikipedia: https://en.wikipedia.org/wiki/Blood_of_My_Blood
+    directors: Jack Bender
+    writers: Bryan Cogman
+
+  - name: The Broken Man
+    description: >
+      The Hound is revealed to have survived while Jon and Sansa seek support for their war against the Boltons.
+    released: 2016-06-05
+    length: 51m
+    imdb: https://www.imdb.com/title/tt4283074/
+    wikipedia: https://en.wikipedia.org/wiki/The_Broken_Man
+    directors: Mark Mylod
+    writers: Bryan Cogman
+
+  - name: No One
+    description: >
+      Jaime confronts Brienne at Riverrun while Arya makes a final stand against the Waif in Braavos.
+    released: 2016-06-12
+    length: 59m
+    imdb: https://www.imdb.com/title/tt4283088/
+    wikipedia: https://en.wikipedia.org/wiki/No_One_(Game_of_Thrones)
+    directors: Mark Mylod
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: Battle of the Bastards
+    description: >
+      Jon Snow and Ramsay Bolton lead their armies in a massive, decisive battle for control of Winterfell.
+    released: 2016-06-19
+    length: 60m
+    imdb: https://www.imdb.com/title/tt4283094/
+    wikipedia: https://en.wikipedia.org/wiki/Battle_of_the_Bastards
+    directors: Miguel Sapochnik
+    writers:
+      - David Benioff
+      - D. B. Weiss
+
+  - name: The Winds of Winter
+    description: >
+      Cersei takes a drastic step to eliminate her enemies in King's Landing while Jon Snow is proclaimed King in the North.
+    released: 2016-06-26
+    length: 68m
+    imdb: https://www.imdb.com/title/tt4283096/
+    wikipedia: https://en.wikipedia.org/wiki/The_Winds_of_Winter_(Game_of_Thrones)
+    directors: Miguel Sapochnik
+    writers:
+      - David Benioff
+      - D. B. Weiss

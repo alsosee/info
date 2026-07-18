@@ -1,0 +1,41 @@
+name: Wednesday
+series: The Addams Family
+description: American supernatural mystery comedy series about Wednesday Addams attending Nevermore Academy while investigating murders and secrets tied to her family.
+released: 2022-11-23
+rating: TV-14
+genres:
+  - black comedy
+  - mystery
+  - supernatural
+  - coming-of-age
+wikipedia: https://en.wikipedia.org/wiki/Wednesday_(TV_series)
+imdb: https://www.imdb.com/title/tt13443470
+tmdb: https://www.themoviedb.org/tv/119051-wednesday
+rotten_tomatoes: https://www.rottentomatoes.com/tv/wednesday
+netflix: https://www.netflix.com/title/81231974
+network: Netflix
+creators:
+  - Alfred Gough
+  - Miles Millar
+production:
+  - Millar Gough Ink
+  - Tim Burton Productions
+  - Toluca Pictures
+  - MGM Television
+characters:
+  - name: Wednesday Addams
+    actor: Jenna Ortega
+  - name: Larissa Weems
+    actor: Gwendoline Christie
+  - name: Enid Sinclair
+    actor: Emma Myers
+  - name: Morticia Addams
+    actor: Catherine Zeta-Jones
+  - name: Gomez Addams
+    actor: Luis Guzmán
+  - name: Pugsley Addams
+    actor: Isaac Ordonez
+  - name: Thing
+    actor: Victor Dorobantu
+  - name: Uncle Fester
+    actor: Fred Armisen

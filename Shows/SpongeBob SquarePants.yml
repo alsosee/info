@@ -1,0 +1,53 @@
+name: SpongeBob SquarePants
+description: >
+  SpongeBob SquarePants follows an optimistic sea sponge and his friends in the
+  underwater city of Bikini Bottom. SpongeBob works as a fry cook at the Krusty
+  Krab while getting pulled into surreal comedy with Patrick, Squidward, Sandy,
+  Mr. Krabs, Plankton, and the rest of the town.
+released: 1999-05-01
+genres:
+  - animation
+  - comedy
+  - family
+network: Nickelodeon
+wikipedia: https://en.wikipedia.org/wiki/SpongeBob_SquarePants
+imdb: https://www.imdb.com/title/tt0206512
+tmdb: https://www.themoviedb.org/tv/387-spongebob-squarepants
+creators: Stephen Hillenburg
+developed_by:
+  - Derek Drymon
+  - Tim Hill
+  - Nicholas R. Jennings
+showrunners:
+  - Stephen Hillenburg
+  - Paul Tibbitt
+  - Marc Ceccarelli
+  - Vincent Waller
+music:
+  - Steve Belfer
+  - Nicolas Carr
+  - Sage Guyton
+  - Jeremy Wakefield
+  - Eban Schletter
+production:
+  - United Plankton Pictures
+  - Nickelodeon Animation Studio
+characters:
+  - name: SpongeBob SquarePants
+    voice: Tom Kenny
+  - name: Patrick Star
+    voice: Bill Fagerbakke
+  - name: Squidward Tentacles
+    voice: Rodger Bumpass
+  - name: Mr. Krabs
+    voice: Clancy Brown
+  - name: Plankton
+    voice: Mr. Lawrence
+  - name: Karen
+    voice: Jill Talley
+  - name: Sandy Cheeks
+    voice: Carolyn Lawrence
+  - name: Mrs. Puff
+    voice: Mary Jo Catlett
+  - name: Pearl Krabs
+    voice: Lori Alan

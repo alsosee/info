@@ -1,0 +1,27 @@
+name: The Addams Family
+series: The Addams Family
+description: Animated Saturday-morning series following the Addams family as they travel in a mansion-like camper and encounter strange adventures across the country.
+released: 1973-09-08
+genres:
+  - animation
+  - sitcom
+  - comedy horror
+wikipedia: https://en.wikipedia.org/wiki/The_Addams_Family_(1973_TV_series)
+imdb: https://www.imdb.com/title/tt0069548
+tmdb: https://www.themoviedb.org/tv/13348-the-addams-family
+network: NBC
+creators: Charles Addams
+production: Hanna-Barbera Productions
+characters:
+  - name: Gomez Addams
+    voice: Lennie Weinrib
+  - name: Morticia Addams
+    voice: Janet Waldo
+  - name: Uncle Fester
+    voice: Jackie Coogan
+  - name: Lurch
+    voice: Ted Cassidy
+  - name: Pugsley Addams
+    voice: Jodie Foster
+  - name: Wednesday Addams
+    voice: Cindy Henderson

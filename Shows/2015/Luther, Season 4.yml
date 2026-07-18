@@ -1,0 +1,56 @@
+name: "Luther, Season 4"
+description: >
+  Living a reclusive life on the edge of the coast, Luther is pulled back to London 
+  by news of a cannibalistic serial killer whose crimes are baffling the police. 
+  At the same time, he receives information about the mysterious disappearance of 
+  Alice Morgan, leading him to investigate a dangerous criminal underworld.
+previous: Shows/2013/Luther, Season 3
+released: 2015-12-15
+rating: TV-MA
+genres:
+  - crime drama
+  - psychological thriller
+  - police procedural
+network: BBC One
+wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)
+imdb: https://www.imdb.com/title/tt1474684
+tmdb: https://www.themoviedb.org/tv/31132-luther/season/4
+rotten_tomatoes: https://www.rottentomatoes.com/tv/luther/s04
+metacritic: https://www.metacritic.com/tv/luther/season-4
+creators: Neil Cross
+directors: Sam Miller
+writers: Neil Cross
+music: Paul Englishby
+cinematography: John Pardue
+characters:
+  - name: John Luther
+    actor: Idris Elba
+  - name: Martin Schenk
+    actor: Dermot Crowley
+  - name: Benny Silver
+    actor: Michael Smiley
+  - name: Emma Lane
+    actor: Rose Leslie
+  - name: George Cornelius
+    actor: Patrick Malahide
+  - name: Theo Bloom
+    actor: Darren Boyd
+episodes:
+  - name: Episode 1
+    description: >
+      Luther returns to London to track a cannibalistic serial killer while investigating news regarding Alice Morgan.
+    released: 2015-12-15
+    length: 60m
+    imdb: https://www.imdb.com/title/tt4230038
+    wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_4_(2015)
+    directors: Sam Miller
+    writers: Neil Cross
+  - name: Episode 2
+    description: >
+      Luther faces a race against time to catch the cannibalistic killer and uncover the truth about Alice's fate.
+    released: 2015-12-22
+    length: 60m
+    imdb: https://www.imdb.com/title/tt4551900
+    wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_4_(2015)
+    directors: Sam Miller
+    writers: Neil Cross

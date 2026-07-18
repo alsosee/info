@@ -1,0 +1,175 @@
+name: "The Pitt, Season 2"
+description: >
+  The emergency staff of Pittsburgh Trauma Medical Center navigates a grueling
+  15-hour Independence Day shift, with Dr. Robby preparing to hand off his duties
+  as his replacement arrives and the department faces mounting crises.
+previous: Shows/2025/The Pitt
+released: 2026-01-08
+rating: TV-MA
+genres:
+  - medical drama
+  - psychological drama
+wikipedia: https://en.wikipedia.org/wiki/The_Pitt
+imdb: https://www.imdb.com/title/tt31938062
+tmdb: https://www.themoviedb.org/tv/250307-the-pitt/season/2
+network: Max
+creators: R. Scott Gemmill
+directors:
+  - John Wells
+  - Damian Marcano
+  - Uta Briesewitz
+  - John Cameron
+  - Shawn Hatosy
+  - Amanda Marsalis
+  - Noah Wyle
+writers:
+  - R. Scott Gemmill
+  - Joe Sachs
+  - Noah Wyle
+  - Cynthia Adarkwa
+  - Simran Baidwan
+  - Valerie Chu
+  - Kirsten Pierre-Geyfman
+  - Danny Hogan
+characters:
+  - name: 'Dr. Michael "Robby" Robinavitch'
+    actor: Noah Wyle
+  - name: Dr. Frank Langdon
+    actor: Patrick Ball
+  - name: Dana Evans
+    actor: Katherine LaNasa
+  - name: Dr. Samira Mohan
+    actor: Supriya Ganesh
+  - name: Dr. Cassie McKay
+    actor: Fiona Dourif
+  - name: 'Dr. Melissa "Mel" King'
+    actor: Taylor Dearden
+  - name: Dr. Trinity Santos
+    actor: Isa Briones
+  - name: Dr. Dennis Whitaker
+    actor: Gerran Howell
+  - name: Victoria Javadi
+    actor: Shabana Azeez
+  - name: Dr. Baran Al-Hashimi
+    actor: Sepideh Moafi
+episodes:
+  - name: 7:00 A.M.
+    description: >
+      On Independence Day, Dr. Robby begins his final shift before a planned
+      sabbatical, welcoming new students and meeting his incoming replacement.
+    released: 2026-01-08
+    wikipedia: https://en.wikipedia.org/wiki/7:00_A.M._(The_Pitt_season_2)
+    directors: John Wells
+    writers: R. Scott Gemmill
+  - name: 8:00 A.M.
+    description: >
+      Dr. King prepares for an upcoming deposition while Dr. Al-Hashimi introduces
+      new technology to the ER as the morning rush gets underway.
+    released: 2026-01-15
+    directors: Damian Marcano
+    writers:
+      - Joe Sachs
+      - R. Scott Gemmill
+  - name: 9:00 A.M.
+    description: >
+      A motorcycle collision sends a married couple to the ER simultaneously,
+      and Robby forms an unexpected connection with one of the patients.
+    released: 2026-01-22
+    wikipedia: https://en.wikipedia.org/wiki/9:00_A.M._(The_Pitt_season_2)
+    directors: Uta Briesewitz
+    writers: Noah Wyle
+  - name: 10:00 A.M.
+    description: >
+      A nearby hospital's closure on Independence Day sends an overflow of patients
+      to the Pitt, stretching an already strained team to its limits.
+    released: 2026-01-29
+    wikipedia: https://en.wikipedia.org/wiki/10:00_A.M._(The_Pitt_season_2)
+    directors: John Cameron
+    writers: Cynthia Adarkwa
+  - name: 11:00 A.M.
+    description: >
+      The team works urgently to stabilize a beloved patient as a prison inmate
+      and other complex cases demand simultaneous attention.
+    released: 2026-02-05
+    wikipedia: https://en.wikipedia.org/wiki/11:00_A.M._(The_Pitt_season_2)
+    directors: Damian Marcano
+    writers: Simran Baidwan
+  - name: 12:00 P.M.
+    description: >
+      The team faces a critical decision about a patient's care while news of
+      a developing hospital crisis adds pressure to an already demanding shift.
+    released: 2026-02-12
+    wikipedia: https://en.wikipedia.org/wiki/12:00_P.M._(The_Pitt_season_2)
+    directors: Noah Wyle
+    writers: Valerie Chu
+  - name: 1:00 P.M.
+    description: >
+      Dana takes on a sensitive case involving a sexual assault victim as an
+      emergency forces the department's digital systems offline.
+    released: 2026-02-19
+    wikipedia: https://en.wikipedia.org/wiki/1:00_P.M._(The_Pitt_season_2)
+    directors: Uta Briesewitz
+    writers:
+      - Kirsten Pierre-Geyfman
+      - R. Scott Gemmill
+  - name: 2:00 P.M.
+    description: >
+      With the hospital's systems down, the ER team is forced to operate entirely
+      on paper and memory, complicating every ongoing case.
+    released: 2026-02-26
+    wikipedia: https://en.wikipedia.org/wiki/2:00_P.M._(The_Pitt_season_2)
+    directors: John Cameron
+    writers: Joe Sachs
+  - name: 3:00 P.M.
+    description: >
+      With the ER stretched thin, a patient falls through the cracks, prompting
+      Dana to seek outside help.
+    released: 2026-03-05
+    directors: Shawn Hatosy
+    writers: Cynthia Adarkwa
+  - name: 4:00 P.M.
+    description: >
+      A mass incident at a local water park sends a surge of critical patients
+      to the Pitt on an already overwhelming Fourth of July.
+    released: 2026-03-12
+    directors: Damian Marcano
+    writers: Simran Baidwan
+  - name: 5:00 P.M.
+    description: >
+      Dr. King navigates a difficult personal situation involving her sister
+      while an unexpected arrival creates tension in the department.
+    released: 2026-03-19
+    wikipedia: https://en.wikipedia.org/wiki/5:00_P.M._(The_Pitt_season_2)
+    directors: Uta Briesewitz
+    writers: Valerie Chu
+  - name: 6:00 P.M.
+    description: >
+      Dana advocates for a trainee amid broader disagreements over leadership
+      and accountability as the afternoon shift winds down.
+    released: 2026-03-26
+    directors: Amanda Marsalis
+    writers:
+      - Danny Hogan
+      - R. Scott Gemmill
+  - name: 7:00 P.M.
+    description: >
+      The night shift begins as several members of the team confront personal
+      doubts and difficult decisions they can no longer avoid.
+    released: 2026-04-02
+    directors: Damian Marcano
+    writers: Joe Sachs
+  - name: 8:00 P.M.
+    description: >
+      Langdon undertakes a risky procedure while Robby faces the personal stakes
+      of a day that has tested him beyond just medicine.
+    released: 2026-04-09
+    directors: Uta Briesewitz
+    writers: Noah Wyle
+  - name: 9:00 P.M.
+    description: >
+      As the shift draws to a close, an unexpected revelation forces Robby to
+      reckon with an ethical dilemma on what may be his last day at the Pitt.
+    released: 2026-04-16
+    wikipedia: https://en.wikipedia.org/wiki/9:00_P.M._(The_Pitt_season_2)
+    directors: John Wells
+    writers: R. Scott Gemmill

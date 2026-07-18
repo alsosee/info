@@ -1,0 +1,167 @@
+name: "Ozark, Season 4"
+description: >
+  In the final season, the Byrdes broker a deal for Navarro's retirement while facing new threats from his ambitious nephew and the fallout of their past decisions.
+previous: "Shows/2020/Ozark, Season 3"
+released: 2022-01-21
+rating: TV-MA
+genres:
+  - Crime
+  - Drama
+  - Thriller
+wikipedia: https://en.wikipedia.org/wiki/Ozark_(season_4)
+imdb: https://www.imdb.com/title/tt5071412/episodes?season=4
+tmdb: https://www.themoviedb.org/tv/69050-ozark/season/4
+rotten_tomatoes: https://www.rottentomatoes.com/tv/ozark/s04
+network: Netflix
+creators:
+  - Bill Dubuque
+  - Mark Williams
+producers:
+  - Chris Mundy
+  - Jason Bateman
+  - Bill Dubuque
+  - Mark Williams
+  - David Manson
+  - Patrick Markey
+  - John Shiban
+music:
+  - Danny Bensi
+  - Saunder Jurriaans
+cinematography:
+  - Eric Koretz
+  - Shawn Kim
+editors:
+  - Cindy Mollo
+  - Vikash Patel
+  - Heather Goodwin Floyd
+  - Elliot Eisman
+production:
+  - MRC Television
+  - Aggregate Films
+  - Zero Gravity Management
+distributors:
+  - Netflix
+characters:
+  - name: Marty Byrde
+    actor: Jason Bateman
+  - name: Wendy Byrde
+    actor: Laura Linney
+  - name: Ruth Langmore
+    actor: Julia Garner
+  - name: Charlotte Byrde
+    actor: Sofia Hublitz
+  - name: Jonah Byrde
+    actor: Skylar Gaertner
+  - name: Javi Elizonndro
+    actor: Alfonso Herrera
+  - name: Camila Elizonndro
+    actor: Veronica Falcón
+  - name: Maya Miller
+    actor: Jessica Frances Dukes
+  - name: Mel Sattem
+    actor: Adam Rothenberg
+  - name: Omar Navarro
+    actor: Felix Solis
+episodes:
+  - name: The Beginning of the End
+    released: 2022-01-21
+    length: 55m
+    directors: Andrew Bernstein
+    writers: Chris Mundy
+    description: Navarro tasks the Byrdes with brokering a deal for his retirement as a new private investigator begins searching for Helen Pierce.
+    imdb: https://www.imdb.com/title/tt13400332/
+  - name: Let the Great World Spin
+    released: 2022-01-21
+    length: 55m
+    directors: Andrew Bernstein
+    writers: Laura Deeley
+    description: The Byrdes attempt to secure a major deal with a pharmaceutical company while Ruth looks for new business opportunities.
+    imdb: https://www.imdb.com/title/tt15516054/
+  - name: City on the Make
+    released: 2022-01-21
+    length: 54m
+    directors: Andrew Bernstein
+    writers: Martin Zimmerman
+    description: Marty travels to Chicago to finalize a crucial deal, and Wendy handles political maneuvering to ensure the family's future.
+    imdb: https://www.imdb.com/title/tt15516062/
+  - name: Ace Deuce
+    released: 2022-01-21
+    length: 54m
+    directors: Alik Sakharov
+    writers: Heather Jeng Bladt
+    description: Ruth and Marty compete for the same business opportunity, and Wendy's foundation faces increasing scrutiny.
+    imdb: https://www.imdb.com/title/tt15516064/
+  - name: Ellie
+    released: 2022-01-21
+    length: 54m
+    directors: Alik Sakharov
+    writers: Paul Kolsby
+    description: A powerful senator becomes a key player in Wendy's plans, while Marty tries to manage volatile personalities within the cartel.
+    imdb: https://www.imdb.com/title/tt15516066/
+  - name: Sangre Sobre Todo
+    released: 2022-01-21
+    length: 58m
+    directors: Robin Wright
+    writers:
+      - Michael M. Chang
+      - Jed Rapp Goldstein
+    description: The FBI sets its terms for a potential deal with Navarro, and tensions between the Byrdes and Ruth reach a breaking point.
+    imdb: https://www.imdb.com/title/tt15516068/
+  - name: Sanctified
+    released: 2022-01-21
+    length: 54m
+    directors: Robin Wright
+    writers: Miki Johnson
+    description: A high-stakes meeting between the FBI and Navarro takes an unexpected turn, leading to a crisis for everyone involved.
+    imdb: https://www.imdb.com/title/tt15516070/
+  - name: The Cousin of Death
+    released: 2022-04-29
+    length: 51m
+    directors: Amanda Marsalis
+    writers: Chris Mundy
+    description: Ruth travels to Chicago on a mission of revenge, while the Byrdes desperately try to prevent her from jeopardizing their deal.
+    imdb: https://www.imdb.com/title/tt15516074/
+  - name: Pick a God and Pray
+    released: 2022-04-29
+    length: 56m
+    directors: Amanda Marsalis
+    writers: Laura Deeley
+    description: The Byrdes must find a way to keep their deal with the cartel alive as Wendy's father arrives in town, adding personal strain.
+    imdb: https://www.imdb.com/title/tt18285520/
+  - name: You're the Boss
+    released: 2022-04-29
+    length: 58m
+    directors: Melissa Hickey
+    writers: John Shiban
+    description: Marty travels to Mexico to assert authority over the cartel, while Wendy struggles to maintain control over her family.
+    imdb: https://www.imdb.com/title/tt18285524/
+  - name: Pound of Flesh and Still Kickin'
+    released: 2022-04-29
+    length: 58m
+    directors: Laura Linney
+    writers: Chris Mundy
+    description: Ruth attempts to reclaim her family's legacy, and the Byrdes face a new threat from a powerful figure within the cartel.
+    imdb: https://www.imdb.com/title/tt18285528/
+  - name: Trouble the Water
+    released: 2022-04-29
+    length: 58m
+    directors: Amanda Marsalis
+    writers:
+      - Paul Kolsby
+      - Martin Zimmerman
+    description: A legal battle for the Byrde children intensifies, and Marty and Wendy work to finalize a new deal for their freedom.
+    imdb: https://www.imdb.com/title/tt18285532/
+  - name: Mud
+    released: 2022-04-29
+    length: 53m
+    directors: Amanda Marsalis
+    writers: Miki Johnson
+    description: Ruth refuses to back down from her claim on the casino, and Wendy takes extreme measures to keep her family together.
+    imdb: https://www.imdb.com/title/tt18285536/
+  - name: A Hard Way to Go
+    released: 2022-04-29
+    length: 71m
+    directors: Jason Bateman
+    writers: Chris Mundy
+    description: In the series finale, the Byrdes attempt to complete their final play for freedom, but a confrontation threatens their escape.
+    imdb: https://www.imdb.com/title/tt18285540/

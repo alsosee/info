@@ -1,0 +1,27 @@
+name: "Star Trek: Picard, Season 2"
+description: >
+  Picard and his allies are pulled into an alternate timeline by Q and must
+  travel to 2024 Los Angeles to repair a pivotal event in history.
+previous: Shows/2020/Star Trek Picard
+released: 2022-03-03
+rating: TV-MA
+genres:
+  - adventure
+  - drama
+  - science fiction
+network: Paramount+
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Picard_season_2
+imdb: https://www.imdb.com/title/tt8806524
+tmdb: https://www.themoviedb.org/tv/85949-star-trek-picard/season/2
+creators:
+  - Akiva Goldsman
+  - Michael Chabon
+  - Kirsten Beyer
+  - Alex Kurtzman
+characters:
+  - name: Jean-Luc Picard
+    actor: Patrick Stewart
+  - name: Raffi Musiker
+    actor: Michelle Hurd
+  - name: Seven of Nine
+    actor: Jeri Ryan

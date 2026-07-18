@@ -1,0 +1,105 @@
+name: "Fargo, Season 2"
+previous: Shows/2014/Fargo
+released: 2015-10-12
+genres:
+  - Crime
+  - Drama
+  - Black comedy
+  - Noir
+  - Thriller
+wikipedia: https://en.wikipedia.org/wiki/Fargo_(TV_series)
+imdb: https://www.imdb.com/title/tt2384811/
+tmdb: https://www.themoviedb.org/tv/60622-fargo
+creators: Noah Hawley
+music: Jeff Russo
+characters:
+  - name: Peggy Blumquist
+    actor: Kirsten Dunst
+  - name: Ed Blumquist
+    actor: Jesse Plemons
+  - name: Lou Solverson
+    actor: Patrick Wilson
+  - name: Hank Larsson
+    actor: Ted Danson
+  - name: Floyd Gerhardt
+    actor: Jean Smart
+episodes:
+  - name: "Waiting for Dutch"
+    released: 2015-10-12
+    length: 53m
+    wikipedia: https://en.wikipedia.org/wiki/Waiting_for_Dutch
+    directors:
+      - Michael Uppendahl
+      - Randall Einhorn
+    writers: Noah Hawley
+    description: A triple homicide at a diner entangles a local couple and a state trooper in a growing criminal conflict.
+  - name: "Before the Law"
+    released: 2015-10-19
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Before_the_Law_(Fargo)
+    directors: Noah Hawley
+    writers: Noah Hawley
+    description: The Gerhardt crime family faces a buyout offer from a rival syndicate while the police investigation intensifies.
+  - name: "The Myth of Sisyphus"
+    released: 2015-10-26
+    length: 48m
+    wikipedia: https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus_(Fargo)
+    directors: Michael Uppendahl
+    writers: Bob DeLaurentis
+    description: Lou Solverson travels to Fargo to investigate the Gerhardts as Peggy and Ed struggle to hide evidence of their crime.
+  - name: "Fear and Trembling"
+    released: 2015-11-02
+    length: 50m
+    wikipedia: https://en.wikipedia.org/wiki/Fear_and_Trembling_(Fargo)
+    directors: Michael Uppendahl
+    writers: Steve Blackman
+    description: Tensions rise as the Gerhardts prepare for war with Kansas City and Lou warns the Blumquists of the danger they face.
+  - name: "The Gift of the Magi"
+    released: 2015-11-09
+    length: 51m
+    wikipedia: https://en.wikipedia.org/wiki/The_Gift_of_the_Magi_(Fargo)
+    directors: Jeffrey Reiner
+    writers:
+      - Matt Wolpert
+      - Ben Nedivi
+    description: A failed assassination attempt at the butcher shop leads to a fire and forces the Blumquists to make a desperate choice.
+  - name: "Rhinoceros"
+    released: 2015-11-16
+    length: 50m
+    wikipedia: https://en.wikipedia.org/wiki/Rhinoceros_(Fargo)
+    directors: Jeffrey Reiner
+    writers: Noah Hawley
+    description: A tense standoff occurs at the police station when the Gerhardts attempt to seize Ed Blumquist.
+  - name: "Did You Do This? No, You Did It!"
+    released: 2015-11-23
+    length: 49m
+    wikipedia: https://en.wikipedia.org/wiki/Did_You_Do_This%3F_No,_You_Did_It!
+    directors: Keith Gordon
+    writers:
+      - Noah Hawley
+      - Matt Wolpert
+      - Ben Nedivi
+    description: The conflict between the crime families escalates following a deadly raid, leading to new alliances and betrayals.
+  - name: "Loplop"
+    released: 2015-11-30
+    length: 46m
+    wikipedia: https://en.wikipedia.org/wiki/Loplop
+    directors: Keith Gordon
+    writers: Bob DeLaurentis
+    description: Peggy and Ed take a high-ranking criminal hostage at a remote cabin while being hunted by a relentless enforcer.
+  - name: "The Castle"
+    released: 2015-12-07
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/The_Castle_(Fargo)
+    directors: Adam Arkin
+    writers:
+      - Noah Hawley
+      - Steve Blackman
+    description: A police ambush at a motel turns into a chaotic and violent confrontation between multiple factions.
+  - name: "Palindrome"
+    released: 2015-12-14
+    length: 63m
+    wikipedia: https://en.wikipedia.org/wiki/Palindrome_(Fargo)
+    directors: Adam Arkin
+    writers: Noah Hawley
+    description: Lou Solverson pursues the remaining fugitives as the violent saga of the Gerhardt family reaches its conclusion.

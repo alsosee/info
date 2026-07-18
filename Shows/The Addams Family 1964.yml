@@ -1,0 +1,32 @@
+name: The Addams Family
+series: The Addams Family
+description: American gothic sitcom about a wealthy, macabre household whose strange interests and supernatural touches are treated as ordinary family life.
+released: 1964-09-18
+rating: TV-G
+genres:
+  - sitcom
+  - gothic
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/The_Addams_Family_(1964_TV_series)
+imdb: https://www.imdb.com/title/tt0057729
+tmdb: https://www.themoviedb.org/tv/14009-the-addams-family
+network: ABC
+creators: David Levy
+production:
+  - Filmways Television
+  - MGM Television
+characters:
+  - name: Morticia Addams
+    actor: Carolyn Jones
+  - name: Gomez Addams
+    actor: John Astin
+  - name: Uncle Fester
+    actor: Jackie Coogan
+  - name: Lurch
+    actor: Ted Cassidy
+  - name: Grandmama
+    actor: Blossom Rock
+  - name: Pugsley Addams
+    actor: Ken Weatherwax
+  - name: Wednesday Addams
+    actor: Lisa Loring

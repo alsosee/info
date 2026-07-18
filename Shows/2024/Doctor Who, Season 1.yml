@@ -1,0 +1,94 @@
+name: "Doctor Who, Season 1"
+description: >
+  The first season of the Fifteenth Doctor's era follows the Doctor and his new companion, Ruby Sunday, as they travel through time and space. From the Regency era in England to war-torn future worlds, they encounter a variety of threats, including the musical Maestro and the return of the ancient god of death, Sutekh.
+released: 2024-05-11
+rating: TV-PG
+genres:
+  - science fiction
+  - adventure
+  - drama
+network: Disney+
+wikipedia: https://en.wikipedia.org/wiki/Doctor_Who_(series_14)
+imdb: https://www.imdb.com/title/tt0436992/episodes?season=14
+tmdb: https://www.themoviedb.org/tv/239770-doctor-who/season/1
+creators: Russell T Davies
+characters:
+  - name: The Doctor
+    actor: Ncuti Gatwa
+  - name: Ruby Sunday
+    actor: Millie Gibson
+episodes:
+  - name: Space Babies
+    description: >
+      Ruby learns the Doctor's amazing secrets when he takes her to the far future. There, they find a baby farm run by babies. But can they be saved from the terrifying bogeyman?
+    released: 2024-05-11
+    length: 46m
+    imdb: https://www.imdb.com/title/tt27715494
+    wikipedia: https://en.wikipedia.org/wiki/Space_Babies
+    directors: Julie Anne Robinson
+    writers: Russell T Davies
+  - name: The Devil's Chord
+    description: >
+      The Doctor and Ruby meet The Beatles but discover that the all-powerful Maestro is changing history. London becomes a battleground with the future of humanity at stake.
+    released: 2024-05-11
+    length: 49m
+    imdb: https://www.imdb.com/title/tt28187834
+    wikipedia: https://en.wikipedia.org/wiki/The_Devil%27s_Chord
+    directors: Ben Chessell
+    writers: Russell T Davies
+  - name: Boom
+    description: >
+      Caught in the middle of a devastating war on Kastarion 3, the Doctor is trapped when he steps on a landmine. Can he save himself and Ruby, plus the entire planet... without moving?
+    released: 2024-05-18
+    length: 44m
+    imdb: https://www.imdb.com/title/tt28187841
+    wikipedia: https://en.wikipedia.org/wiki/Boom_(Doctor_Who)
+    directors: Julie Anne Robinson
+    writers: Steven Moffat
+  - name: 73 Yards
+    description: >
+      Landing on the Welsh coast, the Doctor and Ruby embark on the strangest journey of their lives. In a rain-lashed pub, the locals sit in fear of ancient legends coming to life.
+    released: 2024-05-25
+    length: 47m
+    imdb: https://www.imdb.com/title/tt28187843
+    wikipedia: https://en.wikipedia.org/wiki/73_Yards
+    directors: Dylan Holmes Williams
+    writers: Russell T Davies
+  - name: Dot and Bubble
+    description: >
+      The world of Finetime seems happy and harmonious. But an awful terror is preying on the citizens. Can the Doctor and Ruby make them see the truth before it’s too late?
+    released: 2024-06-01
+    length: 43m
+    imdb: https://www.imdb.com/title/tt28187848
+    wikipedia: https://en.wikipedia.org/wiki/Dot_and_Bubble
+    directors: Dylan Holmes Williams
+    writers: Russell T Davies
+  - name: Rogue
+    description: >
+      The Doctor and Ruby land in 1813, where guests at a duchess's party are being murdered and a mysterious bounty hunter called Rogue is about to change the Doctor's life forever.
+    released: 2024-06-08
+    length: 44m
+    imdb: https://www.imdb.com/title/tt28187850
+    wikipedia: https://en.wikipedia.org/wiki/Rogue_(Doctor_Who)
+    directors: Ben Chessell
+    writers:
+      - Kate Herron
+      - Briony Redman
+  - name: The Legend of Ruby Sunday
+    description: >
+      The Doctor and UNIT investigate Ruby's past. But as the Time Window reveals horrifying secrets from Christmas Eve, the mysterious Triad Technology unleash the greatest evil of all.
+    released: 2024-06-15
+    length: 45m
+    imdb: https://www.imdb.com/title/tt28187851
+    wikipedia: https://en.wikipedia.org/wiki/The_Legend_of_Ruby_Sunday
+    directors: Jamie Donoughue
+    writers: Russell T Davies
+  - name: Empire of Death
+    description: >
+      The Doctor has lost, his ageless enemy reigns supreme, and a shadow is falling over creation. Nothing can stop the devastation... except, perhaps, one woman.
+    released: 2024-06-22
+    length: 56m
+    imdb: https://www.imdb.com/title/tt28187854
+    wikipedia: https://en.wikipedia.org/wiki/Empire_of_Death
+    directors: Jamie Donoughue
+    writers: Russell T Davies

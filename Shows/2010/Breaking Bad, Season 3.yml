@@ -1,0 +1,173 @@
+name: "Breaking Bad, Season 3"
+description: >
+  The third season follows Walter White as he attempts to balance his deteriorating family life with a lucrative new offer to cook meth for drug kingpin Gus Fring in a state-of-the-art "superlab." As Skyler discovers Walt's secret and seeks a divorce, Walt and Jesse find themselves increasingly entangled in a dangerous corporate drug empire while being hunted by vengeful cartel assassins.
+previous: Shows/2009/Breaking Bad, Season 2
+released: 2010-03-21
+rating: TV-MA
+genres:
+  - crime
+  - drama
+network: AMC
+wikipedia: https://en.wikipedia.org/wiki/Breaking_Bad_(season_3)
+imdb: https://www.imdb.com/title/tt0903747/episodes?season=3
+tmdb: https://www.themoviedb.org/tv/1396-breaking-bad/season/3
+creators: Vince Gilligan
+directors:
+  - Bryan Cranston
+  - Adam Bernstein
+  - Michelle MacLaren
+  - Scott Winant
+  - Johan Renck
+  - John Shiban
+  - Colin Bucksey
+  - Michael Slovis
+  - Rian Johnson
+  - Vince Gilligan
+writers:
+  - Vince Gilligan
+  - Peter Gould
+  - George Mastras
+  - Sam Catlin
+  - Moira Walley-Beckett
+  - John Shiban
+  - Thomas Schnauz
+  - Gennifer Hutchison
+producers: Vince Gilligan
+characters:
+  - name: Walter White
+    actor: Bryan Cranston
+  - name: Skyler White
+    actor: Anna Gunn
+  - name: Jesse Pinkman
+    actor: Aaron Paul
+  - name: Hank Schrader
+    actor: Dean Norris
+  - name: Marie Schrader
+    actor: Betsy Brandt
+  - name: Walter White Jr.
+    actor: RJ Mitte
+  - name: Saul Goodman
+    actor: Bob Odenkirk
+  - name: Gus Fring
+    actor: Giancarlo Esposito
+  - name: Mike Ehrmantraut
+    actor: Jonathan Banks
+  - name: Leonel Salamanca
+    actor: Daniel Moncada
+  - name: Marco Salamanca
+    actor: Luis Moncada
+  - name: Gale Boetticher
+    actor: David Costabile
+episodes:
+  - name: "No Más"
+    description: >
+      Walt deals with the aftermath of the mid-air collision and his separation from Skyler while Jesse enters rehab.
+    released: 2010-03-21
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/No_M%C3%A1s
+    directors: Bryan Cranston
+    writers: Vince Gilligan
+  - name: "Caballo sin Nombre"
+    description: >
+      Walt struggles to adjust to his new life and has a tense encounter with the police, while Jesse buys back his childhood home.
+    released: 2010-03-28
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Caballo_sin_Nombre
+    directors: Adam Bernstein
+    writers: Peter Gould
+  - name: "I.F.T."
+    description: >
+      Walt moves back into the family home against Skyler's wishes, leading her to take drastic measures to push him away.
+    released: 2010-04-04
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/I.F.T._(Breaking_Bad)
+    directors: Michelle MacLaren
+    writers: George Mastras
+  - name: "Green Light"
+    description: >
+      Walt causes a scene at Skyler's workplace and loses Saul's help, while Jesse tries to sell his own batch of meth to Gus.
+    released: 2010-04-11
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Green_Light_(Breaking_Bad)
+    directors: Scott Winant
+    writers: Sam Catlin
+  - name: "Más"
+    description: >
+      Gus attempts to lure Walt back into the business with a high-tech lab, while Hank's investigation leads him closer to Jesse's RV.
+    released: 2010-04-18
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/M%C3%A1s_(Breaking_Bad)
+    directors: Johan Renck
+    writers: Moira Walley-Beckett
+  - name: "Sunset"
+    description: >
+      Walt begins working in the new lab with a new assistant, while Hank corners the RV with Walt and Jesse trapped inside.
+    released: 2010-04-25
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Sunset_(Breaking_Bad)
+    directors: John Shiban
+    writers: John Shiban
+  - name: "One Minute"
+    description: >
+      Hank faces the consequences of his attack on Jesse and later finds himself in a deadly confrontation with the Salamanca cousins.
+    released: 2010-05-02
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/One_Minute_(Breaking_Bad)
+    directors: Michelle MacLaren
+    writers: Thomas Schnauz
+  - name: "I See You"
+    description: >
+      As Hank fights for his life in the hospital, Walt tries to manage the lab and the threat posed by a recovering cartel assassin.
+    released: 2010-05-09
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/I_See_You_(Breaking_Bad)
+    directors: Colin Bucksey
+    writers: Gennifer Hutchison
+  - name: "Kafkaesque"
+    description: >
+      Walt and Jesse settle into a production routine, while Skyler devises a plan to pay for Hank's medical bills using Walt's "gambling" money.
+    released: 2010-05-16
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Kafkaesque_(Breaking_Bad)
+    directors: Michael Slovis
+    writers:
+      - Peter Gould
+      - George Mastras
+  - name: "Fly"
+    description: >
+      Walt becomes obsessed with a fly in the lab, leading to a tense and sleep-deprived night of reflection with Jesse.
+    released: 2010-05-23
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Fly_(Breaking_Bad)
+    directors: Rian Johnson
+    writers:
+      - Sam Catlin
+      - Moira Walley-Beckett
+  - name: "Abiquiu"
+    description: >
+      Skyler gets more involved in Walt's financial affairs, while Jesse discovers a disturbing connection between Gus and his new girlfriend's family.
+    released: 2010-05-30
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Abiquiu_(Breaking_Bad)
+    directors: Michelle MacLaren
+    writers:
+      - John Shiban
+      - Thomas Schnauz
+  - name: "Half Measures"
+    description: >
+      Jesse seeks revenge against the dealers who killed a friend, forcing Walt to make a life-altering decision to protect his partner.
+    released: 2010-06-06
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Half_Measures
+    directors: Adam Bernstein
+    writers:
+      - Sam Catlin
+      - Peter Gould
+  - name: "Full Measure"
+    description: >
+      Walt and Jesse find themselves in a desperate struggle for survival against Gus, leading to a final, high-stakes plan.
+    released: 2010-06-13
+    length: 47m
+    wikipedia: https://en.wikipedia.org/wiki/Full_Measure_(Breaking_Bad)
+    directors: Vince Gilligan
+    writers: Vince Gilligan

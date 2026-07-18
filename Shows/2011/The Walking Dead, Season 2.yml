@@ -1,0 +1,149 @@
+name: "The Walking Dead, Season 2"
+description: >
+  In the second season, Rick Grimes and his group of survivors leave Atlanta in search of a safe haven, only to find themselves searching for a missing child.
+  Their journey leads them to a secluded farm owned by the Greene family, where tensions rise between the two groups as they struggle to survive in a world overrun by walkers and internal conflict.
+previous: Shows/2010/The Walking Dead
+released: 2011-10-16
+rating: TV-MA
+genres:
+  - post-apocalyptic
+  - horror
+  - drama
+network: AMC
+wikipedia: https://en.wikipedia.org/wiki/The_Walking_Dead_(season_2)
+imdb: https://www.imdb.com/title/tt1520265/
+tmdb: https://www.themoviedb.org/tv/1402-the-walking-dead/season/2
+creators:
+  - Frank Darabont
+characters:
+  - name: Rick Grimes
+    actor: Andrew Lincoln
+  - name: Shane Walsh
+    actor: Jon Bernthal
+  - name: Lori Grimes
+    actor: Sarah Wayne Callies
+  - name: Andrea
+    actor: Laurie Holden
+  - name: Dale Horvath
+    actor: Jeffrey DeMunn
+  - name: Glenn Rhee
+    actor: Steven Yeun
+  - name: Carl Grimes
+    actor: Chandler Riggs
+  - name: Daryl Dixon
+    actor: Norman Reedus
+episodes:
+  - name: What Lies Ahead
+    description: >
+      Rick leads the group out of Atlanta toward Fort Benning, but a massive herd of walkers on the highway leads to a member of the group going missing.
+    released: 2011-10-16
+    length: 63m
+    wikipedia: https://en.wikipedia.org/wiki/What_Lies_Ahead
+    directors:
+      - Ernest Dickerson
+      - Gwyneth Horder-Payton
+    writers:
+      - Ardeth Bey
+      - Robert Kirkman
+  - name: Bloodletting
+    description: >
+      Following a tragic accident, Rick seeks help at a nearby farmstead owned by Hershel Greene, while Shane and Otis embark on a dangerous mission for medical supplies.
+    released: 2011-10-23
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Bloodletting_(The_Walking_Dead)
+    directors: Ernest Dickerson
+    writers: Glen Mazzara
+  - name: Save the Last One
+    description: >
+      Shane and Otis find themselves trapped by a walker horde at a high school, while Rick and Lori face a difficult decision regarding their son's future.
+    released: 2011-10-30
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Save_the_Last_One
+    directors: Phil Abraham
+    writers: Scott M. Gimple
+  - name: Cherokee Rose
+    description: >
+      The group settles in at the Greene farm while continuing the search for the missing Sophia, and Glenn makes a surprising discovery during a supply run.
+    released: 2011-11-06
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Cherokee_Rose_(The_Walking_Dead)
+    directors: Billy Gierhart
+    writers: Evan Reilly
+  - name: Chupacabra
+    description: >
+      Daryl's solo search for Sophia takes a perilous turn when he is injured in the woods, leading to hallucinations of his past.
+    released: 2011-11-13
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Chupacabra_(The_Walking_Dead)
+    directors: Guy Ferland
+    writers: David Leslie Johnson
+  - name: Secrets
+    description: >
+      Glenn struggles to keep multiple secrets from the rest of the group, and Shane begins training the survivors in firearm proficiency.
+    released: 2011-11-20
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Secrets_(The_Walking_Dead)
+    directors: David Boyd
+    writers: Angela Kang
+  - name: Pretty Much Dead Already
+    description: >
+      Tensions between Rick and Shane reach a breaking point over how to handle a discovery in Hershel's barn, leading to a shocking confrontation.
+    released: 2011-11-27
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Pretty_Much_Dead_Already
+    directors: Michelle MacLaren
+    writers: Scott M. Gimple
+  - name: Nebraska
+    description: >
+      In the aftermath of the barn incident, Rick and Glenn head into town to find a missing Hershel, where they encounter a new and unexpected threat.
+    released: 2012-02-12
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Nebraska_(The_Walking_Dead)
+    directors: Clark Johnson
+    writers: Evan Reilly
+  - name: Triggerfinger
+    description: >
+      Rick, Glenn, and Hershel find themselves trapped in a standoff with a hostile group of survivors, while Shane and Lori's relationship becomes increasingly strained.
+    released: 2012-02-19
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Triggerfinger_(The_Walking_Dead)
+    directors: Billy Gierhart
+    writers: David Leslie Johnson
+  - name: "18 Miles Out"
+    description: >
+      Rick and Shane drive a prisoner far from the farm to release him, but their journey leads to a physical confrontation and a fight for survival against walkers.
+    released: 2012-02-26
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/18_Miles_Out
+    directors: Ernest Dickerson
+    writers:
+      - Scott M. Gimple
+      - Glen Mazzara
+  - name: "Judge, Jury, Executioner"
+    description: >
+      The group debates the fate of a prisoner, leading to a moral crisis that pits Dale's humanity against the group's need for security.
+    released: 2012-03-04
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Judge,_Jury,_Executioner
+    directors: Greg Nicotero
+    writers: Angela Kang
+  - name: Better Angels
+    description: >
+      Rick and Shane's long-simmering rivalry finally comes to a head in a moonlit field, changing the group's dynamic forever.
+    released: 2012-03-11
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Better_Angels_(The_Walking_Dead)
+    directors: Guy Ferland
+    writers:
+      - Evan Reilly
+      - Glen Mazzara
+  - name: Beside the Dying Fire
+    description: >
+      A massive walker herd descends upon the Greene farm, forcing the survivors to fight for their lives and flee their sanctuary.
+    released: 2012-03-18
+    length: 44m
+    wikipedia: https://en.wikipedia.org/wiki/Beside_the_Dying_Fire
+    directors: Ernest Dickerson
+    writers:
+      - Robert Kirkman
+      - Glen Mazzara

@@ -1,0 +1,25 @@
+name: The Addams Family
+series: The Addams Family
+description: Animated comedy horror series developed after the 1991 film, focusing on the Addams family in the fictional town of Happydale Heights.
+released: 1992-09-12
+genres:
+  - animation
+  - comedy horror
+wikipedia: https://en.wikipedia.org/wiki/The_Addams_Family_(1992_TV_series)
+imdb: https://www.imdb.com/title/tt0105942
+tmdb: https://www.themoviedb.org/tv/14008-the-addams-family
+network: ABC
+production: H-B Production Co.
+characters:
+  - name: Gomez Addams
+    voice: John Astin
+  - name: Morticia Addams
+    voice: Nancy Linari
+  - name: Pugsley Addams
+    voice: Jeannie Elias
+  - name: Wednesday Addams
+    voice: Debi Derryberry
+  - name: Uncle Fester
+    voice: Rip Taylor
+  - name: Lurch
+    voice: Jim Cummings

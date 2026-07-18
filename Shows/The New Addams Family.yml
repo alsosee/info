@@ -1,0 +1,32 @@
+name: The New Addams Family
+series: The Addams Family
+description: Canadian-American gothic sitcom revival of the 1960s Addams Family series, following the family's macabre domestic life at 0001 Cemetery Lane.
+released: 1998-10-19
+genres:
+  - sitcom
+  - gothic
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/The_New_Addams_Family
+imdb: https://www.imdb.com/title/tt0172031
+tmdb: https://www.themoviedb.org/tv/1475-the-new-addams-family
+network: Fox Family Channel
+production:
+  - Film Incentive B.C.
+  - Fox Family Worldwide
+  - Shavick Entertainment
+  - Saban Entertainment
+characters:
+  - name: Gomez Addams
+    actor: Glenn Taranto
+  - name: Morticia Addams
+    actor: Ellie Harvie
+  - name: Pugsley Addams
+    actor: Brody Smith
+  - name: Wednesday Addams
+    actor: Nicole Fugere
+  - name: Granny
+    actor: Betty Phillips
+  - name: Uncle Fester
+    actor: Michael Roberds
+  - name: Lurch
+    actor: John DeSantis

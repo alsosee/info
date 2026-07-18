@@ -1,0 +1,121 @@
+name: "The Last of Us, Season 2"
+description: >
+  Five years after the events of the first season, Joel and Ellie have settled into
+  Jackson, Wyoming, but their strained relationship is tested when an old enemy arrives
+  seeking revenge, setting them on a brutal path through a war-torn Seattle.
+based_on: Games/Video/2020/The Last of Us Part II
+previous: Shows/2023/The Last of Us
+released: 2025-04-13
+rating: TV-MA
+genres:
+  - drama
+  - post-apocalyptic
+  - action
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Last_of_Us_season_2
+imdb: https://www.imdb.com/title/tt3581920
+tmdb: https://www.themoviedb.org/tv/100088-the-last-of-us/season/2
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_last_of_us/s02
+network: HBO
+trailer: https://www.youtube.com/watch?v=_zHPsmXCjB0
+creators:
+  - Craig Mazin
+  - Neil Druckmann
+characters:
+  - name: Joel Miller
+    actor: Pedro Pascal
+  - name: Ellie
+    actor: Bella Ramsey
+  - name: Tommy Miller
+    actor: Gabriel Luna
+  - name: Dina
+    actor: Isabela Merced
+  - name: Jesse
+    actor: Young Mazino
+  - name: Abby
+    actor: Kaitlyn Dever
+  - name: Gail
+    actor: Catherine O'Hara
+  - name: Isaac Dixon
+    actor: Jeffrey Wright
+  - name: Javier Miller
+    actor: Tony Dalton
+  - name: Maria
+    actor: Rutina Wesley
+  - name: Owen
+    actor: Spencer Lord
+  - name: Nora
+    actor: Tati Gabrielle
+  - name: Mel
+    actor: Ariela Barer
+  - name: Manny
+    actor: Danny Ramirez
+episodes:
+  - name: Future Days
+    description: Five years on, Joel and Ellie's life in Jackson is upended when strangers arrive at the community.
+    released: 2025-04-13
+    length: 60m
+    imdb: https://www.imdb.com/title/tt26469967/
+    wikipedia: https://en.wikipedia.org/wiki/Future_Days_(The_Last_of_Us)
+    directors: Craig Mazin
+    writers: Craig Mazin
+
+  - name: Through the Valley
+    description: Ellie and Dina go on patrol beyond Jackson's walls as a storm closes in.
+    released: 2025-04-20
+    length: 57m
+    imdb: https://www.imdb.com/title/tt31804612/
+    wikipedia: https://en.wikipedia.org/wiki/Through_the_Valley_(The_Last_of_Us)
+    directors: Mark Mylod
+    writers: Craig Mazin
+
+  - name: The Path
+    description: In the aftermath of tragedy, Ellie sets out on a dangerous mission to Seattle.
+    released: 2025-04-27
+    length: 56m
+    imdb: https://www.imdb.com/title/tt32550882/
+    wikipedia: https://en.wikipedia.org/wiki/The_Path_(The_Last_of_Us)
+    directors: Peter Hoar
+    writers: Craig Mazin
+
+  - name: Day One
+    description: Ellie and Dina arrive in Seattle and begin navigating its warring factions and infected zones.
+    released: 2025-05-04
+    length: 53m
+    imdb: https://www.imdb.com/title/tt32550883/
+    wikipedia: https://en.wikipedia.org/wiki/Day_One_(The_Last_of_Us)
+    directors: Kate Herron
+    writers: Craig Mazin
+
+  - name: Feel Her Love
+    description: Ellie tracks a member of the group she is hunting through a dangerous part of the city.
+    released: 2025-05-11
+    length: 45m
+    imdb: https://www.imdb.com/title/tt32550885/
+    wikipedia: https://en.wikipedia.org/wiki/Feel_Her_Love
+    directors: Stephen Williams
+    writers: Craig Mazin
+
+  - name: The Price
+    description: Flashbacks explore the evolving relationship between Joel and Ellie over the five years in Jackson.
+    released: 2025-05-18
+    length: 60m
+    imdb: https://www.imdb.com/title/tt32550886/
+    wikipedia: https://en.wikipedia.org/wiki/The_Price_(The_Last_of_Us)
+    directors: Neil Druckmann
+    writers:
+      - Neil Druckmann
+      - Halley Gross
+      - Craig Mazin
+
+  - name: Convergence
+    description: Ellie and her allies close in on their target in Seattle.
+    released: 2025-05-25
+    length: 50m
+    imdb: https://www.imdb.com/title/tt32550887/
+    wikipedia: https://en.wikipedia.org/wiki/Convergence_(The_Last_of_Us)
+    directors: Nina Lopez-Corrado
+    writers:
+      - Neil Druckmann
+      - Halley Gross
+      - Craig Mazin

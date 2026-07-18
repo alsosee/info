@@ -1,0 +1,97 @@
+name: "Killjoys, Season 2"
+description: >
+  After the shocking events of the first season, Dutch and Johnny attempt to rescue D'avin from the Arkyn facility. As they reunite, the team discovers a deeper conspiracy involving the mysterious green plasma and the origins of the Hullen, leading them to confront the powerful Nine Families and the Company's control over the Quad.
+previous: Shows/2015/Killjoys
+released: 2016-07-01
+rating: TV-14
+genres:
+  - science fiction
+  - drama
+  - adventure
+network: Syfy
+wikipedia: https://en.wikipedia.org/wiki/Killjoys
+imdb: https://www.imdb.com/title/tt3556944
+tmdb: https://www.themoviedb.org/tv/62101-killjoys/season/2
+creators: Michelle Lovretta
+characters:
+  - name: Yalena "Dutch" Yardeen
+    actor: Hannah John-Kamen
+  - name: John Jaqobis
+    actor: Aaron Ashmore
+  - name: D'avin Jaqobis
+    actor: Luke Macfarlane
+episodes:
+  - name: Dutch and the Real Girl
+    description: >
+      Dutch and Johnny attempt a daring rescue to retrieve D'avin from the Arkyn facility, leading them to a criminal barter town.
+    released: 2016-07-01
+    length: 44m
+    directors: Stefan Pleszczynski
+    writers: Michelle Lovretta
+  - name: Wild, Wild Westerley
+    description: >
+      The team returns to Old Town to find it under a restrictive blockade, forcing them to take a dangerous warrant to infiltrate the city.
+    released: 2016-07-08
+    length: 44m
+    directors: Martin Wood
+    writers: Sean Reycraft
+  - name: Shaft
+    description: >
+      A search for a missing Killjoy team leads the trio into a deep mine infested with hallucinations and deadly creatures.
+    released: 2016-07-15
+    length: 44m
+    directors: Martin Wood
+    writers: Jon Cooksey
+  - name: Schooled
+    description: >
+      The Killjoys investigate a school for gifted children that has become the site of a dark mystery involving missing students.
+    released: 2016-07-22
+    length: 44m
+    directors: Ruba Nadda
+    writers:
+      - Jennifer Kennedy
+      - Julian Doucet
+  - name: Meet the Parents
+    description: >
+      While Johnny helps Pawter with a family crisis on Qresh, Dutch and D'avin deal with a mental link that allows Khlyen to manipulate D'avin's mind.
+    released: 2016-07-29
+    length: 44m
+    directors: Jeff Renfroe
+    writers: Adam Barken
+  - name: I Love Lucy
+    description: >
+      The team tracks down an eccentric, immortal collector in hopes of obtaining a sample of the mysterious green plasma.
+    released: 2016-08-05
+    length: 44m
+    directors: Grant Harvey
+    writers: Jon Cooksey
+  - name: Heart-Shaped Box
+    description: >
+      Dutch captures a Level 6 agent and attempts to use her to find others, while Johnny goes rogue to help Pawter expose a Company conspiracy.
+    released: 2016-08-12
+    length: 44m
+    directors: April Mullen
+    writers: Michelle Lovretta
+  - name: Full Metal Monk
+    description: >
+      Following a map to Arkyn, Dutch and D'avin discover an ancient secret about the origins of the Hullen.
+    released: 2016-08-19
+    length: 44m
+    directors: Paolo Barzman
+    writers: Sean Reycraft
+  - name: Johnny Be Good
+    description: >
+      As the Company's plan for Westerley reaches a tipping point, the team launches a desperate mission to save the people of Old Town.
+    released: 2016-08-26
+    length: 44m
+    directors: Stefan Pleszczynski
+    writers: Adam Barken
+  - name: How to Kill Friends and Influence People
+    description: >
+      The Killjoys must form an uneasy alliance with Khlyen to stop a sentient threat from destroying the Quad.
+    released: 2016-09-02
+    length: 44m
+    directors: Peter Stebbings
+    writers:
+      - Michelle Lovretta
+      - Jeremy Boxen

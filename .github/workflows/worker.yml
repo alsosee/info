@@ -27,6 +27,15 @@ jobs:
           rm -rf _finder/worker/src
           cp -R finder/worker/src _finder/worker/src
 
+      - name: Generate Worker redirects
+        uses: ./finder
+        with:
+          info: .
+          media: .
+          output: /tmp/finder-output
+          outputs: worker-redirects
+          worker_redirects_output: _finder/worker/src/redirects.generated.js
+
       - name: Deploy Worker
         uses: cloudflare/wrangler-action@v3.5.0
         with:

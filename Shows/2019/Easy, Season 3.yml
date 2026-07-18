@@ -1,0 +1,158 @@
+name: "Easy, Season 3"
+description: >
+  The third and final season of the anthology series explores the evolving relationships and personal journeys of its Chicago-based characters as they face new challenges and conclusions.
+previous: Shows/2017/Easy, Season 2
+released: 2019-05-10
+rating: TV-MA
+genres:
+  - comedy
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Easy_(TV_series)
+imdb: https://www.imdb.com/title/tt5562058/
+tmdb: https://www.themoviedb.org/tv/67844-easy/season/3
+network: Netflix
+creators: Joe Swanberg
+episodes:
+  - name: "Swipe Right"
+    description: >
+      Andi and Kyle have an open marriage, but Kyle is the only one seeing other people until Andi runs into an old friend at a dinner party.
+    released: 2019-05-10
+    length: 30m
+    imdb: https://www.imdb.com/title/tt8266352/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Kyle
+        actor: Michael Chernus
+      - name: Andi
+        actor: Elizabeth Reaser
+      - name: Amy
+        actor: Lindsay Burdge
+      - name: Ryan
+        actor: Cliff Chamberlain
+  - name: "Private Eyes"
+    description: >
+      A low-level employee at a spy store jumps at the chance to go undercover at a BDSM party as a submissive.
+    released: 2019-05-10
+    length: 29m
+    imdb: https://www.imdb.com/title/tt8893714/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Hugh
+        actor: Nicky Excitement
+      - name: Detective Perry
+        actor: Perry Myers
+      - name: Detective Lindsay
+        actor: Marika Engelhardt
+      - name: Mistress Amelia
+        actor: Molly Hewitt
+  - name: "Spontaneous Combustion"
+    description: >
+      As their lease comes to an end, Chase admits she isn't ready for a committed relationship, making a clean break difficult for her and Jo.
+    released: 2019-05-10
+    length: 26m
+    imdb: https://www.imdb.com/title/tt8862552/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Chase
+        actor: Kiersey Clemons
+      - name: Jo
+        actor: Jacqueline Toboni
+      - name: Alexandria
+        actor: Sophia Bush
+      - name: Amber
+        actor: Jaz Sinclair
+  - name: "Yes"
+    description: >
+      Tired of being single, Annie decides to say yes to everyone who asks her out for 30 days, leading to unexpected dating fatigue.
+    released: 2019-05-10
+    length: 26m
+    imdb: https://www.imdb.com/title/tt8876642/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Annie
+        actor: Kate Micucci
+      - name: Lucas
+        actor: John Gallagher Jr.
+      - name: Samantha
+        actor: Megan Ferguson
+  - name: "Swipe Left"
+    description: >
+      Kyle feels threatened by Andi's relationship with Ryan, forcing the couple to evaluate the success of their polyamorous experiment.
+    released: 2019-05-10
+    length: 30m
+    imdb: https://www.imdb.com/title/tt8355312/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Kyle
+        actor: Michael Chernus
+      - name: Andi
+        actor: Elizabeth Reaser
+      - name: Amy
+        actor: Lindsay Burdge
+      - name: Ryan
+        actor: Cliff Chamberlain
+  - name: "Blank Pages"
+    description: >
+      A self-absorbed professor learns that a former student has written an unflattering graphic novel about their past relationship.
+    released: 2019-05-10
+    length: 30m
+    imdb: https://www.imdb.com/title/tt8345554/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Jacob Malco
+        actor: Marc Maron
+      - name: Beth
+        actor: Melanie Lynskey
+      - name: Annabelle Jones
+        actor: Jane Adams
+  - name: "Number One Seller"
+    description: >
+      A street vendor splits off from his boss to start a rival operation with his friend to avoid giving up a percentage of his sales.
+    released: 2019-05-10
+    length: 30m
+    imdb: https://www.imdb.com/title/tt9165412/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Skrap
+        actor: Kali Skrap
+      - name: Ant
+        actor: Anthony Smith
+      - name: Kool
+        actor: Louis Frazier
+  - name: "Low Rolling Boil"
+    description: >
+      As neighbors object to his garage brewery, Jeff must decide between supporting his wife's business venture and taking a job with his brother.
+    released: 2019-05-10
+    length: 30m
+    imdb: https://www.imdb.com/title/tt8354484/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Jeff
+        actor: Dave Franco
+      - name: Noelle
+        actor: Zazie Beetz
+      - name: Matt
+        actor: Evan Jonigkeit
+      - name: Sherri
+        actor: Aya Cash
+  - name: "She's Back"
+    description: >
+      After her TV show is cancelled, Sophie has second thoughts about the ex-boyfriend she left behind to pursue her acting dreams.
+    released: 2019-05-10
+    length: 30m
+    imdb: https://www.imdb.com/title/tt8864444/
+    directors: Joe Swanberg
+    writers: Joe Swanberg
+    characters:
+      - name: Sophie
+        actor: Gugu Mbatha-Raw
+      - name: Drew
+        actor: Jake Johnson

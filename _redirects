@@ -1,3 +1,9 @@
+/Series /Shows/ 301
+/Series/ /Shows/ 301
+/Series/* /Shows/:splat 301
+/series /Shows/ 301
+/series/ /Shows/ 301
+/series/* /Shows/:splat 301
 /Games/Tabletop/Dungeons%20and%20Dragons /Games/Tabletop/Dungeons%20&%20Dragons
 /Games/Video/2023/Baldur's%20Gates%203 /Games/Video/2023/Baldur's%20Gate%203
 /Comics/2004/Scott%20Pilgrim /Comics/Scott%20Pilgrim
