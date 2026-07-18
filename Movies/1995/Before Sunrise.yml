@@ -1,0 +1,44 @@
+name: Before Sunrise
+description: >
+  Jesse and Céline meet on a train in Europe and decide to spend one night
+  walking through Vienna before his flight leaves the next morning. As the hours
+  pass, their conversation turns a chance encounter into an intimate connection.
+released: 1995-01-19
+rating: R
+length: 1h41m
+genres:
+  - drama
+  - romance
+wikipedia: https://en.wikipedia.org/wiki/Before_Sunrise
+imdb: https://www.imdb.com/title/tt0112471
+tmdb: https://www.themoviedb.org/movie/76-before-sunrise
+rotten_tomatoes: https://www.rottentomatoes.com/m/before_sunrise
+metacritic: https://www.metacritic.com/movie/before-sunrise/
+directors: Richard Linklater
+screenplay:
+  - Richard Linklater
+  - Kim Krizan
+producers: Anne Walker-McBay
+music: Fred Frith
+cinematography: Lee Daniel
+editors: Sandra Adair
+production:
+  - Castle Rock Entertainment
+  - Detour Filmproduction
+  - Filmhaus Films
+distributors: Columbia Pictures
+characters:
+  - name: Jesse
+    actor: Ethan Hawke
+  - name: Céline
+    actor: Julie Delpy
+  - name: Wife on Train
+    actor: Andrea Eckert
+  - name: Husband on Train
+    actor: Hanno Pöschl
+  - name: Guy on Bridge
+    actor: Karl Bruckschwaiger
+  - name: Palm Reader
+    actor: Erni Mangold
+  - name: Street Poet
+    actor: Dominik Castell

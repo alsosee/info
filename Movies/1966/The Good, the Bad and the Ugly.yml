@@ -1,0 +1,44 @@
+name: The Good, the Bad and the Ugly
+description: >
+  During the American Civil War, three gunslingers form shifting alliances while
+  racing to find a buried cache of Confederate gold. Their search leads through
+  battlefields, prison camps, and betrayals toward a final standoff.
+previous: Movies/1965/For a Few Dollars More
+released: 1966-12-23
+rating: R
+length: 2h54m
+genres:
+  - western
+wikipedia: https://en.wikipedia.org/wiki/The_Good,_the_Bad_and_the_Ugly
+imdb: https://www.imdb.com/title/tt0060196
+tmdb: https://www.themoviedb.org/movie/429-il-buono-il-brutto-il-cattivo
+rotten_tomatoes: https://www.rottentomatoes.com/m/the_good_the_bad_and_the_ugly
+metacritic: https://www.metacritic.com/movie/the-good-the-bad-and-the-ugly/
+directors: Sergio Leone
+screenplay:
+  - Age & Scarpelli
+  - Luciano Vincenzoni
+  - Sergio Leone
+producers: Alberto Grimaldi
+music: Ennio Morricone
+cinematography: Tonino Delli Colli
+editors:
+  - Nino Baragli
+  - Eugenio Alabiso
+production: Produzioni Europee Associati
+distributors: Produzioni Europee Associati
+characters:
+  - name: Blondie
+    actor: Clint Eastwood
+  - name: Tuco
+    actor: Eli Wallach
+  - name: Angel Eyes
+    actor: Lee Van Cleef
+  - name: Captain Clinton
+    actor: Aldo Giuffre
+  - name: Stevens
+    actor: Antonio Casas
+  - name: Maria
+    actor: Rada Rassimov
+  - name: Father Pablo Ramírez
+    actor: Luigi Pistilli
