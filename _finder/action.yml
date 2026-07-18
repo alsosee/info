@@ -45,6 +45,12 @@ inputs:
   force:
     description: Force index update for passed files
     required: false
+  outputs:
+    description: Comma-separated projectors to run
+    required: false
+  worker_redirects_output:
+    description: Path to generated Cloudflare Worker redirects module
+    required: false
 
 runs:
   using: docker

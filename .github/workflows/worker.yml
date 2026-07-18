@@ -28,7 +28,7 @@ jobs:
           cp -R finder/worker/src _finder/worker/src
 
       - name: Generate Worker redirects
-        uses: ./finder
+        uses: ./_finder
         with:
           info: .
           media: .

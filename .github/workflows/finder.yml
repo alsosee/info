@@ -41,8 +41,18 @@ jobs:
           platforms: linux/amd64
 
       - name: Trigger deploy
+        if: github.event_name != 'repository_dispatch' || github.event.client_payload.trigger != 'finder-worker'
         uses: peter-evans/repository-dispatch@v4
         with:
           token: ${{ secrets.TOKEN }}
           repository: alsosee/info
           event-type: deploy
+
+      - name: Trigger worker deploy
+        if: github.event_name == 'repository_dispatch' && github.event.client_payload.trigger == 'finder-worker'
+        uses: peter-evans/repository-dispatch@v4
+        with:
+          token: ${{ secrets.TOKEN }}
+          repository: alsosee/info
+          event-type: finder-worker
+          client-payload: '{"trigger": "finder-worker", "ref": "${{ github.event.client_payload.ref }}", "sha": "${{ github.event.client_payload.sha }}"}'
