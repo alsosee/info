@@ -1,0 +1,65 @@
+name: The Wire, Season 2
+series: The Wire
+previous: Shows/2002/The Wire
+description: >
+  The investigation shifts to Baltimore's port, where dockworkers, smugglers, police, and political interests collide around a struggling waterfront.
+released: 2003-06-01
+rating: TV-MA
+genres:
+  - crime
+  - drama
+  - thriller
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/The_Wire_season_2
+imdb: https://www.imdb.com/title/tt0306414/episodes/?season=2
+tmdb: https://www.themoviedb.org/tv/1438-the-wire/season/2
+creators: David Simon
+episodes:
+  - name: Ebb Tide
+    released: 2003-06-01
+    directors: Ed Bianchi
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: Collateral Damage
+    released: 2003-06-08
+    directors: Ed Bianchi
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: Hot Shots
+    released: 2003-06-15
+    directors: Elodie Keene
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: Hard Cases
+    released: 2003-06-22
+    directors: Elodie Keene
+    writers: "Story by: David Simon & Joy Lusco / Teleplay by: Joy Lusco"
+  - name: Undertow
+    released: 2003-06-29
+    directors: Steve Shill
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: Ed Burns"
+  - name: All Prologue
+    released: 2003-07-06
+    directors: Steve Shill
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: Backwash
+    released: 2003-07-13
+    directors: Thomas J. Wright
+    writers: "Story by: David Simon & Rafael Alvarez / Teleplay by: Rafael Alvarez"
+  - name: Duck and Cover
+    released: 2003-07-27
+    directors: Dan Attias
+    writers: "Story by: David Simon & George Pelecanos / Teleplay by: George Pelecanos"
+  - name: Stray Rounds
+    released: 2003-08-03
+    directors: Tim Van Patten
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: Storm Warnings
+    released: 2003-08-10
+    directors: Rob Bailey
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: Ed Burns"
+  - name: Bad Dreams
+    released: 2003-08-17
+    directors: Ernest Dickerson
+    writers: "Story by: David Simon & George Pelecanos / Teleplay by: George Pelecanos"
+  - name: Port in a Storm
+    released: 2003-08-24
+    directors: Robert F. Colesberry
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"

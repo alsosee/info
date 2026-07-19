@@ -1,0 +1,83 @@
+name: Band of Brothers
+description: >
+  Easy Company of the 506th Parachute Infantry Regiment trains in Georgia and fights across Europe during World War II.
+  The miniseries follows the soldiers from preparation for D-Day through campaigns that test their leadership, endurance, and bonds.
+released: 2001-09-09
+rating: TV-MA
+genres:
+  - war
+  - drama
+  - historical drama
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Band_of_Brothers_(miniseries)
+imdb: https://www.imdb.com/title/tt0185906
+tmdb: https://www.themoviedb.org/tv/4613-band-of-brothers/season/1
+creators: Tom Hanks
+music: Michael Kamen
+production:
+  - DreamWorks Television
+  - HBO Films
+  - Playtone
+characters:
+  - name: Richard Winters
+    actor: Damian Lewis
+  - name: Lewis Nixon
+    actor: Ron Livingston
+  - name: Carwood Lipton
+    actor: Donnie Wahlberg
+  - name: Donald Malarkey
+    actor: Scott Grimes
+  - name: Eugene Roe
+    actor: Shane Taylor
+  - name: Bill Guarnere
+    actor: Frank John Hughes
+  - name: George Luz
+    actor: Rick Gomez
+  - name: Denver Randleman
+    actor: Michael Cudlitz
+  - name: Joseph Liebgott
+    actor: Ross McCall
+  - name: Herbert Sobel
+    actor: David Schwimmer
+episodes:
+  - name: ".mw-parser-output .vanchor>:target~.vanchor-text{background-color:#ebf4ff}@media screen{html.skin-theme-clientpref-night .mw-parser-output .vanchor>:target~.vanchor-text{background-color:#0f4dc9}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .vanchor>:target~.vanchor-text{background-color:#0f4dc9}}Currahee"
+    released: 2001-09-09
+    directors: Phil Alden Robinson
+    writers: "Teleplay by: Erik Jendresen and Tom Hanks"
+  - name: Day of Days
+    released: 2001-09-09
+    directors: Richard Loncraine
+    writers: John Orloff
+  - name: Carentan
+    released: 2001-09-16
+    directors: Mikael Salomon
+    writers: E. Max Frye
+  - name: Replacements
+    released: 2001-09-23
+    directors: David Nutter
+    writers: Graham Yost and Bruce C. McKenna
+  - name: Crossroads
+    released: 2001-09-30
+    directors: Tom Hanks
+    writers: Erik Jendresen
+  - name: Bastogne
+    released: 2001-10-07
+    directors: David Leland
+    writers: Bruce C. McKenna
+  - name: The Breaking Point
+    released: 2001-10-14
+    directors: David Frankel
+    writers: Graham Yost
+  - name: The Last Patrol
+    released: 2001-10-21
+    directors: Tony To
+    writers: Erik Bork and Bruce C. McKenna
+  - name: Why We Fight
+    released: 2001-10-28
+    wikipedia: https://en.wikipedia.org/wiki/Why_We_Fight_(Band_of_Brothers)
+    directors: David Frankel
+    writers: John Orloff
+  - name: Points
+    released: 2001-11-04
+    directors: Mikael Salomon
+    writers: Erik Jendresen and Erik Bork

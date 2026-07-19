@@ -1,0 +1,71 @@
+name: True Detective
+series: True Detective
+description: >
+  Louisiana detectives Rust Cohle and Marty Hart revisit a ritualistic murder investigation through interviews years after the case began.
+  The first season moves between 1995 and 2012 as the inquiry exposes the detectives' methods, partnership, and personal damage.
+released: 2014-01-12
+rating: TV-MA
+genres:
+  - crime
+  - drama
+  - mystery
+  - thriller
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/True_Detective_season_1
+imdb: https://www.imdb.com/title/tt2356777/episodes/?season=1
+tmdb: https://www.themoviedb.org/tv/46648-true-detective/season/1
+creators: Nic Pizzolatto
+directors: Cary Joji Fukunaga
+writers: Nic Pizzolatto
+characters:
+  - name: Rust Cohle
+    actor: Matthew McConaughey
+  - name: Marty Hart
+    actor: Woody Harrelson
+  - name: Maggie Hart
+    actor: Michelle Monaghan
+  - name: Maynard Gilbough
+    actor: Michael Potts
+  - name: Thomas Papania
+    actor: Tory Kittles
+episodes:
+  - name: The Long Bright Dark
+    released: 2014-01-12
+    wikipedia: https://en.wikipedia.org/wiki/The_Long_Bright_Dark
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto
+  - name: Seeing Things
+    released: 2014-01-19
+    wikipedia: https://en.wikipedia.org/wiki/Seeing_Things_(True_Detective)
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto
+  - name: The Locked Room
+    released: 2014-01-26
+    wikipedia: https://en.wikipedia.org/wiki/The_Locked_Room_(True_Detective)
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto
+  - name: Who Goes There
+    released: 2014-02-09
+    wikipedia: https://en.wikipedia.org/wiki/Who_Goes_There_(True_Detective)
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto
+  - name: The Secret Fate of All Life
+    released: 2014-02-16
+    wikipedia: https://en.wikipedia.org/wiki/The_Secret_Fate_of_All_Life
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto
+  - name: Haunted Houses
+    released: 2014-02-23
+    wikipedia: https://en.wikipedia.org/wiki/Haunted_Houses_(True_Detective)
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto
+  - name: "After You've Gone"
+    released: 2014-03-02
+    wikipedia: https://en.wikipedia.org/wiki/After_You've_Gone_(True_Detective)
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto
+  - name: Form and Void
+    released: 2014-03-09
+    wikipedia: https://en.wikipedia.org/wiki/Form_and_Void_(True_Detective)
+    directors: Cary Joji Fukunaga
+    writers: Nic Pizzolatto

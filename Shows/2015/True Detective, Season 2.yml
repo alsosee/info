@@ -1,0 +1,58 @@
+name: True Detective, Season 2
+series: True Detective
+previous: Shows/2014/True Detective
+description: >
+  A murder investigation in California draws together a highway patrol officer, a county sheriff's detective, a state investigator, and a compromised businessman.
+released: 2015-06-21
+rating: TV-MA
+genres:
+  - crime
+  - drama
+  - mystery
+  - thriller
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/True_Detective_season_2
+imdb: https://www.imdb.com/title/tt2356777/episodes/?season=2
+tmdb: https://www.themoviedb.org/tv/46648-true-detective/season/2
+creators: Nic Pizzolatto
+episodes:
+  - name: The Western Book of the Dead
+    released: 2015-06-21
+    wikipedia: https://en.wikipedia.org/wiki/The_Western_Book_of_the_Dead
+    directors: Justin Lin
+    writers: Nic Pizzolatto
+  - name: Night Finds You
+    released: 2015-06-28
+    wikipedia: https://en.wikipedia.org/wiki/Night_Finds_You
+    directors: Justin Lin
+    writers: Nic Pizzolatto
+  - name: Maybe Tomorrow
+    released: 2015-07-05
+    wikipedia: https://en.wikipedia.org/wiki/Maybe_Tomorrow_(True_Detective)
+    directors: Janus Metz
+    writers: Nic Pizzolatto
+  - name: Down Will Come
+    released: 2015-07-12
+    wikipedia: https://en.wikipedia.org/wiki/Down_Will_Come
+    directors: Jeremy Podeswa
+    writers: "Nic Pizzolatto & Scott Lasser"
+  - name: Other Lives
+    released: 2015-07-19
+    wikipedia: https://en.wikipedia.org/wiki/Other_Lives_(True_Detective)
+    directors: John Crowley
+    writers: Nic Pizzolatto
+  - name: Church in Ruins
+    released: 2015-07-26
+    wikipedia: https://en.wikipedia.org/wiki/Church_in_Ruins
+    directors: Miguel Sapochnik
+    writers: "Nic Pizzolatto & Scott Lasser"
+  - name: Black Maps and Motel Rooms
+    released: 2015-08-02
+    wikipedia: https://en.wikipedia.org/wiki/Black_Maps_and_Motel_Rooms
+    directors: Daniel Attias
+    writers: Nic Pizzolatto
+  - name: Omega Station
+    released: 2015-08-09
+    wikipedia: https://en.wikipedia.org/wiki/Omega_Station
+    directors: John Crowley
+    writers: Nic Pizzolatto

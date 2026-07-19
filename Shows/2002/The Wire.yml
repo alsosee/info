@@ -1,0 +1,90 @@
+name: The Wire
+series: The Wire
+description: >
+  A Baltimore homicide detective pushes his department into investigating the Barksdale drug organization, creating a wiretap case shaped by bureaucracy, street-level survival, and competing loyalties.
+  The first season focuses on the collision between police institutions and the West Baltimore drug trade.
+released: 2002-06-02
+rating: TV-MA
+genres:
+  - crime
+  - drama
+  - thriller
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/The_Wire_season_1
+imdb: https://www.imdb.com/title/tt0306414/episodes/?season=1
+tmdb: https://www.themoviedb.org/tv/1438-the-wire/season/1
+creators: David Simon
+characters:
+  - name: Jimmy McNulty
+    actor: Dominic West
+  - name: Cedric Daniels
+    actor: Lance Reddick
+  - name: Kima Greggs
+    actor: Sonja Sohn
+  - name: Bunk Moreland
+    actor: Wendell Pierce
+  - name: Lester Freamon
+    actor: Clarke Peters
+  - name: Bubbles
+    actor: Andre Royo
+  - name: Avon Barksdale
+    actor: Wood Harris
+  - name: Stringer Bell
+    actor: Idris Elba
+  - name: D'Angelo Barksdale
+    actor: Larry Gilliard Jr.
+  - name: Omar Little
+    actor: Michael K. Williams
+episodes:
+  - name: The Target
+    released: 2002-06-02
+    directors: Clark Johnson
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: The Detail
+    released: 2002-06-09
+    directors: Clark Johnson
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: The Buys
+    released: 2002-06-16
+    directors: Peter Medak
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: Old Cases
+    released: 2002-06-23
+    directors: Clement Virgo
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: The Pager
+    released: 2002-06-30
+    directors: Clark Johnson
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: Ed Burns"
+  - name: The Wire
+    released: 2002-07-07
+    directors: Ed Bianchi
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: One Arrest
+    released: 2002-07-21
+    directors: Joe Chappelle
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: Rafael Alvarez"
+  - name: Lessons
+    released: 2002-07-28
+    directors: Gloria Muzio
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: Game Day
+    released: 2002-08-04
+    directors: Milčo Mančevski
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David H. Melnick & Shamit Choksey"
+  - name: The Cost
+    released: 2002-08-11
+    directors: Brad Anderson
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+  - name: The Hunt
+    released: 2002-08-18
+    directors: Steve Shill
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: Joy Lusco"
+  - name: Cleaning Up
+    released: 2002-09-01
+    directors: Clement Virgo
+    writers: "Story by: David Simon & Ed Burns / Teleplay by: George Pelecanos"
+  - name: Sentencing
+    released: 2002-09-08
+    directors: Tim Van Patten
+    writers: "David Simon & Ed Burns"

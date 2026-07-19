@@ -1,0 +1,89 @@
+name: Mad Men
+series: Mad Men
+description: >
+  In 1960 New York, advertising executive Don Draper sells polished fantasies while hiding the instability of his own identity, marriage, and workplace.
+  The first season follows the Sterling Cooper agency as personal ambition and shifting social currents strain its carefully managed image.
+released: 2007-07-19
+rating: TV-MA
+genres:
+  - drama
+  - period drama
+network: AMC
+wikipedia: https://en.wikipedia.org/wiki/Mad_Men_season_1
+imdb: https://www.imdb.com/title/tt0804503/episodes/?season=1
+tmdb: https://www.themoviedb.org/tv/1104-mad-men/season/1
+creators: Matthew Weiner
+characters:
+  - name: Don Draper
+    actor: Jon Hamm
+  - name: Peggy Olson
+    actor: Elisabeth Moss
+  - name: Pete Campbell
+    actor: Vincent Kartheiser
+  - name: Betty Draper
+    actor: January Jones
+  - name: Joan Holloway
+    actor: Christina Hendricks
+  - name: Roger Sterling
+    actor: John Slattery
+  - name: Salvatore Romano
+    actor: Bryan Batt
+  - name: Ken Cosgrove
+    actor: Aaron Staton
+  - name: Paul Kinsey
+    actor: Michael Gladis
+  - name: Harry Crane
+    actor: Rich Sommer
+episodes:
+  - name: Smoke Gets in Your Eyes
+    released: 2007-07-19
+    directors: Alan Taylor
+    writers: Matthew Weiner
+  - name: Ladies Room
+    released: 2007-07-26
+    directors: Alan Taylor
+    writers: Matthew Weiner
+  - name: Marriage of Figaro
+    released: 2007-08-02
+    directors: Ed Bianchi
+    writers: Tom Palmer
+  - name: New Amsterdam
+    released: 2007-08-09
+    directors: Tim Hunter
+    writers: Lisa Albert
+  - name: 5G
+    released: 2007-08-16
+    directors: Lesli Linka Glatter
+    writers: Matthew Weiner
+  - name: Babylon
+    released: 2007-08-23
+    directors: Andrew Bernstein
+    writers: "Andre Jacquemetton & Maria Jacquemetton"
+  - name: Red in the Face
+    released: 2007-08-30
+    directors: Tim Hunter
+    writers: Bridget Bedard
+  - name: The Hobo Code
+    released: 2007-09-06
+    directors: Phil Abraham
+    writers: Chris Provenzano
+  - name: Shoot
+    released: 2007-09-13
+    directors: Paul Feig
+    writers: Chris Provenzano and Matthew Weiner
+  - name: Long Weekend
+    released: 2007-09-27
+    directors: Tim Hunter
+    writers: "Bridget Bedard and Andre Jacquemetton & Maria Jacquemetton and Matthew Weiner"
+  - name: Indian Summer
+    released: 2007-10-04
+    directors: Tim Hunter
+    writers: Tom Palmer and Matthew Weiner
+  - name: Nixon vs. Kennedy
+    released: 2007-10-11
+    directors: Alan Taylor
+    writers: "Lisa Albert & Andre Jacquemetton & Maria Jacquemetton"
+  - name: The Wheel
+    released: 2007-10-18
+    directors: Matthew Weiner
+    writers: Matthew Weiner and Robin Veith
