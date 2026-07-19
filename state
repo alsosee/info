@@ -8530,21 +8530,24 @@ People/Željko Ivanek.yml	fd861357
 Podcasts/2020/The Last of Us Podcast.yml	55e8ac14
 Podcasts/2023/HBO's The Last of Us Podcast.yml	7ff3bea6
 Podcasts/2024/3 Body Podcast.yml	8f1dfbeb
-Series/Madagascar.yml	e45d82cd
-Series/SpongeBob SquarePants.yml	107b1656
-Series/The Addams Family.yml	4fdfcacd
+Shows/1964/The Addams Family 1964.yml	587adffd
 Shows/1966/Star Trek.yml	b26cb6a5
 Shows/1973/Star Trek The Animated Series.yml	7a1692de
+Shows/1973/The Addams Family 1973.yml	de3d3dff
 Shows/1978/Taxi.yml	71a45eb3
 Shows/1981/Hangin' In.yml	1bcaa95f
 Shows/1987/21 Jump Street.yml	8ada3f62
+Shows/1987/Friday the 13th The Series.yml	c993eb17
 Shows/1987/Star Trek The Next Generation.yml	a0ad83b
 Shows/1989/Chip 'n Dale Rescue Rangers.yml	48706f25
 Shows/1990/It.yml	3a0db48
 Shows/1990/Mr. Bean.yml	ddf6d427
+Shows/1992/The Addams Family 1992.yml	cbb87848
 Shows/1993/Star Trek Deep Space Nine.yml	b292396a
 Shows/1994/Friends.yml	499286c6
 Shows/1995/Star Trek Voyager.yml	a6088030
+Shows/1998/The New Addams Family.yml	c4b3f13c
+Shows/1999/SpongeBob SquarePants Series.yml	ebf1c511
 Shows/1999/SpongeBob SquarePants.yml	70a1630b
 Shows/1999/Strangers with Candy.yml	430798d0
 Shows/2000/Malcolm in the Middle.yml	884f2c4b
@@ -8558,12 +8561,14 @@ Shows/2005/How I Met Your Mother.yml	831ac729
 Shows/2005/Supernatural.yml	686b3a1f
 Shows/2005/The Office.yml	c4b566f5
 Shows/2006/Avatar The Last Airbender, Season 2.yml	6af67117
+Shows/2006/Dexter Series.yml	bf1eb10e
 Shows/2006/Dexter.yml	b220a87c
 Shows/2007/Avatar The Last Airbender, Season 3.yml	d698c718
 Shows/2007/Dexter, Season 2.yml	3d287775
 Shows/2008/Breaking Bad.yml	e93ae6b7
 Shows/2008/Dexter, Season 3.yml	ae118d5
 Shows/2008/Fringe.yml	9cca33fb
+Shows/2008/The Penguins of Madagascar.yml	f75da468
 Shows/2009/Breaking Bad, Season 2.yml	10a4bbba
 Shows/2009/Dexter, Season 4.yml	40ee5fdf
 Shows/2010/Boardwalk Empire.yml	d8652b53
@@ -8592,11 +8597,13 @@ Shows/2013/House of Cards.yml	6603bc8b
 Shows/2013/Luther, Season 3.yml	3bfca278
 Shows/2013/Marvel's Agents of S.H.I.E.L.D..yml	1e60b312
 Shows/2013/Rectify.yml	6d721e0a
+Shows/2014/All Hail King Julien.yml	53e067e1
 Shows/2014/Fargo.yml	6347af9
 Shows/2014/Game of Thrones, Season 4.yml	23b887f4
 Shows/2014/Marco Polo.yml	88c06c62
 Shows/2014/Rectify, Season 2.yml	76af41b8
 Shows/2015/Agent Carter.yml	ee4e079d
+Shows/2015/CriticalRole.yml	e8f89edd
 Shows/2015/Fargo, Season 2.yml	f1554be6
 Shows/2015/Game of Thrones, Season 5.yml	da0a3d38
 Shows/2015/Killjoys.yml	9dea0958
@@ -8619,6 +8626,7 @@ Shows/2016/Marco Polo, Season 2.yml	c155c528
 Shows/2016/Narcos, Season 2.yml	e7090cf4
 Shows/2016/Rectify, Season 4.yml	79c1c3d
 Shows/2016/Stranger Things.yml	3a0924e6
+Shows/2017/All Hail King Julien Exiled.yml	27f46ba7
 Shows/2017/Black Mirror, Season 4.yml	14cd1389
 Shows/2017/Easy, Season 2.yml	c5b4c130
 Shows/2017/Game of Thrones, Season 7.yml	a902acba
@@ -8647,6 +8655,7 @@ Shows/2019/Legion, Season 3.yml	19008afc
 Shows/2019/Luther, Season 5.yml	4ead5218
 Shows/2019/One Punch Man, Season 2.yml	9003b723
 Shows/2019/Stranger Things, Season 3.yml	721e08ee
+Shows/2019/The Boys Series.yml	d72c68de
 Shows/2019/The Boys.yml	7fc3ef5
 Shows/2019/The Mandalorian.yml	3c3baca1
 Shows/2019/The Purge, Season 2.yml	2636e801
@@ -8657,6 +8666,7 @@ Shows/2020/Devs.yml	30d631d7
 Shows/2020/Industry.yml	78ae685a
 Shows/2020/Infinity Train, Season 2.yml	84cbd388
 Shows/2020/Infinity Train, Season 3.yml	d20fd5
+Shows/2020/Madagascar A Little Wild.yml	bc90789
 Shows/2020/Ozark, Season 3.yml	614c2409
 Shows/2020/Star Trek Lower Decks.yml	99b2e900
 Shows/2020/Star Trek Picard.yml	b75c6146
@@ -8670,9 +8680,11 @@ Shows/2021/Hacks.yml	1d00106e
 Shows/2021/Hawkeye.yml	7ba47743
 Shows/2021/Infinity Train, Season 4.yml	3822c630
 Shows/2021/Invincible.yml	619a305d
+Shows/2021/Kamp Koral SpongeBob's Under Years.yml	eca8ac6e
 Shows/2021/Resident Evil Infinite Darkness.yml	e3d49a68
 Shows/2021/Star Trek Prodigy.yml	2abd1efd
 Shows/2021/The Falcon and the Winter Soldier.yml	28e3f4d2
+Shows/2021/The Patrick Star Show.yml	48e19172
 Shows/2021/WandaVision.yml	b0d704e
 Shows/2021/What We Do in the Shadows, Season 3.yml	d6020aa4
 Shows/2022/Andor.yml	6f8e8b0a
@@ -8694,11 +8706,13 @@ Shows/2022/Stranger Things, Season 4.yml	9f305593
 Shows/2022/The Bear.yml	d692faaa
 Shows/2022/The Boys, Season 3.yml	3ab68809
 Shows/2022/Undone, Season 2.yml	7e6b36df
+Shows/2022/Wednesday.yml	c0ac1bdd
 Shows/2022/What We Do in the Shadows, Season 4.yml	6a218c8
 Shows/2023/Mrs. Davis.yml	2ae3a798
 Shows/2023/Painkiller.yml	f9e09c48
 Shows/2023/Scavengers Reign.yml	166d3c76
 Shows/2023/Scott Pilgrim Takes Off.yml	e41ae63c
+Shows/2023/Silo Series.yml	a0dede54
 Shows/2023/Silo.yml	98047116
 Shows/2023/Star Trek Picard, Season 3.yml	a5f1793d
 Shows/2023/Star Trek Strange New Worlds, Season 2.yml	b4f3b894
@@ -8708,6 +8722,7 @@ Shows/2023/The Mandalorian, Season 3.yml	47127aa0
 Shows/2023/What We Do in the Shadows, Season 5.yml	d4903abc
 Shows/2024/3 Body Problem.yml	65179261
 Shows/2024/Avatar The Last Airbender.yml	ffe6f507
+Shows/2024/Bad Monkey.yml	1faf3ef5
 Shows/2024/Batman Caped Crusader.yml	61435433
 Shows/2024/Doctor Who, Season 1.yml	ec0efbd
 Shows/2024/Fallout.yml	40bbdcfd
@@ -8741,24 +8756,9 @@ Shows/2026/Star Trek Starfleet Academy.yml	22a7fa81
 Shows/2026/The Boys, Season 5.yml	e0ed076d
 Shows/2026/The Pitt, Season 2.yml	3a7c45d2
 Shows/2026/Wonder Man.yml	733b1317
-Shows/All Hail King Julien Exiled.yml	27f46ba7
-Shows/All Hail King Julien.yml	53e067e1
-Shows/Bad Monkey.yml	1faf3ef5
-Shows/CriticalRole.yml	e8f89edd
-Shows/Dexter.yml	bf1eb10e
-Shows/Friday the 13th The Series.yml	c993eb17
-Shows/Kamp Koral SpongeBob's Under Years.yml	eca8ac6e
-Shows/Madagascar A Little Wild.yml	bc90789
 Shows/Series/Hotel Transylvania.yml	ccdf4507
 Shows/Series/Ice Age.yml	c03d0aa2
+Shows/Series/Madagascar.yml	4d72b64e
+Shows/Series/SpongeBob SquarePants.yml	ac8edae5
+Shows/Series/The Addams Family.yml	97984709
 Shows/Series/The Purge.yml	b7eba594
-Shows/Silo.yml	a0dede54
-Shows/SpongeBob SquarePants.yml	ebf1c511
-Shows/The Addams Family 1964.yml	587adffd
-Shows/The Addams Family 1973.yml	de3d3dff
-Shows/The Addams Family 1992.yml	cbb87848
-Shows/The Boys.yml	d72c68de
-Shows/The New Addams Family.yml	c4b3f13c
-Shows/The Patrick Star Show.yml	48e19172
-Shows/The Penguins of Madagascar.yml	f75da468
-Shows/Wednesday.yml	c0ac1bdd
