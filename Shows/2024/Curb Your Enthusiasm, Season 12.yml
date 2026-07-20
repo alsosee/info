@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 12"
+series: Curb Your Enthusiasm
+previous: "Shows/2021/Curb Your Enthusiasm, Season 11"
+description: >
+  Season 12 continues Curb Your Enthusiasm's ensemble comedy.
+released: "2024-02-04"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_12"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=12"
+tmdb: "https://www.themoviedb.org/tv/4546/season/12"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: Atlanta
+    released: "2024-02-04"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/1"
+  - name: The Lawn Jockey
+    released: "2024-02-11"
+    length: "33m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/2"
+  - name: "Vertical Drop, Horizontal Tug"
+    released: "2024-02-18"
+    length: "40m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/3"
+  - name: Disgruntled
+    released: "2024-02-25"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/4"
+  - name: Fish Stuck
+    released: "2024-03-03"
+    length: "41m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/5"
+  - name: The Gettysburg Address
+    released: "2024-03-10"
+    length: "38m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/6"
+  - name: The Dream Scheme
+    released: "2024-03-17"
+    length: "39m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/7"
+  - name: The Colostomy Bag
+    released: "2024-03-24"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/8"
+  - name: Ken/Kendra
+    released: "2024-03-31"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/9"
+  - name: No Lessons Learned
+    released: "2024-04-07"
+    length: "53m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/12/episode/10"

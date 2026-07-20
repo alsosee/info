@@ -1,0 +1,126 @@
+name: "Frasier, Season 6"
+series: Frasier
+previous: "Shows/1997/Frasier, Season 5"
+description: >
+  The sixth season of Frasier originally aired from September 24, 1998 to May 29, 1999 on NBC.
+released: "1998-09-24"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Frasier#Season_6"
+imdb: "https://www.imdb.com/title/tt0106004/episodes?season=6"
+tmdb: "https://www.themoviedb.org/tv/3452/season/6"
+creators:
+  - David Angell
+  - Peter Casey
+  - David Lee
+characters:
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Niles Crane
+    actor: David Hyde Pierce
+  - name: Martin Crane
+    actor: John Mahoney
+  - name: Daphne Moon
+    actor: Jane Leeves
+  - name: Roz Doyle
+    actor: Peri Gilpin
+episodes:
+  - name: Good Grief
+    released: "1998-09-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/1"
+  - name: "Frasier's Curse"
+    released: "1998-10-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/2"
+  - name: Dial M for Martin
+    released: "1998-10-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/3"
+  - name: Hot Ticket
+    released: "1998-10-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/4"
+  - name: "First, Do No Harm"
+    released: "1998-10-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/5"
+  - name: Secret Admirer
+    released: "1998-11-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/6"
+  - name: How to Bury a Millionaire
+    released: "1998-11-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/7"
+  - name: The Seal Who Came to Dinner
+    released: "1998-11-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/8"
+  - name: "Roz, a Loan"
+    released: "1998-12-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/9"
+  - name: "Merry Christmas, Mrs. Moskowitz"
+    released: "1998-12-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/10"
+  - name: Good Samaritan
+    released: "1999-01-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/11"
+  - name: "Our Parents, Ourselves"
+    released: "1999-01-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/12"
+  - name: The Show where Woody Shows Up
+    released: "1999-02-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/13"
+  - name: Three Valentines
+    released: "1999-02-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/14"
+  - name: To Tell the Truth
+    released: "1999-02-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/15"
+  - name: Decoys
+    released: "1999-02-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/16"
+  - name: Dinner Party
+    released: "1999-03-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/17"
+  - name: Taps at the Montana
+    released: "1999-03-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/18"
+  - name: IQ
+    released: "1999-04-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/19"
+  - name: Dr. Nora
+    released: "1999-04-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/20"
+  - name: When a Man Loves Two Women
+    released: "1999-05-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/21"
+  - name: Visions of Daphne
+    released: "1999-05-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/22"
+  - name: Shutout in Seattle (1)
+    released: "1999-05-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/23"
+  - name: Shutout in Seattle (2)
+    released: "1999-05-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/6/episode/24"

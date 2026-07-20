@@ -1,0 +1,124 @@
+name: "Cheers, Season 7"
+series: Cheers
+previous: "Shows/1987/Cheers, Season 6"
+description: >
+  Season 7 continues Cheers's ensemble comedy.
+released: "1988-10-27"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_7"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=7"
+tmdb: "https://www.themoviedb.org/tv/141/season/7"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: How to Recede in Business
+    released: "1988-10-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/1"
+  - name: Swear to God
+    released: "1988-11-03"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/2"
+  - name: Executive Sweet
+    released: "1988-11-10"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/3"
+  - name: One Happy Chappy in a Snappy Serape
+    released: "1988-11-17"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/4"
+  - name: "Those Lips, Those Ice"
+    released: "1988-11-24"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/5"
+  - name: "Norm, is That You?"
+    released: "1988-12-08"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/6"
+  - name: How to Win Friends and Electrocute People
+    released: "1988-12-15"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/7"
+  - name: Jumping Jerks
+    released: "1988-12-22"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/8"
+  - name: Send in the Crane
+    released: "1989-01-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/9"
+  - name: "Bar Wars II: The Woodman Strikes Back"
+    released: "1989-01-12"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/10"
+  - name: Adventures in Housesitting
+    released: "1989-01-19"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/11"
+  - name: Please Mr. Postman
+    released: "1989-02-02"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/12"
+  - name: Golden Boyd
+    released: "1989-02-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/13"
+  - name: I Kid You Not
+    released: "1989-02-16"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/14"
+  - name: "Don't Paint Your Chickens"
+    released: "1989-02-23"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/15"
+  - name: The Cranemakers
+    released: "1989-03-02"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/16"
+  - name: Hot Rocks
+    released: "1989-03-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/17"
+  - name: "What's Up, Doc?"
+    released: "1989-03-30"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/18"
+  - name: The Gift of the Woodi
+    released: "1989-04-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/19"
+  - name: Call Me Irresponsible
+    released: "1989-04-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/20"
+  - name: Sisterly Love
+    released: "1989-04-27"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/21"
+  - name: The Visiting Lecher
+    released: "1989-05-04"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/7/episode/22"

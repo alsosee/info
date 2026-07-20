@@ -1,0 +1,67 @@
+name: "It's Always Sunny in Philadelphia, Season 11"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2015/It's Always Sunny in Philadelphia, Season 10"
+description: >
+  Season 11 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2016-01-06"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_11"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=11"
+tmdb: "https://www.themoviedb.org/tv/2710/season/11"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: "Chardee MacDennis 2: Electric Boogaloo"
+    released: "2016-01-06"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/1"
+  - name: Frank Falls Out the Window
+    released: "2016-01-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/2"
+  - name: The Gang Hits the Slopes
+    released: "2016-01-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/3"
+  - name: Dee Made a Smut Film
+    released: "2016-01-27"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/4"
+  - name: "Mac & Dennis Move to the Suburbs"
+    released: "2016-02-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/5"
+  - name: Being Frank
+    released: "2016-02-10"
+    length: "18m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/6"
+  - name: "McPoyle vs. Ponderosa: The Trial of the Century"
+    released: "2016-02-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/7"
+  - name: Charlie Catches a Leprechaun
+    released: "2016-02-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/8"
+  - name: The Gang Goes to Hell (1)
+    released: "2016-03-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/9"
+  - name: The Gang Goes to Hell (2)
+    released: "2016-03-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/11/episode/10"

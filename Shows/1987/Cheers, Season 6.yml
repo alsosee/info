@@ -1,0 +1,136 @@
+name: "Cheers, Season 6"
+series: Cheers
+previous: "Shows/1986/Cheers, Season 5"
+description: >
+  Season 6 continues Cheers's ensemble comedy.
+released: "1987-09-24"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_6"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=6"
+tmdb: "https://www.themoviedb.org/tv/141/season/6"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: Home Is the Sailor
+    released: "1987-09-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/1"
+  - name: "'I' on Sports"
+    released: "1987-10-01"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/2"
+  - name: "Little Carla, Happy at Last (1)"
+    released: "1987-10-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/3"
+  - name: "Little Carla, Happy at Last (2)"
+    released: "1987-10-22"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/4"
+  - name: The Crane Mutiny
+    released: "1987-10-29"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/5"
+  - name: Paint Your Office
+    released: "1987-11-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/6"
+  - name: The Last Angry Mailman
+    released: "1987-11-12"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/7"
+  - name: Bidding on the Boys
+    released: "1987-11-19"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/8"
+  - name: "Pudd'n head Boyd"
+    released: "1987-11-26"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/9"
+  - name: A Kiss is Still a Kiss
+    released: "1987-12-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/10"
+  - name: My Fair Clavin
+    released: "1987-12-10"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/11"
+  - name: Christmas Cheers
+    released: "1987-12-17"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/12"
+  - name: Woody for Hire meets Norman of the Apes
+    released: "1988-01-07"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/13"
+  - name: And God Created Woodman
+    released: "1988-01-14"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/14"
+  - name: Tale of Two Cuties
+    released: "1988-01-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/15"
+  - name: Yacht of Fools
+    released: "1988-02-04"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/16"
+  - name: "To All the Girls I've Loved Before"
+    released: "1988-02-11"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/17"
+  - name: Let Sleeping Drakes Lie
+    released: "1988-02-18"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/18"
+  - name: Airport V
+    released: "1988-02-25"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/19"
+  - name: The Sam in the Gray Flannel Suit
+    released: "1988-03-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/20"
+  - name: Our Hourly Bread
+    released: "1988-03-10"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/21"
+  - name: Slumber Party Massacred
+    released: "1988-03-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/22"
+  - name: Bar Wars
+    released: "1988-03-31"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/23"
+  - name: The Big Kiss-Off
+    released: "1988-04-28"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/24"
+  - name: "Backseat Becky, Up Front"
+    released: "1988-05-05"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/6/episode/25"

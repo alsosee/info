@@ -1,0 +1,75 @@
+name: "It's Always Sunny in Philadelphia, Season 5"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2008/It's Always Sunny in Philadelphia, Season 4"
+description: >
+  Season 5 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2009-09-17"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_5"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=5"
+tmdb: "https://www.themoviedb.org/tv/2710/season/5"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: The Gang Exploits the Mortgage Crisis
+    released: "2009-09-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/1"
+  - name: The Gang Hits the Road
+    released: "2009-09-24"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/2"
+  - name: The Great Recession
+    released: "2009-10-01"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/3"
+  - name: The Gang Gives Frank an Intervention
+    released: "2009-10-08"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/4"
+  - name: The Waitress Is Getting Married
+    released: "2009-10-15"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/5"
+  - name: The World Series Defense
+    released: "2009-10-22"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/6"
+  - name: The Gang Wrestles for the Troops
+    released: "2009-10-29"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/7"
+  - name: "Paddy's Pub: Home of the Original Kitten Mittens"
+    released: "2009-11-05"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/8"
+  - name: Mac and Dennis Break Up
+    released: "2009-11-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/9"
+  - name: The D.E.N.N.I.S. System
+    released: "2009-11-19"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/10"
+  - name: Mac and Charlie Write a Movie
+    released: "2009-12-03"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/11"
+  - name: The Gang Reignites the Rivalry
+    released: "2009-12-10"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/5/episode/12"

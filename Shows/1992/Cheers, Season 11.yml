@@ -1,0 +1,136 @@
+name: "Cheers, Season 11"
+series: Cheers
+previous: "Shows/1991/Cheers, Season 10"
+description: >
+  Season 11 continues Cheers's ensemble comedy.
+released: "1992-09-24"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_11"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=11"
+tmdb: "https://www.themoviedb.org/tv/141/season/11"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: The Little Match Girl
+    released: "1992-09-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/1"
+  - name: The Beer is Always Greener
+    released: "1992-10-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/2"
+  - name: The King of Beers
+    released: "1992-10-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/3"
+  - name: The Magnificent Six
+    released: "1992-10-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/4"
+  - name: "Do Not Forsake Me O' My Postman"
+    released: "1992-10-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/5"
+  - name: Teaching with the Enemy (1)
+    released: "1992-11-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/6"
+  - name: The Girl in the Plastic Bubble (2)
+    released: "1992-11-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/7"
+  - name: Ill-Gotten Gaines
+    released: "1992-11-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/8"
+  - name: "Feelings... Whoa, Whoa, Whoa"
+    released: "1992-12-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/9"
+  - name: "Daddy's Little Middle-Aged Girl"
+    released: "1992-12-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/10"
+  - name: "Love Me, Love My Car"
+    released: "1992-12-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/11"
+  - name: Sunday Dinner
+    released: "1993-01-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/12"
+  - name: "Norm's Big Audit"
+    released: "1993-01-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/13"
+  - name: "It's a Mad, Mad, Mad, Mad Bar"
+    released: "1993-01-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/14"
+  - name: Loathe and Marriage
+    released: "1993-02-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/15"
+  - name: Is There a Doctor in the Howe? (1)
+    released: "1993-02-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/16"
+  - name: "The Bar Manager, The Shrink, His Wife and Her Lover (2)"
+    released: "1993-02-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/17"
+  - name: The Last Picture Show
+    released: "1993-02-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/18"
+  - name: "Bar Wars VII: The Naked Prey"
+    released: "1993-03-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/19"
+  - name: Look Before You Sleep
+    released: "1993-04-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/20"
+  - name: Woody Gets an Election
+    released: "1993-04-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/21"
+  - name: "It's Lonely on the Top"
+    released: "1993-04-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/22"
+  - name: "Rebecca Gaines, Rebecca Loses"
+    released: "1993-05-06"
+    length: "42m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/23"
+  - name: "The Guy Can't Help It"
+    released: "1993-05-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/24"
+  - name: One for the Road
+    released: "1993-05-20"
+    length: "98m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/11/episode/25"

@@ -1,0 +1,90 @@
+name: "30 Rock, Season 2"
+series: "30 Rock"
+previous: Shows/2006/30 Rock
+description: >
+  Season 2 continues 30 Rock's ensemble comedy.
+released: "2007-10-04"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/30_Rock#Season_2"
+imdb: "https://www.imdb.com/title/tt0496424/episodes?season=2"
+tmdb: "https://www.themoviedb.org/tv/4608/season/2"
+creators: Tina Fey
+characters:
+  - name: Liz Lemon
+    actor: Tina Fey
+  - name: Jack Donaghy
+    actor: Alec Baldwin
+  - name: Tracy Jordan
+    actor: Tracy Morgan
+  - name: Jenna Maroney
+    actor: Jane Krakowski
+  - name: Kenneth Parcell
+    actor: Jack McBrayer
+  - name: Pete Hornberger
+    actor: Scott Adsit
+episodes:
+  - name: Seinfeldvision
+    released: "2007-10-04"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/1"
+  - name: Jack Gets in the Game
+    released: "2007-10-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/2"
+  - name: The Collection
+    released: "2007-10-18"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/3"
+  - name: "Rosemary's Baby"
+    released: "2007-10-25"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/4"
+  - name: Greenzo
+    released: "2007-11-08"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/5"
+  - name: Somebody to Love
+    released: "2007-11-15"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/6"
+  - name: Cougars
+    released: "2007-11-29"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/7"
+  - name: Secrets and Lies
+    released: "2007-12-06"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/8"
+  - name: Ludachristmas
+    released: "2007-12-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/9"
+  - name: Episode 210
+    released: "2008-01-10"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/10"
+  - name: MILF Island
+    released: "2008-04-10"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/11"
+  - name: Subway Hero
+    released: "2008-04-17"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/12"
+  - name: Succession
+    released: "2008-04-24"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/13"
+  - name: Sandwich Day
+    released: "2008-05-01"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/14"
+  - name: Cooter
+    released: "2008-05-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/2/episode/15"

@@ -1,0 +1,140 @@
+name: "Cheers, Season 5"
+series: Cheers
+previous: "Shows/1985/Cheers, Season 4"
+description: >
+  Season 5 continues Cheers's ensemble comedy.
+released: "1986-09-25"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_5"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=5"
+tmdb: "https://www.themoviedb.org/tv/141/season/5"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: The Proposal
+    released: "1986-09-25"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/1"
+  - name: The Cape Cad
+    released: "1986-10-02"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/2"
+  - name: Money Dearest
+    released: "1986-10-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/3"
+  - name: Abnormal Psychology
+    released: "1986-10-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/4"
+  - name: House of Horrors with Formal Dining and Used Brick
+    released: "1986-10-30"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/5"
+  - name: "Tan 'n' Wash"
+    released: "1986-11-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/6"
+  - name: Young Dr. Weinstein
+    released: "1986-11-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/7"
+  - name: Knights of the Scimitar
+    released: "1986-11-20"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/8"
+  - name: Thanksgiving Orphans
+    released: "1986-11-27"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/9"
+  - name: Everyone Imitates Art
+    released: "1986-12-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/10"
+  - name: The Book of Samuel
+    released: "1986-12-11"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/11"
+  - name: "Dance, Diane, Dance"
+    released: "1986-12-18"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/12"
+  - name: Chambers vs. Malone
+    released: "1987-01-08"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/13"
+  - name: Diamond Sam
+    released: "1987-01-15"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/14"
+  - name: Spellbound
+    released: "1987-01-22"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/15"
+  - name: Never Love a Goalie (1)
+    released: "1987-01-29"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/16"
+  - name: Never Love a Goalie (2)
+    released: "1987-02-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/17"
+  - name: One Last Fling
+    released: "1987-02-12"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/18"
+  - name: Dog Bites Cliff
+    released: "1987-02-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/19"
+  - name: Dinner at Eight-ish
+    released: "1987-02-26"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/20"
+  - name: Simon Says
+    released: "1987-03-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/21"
+  - name: "The Godfather, Part III"
+    released: "1987-03-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/22"
+  - name: "Norm's First Hurrah"
+    released: "1987-03-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/23"
+  - name: "Cheers: The Motion Picture"
+    released: "1987-04-02"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/24"
+  - name: A House Is Not a Home
+    released: "1987-04-30"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/25"
+  - name: "I Do, Adieu"
+    released: "1987-05-07"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/5/episode/26"

@@ -1,0 +1,75 @@
+name: "Seinfeld, Season 2"
+series: Seinfeld
+previous: Shows/1989/Seinfeld
+description: >
+  Season 2 continues Seinfeld's ensemble comedy.
+released: "1991-01-23"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld#Season_2"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=2"
+tmdb: "https://www.themoviedb.org/tv/1400/season/2"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Ex-Girlfriend
+    released: "1991-01-23"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/1"
+  - name: The Pony Remark
+    released: "1991-01-30"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/2"
+  - name: The Jacket
+    released: "1991-02-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/3"
+  - name: The Phone Message
+    released: "1991-02-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/4"
+  - name: The Apartment
+    released: "1991-04-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/5"
+  - name: The Statue
+    released: "1991-04-11"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/6"
+  - name: The Revenge
+    released: "1991-04-18"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/7"
+  - name: The Heart Attack
+    released: "1991-04-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/8"
+  - name: The Deal
+    released: "1991-05-02"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/9"
+  - name: The Baby Shower
+    released: "1991-05-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/10"
+  - name: The Chinese Restaurant
+    released: "1991-05-23"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/11"
+  - name: The Busboy
+    released: "1991-06-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/2/episode/12"

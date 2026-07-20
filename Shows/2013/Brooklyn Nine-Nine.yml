@@ -1,0 +1,124 @@
+name: Brooklyn Nine-Nine
+description: >
+  Talented but laid-back detective Jake Peralta and his dysfunctional peers struggle to get along under their precinct's strict new captain.
+released: "2013-09-17"
+rating: TV-14
+genres:
+  - sitcom
+  - police procedural comedy
+  - workplace comedy
+network: Fox
+wikipedia: "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine"
+imdb: "https://www.imdb.com/title/tt2467372/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/48891/season/1"
+creators:
+  - Dan Goor
+  - Michael Schur
+characters:
+  - name: Jake Peralta
+    actor: Andy Samberg
+  - name: Amy Santiago
+    actor: Melissa Fumero
+  - name: Raymond Holt
+    actor: Andre Braugher
+  - name: Rosa Diaz
+    actor: Stephanie Beatriz
+  - name: Terry Jeffords
+    actor: Terry Crews
+  - name: Charles Boyle
+    actor: Joe Lo Truglio
+  - name: Gina Linetti
+    actor: Chelsea Peretti
+  - name: Hitchcock
+    actor: Dirk Blocker
+  - name: Scully
+    actor: Joel McKinnon Miller
+episodes:
+  - name: Pilot
+    released: "2013-09-17"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/1"
+  - name: The Tagger
+    released: "2013-09-24"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/2"
+  - name: The Slump
+    released: "2013-10-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/3"
+  - name: M.E. Time
+    released: "2013-10-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/4"
+  - name: The Vulture
+    released: "2013-10-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/5"
+  - name: Halloween
+    released: "2013-10-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/6"
+  - name: "48 Hours"
+    released: "2013-11-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/7"
+  - name: Old School
+    released: "2013-11-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/8"
+  - name: "Sal's Pizza"
+    released: "2013-11-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/9"
+  - name: Thanksgiving
+    released: "2013-11-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/10"
+  - name: Christmas
+    released: "2013-12-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/11"
+  - name: Pontiac Bandit
+    released: "2014-01-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/12"
+  - name: The Bet
+    released: "2014-01-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/13"
+  - name: The Ebony Falcon
+    released: "2014-01-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/14"
+  - name: "Operation: Broken Feather"
+    released: "2014-02-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/15"
+  - name: The Party
+    released: "2014-02-04"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/16"
+  - name: Full Boyle
+    released: "2014-02-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/17"
+  - name: The Apartment
+    released: "2014-02-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/18"
+  - name: Tactical Village
+    released: "2014-03-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/19"
+  - name: Fancy Brudgom
+    released: "2014-03-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/20"
+  - name: Unsolvable
+    released: "2014-03-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/21"
+  - name: Charges and Specs
+    released: "2014-03-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/1/episode/22"

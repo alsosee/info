@@ -1,0 +1,120 @@
+name: Arrested Development
+description: >
+  Meet the suddenly penniless, and equally clueless, Bluth family. Accustomed to their wildly affluent lifestyle, they can't seem to grasp the fact that the head of the family is now in the slammer for shifty accounting practices — and he's loving every minute of it. Even worse, since the family assets have been frozen, they may actually have to go out and get jobs! The only one who understands the seriousness of their predicament is Michael, who realizes it's up to him to guide his eccentric family into this new chapter of their lives: Chapter 11.
+released: "2003-11-02"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - comedy
+network: Fox
+wikipedia: "https://en.wikipedia.org/wiki/Arrested_Development"
+imdb: "https://www.imdb.com/title/tt0367279/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/4589/season/1"
+creators: Mitchell Hurwitz
+characters:
+  - name: Michael Bluth
+    actor: Jason Bateman
+  - name: George Bluth Sr.
+    actor: Jeffrey Tambor
+  - name: Lucille Bluth
+    actor: Jessica Walter
+  - name: Gob Bluth
+    actor: Will Arnett
+  - name: Lindsay Bluth Funke
+    actor: Portia de Rossi
+  - name: Tobias Funke
+    actor: David Cross
+  - name: George Michael Bluth
+    actor: Michael Cera
+  - name: Maeby Funke
+    actor: Alia Shawkat
+episodes:
+  - name: Pilot
+    released: "2003-11-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/1"
+  - name: Top Banana
+    released: "2003-11-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/2"
+  - name: Bringing Up Buster
+    released: "2003-11-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/3"
+  - name: Key Decisions
+    released: "2003-11-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/4"
+  - name: Charity Drive
+    released: "2003-11-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/5"
+  - name: Visiting Ours
+    released: "2003-12-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/6"
+  - name: In God We Trust
+    released: "2003-12-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/7"
+  - name: "My Mother, the Car"
+    released: "2003-12-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/8"
+  - name: Storming the Castle
+    released: "2004-01-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/9"
+  - name: Pier Pressure
+    released: "2004-01-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/10"
+  - name: Public Relations
+    released: "2004-01-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/11"
+  - name: Marta Complex
+    released: "2004-02-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/12"
+  - name: Beef Consommé
+    released: "2004-02-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/13"
+  - name: Shock and Aww
+    released: "2004-03-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/14"
+  - name: Staff Infection
+    released: "2004-03-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/15"
+  - name: Altar Egos
+    released: "2004-03-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/16"
+  - name: Justice Is Blind
+    released: "2004-03-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/17"
+  - name: Missing Kitty
+    released: "2004-03-28"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/18"
+  - name: Best Man for the Gob
+    released: "2004-04-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/19"
+  - name: "Whistler's Mother"
+    released: "2004-04-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/20"
+  - name: Not Without My Daughter
+    released: "2004-04-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/21"
+  - name: "Let 'Em Eat Cake"
+    released: "2004-06-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/1/episode/22"

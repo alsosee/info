@@ -1,0 +1,67 @@
+name: "It's Always Sunny in Philadelphia, Season 13"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2017/It's Always Sunny in Philadelphia, Season 12"
+description: >
+  The Gang returns... mostly... in Season 13. Mac, Charlie, Dee, and Frank return to their duplicitous, scheming ways at Paddy’s Pub, while Dennis takes on the new role of father in North Dakota. Even without Dennis, the Gang has its hands full as Charlie hopes to have a child with The Waitress, Mac sets out to understand his newfound sexuality, Dee takes feminism to new heights, and Frank goes to great lengths for the Gang to experience the greatest moment in Philadelphia sports history – an Eagles Super Bowl victory.
+released: "2018-09-05"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_13"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=13"
+tmdb: "https://www.themoviedb.org/tv/2710/season/13"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: "The Gang Makes Paddy's Great Again"
+    released: "2018-09-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/1"
+  - name: The Gang Escapes
+    released: "2018-09-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/2"
+  - name: "The Gang Beats Boggs: Ladies Reboot"
+    released: "2018-09-19"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/3"
+  - name: "Time's Up for the Gang"
+    released: "2018-09-26"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/4"
+  - name: The Gang Gets New Wheels
+    released: "2018-10-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/5"
+  - name: The Gang Solves the Bathroom Problem
+    released: "2018-10-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/6"
+  - name: The Gang Does a Clip Show
+    released: "2018-10-17"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/7"
+  - name: "Charlie's Home Alone"
+    released: "2018-10-24"
+    length: "19m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/8"
+  - name: The Gang Wins the Big Game
+    released: "2018-10-31"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/9"
+  - name: Mac Finds His Pride
+    released: "2018-11-07"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/13/episode/10"

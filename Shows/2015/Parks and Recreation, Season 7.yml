@@ -1,0 +1,84 @@
+name: "Parks and Recreation, Season 7"
+series: Parks and Recreation
+previous: "Shows/2013/Parks and Recreation, Season 6"
+description: >
+  Season 7 continues Parks and Recreation's ensemble comedy.
+released: "2015-01-13"
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Parks_and_Recreation#Season_7"
+imdb: "https://www.imdb.com/title/tt1266020/episodes?season=7"
+tmdb: "https://www.themoviedb.org/tv/8592/season/7"
+creators:
+  - Greg Daniels
+  - Michael Schur
+characters:
+  - name: Leslie Knope
+    actor: Amy Poehler
+  - name: Ann Perkins
+    actor: Rashida Jones
+  - name: Ron Swanson
+    actor: Nick Offerman
+  - name: Tom Haverford
+    actor: Aziz Ansari
+  - name: April Ludgate
+    actor: Aubrey Plaza
+  - name: Andy Dwyer
+    actor: Chris Pratt
+  - name: Ben Wyatt
+    actor: Adam Scott
+  - name: Chris Traeger
+    actor: Rob Lowe
+episodes:
+  - name: "2017"
+    released: "2015-01-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/1"
+  - name: Ron and Jammy
+    released: "2015-01-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/2"
+  - name: William Henry Harrison
+    released: "2015-01-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/3"
+  - name: Leslie and Ron
+    released: "2015-01-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/4"
+  - name: Gryzzlbox
+    released: "2015-01-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/5"
+  - name: "Save JJ's"
+    released: "2015-01-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/6"
+  - name: Donna and Joe
+    released: "2015-02-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/7"
+  - name: Ms. Ludgate-Dwyer Goes to Washington
+    released: "2015-02-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/8"
+  - name: Pie-Mary
+    released: "2015-02-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/9"
+  - name: The Johnny Karate Super Awesome Musical Explosion Show
+    released: "2015-02-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/10"
+  - name: Two Funerals
+    released: "2015-02-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/11"
+  - name: One Last Ride
+    released: "2015-02-24"
+    length: "44m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/7/episode/12"

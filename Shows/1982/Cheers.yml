@@ -1,0 +1,122 @@
+name: Cheers
+description: >
+  The regulars and staff of a Boston bar turn workplace routines, friendships, rivalries, and romances into ensemble comedy.
+released: "1982-09-30"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/141/season/1"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: Give Me a Ring Sometime
+    released: "1982-09-30"
+    length: "25m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/1"
+  - name: "Sam's Women"
+    released: "1982-10-07"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/2"
+  - name: The Tortelli Tort
+    released: "1982-10-14"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/3"
+  - name: Sam at Eleven
+    released: "1982-10-21"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/4"
+  - name: "Coach's Daughter"
+    released: "1982-10-28"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/5"
+  - name: "Any Friend of Diane's"
+    released: "1982-11-04"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/6"
+  - name: "Friends, Romans, Accountants"
+    released: "1982-11-11"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/7"
+  - name: Truce or Consequences
+    released: "1982-11-18"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/8"
+  - name: Coach Returns to Action
+    released: "1982-11-25"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/9"
+  - name: Endless Slumper
+    released: "1982-12-02"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/10"
+  - name: One for the Book
+    released: "1982-12-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/11"
+  - name: The Spy Who Came in for a Cold One
+    released: "1982-12-16"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/12"
+  - name: "Now Pitching, Sam Malone"
+    released: "1983-01-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/13"
+  - name: Let Me Count the Ways
+    released: "1983-01-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/14"
+  - name: Father Knows Last
+    released: "1983-01-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/15"
+  - name: The Boys in the Bar
+    released: "1983-01-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/16"
+  - name: "Diane's Perfect Date"
+    released: "1983-02-10"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/17"
+  - name: No Contest
+    released: "1983-02-17"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/18"
+  - name: Pick a Con... Any Con
+    released: "1983-02-24"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/19"
+  - name: "Someone Single, Someone Blue"
+    released: "1983-03-03"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/20"
+  - name: Showdown (1)
+    released: "1983-03-24"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/21"
+  - name: Showdown (2)
+    released: "1983-03-31"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/1/episode/22"

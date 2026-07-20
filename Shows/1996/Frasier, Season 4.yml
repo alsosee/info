@@ -1,0 +1,126 @@
+name: "Frasier, Season 4"
+series: Frasier
+previous: "Shows/1995/Frasier, Season 3"
+description: >
+  The fourth season of Frasier originally aired from September 17, 1996 to May 20, 1997 on NBC.
+released: "1996-09-17"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Frasier#Season_4"
+imdb: "https://www.imdb.com/title/tt0106004/episodes?season=4"
+tmdb: "https://www.themoviedb.org/tv/3452/season/4"
+creators:
+  - David Angell
+  - Peter Casey
+  - David Lee
+characters:
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Niles Crane
+    actor: David Hyde Pierce
+  - name: Martin Crane
+    actor: John Mahoney
+  - name: Daphne Moon
+    actor: Jane Leeves
+  - name: Roz Doyle
+    actor: Peri Gilpin
+episodes:
+  - name: The Two Mrs. Cranes
+    released: "1996-09-17"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/1"
+  - name: Love Bites Dog
+    released: "1996-09-24"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/2"
+  - name: The Impossible Dream
+    released: "1996-10-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/3"
+  - name: "A Crane's Critique"
+    released: "1996-10-22"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/4"
+  - name: Head Game
+    released: "1996-11-12"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/5"
+  - name: Mixed Doubles
+    released: "1996-11-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/6"
+  - name: A Lilith Thanksgiving
+    released: "1996-11-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/7"
+  - name: "Our Father Whose Art Ain't Heaven"
+    released: "1996-12-10"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/8"
+  - name: "Dad Loves Sherry, the Boys Just Whine"
+    released: "1997-01-07"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/9"
+  - name: "Liar! Liar!"
+    released: "1997-01-14"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/10"
+  - name: Three Days of the Condo
+    released: "1997-01-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/11"
+  - name: Death and the Dog
+    released: "1997-02-11"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/12"
+  - name: Four for the Seesaw
+    released: "1997-02-18"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/13"
+  - name: To Kill a Talking Bird
+    released: "1997-02-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/14"
+  - name: "Roz's Krantz & Gouldenstein Are Dead"
+    released: "1997-03-11"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/15"
+  - name: The Unnatural
+    released: "1997-04-01"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/16"
+  - name: "Roz's Turn"
+    released: "1997-04-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/17"
+  - name: Ham Radio
+    released: "1997-04-22"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/18"
+  - name: Three Dates and a Breakup (1)
+    released: "1997-04-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/19"
+  - name: Three Dates and a Breakup (2)
+    released: "1997-04-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/20"
+  - name: Daphne Hates Sherry
+    released: "1997-05-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/21"
+  - name: Are You Being Served?
+    released: "1997-05-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/22"
+  - name: Ask Me No Questions
+    released: "1997-05-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/23"
+  - name: Odd Man Out
+    released: "1997-05-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/4/episode/24"

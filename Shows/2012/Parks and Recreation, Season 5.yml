@@ -1,0 +1,124 @@
+name: "Parks and Recreation, Season 5"
+series: Parks and Recreation
+previous: "Shows/2011/Parks and Recreation, Season 4"
+description: >
+  Season 5 continues Parks and Recreation's ensemble comedy.
+released: "2012-09-20"
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Parks_and_Recreation#Season_5"
+imdb: "https://www.imdb.com/title/tt1266020/episodes?season=5"
+tmdb: "https://www.themoviedb.org/tv/8592/season/5"
+creators:
+  - Greg Daniels
+  - Michael Schur
+characters:
+  - name: Leslie Knope
+    actor: Amy Poehler
+  - name: Ann Perkins
+    actor: Rashida Jones
+  - name: Ron Swanson
+    actor: Nick Offerman
+  - name: Tom Haverford
+    actor: Aziz Ansari
+  - name: April Ludgate
+    actor: Aubrey Plaza
+  - name: Andy Dwyer
+    actor: Chris Pratt
+  - name: Ben Wyatt
+    actor: Adam Scott
+  - name: Chris Traeger
+    actor: Rob Lowe
+episodes:
+  - name: Ms. Knope Goes to Washington
+    released: "2012-09-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/1"
+  - name: Soda Tax
+    released: "2012-09-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/2"
+  - name: How a Bill Becomes a Law
+    released: "2012-10-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/3"
+  - name: Sex Education
+    released: "2012-10-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/4"
+  - name: Halloween Surprise
+    released: "2012-10-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/5"
+  - name: "Ben's Parents"
+    released: "2012-11-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/6"
+  - name: Leslie vs. April
+    released: "2012-11-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/7"
+  - name: Pawnee Commons
+    released: "2012-11-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/8"
+  - name: Ron and Diane
+    released: "2012-12-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/9"
+  - name: Two Parties
+    released: "2013-01-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/10"
+  - name: Women in Garbage
+    released: "2013-01-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/11"
+  - name: "Ann's Decision"
+    released: "2013-02-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/12"
+  - name: Emergency Response
+    released: "2013-02-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/13"
+  - name: Leslie and Ben
+    released: "2013-02-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/14"
+  - name: "Correspondents' Lunch"
+    released: "2013-02-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/15"
+  - name: Bailout
+    released: "2013-03-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/16"
+  - name: Partridge
+    released: "2013-04-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/17"
+  - name: Animal Control
+    released: "2013-04-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/18"
+  - name: Article Two
+    released: "2013-04-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/19"
+  - name: "Jerry's Retirement"
+    released: "2013-04-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/20"
+  - name: Swing Vote
+    released: "2013-04-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/21"
+  - name: Are You Better Off?
+    released: "2013-05-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/5/episode/22"

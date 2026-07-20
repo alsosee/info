@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 2"
+series: Curb Your Enthusiasm
+previous: Shows/2000/Curb Your Enthusiasm
+description: >
+  Larry David is still himself—much to the chagrin of everyone around him. From cutting a doll's hair to answering the door on Halloween to tripping a basketball legend, for every action of Larry's, there's an opposite and disproportionately outraged reaction.
+released: "2001-09-23"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_2"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=2"
+tmdb: "https://www.themoviedb.org/tv/4546/season/2"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: The Car Salesman
+    released: "2001-09-23"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/1"
+  - name: Thor
+    released: "2001-09-30"
+    length: "28m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/2"
+  - name: Trick or Treat
+    released: "2001-10-07"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/3"
+  - name: The Shrimp Incident
+    released: "2001-10-14"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/4"
+  - name: The Thong
+    released: "2001-10-21"
+    length: "28m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/5"
+  - name: The Acupuncturist
+    released: "2001-10-28"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/6"
+  - name: The Doll
+    released: "2001-11-04"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/7"
+  - name: Shaq
+    released: "2001-11-11"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/8"
+  - name: The Baptism
+    released: "2001-11-18"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/9"
+  - name: The Massage
+    released: "2001-11-25"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/2/episode/10"

@@ -1,0 +1,136 @@
+name: "Cheers, Season 3"
+series: Cheers
+previous: "Shows/1983/Cheers, Season 2"
+description: >
+  Season 3 continues Cheers's ensemble comedy.
+released: "1984-09-27"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_3"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/141/season/3"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: Rebound (1)
+    released: "1984-09-27"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/1"
+  - name: Rebound (2)
+    released: "1984-10-04"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/2"
+  - name: I Call Your Name
+    released: "1984-10-18"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/3"
+  - name: Fairy Tales Can Come True
+    released: "1984-10-25"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/4"
+  - name: Sam Turns the Other Cheek
+    released: "1984-11-01"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/5"
+  - name: Coach in Love (1)
+    released: "1984-11-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/6"
+  - name: Coach in Love (2)
+    released: "1984-11-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/7"
+  - name: Diane Meets Mom
+    released: "1984-11-22"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/8"
+  - name: An American Family
+    released: "1984-11-29"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/9"
+  - name: "Diane's Allergy"
+    released: "1984-12-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/10"
+  - name: Peterson Crusoe
+    released: "1984-12-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/11"
+  - name: A Ditch in Time
+    released: "1984-12-20"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/12"
+  - name: Whodunit?
+    released: "1985-01-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/13"
+  - name: The Heart is a Lonely Snipe Hunter
+    released: "1985-01-10"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/14"
+  - name: King of the Hill
+    released: "1985-01-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/15"
+  - name: "Teacher's Pet"
+    released: "1985-01-31"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/16"
+  - name: The Mail Goes to Jail
+    released: "1985-02-07"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/17"
+  - name: Bar Bet
+    released: "1985-02-14"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/18"
+  - name: Behind Every Great Man
+    released: "1985-02-21"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/19"
+  - name: If Ever I Would Leave You
+    released: "1985-02-28"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/20"
+  - name: "The Executive's Executioner"
+    released: "1985-03-07"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/21"
+  - name: "Cheerio, Cheers"
+    released: "1985-04-11"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/22"
+  - name: "The Bartender's Tale"
+    released: "1985-04-18"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/23"
+  - name: "The Belles of St. Clete's"
+    released: "1985-05-02"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/24"
+  - name: Rescue Me
+    released: "1985-05-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/3/episode/25"

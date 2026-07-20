@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 4"
+series: Curb Your Enthusiasm
+previous: "Shows/2002/Curb Your Enthusiasm, Season 3"
+description: >
+  Larry brings his many quirks and neuroses to the stage after he is cast in a major Broadway production. Meanwhile, as their 10th anniversary approaches, Larry reminds Cheryl of a special 'present' she promised him when they were engaged.
+released: "2004-01-04"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_4"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=4"
+tmdb: "https://www.themoviedb.org/tv/4546/season/4"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: "Mel's Offer"
+    released: "2004-01-04"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/1"
+  - name: "Ben's Birthday Party"
+    released: "2004-01-11"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/2"
+  - name: The Blind Date
+    released: "2004-01-18"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/3"
+  - name: The Weatherman
+    released: "2004-01-25"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/4"
+  - name: The 5 Wood
+    released: "2004-02-01"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/5"
+  - name: The Car Pool Lane
+    released: "2004-02-08"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/6"
+  - name: The Surrogate
+    released: "2004-02-22"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/7"
+  - name: Wandering Bear
+    released: "2004-02-29"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/8"
+  - name: The Survivor
+    released: "2004-03-07"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/9"
+  - name: Opening Night
+    released: "2004-03-14"
+    length: "59m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/4/episode/10"

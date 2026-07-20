@@ -1,0 +1,126 @@
+name: "Frasier, Season 8"
+series: Frasier
+previous: "Shows/1999/Frasier, Season 7"
+description: >
+  The eighth season of Frasier originally aired from October 24, 2000 to May 22, 2001 on NBC.
+released: "2000-10-24"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Frasier#Season_8"
+imdb: "https://www.imdb.com/title/tt0106004/episodes?season=8"
+tmdb: "https://www.themoviedb.org/tv/3452/season/8"
+creators:
+  - David Angell
+  - Peter Casey
+  - David Lee
+characters:
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Niles Crane
+    actor: David Hyde Pierce
+  - name: Martin Crane
+    actor: John Mahoney
+  - name: Daphne Moon
+    actor: Jane Leeves
+  - name: Roz Doyle
+    actor: Peri Gilpin
+episodes:
+  - name: And the Dish Ran Away with the Spoon (1)
+    released: "2000-10-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/1"
+  - name: And the Dish Ran Away with the Spoon (2)
+    released: "2000-10-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/2"
+  - name: The Bad Son
+    released: "2000-10-31"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/3"
+  - name: The Great Crane Robbery
+    released: "2000-11-14"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/4"
+  - name: Taking Liberties
+    released: "2000-11-21"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/5"
+  - name: Legal Tender Love and Care
+    released: "2000-11-28"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/6"
+  - name: The New Friend
+    released: "2000-12-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/7"
+  - name: Mary Christmas
+    released: "2000-12-12"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/8"
+  - name: "Frasier's Edge"
+    released: "2001-01-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/9"
+  - name: Cranes Unplugged
+    released: "2001-01-16"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/10"
+  - name: Motor Skills
+    released: "2001-01-30"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/11"
+  - name: The Show Must Go Off
+    released: "2001-02-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/12"
+  - name: Sliding Frasiers
+    released: "2001-02-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/13"
+  - name: Hungry Heart
+    released: "2001-02-20"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/14"
+  - name: Hooping Cranes
+    released: "2001-02-27"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/15"
+  - name: Docu Drama
+    released: "2001-03-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/16"
+  - name: It Takes Two to Tangle
+    released: "2001-03-27"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/17"
+  - name: Forgotten But Not Gone
+    released: "2001-04-17"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/18"
+  - name: Daphne Returns
+    released: "2001-05-01"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/19"
+  - name: The Wizard and Roz
+    released: "2001-05-08"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/20"
+  - name: Semi-Decent Proposal (1)
+    released: "2001-05-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/21"
+  - name: A Passing Fancy (2)
+    released: "2001-05-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/22"
+  - name: A Day in May
+    released: "2001-05-22"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/23"
+  - name: The Cranes Go Caribbean
+    released: "2001-05-22"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/8/episode/24"

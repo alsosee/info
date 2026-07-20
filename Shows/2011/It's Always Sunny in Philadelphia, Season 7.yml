@@ -1,0 +1,79 @@
+name: "It's Always Sunny in Philadelphia, Season 7"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2010/It's Always Sunny in Philadelphia, Season 6"
+description: >
+  Season 7 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2011-09-15"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_7"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=7"
+tmdb: "https://www.themoviedb.org/tv/2710/season/7"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: "Frank's Pretty Woman"
+    released: "2011-09-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/1"
+  - name: The Gang Goes to the Jersey Shore
+    released: "2011-09-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/2"
+  - name: "Frank Reynolds' Little Beauties"
+    released: "2011-09-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/3"
+  - name: Sweet Dee Gets Audited
+    released: "2011-10-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/4"
+  - name: "Frank's Brother"
+    released: "2011-10-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/5"
+  - name: The Storm of the Century
+    released: "2011-10-20"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/6"
+  - name: "Chardee MacDennis: The Game of Games"
+    released: "2011-10-27"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/7"
+  - name: The ANTI-Social Network
+    released: "2011-11-03"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/8"
+  - name: The Gang Gets Trapped
+    released: "2011-11-10"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/9"
+  - name: How Mac Got Fat
+    released: "2011-11-17"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/10"
+  - name: Thunder Gun Express
+    released: "2011-12-01"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/11"
+  - name: The High School Reunion (1)
+    released: "2011-12-08"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/12"
+  - name: "The High School Reunion (2): The Gang's Revenge"
+    released: "2011-12-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/7/episode/13"

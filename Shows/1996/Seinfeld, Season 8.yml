@@ -1,0 +1,115 @@
+name: "Seinfeld, Season 8"
+series: Seinfeld
+previous: "Shows/1995/Seinfeld, Season 7"
+description: >
+  Season 8 continues Seinfeld's ensemble comedy.
+released: "1996-09-19"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld#Season_8"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=8"
+tmdb: "https://www.themoviedb.org/tv/1400/season/8"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Foundation
+    released: "1996-09-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/1"
+  - name: The Soul Mate
+    released: "1996-09-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/2"
+  - name: The Bizarro Jerry
+    released: "1996-10-03"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/3"
+  - name: The Little Kicks
+    released: "1996-10-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/4"
+  - name: The Package
+    released: "1996-10-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/5"
+  - name: The Fatigues
+    released: "1996-10-31"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/6"
+  - name: The Checks
+    released: "1996-11-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/7"
+  - name: The Chicken Roaster
+    released: "1996-11-14"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/8"
+  - name: The Abstinence
+    released: "1996-11-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/9"
+  - name: The Andrea Doria
+    released: "1996-12-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/10"
+  - name: The Little Jerry
+    released: "1997-01-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/11"
+  - name: The Money
+    released: "1997-01-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/12"
+  - name: The Comeback
+    released: "1997-01-30"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/13"
+  - name: The Van Buren Boys
+    released: "1997-02-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/14"
+  - name: The Susie
+    released: "1997-02-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/15"
+  - name: The Pothole
+    released: "1997-02-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/16"
+  - name: The English Patient
+    released: "1997-03-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/17"
+  - name: The Nap
+    released: "1997-04-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/18"
+  - name: The Yada Yada
+    released: "1997-04-24"
+    length: "26m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/19"
+  - name: The Millennium
+    released: "1997-05-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/20"
+  - name: The Muffin Tops
+    released: "1997-05-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/21"
+  - name: The Summer of George
+    released: "1997-05-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/8/episode/22"

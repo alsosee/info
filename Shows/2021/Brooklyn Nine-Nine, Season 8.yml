@@ -1,0 +1,74 @@
+name: "Brooklyn Nine-Nine, Season 8"
+series: Brooklyn Nine-Nine
+previous: "Shows/2020/Brooklyn Nine-Nine, Season 7"
+description: >
+  Jake and the squad must try to balance their personal lives and their professional lives over the course of a very difficult year.
+released: "2021-08-12"
+rating: TV-14
+genres:
+  - sitcom
+  - police procedural comedy
+  - workplace comedy
+network: Fox
+wikipedia: "https://en.wikipedia.org/wiki/Brooklyn_Nine-Nine#Season_8"
+imdb: "https://www.imdb.com/title/tt2467372/episodes?season=8"
+tmdb: "https://www.themoviedb.org/tv/48891/season/8"
+creators:
+  - Dan Goor
+  - Michael Schur
+characters:
+  - name: Jake Peralta
+    actor: Andy Samberg
+  - name: Amy Santiago
+    actor: Melissa Fumero
+  - name: Raymond Holt
+    actor: Andre Braugher
+  - name: Rosa Diaz
+    actor: Stephanie Beatriz
+  - name: Terry Jeffords
+    actor: Terry Crews
+  - name: Charles Boyle
+    actor: Joe Lo Truglio
+  - name: Gina Linetti
+    actor: Chelsea Peretti
+  - name: Hitchcock
+    actor: Dirk Blocker
+  - name: Scully
+    actor: Joel McKinnon Miller
+episodes:
+  - name: The Good Ones
+    released: "2021-08-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/1"
+  - name: The Lake House
+    released: "2021-08-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/2"
+  - name: Blue Flu
+    released: "2021-08-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/3"
+  - name: Balancing
+    released: "2021-08-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/4"
+  - name: "PB&J"
+    released: "2021-08-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/5"
+  - name: The Set Up
+    released: "2021-08-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/6"
+  - name: Game of Boyles
+    released: "2021-09-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/7"
+  - name: Renewal
+    released: "2021-09-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/8"
+  - name: The Last Day
+    released: "2021-09-16"
+    length: "46m"
+    tmdb: "https://www.themoviedb.org/tv/48891/season/8/episode/9"

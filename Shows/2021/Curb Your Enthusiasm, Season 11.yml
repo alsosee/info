@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 11"
+series: Curb Your Enthusiasm
+previous: "Shows/2020/Curb Your Enthusiasm, Season 10"
+description: >
+  Larry David is back, once again landing himself in one self-inflicted faux pas after another.
+released: "2021-10-24"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_11"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=11"
+tmdb: "https://www.themoviedb.org/tv/4546/season/11"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: The Five-Foot Fence
+    released: "2021-10-24"
+    length: "42m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/1"
+  - name: Angel Muffin
+    released: "2021-10-31"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/2"
+  - name: The Mini Bar
+    released: "2021-11-07"
+    length: "37m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/3"
+  - name: The Watermelon
+    released: "2021-11-14"
+    length: "39m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/4"
+  - name: "IRASSHAIMASE!"
+    released: "2021-11-21"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/5"
+  - name: Man Fights Tiny Woman
+    released: "2021-11-28"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/6"
+  - name: Irma Kostroski
+    released: "2021-12-05"
+    length: "33m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/7"
+  - name: What Have I Done?
+    released: "2021-12-12"
+    length: "41m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/8"
+  - name: "Igor, Gregor, & Timor"
+    released: "2021-12-19"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/9"
+  - name: The Mormon Advantage
+    released: "2021-12-26"
+    length: "39m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/11/episode/10"

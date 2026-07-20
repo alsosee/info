@@ -1,0 +1,67 @@
+name: "It's Always Sunny in Philadelphia, Season 10"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2013/It's Always Sunny in Philadelphia, Season 9"
+description: >
+  Season 10 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2015-01-14"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_10"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=10"
+tmdb: "https://www.themoviedb.org/tv/2710/season/10"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: The Gang Beats Boggs
+    released: "2015-01-14"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/1"
+  - name: The Gang Group Dates
+    released: "2015-01-21"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/2"
+  - name: Psycho Pete Returns
+    released: "2015-01-28"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/3"
+  - name: Charlie Work
+    released: "2015-02-04"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/4"
+  - name: The Gang Spies Like U.S.
+    released: "2015-02-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/5"
+  - name: The Gang Misses the Boat
+    released: "2015-02-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/6"
+  - name: Mac Kills His Dad
+    released: "2015-02-25"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/7"
+  - name: The Gang Goes on Family Fight
+    released: "2015-03-04"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/8"
+  - name: Frank Retires
+    released: "2015-03-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/9"
+  - name: "Ass Kickers United: Mac and Charlie Join a Cult"
+    released: "2015-03-18"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/10/episode/10"

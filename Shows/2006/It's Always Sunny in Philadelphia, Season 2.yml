@@ -1,0 +1,67 @@
+name: "It's Always Sunny in Philadelphia, Season 2"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2005/It's Always Sunny in Philadelphia"
+description: >
+  Season 2 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2006-06-29"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_2"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=2"
+tmdb: "https://www.themoviedb.org/tv/2710/season/2"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: Charlie Gets Crippled
+    released: "2006-06-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/1"
+  - name: The Gang Goes Jihad
+    released: "2006-06-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/2"
+  - name: Dennis and Dee Go on Welfare
+    released: "2006-07-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/3"
+  - name: "Mac Bangs Dennis' Mom"
+    released: "2006-07-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/4"
+  - name: Hundred Dollar Baby
+    released: "2006-07-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/5"
+  - name: The Gang Gives Back
+    released: "2006-07-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/6"
+  - name: The Gang Exploits a Miracle
+    released: "2006-07-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/7"
+  - name: The Gang Runs for Office
+    released: "2006-08-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/8"
+  - name: "Charlie Goes America All Over Everybody's Ass"
+    released: "2006-08-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/9"
+  - name: Dennis and Dee Get a New Dad
+    released: "2006-08-17"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/2/episode/10"

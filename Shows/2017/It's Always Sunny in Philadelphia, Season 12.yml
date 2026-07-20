@@ -1,0 +1,67 @@
+name: "It's Always Sunny in Philadelphia, Season 12"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2016/It's Always Sunny in Philadelphia, Season 11"
+description: >
+  In season twelve, Mac, Dennis, Charlie, Dee and Frank tackle all new adventures that include going to a waterpark, dealing with a Wolf Cola PR nightmare, and actually spending a whole day tending bar!
+released: "2017-01-04"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_12"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=12"
+tmdb: "https://www.themoviedb.org/tv/2710/season/12"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: The Gang Turns Black
+    released: "2017-01-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/1"
+  - name: The Gang Goes to a Water Park
+    released: "2017-01-11"
+    length: "19m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/2"
+  - name: "Old Lady House: A Situation Comedy"
+    released: "2017-01-18"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/3"
+  - name: "Wolf Cola: A Public Relations Nightmare"
+    released: "2017-01-25"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/4"
+  - name: Making Dennis Reynolds a Murderer
+    released: "2017-02-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/5"
+  - name: Hero or Hate Crime?
+    released: "2017-02-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/6"
+  - name: PTSDee
+    released: "2017-02-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/7"
+  - name: The Gang Tends Bar
+    released: "2017-02-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/8"
+  - name: "A Cricket's Tale"
+    released: "2017-03-01"
+    length: "18m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/9"
+  - name: "Dennis' Double Life"
+    released: "2017-03-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/12/episode/10"

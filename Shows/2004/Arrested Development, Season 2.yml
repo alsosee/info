@@ -1,0 +1,106 @@
+name: "Arrested Development, Season 2"
+series: Arrested Development
+previous: Shows/2003/Arrested Development
+description: >
+  Michael Bluth, once again determined to be free of his dysfunctional family, packs up the car and his son George-Michael and heads for Arizona. But he's soon pulled over by the police who tell him that his father, George Sr., has broken out of prison. Due to the company's shady business deal with Iraq, Michael could face prison time, so he returns home to clear his name even as George Sr. secretly flees to Mexico, Tobias decides to be an understudy for the Blue Man Group, and Lucille begins a torrid affair with her husband's twin brother Oscar.
+released: "2004-11-07"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - comedy
+network: Fox
+wikipedia: "https://en.wikipedia.org/wiki/Arrested_Development#Season_2"
+imdb: "https://www.imdb.com/title/tt0367279/episodes?season=2"
+tmdb: "https://www.themoviedb.org/tv/4589/season/2"
+creators: Mitchell Hurwitz
+characters:
+  - name: Michael Bluth
+    actor: Jason Bateman
+  - name: George Bluth Sr.
+    actor: Jeffrey Tambor
+  - name: Lucille Bluth
+    actor: Jessica Walter
+  - name: Gob Bluth
+    actor: Will Arnett
+  - name: Lindsay Bluth Funke
+    actor: Portia de Rossi
+  - name: Tobias Funke
+    actor: David Cross
+  - name: George Michael Bluth
+    actor: Michael Cera
+  - name: Maeby Funke
+    actor: Alia Shawkat
+episodes:
+  - name: The One Where Michael Leaves
+    released: "2004-11-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/1"
+  - name: The One Where They Build a House
+    released: "2004-11-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/2"
+  - name: Amigos
+    released: "2004-11-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/3"
+  - name: Good Grief
+    released: "2004-12-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/4"
+  - name: Sad Sack
+    released: "2004-12-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/5"
+  - name: Afternoon Delight
+    released: "2004-12-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/6"
+  - name: Switch Hitter
+    released: "2005-01-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/7"
+  - name: Queen for a Day
+    released: "2005-01-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/8"
+  - name: Burning Love
+    released: "2005-01-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/9"
+  - name: "Ready, Aim, Marry Me"
+    released: "2005-02-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/10"
+  - name: Out on a Limb
+    released: "2005-03-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/11"
+  - name: Hand to God
+    released: "2005-03-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/12"
+  - name: Motherboy XXX
+    released: "2005-03-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/13"
+  - name: The Immaculate Election
+    released: "2005-03-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/14"
+  - name: Sword of Destiny
+    released: "2005-03-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/15"
+  - name: Meat the Veals
+    released: "2005-04-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/16"
+  - name: Spring Breakout
+    released: "2005-04-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/17"
+  - name: The Righteous Brothers
+    released: "2005-04-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/2/episode/18"

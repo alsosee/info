@@ -1,0 +1,94 @@
+name: "Arrested Development, Season 4"
+series: Arrested Development
+previous: "Shows/2005/Arrested Development, Season 3"
+description: >
+  The dysfunctional Bluths embark on separate journeys -- but always find a way back into each other's lives.
+released: "2013-05-26"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - comedy
+network: Fox
+wikipedia: "https://en.wikipedia.org/wiki/Arrested_Development#Season_4"
+imdb: "https://www.imdb.com/title/tt0367279/episodes?season=4"
+tmdb: "https://www.themoviedb.org/tv/4589/season/4"
+creators: Mitchell Hurwitz
+characters:
+  - name: Michael Bluth
+    actor: Jason Bateman
+  - name: George Bluth Sr.
+    actor: Jeffrey Tambor
+  - name: Lucille Bluth
+    actor: Jessica Walter
+  - name: Gob Bluth
+    actor: Will Arnett
+  - name: Lindsay Bluth Funke
+    actor: Portia de Rossi
+  - name: Tobias Funke
+    actor: David Cross
+  - name: George Michael Bluth
+    actor: Michael Cera
+  - name: Maeby Funke
+    actor: Alia Shawkat
+episodes:
+  - name: Flight of the Phoenix
+    released: "2013-05-26"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/1"
+  - name: Borderline Personalities
+    released: "2013-05-26"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/2"
+  - name: Indian Takers
+    released: "2013-05-26"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/3"
+  - name: The B. Team
+    released: "2013-05-26"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/4"
+  - name: A New Start
+    released: "2013-05-26"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/5"
+  - name: Double Crossers
+    released: "2013-05-26"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/6"
+  - name: Colony Collapse
+    released: "2013-05-26"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/7"
+  - name: Red Hairing
+    released: "2013-05-26"
+    length: "38m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/8"
+  - name: Smashed
+    released: "2013-05-26"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/9"
+  - name: Queen B.
+    released: "2013-05-26"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/10"
+  - name: A New Attitude
+    released: "2013-05-26"
+    length: "37m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/11"
+  - name: Señoritis
+    released: "2013-05-26"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/12"
+  - name: It Gets Better
+    released: "2013-05-26"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/13"
+  - name: Off the Hook
+    released: "2013-05-26"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/14"
+  - name: Blockheads
+    released: "2013-05-26"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/4/episode/15"

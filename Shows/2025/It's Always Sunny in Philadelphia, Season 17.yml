@@ -1,0 +1,59 @@
+name: "It's Always Sunny in Philadelphia, Season 17"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2023/It's Always Sunny in Philadelphia, Season 16"
+description: >
+  In Season 17 of It's Always Sunny in Philadelphia, the Gang craves money and parasitic social privileges. That's been plain since 2005. But they're also human beings.
+released: "2025-07-09"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_17"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=17"
+tmdb: "https://www.themoviedb.org/tv/2710/season/17"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: "The Gang F***s Up Abbott Elementary"
+    released: "2025-07-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/1"
+  - name: Frank Is in a Coma
+    released: "2025-07-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/2"
+  - name: Mac and Dennis Become EMTs
+    released: "2025-07-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/3"
+  - name: "Thought Leadership: A Corporate Conversation"
+    released: "2025-07-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/4"
+  - name: The Gang Goes to a Dog Track
+    released: "2025-07-30"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/5"
+  - name: "Overage Drinking: A National Concern"
+    released: "2025-08-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/6"
+  - name: The Gang Gets Ready for Prime Time
+    released: "2025-08-13"
+    length: "25m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/7"
+  - name: The Golden Bachelor Live
+    released: "2025-08-20"
+    length: "26m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/17/episode/8"

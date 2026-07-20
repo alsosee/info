@@ -1,0 +1,126 @@
+name: "Frasier, Season 3"
+series: Frasier
+previous: "Shows/1994/Frasier, Season 2"
+description: >
+  The third season of Frasier originally aired from September 19, 1995 to May 21, 1996 on NBC.
+released: "1995-09-19"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Frasier#Season_3"
+imdb: "https://www.imdb.com/title/tt0106004/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/3452/season/3"
+creators:
+  - David Angell
+  - Peter Casey
+  - David Lee
+characters:
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Niles Crane
+    actor: David Hyde Pierce
+  - name: Martin Crane
+    actor: John Mahoney
+  - name: Daphne Moon
+    actor: Jane Leeves
+  - name: Roz Doyle
+    actor: Peri Gilpin
+episodes:
+  - name: "She's the Boss"
+    released: "1995-09-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/1"
+  - name: Shrink Rap
+    released: "1995-09-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/2"
+  - name: Martin Does It His Way
+    released: "1995-10-10"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/3"
+  - name: "Leapin' Lizards"
+    released: "1995-10-31"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/4"
+  - name: Kisses Sweeter Than Wine
+    released: "1995-11-07"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/5"
+  - name: Sleeping with the Enemy (1)
+    released: "1995-11-14"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/6"
+  - name: The Adventures of Bad Boy and Dirty Girl (2)
+    released: "1995-11-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/7"
+  - name: The Last Time I Saw Maris
+    released: "1995-11-28"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/8"
+  - name: Frasier Grinch
+    released: "1995-12-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/9"
+  - name: "It's Hard to Say Goodbye If You Won't Leave"
+    released: "1996-01-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/10"
+  - name: The Friend
+    released: "1996-01-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/11"
+  - name: Come Lie with Me
+    released: "1996-01-30"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/12"
+  - name: Moon Dance
+    released: "1996-02-06"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/13"
+  - name: The Show Where Diane Comes Back
+    released: "1996-02-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/14"
+  - name: A Word to the Wiseguy
+    released: "1996-02-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/15"
+  - name: Look Before You Leap
+    released: "1996-02-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/16"
+  - name: High Crane Drifter
+    released: "1996-03-12"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/17"
+  - name: Chess Pains
+    released: "1996-03-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/18"
+  - name: Crane vs. Crane
+    released: "1996-04-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/19"
+  - name: Police Story
+    released: "1996-04-23"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/20"
+  - name: "Where There's Smoke There's Fired"
+    released: "1996-04-30"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/21"
+  - name: Frasier Loves Roz
+    released: "1996-05-07"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/22"
+  - name: The Focus Group
+    released: "1996-05-14"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/23"
+  - name: You Can Go Home Again
+    released: "1996-05-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/3/episode/24"

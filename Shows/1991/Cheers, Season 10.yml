@@ -1,0 +1,136 @@
+name: "Cheers, Season 10"
+series: Cheers
+previous: "Shows/1990/Cheers, Season 9"
+description: >
+  Season 10 continues Cheers's ensemble comedy.
+released: "1991-09-19"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_10"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=10"
+tmdb: "https://www.themoviedb.org/tv/141/season/10"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: Baby Balk
+    released: "1991-09-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/1"
+  - name: Get Your Kicks on Route 666
+    released: "1991-09-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/2"
+  - name: Madame LaCarla
+    released: "1991-10-03"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/3"
+  - name: The Norm Who Came to Dinner
+    released: "1991-10-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/4"
+  - name: "Ma's Little Maggie"
+    released: "1991-10-17"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/5"
+  - name: Unplanned Parenthood
+    released: "1991-10-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/6"
+  - name: "Bar Wars V: The Final Judgement"
+    released: "1991-10-31"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/7"
+  - name: Where Have All the Floorboards Gone?
+    released: "1991-11-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/8"
+  - name: Head Over Hill
+    released: "1991-11-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/9"
+  - name: A Fine French Whine
+    released: "1991-11-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/10"
+  - name: "I'm Okay, You're Defective"
+    released: "1991-12-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/11"
+  - name: Go Make
+    released: "1991-12-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/12"
+  - name: "Don't Shoot... I'm Only the Psychiatrist"
+    released: "1992-01-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/13"
+  - name: No Rest for the Woody
+    released: "1992-01-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/14"
+  - name: "My Son, the Father"
+    released: "1992-01-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/15"
+  - name: "One Hugs, the Other Doesn't"
+    released: "1992-01-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/16"
+  - name: A Diminished Rebecca with a Suspended Cliff
+    released: "1992-02-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/17"
+  - name: License to Hill
+    released: "1992-02-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/18"
+  - name: "Rich Man, Wood Man"
+    released: "1992-02-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/19"
+  - name: Smotherly Love
+    released: "1992-02-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/20"
+  - name: Take Me Out of the Ball Game
+    released: "1992-03-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/21"
+  - name: "Rebecca's Lover... Not"
+    released: "1992-04-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/22"
+  - name: "Bar Wars VI: This Time It's for Real"
+    released: "1992-04-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/23"
+  - name: "Heeeeeere's... Cliffy!"
+    released: "1992-05-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/24"
+  - name: An Old-Fashioned Wedding
+    released: "1992-05-14"
+    length: "42m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/10/episode/25"

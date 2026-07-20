@@ -1,0 +1,119 @@
+name: "Community, Season 3"
+series: Community
+previous: "Shows/2010/Community, Season 2"
+description: >
+  The motley gang of eccentrics anchored by disbarred lawyer Jeff Winger is back for another season of learning in this sardonic comedy series.
+released: "2011-09-22"
+rating: TV-14
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Community_(TV_series)#Season_3"
+imdb: "https://www.imdb.com/title/tt1439629/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/18347/season/3"
+creators: Dan Harmon
+characters:
+  - name: Jeff Winger
+    actor: Joel McHale
+  - name: Britta Perry
+    actor: Gillian Jacobs
+  - name: Abed Nadir
+    actor: Danny Pudi
+  - name: Shirley Bennett
+    actor: Yvette Nicole Brown
+  - name: Annie Edison
+    actor: Alison Brie
+  - name: Troy Barnes
+    actor: Donald Glover
+  - name: Pierce Hawthorne
+    actor: Chevy Chase
+episodes:
+  - name: Biology 101
+    released: "2011-09-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/1"
+  - name: Geography of Global Conflict
+    released: "2011-09-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/2"
+  - name: Competitive Ecology
+    released: "2011-10-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/3"
+  - name: Remedial Chaos Theory
+    released: "2011-10-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/4"
+  - name: Horror Fiction in Seven Spooky Steps
+    released: "2011-10-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/5"
+  - name: Advanced Gay
+    released: "2011-11-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/6"
+  - name: Studies in Modern Movement
+    released: "2011-11-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/7"
+  - name: "Documentary Filmmaking: Redux"
+    released: "2011-11-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/8"
+  - name: Foosball and Nocturnal Vigilantism
+    released: "2011-12-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/9"
+  - name: Regional Holiday Music
+    released: "2011-12-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/10"
+  - name: Urban Matrimony and the Sandwich Arts
+    released: "2012-03-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/11"
+  - name: Contemporary Impressionists
+    released: "2012-03-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/12"
+  - name: Digital Exploration of Interior Design (1)
+    released: "2012-03-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/13"
+  - name: Pillows and Blankets (2)
+    released: "2012-04-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/14"
+  - name: Origins of Vampire Mythology
+    released: "2012-04-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/15"
+  - name: Virtual Systems Analysis
+    released: "2012-04-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/16"
+  - name: Basic Lupine Urology
+    released: "2012-04-26"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/17"
+  - name: Course Listing Unavailable
+    released: "2012-05-03"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/18"
+  - name: Curriculum Unavailable
+    released: "2012-05-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/19"
+  - name: Digital Estate Planning
+    released: "2012-05-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/20"
+  - name: The First Chang Dynasty
+    released: "2012-05-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/21"
+  - name: Introduction to Finality
+    released: "2012-05-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/3/episode/22"

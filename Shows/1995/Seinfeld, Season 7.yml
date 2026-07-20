@@ -1,0 +1,123 @@
+name: "Seinfeld, Season 7"
+series: Seinfeld
+previous: "Shows/1994/Seinfeld, Season 6"
+description: >
+  Season 7 continues Seinfeld's ensemble comedy.
+released: "1995-09-21"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld#Season_7"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=7"
+tmdb: "https://www.themoviedb.org/tv/1400/season/7"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Engagement
+    released: "1995-09-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/1"
+  - name: The Postponement
+    released: "1995-09-28"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/2"
+  - name: The Maestro
+    released: "1995-10-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/3"
+  - name: The Wink
+    released: "1995-10-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/4"
+  - name: The Hot Tub
+    released: "1995-10-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/5"
+  - name: The Soup Nazi
+    released: "1995-11-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/6"
+  - name: The Secret Code
+    released: "1995-11-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/7"
+  - name: The Pool Guy
+    released: "1995-11-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/8"
+  - name: The Sponge
+    released: "1995-12-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/9"
+  - name: The Gum
+    released: "1995-12-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/10"
+  - name: The Rye
+    released: "1996-01-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/11"
+  - name: The Caddy
+    released: "1996-01-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/12"
+  - name: The Seven
+    released: "1996-02-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/13"
+  - name: The Cadillac (1)
+    released: "1996-02-08"
+    length: "44m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/14"
+  - name: The Cadillac (2)
+    released: "1996-02-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/15"
+  - name: The Shower Head
+    released: "1996-02-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/16"
+  - name: The Doll
+    released: "1996-02-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/17"
+  - name: The Friars Club
+    released: "1996-03-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/18"
+  - name: The Wig Master
+    released: "1996-04-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/19"
+  - name: The Calzone
+    released: "1996-04-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/20"
+  - name: The Bottle Deposit (1)
+    released: "1996-05-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/21"
+  - name: The Bottle Deposit (2)
+    released: "1996-05-02"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/22"
+  - name: The Wait Out
+    released: "1996-05-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/23"
+  - name: The Invitations
+    released: "1996-05-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/7/episode/24"

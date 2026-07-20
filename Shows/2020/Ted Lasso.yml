@@ -1,0 +1,74 @@
+name: Ted Lasso
+description: >
+  Slowly but surely, Ted makes England his new home. Throughout the season, the down-on-their-luck players cannot help but be charmed and inspired by Ted. Even team owner Rebecca Welton who initially hired Ted to tank the team’s chances and to annoy her cheating ex-husband, was moved by Ted’s boyish innocence, determination, and outrageous tea biscuits.
+released: "2020-08-14"
+rating: TV-MA
+genres:
+  - comedy
+  - sports comedy
+network: Apple TV+
+wikipedia: "https://en.wikipedia.org/wiki/Ted_Lasso"
+imdb: "https://www.imdb.com/title/tt10986410/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/97546/season/1"
+apple_tv: "https://tv.apple.com/us/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy"
+creators:
+  - Jason Sudeikis
+  - Bill Lawrence
+  - Brendan Hunt
+  - Joe Kelly
+characters:
+  - name: Ted Lasso
+    actor: Jason Sudeikis
+  - name: Rebecca Welton
+    actor: Hannah Waddingham
+  - name: Roy Kent
+    actor: Brett Goldstein
+  - name: Coach Beard
+    actor: Brendan Hunt
+  - name: Keeley Jones
+    actor: Juno Temple
+  - name: Jamie Tartt
+    actor: Phil Dunster
+  - name: Nathan Shelley
+    actor: Nick Mohammed
+episodes:
+  - name: Pilot
+    released: "2020-08-14"
+    length: "33m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/1"
+  - name: Biscuits
+    released: "2020-08-14"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/2"
+  - name: "Trent Crimm: The Independent"
+    released: "2020-08-14"
+    length: "33m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/3"
+  - name: For the Children
+    released: "2020-08-21"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/4"
+  - name: Tan Lines
+    released: "2020-08-28"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/5"
+  - name: Two Aces
+    released: "2020-09-04"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/6"
+  - name: Make Rebecca Great Again
+    released: "2020-09-11"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/7"
+  - name: The Diamond Dogs
+    released: "2020-09-18"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/8"
+  - name: All Apologies
+    released: "2020-09-25"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/9"
+  - name: The Hope That Kills You
+    released: "2020-10-02"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/97546/season/1/episode/10"

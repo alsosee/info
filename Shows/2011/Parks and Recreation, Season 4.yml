@@ -1,0 +1,124 @@
+name: "Parks and Recreation, Season 4"
+series: Parks and Recreation
+previous: "Shows/2011/Parks and Recreation, Season 3"
+description: >
+  Season 4 continues Parks and Recreation's ensemble comedy.
+released: "2011-09-22"
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Parks_and_Recreation#Season_4"
+imdb: "https://www.imdb.com/title/tt1266020/episodes?season=4"
+tmdb: "https://www.themoviedb.org/tv/8592/season/4"
+creators:
+  - Greg Daniels
+  - Michael Schur
+characters:
+  - name: Leslie Knope
+    actor: Amy Poehler
+  - name: Ann Perkins
+    actor: Rashida Jones
+  - name: Ron Swanson
+    actor: Nick Offerman
+  - name: Tom Haverford
+    actor: Aziz Ansari
+  - name: April Ludgate
+    actor: Aubrey Plaza
+  - name: Andy Dwyer
+    actor: Chris Pratt
+  - name: Ben Wyatt
+    actor: Adam Scott
+  - name: Chris Traeger
+    actor: Rob Lowe
+episodes:
+  - name: "I'm Leslie Knope"
+    released: "2011-09-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/1"
+  - name: Ron and Tammys
+    released: "2011-09-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/2"
+  - name: Born and Raised
+    released: "2011-10-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/3"
+  - name: Pawnee Rangers
+    released: "2011-10-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/4"
+  - name: "Meet 'n' Greet"
+    released: "2011-10-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/5"
+  - name: End of the World
+    released: "2011-11-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/6"
+  - name: The Treaty
+    released: "2011-11-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/7"
+  - name: Smallest Park
+    released: "2011-11-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/8"
+  - name: The Trial of Leslie Knope
+    released: "2011-12-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/9"
+  - name: Citizen Knope
+    released: "2011-12-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/10"
+  - name: The Comeback Kid
+    released: "2012-01-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/11"
+  - name: Campaign Ad
+    released: "2012-01-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/12"
+  - name: Bowling for Votes
+    released: "2012-01-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/13"
+  - name: Operation Ann
+    released: "2012-02-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/14"
+  - name: Dave Returns
+    released: "2012-02-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/15"
+  - name: Sweet Sixteen
+    released: "2012-02-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/16"
+  - name: Campaign Shake-Up
+    released: "2012-03-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/17"
+  - name: Lucky
+    released: "2012-03-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/18"
+  - name: Live Ammo
+    released: "2012-04-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/19"
+  - name: The Debate
+    released: "2012-04-26"
+    length: "26m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/20"
+  - name: Bus Tour
+    released: "2012-05-03"
+    length: "25m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/21"
+  - name: "Win, Lose, or Draw"
+    released: "2012-05-10"
+    length: "27m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/4/episode/22"

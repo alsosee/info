@@ -1,0 +1,82 @@
+name: "30 Rock, Season 7"
+series: "30 Rock"
+previous: "Shows/2012/30 Rock, Season 6"
+description: >
+  Season 7 continues 30 Rock's ensemble comedy.
+released: "2012-10-04"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/30_Rock#Season_7"
+imdb: "https://www.imdb.com/title/tt0496424/episodes?season=7"
+tmdb: "https://www.themoviedb.org/tv/4608/season/7"
+creators: Tina Fey
+characters:
+  - name: Liz Lemon
+    actor: Tina Fey
+  - name: Jack Donaghy
+    actor: Alec Baldwin
+  - name: Tracy Jordan
+    actor: Tracy Morgan
+  - name: Jenna Maroney
+    actor: Jane Krakowski
+  - name: Kenneth Parcell
+    actor: Jack McBrayer
+  - name: Pete Hornberger
+    actor: Scott Adsit
+episodes:
+  - name: The Beginning of the End
+    released: "2012-10-04"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/1"
+  - name: Governor Dunston
+    released: "2012-10-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/2"
+  - name: Stride of Pride
+    released: "2012-10-18"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/3"
+  - name: Unwindulax (1)
+    released: "2012-10-25"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/4"
+  - name: "There's No I in America (2)"
+    released: "2012-10-31"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/5"
+  - name: Aunt Phatso vs. Jack Donaghy
+    released: "2012-11-15"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/6"
+  - name: "Mazel Tov, Dummies!"
+    released: "2012-11-29"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/7"
+  - name: My Whole Life Is Thunder
+    released: "2012-12-06"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/8"
+  - name: Game Over
+    released: "2013-01-10"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/9"
+  - name: Florida
+    released: "2013-01-17"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/10"
+  - name: "A Goon's Deed in a Weary World"
+    released: "2013-01-24"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/11"
+  - name: "Hogcock!"
+    released: "2013-01-31"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/12"
+  - name: Last Lunch
+    released: "2013-01-31"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/7/episode/13"

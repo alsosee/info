@@ -1,0 +1,129 @@
+name: Community
+description: >
+  After his bachelor's degree is revoked, lawyer Jeff Winger returns to community college, where he forms a study group with a few oddballs.
+released: "2009-09-17"
+rating: TV-14
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Community_(TV_series)"
+imdb: "https://www.imdb.com/title/tt1439629/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/18347/season/1"
+creators: Dan Harmon
+characters:
+  - name: Jeff Winger
+    actor: Joel McHale
+  - name: Britta Perry
+    actor: Gillian Jacobs
+  - name: Abed Nadir
+    actor: Danny Pudi
+  - name: Shirley Bennett
+    actor: Yvette Nicole Brown
+  - name: Annie Edison
+    actor: Alison Brie
+  - name: Troy Barnes
+    actor: Donald Glover
+  - name: Pierce Hawthorne
+    actor: Chevy Chase
+episodes:
+  - name: Pilot
+    released: "2009-09-17"
+    length: "26m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/1"
+  - name: Spanish 101
+    released: "2009-09-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/2"
+  - name: Introduction to Film
+    released: "2009-10-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/3"
+  - name: Social Psychology
+    released: "2009-10-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/4"
+  - name: Advanced Criminal Law
+    released: "2009-10-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/5"
+  - name: "Football, Feminism and You"
+    released: "2009-10-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/6"
+  - name: Introduction to Statistics
+    released: "2009-10-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/7"
+  - name: Home Economics
+    released: "2009-11-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/8"
+  - name: Debate 109
+    released: "2009-11-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/9"
+  - name: Environmental Science
+    released: "2009-11-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/10"
+  - name: The Politics of Human Sexuality
+    released: "2009-12-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/11"
+  - name: Comparative Religion
+    released: "2009-12-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/12"
+  - name: Investigative Journalism
+    released: "2010-01-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/13"
+  - name: Interpretive Dance
+    released: "2010-01-21"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/14"
+  - name: Romantic Expressionism
+    released: "2010-02-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/15"
+  - name: Communication Studies
+    released: "2010-02-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/16"
+  - name: Physical Education
+    released: "2010-03-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/17"
+  - name: Basic Genealogy
+    released: "2010-03-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/18"
+  - name: Beginner Pottery
+    released: "2010-03-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/19"
+  - name: The Science of Illusion
+    released: "2010-03-25"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/20"
+  - name: Contemporary American Poultry
+    released: "2010-04-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/21"
+  - name: The Art of Discourse
+    released: "2010-04-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/22"
+  - name: Modern Warfare
+    released: "2010-05-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/23"
+  - name: English as a Second Language
+    released: "2010-05-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/24"
+  - name: "Pascal's Triangle Revisited"
+    released: "2010-05-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/18347/season/1/episode/25"

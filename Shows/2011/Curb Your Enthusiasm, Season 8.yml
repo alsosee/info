@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 8"
+series: Curb Your Enthusiasm
+previous: "Shows/2009/Curb Your Enthusiasm, Season 7"
+description: >
+  As "Single Larry" continues to navigate the L.A. dating scene, a faulty alibi lands him back in his hometown of New York City for an extended stay—where he proves that faux-pas and character assassinations can occur just as easily in the Big Apple as in Hollywood.
+released: "2011-07-10"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_8"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=8"
+tmdb: "https://www.themoviedb.org/tv/4546/season/8"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: The Divorce
+    released: "2011-07-10"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/1"
+  - name: The Safe House
+    released: "2011-07-17"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/2"
+  - name: Palestinian Chicken
+    released: "2011-07-24"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/3"
+  - name: The Smiley Face
+    released: "2011-07-31"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/4"
+  - name: Vow of Silence
+    released: "2011-08-07"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/5"
+  - name: The Hero
+    released: "2011-08-14"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/6"
+  - name: The Bi-Sexual
+    released: "2011-08-21"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/7"
+  - name: Car Periscope
+    released: "2011-08-28"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/8"
+  - name: Mister Softee
+    released: "2011-09-04"
+    length: "33m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/9"
+  - name: Larry vs. Michael J. Fox
+    released: "2011-09-11"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/8/episode/10"

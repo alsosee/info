@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 6"
+series: Curb Your Enthusiasm
+previous: "Shows/2005/Curb Your Enthusiasm, Season 5"
+description: >
+  An African American family named the Blacks is displaced by Hurricane Edna and end up moving in with Larry and Cheryl; plus, Larry invents the perfect excuse for missing parties, gets into a conflict with a dry cleaner and steals flowers from a car-crash memorial.
+released: "2007-09-09"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_6"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=6"
+tmdb: "https://www.themoviedb.org/tv/4546/season/6"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: Meet the Blacks
+    released: "2007-09-09"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/1"
+  - name: The Anonymous Donor
+    released: "2007-09-16"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/2"
+  - name: The Ida Funkhouser Roadside Memorial
+    released: "2007-09-23"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/3"
+  - name: The Lefty Call
+    released: "2007-09-30"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/4"
+  - name: The Freak Book
+    released: "2007-10-07"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/5"
+  - name: The Rat Dog
+    released: "2007-10-14"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/6"
+  - name: The TiVo Guy
+    released: "2007-10-21"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/7"
+  - name: The N Word
+    released: "2007-10-28"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/8"
+  - name: The Therapists
+    released: "2007-11-04"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/9"
+  - name: The Bat Mitzvah
+    released: "2007-11-11"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/6/episode/10"

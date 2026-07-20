@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 9"
+series: Curb Your Enthusiasm
+previous: "Shows/2011/Curb Your Enthusiasm, Season 8"
+description: >
+  Larry has a big idea that elicits promising feedback from a number of prospective investors—until a string of Larry-esque missteps undermines the plan, at least temporarily.
+released: "2017-10-01"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_9"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=9"
+tmdb: "https://www.themoviedb.org/tv/4546/season/9"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: "Foisted!"
+    released: "2017-10-01"
+    length: "37m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/1"
+  - name: The Pickle Gambit
+    released: "2017-10-08"
+    length: "35m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/2"
+  - name: A Disturbance in the Kitchen
+    released: "2017-10-15"
+    length: "33m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/3"
+  - name: Running with the Bulls
+    released: "2017-10-22"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/4"
+  - name: Thank You for Your Service
+    released: "2017-10-29"
+    length: "33m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/5"
+  - name: The Accidental Text on Purpose
+    released: "2017-11-05"
+    length: "38m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/6"
+  - name: Namaste
+    released: "2017-11-12"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/7"
+  - name: "Never Wait for Seconds!"
+    released: "2017-11-19"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/8"
+  - name: The Shucker
+    released: "2017-11-26"
+    length: "44m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/9"
+  - name: "Fatwa!"
+    released: "2017-12-03"
+    length: "49m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/9/episode/10"

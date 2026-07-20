@@ -1,0 +1,122 @@
+name: "30 Rock, Season 5"
+series: "30 Rock"
+previous: "Shows/2009/30 Rock, Season 4"
+description: >
+  Season 5 continues 30 Rock's ensemble comedy.
+released: "2010-09-23"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/30_Rock#Season_5"
+imdb: "https://www.imdb.com/title/tt0496424/episodes?season=5"
+tmdb: "https://www.themoviedb.org/tv/4608/season/5"
+creators: Tina Fey
+characters:
+  - name: Liz Lemon
+    actor: Tina Fey
+  - name: Jack Donaghy
+    actor: Alec Baldwin
+  - name: Tracy Jordan
+    actor: Tracy Morgan
+  - name: Jenna Maroney
+    actor: Jane Krakowski
+  - name: Kenneth Parcell
+    actor: Jack McBrayer
+  - name: Pete Hornberger
+    actor: Scott Adsit
+episodes:
+  - name: The Fabian Strategy
+    released: "2010-09-23"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/1"
+  - name: "When It Rains, It Pours"
+    released: "2010-09-30"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/2"
+  - name: "Let's Stay Together"
+    released: "2010-10-07"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/3"
+  - name: Live Show
+    released: "2010-10-14"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/4"
+  - name: Reaganing
+    released: "2010-10-21"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/5"
+  - name: "Gentleman's Intermission"
+    released: "2010-11-04"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/6"
+  - name: Brooklyn Without Limits
+    released: "2010-11-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/7"
+  - name: College
+    released: "2010-11-18"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/8"
+  - name: Chain Reaction of Mental Anguish
+    released: "2010-12-02"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/9"
+  - name: Christmas Attack Zone
+    released: "2010-12-09"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/10"
+  - name: Mrs. Donaghy
+    released: "2011-01-20"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/11"
+  - name: Operation Righteous Cowboy Lightning
+    released: "2011-01-27"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/12"
+  - name: "¡Qué Sorpresa!"
+    released: "2011-02-03"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/13"
+  - name: Double-Edged Sword
+    released: "2011-02-10"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/14"
+  - name: "It's Never Too Late for Now"
+    released: "2011-02-17"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/15"
+  - name: TGS Hates Women
+    released: "2011-02-24"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/16"
+  - name: Queen of Jordan
+    released: "2011-03-17"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/17"
+  - name: Plan B
+    released: "2011-03-24"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/18"
+  - name: I Heart Connecticut
+    released: "2011-04-14"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/19"
+  - name: "100 (1)"
+    released: "2011-04-21"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/20"
+  - name: "100 (2)"
+    released: "2011-04-21"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/21"
+  - name: Everything Sunny All the Time Always
+    released: "2011-04-28"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/22"
+  - name: Respawn
+    released: "2011-05-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/5/episode/23"

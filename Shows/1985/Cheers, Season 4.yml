@@ -1,0 +1,140 @@
+name: "Cheers, Season 4"
+series: Cheers
+previous: "Shows/1984/Cheers, Season 3"
+description: >
+  Season 4 continues Cheers's ensemble comedy.
+released: "1985-09-26"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_4"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=4"
+tmdb: "https://www.themoviedb.org/tv/141/season/4"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: "Birth, Death, Love and Rice"
+    released: "1985-09-26"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/1"
+  - name: Woody Goes Belly Up
+    released: "1985-10-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/2"
+  - name: Someday My Prince Will Come
+    released: "1985-10-17"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/3"
+  - name: The Groom Wore Clearasil
+    released: "1985-10-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/4"
+  - name: "Diane's Nightmare"
+    released: "1985-10-31"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/5"
+  - name: I Will Gladly Pay You Tuesday
+    released: "1985-11-07"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/6"
+  - name: "2 Good 2 Be 4 Real"
+    released: "1985-11-14"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/7"
+  - name: Love Thy Neighbor
+    released: "1985-11-21"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/8"
+  - name: From Beer to Eternity
+    released: "1985-11-28"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/9"
+  - name: The Bar Stoolie
+    released: "1985-12-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/10"
+  - name: Don Juan Is Hell
+    released: "1985-12-12"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/11"
+  - name: Fools and Their Money
+    released: "1985-12-19"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/12"
+  - name: Take My Shirt...Please?
+    released: "1986-01-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/13"
+  - name: Suspicion
+    released: "1986-01-16"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/14"
+  - name: The Triangle
+    released: "1986-01-23"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/15"
+  - name: "Cliffie's Big Score"
+    released: "1986-01-30"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/16"
+  - name: Second Time Around
+    released: "1986-02-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/17"
+  - name: The Peterson Principle
+    released: "1986-02-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/18"
+  - name: Dark Imaginings
+    released: "1986-02-20"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/19"
+  - name: Save the Last Dance for Me
+    released: "1986-02-27"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/20"
+  - name: Fear is My Co-Pilot
+    released: "1986-03-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/21"
+  - name: Diane Chambers Day
+    released: "1986-03-20"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/22"
+  - name: Relief Bartender
+    released: "1986-03-27"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/23"
+  - name: Strange Bedfellows (1)
+    released: "1986-05-01"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/24"
+  - name: Strange Bedfellows (2)
+    released: "1986-05-08"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/25"
+  - name: Strange Bedfellows (3)
+    released: "1986-05-15"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/4/episode/26"

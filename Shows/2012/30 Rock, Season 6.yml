@@ -1,0 +1,118 @@
+name: "30 Rock, Season 6"
+series: "30 Rock"
+previous: "Shows/2010/30 Rock, Season 5"
+description: >
+  Season 6 continues 30 Rock's ensemble comedy.
+released: "2012-01-12"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/30_Rock#Season_6"
+imdb: "https://www.imdb.com/title/tt0496424/episodes?season=6"
+tmdb: "https://www.themoviedb.org/tv/4608/season/6"
+creators: Tina Fey
+characters:
+  - name: Liz Lemon
+    actor: Tina Fey
+  - name: Jack Donaghy
+    actor: Alec Baldwin
+  - name: Tracy Jordan
+    actor: Tracy Morgan
+  - name: Jenna Maroney
+    actor: Jane Krakowski
+  - name: Kenneth Parcell
+    actor: Jack McBrayer
+  - name: Pete Hornberger
+    actor: Scott Adsit
+episodes:
+  - name: "Dance Like Nobody's Watching"
+    released: "2012-01-12"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/1"
+  - name: "Idiots Are People Two! (1)"
+    released: "2012-01-19"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/2"
+  - name: "Idiots Are People Three! (2)"
+    released: "2012-01-26"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/3"
+  - name: The Ballad of Kenneth Parcell
+    released: "2012-01-26"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/4"
+  - name: Today You Are a Man
+    released: "2012-02-02"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/5"
+  - name: "Hey, Baby, What's Wrong? (1)"
+    released: "2012-02-09"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/6"
+  - name: "Hey, Baby, What's Wrong? (2)"
+    released: "2012-02-09"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/7"
+  - name: The Tuxedo Begins
+    released: "2012-02-16"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/8"
+  - name: Leap Day
+    released: "2012-02-23"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/9"
+  - name: Alexis Goodlooking and the Case of the Missing Whisky
+    released: "2012-03-01"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/10"
+  - name: Standards and Practices
+    released: "2012-03-08"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/11"
+  - name: "St. Patrick's Day"
+    released: "2012-03-15"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/12"
+  - name: Grandmentor
+    released: "2012-03-22"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/13"
+  - name: Kidnapped by Danger
+    released: "2012-03-22"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/14"
+  - name: The Shower Principle
+    released: "2012-03-29"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/15"
+  - name: Nothing Left to Lose
+    released: "2012-04-05"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/16"
+  - name: "Meet the Woggels!"
+    released: "2012-04-12"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/17"
+  - name: Murphy Brown Lied to Us
+    released: "2012-04-19"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/18"
+  - name: Live from Studio 6H
+    released: "2012-04-26"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/19"
+  - name: "Queen of Jordan II: Mystery of the Phantom Pooper"
+    released: "2012-05-03"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/20"
+  - name: The Return of Avery Jessup
+    released: "2012-05-10"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/21"
+  - name: What Will Happen to the Gang Next Year?
+    released: "2012-05-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/6/episode/22"

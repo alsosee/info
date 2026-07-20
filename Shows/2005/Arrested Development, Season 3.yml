@@ -1,0 +1,86 @@
+name: "Arrested Development, Season 3"
+series: Arrested Development
+previous: "Shows/2004/Arrested Development, Season 2"
+description: >
+  Michael Bluth finally realizes that it's his Uncle Oscar serving time in prison, not his father. Reluctant to spring Oscar due to the effect it may have on the family business, Michael decides that the only fair thing to do is to find his father and place him under house arrest. Yet once found, George Sr. insists he was tricked into working with the Iraqis, leaving Michael no choice but to investigate his father's outrageous claim. But it isn't until Michael and Buster go to Iraq on a rescue mission to save Gob that the depth of the devious plot is revealed — and Michael learns which family member is the real brains behind all the madness.
+released: "2005-09-19"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - comedy
+network: Fox
+wikipedia: "https://en.wikipedia.org/wiki/Arrested_Development#Season_3"
+imdb: "https://www.imdb.com/title/tt0367279/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/4589/season/3"
+creators: Mitchell Hurwitz
+characters:
+  - name: Michael Bluth
+    actor: Jason Bateman
+  - name: George Bluth Sr.
+    actor: Jeffrey Tambor
+  - name: Lucille Bluth
+    actor: Jessica Walter
+  - name: Gob Bluth
+    actor: Will Arnett
+  - name: Lindsay Bluth Funke
+    actor: Portia de Rossi
+  - name: Tobias Funke
+    actor: David Cross
+  - name: George Michael Bluth
+    actor: Michael Cera
+  - name: Maeby Funke
+    actor: Alia Shawkat
+episodes:
+  - name: The Cabin Show
+    released: "2005-09-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/1"
+  - name: For British Eyes Only
+    released: "2005-09-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/2"
+  - name: Forget-Me-Now
+    released: "2005-10-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/3"
+  - name: Notapusy
+    released: "2005-11-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/4"
+  - name: Mr. F
+    released: "2005-11-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/5"
+  - name: The Ocean Walker
+    released: "2005-12-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/6"
+  - name: Prison Break-In
+    released: "2005-12-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/7"
+  - name: Making a Stand
+    released: "2005-12-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/8"
+  - name: S.O.B.s
+    released: "2006-01-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/9"
+  - name: "Fakin' It"
+    released: "2006-02-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/10"
+  - name: Family Ties
+    released: "2006-02-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/11"
+  - name: Exit Strategy
+    released: "2006-02-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/12"
+  - name: Development Arrested
+    released: "2006-02-10"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/4589/season/3/episode/13"

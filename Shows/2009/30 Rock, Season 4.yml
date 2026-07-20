@@ -1,0 +1,118 @@
+name: "30 Rock, Season 4"
+series: "30 Rock"
+previous: "Shows/2008/30 Rock, Season 3"
+description: >
+  Season 4 continues 30 Rock's ensemble comedy.
+released: "2009-10-15"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/30_Rock#Season_4"
+imdb: "https://www.imdb.com/title/tt0496424/episodes?season=4"
+tmdb: "https://www.themoviedb.org/tv/4608/season/4"
+creators: Tina Fey
+characters:
+  - name: Liz Lemon
+    actor: Tina Fey
+  - name: Jack Donaghy
+    actor: Alec Baldwin
+  - name: Tracy Jordan
+    actor: Tracy Morgan
+  - name: Jenna Maroney
+    actor: Jane Krakowski
+  - name: Kenneth Parcell
+    actor: Jack McBrayer
+  - name: Pete Hornberger
+    actor: Scott Adsit
+episodes:
+  - name: Season 4
+    released: "2009-10-15"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/1"
+  - name: Into the Crevasse
+    released: "2009-10-22"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/2"
+  - name: Stone Mountain
+    released: "2009-10-29"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/3"
+  - name: Audition Day
+    released: "2009-11-05"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/4"
+  - name: The Problem Solvers
+    released: "2009-11-12"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/5"
+  - name: Sun Tea
+    released: "2009-11-19"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/6"
+  - name: "Dealbreakers Talk Show #0001"
+    released: "2009-12-03"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/7"
+  - name: Secret Santa
+    released: "2009-12-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/8"
+  - name: Klaus and Greta
+    released: "2010-01-14"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/9"
+  - name: "Black Light Attack!"
+    released: "2010-01-14"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/10"
+  - name: Winter Madness
+    released: "2010-01-21"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/11"
+  - name: Verna
+    released: "2010-02-04"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/12"
+  - name: Anna Howard Shaw Day
+    released: "2010-02-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/13"
+  - name: Future Husband
+    released: "2010-03-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/14"
+  - name: "Don Geiss, America and Hope"
+    released: "2010-03-18"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/15"
+  - name: Floyd
+    released: "2010-03-25"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/16"
+  - name: Lee Marvin vs. Derek Jeter
+    released: "2010-04-22"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/17"
+  - name: Khonani
+    released: "2010-04-22"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/18"
+  - name: Argus
+    released: "2010-04-29"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/19"
+  - name: The Moms
+    released: "2010-05-06"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/20"
+  - name: Emanuelle Goes to Dinosaur Land
+    released: "2010-05-13"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/21"
+  - name: I Do Do
+    released: "2010-05-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/4/episode/22"

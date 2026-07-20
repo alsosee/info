@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 5"
+series: Curb Your Enthusiasm
+previous: "Shows/2004/Curb Your Enthusiasm, Season 4"
+description: >
+  A near-death experience, a revelation about his father and a sandwich named after him prompt Larry to undertake a sentimental journey in search of his roots...and step on a few toes along the way.
+released: "2005-09-25"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_5"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=5"
+tmdb: "https://www.themoviedb.org/tv/4546/season/5"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: The Larry David Sandwich
+    released: "2005-09-25"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/1"
+  - name: The Bowtie
+    released: "2005-10-02"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/2"
+  - name: The Christ Nail
+    released: "2005-10-09"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/3"
+  - name: Kamikaze Bingo
+    released: "2005-10-16"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/4"
+  - name: Lewis Needs a Kidney
+    released: "2005-10-30"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/5"
+  - name: The Smoking Jacket
+    released: "2005-11-06"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/6"
+  - name: The Seder
+    released: "2005-11-13"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/7"
+  - name: The Ski Lift
+    released: "2005-11-20"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/8"
+  - name: The Korean Bookie
+    released: "2005-11-27"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/9"
+  - name: The End
+    released: "2005-12-04"
+    length: "43m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/5/episode/10"

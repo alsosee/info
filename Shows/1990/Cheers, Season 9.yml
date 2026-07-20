@@ -1,0 +1,136 @@
+name: "Cheers, Season 9"
+series: Cheers
+previous: "Shows/1989/Cheers, Season 8"
+description: >
+  Season 9 continues Cheers's ensemble comedy.
+released: "1990-09-20"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_9"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=9"
+tmdb: "https://www.themoviedb.org/tv/141/season/9"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: "Love Is a Really, Really, Perfectly Okay Thing"
+    released: "1990-09-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/1"
+  - name: Cheers Fouls Out
+    released: "1990-09-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/2"
+  - name: Rebecca Redux
+    released: "1990-10-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/3"
+  - name: Where Nobody Knows Your Name
+    released: "1990-10-11"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/4"
+  - name: Ma Always Liked You Best
+    released: "1990-10-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/5"
+  - name: Grease
+    released: "1990-10-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/6"
+  - name: Breaking In Is Hard to Do
+    released: "1990-11-01"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/7"
+  - name: Bad Neighbor Sam
+    released: "1990-11-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/8"
+  - name: Veggie-Boyd
+    released: "1990-11-22"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/9"
+  - name: "Norm and Cliff's Excellent Adventure"
+    released: "1990-12-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/10"
+  - name: Woody Interruptus
+    released: "1990-12-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/11"
+  - name: Honor Thy Mother
+    released: "1991-01-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/12"
+  - name: Achilles Hill
+    released: "1991-01-10"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/13"
+  - name: The Days of Wine and Neuroses (1)
+    released: "1991-01-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/14"
+  - name: Wedding Bell Blues (2)
+    released: "1991-01-31"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/15"
+  - name: "I'm Getting My Act Together and Sticking It in Your Face"
+    released: "1991-02-07"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/16"
+  - name: Sam Time Next Year
+    released: "1991-02-14"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/17"
+  - name: Crash of the Titans
+    released: "1991-02-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/18"
+  - name: "It's a Wonderful Wife"
+    released: "1991-02-28"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/19"
+  - name: Cheers Has Chili
+    released: "1991-03-14"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/20"
+  - name: Carla Loves Clavin
+    released: "1991-03-21"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/21"
+  - name: "Pitch It Again, Sam"
+    released: "1991-03-28"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/22"
+  - name: Rat Girl
+    released: "1991-04-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/23"
+  - name: Home Malone
+    released: "1991-04-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/24"
+  - name: Uncle Sam Wants You
+    released: "1991-05-02"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/9/episode/25"

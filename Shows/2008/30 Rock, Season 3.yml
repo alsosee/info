@@ -1,0 +1,118 @@
+name: "30 Rock, Season 3"
+series: "30 Rock"
+previous: "Shows/2007/30 Rock, Season 2"
+description: >
+  Liz focuses heavily on her personal life, trying to adopt a child and find a new romantic partner. Meanwhile, Jack Donaghy pursues a new relationship, Jenna Maroney undertakes a new Janis Joplin-based film project, and Tracy Jordan enjoys the success of his video game developed at the end of the previous season.
+released: "2008-10-30"
+rating: TV-14
+genres:
+  - sitcom
+  - satire
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/30_Rock#Season_3"
+imdb: "https://www.imdb.com/title/tt0496424/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/4608/season/3"
+creators: Tina Fey
+characters:
+  - name: Liz Lemon
+    actor: Tina Fey
+  - name: Jack Donaghy
+    actor: Alec Baldwin
+  - name: Tracy Jordan
+    actor: Tracy Morgan
+  - name: Jenna Maroney
+    actor: Jane Krakowski
+  - name: Kenneth Parcell
+    actor: Jack McBrayer
+  - name: Pete Hornberger
+    actor: Scott Adsit
+episodes:
+  - name: Do-Over
+    released: "2008-10-30"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/1"
+  - name: Believe in the Stars
+    released: "2008-11-06"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/2"
+  - name: The One with the Cast of Night Court
+    released: "2008-11-13"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/3"
+  - name: Gavin Volure
+    released: "2008-11-20"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/4"
+  - name: Reunion
+    released: "2008-12-04"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/5"
+  - name: Christmas Special
+    released: "2008-12-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/6"
+  - name: Señor Macho Solo
+    released: "2009-01-08"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/7"
+  - name: Flu Shot
+    released: "2009-01-15"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/8"
+  - name: Retreat to Move Forward
+    released: "2009-01-22"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/9"
+  - name: Generalissimo
+    released: "2009-02-05"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/10"
+  - name: "St. Valentine's Day"
+    released: "2009-02-12"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/11"
+  - name: Larry King
+    released: "2009-02-26"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/12"
+  - name: "Goodbye, My Friend"
+    released: "2009-03-05"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/13"
+  - name: The Funcooker
+    released: "2009-03-12"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/14"
+  - name: The Bubble
+    released: "2009-03-19"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/15"
+  - name: "Apollo, Apollo"
+    released: "2009-03-26"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/16"
+  - name: Cutbacks
+    released: "2009-04-09"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/17"
+  - name: Jackie Jormp-Jomp
+    released: "2009-04-16"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/18"
+  - name: The Ones
+    released: "2009-04-23"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/19"
+  - name: The Natural Order
+    released: "2009-04-30"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/20"
+  - name: Mamma Mia
+    released: "2009-05-07"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/21"
+  - name: "Kidney Now!"
+    released: "2009-05-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/4608/season/3/episode/22"

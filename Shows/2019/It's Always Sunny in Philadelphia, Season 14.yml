@@ -1,0 +1,67 @@
+name: "It's Always Sunny in Philadelphia, Season 14"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2018/It's Always Sunny in Philadelphia, Season 13"
+description: >
+  The 14th season guns for the Best 14th Season accolade as the Gang goes to extremes for the role – Mac learns a new language, Charlie does a period piece, Dennis attempts a one-act play, Dee cuts her hair, and Frank performs a death scene.
+released: "2019-09-25"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_14"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=14"
+tmdb: "https://www.themoviedb.org/tv/2710/season/14"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: The Gang Gets Romantic
+    released: "2019-09-25"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/1"
+  - name: "Thunder Gun 4: Maximum Cool"
+    released: "2019-10-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/2"
+  - name: Dee Day
+    released: "2019-10-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/3"
+  - name: The Gang Chokes
+    released: "2019-10-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/4"
+  - name: The Gang Texts
+    released: "2019-10-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/5"
+  - name: The Janitor Always Mops Twice
+    released: "2019-10-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/6"
+  - name: The Gang Solves Global Warming
+    released: "2019-11-06"
+    length: "19m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/7"
+  - name: "Paddy's Has a Jumper"
+    released: "2019-11-13"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/8"
+  - name: "A Woman's Right to Chop"
+    released: "2019-11-20"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/9"
+  - name: Waiting for Big Mo
+    released: "2019-11-20"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/14/episode/10"

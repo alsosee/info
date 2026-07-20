@@ -1,0 +1,53 @@
+name: "It's Always Sunny in Philadelphia"
+description: >
+  The self-absorbed owners of Paddy's Pub chase reckless schemes, argue over status, and create problems for themselves and everyone around them.
+released: "2005-08-04"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/2710/season/1"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: The Gang Gets Racist
+    released: "2005-08-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/1/episode/1"
+  - name: Charlie Wants an Abortion
+    released: "2005-08-11"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/1/episode/2"
+  - name: "Underage Drinking: A National Concern"
+    released: "2005-08-18"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/1/episode/3"
+  - name: Charlie Has Cancer
+    released: "2005-08-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/1/episode/4"
+  - name: Gun Fever
+    released: "2005-08-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/1/episode/5"
+  - name: The Gang Finds a Dead Guy
+    released: "2005-09-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/1/episode/6"
+  - name: Charlie Got Molested
+    released: "2005-09-15"
+    length: "19m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/1/episode/7"

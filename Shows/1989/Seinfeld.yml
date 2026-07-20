@@ -1,0 +1,45 @@
+name: Seinfeld
+description: >
+  Jerry, George, Elaine, and Kramer turn dating problems, petty grievances, and the strange rules of everyday life in New York into observational comedy.
+released: "1989-07-05"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/1400/season/1"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Seinfeld Chronicles
+    released: "1989-07-05"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/1/episode/1"
+  - name: The Stake Out
+    released: "1990-05-31"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/1/episode/2"
+  - name: The Robbery
+    released: "1990-06-07"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/1/episode/3"
+  - name: Male Unbonding
+    released: "1990-06-14"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/1/episode/4"
+  - name: The Stock Tip
+    released: "1990-06-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/1/episode/5"

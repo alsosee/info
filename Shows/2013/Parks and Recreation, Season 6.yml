@@ -1,0 +1,116 @@
+name: "Parks and Recreation, Season 6"
+series: Parks and Recreation
+previous: "Shows/2012/Parks and Recreation, Season 5"
+description: >
+  Season 6 continues Parks and Recreation's ensemble comedy.
+released: "2013-09-26"
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Parks_and_Recreation#Season_6"
+imdb: "https://www.imdb.com/title/tt1266020/episodes?season=6"
+tmdb: "https://www.themoviedb.org/tv/8592/season/6"
+creators:
+  - Greg Daniels
+  - Michael Schur
+characters:
+  - name: Leslie Knope
+    actor: Amy Poehler
+  - name: Ann Perkins
+    actor: Rashida Jones
+  - name: Ron Swanson
+    actor: Nick Offerman
+  - name: Tom Haverford
+    actor: Aziz Ansari
+  - name: April Ludgate
+    actor: Aubrey Plaza
+  - name: Andy Dwyer
+    actor: Chris Pratt
+  - name: Ben Wyatt
+    actor: Adam Scott
+  - name: Chris Traeger
+    actor: Rob Lowe
+episodes:
+  - name: London
+    released: "2013-09-26"
+    length: "44m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/1"
+  - name: The Pawnee-Eagleton Tip-Off Classic
+    released: "2013-10-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/2"
+  - name: Doppelgängers
+    released: "2013-10-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/3"
+  - name: "Gin It Up!"
+    released: "2013-10-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/4"
+  - name: Filibuster
+    released: "2013-11-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/5"
+  - name: Recall Vote
+    released: "2013-11-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/6"
+  - name: Fluoride
+    released: "2013-11-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/7"
+  - name: The Cones of Dunshire
+    released: "2013-11-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/8"
+  - name: Second Chunce
+    released: "2014-01-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/9"
+  - name: New Beginnings
+    released: "2014-01-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/10"
+  - name: Farmers Market
+    released: "2014-01-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/11"
+  - name: Ann and Chris
+    released: "2014-01-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/12"
+  - name: Anniversaries
+    released: "2014-02-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/13"
+  - name: The Wall
+    released: "2014-03-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/14"
+  - name: New Slogan
+    released: "2014-03-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/15"
+  - name: "Galentine's Day"
+    released: "2014-03-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/16"
+  - name: Prom
+    released: "2014-04-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/17"
+  - name: Flu Season 2
+    released: "2014-04-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/18"
+  - name: "One in 8,000"
+    released: "2014-04-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/19"
+  - name: Moving Up
+    released: "2014-04-24"
+    length: "44m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/6/episode/20"

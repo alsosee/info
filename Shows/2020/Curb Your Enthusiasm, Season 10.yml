@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 10"
+series: Curb Your Enthusiasm
+previous: "Shows/2017/Curb Your Enthusiasm, Season 9"
+description: >
+  Larry gets into a series of escalating predicaments as he takes on a major project to spite a new adversary—which proves to be more complicated than he anticipated.
+released: "2020-01-19"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_10"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=10"
+tmdb: "https://www.themoviedb.org/tv/4546/season/10"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: Happy New Year
+    released: "2020-01-19"
+    length: "37m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/1"
+  - name: Side Sitting
+    released: "2020-01-26"
+    length: "34m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/2"
+  - name: Artificial Fruit
+    released: "2020-02-02"
+    length: "38m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/3"
+  - name: "You're Not Going to Get Me to Say Anything Bad About Mickey"
+    released: "2020-02-09"
+    length: "45m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/4"
+  - name: Insufficient Praise
+    released: "2020-02-16"
+    length: "38m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/5"
+  - name: The Surprise Party
+    released: "2020-02-23"
+    length: "38m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/6"
+  - name: The Ugly Section
+    released: "2020-03-01"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/7"
+  - name: "Elizabeth, Margaret and Larry"
+    released: "2020-03-08"
+    length: "38m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/8"
+  - name: Beep Panic
+    released: "2020-03-15"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/9"
+  - name: The Spite Store
+    released: "2020-03-22"
+    length: "40m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/10/episode/10"

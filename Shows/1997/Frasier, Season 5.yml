@@ -1,0 +1,126 @@
+name: "Frasier, Season 5"
+series: Frasier
+previous: "Shows/1996/Frasier, Season 4"
+description: >
+  The fifth season of Frasier originally aired from September 23, 1997 to May 19, 1998 on NBC.
+released: "1997-09-23"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Frasier#Season_5"
+imdb: "https://www.imdb.com/title/tt0106004/episodes?season=5"
+tmdb: "https://www.themoviedb.org/tv/3452/season/5"
+creators:
+  - David Angell
+  - Peter Casey
+  - David Lee
+characters:
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Niles Crane
+    actor: David Hyde Pierce
+  - name: Martin Crane
+    actor: John Mahoney
+  - name: Daphne Moon
+    actor: Jane Leeves
+  - name: Roz Doyle
+    actor: Peri Gilpin
+episodes:
+  - name: "Frasier's Imaginary Friend"
+    released: "1997-09-23"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/1"
+  - name: The Gift Horse
+    released: "1997-09-30"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/2"
+  - name: Halloween
+    released: "1997-10-28"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/3"
+  - name: The Kid
+    released: "1997-11-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/4"
+  - name: The 1000th Show
+    released: "1997-11-11"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/5"
+  - name: Voyage of the Damned
+    released: "1997-11-18"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/6"
+  - name: My Fair Frasier
+    released: "1997-11-25"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/7"
+  - name: Desperately Seeking Closure
+    released: "1997-12-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/8"
+  - name: Perspectives on Christmas
+    released: "1997-12-16"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/9"
+  - name: Where Every Bloke Knows Your Name
+    released: "1998-01-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/10"
+  - name: "Ain't Nobody's Business if 'I Do'"
+    released: "1998-01-13"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/11"
+  - name: The Zoo Story
+    released: "1998-01-20"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/12"
+  - name: The Maris Counselor
+    released: "1998-02-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/13"
+  - name: The Ski Lodge
+    released: "1998-02-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/14"
+  - name: Room Service
+    released: "1998-03-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/15"
+  - name: Beware of Greeks
+    released: "1998-03-17"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/16"
+  - name: The Perfect Guy
+    released: "1998-03-24"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/17"
+  - name: Bad Dog
+    released: "1998-04-07"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/18"
+  - name: Frasier Gotta Have It
+    released: "1998-04-21"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/19"
+  - name: First Date
+    released: "1998-04-28"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/20"
+  - name: Roz and the Schnoz
+    released: "1998-05-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/21"
+  - name: The Life of the Party
+    released: "1998-05-12"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/22"
+  - name: "Party, Party"
+    released: "1998-05-19"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/23"
+  - name: Sweet Dreams
+    released: "1998-05-19"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/3452/season/5/episode/24"

@@ -1,0 +1,87 @@
+name: "It's Always Sunny in Philadelphia, Season 3"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2006/It's Always Sunny in Philadelphia, Season 2"
+description: >
+  Season 3 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2007-09-13"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_3"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/2710/season/3"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: The Gang Finds a Dumpster Baby
+    released: "2007-09-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/1"
+  - name: The Gang Gets Invincible
+    released: "2007-09-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/2"
+  - name: "Dennis and Dee's Mom Is Dead"
+    released: "2007-09-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/3"
+  - name: The Gang Gets Held Hostage
+    released: "2007-09-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/4"
+  - name: The Aluminum Monster vs. Fatty Magoo
+    released: "2007-09-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/5"
+  - name: The Gang Solves the North Korea Situation
+    released: "2007-09-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/6"
+  - name: The Gang Sells Out
+    released: "2007-10-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/7"
+  - name: Frank Sets Sweet Dee On Fire
+    released: "2007-10-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/8"
+  - name: "Sweet Dee's Dating a Retarded Person"
+    released: "2007-10-11"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/9"
+  - name: Mac Is a Serial Killer
+    released: "2007-10-18"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/10"
+  - name: Dennis Looks Like a Registered Sex Offender
+    released: "2007-10-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/11"
+  - name: The Gang Gets Whacked (1)
+    released: "2007-11-01"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/12"
+  - name: The Gang Gets Whacked (2)
+    released: "2007-11-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/13"
+  - name: "Bums: Making a Mess All Over the City"
+    released: "2007-11-08"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/14"
+  - name: The Gang Dances Their Asses Off
+    released: "2007-11-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/3/episode/15"

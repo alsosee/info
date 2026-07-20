@@ -1,0 +1,66 @@
+name: Curb Your Enthusiasm
+description: >
+  Larry David has it all—money, security, famous friends, a nurturing wife, a fabulous Hollywood home. So why is he so intent on making a complete mess out of his life? Just because you've made it, doesn't mean you've got it made.
+released: "2000-10-15"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/4546/season/1"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: The Pants Tent
+    released: "2000-10-15"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/1"
+  - name: Ted and Mary
+    released: "2000-10-22"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/2"
+  - name: Porno Gil
+    released: "2000-10-29"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/3"
+  - name: The Bracelet
+    released: "2000-11-05"
+    length: "28m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/4"
+  - name: Interior Decorator
+    released: "2000-11-12"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/5"
+  - name: The Wire
+    released: "2000-11-19"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/6"
+  - name: AAMCO
+    released: "2000-11-26"
+    length: "27m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/7"
+  - name: Beloved Aunt
+    released: "2000-12-03"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/8"
+  - name: Affirmative Action
+    released: "2000-12-10"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/9"
+  - name: The Group
+    released: "2000-12-17"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/1/episode/10"

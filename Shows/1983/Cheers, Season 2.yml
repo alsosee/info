@@ -1,0 +1,124 @@
+name: "Cheers, Season 2"
+series: Cheers
+previous: Shows/1982/Cheers
+description: >
+  Season 2 continues Cheers's ensemble comedy.
+released: "1983-09-29"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_2"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=2"
+tmdb: "https://www.themoviedb.org/tv/141/season/2"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: Power Play
+    released: "1983-09-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/1"
+  - name: "Little Sister Don't Cha"
+    released: "1983-10-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/2"
+  - name: Personal Business
+    released: "1983-10-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/3"
+  - name: Homicidal Ham
+    released: "1983-10-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/4"
+  - name: "Sumner's Return"
+    released: "1983-11-03"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/5"
+  - name: Affairs of the Heart
+    released: "1983-11-10"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/6"
+  - name: Old Flames
+    released: "1983-11-17"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/7"
+  - name: Manager Coach
+    released: "1983-11-24"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/8"
+  - name: They Called Me Mayday
+    released: "1983-12-01"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/9"
+  - name: "How Do I Love Thee, Let Me Call You Back"
+    released: "1983-12-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/10"
+  - name: Just Three Friends
+    released: "1983-12-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/11"
+  - name: "Where There's a Will..."
+    released: "1983-12-22"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/12"
+  - name: Battle of the Exes
+    released: "1984-01-05"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/13"
+  - name: No Help Wanted
+    released: "1984-01-12"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/14"
+  - name: And Coachie Makes Three
+    released: "1984-01-19"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/15"
+  - name: "Cliff's Rocky Moment"
+    released: "1984-01-26"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/16"
+  - name: "Fortune and Men's Weight"
+    released: "1984-02-02"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/17"
+  - name: Snow Job
+    released: "1984-02-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/18"
+  - name: Coach Buries a Grudge
+    released: "1984-02-16"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/19"
+  - name: "Norman's Conquest"
+    released: "1984-02-23"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/20"
+  - name: "I'll Be Seeing You (1)"
+    released: "1984-05-03"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/21"
+  - name: "I'll Be Seeing You (2)"
+    released: "1984-05-10"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/2/episode/22"

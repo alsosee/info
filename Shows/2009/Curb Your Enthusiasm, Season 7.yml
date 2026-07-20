@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 7"
+series: Curb Your Enthusiasm
+previous: "Shows/2007/Curb Your Enthusiasm, Season 6"
+description: >
+  Larry contemplates his future with an ailing Loretta, decides on a novel approach to winning back Cheryl, and reunites with the stars of 'Seinfeld'.
+released: "2009-09-20"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_7"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=7"
+tmdb: "https://www.themoviedb.org/tv/4546/season/7"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: "Funkhouser's Crazy Sister"
+    released: "2009-09-20"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/1"
+  - name: Vehicular Fellatio
+    released: "2009-09-27"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/2"
+  - name: The Reunion
+    released: "2009-10-04"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/3"
+  - name: The Hot Towel
+    released: "2009-10-11"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/4"
+  - name: Denise Handicap
+    released: "2009-10-18"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/5"
+  - name: The Bare Midriff
+    released: "2009-10-25"
+    length: "32m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/6"
+  - name: The Black Swan
+    released: "2009-11-01"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/7"
+  - name: Officer Krupke
+    released: "2009-11-08"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/8"
+  - name: The Table Read
+    released: "2009-11-15"
+    length: "36m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/9"
+  - name: Seinfeld
+    released: "2009-11-22"
+    length: "42m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/7/episode/10"

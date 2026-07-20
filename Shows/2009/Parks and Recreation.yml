@@ -1,0 +1,58 @@
+name: Parks and Recreation
+description: >
+  A place where nothing ever gets done... small town government.
+released: "2009-04-09"
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Parks_and_Recreation"
+imdb: "https://www.imdb.com/title/tt1266020/episodes?season=1"
+tmdb: "https://www.themoviedb.org/tv/8592/season/1"
+creators:
+  - Greg Daniels
+  - Michael Schur
+characters:
+  - name: Leslie Knope
+    actor: Amy Poehler
+  - name: Ann Perkins
+    actor: Rashida Jones
+  - name: Ron Swanson
+    actor: Nick Offerman
+  - name: Tom Haverford
+    actor: Aziz Ansari
+  - name: April Ludgate
+    actor: Aubrey Plaza
+  - name: Andy Dwyer
+    actor: Chris Pratt
+  - name: Ben Wyatt
+    actor: Adam Scott
+  - name: Chris Traeger
+    actor: Rob Lowe
+episodes:
+  - name: Pilot
+    released: "2009-04-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/1/episode/1"
+  - name: Canvassing
+    released: "2009-04-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/1/episode/2"
+  - name: The Reporter
+    released: "2009-04-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/1/episode/3"
+  - name: "Boys' Club"
+    released: "2009-04-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/1/episode/4"
+  - name: The Banquet
+    released: "2009-05-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/1/episode/5"
+  - name: Rock Show
+    released: "2009-05-14"
+    length: "27m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/1/episode/6"

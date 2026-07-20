@@ -1,0 +1,67 @@
+name: "It's Always Sunny in Philadelphia, Season 8"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2011/It's Always Sunny in Philadelphia, Season 7"
+description: >
+  Season 8 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2012-10-11"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_8"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=8"
+tmdb: "https://www.themoviedb.org/tv/2710/season/8"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: "Pop-Pop: The Final Solution"
+    released: "2012-10-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/1"
+  - name: The Gang Recycles Their Trash
+    released: "2012-10-18"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/2"
+  - name: The Maureen Ponderosa Wedding Massacre
+    released: "2012-10-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/3"
+  - name: Charlie and Dee Find Love
+    released: "2012-11-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/4"
+  - name: The Gang Gets Analyzed
+    released: "2012-11-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/5"
+  - name: "Charlie's Mom Has Cancer"
+    released: "2012-11-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/6"
+  - name: "Frank's Back in Business"
+    released: "2012-11-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/7"
+  - name: Charlie Rules the World
+    released: "2012-12-06"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/8"
+  - name: The Gang Dines Out
+    released: "2012-12-13"
+    length: "20m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/9"
+  - name: "Reynolds vs. Reynolds: The Cereal Defense"
+    released: "2012-12-20"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/8/episode/10"

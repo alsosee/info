@@ -1,0 +1,79 @@
+name: "It's Always Sunny in Philadelphia, Season 4"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2007/It's Always Sunny in Philadelphia, Season 3"
+description: >
+  Season 4 continues It's Always Sunny in Philadelphia's ensemble comedy.
+released: "2008-09-18"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_4"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=4"
+tmdb: "https://www.themoviedb.org/tv/2710/season/4"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: "Mac and Dennis: Manhunters"
+    released: "2008-09-18"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/1"
+  - name: The Gang Solves the Gas Crisis
+    released: "2008-09-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/2"
+  - name: America’s Next Top Paddy’s Billboard Model Contest
+    released: "2008-09-25"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/3"
+  - name: Mac’s Banging the Waitress
+    released: "2008-09-25"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/4"
+  - name: Mac and Charlie Die (1)
+    released: "2008-10-02"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/5"
+  - name: Mac and Charlie Die (2)
+    released: "2008-10-02"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/6"
+  - name: Who Pooped the Bed?
+    released: "2008-10-09"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/7"
+  - name: "Paddy’s Pub: The Worst Bar in Philadelphia"
+    released: "2008-10-16"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/8"
+  - name: "Dennis Reynolds: An Erotic Life"
+    released: "2008-10-23"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/9"
+  - name: Sweet Dee Has a Heart Attack
+    released: "2008-10-30"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/10"
+  - name: The Gang Cracks the Liberty Bell
+    released: "2008-11-06"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/11"
+  - name: "The Gang Gets Extreme: Home Makeover Edition"
+    released: "2008-11-13"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/12"
+  - name: The Nightman Cometh
+    released: "2008-11-20"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/4/episode/13"

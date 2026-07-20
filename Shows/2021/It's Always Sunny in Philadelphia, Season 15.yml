@@ -1,0 +1,59 @@
+name: "It's Always Sunny in Philadelphia, Season 15"
+series: "It's Always Sunny in Philadelphia"
+previous: "Shows/2019/It's Always Sunny in Philadelphia, Season 14"
+description: >
+  In season fifteen, the gang finds themselves at a crossroads in this strange new world in the wake of Covid-19 and all things 2020. The rules are changing quicker than anyone can keep up with, despite herculean efforts from Mac, Charlie, Dennis, Dee, and Frank to continue business as usual. They must also now face the music and decide who they’ll become in the cultural upheaval that is 2021.
+released: "2021-12-01"
+rating: TV-MA
+genres:
+  - sitcom
+  - black comedy
+network: FX
+wikipedia: "https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia#Season_15"
+imdb: "https://www.imdb.com/title/tt0472954/episodes?season=15"
+tmdb: "https://www.themoviedb.org/tv/2710/season/15"
+creators: Rob McElhenney
+characters:
+  - name: Charlie Kelly
+    actor: Charlie Day
+  - name: Mac
+    actor: Rob McElhenney
+  - name: Dennis Reynolds
+    actor: Glenn Howerton
+  - name: Dee Reynolds
+    actor: Kaitlin Olson
+  - name: Frank Reynolds
+    actor: Danny DeVito
+episodes:
+  - name: "2020: A Year in Review"
+    released: "2021-12-01"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/1"
+  - name: The Gang Makes Lethal Weapon 7
+    released: "2021-12-01"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/2"
+  - name: The Gang Buys a Roller Rink
+    released: "2021-12-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/3"
+  - name: The Gang Replaces Dee with a Monkey
+    released: "2021-12-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/4"
+  - name: The Gang Goes to Ireland
+    released: "2021-12-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/5"
+  - name: "The Gang's Still in Ireland"
+    released: "2021-12-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/6"
+  - name: Dee Sinks in a Bog
+    released: "2021-12-22"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/7"
+  - name: The Gang Carries a Corpse Up a Mountain
+    released: "2021-12-22"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/2710/season/15/episode/8"

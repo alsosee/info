@@ -1,0 +1,100 @@
+name: "Parks and Recreation, Season 3"
+series: Parks and Recreation
+previous: "Shows/2009/Parks and Recreation, Season 2"
+description: >
+  Season 3 continues Parks and Recreation's ensemble comedy.
+released: "2011-01-20"
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Parks_and_Recreation#Season_3"
+imdb: "https://www.imdb.com/title/tt1266020/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/8592/season/3"
+creators:
+  - Greg Daniels
+  - Michael Schur
+characters:
+  - name: Leslie Knope
+    actor: Amy Poehler
+  - name: Ann Perkins
+    actor: Rashida Jones
+  - name: Ron Swanson
+    actor: Nick Offerman
+  - name: Tom Haverford
+    actor: Aziz Ansari
+  - name: April Ludgate
+    actor: Aubrey Plaza
+  - name: Andy Dwyer
+    actor: Chris Pratt
+  - name: Ben Wyatt
+    actor: Adam Scott
+  - name: Chris Traeger
+    actor: Rob Lowe
+episodes:
+  - name: Go Big or Go Home
+    released: "2011-01-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/1"
+  - name: Flu Season
+    released: "2011-01-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/2"
+  - name: Time Capsule
+    released: "2011-02-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/3"
+  - name: "Ron & Tammy: Part Two"
+    released: "2011-02-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/4"
+  - name: Media Blitz
+    released: "2011-02-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/5"
+  - name: Indianapolis
+    released: "2011-02-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/6"
+  - name: Harvest Festival
+    released: "2011-03-17"
+    length: "27m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/7"
+  - name: Camping
+    released: "2011-03-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/8"
+  - name: "Andy and April's Fancy Party"
+    released: "2011-04-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/9"
+  - name: Soulmates
+    released: "2011-04-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/10"
+  - name: "Jerry's Painting"
+    released: "2011-04-28"
+    length: "27m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/11"
+  - name: Eagleton
+    released: "2011-05-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/12"
+  - name: The Fight
+    released: "2011-05-12"
+    length: "26m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/13"
+  - name: Road Trip
+    released: "2011-05-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/14"
+  - name: The Bubble
+    released: "2011-05-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/15"
+  - name: "Li'l Sebastian"
+    released: "2011-05-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/3/episode/16"

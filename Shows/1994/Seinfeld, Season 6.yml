@@ -1,0 +1,123 @@
+name: "Seinfeld, Season 6"
+series: Seinfeld
+previous: "Shows/1993/Seinfeld, Season 5"
+description: >
+  Season 6 continues Seinfeld's ensemble comedy.
+released: "1994-09-22"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld#Season_6"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=6"
+tmdb: "https://www.themoviedb.org/tv/1400/season/6"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Chaperone
+    released: "1994-09-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/1"
+  - name: The Big Salad
+    released: "1994-09-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/2"
+  - name: The Pledge Drive
+    released: "1994-10-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/3"
+  - name: The Chinese Woman
+    released: "1994-10-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/4"
+  - name: The Couch
+    released: "1994-10-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/5"
+  - name: The Gymnast
+    released: "1994-11-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/6"
+  - name: The Soup
+    released: "1994-11-10"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/7"
+  - name: "The Mom & Pop Store"
+    released: "1994-11-17"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/8"
+  - name: The Secretary
+    released: "1994-12-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/9"
+  - name: The Race
+    released: "1994-12-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/10"
+  - name: The Switch
+    released: "1995-01-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/11"
+  - name: The Label Maker
+    released: "1995-01-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/12"
+  - name: The Scofflaw
+    released: "1995-01-26"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/13"
+  - name: The Highlights of 100 (1)
+    released: "1995-02-02"
+    length: "44m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/14"
+  - name: The Highlights of 100 (2)
+    released: "1995-02-02"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/15"
+  - name: The Beard
+    released: "1995-02-09"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/16"
+  - name: The Kiss Hello
+    released: "1995-02-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/17"
+  - name: The Doorman
+    released: "1995-02-23"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/18"
+  - name: The Jimmy
+    released: "1995-03-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/19"
+  - name: The Doodle
+    released: "1995-04-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/20"
+  - name: The Fusilli Jerry
+    released: "1995-04-27"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/21"
+  - name: "The Diplomat's Club"
+    released: "1995-05-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/22"
+  - name: The Face Painter
+    released: "1995-05-11"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/23"
+  - name: The Understudy
+    released: "1995-05-18"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/6/episode/24"

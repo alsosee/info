@@ -1,0 +1,68 @@
+name: "Curb Your Enthusiasm, Season 3"
+series: Curb Your Enthusiasm
+previous: "Shows/2001/Curb Your Enthusiasm, Season 2"
+description: >
+  Larry and his manager Jeff's investment in a restaurant leads to laughs when it comes to settling on a chef. Meanwhile, Larry gets into his usual assortment of problems—this time involving Christmas tipping, a manger scene, cell phone miscommunication, the 'nanny from hell,' betraying the confidence of rapper Krazee-Eyez Killa, committing a 'penis faux pas,' and even using his mother's death to escape some unsavory invitations.
+released: "2002-09-15"
+rating: TV-MA
+genres:
+  - sitcom
+  - cringe comedy
+  - improvisational comedy
+network: HBO
+wikipedia: "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm#Season_3"
+imdb: "https://www.imdb.com/title/tt0264235/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/4546/season/3"
+creators: Larry David
+characters:
+  - name: Larry David
+    actor: Larry David
+  - name: Jeff Greene
+    actor: Jeff Garlin
+  - name: Cheryl David
+    actor: Cheryl Hines
+  - name: Susie Greene
+    actor: Susie Essman
+  - name: Leon Black
+    actor: J. B. Smoove
+episodes:
+  - name: "Chet's Shirt"
+    released: "2002-09-15"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/1"
+  - name: The Benadryl Brownie
+    released: "2002-09-22"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/2"
+  - name: Club Soda and Salt
+    released: "2002-09-29"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/3"
+  - name: The Nanny from Hell
+    released: "2002-10-06"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/4"
+  - name: The Terrorist Attack
+    released: "2002-10-13"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/5"
+  - name: The Special Section
+    released: "2002-10-20"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/6"
+  - name: The Corpse-Sniffing Dog
+    released: "2002-10-27"
+    length: "29m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/7"
+  - name: Krazee-Eyez Killa
+    released: "2002-11-03"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/8"
+  - name: "Mary, Joseph and Larry"
+    released: "2002-11-10"
+    length: "31m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/9"
+  - name: The Grand Opening
+    released: "2002-11-17"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/4546/season/3/episode/10"

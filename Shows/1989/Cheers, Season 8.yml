@@ -1,0 +1,140 @@
+name: "Cheers, Season 8"
+series: Cheers
+previous: "Shows/1988/Cheers, Season 7"
+description: >
+  Season 8 continues Cheers's ensemble comedy.
+released: "1989-09-21"
+rating: TV-PG
+genres:
+  - sitcom
+  - comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Cheers#Season_8"
+imdb: "https://www.imdb.com/title/tt0083399/episodes?season=8"
+tmdb: "https://www.themoviedb.org/tv/141/season/8"
+creators:
+  - James Burrows
+  - Glen Charles
+  - Les Charles
+characters:
+  - name: Sam Malone
+    actor: Ted Danson
+  - name: Diane Chambers
+    actor: Shelley Long
+  - name: Carla Tortelli
+    actor: Rhea Perlman
+  - name: Ernie Pantusso
+    actor: Nicholas Colasanto
+  - name: Norm Peterson
+    actor: George Wendt
+  - name: Cliff Clavin
+    actor: John Ratzenberger
+  - name: Frasier Crane
+    actor: Kelsey Grammer
+  - name: Rebecca Howe
+    actor: Kirstie Alley
+episodes:
+  - name: The Improbable Dream (1)
+    released: "1989-09-21"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/1"
+  - name: The Improbable Dream (2)
+    released: "1989-09-28"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/2"
+  - name: A Bar is Born
+    released: "1989-10-12"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/3"
+  - name: How to Marry a Mailman
+    released: "1989-10-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/4"
+  - name: The Two Faces of Norm
+    released: "1989-10-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/5"
+  - name: The Stork Brings a Crane
+    released: "1989-11-02"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/6"
+  - name: Death Takes a Holiday on Ice
+    released: "1989-11-09"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/7"
+  - name: For Real Men Only
+    released: "1989-11-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/8"
+  - name: Two Girls for Every Boyd
+    released: "1989-11-23"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/9"
+  - name: The Art of the Steal
+    released: "1989-11-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/10"
+  - name: Feeble Attraction
+    released: "1989-12-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/11"
+  - name: Sam Ahoy
+    released: "1989-12-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/12"
+  - name: Sammy and the Professor
+    released: "1990-01-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/13"
+  - name: What is... Cliff Clavin?
+    released: "1990-01-18"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/14"
+  - name: "Finally! (1)"
+    released: "1990-01-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/15"
+  - name: "Finally! (2)"
+    released: "1990-02-01"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/16"
+  - name: "Woody or Won't He"
+    released: "1990-02-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/17"
+  - name: Severe Crane Damage
+    released: "1990-02-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/18"
+  - name: Indoor Fun with Sammy and Robby
+    released: "1990-02-22"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/19"
+  - name: "50-50 Carla"
+    released: "1990-03-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/20"
+  - name: "Bar Wars III: The Return of Tecumseh"
+    released: "1990-03-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/21"
+  - name: Loverboyd
+    released: "1990-03-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/22"
+  - name: The Ghost and Mrs. Lebec
+    released: "1990-04-12"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/23"
+  - name: Mr. Otis Regrets
+    released: "1990-04-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/24"
+  - name: Cry Hard (1)
+    released: "1990-04-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/25"
+  - name: Cry Harder (2)
+    released: "1990-05-03"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/141/season/8/episode/26"

@@ -1,0 +1,119 @@
+name: "Seinfeld, Season 3"
+series: Seinfeld
+previous: "Shows/1991/Seinfeld, Season 2"
+description: >
+  Season 3 continues Seinfeld's ensemble comedy.
+released: "1991-09-18"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld#Season_3"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=3"
+tmdb: "https://www.themoviedb.org/tv/1400/season/3"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Note
+    released: "1991-09-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/1"
+  - name: The Truth
+    released: "1991-09-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/2"
+  - name: The Pen
+    released: "1991-10-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/3"
+  - name: The Dog
+    released: "1991-10-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/4"
+  - name: The Library
+    released: "1991-10-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/5"
+  - name: The Parking Garage
+    released: "1991-10-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/6"
+  - name: The Cafe
+    released: "1991-11-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/7"
+  - name: The Tape
+    released: "1991-11-13"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/8"
+  - name: The Nose Job
+    released: "1991-11-20"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/9"
+  - name: The Stranded
+    released: "1991-11-27"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/10"
+  - name: The Alternate Side
+    released: "1991-12-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/11"
+  - name: The Red Dot
+    released: "1991-12-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/12"
+  - name: The Subway
+    released: "1992-01-08"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/13"
+  - name: The Pez Dispenser
+    released: "1992-01-15"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/14"
+  - name: The Suicide
+    released: "1992-01-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/15"
+  - name: The Fix-Up
+    released: "1992-02-05"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/16"
+  - name: The Boyfriend (1)
+    released: "1992-02-12"
+    length: "46m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/17"
+  - name: The Boyfriend (2)
+    released: "1992-02-12"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/18"
+  - name: The Limo
+    released: "1992-02-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/19"
+  - name: The Good Samaritan
+    released: "1992-03-04"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/20"
+  - name: The Letter
+    released: "1992-03-25"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/21"
+  - name: The Parking Space
+    released: "1992-04-22"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/22"
+  - name: The Keys
+    released: "1992-05-06"
+    length: "24m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/3/episode/23"

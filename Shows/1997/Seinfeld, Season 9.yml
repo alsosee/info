@@ -1,0 +1,123 @@
+name: "Seinfeld, Season 9"
+series: Seinfeld
+previous: "Shows/1996/Seinfeld, Season 8"
+description: >
+  Season 9 continues Seinfeld's ensemble comedy.
+released: "1997-09-25"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld#Season_9"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=9"
+tmdb: "https://www.themoviedb.org/tv/1400/season/9"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Butter Shave
+    released: "1997-09-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/1"
+  - name: The Voice
+    released: "1997-10-02"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/2"
+  - name: The Serenity Now
+    released: "1997-10-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/3"
+  - name: The Blood
+    released: "1997-10-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/4"
+  - name: The Junk Mail
+    released: "1997-10-30"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/5"
+  - name: The Merv Griffin Show
+    released: "1997-11-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/6"
+  - name: The Slicer
+    released: "1997-11-13"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/7"
+  - name: The Betrayal
+    released: "1997-11-20"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/8"
+  - name: The Apology
+    released: "1997-12-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/9"
+  - name: The Strike
+    released: "1997-12-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/10"
+  - name: The Dealership
+    released: "1998-01-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/11"
+  - name: The Reverse Peephole
+    released: "1998-01-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/12"
+  - name: The Cartoon
+    released: "1998-01-29"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/13"
+  - name: The Strong Box
+    released: "1998-02-05"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/14"
+  - name: The Wizard
+    released: "1998-02-26"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/15"
+  - name: The Burning
+    released: "1998-03-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/16"
+  - name: The Bookstore
+    released: "1998-04-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/17"
+  - name: The Frogger
+    released: "1998-04-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/18"
+  - name: The Maid
+    released: "1998-04-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/19"
+  - name: The Puerto Rican Day
+    released: "1998-05-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/20"
+  - name: The Chronicle (1)
+    released: "1998-05-14"
+    length: "43m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/21"
+  - name: The Chronicle (2)
+    released: "1998-05-14"
+    length: "56m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/22"
+  - name: The Finale (1)
+    released: "1998-05-14"
+    length: "56m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/23"
+  - name: The Finale (2)
+    released: "1998-05-14"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/9/episode/24"

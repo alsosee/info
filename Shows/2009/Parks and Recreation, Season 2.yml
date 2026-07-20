@@ -1,0 +1,132 @@
+name: "Parks and Recreation, Season 2"
+series: Parks and Recreation
+previous: Shows/2009/Parks and Recreation
+description: >
+  Season 2 continues Parks and Recreation's ensemble comedy.
+released: "2009-09-17"
+rating: TV-14
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Parks_and_Recreation#Season_2"
+imdb: "https://www.imdb.com/title/tt1266020/episodes?season=2"
+tmdb: "https://www.themoviedb.org/tv/8592/season/2"
+creators:
+  - Greg Daniels
+  - Michael Schur
+characters:
+  - name: Leslie Knope
+    actor: Amy Poehler
+  - name: Ann Perkins
+    actor: Rashida Jones
+  - name: Ron Swanson
+    actor: Nick Offerman
+  - name: Tom Haverford
+    actor: Aziz Ansari
+  - name: April Ludgate
+    actor: Aubrey Plaza
+  - name: Andy Dwyer
+    actor: Chris Pratt
+  - name: Ben Wyatt
+    actor: Adam Scott
+  - name: Chris Traeger
+    actor: Rob Lowe
+episodes:
+  - name: Pawnee Zoo
+    released: "2009-09-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/1"
+  - name: The Stakeout
+    released: "2009-09-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/2"
+  - name: Beauty Pageant
+    released: "2009-10-01"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/3"
+  - name: Practice Date
+    released: "2009-10-08"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/4"
+  - name: Sister City
+    released: "2009-10-15"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/5"
+  - name: Kaboom
+    released: "2009-10-22"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/6"
+  - name: Greg Pikitis
+    released: "2009-10-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/7"
+  - name: Ron and Tammy
+    released: "2009-11-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/8"
+  - name: The Camel
+    released: "2009-11-12"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/9"
+  - name: Hunting Trip
+    released: "2009-11-19"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/10"
+  - name: "Tom's Divorce"
+    released: "2009-12-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/11"
+  - name: Christmas Scandal
+    released: "2009-12-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/12"
+  - name: The Set Up
+    released: "2010-01-14"
+    length: "28m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/13"
+  - name: "Leslie's House"
+    released: "2010-01-21"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/14"
+  - name: Sweetums
+    released: "2010-02-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/15"
+  - name: "Galentine's Day"
+    released: "2010-02-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/16"
+  - name: Woman of the Year
+    released: "2010-03-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/17"
+  - name: The Possum
+    released: "2010-03-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/18"
+  - name: Park Safety
+    released: "2010-03-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/19"
+  - name: Summer Catalog
+    released: "2010-03-25"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/20"
+  - name: "94 Meetings"
+    released: "2010-04-29"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/21"
+  - name: Telethon
+    released: "2010-05-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/22"
+  - name: The Master Plan
+    released: "2010-05-13"
+    length: "30m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/23"
+  - name: Freddy Spaghetti
+    released: "2010-05-20"
+    length: "26m"
+    tmdb: "https://www.themoviedb.org/tv/8592/season/2/episode/24"

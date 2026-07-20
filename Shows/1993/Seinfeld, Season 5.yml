@@ -1,0 +1,115 @@
+name: "Seinfeld, Season 5"
+series: Seinfeld
+previous: "Shows/1992/Seinfeld, Season 4"
+description: >
+  Season 5 continues Seinfeld's ensemble comedy.
+released: "1993-09-16"
+rating: TV-PG
+genres:
+  - sitcom
+  - observational comedy
+network: NBC
+wikipedia: "https://en.wikipedia.org/wiki/Seinfeld#Season_5"
+imdb: "https://www.imdb.com/title/tt0098904/episodes?season=5"
+tmdb: "https://www.themoviedb.org/tv/1400/season/5"
+creators:
+  - Larry David
+  - Jerry Seinfeld
+characters:
+  - name: Jerry Seinfeld
+    actor: Jerry Seinfeld
+  - name: George Costanza
+    actor: Jason Alexander
+  - name: Elaine Benes
+    actor: Julia Louis-Dreyfus
+  - name: Cosmo Kramer
+    actor: Michael Richards
+episodes:
+  - name: The Mango
+    released: "1993-09-16"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/1"
+  - name: The Puffy Shirt
+    released: "1993-09-23"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/2"
+  - name: The Glasses
+    released: "1993-09-30"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/3"
+  - name: The Sniffing Accountant
+    released: "1993-10-07"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/4"
+  - name: The Bris
+    released: "1993-10-14"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/5"
+  - name: The Lip Reader
+    released: "1993-10-28"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/6"
+  - name: The Non-Fat Yogurt
+    released: "1993-11-04"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/7"
+  - name: The Barber
+    released: "1993-11-11"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/8"
+  - name: The Masseuse
+    released: "1993-11-18"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/9"
+  - name: The Cigar Store Indian
+    released: "1993-12-09"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/10"
+  - name: The Conversion
+    released: "1993-12-16"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/11"
+  - name: The Stall
+    released: "1994-01-06"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/12"
+  - name: The Dinner Party
+    released: "1994-02-03"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/13"
+  - name: The Marine Biologist
+    released: "1994-02-10"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/14"
+  - name: The Pie
+    released: "1994-02-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/15"
+  - name: The Stand-In
+    released: "1994-02-24"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/16"
+  - name: The Wife
+    released: "1994-03-17"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/17"
+  - name: The Raincoats (1)
+    released: "1994-04-28"
+    length: "42m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/18"
+  - name: The Raincoats (2)
+    released: "1994-04-28"
+    length: "21m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/19"
+  - name: The Fire
+    released: "1994-05-05"
+    length: "22m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/20"
+  - name: The Hamptons
+    released: "1994-05-12"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/21"
+  - name: The Opposite
+    released: "1994-05-19"
+    length: "23m"
+    tmdb: "https://www.themoviedb.org/tv/1400/season/5/episode/22"
