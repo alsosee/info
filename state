@@ -129,6 +129,7 @@ Companies/Activision.yml	e6efb635
 Companies/Ad Vitam Distribution.yml	29261276
 Companies/Ad Vitam Production.yml	d605c122
 Companies/AdHoc Studio.yml	3fdef506
+Companies/Adult Swim.yml	2a7ae50d
 Companies/Aggregate Films.yml	a0c3cd5a
 Companies/Akashic Media Enterprises.yml	37b805cb
 Companies/Alcon Entertainment.yml	b62fce59
@@ -331,9 +332,11 @@ Companies/EuroVideo Medien.yml	6ba33fc6
 Companies/EuropaCorp Distribution.yml	3fa322e2
 Companies/EuropaCorp.yml	ba4bf360
 Companies/Exient Entertainment.yml	4a60f197
+Companies/FOX.yml	164b7f65
 Companies/FX on Hulu.yml	616759f9
 Companies/FX.yml	d193bc70
 Companies/FXP.yml	63b94b48
+Companies/FXX.yml	d6ba6162
 Companies/Fairview Entertainment.yml	b0dd064e
 Companies/Faliro House Productions.yml	a789ab58
 Companies/Feelgood Entertainment.yml	d08748dd
@@ -3636,6 +3639,7 @@ People/Adam McKay.yml	68d99313
 People/Adam Pally.yml	153766ec
 People/Adam Pearson.yml	70fc6916
 People/Adam Pyle.yml	b5575c59
+People/Adam Reed.yml	4fba0a80
 People/Adam Robitel.yml	160fd0a9
 People/Adam Sandler.yml	9c68640d
 People/Adam Scott.yml	cfe28ce9
@@ -3670,6 +3674,7 @@ People/Ahna O'Reilly.yml	6362516c
 People/Aidan Gillen.yml	423bcd82
 People/Aiden Lovekamp.yml	482d95da
 People/Aimee Carrero.yml	3c2d0c37
+People/Aisha Tyler.yml	f04beb6
 People/Akela Cooper.yml	c5a6ad38
 People/Akihiro Imamura.yml	146d518d
 People/Akira Emoto.yml	f736d5bb
@@ -3718,6 +3723,7 @@ People/Alejandro González Iñárritu.yml	3c718bc5
 People/Alessandro Nivola.yml	ae734826
 People/Alex Beachum.yml	d13f45c1
 People/Alex Belcher.yml	2d00bbc8
+People/Alex Borstein.yml	ac0c43ea
 People/Alex Ferns.yml	1179f630
 People/Alex Garcia.yml	6019b95d
 People/Alex Garland.yml	1bf16cd
@@ -3793,6 +3799,7 @@ People/Amanda Warren.yml	dddcde04
 People/Amaury Nolasco.yml	bacff02f
 People/Amber Heard.yml	ab5ad39c
 People/Amber Midthunder.yml	2b7e753
+People/Amber Nash.yml	eca2bb3d
 People/Amber Templemore.yml	edae3516
 People/Amelia Tyler.yml	f4ab58ef
 People/America Ferrera.yml	d5800b7b
@@ -3937,6 +3944,7 @@ People/Ariane Labed.yml	2e62adde
 People/Aric Avelino.yml	e70c5626
 People/Ariel Schulman.yml	c78f5957
 People/Ariel Winter.yml	4352c0fd
+People/Arif Zahir.yml	10fdaea
 People/Ario Sagantoro.yml	75cb240f
 People/Arlene Sanford.yml	f7347b6
 People/Arliss Howard.yml	db2ba2fb
@@ -4121,6 +4129,7 @@ People/Billy Gierhart.yml	33ed2b4c
 People/Billy Postlethwaite.yml	49551b7a
 People/Billy Ray.yml	e5d39040
 People/Billy Weber.yml	df930a85
+People/Billy West.yml	48065614
 People/Birgit Minichmayr.yml	8f9ecf9c
 People/Björn Andrésen.yml	433b63e2
 People/Blair Brown.yml	fb6a828c
@@ -4219,6 +4228,7 @@ People/Brigitte Nielsen.yml	1b0021aa
 People/Brion James.yml	18dbffd1
 People/Britain Dalton.yml	bad0c9
 People/Britt Lower.yml	ec9cdc3b
+People/Brittany Murphy.yml	a38fdbc5
 People/Brittany Snow.yml	6b6f4c22
 People/Broderick Johnson.yml	21ccb68b
 People/Bronn.yml	ef2b4d41
@@ -4614,6 +4624,7 @@ People/Damon Lindelof.yml	1467af7d
 People/Damon Victor Allen.yml	d3ac4620
 People/Dan Attias.yml	f9a7df52
 People/Dan Aykroyd.yml	bcf5043e
+People/Dan Castellaneta.yml	a1fd6784
 People/Dan Chameroy.yml	eca705e1
 People/Dan Cohen.yml	1ea2031c
 People/Dan Deacon.yml	fab973d7
@@ -4831,6 +4842,7 @@ People/David Wenham.yml	e1e2f0d5
 People/David Wilmot.yml	1a49a4fb
 People/David Winkler.yml	348095c4
 People/David Wu.yml	c5a143e4
+People/David X. Cohen.yml	a3901b9c
 People/David Yates.yml	e7dff6cc
 People/David Zayas.yml	8b561f91
 People/Davis Guggenheim.yml	6211533e
@@ -5391,6 +5403,7 @@ People/Gwendoline Christie.yml	b177c86b
 People/Gwyneth Horder-Payton.yml	8073f80
 People/Gwyneth Paltrow.yml	58e3393f
 People/Gyula Pados.yml	33294c5a
+People/H. Jon Benjamin.yml	ddab7641
 People/H. Lee Peterson.yml	c2a7d8f2
 People/Ha Jun.yml	3e438204
 People/Haiko Ruttmann.yml	33d6a2a4
@@ -5425,6 +5438,7 @@ People/Harris Dickinson.yml	8fc1bb8c
 People/Harris Savides.yml	152b983d
 People/Harris Yulin.yml	37e0a90
 People/Harrison Ford.yml	e8eeea3c
+People/Harry Belden.yml	38f1cb3a
 People/Harry Bradbeer.yml	c255bfcc
 People/Harry Dean Stanton.yml	a86fbb68
 People/Harry Gregson-Williams.yml	1c1ea082
@@ -5436,6 +5450,7 @@ People/Harry Manfredini.yml	9e048cbd
 People/Harry Melling.yml	9ec7d495
 People/Harry S. Robins.yml	5faa082f
 People/Harry Saltzman.yml	eff57a01
+People/Harry Shearer.yml	32c338ff
 People/Harry Shum Jr..yml	f3f63ca2
 People/Harry Williams.yml	e6226b51
 People/Haruo Murata.yml	b71f1790
@@ -5529,6 +5544,7 @@ People/Iain Glen.yml	8cb1db67
 People/Iain Paterson.yml	fe75cffe
 People/Ian Alexander.yml	f5ce109d
 People/Ian Bryce.yml	207c731e
+People/Ian Cardoni.yml	aa9957cc
 People/Ian Cooper.yml	271dc466
 People/Ian Goldberg.yml	1dd9bed7
 People/Ian Hamilton.yml	bf57bf10
@@ -6114,6 +6130,7 @@ People/John Woo.yml	b3818397
 People/John Wright.yml	a3834ebf
 People/John-Henry Butterworth.yml	9fde340c
 People/Johnny Depp.yml	7ede5a78
+People/Johnny Hardwick.yml	e4266bab
 People/Johnny Klimek.yml	853290d5
 People/Johnny Simmons.yml	2bb85ed3
 People/Johnny Strong.yml	e7e790fa
@@ -6255,6 +6272,7 @@ People/Julie Bowen.yml	b9876c40
 People/Julie Delpy.yml	18688bd1
 People/Julie Dreyfus.yml	d7137e3c
 People/Julie Estelle.yml	3a5c7194
+People/Julie Kavner.yml	53ed45c6
 People/Julie Walters.yml	fcf0102
 People/Julie Yorn.yml	f2ff4a7e
 People/Julien Lacheray.yml	3d7a2b1f
@@ -6277,6 +6295,7 @@ People/Justin Hurwitz.yml	56a900d1
 People/Justin Lin.yml	c0b49ab6
 People/Justin Long.yml	4cf09bf9
 People/Justin Michael.yml	4eeddba3
+People/Justin Roiland.yml	a5e167d7
 People/Justin Theroux.yml	526552f8
 People/Justin Timberlake.yml	6123aecf
 People/Justina Machado.yml	c58e11f8
@@ -6323,6 +6342,7 @@ People/Kate Robin.yml	fead47f4
 People/Kate Trefry.yml	7abb8736
 People/Kate Winslet.yml	cd4ba1e8
 People/Katee Sackhoff.yml	e2400686
+People/Katey Sagal.yml	bc445d2f
 People/Kath Soucie.yml	bc9d6e31
 People/Katharine Ross.yml	2120ee7a
 People/Katherine DiSavino.yml	669651d8
@@ -6334,6 +6354,7 @@ People/Kathryn Bigelow.yml	90d76cdf
 People/Kathryn Hahn.yml	16be2e77
 People/Kathryn Newton.yml	238bcb28
 People/Kathy Bates.yml	9bab5ad
+People/Kathy Najimy.yml	b60036be
 People/Katie Cassidy.yml	e8b5301c
 People/Katie Featherston.yml	abe42c96
 People/Katie Mattila.yml	9f401474
@@ -6538,6 +6559,7 @@ People/Lauren LeFranc.yml	2f72d5cc
 People/Lauren MacMullan.yml	4cd0a58d
 People/Lauren Ridloff.yml	cf8eafd4
 People/Lauren Shuler Donner.yml	fedc8d76
+People/Lauren Tom.yml	511558a3
 People/Lauren Vélez.yml	4c69ab03
 People/Lauren Weisberger.yml	a981863f
 People/Laurence Andries.yml	dbf5172d
@@ -6670,6 +6692,7 @@ People/Lucas Till.yml	fdca93de
 People/Lucian Johnston.yml	f0cec6ae
 People/Luciano Vincenzoni.yml	77da3298
 People/Lucien Ballard.yml	f2c21e
+People/Lucky Yates.yml	d6986fc3
 People/Lucy Boynton.yml	71d96363
 People/Lucy Liu.yml	bb1b0407
 People/Lucy Russell.yml	407dd5d3
@@ -6894,6 +6917,7 @@ People/Matt Bettinelli-Olpin.yml	92b6ca52
 People/Matt Bomer.yml	f6b2ab58
 People/Matt Damon.yml	b2f87d1f
 People/Matt Flannery.yml	20ca4f8d
+People/Matt Groening.yml	ec4bbd39
 People/Matt Holloway.yml	7bc295ba
 People/Matt Lieberman.yml	9070a933
 People/Matt McGuinness.yml	64054c6d
@@ -6903,6 +6927,7 @@ People/Matt Schulze.yml	8c3feac2
 People/Matt Shakman.yml	511ee70
 People/Matt Smith.yml	d057384f
 People/Matt Sophos.yml	a164d4ca
+People/Matt Stone.yml	d81dc4a1
 People/Matt Tolmach.yml	38afb9b8
 People/Matt Uelmen.yml	11b737f6
 People/Matt Villa.yml	60fba659
@@ -7120,6 +7145,7 @@ People/Mike Elliott.yml	da7e840c
 People/Mike Epps.yml	d840e194
 People/Mike Faist.yml	e799f6d3
 People/Mike Gioulakis.yml	e18f10b6
+People/Mike Judge.yml	47756abb
 People/Mike Larocca.yml	7452ef8d
 People/Mike Medavoy.yml	78384473
 People/Mike Mitchell.yml	40f5ea19
@@ -7188,6 +7214,7 @@ People/Myron Kerstein.yml	d8673541
 People/M|O|O|N.yml	979fe5f
 People/Nadine Muse.yml	2c7f8e29
 People/Nadji Jeter.yml	b4b189a0
+People/Nancy Cartwright.yml	372e6198
 People/Nancy Grant.yml	a23d38ed
 People/Nancy Richardson.yml	393b3263
 People/Naomi Watts.yml	22c41c81
@@ -7418,6 +7445,7 @@ People/Paul Dinello.yml	fef6dca8
 People/Paul Dooley.yml	75d9d91e
 People/Paul Eiding.yml	bfbb3b18
 People/Paul Englishby.yml	9571915e
+People/Paul F. Tompkins.yml	a2b81e92
 People/Paul Feig.yml	704d6336
 People/Paul Fisher.yml	8a3a57b6
 People/Paul Freeman.yml	947959f3
@@ -7945,6 +7973,7 @@ People/Sara Murphy.yml	2905b573
 People/Sarah Adina Smith.yml	9c02c229
 People/Sarah Baylus.yml	34c5b93d
 People/Sarah Boyd.yml	78f4b92c
+People/Sarah Chalke.yml	bb5f8398
 People/Sarah Clarke.yml	fdf8d860
 People/Sarah Green.yml	79da73e8
 People/Sarah Hyland.yml	7b01a50b
@@ -8027,6 +8056,7 @@ People/Sergio Castellitto.yml	60ba931a
 People/Sergio Leone.yml	336204cf
 People/Seth Grahame-Smith.yml	7d115f70
 People/Seth Green.yml	21a53161
+People/Seth MacFarlane.yml	eed3c25b
 People/Seth Rogen.yml	c2a3c933
 People/Seu Jorge.yml	12dd5948
 People/Sev Ohanian.yml	d02662ea
@@ -8128,6 +8158,7 @@ People/Sophia Lillis.yml	9faf4b60
 People/Sophia Myles.yml	1a377a10
 People/Sophie Cookson.yml	a39f21db
 People/Sophie Turner.yml	ba9ade7a
+People/Spencer Grammer.yml	bada7458
 People/Spencer Treat Clark.yml	8c15fc54
 People/Spike Jonze.yml	c6f318b6
 People/Spike Lee.yml	30c6ebda
@@ -8418,6 +8449,7 @@ People/Toby Ascher.yml	bae8a73d
 People/Toby Gard.yml	55b99810
 People/Toby Halbrooks.yml	74b744ae
 People/Toby Haynes.yml	670b53d2
+People/Toby Huss.yml	6f102c72
 People/Toby Jones.yml	f19b304
 People/Toby Kebbell.yml	b9946311
 People/Toby Oliver.yml	73ec4e0
@@ -8517,6 +8549,7 @@ People/Trent Reznor.yml	6ed07b57
 People/Tress MacNeille.yml	9cc5d502
 People/Trevante Rhodes.yml	d7bd0a55
 People/Trevor Rabin.yml	8d254527
+People/Trey Parker.yml	ff3aca2c
 People/Tricia Cooke.yml	2be0f155
 People/Tristan D. Lalla.yml	6f39aede
 People/Troels Brun Folmann.yml	215ab2b5
@@ -8679,6 +8712,7 @@ People/Yaphet Kotto.yml	b110d1d
 People/Yasuhiro Anpo.yml	90845336
 People/Yasuhisa Kawamura.yml	1fd04dd8
 People/Yayan Ruhian.yml	8ba18216
+People/Yeardley Smith.yml	3f83707d
 People/Ygritte.yml	6a0509b5
 People/Yochai Gal.yml	6f9dc28f
 People/Yoko Shimomura.yml	1ac89226
@@ -8755,122 +8789,190 @@ Shows/1988/Cheers, Season 7.yml	9b5d4a21
 Shows/1989/Cheers, Season 8.yml	38829d47
 Shows/1989/Chip 'n Dale Rescue Rangers.yml	48706f25
 Shows/1989/Seinfeld.yml	1915f8e2
+Shows/1989/The Simpsons.yml	206fa07c
 Shows/1990/Cheers, Season 9.yml	d8f05be1
 Shows/1990/It.yml	3a0db48
 Shows/1990/Mr. Bean.yml	ddf6d427
+Shows/1990/The Simpsons, Season 2.yml	31a1b27f
 Shows/1991/Cheers, Season 10.yml	dbfbcefc
 Shows/1991/Seinfeld, Season 2.yml	8ab139e3
 Shows/1991/Seinfeld, Season 3.yml	73e63cbd
+Shows/1991/The Simpsons, Season 3.yml	14a01f68
 Shows/1992/Cheers, Season 11.yml	296e4edb
 Shows/1992/Seinfeld, Season 4.yml	da918699
 Shows/1992/The Addams Family 1992.yml	cbb87848
+Shows/1992/The Simpsons, Season 4.yml	cdd0e8f3
 Shows/1993/Frasier.yml	fffd4fd3
 Shows/1993/Seinfeld, Season 5.yml	d156cac3
 Shows/1993/Star Trek Deep Space Nine.yml	b292396a
+Shows/1993/The Simpsons, Season 5.yml	17c96c0f
 Shows/1994/Frasier, Season 2.yml	e4988b9c
 Shows/1994/Friends.yml	499286c6
 Shows/1994/Seinfeld, Season 6.yml	70859a16
+Shows/1994/The Simpsons, Season 6.yml	56097e12
 Shows/1995/Frasier, Season 3.yml	ad41fd46
 Shows/1995/Seinfeld, Season 7.yml	d477d1bc
 Shows/1995/Star Trek Voyager.yml	a6088030
+Shows/1995/The Simpsons, Season 7.yml	a2577877
 Shows/1996/Frasier, Season 4.yml	547139ef
 Shows/1996/Seinfeld, Season 8.yml	d41e7b1
+Shows/1996/The Simpsons, Season 8.yml	38d9f586
 Shows/1997/Frasier, Season 5.yml	3d6cc4b3
+Shows/1997/King of the Hill, Season 2.yml	2cf7780a
+Shows/1997/King of the Hill.yml	b0ed7457
 Shows/1997/Seinfeld, Season 9.yml	f2ad4153
+Shows/1997/South Park.yml	9b7f5dd0
+Shows/1997/The Simpsons, Season 9.yml	838240ac
 Shows/1998/Frasier, Season 6.yml	570a11d1
+Shows/1998/King of the Hill, Season 3.yml	5f5c0c60
+Shows/1998/South Park, Season 2.yml	521fa335
 Shows/1998/The New Addams Family.yml	c4b3f13c
+Shows/1998/The Simpsons, Season 10.yml	b5909688
+Shows/1999/Family Guy, Season 2.yml	f0bc3a2
+Shows/1999/Family Guy.yml	da7e5c17
 Shows/1999/Frasier, Season 7.yml	b4b3322c
+Shows/1999/Futurama, Season 2.yml	42bccff8
+Shows/1999/Futurama.yml	17b3c7c1
+Shows/1999/King of the Hill, Season 4.yml	69392589
+Shows/1999/South Park, Season 3.yml	a83c6c40
 Shows/1999/SpongeBob SquarePants Series.yml	ebf1c511
 Shows/1999/SpongeBob SquarePants.yml	70a1630b
 Shows/1999/Strangers with Candy.yml	430798d0
+Shows/1999/The Simpsons, Season 11.yml	6dc99b63
 Shows/1999/The Sopranos.yml	5740c834
 Shows/2000/Curb Your Enthusiasm.yml	3f7b4a07
 Shows/2000/Frasier, Season 8.yml	24ce9c95
+Shows/2000/Futurama, Season 3.yml	f5682b7a
+Shows/2000/King of the Hill, Season 5.yml	9a361a23
 Shows/2000/Malcolm in the Middle.yml	884f2c4b
+Shows/2000/South Park, Season 4.yml	bf5397d6
 Shows/2000/Strangers with Candy, Season 2.yml	1368d0e8
 Shows/2000/Strangers with Candy, Season 3.yml	eb714aa0
+Shows/2000/The Simpsons, Season 12.yml	5a150b00
 Shows/2000/The Sopranos, Season 2.yml	2e191839
 Shows/2001/Band of Brothers.yml	3a973898
 Shows/2001/Curb Your Enthusiasm, Season 2.yml	1a19d722
+Shows/2001/Family Guy, Season 3.yml	7dc4b6f8
 Shows/2001/Frasier, Season 9.yml	1c97853d
+Shows/2001/Futurama, Season 4.yml	70dc795c
+Shows/2001/King of the Hill, Season 6.yml	f108983b
 Shows/2001/Six Feet Under.yml	b131eb85
+Shows/2001/South Park, Season 5.yml	5938f61
 Shows/2001/Star Trek Enterprise.yml	f629d71b
+Shows/2001/The Simpsons, Season 13.yml	f8bce980
 Shows/2001/The Sopranos, Season 3.yml	230e2a58
 Shows/2002/Curb Your Enthusiasm, Season 3.yml	c666b8b6
 Shows/2002/Frasier, Season 10.yml	91cc3b0e
+Shows/2002/Futurama, Season 5.yml	1dff722
+Shows/2002/King of the Hill, Season 7.yml	2614cda1
 Shows/2002/Six Feet Under, Season 2.yml	c9cec2ee
+Shows/2002/South Park, Season 6.yml	b2ddb11c
+Shows/2002/The Simpsons, Season 14.yml	36bd33a7
 Shows/2002/The Sopranos, Season 4.yml	4e06ed81
 Shows/2002/The Wire.yml	81419f24
 Shows/2003/Arrested Development.yml	ea4abc04
 Shows/2003/Children of Dune.yml	3751ca8e
 Shows/2003/Frasier, Season 11.yml	9f6440d6
+Shows/2003/King of the Hill, Season 8.yml	7a710c0f
 Shows/2003/Six Feet Under, Season 3.yml	509ad896
+Shows/2003/South Park, Season 7.yml	76dd9f63
 Shows/2003/The Animatrix.yml	4d017100
+Shows/2003/The Simpsons, Season 15.yml	470b1d77
 Shows/2003/The Wire, Season 2.yml	87bc05e
 Shows/2004/Arrested Development, Season 2.yml	dd6c63da
 Shows/2004/Curb Your Enthusiasm, Season 4.yml	fc048c1f
 Shows/2004/Deadwood.yml	81b0d0fa
+Shows/2004/King of the Hill, Season 9.yml	4186ea57
 Shows/2004/Six Feet Under, Season 4.yml	9d710257
+Shows/2004/South Park, Season 8.yml	9b3bd403
+Shows/2004/The Simpsons, Season 16.yml	e67567b5
 Shows/2004/The Sopranos, Season 5.yml	3c842c52
 Shows/2004/The Wire, Season 3.yml	5778de24
 Shows/2005/Arrested Development, Season 3.yml	845b57b8
 Shows/2005/Avatar The Last Airbender.yml	419ede99
 Shows/2005/Curb Your Enthusiasm, Season 5.yml	ef3e8e8c
 Shows/2005/Deadwood, Season 2.yml	cbde867e
+Shows/2005/Family Guy, Season 4.yml	7251fd2c
 Shows/2005/How I Met Your Mother.yml	831ac729
 Shows/2005/It's Always Sunny in Philadelphia.yml	af880c45
+Shows/2005/King of the Hill, Season 10.yml	6c9c7ad8
 Shows/2005/Six Feet Under, Season 5.yml	1adc2ec8
+Shows/2005/South Park, Season 9.yml	c90fce46
 Shows/2005/Supernatural.yml	686b3a1f
 Shows/2005/The Office.yml	c4b566f5
+Shows/2005/The Simpsons, Season 17.yml	98d9c638
 Shows/2006/30 Rock.yml	f72b00af
 Shows/2006/Avatar The Last Airbender, Season 2.yml	6af67117
 Shows/2006/Deadwood, Season 3.yml	b80e993b
 Shows/2006/Dexter Series.yml	bf1eb10e
 Shows/2006/Dexter.yml	b220a87c
+Shows/2006/Family Guy, Season 5.yml	bae61b3f
 Shows/2006/It's Always Sunny in Philadelphia, Season 2.yml	21409a2b
+Shows/2006/South Park, Season 10.yml	6d7398fc
+Shows/2006/The Simpsons, Season 18.yml	84a46f73
 Shows/2006/The Sopranos, Season 6.yml	e4757f64
 Shows/2006/The Wire, Season 4.yml	e4786a01
 Shows/2007/30 Rock, Season 2.yml	b5e0ae7
 Shows/2007/Avatar The Last Airbender, Season 3.yml	d698c718
 Shows/2007/Curb Your Enthusiasm, Season 6.yml	535b0d2a
 Shows/2007/Dexter, Season 2.yml	3d287775
+Shows/2007/Family Guy, Season 6.yml	b4740b7d
 Shows/2007/It's Always Sunny in Philadelphia, Season 3.yml	dd133772
+Shows/2007/King of the Hill, Season 11.yml	89062d37
+Shows/2007/King of the Hill, Season 12.yml	1bd6f611
 Shows/2007/Mad Men.yml	15c40d5e
+Shows/2007/South Park, Season 11.yml	30984faf
+Shows/2007/The Simpsons, Season 19.yml	efd001a9
 Shows/2008/30 Rock, Season 3.yml	c0bfa25a
 Shows/2008/Breaking Bad.yml	e93ae6b7
 Shows/2008/Dexter, Season 3.yml	ae118d5
+Shows/2008/Family Guy, Season 7.yml	6891d28a
 Shows/2008/Fringe.yml	9cca33fb
 Shows/2008/It's Always Sunny in Philadelphia, Season 4.yml	df77d971
+Shows/2008/King of the Hill, Season 13.yml	3e501122
 Shows/2008/Mad Men, Season 2.yml	12dd42e3
+Shows/2008/South Park, Season 12.yml	cf64af8a
 Shows/2008/The Penguins of Madagascar.yml	f75da468
+Shows/2008/The Simpsons, Season 20.yml	cedbcf5c
 Shows/2008/The Wire, Season 5.yml	87faca24
 Shows/2009/30 Rock, Season 4.yml	81538573
+Shows/2009/Archer.yml	c0f9bce2
 Shows/2009/Breaking Bad, Season 2.yml	10a4bbba
 Shows/2009/Community.yml	70c51034
 Shows/2009/Curb Your Enthusiasm, Season 7.yml	9979860a
 Shows/2009/Dexter, Season 4.yml	40ee5fdf
+Shows/2009/Family Guy, Season 8.yml	ca0e64e9
 Shows/2009/It's Always Sunny in Philadelphia, Season 5.yml	b92dec11
 Shows/2009/Mad Men, Season 3.yml	703cbbcc
 Shows/2009/Modern Family.yml	e6fb5dce
 Shows/2009/Parks and Recreation, Season 2.yml	a5f77862
 Shows/2009/Parks and Recreation.yml	3f729008
+Shows/2009/South Park, Season 13.yml	6c5fe369
+Shows/2009/The Simpsons, Season 21.yml	de48e9ac
 Shows/2010/30 Rock, Season 5.yml	1de9563b
 Shows/2010/Boardwalk Empire.yml	d8652b53
 Shows/2010/Breaking Bad, Season 3.yml	844f64ce
 Shows/2010/Community, Season 2.yml	22625eff
 Shows/2010/Dexter, Season 5.yml	a8adb3c1
+Shows/2010/Family Guy, Season 9.yml	30638741
+Shows/2010/Futurama, Season 6.yml	449fb43e
 Shows/2010/Haven.yml	66d4e6d3
 Shows/2010/It's Always Sunny in Philadelphia, Season 6.yml	3013a486
 Shows/2010/Luther.yml	a22f36f5
 Shows/2010/Mad Men, Season 4.yml	a5e30146
 Shows/2010/Modern Family, Season 2.yml	2d07112f
 Shows/2010/Sherlock.yml	54c2f3d2
+Shows/2010/South Park, Season 14.yml	86b76213
+Shows/2010/The Simpsons, Season 22.yml	296a94d2
 Shows/2010/The Walking Dead.yml	134dcc91
+Shows/2011/Archer, Season 2.yml	44bfc4ce
+Shows/2011/Archer, Season 3.yml	8f139add
 Shows/2011/Black Mirror.yml	92cefbc5
 Shows/2011/Breaking Bad, Season 4.yml	1b6eb74e
 Shows/2011/Community, Season 3.yml	b9372031
 Shows/2011/Curb Your Enthusiasm, Season 8.yml	4a589825
 Shows/2011/Dexter, Season 6.yml	ac44f4a
+Shows/2011/Family Guy, Season 10.yml	479573d5
 Shows/2011/Game of Thrones.yml	3bea5ae6
 Shows/2011/Haven, Season 2.yml	45400b57
 Shows/2011/Ice Age A Mammoth Christmas.yml	d72ba579
@@ -8879,22 +8981,30 @@ Shows/2011/Luther, Season 2.yml	6e16e195
 Shows/2011/Modern Family, Season 3.yml	c5e3330a
 Shows/2011/Parks and Recreation, Season 3.yml	5d917272
 Shows/2011/Parks and Recreation, Season 4.yml	1b22f2ef
+Shows/2011/South Park, Season 15.yml	cca5339e
+Shows/2011/The Simpsons, Season 23.yml	3c193c6c
 Shows/2011/The Walking Dead, Season 2.yml	e77fa31d
 Shows/2012/30 Rock, Season 6.yml	2e330bd7
 Shows/2012/30 Rock, Season 7.yml	905d20c6
 Shows/2012/Breaking Bad, Season 5.yml	78bb0fd9
 Shows/2012/Dexter, Season 7.yml	4bcab561
+Shows/2012/Family Guy, Season 11.yml	a43f0dec
+Shows/2012/Futurama, Season 7.yml	cdea0ef3
 Shows/2012/Game of Thrones, Season 2.yml	b072f28
 Shows/2012/It's Always Sunny in Philadelphia, Season 8.yml	72bd8d7b
 Shows/2012/Mad Men, Season 5.yml	888cf2bb
 Shows/2012/Modern Family, Season 4.yml	95d998dd
 Shows/2012/Parks and Recreation, Season 5.yml	f7815869
+Shows/2012/South Park, Season 16.yml	44631eb0
 Shows/2012/TRON Uprising.yml	6e254f83
+Shows/2012/The Simpsons, Season 24.yml	80dd7e78
+Shows/2013/Archer, Season 4.yml	ac9fe5af
 Shows/2013/Arrested Development, Season 4.yml	986ae053
 Shows/2013/Black Mirror, Season 2.yml	20af010a
 Shows/2013/Brooklyn Nine-Nine.yml	89facce3
 Shows/2013/Community, Season 4.yml	e36aec1e
 Shows/2013/Dexter, Season 8.yml	cb2983ef
+Shows/2013/Family Guy, Season 12.yml	279db72d
 Shows/2013/Game of Thrones, Season 3.yml	870489a
 Shows/2013/House of Cards.yml	6603bc8b
 Shows/2013/It's Always Sunny in Philadelphia, Season 9.yml	86443236
@@ -8904,23 +9014,34 @@ Shows/2013/Marvel's Agents of S.H.I.E.L.D..yml	1e60b312
 Shows/2013/Modern Family, Season 5.yml	729ac2b0
 Shows/2013/Parks and Recreation, Season 6.yml	2246ecd8
 Shows/2013/Rectify.yml	6d721e0a
+Shows/2013/Rick and Morty.yml	14b1d31e
+Shows/2013/South Park, Season 17.yml	5be1b67d
 Shows/2013/The Americans.yml	e6681f76
+Shows/2013/The Simpsons, Season 25.yml	46895fb0
 Shows/2014/All Hail King Julien.yml	53e067e1
+Shows/2014/Archer, Season 5.yml	48ce2731
+Shows/2014/BoJack Horseman.yml	f3cfa024
 Shows/2014/Brooklyn Nine-Nine, Season 2.yml	3e4959c5
 Shows/2014/Community, Season 5.yml	c00f33b0
+Shows/2014/Family Guy, Season 13.yml	c2dae66d
 Shows/2014/Fargo.yml	6347af9
 Shows/2014/Game of Thrones, Season 4.yml	23b887f4
 Shows/2014/Mad Men, Season 7.yml	a1b83d92
 Shows/2014/Marco Polo.yml	88c06c62
 Shows/2014/Modern Family, Season 6.yml	6b2c7810
 Shows/2014/Rectify, Season 2.yml	76af41b8
+Shows/2014/South Park, Season 18.yml	b3a33b7f
 Shows/2014/The Americans, Season 2.yml	3d6e3de4
+Shows/2014/The Simpsons, Season 26.yml	11db0db8
 Shows/2014/True Detective.yml	2dd4c4e3
 Shows/2015/Agent Carter.yml	ee4e079d
+Shows/2015/Archer, Season 6.yml	4887c813
 Shows/2015/Better Call Saul.yml	272a09c3
+Shows/2015/BoJack Horseman, Season 2.yml	c3619c05
 Shows/2015/Brooklyn Nine-Nine, Season 3.yml	65c7db10
 Shows/2015/Community, Season 6.yml	f21eb095
 Shows/2015/CriticalRole.yml	e8f89edd
+Shows/2015/Family Guy, Season 14.yml	e04d8425
 Shows/2015/Fargo, Season 2.yml	f1554be6
 Shows/2015/Game of Thrones, Season 5.yml	da0a3d38
 Shows/2015/It's Always Sunny in Philadelphia, Season 10.yml	9a175a4c
@@ -8931,16 +9052,22 @@ Shows/2015/Narcos.yml	7c71c670
 Shows/2015/One Punch Man.yml	76f7937
 Shows/2015/Parks and Recreation, Season 7.yml	b657754d
 Shows/2015/Rectify, Season 3.yml	a49fa074
+Shows/2015/Rick and Morty, Season 2.yml	58187a88
 Shows/2015/Sense8.yml	4835fb7f
+Shows/2015/South Park, Season 19.yml	9777dd82
 Shows/2015/The Americans, Season 3.yml	c4d23fb8
+Shows/2015/The Simpsons, Season 27.yml	75bc9b27
 Shows/2015/True Detective, Season 2.yml	da48fb1c
 Shows/2016/Agent Carter, Season 2.yml	7ba14b05
+Shows/2016/Archer, Season 7.yml	4577ac7f
 Shows/2016/Atlanta.yml	f9949f98
 Shows/2016/Better Call Saul, Season 2.yml	3d79319d
 Shows/2016/Billions.yml	516e3e48
 Shows/2016/Black Mirror, Season 3.yml	20e986cc
+Shows/2016/BoJack Horseman, Season 3.yml	5b4ac886
 Shows/2016/Brooklyn Nine-Nine, Season 4.yml	3ca8a458
 Shows/2016/Easy.yml	1b32dfca
+Shows/2016/Family Guy, Season 15.yml	61689406
 Shows/2016/Fleabag.yml	61335a8b
 Shows/2016/Game of Thrones, Season 6.yml	72c5265
 Shows/2016/Goliath.yml	73b97b4a
@@ -8951,14 +9078,19 @@ Shows/2016/Marco Polo, Season 2.yml	c155c528
 Shows/2016/Modern Family, Season 8.yml	1443d4f
 Shows/2016/Narcos, Season 2.yml	e7090cf4
 Shows/2016/Rectify, Season 4.yml	79c1c3d
+Shows/2016/South Park, Season 20.yml	6f30d24
 Shows/2016/Stranger Things.yml	3a0924e6
 Shows/2016/The Americans, Season 4.yml	ff98bd48
+Shows/2016/The Simpsons, Season 28.yml	a8e7972e
 Shows/2017/All Hail King Julien Exiled.yml	27f46ba7
+Shows/2017/Archer, Season 8.yml	70f7355b
 Shows/2017/Better Call Saul, Season 3.yml	94aae6da
 Shows/2017/Black Mirror, Season 4.yml	14cd1389
+Shows/2017/BoJack Horseman, Season 4.yml	31f5b340
 Shows/2017/Brooklyn Nine-Nine, Season 5.yml	a58dc8d7
 Shows/2017/Curb Your Enthusiasm, Season 9.yml	f25b0f95
 Shows/2017/Easy, Season 2.yml	c5b4c130
+Shows/2017/Family Guy, Season 16.yml	3af5e731
 Shows/2017/Game of Thrones, Season 7.yml	a902acba
 Shows/2017/Hotel Transylvania The Series.yml	3184f78e
 Shows/2017/It's Always Sunny in Philadelphia, Season 12.yml	cd4b048e
@@ -8966,26 +9098,37 @@ Shows/2017/Legion.yml	86c4bbb1
 Shows/2017/Modern Family, Season 9.yml	f21a028b
 Shows/2017/Narcos, Season 3.yml	3e08bf81
 Shows/2017/Ozark.yml	7db72174
+Shows/2017/Rick and Morty, Season 3.yml	fca35fa7
+Shows/2017/South Park, Season 21.yml	de50546d
 Shows/2017/Star Trek Discovery.yml	273be0a1
 Shows/2017/Stranger Things, Season 2.yml	1f1de5b5
 Shows/2017/The Americans, Season 5.yml	30fc7568
+Shows/2017/The Simpsons, Season 29.yml	2bbe2efe
+Shows/2018/Archer, Season 9.yml	d72728ca
 Shows/2018/Arrested Development, Season 5.yml	64b6a26a
 Shows/2018/Atlanta, Season 2.yml	d7667a99
 Shows/2018/Better Call Saul, Season 4.yml	f5339128
+Shows/2018/BoJack Horseman, Season 5.yml	a125ac49
+Shows/2018/Family Guy, Season 17.yml	2657dc1d
 Shows/2018/Goliath, Season 2.yml	998e213e
 Shows/2018/It's Always Sunny in Philadelphia, Season 13.yml	c21ad019
 Shows/2018/Legion, Season 2.yml	9fb23d1
 Shows/2018/Maniac.yml	3f19fb0
 Shows/2018/Modern Family, Season 10.yml	9f83f77b
 Shows/2018/Ozark, Season 2.yml	2fb99cc4
+Shows/2018/South Park, Season 22.yml	2217cdb9
 Shows/2018/Star Trek Short Treks.yml	78e1c2fc
 Shows/2018/Succession.yml	f16a258d
 Shows/2018/The Americans, Season 6.yml	fc437f3e
 Shows/2018/The Purge.yml	96b679a7
+Shows/2018/The Simpsons, Season 30.yml	35c2de55
+Shows/2019/Archer, Season 10.yml	9342a146
+Shows/2019/BoJack Horseman, Season 6.yml	3926b084
 Shows/2019/Brooklyn Nine-Nine, Season 6.yml	78b8219f
 Shows/2019/Chernobyl.yml	839ec9a8
 Shows/2019/Easy, Season 3.yml	4749631d
 Shows/2019/Euphoria.yml	fda8bfc5
+Shows/2019/Family Guy, Season 18.yml	6445622e
 Shows/2019/Fleabag, Season 2.yml	829bad1b
 Shows/2019/Game of Thrones, Season 8.yml	d8e91cdd
 Shows/2019/Goliath, Season 3.yml	a48d5b89
@@ -8997,35 +9140,44 @@ Shows/2019/Legion, Season 3.yml	19008afc
 Shows/2019/Luther, Season 5.yml	4ead5218
 Shows/2019/Modern Family, Season 11.yml	f092ddd7
 Shows/2019/One Punch Man, Season 2.yml	9003b723
+Shows/2019/Rick and Morty, Season 4.yml	a8509677
+Shows/2019/South Park, Season 23.yml	9217d2fd
 Shows/2019/Stranger Things, Season 3.yml	721e08ee
 Shows/2019/Succession, Season 2.yml	89902316
 Shows/2019/The Boys Series.yml	d72c68de
 Shows/2019/The Boys.yml	7fc3ef5
 Shows/2019/The Mandalorian.yml	3c3baca1
 Shows/2019/The Purge, Season 2.yml	2636e801
+Shows/2019/The Simpsons, Season 31.yml	17ad3c9c
 Shows/2019/True Detective, Season 3.yml	4772d3cf
 Shows/2019/Undone.yml	57ea59d9
 Shows/2019/What We Do in the Shadows.yml	97555042
+Shows/2020/Archer, Season 11.yml	32b125b5
 Shows/2020/Better Call Saul, Season 5.yml	5116955
 Shows/2020/Brooklyn Nine-Nine, Season 7.yml	e3f31c19
 Shows/2020/Central Park.yml	4b83c116
 Shows/2020/Curb Your Enthusiasm, Season 10.yml	b2bef751
 Shows/2020/Devs.yml	30d631d7
+Shows/2020/Family Guy, Season 19.yml	d845749d
 Shows/2020/Industry.yml	78ae685a
 Shows/2020/Infinity Train, Season 2.yml	84cbd388
 Shows/2020/Infinity Train, Season 3.yml	d20fd5
 Shows/2020/Madagascar A Little Wild.yml	bc90789
 Shows/2020/Ozark, Season 3.yml	614c2409
+Shows/2020/South Park, Season 24.yml	e5e437a3
 Shows/2020/Star Trek Lower Decks.yml	99b2e900
 Shows/2020/Star Trek Picard.yml	b75c6146
 Shows/2020/Ted Lasso.yml	e8d20a16
 Shows/2020/The Boys, Season 2.yml	bb21f142
 Shows/2020/The Mandalorian, Season 2.yml	7c24186c
+Shows/2020/The Simpsons, Season 32.yml	169e320c
 Shows/2020/What We Do in the Shadows, Season 2.yml	5efdc17a
+Shows/2021/Archer, Season 12.yml	ca793876
 Shows/2021/Brooklyn Nine-Nine, Season 8.yml	ba7209db
 Shows/2021/Central Park, Season 2.yml	13622a73
 Shows/2021/Curb Your Enthusiasm, Season 11.yml	7b3ecb0c
 Shows/2021/Dopesick.yml	c5b19e25
+Shows/2021/Family Guy, Season 20.yml	672b13f6
 Shows/2021/Goliath, Season 4.yml	a7d48302
 Shows/2021/Hacks.yml	1d00106e
 Shows/2021/Hawkeye.yml	7ba47743
@@ -9034,42 +9186,54 @@ Shows/2021/Invincible.yml	619a305d
 Shows/2021/It's Always Sunny in Philadelphia, Season 15.yml	b00ba3f8
 Shows/2021/Kamp Koral SpongeBob's Under Years.yml	eca8ac6e
 Shows/2021/Resident Evil Infinite Darkness.yml	e3d49a68
+Shows/2021/Rick and Morty, Season 5.yml	94b07777
 Shows/2021/Star Trek Prodigy.yml	2abd1efd
 Shows/2021/Succession, Season 3.yml	8eab6ef5
 Shows/2021/Ted Lasso, Season 2.yml	dfe12e5d
 Shows/2021/The Falcon and the Winter Soldier.yml	28e3f4d2
 Shows/2021/The Patrick Star Show.yml	48e19172
+Shows/2021/The Simpsons, Season 33.yml	e36eb9bd
 Shows/2021/WandaVision.yml	b0d704e
 Shows/2021/What We Do in the Shadows, Season 3.yml	d6020aa4
 Shows/2022/Andor.yml	6f8e8b0a
+Shows/2022/Archer, Season 13.yml	bd78fb10
 Shows/2022/Atlanta, Season 3.yml	56447298
 Shows/2022/Atlanta, Season 4.yml	959c27a9
 Shows/2022/Better Call Saul, Season 6.yml	1e45a64b
 Shows/2022/Central Park, Season 3.yml	72221c71
 Shows/2022/Cyberpunk Edgerunners.yml	1a0225b8
 Shows/2022/Euphoria, Season 2.yml	fff67f5d
+Shows/2022/Family Guy, Season 21.yml	ba505a56
 Shows/2022/Ice Age Scrat Tales.yml	f7619ca1
 Shows/2022/Moon Knight.yml	b81fd87b
 Shows/2022/National Treasure Edge of History.yml	6e43b3e9
 Shows/2022/Ozark, Season 4.yml	d5ced348
 Shows/2022/Peacemaker.yml	e919e8e6
 Shows/2022/Resident Evil.yml	5c8e95a0
+Shows/2022/Rick and Morty, Season 6.yml	a8bbfab6
 Shows/2022/Severance.yml	87e95753
+Shows/2022/South Park, Season 25.yml	2860334e
 Shows/2022/Star Trek Picard, Season 2.yml	66a8b799
 Shows/2022/Star Trek Strange New Worlds.yml	23fc65e2
 Shows/2022/Stranger Things, Season 4.yml	9f305593
 Shows/2022/The Bear.yml	d692faaa
 Shows/2022/The Boys, Season 3.yml	3ab68809
+Shows/2022/The Simpsons, Season 34.yml	f7f17ccb
 Shows/2022/Undone, Season 2.yml	7e6b36df
 Shows/2022/Wednesday.yml	c0ac1bdd
 Shows/2022/What We Do in the Shadows, Season 4.yml	6a218c8
+Shows/2023/Archer, Season 14.yml	f788014e
+Shows/2023/Family Guy, Season 22.yml	ae5558ed
+Shows/2023/Futurama, Season 11.yml	4a95ebb
 Shows/2023/It's Always Sunny in Philadelphia, Season 16.yml	6dcb494b
 Shows/2023/Mrs. Davis.yml	2ae3a798
 Shows/2023/Painkiller.yml	f9e09c48
+Shows/2023/Rick and Morty, Season 7.yml	cf1cd7bc
 Shows/2023/Scavengers Reign.yml	166d3c76
 Shows/2023/Scott Pilgrim Takes Off.yml	e41ae63c
 Shows/2023/Silo Series.yml	a0dede54
 Shows/2023/Silo.yml	98047116
+Shows/2023/South Park, Season 26.yml	88cf1965
 Shows/2023/Star Trek Picard, Season 3.yml	a5f1793d
 Shows/2023/Star Trek Strange New Worlds, Season 2.yml	b4f3b894
 Shows/2023/Succession, Season 4.yml	68da18be
@@ -9077,6 +9241,7 @@ Shows/2023/Ted Lasso, Season 3.yml	9a53ca03
 Shows/2023/The Continental.yml	7e3f523b
 Shows/2023/The Last of Us.yml	30a19af1
 Shows/2023/The Mandalorian, Season 3.yml	47127aa0
+Shows/2023/The Simpsons, Season 35.yml	a9e6b2a9
 Shows/2023/What We Do in the Shadows, Season 5.yml	d4903abc
 Shows/2024/3 Body Problem.yml	65179261
 Shows/2024/Avatar The Last Airbender.yml	ffe6f507
@@ -9085,22 +9250,30 @@ Shows/2024/Batman Caped Crusader.yml	61435433
 Shows/2024/Curb Your Enthusiasm, Season 12.yml	4ce375c2
 Shows/2024/Doctor Who, Season 1.yml	ec0efbd
 Shows/2024/Fallout.yml	40bbdcfd
+Shows/2024/Futurama, Season 12.yml	4a2cbe37
 Shows/2024/Silo, Season 2.yml	4892922
 Shows/2024/Terminator Zero.yml	254425b2
 Shows/2024/The Boys, Season 4.yml	7021e7a8
 Shows/2024/The Penguin.yml	838c53b2
+Shows/2024/The Simpsons, Season 36.yml	1c99a03c
 Shows/2024/True Detective, Season 4.yml	28848304
 Shows/2024/What We Do in the Shadows, Season 6.yml	e1fcff8
 Shows/2025/Adolescence.yml	e87d4517
 Shows/2025/Alien Earth.yml	ce809898
 Shows/2025/Andor, Season 2.yml	cff8efb6
 Shows/2025/Common Side Effects.yml	9305992d
+Shows/2025/Family Guy, Season 23.yml	d0cdf6d8
+Shows/2025/Futurama, Season 13.yml	51333487
 Shows/2025/It Welcome to Derry.yml	99d8d39e
 Shows/2025/It's Always Sunny in Philadelphia, Season 17.yml	a92c3536
+Shows/2025/King of the Hill, Season 14.yml	1277a5f
 Shows/2025/Paradise.yml	2b021124
 Shows/2025/Peacemaker, Season 2.yml	90409d29
 Shows/2025/Pluribus.yml	7e0f2d69
+Shows/2025/Rick and Morty, Season 8.yml	a620425a
 Shows/2025/Severance, Season 2.yml	151585ca
+Shows/2025/South Park, Season 27.yml	33f6cb25
+Shows/2025/South Park, Season 28.yml	78e241e4
 Shows/2025/Star Trek Scouts.yml	b9902ee1
 Shows/2025/Star Trek Strange New Worlds, Season 3.yml	6649972d
 Shows/2025/Stranger Things, Season 5.yml	c399b662
@@ -9108,10 +9281,14 @@ Shows/2025/Task.yml	a669bafa
 Shows/2025/The Last of Us, Season 2.yml	b0f4bc99
 Shows/2025/The Paper.yml	58211df5
 Shows/2025/The Pitt.yml	14bdb116
+Shows/2025/The Simpsons, Season 37.yml	c526667d
 Shows/2025/The Studio.yml	74f93c26
 Shows/2025/Your Friends & Neighbors.yml	c063eb1a
 Shows/2026/A Knight of the Seven Kingdoms.yml	be2bb138
+Shows/2026/Family Guy, Season 24.yml	4bd78f3c
+Shows/2026/King of the Hill, Season 15.yml	6831b912
 Shows/2026/Paradise, Season 2.yml	51c0374e
+Shows/2026/Rick and Morty, Season 9.yml	9c86cd33
 Shows/2026/Silo, Season 3.yml	c2c10bbf
 Shows/2026/Star Trek Starfleet Academy.yml	22a7fa81
 Shows/2026/The Boys, Season 5.yml	e0ed076d
