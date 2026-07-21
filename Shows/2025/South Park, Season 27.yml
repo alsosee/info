@@ -1,0 +1,50 @@
+name: South Park, Season 27
+description: >
+  In season 27, South Park continues with episodes beginning with "Sermon on the 'Mount".
+previous: Shows/2023/South Park, Season 26
+released: 2025-07-23
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - satire
+network: Comedy Central
+imdb: https://www.imdb.com/title/tt0121955/episodes?season=27
+website: https://www.cc.com/shows/south-park
+creators:
+  - Trey Parker
+  - Matt Stone
+characters:
+  - name: Stan Marsh
+    voice: Trey Parker
+  - name: Kyle Broflovski
+    voice: Matt Stone
+  - name: Eric Cartman
+    voice: Trey Parker
+  - name: Kenny McCormick
+    voice: Matt Stone
+  - name: Butters Stotch
+    voice: Matt Stone
+  - name: Randy Marsh
+    voice: Trey Parker
+episodes:
+  - name: Sermon on the 'Mount
+    description: When the residents of South Park face their possible demise, Jesus returns to give them an important message.
+    released: 2025-07-23
+    length: 30m
+  - name: Got a Nut
+    description: When Mr. Mackey loses his job, he desperately tries to find a new way to make a living.
+    released: 2025-08-06
+    length: 30m
+  - name: Sickofancy
+    description: Towelie goes to Washington, D.C.
+    released: 2025-08-20
+    length: 30m
+  - name: Wok is Dead
+    description: Butters experiences the reality of tariffs when he has to buy a Labubu doll for his girlfriend's birthday.
+    released: 2025-09-03
+    length: 30m
+  - name: Conflict of Interest
+    description: Kyle and Cartman are at odds when a prediction markets app gets popular with their fellow students.
+    released: 2025-09-24
+    length: 30m

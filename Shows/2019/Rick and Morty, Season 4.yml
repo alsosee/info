@@ -1,0 +1,70 @@
+name: Rick and Morty, Season 4
+description: >
+  In season 4, Rick and Morty continues with episodes beginning with "Edge of Tomorty: Rick, Die, Rickpeat".
+previous: Shows/2017/Rick and Morty, Season 3
+released: 2019-11-10
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Adult Swim
+imdb: https://www.imdb.com/title/tt2861424/episodes?season=4
+adult_swim: http://www.adultswim.com/videos/rick-and-morty
+creators:
+  - Justin Roiland
+  - Dan Harmon
+characters:
+  - name: Rick Sanchez
+    voice: Ian Cardoni
+  - name: Morty Smith
+    voice: Harry Belden
+  - name: Summer Smith
+    voice: Spencer Grammer
+  - name: Beth Smith
+    voice: Sarah Chalke
+  - name: Jerry Smith
+    voice: Chris Parnell
+  - name: Mr. Meeseeks
+    voice: Justin Roiland
+episodes:
+  - name: 'Edge of Tomorty: Rick, Die, Rickpeat'
+    description: Rick brings Morty to a planet containing crystals that show whoever is touching them all the ways they may die depending on their choices.
+    released: 2019-11-10
+    length: 30m
+  - name: The Old Man and the Seat
+    description: Jerry develops an app at the request of a persistent alien with a "Do Not Develop My App" forehead tattoo. A determined Rick tracks a mystery pooper.
+    released: 2019-11-17
+    length: 30m
+  - name: One Crew Over the Crewcoo's Morty
+    description: Rick assembles a crew to break into a heist convention, then needs another crew to stop a heist-planning robot. And Morty writes a heist script.
+    released: 2019-11-24
+    length: 30m
+  - name: 'Claw and Hoarder: Special Ricktim''s Morty'
+    description: Rick reluctantly gives in to Morty's wishes to get a pet dragon, then things get weird. Jerry befriends a talking cat and they go to Florida.
+    released: 2019-12-08
+    length: 30m
+  - name: Rattlestar Ricklactica
+    description: Rick and Morty get caught up in a full-on snake war after a space snake bites Morty. Jerry tries to prove he can hang Christmas lights without dying.
+    released: 2019-12-15
+    length: 30m
+  - name: Never Ricking Morty
+    description: Rick and Morty get caught in a continuity-creating anthology device full of people telling stories about Rick.
+    released: 2020-05-03
+    length: 30m
+  - name: Promortyus
+    description: Rick and Morty find themselves in a fight against face-hugging aliens who just happen to have an M&M's store.
+    released: 2020-05-10
+    length: 30m
+  - name: The Vat of Acid Episode
+    description: Morty challenges Rick to build him the real-life equivalent of a "save game" function to live without consequence. Also, there's a giant vat of acid.
+    released: 2020-05-17
+    length: 30m
+  - name: Childrick of Mort
+    description: Jerry's plan to take the whole family on a camping trip is sidetracked when Rick gets news that he may have impregnated a planet.
+    released: 2020-05-24
+    length: 30m
+  - name: Star Mort Rickturn of the Jerri
+    description: Two Beths, a corporate-sponsored planet incinerator and some faces from the past force Rick and family to "do a Star Wars" to save Earth.
+    released: 2020-05-31
+    length: 30m

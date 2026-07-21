@@ -1,0 +1,58 @@
+name: Family Guy
+description: >
+  In the first season, Family Guy introduces its ensemble and the animated world that frames the series' recurring comic conflicts.
+released: 1999-01-31
+rating: TV-14
+genres:
+  - animation
+  - comedy
+network: FOX
+imdb: https://www.imdb.com/title/tt0182576/episodes?season=1
+website: https://www.fox.com/family-guy
+creators: Seth MacFarlane
+characters:
+  - name: Peter Griffin
+    voice: Seth MacFarlane
+  - name: Lois Griffin
+    voice: Alex Borstein
+  - name: Meg Griffin
+    voice: Mila Kunis
+  - name: Chris Griffin
+    voice: Seth Green
+  - name: Stewie Griffin
+    voice: Seth MacFarlane
+  - name: Brian Griffin
+    voice: Seth MacFarlane
+  - name: Glenn Quagmire
+    voice: Seth MacFarlane
+  - name: Cleveland Brown
+    voice: Arif Zahir
+episodes:
+  - name: Death Has a Shadow
+    description: Peter ignores his wife's warning about a bachelor party. Voices include Seth MacFarlane, Alex Borstein, Seth Green and Phil LaMarr.
+    released: 1999-01-31
+    length: 30m
+  - name: I Never Met the Dead Man
+    description: Peter (voice of Seth MacFarlane) learns to live without TV when he crashes his car into a satellite dish. Meanwhile, Stewie devises a climate-control machine.
+    released: 1999-04-11
+    length: 30m
+  - name: Chitty Chitty Death Bang
+    description: The Griffins prepare for Stewie's first birthday party, but the precocious lad hatches a plan of his own.
+    released: 1999-04-18
+    length: 30m
+  - name: Mind Over Murder
+    description: Under house arrest, Peter builds a bar in the basement to have his friends over. And the joint is jumpin', much to Lois' dismay.
+    released: 1999-04-25
+    length: 30m
+  - name: A Hero Sits Next Door
+    description: When Peter's neighbor---an award-winning ballplayer and cop---makes him feel inadequate, Peter tries to become a hero.
+    released: 1999-05-02
+    length: 30m
+  - name: The Son Also Draws
+    description: On their way to New York, the Griffins take a wrong turn and end up at a Native American gambling casino, where luck proves to be no lady for Lois (voice of Alex Borstein). Comic Bobby Slayton provides the voice of a pit boss named Lenny.
+    released: 1999-05-09
+    length: 30m
+  - name: 'Brian: Portrait of a Dog'
+    description: Brian leaves home after his refusal to perform during a dog show prompts a rift with Peter, who later sees Brian whisked away to the pound, where he's marked for death.
+    released: 1999-05-16
+    length: 30m

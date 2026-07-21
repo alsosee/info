@@ -1,0 +1,69 @@
+name: Futurama
+description: >
+  In the first season, Futurama introduces its ensemble and the animated world that frames the series' recurring comic conflicts.
+released: 1999-03-28
+rating: TV-14
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: FOX
+imdb: https://www.imdb.com/title/tt0149460/episodes?season=1
+hulu: https://www.hulu.com/series/futurama-85bf4cc1-cd8b-4469-ad87-7289217a0b74
+creators:
+  - Matt Groening
+  - David X. Cohen
+characters:
+  - name: Philip J. Fry
+    voice: Billy West
+  - name: Turanga Leela
+    voice: Katey Sagal
+  - name: Bender Bending Rodriguez
+    voice: John DiMaggio
+  - name: Professor Farnsworth
+    voice: Billy West
+  - name: Amy Wong
+    voice: Lauren Tom
+  - name: Hermes Conrad
+    voice: Phil LaMarr
+  - name: Dr. Zoidberg
+    voice: Billy West
+  - name: Zapp Brannigan
+    voice: Billy West
+episodes:
+  - name: Space Pilot 3000
+    description: A delivery boy frozen in the year 1999 awakens in the year 3000. Phillip J. Fry delivers a pizza to a Cryogenics lab on New Years eve, only to discover that it is a prank delivery and then accidentally falls into a open cryogenics chamber, is put to sleep and wakes up in the far future.
+    released: 1999-03-28
+    length: 30m
+  - name: The Series Has Landed
+    description: The crew takes a mission to an amusement park on the moon.
+    released: 1999-04-04
+    length: 30m
+  - name: I, Roommate
+    description: Bender offers to let Fry move in with him when Fry is forced to move out of the Planet Express because of his slob style of living.
+    released: 1999-04-06
+    length: 30m
+  - name: Love's Labors Lost in Space
+    description: The crew encounters infamous space captain Zapp Brannigan.
+    released: 1999-04-13
+    length: 30m
+  - name: Fear of a Bot Planet
+    description: The crew makes a delivery to a planet of human-hating robots.
+    released: 1999-04-20
+    length: 30m
+  - name: A Fishful of Dollars
+    description: Fry becomes a billionaire and buys the world's last can of anchovies.
+    released: 1999-04-27
+    length: 30m
+  - name: My Three Suns
+    description: Fry accidentally swallows another planet's emperor and gains his title.
+    released: 1999-05-04
+    length: 30m
+  - name: A Big Piece of Garbage
+    description: A giant garbage ball from space threatens to destroy New New York.
+    released: 1999-05-11
+    length: 30m
+  - name: Hell Is Other Robots
+    description: Bender is sent to Robot Hell for all of his sins.
+    released: 1999-05-18
+    length: 30m

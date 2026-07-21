@@ -1,0 +1,66 @@
+name: Rick and Morty, Season 9
+description: >
+  In season 9, Rick and Morty continues with episodes beginning with "There's Something About Morty".
+previous: Shows/2025/Rick and Morty, Season 8
+released: 2026-05-24
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Adult Swim
+imdb: https://www.imdb.com/title/tt2861424/episodes?season=9
+adult_swim: http://www.adultswim.com/videos/rick-and-morty
+creators:
+  - Justin Roiland
+  - Dan Harmon
+characters:
+  - name: Rick Sanchez
+    voice: Ian Cardoni
+  - name: Morty Smith
+    voice: Harry Belden
+  - name: Summer Smith
+    voice: Spencer Grammer
+  - name: Beth Smith
+    voice: Sarah Chalke
+  - name: Jerry Smith
+    voice: Chris Parnell
+  - name: Mr. Meeseeks
+    voice: Justin Roiland
+episodes:
+  - name: There's Something About Morty
+    description: Rick's been lonely, broh. Morty's worried bout side pieces.
+    released: 2026-05-24
+    length: 30m
+  - name: Ricks Days, Seven Nights
+    description: You try being Rick all the time, broh.
+    released: 2026-05-31
+    length: 30m
+  - name: Rick Fu Hustle
+    description: You haven't lived till you've chested up at Trader Joe's, broh.
+    released: 2026-06-07
+    length: 30m
+  - name: A Ricker Runs Through It
+    description: Remembering passwords is hard, broh. Special characters, broh.
+    released: 2026-06-14
+    length: 30m
+  - name: Jer Bud
+    description: Man's best friend, broh.
+    released: 2026-06-21
+    length: 30m
+  - name: Erickerhead
+    description: Rick's stomach is mad, broh. But it's all-you-can-eat-and-drink here, broh!
+    released: 2026-06-28
+    length: 30m
+  - name: 'Mortgully: The Last Rickforest'
+    description: Rick and Morty gotta evolve, broh.
+    released: 2026-07-05
+    length: 30m
+  - name: Rickuiem Mort a Dream
+    description: Hold still, broh. It'll make you nice, broh.
+    released: 2026-07-12
+    length: 30m
+  - name: Salute Your Morts
+    description: Morty and Summer go to camp, broh. Beth and Jerry home alone, broh.
+    released: 2026-07-19
+    length: 30m

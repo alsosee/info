@@ -1,0 +1,70 @@
+name: Rick and Morty, Season 6
+description: >
+  In season 6, Rick and Morty continues with episodes beginning with "Solaricks".
+previous: Shows/2021/Rick and Morty, Season 5
+released: 2022-09-04
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Adult Swim
+imdb: https://www.imdb.com/title/tt2861424/episodes?season=6
+adult_swim: http://www.adultswim.com/videos/rick-and-morty
+creators:
+  - Justin Roiland
+  - Dan Harmon
+characters:
+  - name: Rick Sanchez
+    voice: Ian Cardoni
+  - name: Morty Smith
+    voice: Harry Belden
+  - name: Summer Smith
+    voice: Spencer Grammer
+  - name: Beth Smith
+    voice: Sarah Chalke
+  - name: Jerry Smith
+    voice: Chris Parnell
+  - name: Mr. Meeseeks
+    voice: Justin Roiland
+episodes:
+  - name: Solaricks
+    description: They're back, baby! The Smiths deal with last season's fallout, and Rick and Morty are stranded in space floating in the remnants of the citadel.
+    released: 2022-09-04
+    length: 30m
+  - name: 'Rick: A Mort Well Lived'
+    description: Morty is trapped and Rick needs to save him, but to do so, Summer must do a Die Hard. This won't be easy because she's never seen it.
+    released: 2022-09-11
+    length: 30m
+  - name: Bethic Twinstinct
+    description: The Smiths celebrate one of their favourite holidays while Summer and Morty lock into their new ultra-realistic video game console.
+    released: 2022-09-18
+    length: 30m
+  - name: Night Family
+    description: The family discover Rick has been using some new technology that they want to try too. After obliging, classic Rick and Morty chaos ensues.
+    released: 2022-09-25
+    length: 30m
+  - name: Final DeSmithation
+    description: The Smiths dine at their favourite Chinese restaurant and read their fortune cookies aloud. Pretty normal stuff, until Jerry reads his.
+    released: 2022-10-02
+    length: 30m
+  - name: JuRicksic Mort
+    description: Seemingly out of the blue, Earth's old rulers return. They make a great case for changing the way society does business, but Rick isn't going to put up with it.
+    released: 2022-10-09
+    length: 30m
+  - name: Full Meta Jackrick
+    description: Rick and Morty remember some of their old adventures together, which leads them to a stand-off with an old enemy.
+    released: 2022-11-20
+    length: 30m
+  - name: Analyze Piss
+    description: Tired of being attacked by goofball supervillains, Rick decides to seek advice about why he's always a target, leading to a breakthrough - for Jerry.
+    released: 2022-11-27
+    length: 30m
+  - name: A Rick in King Mortur's Mort
+    description: Morty starts a war on worlds after debunking the entire existence of the Knights of the Sun and is forced to take extreme measures in order to put an end to it all.
+    released: 2022-12-04
+    length: 30m
+  - name: Ricktional Mortpoon's Rickmas Mortcation
+    description: What starts as a merry Christmas in the Smith household takes an ugly turn when Morty uncovers a betrayal thanks to a gift from a galaxy far, far away.
+    released: 2022-12-11
+    length: 30m

@@ -1,0 +1,70 @@
+name: Rick and Morty, Season 2
+description: >
+  In season 2, Rick and Morty continues with episodes beginning with "A Rickle in Time".
+previous: Shows/2013/Rick and Morty
+released: 2015-07-26
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Adult Swim
+imdb: https://www.imdb.com/title/tt2861424/episodes?season=2
+adult_swim: http://www.adultswim.com/videos/rick-and-morty
+creators:
+  - Justin Roiland
+  - Dan Harmon
+characters:
+  - name: Rick Sanchez
+    voice: Ian Cardoni
+  - name: Morty Smith
+    voice: Harry Belden
+  - name: Summer Smith
+    voice: Spencer Grammer
+  - name: Beth Smith
+    voice: Sarah Chalke
+  - name: Jerry Smith
+    voice: Chris Parnell
+  - name: Mr. Meeseeks
+    voice: Justin Roiland
+episodes:
+  - name: A Rickle in Time
+    description: Rick unfreezes time, but since he, Morty and Summer have been living for so long on frozen time, a parallel dimension develops.
+    released: 2015-07-26
+    length: 30m
+  - name: Mortynight Run
+    description: Morty tries to save a life.
+    released: 2015-08-02
+    length: 30m
+  - name: Auto Erotic Assimilation
+    description: Rick becomes emotional; Beth and Jerry are hard on each other.
+    released: 2015-08-09
+    length: 30m
+  - name: Total Rickall
+    description: Meeting new friends; Morty goes ballistic.
+    released: 2015-08-16
+    length: 30m
+  - name: Get Schwifty
+    description: Rick and Morty must step up and save things; a new religion starts up.
+    released: 2015-08-23
+    length: 30m
+  - name: The Ricks Must Be Crazy
+    description: Rick forgets to check his oil, and must repair his car.
+    released: 2015-08-30
+    length: 30m
+  - name: Big Trouble in Little Sanchez
+    description: Rick joins in on hijinks, Beth and Jerry sort out relationship issues.
+    released: 2015-09-13
+    length: 30m
+  - name: 'Interdimensional Cable 2: Tempting Fate'
+    description: Jerry gets sick and Rick sparks up the TV.
+    released: 2015-09-20
+    length: 30m
+  - name: Look Who's Purging Now
+    description: Rick and Morty land on a planet where all the citizens are allowed to commit crimes -- including murder -- without punishment for one night.
+    released: 2015-09-27
+    length: 30m
+  - name: The Wedding Squanchers
+    description: When Jerry accidentally gets transported to the planet hosting Birdperson and Tammy's wedding, the whole family attends the ill-fated ceremony.
+    released: 2015-10-04
+    length: 30m

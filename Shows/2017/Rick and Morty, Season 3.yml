@@ -1,0 +1,70 @@
+name: Rick and Morty, Season 3
+description: >
+  In season 3, Rick and Morty continues with episodes beginning with "The Rickshank Rickdemption".
+previous: Shows/2015/Rick and Morty, Season 2
+released: 2017-04-01
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Adult Swim
+imdb: https://www.imdb.com/title/tt2861424/episodes?season=3
+adult_swim: http://www.adultswim.com/videos/rick-and-morty
+creators:
+  - Justin Roiland
+  - Dan Harmon
+characters:
+  - name: Rick Sanchez
+    voice: Ian Cardoni
+  - name: Morty Smith
+    voice: Harry Belden
+  - name: Summer Smith
+    voice: Spencer Grammer
+  - name: Beth Smith
+    voice: Sarah Chalke
+  - name: Jerry Smith
+    voice: Chris Parnell
+  - name: Mr. Meeseeks
+    voice: Justin Roiland
+episodes:
+  - name: The Rickshank Rickdemption
+    description: Rick, still in galactic prison, puts an intricate escape plan into action. Back on Earth, which is now under federation control, Morty and Summer have an argument about their grandpa.
+    released: 2017-04-01
+    length: 30m
+  - name: Rickmancing the Stone
+    description: With the kids dealing with their parents' divorce, Rick takes them to a Mad Max-style universe where he tries to steal a green crystal from a group of scavengers.
+    released: 2017-07-30
+    length: 30m
+  - name: Pickle Rick
+    description: Rick turns himself into a pickle while the rest of the family goes to therapy. Now Rick has to figure out how to stop being a pickle.
+    released: 2017-08-06
+    length: 24m
+  - name: 'Vindicators 3: The Return of Worldender'
+    description: While ostensibly helping a group of superheroes called the Vindicators, Rick instead drunkenly sets up a "Saw"-like scenario for them to navigate.
+    released: 2017-08-13
+    length: 30m
+  - name: The Whirly Dirly Conspiracy
+    description: Rick takes Jerry on a sympathy adventure to a resort where everyone is immortal when there, and Jerry meets some old acquaintances of Rick's who want payback.
+    released: 2017-08-20
+    length: 30m
+  - name: Rest and Ricklaxation
+    description: After another exhausting adventure, Rick and Morty decide they need a vacation. But things go a little haywire when they try a special detox machine.
+    released: 2017-08-27
+    length: 30m
+  - name: The Ricklantis Mixup
+    description: Rick and Morty encounter a visiting Rick and Morty from the Citadel of Ricks before heading off on an amazing adventure to Atlantis.
+    released: 2017-09-10
+    length: 30m
+  - name: Morty's Mind Blowers
+    description: Rick shows Morty a room filled with memories Morty begged him to remove from his mind, and things go off the rails when Rick starts restoring them.
+    released: 2017-09-17
+    length: 30m
+  - name: The ABC's of Beth
+    description: Rick and Beth sort out issues from her childhood by visiting a world called Froopyland. Morty and Summer are a little wary of Jerry's new girlfriend.
+    released: 2017-09-24
+    length: 30m
+  - name: The Rickchurian Mortydate
+    description: The president needs help from Rick and Morty, prompting a bit of a confrontation. Beth begins to suspect that she may be a clone.
+    released: 2017-10-01
+    length: 30m

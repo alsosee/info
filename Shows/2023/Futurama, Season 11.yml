@@ -1,0 +1,74 @@
+name: Futurama, Season 11
+description: >
+  In season 11, Futurama continues with episodes beginning with "The Impossible Stream".
+previous: Shows/2012/Futurama, Season 7
+released: 2023-07-24
+rating: TV-14
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Hulu
+imdb: https://www.imdb.com/title/tt0149460/episodes?season=11
+hulu: https://www.hulu.com/series/futurama-85bf4cc1-cd8b-4469-ad87-7289217a0b74
+creators:
+  - Matt Groening
+  - David X. Cohen
+characters:
+  - name: Philip J. Fry
+    voice: Billy West
+  - name: Turanga Leela
+    voice: Katey Sagal
+  - name: Bender Bending Rodriguez
+    voice: John DiMaggio
+  - name: Professor Farnsworth
+    voice: Billy West
+  - name: Amy Wong
+    voice: Lauren Tom
+  - name: Hermes Conrad
+    voice: Phil LaMarr
+  - name: Dr. Zoidberg
+    voice: Billy West
+  - name: Zapp Brannigan
+    voice: Billy West
+episodes:
+  - name: The Impossible Stream
+    description: Fry risks permanent insanity when he attempts to binge-watch every TV show ever made.
+    released: 2023-07-24
+    length: 26m
+  - name: Children of a Lesser Bog
+    description: Amy and Kif's children emerge from an alien swamp.
+    released: 2023-07-31
+    length: 25m
+  - name: How the West Was 1010001
+    description: Bender and the crew head west to join the bitcoin mining rush.
+    released: 2023-08-07
+    length: 24m
+  - name: Parasites Regained
+    description: After Nibbler falls ill, the crew shrinks down for a dangerous mission into a desert world contained within his litter box.
+    released: 2023-08-14
+    length: 25m
+  - name: Related to Items You've Viewed
+    description: Bender uncovers the mysteries of the vast Momazon corporation.
+    released: 2023-08-21
+    length: 24m
+  - name: I Know What You Did Next Xmas
+    description: Bender and Zoidberg travel through time to attack Robot Santa.
+    released: 2023-08-28
+    length: 25m
+  - name: Rage Against the Vaccine
+    description: The Planet Express crew contends with the EXPLOVID-23 pandemic, and it ultimately may be up to Hermes to set things right.
+    released: 2023-09-04
+    length: 24m
+  - name: Zapp Gets Canceled
+    description: When Zapp Brannigan is canceled for crude behavior, Leela takes over as captain of the Nimbus on a critical mission.
+    released: 2023-09-11
+    length: 24m
+  - name: The Prince and the Product
+    description: The crew members are reborn as toys.
+    released: 2023-09-18
+    length: 25m
+  - name: All the Way Down
+    description: The crew investigates whether the universe is a simulation.
+    released: 2023-09-25
+    length: 23m

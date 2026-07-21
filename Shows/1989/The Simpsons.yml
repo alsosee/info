@@ -1,0 +1,87 @@
+name: The Simpsons
+description: >
+  In the first season, The Simpsons introduces its ensemble and the animated world that frames the series' recurring comic conflicts.
+released: 1989-12-17
+rating: TV-PG
+genres:
+  - animation
+  - comedy
+  - satire
+network: FOX
+imdb: https://www.imdb.com/title/tt0096697/episodes?season=1
+website: http://www.fox.com/the-simpsons
+creators: Matt Groening
+characters:
+  - name: Homer Simpson
+    voice: Dan Castellaneta
+  - name: Marge Simpson
+    voice: Julie Kavner
+  - name: Bart Simpson
+    voice: Nancy Cartwright
+  - name: Lisa Simpson
+    voice: Yeardley Smith
+  - name: Maggie Simpson
+    voice: Nancy Cartwright
+  - name: Grampa Simpson
+    voice: Dan Castellaneta
+  - name: Ned Flanders
+    voice: Harry Shearer
+  - name: Mr. Burns
+    voice: Harry Shearer
+  - name: Moe Szyslak
+    voice: Hank Azaria
+  - name: Krusty the Clown
+    voice: Dan Castellaneta
+episodes:
+  - name: Simpsons Roasting on an Open Fire
+    description: Homer's Christmas bonus is canceled and the rainy-day funds are needed to pay for Bart's tattoo removal in the first full-length episode of the subversive animated satire about Springfield's hapless first family.
+    released: 1989-12-17
+    length: 30m
+  - name: Bart the Genius
+    description: Bart is moved to a school for the gifted after he switches aptitude tests with another boy.
+    released: 1990-01-14
+    length: 30m
+  - name: Homer's Odyssey
+    description: After being fired from the nuclear power plant for negligence, Homer becomes a safety activist.
+    released: 1990-01-21
+    length: 30m
+  - name: There's No Disgrace Like Home
+    description: After seeing families being nice to each other at a company picnic, Homer orders the Simpsons to a family therapist.
+    released: 1990-01-28
+    length: 30m
+  - name: Bart the General
+    description: Terrorized by the school bully, Bart seeks counsel from Grandpa Simpson, who takes him to a warfare expert for basic training.
+    released: 1990-02-04
+    length: 30m
+  - name: Moaning Lisa
+    description: The meaning of life and second grade have Lisa playing the blues solo---until she jams with a kindred spirit; Homer seeks tutelage to beat Bart at video boxing.
+    released: 1990-02-11
+    length: 30m
+  - name: The Call of the Simpsons
+    description: The Simpsons put the wild back in the wilderness when their RV goes over a cliff and Homer and Bart go for help, get lost and lose their clothes.
+    released: 1990-02-18
+    length: 30m
+  - name: The Telltale Head
+    description: Bart pulls a stunt that shocks the entire town, including the new friends he was trying to impress.
+    released: 1990-02-25
+    length: 30m
+  - name: Life on the Fast Lane
+    description: Homer's bowling-ball gift "for Marge" prompts her to take up the sport---and maybe also a handsome instructor who offers to teach her "many things."
+    released: 1990-03-18
+    length: 30m
+  - name: Homer's Night Out
+    description: Shutterbug Bart captures Homer with a sexy entertainer at a bachelor party.
+    released: 1990-03-25
+    length: 30m
+  - name: The Crepes of Wrath
+    description: A little story about how Bart saves France after blowing up Principal Skinner's mom with a cherry bomb. A Albanian child comes to stay with the Simpsons in his place and becomes Homers tag along buddy.
+    released: 1990-04-15
+    length: 30m
+  - name: Krusty Gets Busted
+    description: Bart's TV hero Krusty the Clown is arrested for a convenience-store robbery, and witness Homer must testify against the clown.
+    released: 1990-04-29
+    length: 30m
+  - name: Some Enchanted Evening
+    description: Homer takes Marge out for a romantic night, leaving the kids with a sitter---who's profiled on "America's Most Armed and Dangerous."
+    released: 1990-05-13
+    length: 30m

@@ -1,0 +1,124 @@
+name: The Simpsons, Season 5
+description: >
+  In season 5, The Simpsons continues with episodes beginning with "Homer's Barbershop Quartet".
+previous: Shows/1992/The Simpsons, Season 4
+released: 1993-09-30
+rating: TV-PG
+genres:
+  - animation
+  - comedy
+  - satire
+network: FOX
+imdb: https://www.imdb.com/title/tt0096697/episodes?season=5
+website: http://www.fox.com/the-simpsons
+creators: Matt Groening
+characters:
+  - name: Homer Simpson
+    voice: Dan Castellaneta
+  - name: Marge Simpson
+    voice: Julie Kavner
+  - name: Bart Simpson
+    voice: Nancy Cartwright
+  - name: Lisa Simpson
+    voice: Yeardley Smith
+  - name: Maggie Simpson
+    voice: Nancy Cartwright
+  - name: Grampa Simpson
+    voice: Dan Castellaneta
+  - name: Ned Flanders
+    voice: Harry Shearer
+  - name: Mr. Burns
+    voice: Harry Shearer
+  - name: Moe Szyslak
+    voice: Hank Azaria
+  - name: Krusty the Clown
+    voice: Dan Castellaneta
+episodes:
+  - name: Homer's Barbershop Quartet
+    description: 'Homer recalls when he, Apu, Barney and Principal Skinner became recording icons---after Barney replaced Chief Wiggum, on the advice of their manager. Blackboard: ''I will never win an emmy''.'
+    released: 1993-09-30
+    length: 30m
+  - name: Cape Feare
+    description: 'The Simpsons go incognito to avoid the newly paroled Sideshow Bob, who''s out to get Bart. Blackboard: ''The cafeteria deep fryer is not a toy''.'
+    released: 1993-10-07
+    length: 30m
+  - name: Homer Goes to College
+    description: Homer takes Nuclear Physics 101 at the local college, where he gets a trio of nerdy tutors expelled for extracurricular activities.
+    released: 1993-10-14
+    length: 30m
+  - name: Rosebud
+    description: Burns longs for a childhood toy that winds up in the grip of Maggie.
+    released: 1993-10-21
+    length: 30m
+  - name: Treehouse of Horror IV
+    description: Homer sells his soul; Vampire Burns invites the Simpsons for dinner; Bart sees a gremlin damaging his school bus.
+    released: 1993-10-28
+    length: 30m
+  - name: Marge on the Lam
+    description: Marge's wild night out with neighbor Ruth (Pamela Reed) includes running from the police in Ruth's car, stolen from her ex.
+    released: 1993-11-04
+    length: 30m
+  - name: Bart's Inner Child
+    description: Springfield emulates Bart after he's praised by a self-help guru. James Brown has a cameo at Springfield's Do What You Want festival.
+    released: 1993-11-11
+    length: 30m
+  - name: Boy-Scoutz 'n the Hood
+    description: Bart joins the Junior Campers, which isn't all bad until he goes on a rafting trip that includes Flanders and "celebrity dad" Ernest Borgnine.
+    released: 1993-11-18
+    length: 30m
+  - name: The Last Temptation of Homer
+    description: 'Homer is attracted to a pretty power-plant worker (voice of Michelle Pfeiffer), and Werner Klemperer speaks for the guardian angel who helps Homer fight temptation. Blackboard: ''All work and no play makes Bart a dull boy.''.'
+    released: 1993-12-09
+    length: 30m
+  - name: $pringfield (or, How I Learned to Stop Worrying and Love Legalized Gambling)
+    description: 'Legalized gambling comes to Springfield, and Marge becomes addicted; Robert Goulet entertains at Bart''s casino for kids. Blackboard: ''I will not say "Springfield" just to get applause''.'
+    released: 1993-12-16
+    length: 30m
+  - name: Homer the Vigilante
+    description: 'Homer leads a vigilante group to catch the Springfield Cat Burglar (voice of Sam Neill), who then robs the museum. Blackboard: ''I am not authorized to fire substitute teachers''.'
+    released: 1994-01-06
+    length: 30m
+  - name: Bart Gets Famous
+    description: 'When an on-air remark catapults Bart to instant stardom, he finds that fame isn''t all it''s cracked up to be. Blackboard: ''My homework was not stolen by a one-armed man''.'
+    released: 1994-02-03
+    length: 30m
+  - name: Homer and Apu
+    description: 'Homer accompanies Apu to the Kwik-E-Mart home office---in India---after Apu is fired. Blackboard: ''I will not go near the kindergarten turtle''.'
+    released: 1994-02-10
+    length: 30m
+  - name: Lisa vs. Malibu Stacy
+    description: Lisa's outrage over the gender stereotypes reinforced by a new talking doll prompts her to confront the dollmaker (Kathleen Turner).
+    released: 1994-02-17
+    length: 30m
+  - name: Deep Space Homer
+    description: Homer and Barney compete to be the first "average" American in space.
+    released: 1994-02-24
+    length: 30m
+  - name: Homer Loves Flanders
+    description: 'Flanders'' extra ticket to the big game makes him Homer''s new best friend, a role that sorely tests Flanders'' patience. Blackboard: ''I am not delightfully saucy''.'
+    released: 1994-03-17
+    length: 30m
+  - name: Bart Gets an Elephant
+    description: 'Bart wins an elephant, but Homer won''t let him keep it. Blackboard: ''Organ transplants are best left to the professionals''.'
+    released: 1994-03-31
+    length: 30m
+  - name: Burns' Heir
+    description: 'Bart is picked to be Burns'' heir and moves into the Burns mansion, prompting Homer and Marge to hire a deprogrammer to get him back. Blackboard: ''The pledge of Allegiance does not end with hail satan''.'
+    released: 1994-04-14
+    length: 30m
+  - name: Sweet Seymour Skinner's Baadasssss Song
+    description: 'Bart takes his dog to school, which gets Skinner fired, which in turn leaves Bart missing his archnemesis. Blackboard: ''I will not celebrate meaningless milestones''.'
+    released: 1994-04-28
+    length: 30m
+  - name: The Boy Who Knew Too Much
+    description: 'Bart can clear Mayor Quimby''s nephew of a charge of battery, but only by implicating himself as a hooky player. Blackboard: ''There are plenty of businesses like show business''.'
+    released: 1994-05-05
+    length: 30m
+  - name: Lady Bouvier's Lover
+    description: Grandpa Simpson falls for Marge's mother, but loses out to a competitor; Bart gets ripped off shopping at home with Homer's credit card.
+    released: 1994-05-12
+    length: 30m
+  - name: Secrets of a Successful Marriage
+    description: 'Homer teaches a class on "Secrets of a Successful Marriage," but sharing secrets about his own union gets him kicked out of the house. Blackboard: ''Five days is not too long to wait for a gun''.'
+    released: 1994-05-19
+    length: 30m

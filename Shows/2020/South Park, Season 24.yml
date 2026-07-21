@@ -1,0 +1,42 @@
+name: South Park, Season 24
+description: >
+  In season 24, South Park continues with episodes beginning with "The Pandemic Special".
+previous: Shows/2019/South Park, Season 23
+released: 2020-09-30
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - satire
+network: Comedy Central
+imdb: https://www.imdb.com/title/tt0121955/episodes?season=24
+website: https://www.cc.com/shows/south-park
+creators:
+  - Trey Parker
+  - Matt Stone
+characters:
+  - name: Stan Marsh
+    voice: Trey Parker
+  - name: Kyle Broflovski
+    voice: Matt Stone
+  - name: Eric Cartman
+    voice: Trey Parker
+  - name: Kenny McCormick
+    voice: Matt Stone
+  - name: Butters Stotch
+    voice: Matt Stone
+  - name: Randy Marsh
+    voice: Trey Parker
+episodes:
+  - name: The Pandemic Special
+    description: Randy faces his role in the COVID-19 outbreak while the kids return to a changed South Park Elementary.
+    released: 2020-09-30
+    length: 47m
+    writers:
+      - Trey Parker
+  - name: South ParQ Vaccination Special
+    description: South Park residents scramble for COVID-19 vaccines while a militant group interferes with the boys and their teacher.
+    released: 2021-03-10
+    length: 47m
+    writers:
+      - Trey Parker

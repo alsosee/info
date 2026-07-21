@@ -1,0 +1,124 @@
+name: The Simpsons, Season 4
+description: >
+  In season 4, The Simpsons continues with episodes beginning with "Kamp Krusty".
+previous: Shows/1991/The Simpsons, Season 3
+released: 1992-09-24
+rating: TV-PG
+genres:
+  - animation
+  - comedy
+  - satire
+network: FOX
+imdb: https://www.imdb.com/title/tt0096697/episodes?season=4
+website: http://www.fox.com/the-simpsons
+creators: Matt Groening
+characters:
+  - name: Homer Simpson
+    voice: Dan Castellaneta
+  - name: Marge Simpson
+    voice: Julie Kavner
+  - name: Bart Simpson
+    voice: Nancy Cartwright
+  - name: Lisa Simpson
+    voice: Yeardley Smith
+  - name: Maggie Simpson
+    voice: Nancy Cartwright
+  - name: Grampa Simpson
+    voice: Dan Castellaneta
+  - name: Ned Flanders
+    voice: Harry Shearer
+  - name: Mr. Burns
+    voice: Harry Shearer
+  - name: Moe Szyslak
+    voice: Hank Azaria
+  - name: Krusty the Clown
+    voice: Dan Castellaneta
+episodes:
+  - name: Kamp Krusty
+    description: Bart leads an uprising at Krusty's summer camp after he and Lisa are subjected to a Dickensian sweatshop.
+    released: 1992-09-24
+    length: 30m
+  - name: A Streetcar Named Marge
+    description: Marge is cast in a version of "A Streetcar Named Desire," playing Blanche to Ned Flanders' Stanley.
+    released: 1992-10-01
+    length: 30m
+  - name: Homer the Heretic
+    description: Homer decides to skip church permanently, and God gives His OK in Homer's dream.
+    released: 1992-10-08
+    length: 30m
+  - name: Lisa the Beauty Queen
+    description: Lisa meets Bob Hope when she becomes Little Miss Springfield, a title she inherits after the winner's struck by lightning.
+    released: 1992-10-15
+    length: 30m
+  - name: Treehouse of Horror III
+    description: A Halloween trilogy includes a murderous Krusty doll; a "King Kong" parody; an invasion of zombies unleashed by Bart's incantation.
+    released: 1992-10-29
+    length: 30m
+  - name: 'Itchy & Scratchy: The Movie'
+    description: Bart is punished by being barred from the Itchy and Scratchy movie.
+    released: 1992-11-03
+    length: 30m
+  - name: Marge Gets a Job
+    description: Burns tries to please a new employee---Marge---with singer Tom Jones. Meanwhile, Bart cries "wolf" too often.
+    released: 1992-11-05
+    length: 30m
+  - name: The New Kid on the Block
+    description: A new neighbor captures---and breaks---Bart's heart; Homer sues after a restaurant denies him "all you can eat."
+    released: 1992-11-12
+    length: 30m
+  - name: Mr. Plow
+    description: Homer and Barney become competitors in the snow-plowing business.
+    released: 1992-11-19
+    length: 30m
+  - name: Lisa's First Word
+    description: Maggie speaks, but not before the story of Lisa's first word is recalled, as well as how the 1984 Soviet Olympic boycott hurt Krusty.
+    released: 1992-12-03
+    length: 30m
+  - name: Homer's Triple Bypass
+    description: The stresses of life and his eating habits catch up and Homer sees a discount doctor for a coronary bypass.
+    released: 1992-12-17
+    length: 30m
+  - name: Marge vs. the Monorail
+    description: Leonard Nimoy is among the first to ride Springfield's new monorail, opposed by Marge.
+    released: 1993-01-14
+    length: 30m
+  - name: Selma's Choice
+    description: A relative passes away and the Simpson clan goes to the Funeral. After Selma receives a videotaped warning about dying alone, she wants a baby.
+    released: 1993-01-21
+    length: 30m
+  - name: Brother from the Same Planet
+    description: Homer's neglect sends Bart looking for a new father; Lisa battles addiction to a "Springfield Heights, 90210" star.
+    released: 1993-02-04
+    length: 30m
+  - name: I Love Lisa
+    description: Chief Wiggum's son has a crush on Lisa after she gives him a Valentine out of pity.
+    released: 1993-02-11
+    length: 30m
+  - name: Duffless
+    description: Homer goes on the wagon after a drunken-driving arrest; Lisa's science project pits Bart's brain against a hamster's.
+    released: 1993-02-18
+    length: 30m
+  - name: Last Exit to Springfield
+    description: Union president Homer fights to keep the dental plan.
+    released: 1993-03-11
+    length: 30m
+  - name: 'So It''s Come to This: A Simpsons Clip Show'
+    description: Bart's prank hospitalizes Homer, whose life flashes by (in past clips) before he goes into a coma.
+    released: 1993-04-01
+    length: 30m
+  - name: The Front
+    description: Lisa and Bart write an Itchy and Scratchy episode; Homer makes up a missing high-school credit.
+    released: 1993-04-15
+    length: 30m
+  - name: Whacking Day
+    description: Barry White helps Lisa's effort to save snakes from Whacking Day. And, Bart is expelled from Springfield Elementary.
+    released: 1993-04-29
+    length: 30m
+  - name: Marge in Chains
+    description: Lionel Hutz represents Marge after Apu catches her accidentally taking an item from his store.
+    released: 1993-05-06
+    length: 30m
+  - name: Krusty Gets Kancelled
+    description: Johnny Carson, Bette Midler, Luke Perry, Hugh Hefner and the Red Hot Chili Peppers help Krusty when his show is canceled after a new star causes his ratings to plummet.
+    released: 1993-05-13
+    length: 30m

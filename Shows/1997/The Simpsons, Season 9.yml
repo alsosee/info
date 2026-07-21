@@ -1,0 +1,136 @@
+name: The Simpsons, Season 9
+description: >
+  In season 9, The Simpsons continues with episodes beginning with "The City of New York vs. Homer Simpson".
+previous: Shows/1996/The Simpsons, Season 8
+released: 1997-09-21
+rating: TV-PG
+genres:
+  - animation
+  - comedy
+  - satire
+network: FOX
+imdb: https://www.imdb.com/title/tt0096697/episodes?season=9
+website: http://www.fox.com/the-simpsons
+creators: Matt Groening
+characters:
+  - name: Homer Simpson
+    voice: Dan Castellaneta
+  - name: Marge Simpson
+    voice: Julie Kavner
+  - name: Bart Simpson
+    voice: Nancy Cartwright
+  - name: Lisa Simpson
+    voice: Yeardley Smith
+  - name: Maggie Simpson
+    voice: Nancy Cartwright
+  - name: Grampa Simpson
+    voice: Dan Castellaneta
+  - name: Ned Flanders
+    voice: Harry Shearer
+  - name: Mr. Burns
+    voice: Harry Shearer
+  - name: Moe Szyslak
+    voice: Hank Azaria
+  - name: Krusty the Clown
+    voice: Dan Castellaneta
+episodes:
+  - name: The City of New York vs. Homer Simpson
+    description: Homer has to take his family to New York city for a madcap adventure after Barney goes on a bender and leaves Homer's car illegally parked at the World Trade Center.
+    released: 1997-09-21
+    length: 30m
+  - name: The Principal and the Pauper
+    description: Principal Skinner is given a achievement award and in the middle of the ceremony a man who claims to be the real Seymour Skinner shows up.
+    released: 1997-09-28
+    length: 30m
+  - name: Lisa's Sax
+    description: The story of how Lisa got her sax includes Bart's first day at school, his visit to the school psychologist and a heat wave in Springfield.
+    released: 1997-10-19
+    length: 30m
+  - name: Treehouse of Horror VIII
+    description: In a Halloween trilogy, nuclear survivor Homer battles mutants; Bart is morphed with a fly; Marge is accused of being a witch in 1649.
+    released: 1997-10-26
+    length: 30m
+  - name: The Cartridge Family
+    description: 'Homer buys a gun, but after a few mishaps, Marge demands he get rid of it. When he doesn''t, she leaves with the kids. Blackboard: ''Everyone is tired of that Richard Gere story''.'
+    released: 1997-11-02
+    length: 30m
+  - name: Bart Star
+    description: Homer heckles Flanders out of coaching Pee Wee football---and then takes over, replacing winning QB Nelson with Bart.
+    released: 1997-11-09
+    length: 30m
+  - name: The Two Mrs. Nahasapeemapetilons
+    description: Apu tries to wriggle out of a marriage prearranged by his mother years in the past to a woman that he does not remember.
+    released: 1997-11-16
+    length: 30m
+  - name: Lisa the Skeptic
+    description: While digging at a construction site, Lisa finds bones that everyone thinks are the bones of a angel.
+    released: 1997-11-23
+    length: 30m
+  - name: Realty Bites
+    description: Marge gets a realtor's license and goes to work---for Lionel Hutz, who finds her honesty a dubious asset. Meanwhile, Homer buys a hot rod at a police auction, but the incarcerated former owner protests. Blackboard "There was no Roman God named 'Fartacus' ".
+    released: 1997-12-07
+    length: 30m
+  - name: Miracle on Evergreen Terrace
+    description: 'After accidentally destroying the Simpsons'' Christmas gifts, Bart claims a burglar stole them, and Springfield responds generously to that false news. Blackboard: ''Rudolph''s red nose is not alcohol-related''.'
+    released: 1997-12-21
+    length: 30m
+  - name: All Singing, All Dancing
+    description: Homer rents Paint Your Wagon with Lee Marvin and Clint Eastwood expecting a Shoot 'Em up western. He is so disappointed about it that Marge and Lisa have to try and cheer him up.
+    released: 1998-01-04
+    length: 30m
+  - name: Bart Carny
+    description: Homer and Bart become carnival workers, and take in two fellow carnies whose crooked game is closed by Chief Wiggum.
+    released: 1998-01-11
+    length: 30m
+  - name: The Joy of Sect
+    description: 'Homer is talked into joining a cult at the airport. The cult promises to take people to another planet. Marge has to work hard to get through the brainwashing. Blackboard: ''Shooting paintballs is not an art form''.'
+    released: 1998-02-08
+    length: 30m
+  - name: Das Bus
+    description: A bus accident strands Bart, Lisa and their classmates on an island; Homer starts a business on the Internet.
+    released: 1998-02-15
+    length: 30m
+  - name: The Last Temptation of Krusty
+    description: Krusty makes a fool of himself at the Springfield Comedy Festival and decides to retire. Once at the retirement ceremony he discovers how to make people laugh.
+    released: 1998-02-22
+    length: 30m
+  - name: Dumbbell Indemnity
+    description: 'Moe finally finds a woman to date, then has Homer help him with a insurance scam to get more money to spend on her. Blackboard: ''Silly string is not a nasal spray''.'
+    released: 1998-03-01
+    length: 30m
+  - name: Lisa the Simpson
+    description: Grandpa says "Simpson genes" are behind Lisa's sudden lack of brain power; Jasper tries to live for the future in the Kwik-E-Mart freezer.
+    released: 1998-03-08
+    length: 30m
+  - name: This Little Wiggy
+    description: 'Marge orders Bart to play with Ralph Wiggum, an appalling task---until Bart gets hold of Chief Wiggum''s master key to the city. Blackboard: ''I was not told to do this''.'
+    released: 1998-03-22
+    length: 30m
+  - name: Simpson Tide
+    description: 'When Homer comes up with a not so bright idea at work involving a donut and the nuclear core, Mr. Burns fires him. He then decides to join the Naval Reserve when Lisa tells him that she would be proud of him if he did. Later a nuclear-sub captain puts naval reservist Homer in command during war games. Blackboard: "My butt does not deserve a website".'
+    released: 1998-03-29
+    length: 30m
+  - name: The Trouble with Trillions
+    description: Homer gets in trouble with the IRS for his taxes and has to get proof that Burns has money the government wants for them in return.
+    released: 1998-04-05
+    length: 30m
+  - name: Girly Edition
+    description: Lisa becomes the anchor for a kids news show when Krusty's producers try to spice up his program. Bart takes over the show when he is made co-anchor of the program.
+    released: 1998-04-19
+    length: 30m
+  - name: Trash of the Titans
+    description: Homer becomes head of the Springfield Sanitation department and makes outrageous promises that he can't keep. Homer also disrupts a U2 concert.
+    released: 1998-04-26
+    length: 30m
+  - name: King of the Hill
+    description: Homer gets in shape (no, really!) and climbs a mountain to promote the alleged health-food product that helped him achieve success.
+    released: 1998-05-03
+    length: 30m
+  - name: Lost Our Lisa
+    description: Lisa tricks Homer into giving her permission to take the bus downtown alone---then she gets lost. Blackboard; 'I am not the new Dali Lama'.
+    released: 1998-05-10
+    length: 30m
+  - name: Natural Born Kissers
+    description: 'Homer and Marge try to find ways to spice up their love life by experimenting with risky locals. Blackboard: ''I was not the inspiration for "Kramer"''.'
+    released: 1998-05-17
+    length: 30m

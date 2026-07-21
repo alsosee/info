@@ -1,0 +1,74 @@
+name: Futurama, Season 12
+description: >
+  In season 12, Futurama continues with episodes beginning with "The One Amigo".
+previous: Shows/2023/Futurama, Season 11
+released: 2024-07-29
+rating: TV-14
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Hulu
+imdb: https://www.imdb.com/title/tt0149460/episodes?season=12
+hulu: https://www.hulu.com/series/futurama-85bf4cc1-cd8b-4469-ad87-7289217a0b74
+creators:
+  - Matt Groening
+  - David X. Cohen
+characters:
+  - name: Philip J. Fry
+    voice: Billy West
+  - name: Turanga Leela
+    voice: Katey Sagal
+  - name: Bender Bending Rodriguez
+    voice: John DiMaggio
+  - name: Professor Farnsworth
+    voice: Billy West
+  - name: Amy Wong
+    voice: Lauren Tom
+  - name: Hermes Conrad
+    voice: Phil LaMarr
+  - name: Dr. Zoidberg
+    voice: Billy West
+  - name: Zapp Brannigan
+    voice: Billy West
+episodes:
+  - name: The One Amigo
+    description: After Bender sells an NFT representing the "Concept of Bender", he feels lost and returns to his ancestral village in Mexico to rediscover himself.
+    released: 2024-07-29
+    length: 25m
+  - name: Quids Game
+    description: Bizarre aliens force the crew to reenact all the classic children's games Fry played at his 8th birthday party... except this time, they are played TO THE DEATH!
+    released: 2024-08-05
+    length: 24m
+  - name: The Temp
+    description: A mysterious temp worker takes over Fry's job - as well as his entire life.
+    released: 2024-08-12
+    length: 24m
+  - name: Beauty and The Bug
+    description: Bender becomes a matador in the sport of "Bug Fighting".
+    released: 2024-08-19
+    length: 24m
+  - name: One Is Silicon and the Other Gold
+    description: Leela becomes friends with a jealous chatbot.
+    released: 2024-08-26
+    length: 24m
+  - name: Attack of the Clothes
+    description: The Professor's fast-fashion clothes are a smash hit, but an environmental disaster.
+    released: 2024-09-02
+    length: 24m
+  - name: Planet Espresso
+    description: Hermes inherits a Jamaican coffee farm that holds the ruins of an ancient spaceship.
+    released: 2024-09-09
+    length: 24m
+  - name: Cuteness Overlord
+    description: Amy sets out to collect the cutest toys in the universe - but they are not as harmless as they appear.
+    released: 2024-09-16
+    length: 24m
+  - name: The Futurama Mystery Liberry
+    description: Futurama is reimagined in the form of classic children's mystery books.
+    released: 2024-09-23
+    length: 24m
+  - name: Otherwise
+    description: When Fry proposes to Leela, he is overcome by a near-fatal attack of déjà vu.
+    released: 2024-09-30
+    length: 25m

@@ -1,0 +1,132 @@
+name: The Simpsons, Season 3
+description: >
+  In season 3, The Simpsons continues with episodes beginning with "Stark Raving Dad".
+previous: Shows/1990/The Simpsons, Season 2
+released: 1991-09-19
+rating: TV-PG
+genres:
+  - animation
+  - comedy
+  - satire
+network: FOX
+imdb: https://www.imdb.com/title/tt0096697/episodes?season=3
+website: http://www.fox.com/the-simpsons
+creators: Matt Groening
+characters:
+  - name: Homer Simpson
+    voice: Dan Castellaneta
+  - name: Marge Simpson
+    voice: Julie Kavner
+  - name: Bart Simpson
+    voice: Nancy Cartwright
+  - name: Lisa Simpson
+    voice: Yeardley Smith
+  - name: Maggie Simpson
+    voice: Nancy Cartwright
+  - name: Grampa Simpson
+    voice: Dan Castellaneta
+  - name: Ned Flanders
+    voice: Harry Shearer
+  - name: Mr. Burns
+    voice: Harry Shearer
+  - name: Moe Szyslak
+    voice: Hank Azaria
+  - name: Krusty the Clown
+    voice: Dan Castellaneta
+episodes:
+  - name: Stark Raving Dad
+    description: A deviation from his norm lands Homer in a mental institution, where he shares a room with a man who thinks he's Michael Jackson.
+    released: 1991-09-19
+    length: 30m
+  - name: Mr. Lisa Goes to Washington
+    description: Lisa's essay wins the Simpsons a trip to Washington, D.C., where her faith in democracy is shaken by her unethical Congressman.
+    released: 1991-09-26
+    length: 30m
+  - name: When Flanders Failed
+    description: Flanders suffers a failure after Homer wishes him ill.
+    released: 1991-10-03
+    length: 30m
+  - name: Bart the Murderer
+    description: While working for Fat Tony (Joe Mantegna), Bart gains enough influence with his boss to solve his problems with Principal Skinner---perhaps permanently.
+    released: 1991-10-10
+    length: 30m
+  - name: Homer Defined
+    description: Homer's averting of a nuclear meltdown earns him employee-of-the-month honors---and a call from Magic Johnson; Milhouse's parents prohibit him from playing with Bart.
+    released: 1991-10-17
+    length: 30m
+  - name: Like Father Like Clown
+    description: Bart and Lisa use theological arguments to try to reunite Krusty the Clown and his rabbi father, who disowned Krusty when he turned from rabbi to clown.
+    released: 1991-10-24
+    length: 30m
+  - name: Treehouse of Horror II
+    description: Maggie uses one of three wishes; a mind-reading Bart rules Springfield; Homer donates his brain to Mr. Burns' science project.
+    released: 1991-10-31
+    length: 30m
+  - name: Lisa's Pony
+    description: After disappointing Lisa, Homer buys her a pony, solving one problem, but creating others, requiring a second job---at Apu's Quik-e-Mart.
+    released: 1991-11-07
+    length: 30m
+  - name: Saturdays of Thunder
+    description: When Homer helps Bart build a soapbox racer, it does little for the car but a lot for their relationship. Meanwhile, Patty and Selma get a hair makeover.
+    released: 1991-11-14
+    length: 30m
+  - name: Flaming Moe's
+    description: Homer's new drink makes Moe's hot enough to draw Aerosmith, who perform "Walk This Way." Meanwhile, Lisa has invited her friends over for a slumber party which causes problems for Bart.
+    released: 1991-11-21
+    length: 30m
+  - name: Burns Verkaufen der Kraftwerk
+    description: Burns sells the power plant to a German corporation that doesn't care for Homer's approach to his work.
+    released: 1991-12-05
+    length: 30m
+  - name: I Married Marge
+    description: A trip down memory lane to the early days of Simpson wedded bliss, when Marge was with child and Homer was without a job.
+    released: 1991-12-26
+    length: 30m
+  - name: Radio Bart
+    description: Bart fools the town into thinking there's a little boy trapped in a well. Sting performs "We're Sending Our Love down the Well."
+    released: 1992-01-09
+    length: 30m
+  - name: Lisa the Greek
+    description: 'From 1992: Lisa''s ability to pick winning football teams kicks off a strong bond with Homer---which might end with the upcoming Super Bowl.'
+    released: 1992-01-23
+    length: 30m
+  - name: Homer Alone
+    description: A stressed Marge vacations alone, leaving Bart and Lisa with Patty and Selma, and Maggie with Homer---until she leaves in search of Marge.
+    released: 1992-02-06
+    length: 30m
+  - name: Bart the Lover
+    description: Bart's answer to detention from Mrs. Krabappel is to answer her personal ad with letters from a Mr. Wonderful, but his last laugh is more of a guilty whimper. Meanwhile, Homer makes a bet with Flanders that if he tries to stop swearing, Flanders will shave off his mustache.
+    released: 1992-02-13
+    length: 30m
+  - name: Homer at the Bat
+    description: Burns hires Major League ringers for the plant softball championship.
+    released: 1992-02-20
+    length: 30m
+  - name: Separate Vocations
+    description: The results from their aptitude tests cause Bart and Lisa to make 180-degree turns in their behavior.
+    released: 1992-02-27
+    length: 30m
+  - name: Dog of Death
+    description: Santa's Little Helper notices resentment after the Simpsons make sacrifices to fund his life-saving operation.
+    released: 1992-03-12
+    length: 30m
+  - name: Colonel Homer
+    description: Marge fears a cheatin' heart when a waitress-country singer asks Homer to be her manager.
+    released: 1992-03-26
+    length: 30m
+  - name: Black Widower
+    description: Bart suspects something rotten when Selma gets engaged to Sideshow Bob.
+    released: 1992-04-09
+    length: 30m
+  - name: The Otto Show
+    description: Spinal Tap hits Springfield, and Otto the bus driver hits the skids after being fired, taking refuge in the Simpsons' garage.
+    released: 1992-04-23
+    length: 30m
+  - name: Bart's Friend Falls in Love
+    description: Bart resents Milhouse's new girlfriend; Homer gets the wrong subliminal tape, which has him gaining vocabulary, not losing weight.
+    released: 1992-05-07
+    length: 30m
+  - name: Brother, Can You Spare Two Dimes?
+    description: Homer's stepbrother asks for a loan after Homer is awarded some cash, presented by Smokin' Joe Frazier.
+    released: 1992-08-27
+    length: 30m

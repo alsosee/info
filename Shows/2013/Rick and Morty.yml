@@ -1,0 +1,73 @@
+name: Rick and Morty
+description: >
+  In the first season, Rick and Morty introduces its ensemble and the animated world that frames the series' recurring comic conflicts.
+released: 2013-12-02
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - science fiction
+network: Adult Swim
+imdb: https://www.imdb.com/title/tt2861424/episodes?season=1
+adult_swim: http://www.adultswim.com/videos/rick-and-morty
+creators:
+  - Justin Roiland
+  - Dan Harmon
+characters:
+  - name: Rick Sanchez
+    voice: Ian Cardoni
+  - name: Morty Smith
+    voice: Harry Belden
+  - name: Summer Smith
+    voice: Spencer Grammer
+  - name: Beth Smith
+    voice: Sarah Chalke
+  - name: Jerry Smith
+    voice: Chris Parnell
+  - name: Mr. Meeseeks
+    voice: Justin Roiland
+episodes:
+  - name: Pilot
+    description: Rick takes Morty to another dimension to get some seeds for him but Morty's parents are considering to put Rick in a retirement home for keeping Morty away from school to help him in his lab.
+    released: 2013-12-02
+    length: 30m
+  - name: Lawnmower Dog
+    description: Morty's small, white dog Snuffles gets on the nerves of the family, so Rick quickly builds a knowledge enhancing helmet for the dog. In the meantime, Rick and Morty decide to incept the dreams of Morty's math teacher, Mr. Goldenfold in order to convince him to give Morty A's in math. While the duo are sent on an epic dream world journey, Snuffles slowly gains sentience, which leads to a slew of even more problems.
+    released: 2013-12-09
+    length: 30m
+  - name: Anatomy Park
+    description: It's around Christmas time and Jerry's parents are coming to visit so he wants everybody to have a normal holiday without technology and without Rick. Fortunately for him, Rick has other plans, involving building a molecular theme park inside of a friend of his named Ruben, and he shrinks down Morty and sends him in there to test it out.
+    released: 2013-12-16
+    length: 30m
+  - name: M. Night Shaym-Aliens!
+    description: Aliens send Rick, Morty and Jerry into an alternate reality, and Rick tries to get them out as oblivious Jerry pitches a marketing slogan for apples.
+    released: 2014-01-13
+    length: 30m
+  - name: Meeseeks and Destroy
+    description: Morty has grown weary of Rick's shenanigans, so he leads a supposedly safer adventure. Jerry conjures weird creatures to help him with his golf game.
+    released: 2014-01-20
+    length: 30m
+  - name: 'Rick Potion #9'
+    description: Rick provides Morty with a love potion to get Jessica. The serum backfires & Rick's attempt to fix things creates Cronenberg inspired monsters. Rick is okay with it but Morty feels partly responsible for creating a living nightmare.
+    released: 2014-01-27
+    length: 30m
+  - name: Raising Gazorpazorp
+    description: After Morty fathers a child with a sex robot, Rick and Summer visit the robot's planet, where the kid grows into an adult within days.
+    released: 2014-03-10
+    length: 30m
+  - name: Rixty Minutes
+    description: When Rick hooks up the family's tv receiver with reality-tv shows from alternate dimensions, and allows them to see themselves in different versions of their lives, they begin to wonder what they have, and more importantly - what could have been.
+    released: 2014-03-17
+    length: 30m
+  - name: Something Ricked This Way Comes
+    description: Rick is skeptical of Summer's new job at a shop run by the devil. Jerry and Morty argue about Pluto's status as a planet and end up traveling there.
+    released: 2014-03-24
+    length: 30m
+  - name: Close Rick-Counters of the Rick Kind
+    description: Rick's just trying to enjoy a nice breakfast, but he's kidnapped by a group of alternate Ricks and taken to stand trial for crimes against Ricks.
+    released: 2014-04-07
+    length: 30m
+  - name: Ricksy Business
+    description: When Jerry and Beth go away to take part in a re-creation of the sinking of the Titanic, Rick and Summer throw a party that gets out of control.
+    released: 2014-04-14
+    length: 30m

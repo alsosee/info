@@ -1,0 +1,54 @@
+name: South Park, Season 26
+description: >
+  In season 26, South Park continues with episodes beginning with "Cupid Ye".
+previous: Shows/2022/South Park, Season 25
+released: 2023-02-08
+rating: TV-MA
+genres:
+  - animation
+  - comedy
+  - satire
+network: Comedy Central
+imdb: https://www.imdb.com/title/tt0121955/episodes?season=26
+website: https://www.cc.com/shows/south-park
+creators:
+  - Trey Parker
+  - Matt Stone
+characters:
+  - name: Stan Marsh
+    voice: Trey Parker
+  - name: Kyle Broflovski
+    voice: Matt Stone
+  - name: Eric Cartman
+    voice: Trey Parker
+  - name: Kenny McCormick
+    voice: Matt Stone
+  - name: Butters Stotch
+    voice: Matt Stone
+  - name: Randy Marsh
+    voice: Trey Parker
+episodes:
+  - name: Cupid Ye
+    description: Cartman is jealous of the friendship that's developed between Kyle and Tolkien and decides to do something about it.
+    released: 2023-02-08
+    length: 30m
+  - name: The World-Wide Privacy Tour
+    description: The prince of Canada and his wife try to find privacy and seclusion in a small mountain town.
+    released: 2023-02-15
+    length: 30m
+  - name: Japanese Toilet
+    description: South Park learns about the wonders of Japanese toilets.
+    released: 2023-03-01
+    length: 30m
+  - name: Deep Learning
+    description: Stan is reeling when a cheating scandal hits the school.
+    released: 2023-03-08
+    length: 30m
+  - name: DiKimble's Hot Dogs
+    description: The South Park boys renovate and open an historic restaurant in Colorado.
+    released: 2023-03-22
+    length: 30m
+  - name: Spring Break
+    description: Spring Break is an excuse for Garrison to jump back into his former depraved lifestyle.
+    released: 2023-03-29
+    length: 30m
