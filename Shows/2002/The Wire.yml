@@ -39,52 +39,103 @@ episodes:
   - name: The Target
     released: 2002-06-02
     directors: Clark Johnson
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: The Detail
     released: 2002-06-09
     directors: Clark Johnson
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: The Buys
     released: 2002-06-16
     directors: Peter Medak
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: Old Cases
     released: 2002-06-23
     directors: Clement Virgo
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: The Pager
     released: 2002-06-30
     directors: Clark Johnson
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: Ed Burns"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - Ed Burns
   - name: The Wire
     released: 2002-07-07
     directors: Ed Bianchi
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: One Arrest
     released: 2002-07-21
     directors: Joe Chappelle
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: Rafael Alvarez"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - Rafael Alvarez
   - name: Lessons
     released: 2002-07-28
     directors: Gloria Muzio
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: Game Day
     released: 2002-08-04
     directors: Milčo Mančevski
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David H. Melnick & Shamit Choksey"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David H. Melnick
+      - Shamit Choksey
   - name: The Cost
     released: 2002-08-11
     directors: Brad Anderson
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: The Hunt
     released: 2002-08-18
     directors: Steve Shill
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: Joy Lusco"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - Joy Lusco
   - name: Cleaning Up
     released: 2002-09-01
     directors: Clement Virgo
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: George Pelecanos"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - George Pelecanos
   - name: Sentencing
     released: 2002-09-08
     directors: Tim Van Patten
-    writers: "David Simon & Ed Burns"
+    writers:
+      - David Simon
+      - Ed Burns

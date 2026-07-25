@@ -18,48 +18,96 @@ episodes:
   - name: Time After Time
     released: 2004-09-19
     directors: Ed Bianchi
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
   - name: All Due Respect
     released: 2004-09-26
     directors: Steve Shill
-    writers: "Story by: David Simon & Richard Price / Teleplay by: Richard Price"
+    story:
+      - David Simon
+      - Richard Price
+    teleplay:
+      - Richard Price
   - name: Dead Soldiers
     released: 2004-10-03
     directors: Rob Bailey
-    writers: "Story by: David Simon & Dennis Lehane / Teleplay by: Dennis Lehane"
+    story:
+      - David Simon
+      - Dennis Lehane
+    teleplay:
+      - Dennis Lehane
   - name: Hamsterdam
     released: 2004-10-10
     directors: Ernest Dickerson
-    writers: "Story by: David Simon & George Pelecanos / Teleplay by: George Pelecanos"
+    story:
+      - David Simon
+      - George Pelecanos
+    teleplay:
+      - George Pelecanos
   - name: Straight and True
     released: 2004-10-17
     directors: Dan Attias
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: Ed Burns"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - Ed Burns
   - name: Homecoming
     released: 2004-10-31
     directors: Leslie Libman
-    writers: "Story by: David Simon & Rafael Alvarez / Teleplay by: Rafael Alvarez"
+    story:
+      - David Simon
+      - Rafael Alvarez
+    teleplay:
+      - Rafael Alvarez
   - name: Back Burners
     released: 2004-11-07
     directors: Tim Van Patten
-    writers: "Story by: David Simon & Joy Lusco / Teleplay by: Joy Lusco"
+    story:
+      - David Simon
+      - Joy Lusco
+    teleplay:
+      - Joy Lusco
   - name: Moral Midgetry
     released: 2004-11-14
     directors: Agnieszka Holland
-    writers: "Story by: David Simon & Richard Price / Teleplay by: Richard Price"
+    story:
+      - David Simon
+      - Richard Price
+    teleplay:
+      - Richard Price
   - name: Slapstick
     released: 2004-11-21
     directors: Alex Zakrzewski
-    writers: "Story by: David Simon & George Pelecanos / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - George Pelecanos
+    teleplay:
+      - David Simon
   - name: Reformation
     released: 2004-11-28
     directors: Christine Moore
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: Ed Burns"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - Ed Burns
   - name: Middle Ground
     released: 2004-12-12
     directors: Joe Chappelle
-    writers: "Story by: David Simon & George Pelecanos / Teleplay by: George Pelecanos"
+    story:
+      - David Simon
+      - George Pelecanos
+    teleplay:
+      - George Pelecanos
   - name: Mission Accomplished
     released: 2004-12-19
     directors: Ernest Dickerson
-    writers: "Story by: David Simon & Ed Burns / Teleplay by: David Simon"
+    story:
+      - David Simon
+      - Ed Burns
+    teleplay:
+      - David Simon
