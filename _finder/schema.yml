@@ -106,6 +106,8 @@ content:
       type: string
     steam:
       type: string
+    igdb:
+      type: string
     netflix:
       type: string
     spotify:
