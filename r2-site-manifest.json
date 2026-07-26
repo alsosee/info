@@ -65887,9 +65887,9 @@
     "Shows/2010/Luther.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f614ced04e7ec7b994a3a90aa8d202ebbba15a8be59b63daffa51c779fb16d7e",
-      "size": 6023,
-      "source_size": 54277
+      "sha256": "32d47fa4934447121f7098fda2b5ef9aa4ad30fa6529bc7e5d75285663fb57f2",
+      "size": 6022,
+      "source_size": 54276
     },
     "Shows/2010/Mad Men, Season 4.html": {
       "content_encoding": "gzip",
@@ -66069,9 +66069,9 @@
     "Shows/2011/Luther, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ed7126bcbcf4330f25806efe1e1b0b145fe2a4f1452de008d2f2b8d6eb69a0ce",
-      "size": 6008,
-      "source_size": 57241
+      "sha256": "ea961c6f78bf4c940ce0b7c09e96178ec8f9004ed7a3b13480967e84ada1cabe",
+      "size": 6007,
+      "source_size": 57240
     },
     "Shows/2011/Modern Family, Season 3.html": {
       "content_encoding": "gzip",
@@ -66377,8 +66377,8 @@
     "Shows/2013/House of Cards.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "99603db3cc7bebf2b3b8f62ee7ed9c7ddd3d3be2da23d4707740fe07ded75004",
-      "size": 6735,
+      "sha256": "cd0f22a32a236a8105e9f34b614a9c7d29bfc94aec2ed87ab15aabcc8c2323c9",
+      "size": 6736,
       "source_size": 61590
     },
     "Shows/2013/It's Always Sunny in Philadelphia, Season 9.html": {
@@ -66391,9 +66391,9 @@
     "Shows/2013/Luther, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96fec9038d86d688c5ab08980bb1924e3c21157902f46574167ad27d862baa4e",
-      "size": 6049,
-      "source_size": 57449
+      "sha256": "4d4ebc80915e8fba18fb8d54519b032d13510ef4c012c57a777bb380654032c9",
+      "size": 6048,
+      "source_size": 57448
     },
     "Shows/2013/Mad Men, Season 6.html": {
       "content_encoding": "gzip",
@@ -66748,16 +66748,16 @@
     "Shows/2015/Killjoys.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6d6103ac2b990c4ad03b463c1856a2c2b205ae0d7b34b6c8efcbc03b88380806",
+      "sha256": "7982b35d0352b72c57478199b939ace66f771bf6ad1b6ad1e87fe0c416fdc85b",
       "size": 6626,
       "source_size": 57695
     },
     "Shows/2015/Luther, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f27aaf73d75c9798968c0dfc65be99ee228928087c154ff7a89661b293c52ece",
-      "size": 5856,
-      "source_size": 55354
+      "sha256": "117c8ba3b44c16a8bc63cef39dca53d3e92a8748691dd8dcec5ca784a2dd358e",
+      "size": 5855,
+      "source_size": 55353
     },
     "Shows/2015/Modern Family, Season 7.html": {
       "content_encoding": "gzip",
@@ -66916,7 +66916,7 @@
     "Shows/2016/Easy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "640a8d7bfceb3495db8c29716184d1234d2cd1b65e5840b17136c7ff7d783e04",
+      "sha256": "b09b52637ead6e84e54b7d88b477261f38afbd2c89570b8f8430c0691ace335e",
       "size": 6643,
       "source_size": 61381
     },
@@ -66972,7 +66972,7 @@
     "Shows/2016/Killjoys, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "897929b1852407951f7c563b9ecd16625dd238e8b1f16f77d18918223b29d040",
+      "sha256": "53a8c31a3a871e51a08083fa70dc7b917d058b15e76b3c9d02174c2e73d00e45",
       "size": 6468,
       "source_size": 57070
     },
@@ -67119,8 +67119,8 @@
     "Shows/2017/Easy, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1888715adab9842319c9b069a5b41a610e7ba9b367408f4b48bee5e437cf4a38",
-      "size": 6904,
+      "sha256": "ccaffafd4be6d6b9b68aecd747024307152c0a923c4e325974f40bd203183c38",
+      "size": 6903,
       "source_size": 62930
     },
     "Shows/2017/Family Guy, Season 16.html": {
@@ -67462,8 +67462,8 @@
     "Shows/2019/Easy, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "11bd9e43d4731f42224adcbf82de51cc297ab437f3a6cdcaa7f67a1c587cc2a6",
-      "size": 7131,
+      "sha256": "9dfc6bfb0fa167a240b955024bb6023b7042be86ba880531dc2a1541e8d872ae",
+      "size": 7132,
       "source_size": 70457
     },
     "Shows/2019/Euphoria.html": {
@@ -67546,9 +67546,9 @@
     "Shows/2019/Luther, Season 5.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3329f23626242476dbaca3a946e0fdf08c65ab461e839065bb238c0a80818863",
-      "size": 6354,
-      "source_size": 63506
+      "sha256": "0b8cabd4f50aec5bc9ba625e7e052d776dcf6fc95fe83a9d69bd401098f72070",
+      "size": 6353,
+      "source_size": 63505
     },
     "Shows/2019/Modern Family, Season 11.html": {
       "content_encoding": "gzip",
