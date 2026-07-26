@@ -1,0 +1,30 @@
+name: "Bob's Burgers, Season 14"
+previous: Shows/2022/Bob's Burgers, Season 13
+description: >
+  This season, the Belcher family finds themselves caught in an exhilarating showdown when the
+  kids refuse to do their chores, a magic trick ends up going disastrously wrong, Linda helps
+  throw a bachelorette party, Gene enters songwriting contest, and Tina and Louise work
+  together to catch a cricket.
+released: 2023-10-01
+genres:
+  - animation
+  - sitcom
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Bob%27s_Burgers
+imdb: https://www.imdb.com/title/tt1561755
+tmdb: https://www.themoviedb.org/tv/32726-bob-s-burgers/season/14
+network: Fox
+creators:
+  - Loren Bouchard
+  - Jim Dauterive
+characters:
+  - name: Bob Belcher
+    voice: H. Jon Benjamin
+  - name: Linda Belcher
+    voice: John Roberts
+  - name: Tina Belcher
+    voice: Dan Mintz
+  - name: Gene Belcher
+    voice: Eugene Mirman
+  - name: Louise Belcher
+    voice: Kristen Schaal
