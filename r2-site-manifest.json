@@ -2992,9 +2992,9 @@
     "Companies/Fox.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a2c8da00e117e4a94c3b5ef18b799b32339b7f09ffa6dd9fdb7cfb2abd5ef0fd",
-      "size": 14172,
-      "source_size": 236367
+      "sha256": "19a8a689c534f0d5d6cb1ccb16d5235da760a48b4804181bb28b1021ec68d42d",
+      "size": 14226,
+      "source_size": 236832
     },
     "Companies/Frakas Productions.html": {
       "content_encoding": "gzip",
@@ -12778,9 +12778,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "762b4ea0b3f6e061c0e26eedbe6fbfaa4756c9f98477cd1d0a6effd93ba29981",
-      "size": 884358,
-      "source_size": 12157182
+      "sha256": "b77efbe851d08581a62e7c86f2c7d0deb958620fc399bc85f6d87ab969a26155",
+      "size": 884601,
+      "source_size": 12158872
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
@@ -39658,9 +39658,9 @@
     "People/H. Jon Benjamin.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6122e364324d89f9bb4d275e5014ebfe080f537d69e76a54cac045496180fd1f",
-      "size": 80017,
-      "source_size": 2107730
+      "sha256": "5163ac6d5e8749af792c6daaef5b0ea9544ec969ec84c39fcb32f5456e9698a9",
+      "size": 80078,
+      "source_size": 2108341
     },
     "People/H. Lee Peterson.html": {
       "content_encoding": "gzip",
@@ -47407,9 +47407,9 @@
     "People/Kristen Schaal.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3663371cfafe168697c055ace9813db90c465a9fc5990dd637763426b270a10f",
-      "size": 80043,
-      "source_size": 2106467
+      "sha256": "c0c798d24c640a32d9cbbf2f135f6c99839da2cfa609c975e469de9cac9e2cb9",
+      "size": 80089,
+      "source_size": 2107081
     },
     "People/Kristen Stewart.html": {
       "content_encoding": "gzip",
@@ -48646,9 +48646,9 @@
     "People/Loren Bouchard.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "46f7632d58c89c61876c00bd3535340e3cf4a635de858db5058b3743a43c77df",
-      "size": 79863,
-      "source_size": 2104178
+      "sha256": "bdc5402308e6654da2bfaf98610203e9fd608e6d588f4da2ddd5e93953685fab",
+      "size": 79914,
+      "source_size": 2104643
     },
     "People/Lorene Scafaria.html": {
       "content_encoding": "gzip",
@@ -68295,170 +68295,177 @@
     "Shows/2023/Archer, Season 14.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "623ed0937ccd2c1086bfee0454b68c98117b0e34d5fd8656bf7f1c8549ce4f28",
-      "size": 5977,
-      "source_size": 50260
+      "sha256": "175f08f5389ac124595ecc751fd545af809d4ba4d3ef8536a8d13ec882d0fab2",
+      "size": 6046,
+      "source_size": 51356
+    },
+    "Shows/2023/Bob's Burgers, Season 14.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c8a989905ce26781c2cadf735a08eb512c36b7bf13d0cb5de6cf8b10e7e46739",
+      "size": 5199,
+      "source_size": 48361
     },
     "Shows/2023/Demon Slayer Kimetsu no Yaiba, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dbf1910ade1d2b5d618c32aa06bbbed49428c097ffb31b310bc673aafa9f0be0",
-      "size": 5215,
-      "source_size": 47724
+      "sha256": "8dfb9c87432475da1c79434eaaeb2a0622117a457939e37a4c7d0fd00584b3a5",
+      "size": 5291,
+      "source_size": 48820
     },
     "Shows/2023/Family Guy, Season 22.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "24ed55d6719fb9a0e97cb83a217e49ed954a5bb851d43c3d45469cbabe162133",
-      "size": 6704,
-      "source_size": 52569
+      "sha256": "cb7dc70a7dae79c8cff958665e342465b422dd390b675af7c49fc41adf3b886b",
+      "size": 6776,
+      "source_size": 53665
     },
     "Shows/2023/Futurama, Season 11.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1c177892b6db2bad2a560c2c3657094f839152e8c7b6148b2453f797d7a6267a",
-      "size": 5816,
-      "source_size": 50212
+      "sha256": "b83a8f3ac0c639d4d200c9bec184012845d5f735958ed0f7c992c351a6a34e5a",
+      "size": 5887,
+      "source_size": 51308
     },
     "Shows/2023/It's Always Sunny in Philadelphia, Season 16.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "82de26714324e1693968a29f1e16084454eff2493f31412df1bea84f3c1333b5",
-      "size": 5634,
-      "source_size": 50386
+      "sha256": "8b80c5ab40b328803c5a0439ecea91c6cff839431d3a2e8d7b158fa5bf4aa46d",
+      "size": 5707,
+      "source_size": 51482
     },
     "Shows/2023/Jujutsu Kaisen, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "58a2fe3cb12999fd25b058736efcdf463545b75f7a97ce6bee97fc166bf0e331",
-      "size": 5216,
-      "source_size": 47643
+      "sha256": "0e95bcd78d6e6c3a609580c8c67061aa1fe948b85a03a914ccf887d2b34623f1",
+      "size": 5289,
+      "source_size": 48739
     },
     "Shows/2023/Mrs. Davis.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "aca5b7ef5bbda8dd7bf06d499319f56305e122cdb91c58a707fca6caba4b3d43",
-      "size": 5815,
-      "source_size": 53466
+      "sha256": "8b63b461b93e8525c36107de78636934a81a68c154b8080312fe5e7e11931d53",
+      "size": 5887,
+      "source_size": 54562
     },
     "Shows/2023/One Piece, Season 22.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d166dbf7f4b421d99277c4397af35e5d7af537c8ba716597fa3fd222042cf86b",
-      "size": 5220,
-      "source_size": 47515
+      "sha256": "84640546cb163cea431adc057378b59043c1f3fa815bab3df228394476cb5349",
+      "size": 5294,
+      "source_size": 48611
     },
     "Shows/2023/Painkiller.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3930c2895a93e42a4218f887f818e9cb11775ac9c1969e406130f1e4cac17d6c",
-      "size": 6399,
-      "source_size": 55788
+      "sha256": "be144fe468fb476a30b01e839ad4e5f778a3f14071cffa658faba1753a3a0408",
+      "size": 6470,
+      "source_size": 56884
     },
     "Shows/2023/Rick and Morty, Season 7.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d3caa315c803c610796e13fa035f0aaedc319ee4749de05d8f3d6a2c6947d690",
-      "size": 6132,
-      "source_size": 50553
+      "sha256": "dfac18448132b160a8b65b24f2217110e020642ede9c8f085b64ff0c4c917b79",
+      "size": 6204,
+      "source_size": 51649
     },
     "Shows/2023/Scavengers Reign.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2209334e753633408b27749b19c23084d7c790fc1bc710e3ffdbd7f05c21cf17",
-      "size": 6221,
-      "source_size": 52089
+      "sha256": "51c862a4375dacd252bfbbcdb33e2867748ea3dc6c15d710535d562e6a253789",
+      "size": 6292,
+      "source_size": 53185
     },
     "Shows/2023/Scott Pilgrim Takes Off.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1b26a3447598faf4777da2671c038eee3b4c3c776f55626feaa64434498014be",
-      "size": 6319,
-      "source_size": 57434
+      "sha256": "4e7e4112d43704740ef4d00c928a171f71215081abadfa462181ae6ce263dcff",
+      "size": 6392,
+      "source_size": 58530
     },
     "Shows/2023/Silo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "875da1f94989ad269c505c7edfe5947f9f85cd793574847ad3162daa987d646f",
-      "size": 6606,
-      "source_size": 56153
+      "sha256": "e54d84930ef826e78f12d0cea2618e15440cabba01eb17a3e773294c6d0d28fb",
+      "size": 6678,
+      "source_size": 57249
     },
     "Shows/2023/South Park, Season 26.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "627cdfc59be00a3dbb6a16e57fbf6c4fa88ac294c84b1257c6c42caf2a0f79ac",
-      "size": 5377,
-      "source_size": 48744
+      "sha256": "0ab24332add0a582b936474bd903ce624d948a926b27f531b87074a80611757d",
+      "size": 5450,
+      "source_size": 49840
     },
     "Shows/2023/Star Trek Picard, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c66b4a26fe5909effa3eb7b3c571dc308c622896c81bca837135cd0845c4abcb",
-      "size": 5097,
-      "source_size": 47292
+      "sha256": "2e54b0623eda492ad82362d9548c9c2f7eedaf382ef43be84c5e4967c793cbc5",
+      "size": 5169,
+      "source_size": 48388
     },
     "Shows/2023/Star Trek Strange New Worlds, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5d747bfc7d3bb4efec309ccb7f1d50dd65b42f8fa621f0347bb7c7ab933c4b78",
-      "size": 5139,
-      "source_size": 47694
+      "sha256": "723a8da51202638443b3b8505d1d41d906d663398a5d388213413cba7a77f9ad",
+      "size": 5214,
+      "source_size": 48790
     },
     "Shows/2023/Succession, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9e1b2e1c5c3b5635be7116dc6207e57bd889b8e33aa2b04f7e02f4032bb48c79",
-      "size": 5428,
-      "source_size": 51409
+      "sha256": "256ce79c5327139751b92659b7e9fac50f0e4a252a3b0683a730714bf64e26ce",
+      "size": 5503,
+      "source_size": 52505
     },
     "Shows/2023/Ted Lasso, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c8549366a4c1929a36ab910fca95194b5e2fd00b1017ef94ea760cceed05cf3e",
-      "size": 5888,
-      "source_size": 51524
+      "sha256": "cc3d1cf6c9337f44610c7c5d23f42763a52771f1e320b8489150e87d7f237ddd",
+      "size": 5965,
+      "source_size": 52620
     },
     "Shows/2023/The Continental.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "683091dd0f77013118c237637bfca20f8f170f13c309378583d941f23fce94a4",
-      "size": 5726,
-      "source_size": 52500
+      "sha256": "c327ce08af5ac64d8a65ce4f20888e61725ffb5e54af339d2d52bff0b8d515a9",
+      "size": 5798,
+      "source_size": 53596
     },
     "Shows/2023/The Last of Us.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "72aef2a720db473983cc547feb8659b55a1804d3cf14a03ada80a6afee6797c4",
-      "size": 7447,
-      "source_size": 69132
+      "sha256": "92ff8fd2de6be4b3e2fda1b2013c7ee99a80c3d8f5e3e747fd03e2569ee066c9",
+      "size": 7518,
+      "source_size": 70228
     },
     "Shows/2023/The Mandalorian, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a401e43181278c4b4338d2b9a7df3fcee8362f445a0871799f70d3622fbddeb2",
-      "size": 6182,
-      "source_size": 54297
+      "sha256": "da0850b1d5023f52e2a86622b0d3f73a4268536aff77908b1b0a59f5a4645b81",
+      "size": 6254,
+      "source_size": 55393
     },
     "Shows/2023/The Simpsons, Season 35.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4a2165d41488c0df6f81aafd1ad7f45b032a5ce7b8bd07898376cea2572daa72",
-      "size": 6829,
-      "source_size": 53405
+      "sha256": "d5a99211dd26d0cb4e8d120cf16c21b12467a0b29a0ae09d4b2f2ae552eb5191",
+      "size": 6904,
+      "source_size": 54501
     },
     "Shows/2023/What We Do in the Shadows, Season 5.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8ed3660e484ab729bb6ba35e9f487b5bc54283805f3c8de724ca2a7a808ebb5f",
-      "size": 6049,
-      "source_size": 54760
+      "sha256": "5c4f2979ab878ac427ae8ce5d01467dda2c30eb6114ca9ecadb6f05a4c02c04f",
+      "size": 6126,
+      "source_size": 55856
     },
     "Shows/2023/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b8eb568066329f6aae8da1b4cfb77dd07da197af8293904b7ca020656e6f8f6b",
-      "size": 4280,
-      "source_size": 44020
+      "sha256": "f5a40508d95438a354832cf1be850622dd00d34c099918e2d8b5f532713832b9",
+      "size": 4352,
+      "source_size": 45116
     },
     "Shows/2024/3 Body Problem.html": {
       "content_encoding": "gzip",
