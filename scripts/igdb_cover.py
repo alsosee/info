@@ -25,6 +25,7 @@ import os
 import re
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlparse
@@ -137,6 +138,8 @@ def release_year(path: Path) -> str | None:
 
 def normalize_title(value: str) -> str:
     value = expand_roman_numbers(expand_roman_ranges(value))
+    value = unicodedata.normalize("NFKD", value)
+    value = "".join(character for character in value if not unicodedata.combining(character))
     return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
 
 
@@ -290,7 +293,9 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
     actual_norm = normalize_title(actual_title)
 
     if expected_norm and actual_norm and expected_norm != actual_norm:
-        if expected_norm not in actual_norm and actual_norm not in expected_norm:
+        if expected_norm.endswith(" 2") and actual_norm == expected_norm[:-2]:
+            pass
+        elif expected_norm not in actual_norm and actual_norm not in expected_norm:
             raise ValueError(
                 f'IGDB title mismatch: expected "{expected_title}", got "{actual_title}"'
             )
