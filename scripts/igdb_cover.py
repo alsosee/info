@@ -136,7 +136,8 @@ def release_year(path: Path) -> str | None:
 
 
 def normalize_title(value: str) -> str:
-    return re.sub(r"[^a-z0-9]+", " ", expand_roman_ranges(value).lower()).strip()
+    value = expand_roman_numbers(expand_roman_ranges(value))
+    return re.sub(r"[^a-z0-9]+", " ", value.lower()).strip()
 
 
 ROMAN_NUMERALS = {
@@ -152,6 +153,14 @@ ROMAN_NUMERALS = {
     "X": 10,
 }
 NUMBER_ROMANS = {value: key for key, value in ROMAN_NUMERALS.items()}
+ROMAN_PATTERN = re.compile(r"\b(?:I|II|III|IV|V|VI|VII|VIII|IX|X)\b")
+
+
+def expand_roman_numbers(value: str) -> str:
+    return ROMAN_PATTERN.sub(
+        lambda match: str(ROMAN_NUMERALS.get(match.group(0), match.group(0))),
+        value,
+    )
 
 
 def expand_roman_ranges(value: str) -> str:
