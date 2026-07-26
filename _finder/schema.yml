@@ -281,7 +281,9 @@ content:
       type: string
       column: true
     network:
-      type: company
+      type: array
+      items:
+        type: company
       column: true
     engine:
       type: string
