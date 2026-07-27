@@ -301,6 +301,8 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
             pass
         elif expected_norm == "the settlers 4" and actual_norm == "the settlers fourth edition":
             pass
+        elif expected_norm == "disney s math quest with aladdin" and actual_norm == "disney learning math quest with aladdin":
+            pass
         elif expected_norm.replace(" ", "") == actual_norm.replace(" ", ""):
             pass
         elif sorted(expected_norm.split()) == sorted(actual_norm.split()):
