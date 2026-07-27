@@ -297,6 +297,10 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
             pass
         elif expected_norm.replace(" classic trilogy ", " trilogy ") == actual_norm:
             pass
+        elif expected_norm == "command conquer yuri s revenge" and actual_norm == "command conquer red alert 2 yuri s revenge":
+            pass
+        elif expected_norm == "the settlers 4" and actual_norm == "the settlers fourth edition":
+            pass
         elif expected_norm.replace(" ", "") == actual_norm.replace(" ", ""):
             pass
         elif sorted(expected_norm.split()) == sorted(actual_norm.split()):
