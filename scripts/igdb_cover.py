@@ -295,6 +295,8 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
     if expected_norm and actual_norm and expected_norm != actual_norm:
         if expected_norm.endswith(" 2") and actual_norm == expected_norm[:-2]:
             pass
+        elif sorted(expected_norm.split()) == sorted(actual_norm.split()):
+            pass
         elif expected_norm not in actual_norm and actual_norm not in expected_norm:
             raise ValueError(
                 f'IGDB title mismatch: expected "{expected_title}", got "{actual_title}"'
