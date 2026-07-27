@@ -303,6 +303,8 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
             pass
         elif expected_norm == "disney s math quest with aladdin" and actual_norm == "disney learning math quest with aladdin":
             pass
+        elif expected_norm == "broken sword the shadow of the templars" and actual_norm == "circle of blood":
+            pass
         elif expected_norm.replace(" ", "") == actual_norm.replace(" ", ""):
             pass
         elif sorted(expected_norm.split()) == sorted(actual_norm.split()):
@@ -317,6 +319,16 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
     if strict and expected_year and isinstance(timestamp, int):
         actual_year = datetime.fromtimestamp(timestamp, tz=timezone.utc).strftime("%Y")
         if expected_year != actual_year:
+            if (
+                expected_year == "1996"
+                and actual_year == "1995"
+                and expected_norm
+                in {
+                    "warcraft 2 beyond the dark portal",
+                    "worms reinforcements",
+                }
+            ):
+                return
             raise ValueError(
                 f'IGDB year mismatch: expected "{expected_year}", got "{actual_year}"'
             )
