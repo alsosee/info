@@ -305,6 +305,10 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
             pass
         elif expected_norm == "broken sword the shadow of the templars" and actual_norm == "circle of blood":
             pass
+        elif expected_norm == "the settlers" and actual_norm == "serf city life is feudal":
+            pass
+        elif expected_norm == "jurassic park 2 the chaos continues" and actual_norm == "jurassic park part 2 the chaos continues":
+            pass
         elif expected_norm.replace(" ", "") == actual_norm.replace(" ", ""):
             pass
         elif sorted(expected_norm.split()) == sorted(actual_norm.split()):
@@ -326,7 +330,14 @@ def validate_igdb_data(path: Path, data: dict, *, strict: bool) -> None:
                 in {
                     "warcraft 2 beyond the dark portal",
                     "worms reinforcements",
+                    "the addams family pugsley s scavenger hunt",
                 }
+            ):
+                return
+            if (
+                expected_year == "1994"
+                and actual_year == "1995"
+                and expected_norm == "jurassic park 2 the chaos continues"
             ):
                 return
             raise ValueError(
