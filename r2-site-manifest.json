@@ -1298,9 +1298,9 @@
     "Companies/Acclaim Entertainment.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4cc4a234d8c3da4c0aee13b100a7c62468bb279a52c3a2d3ea34b031f4bd3add",
-      "size": 13511,
-      "source_size": 229000
+      "sha256": "47f05c296729ac56a97207dec4641343dd437696e800515ea3db88670795d918",
+      "size": 13533,
+      "source_size": 229254
     },
     "Companies/Activision.html": {
       "content_encoding": "gzip",
@@ -1452,9 +1452,9 @@
     "Companies/Ancient.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e7defd933204d3d82d0448b4e5f0357b4525421127c91e98611852d222c7e5d2",
-      "size": 13528,
-      "source_size": 229122
+      "sha256": "46091a9e5f634ec0b50d129adf089e0adb3cf9dd562740966f72bd537be29e69",
+      "size": 13561,
+      "source_size": 229417
     },
     "Companies/Animal Kingdom.html": {
       "content_encoding": "gzip",
@@ -2061,9 +2061,9 @@
     "Companies/Capcom.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bd96553abb2ecede83795013a11696c8160906014740faa86104c51f9509525e",
-      "size": 14777,
-      "source_size": 243775
+      "sha256": "e093e2c7aa5ebf049fa7955c6f5b6eecd6857c520d0c826696a67dc42c020b23",
+      "size": 14817,
+      "source_size": 244322
     },
     "Companies/Capitol Films.html": {
       "content_encoding": "gzip",
@@ -3671,9 +3671,9 @@
     "Companies/LJN.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0e3df64e40c48acffefaaf019b6ae660a7759974e16cf46bf7cdad996e11817b",
-      "size": 13544,
-      "source_size": 229473
+      "sha256": "30de79f32c2c1a17318c7f95647eeae2bbcc78d892592be4df1cdb9bc5fc88eb",
+      "size": 13570,
+      "source_size": 229727
     },
     "Companies/LStar Capital.html": {
       "content_encoding": "gzip",
@@ -4217,16 +4217,16 @@
     "Companies/Midway Games.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "37b97daf221e31f4f274fe8ca2ff8915493c5f6a240a46362ac0990224f64133",
-      "size": 13522,
-      "source_size": 228803
+      "sha256": "444844c374d43822e6c935653d80638451a97afb335d84f3740bf788f740d7a2",
+      "size": 13594,
+      "source_size": 229098
     },
     "Companies/Midway.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "94896bd484dee58029bdf8a36d719ea54d183eb589f5c905d86b8f8b6d1e220e",
-      "size": 13438,
-      "source_size": 228638
+      "sha256": "b4696b1f26cce2cc6745128f164ab8daf8b9f6b9d3b45f8f4cc4504f603ee14b",
+      "size": 13510,
+      "source_size": 228933
     },
     "Companies/Mike Zoss Productions.html": {
       "content_encoding": "gzip",
@@ -4546,9 +4546,9 @@
     "Companies/Ocean Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ce5c08fe9da5fe83c83ce2458cdfad65819722b62fa5071deb7804bc148188db",
-      "size": 13833,
-      "source_size": 233031
+      "sha256": "4491b72ea6f82f3b68b3d8514e78d246ed038ef538fe86c2e754684887ae61be",
+      "size": 13856,
+      "source_size": 233326
     },
     "Companies/OddLot Entertainment.html": {
       "content_encoding": "gzip",
@@ -5442,16 +5442,16 @@
     "Companies/Sega Technical Institute.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4980ebcb664a52d91ce15204626e1895a42e1acd5f2c98591d59ff5bcf3409b4",
-      "size": 13661,
-      "source_size": 229872
+      "sha256": "ff9190a388966077a4e24cbc23914ea98e430b1f92ed14ed1ba069ee7f9e0555",
+      "size": 13689,
+      "source_size": 230167
     },
     "Companies/Sega.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "72da41b58d7212bbc0e4c944f07444a4b723780b856cb3bcafbc1835b85f3fab",
-      "size": 14368,
-      "source_size": 239302
+      "sha256": "4ccdc1f1232f69ba792ce4ec5b1c164e400a6a3c45d30421e472591ab56034f0",
+      "size": 14432,
+      "source_size": 240480
     },
     "Companies/Seven Bucks Productions.html": {
       "content_encoding": "gzip",
@@ -5561,9 +5561,9 @@
     "Companies/Sonic Team.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1b5d979559f930b1e1c925234189a481b17b4e8951aa4cc574d9cd99becb2d35",
-      "size": 13451,
-      "source_size": 228690
+      "sha256": "f4f9438103e60837016c38c0c37a8c55acac407d239fb997d50085338eed3caf",
+      "size": 13522,
+      "source_size": 228984
     },
     "Companies/Sons of Manual.html": {
       "content_encoding": "gzip",
@@ -7087,9 +7087,9 @@
     "Games/Video/1987/Street Fighter.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4b5f29270850e2fd9c5f8e45c94fa454c39aece53170d4c545f31a90f8fab3b1",
-      "size": 3560,
-      "source_size": 27556
+      "sha256": "a553be3b85def9b2df68a2c4b3935bb032cdeffd08627fb44a86724b0cc09aaf",
+      "size": 3689,
+      "source_size": 27850
     },
     "Games/Video/1987/index.html": {
       "content_encoding": "gzip",
@@ -7150,86 +7150,86 @@
     "Games/Video/1991/Captain Commando.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a84ac2d2dc1ccd1a6dd31c70f7ffde6cc85090d575b8f2ec3167e200d2ac4e4b",
-      "size": 3346,
-      "source_size": 26306
+      "sha256": "fa709f50937370279235682b78cd8f8956ff8ef401ba2acc8c57a96c1c71c2e0",
+      "size": 3604,
+      "source_size": 28442
     },
     "Games/Video/1991/Sonic the Hedgehog.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "151e40baaa29753956fa3b92b1c9a3795de3356d8c51126caf081e75b436a7c3",
-      "size": 3484,
-      "source_size": 27032
+      "sha256": "ae10073f55f430e90b12eeb3673eced79ee7040ef01f5d2ce4acfe247a4c5bec",
+      "size": 3788,
+      "source_size": 29498
     },
     "Games/Video/1991/Street Fighter II The World Warrior.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5ea5061f063eecf00af9d4ed46057486e783864210f676b0567f1a09f22ac534",
-      "size": 3792,
-      "source_size": 29634
+      "sha256": "6eb6dbcc9574d65ab9baa0852dbc2376a6889aa07cd813204d43ace7837f86a7",
+      "size": 4067,
+      "source_size": 31805
     },
     "Games/Video/1991/Streets of Rage.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2e8495f71fbb2a180a15291c44c8a62d680409c222aa2b27f96cee47091dbd25",
-      "size": 3360,
-      "source_size": 26172
+      "sha256": "4826aa14d70800e438e18fac19724f35b741c68dcc23fa6e6224948ceb26168d",
+      "size": 3662,
+      "source_size": 28639
     },
     "Games/Video/1991/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9dbdfd6d2c60e53df070873f15aa18ce8c9ceafe0d671cefe85a6dd5cc951568",
-      "size": 2756,
-      "source_size": 24311
+      "sha256": "8bd36074527567c9f8a3aa10c15465447d3c6f898573cff01c69a49a74610055",
+      "size": 2973,
+      "source_size": 26249
     },
     "Games/Video/1992/Alien 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96bf66aee59035c17a3f605adaaaabe5d9c23babfb3ced6f8b1d4089b51a02c8",
-      "size": 3294,
-      "source_size": 26687
+      "sha256": "fdb787d474ba503b8ede21e41bf86c31ce953468e210981830e6fa71d1a80000",
+      "size": 3577,
+      "source_size": 29843
     },
     "Games/Video/1992/Mortal Kombat.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4c7af9327c7bd08d653505a19212a667d4408821d87d9233090a6637d6a36790",
-      "size": 3867,
-      "source_size": 30501
+      "sha256": "bbcb0f5f4237a4ec3c108b3a86844c74d783faf1578c6b168b1f681b34bfa316",
+      "size": 4158,
+      "source_size": 33692
     },
     "Games/Video/1992/Sonic the Hedgehog 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e4b71318e576c3f806f1722195ca309aa565516eaea6b517d3d9347c8e8f0608",
-      "size": 3779,
-      "source_size": 28723
+      "sha256": "b66cb1de41a3945cb0febd6178b1c2310bf3015ecf64ad7289746793be2ce76a",
+      "size": 4017,
+      "source_size": 32208
     },
     "Games/Video/1992/Streets of Rage 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bbd42bdd2b988e4a6bc7b418a401a252fedf0a6923bf5b887e0a8fbd229f343a",
-      "size": 3811,
-      "source_size": 28853
+      "sha256": "79403137f262fd604fb538775f41a768f88221ee8257b0bf911a98ab9db98f27",
+      "size": 4044,
+      "source_size": 32338
     },
     "Games/Video/1992/The Addams Family.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0ff78cae9792d52225592b908bf6e8d4d5933900ebea1e4ab816edb5497e32f6",
-      "size": 3575,
-      "source_size": 28715
+      "sha256": "bf04248d3d1746b0f473524823f9d7a635df41a091eb1cc7bdd21ab3100b2c80",
+      "size": 3870,
+      "source_size": 31906
     },
     "Games/Video/1992/Undercover Cops.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "51a58b82ebd147eaf62437c4548b0042505b8647e2ff691de089e110658ee96b",
-      "size": 3417,
-      "source_size": 27324
+      "sha256": "37941f4c878e8819eef20b19cb02213f89188e350d9323de3070348547da157e",
+      "size": 3706,
+      "source_size": 30516
     },
     "Games/Video/1992/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f16374d9cf1ec573fc10a26d9c2165e793dda1c3bf11262f1ef0cf39c60875f3",
-      "size": 2917,
-      "source_size": 25396
+      "sha256": "70a9f3c1dce92fbc0d457d59b63569e26ea82eba134578013e436a2025d73114",
+      "size": 3161,
+      "source_size": 28354
     },
     "Games/Video/1993/Alien 3 - Game Boy.html": {
       "content_encoding": "gzip",
@@ -7458,16 +7458,16 @@
     "Games/Video/1994/Sonic the Hedgehog 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a5e3fad574ef577664f0311e9a8b1ca67c2e14b1a97930408bf480f41dfc28bf",
-      "size": 4955,
-      "source_size": 46016
+      "sha256": "5bbd2dd85935e16849801768e3a1505065f1958bf9b6a72001978344adf552e1",
+      "size": 4980,
+      "source_size": 46311
     },
     "Games/Video/1994/Streets of Rage 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b432c8709679086bcadb9407cd829f5138d238fc329de4f6b7984b57dbbcedad",
-      "size": 4768,
-      "source_size": 44248
+      "sha256": "3045069e25db3fbf407aeb214758c33e4888103d3640a0886375dff20200d2ad",
+      "size": 4806,
+      "source_size": 44543
     },
     "Games/Video/1994/Tekken.html": {
       "content_encoding": "gzip",
@@ -12393,9 +12393,9 @@
     "Games/Video/Series/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a86547595156be30350f2d37e37409e19a575cf4aeb8a83fbaab3c3e41275fa3",
-      "size": 6235,
-      "source_size": 66097
+      "sha256": "877c347efcd06c38525b25a18cc7f74341d65132e7c1d532857142afbc772115",
+      "size": 6248,
+      "source_size": 66351
     },
     "Games/Video/Series/Assassin's Creed.html": {
       "content_encoding": "gzip",
@@ -12561,9 +12561,9 @@
     "Games/Video/Series/Mortal Kombat.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "97700c8dfac1cad754a22befb7ea7a7083b42c82878955386e5c7e54d95c28f7",
-      "size": 5027,
-      "source_size": 50614
+      "sha256": "dc0c9529c2d596cf0aef2b9c204c2c567d5da061665b166e9fba689e3baac25a",
+      "size": 5166,
+      "source_size": 50909
     },
     "Games/Video/Series/Mount & Blade.html": {
       "content_encoding": "gzip",
@@ -12645,9 +12645,9 @@
     "Games/Video/Series/Street Fighter.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "db738cd27a57e124d9ef95f01e9bcccd8c62fd6d6531d2aaa2d01de775cc1bd9",
-      "size": 5096,
-      "source_size": 51008
+      "sha256": "4c0f374f0c8dfc439c29dbe2e4c6041561d4f0f8e27f8ce818baab833da87130",
+      "size": 5126,
+      "source_size": 51302
     },
     "Games/Video/Series/Streets of Rage.html": {
       "content_encoding": "gzip",
@@ -12673,9 +12673,9 @@
     "Games/Video/Series/The Addams Family.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dd8cd0439cde67f41d380a4f54fcd10e3ade083b16f90b01cedaeed39af869e2",
-      "size": 5217,
-      "source_size": 52116
+      "sha256": "bc49bd21d291ac2b766a3385ea11c747d53667a438ff9156e1fe8aaaad0a6684",
+      "size": 5243,
+      "source_size": 52411
     },
     "Games/Video/Series/The Elder Scrolls.html": {
       "content_encoding": "gzip",
@@ -12778,9 +12778,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0656e9dca3a3148f9d91f8f5ca143389ed2f51b4dae19098578b02e50e2419ef",
-      "size": 923852,
-      "source_size": 12816913
+      "sha256": "e818d3feea831a3d4ea526bfdb6157f24c9b7156a2aaa36fd3848b1d8c2d4108",
+      "size": 924417,
+      "source_size": 12824660
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
@@ -27499,9 +27499,9 @@
     "People/Akira Nishitani.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "44ae3978b0caf2af1cb551c002142a8c2a77522a30a222374415f81c8833df6a",
-      "size": 79738,
-      "source_size": 2103166
+      "sha256": "cea3a7d5bad1443206550ce0500d5892ab18624185b81e98ed21f4a84ec09ac5",
+      "size": 79813,
+      "source_size": 2103460
     },
     "People/Akira Yamaoka.html": {
       "content_encoding": "gzip",
@@ -27513,9 +27513,9 @@
     "People/Akira Yasuda.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "995bffa47e49f85b193ee5f70fb6ee037d9ca96a4546ed1bc127e3efdf5f4f19",
-      "size": 79747,
-      "source_size": 2103279
+      "sha256": "972eeccc2c85ea7b9b50e345736465b0d6ca4922ae7075f633bb10289c7c4bf7",
+      "size": 79820,
+      "source_size": 2103826
     },
     "People/Akiva Goldsman.html": {
       "content_encoding": "gzip",
@@ -36767,9 +36767,9 @@
     "People/Ed Boon.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "35f3e156d32dcc0fc9e94ffe3c53e026c7a1cfba7082d585f88ab2e016a55d49",
-      "size": 79810,
-      "source_size": 2103194
+      "sha256": "5487ba8d8262fb23b8113c6d42607292c3b05b37fa5c388e2218fc02afbf45bf",
+      "size": 79879,
+      "source_size": 2103489
     },
     "People/Ed Burns.html": {
       "content_encoding": "gzip",
@@ -40421,9 +40421,9 @@
     "People/Hirokazu Yasuhara.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "56c5e5a58438f04d9a9fb380a97a569b5ba4ce7879b85461ec24ebcecea5363f",
-      "size": 79853,
-      "source_size": 2104300
+      "sha256": "4dc07ea21834890b1eac43612c808182969c901170e04cff5b1e2ce104c92de6",
+      "size": 79898,
+      "source_size": 2104889
     },
     "People/Hiroki Kato.html": {
       "content_encoding": "gzip",
@@ -44726,9 +44726,9 @@
     "People/John Tobias.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "370bb0dd3ab4fa465c043e712c3fbebda29fe86f506455e461a03b00b69ea959",
-      "size": 79837,
-      "source_size": 2103229
+      "sha256": "7e88f917d429a7d32fedd22c12738824faace1abcf9ede1028498456181f4262",
+      "size": 79907,
+      "source_size": 2103524
     },
     "People/John Toll.html": {
       "content_encoding": "gzip",
@@ -45090,9 +45090,9 @@
     "People/Jonathan Dunn.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8174b890f695088cb4ce463df79a331d44400c131129cf457a95d40d0c65df56",
-      "size": 79905,
-      "source_size": 2104876
+      "sha256": "ae9debe482f2b5c8f0d892be7ebdab2bd4ee8e1b2473cfbd412327982d049e97",
+      "size": 79931,
+      "source_size": 2105171
     },
     "People/Jonathan Frakes.html": {
       "content_encoding": "gzip",
@@ -50291,9 +50291,9 @@
     "People/Masato Nakamura.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "50b2fc178bfdfa96ca4e99dbd4848f842a0f62db9a0888a74036321995f29b5f",
-      "size": 79709,
-      "source_size": 2103119
+      "sha256": "7d80eea16b8cc4f44cc8ab58f2fac5a91c1c5dbc721dc69e45c3e4051ed05555",
+      "size": 79800,
+      "source_size": 2103708
     },
     "People/Masi Oka.html": {
       "content_encoding": "gzip",
@@ -52398,9 +52398,9 @@
     "People/Motohiro Kawashima.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bdc09fa01093cdc9b3b3a9d356d02d2995fd947c38c1b94d79f3f6dfcbf601d6",
-      "size": 79785,
-      "source_size": 2103431
+      "sha256": "fb402f76176158a2791cde49c6d12f1b5d2f8bc2a456855fa04b04b4e3fa11bb",
+      "size": 79809,
+      "source_size": 2103726
     },
     "People/Mowg.html": {
       "content_encoding": "gzip",
@@ -52524,9 +52524,9 @@
     "People/Naoto Ohshima.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "59c1decc3af44578bdb1ec4e54a321566b24e34a97144d529b1ee7c04f16438d",
-      "size": 79710,
-      "source_size": 2103098
+      "sha256": "d2a33131025ba198d53ca72eed6e852aa3333bde748dbd6f15fb95f462d272ea",
+      "size": 79787,
+      "source_size": 2103392
     },
     "People/Nat Sanders.html": {
       "content_encoding": "gzip",
@@ -62499,9 +62499,9 @@
     "People/Warren Lancashire.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "75646d33175e4d89397dd63cf198819cec28aef4428ff08261aacbe9fcc744ac",
-      "size": 79802,
-      "source_size": 2103430
+      "sha256": "4c577f4a65b14b11ec178956da7c711f1e97afccd2a8059c8508c504d62661b6",
+      "size": 79824,
+      "source_size": 2103725
     },
     "People/Warren Zide.html": {
       "content_encoding": "gzip",
@@ -63045,9 +63045,9 @@
     "People/Yoko Shimomura.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "beb3c6bc4ff3dfd2b1352cbf9b3969d92c970e4897c72996f78e65980219d509",
-      "size": 79717,
-      "source_size": 2103128
+      "sha256": "acc6bd6793f180e3cc86bc8496446d9fac9fddb33eb053b148d7618b4ff0326f",
+      "size": 79793,
+      "source_size": 2103422
     },
     "People/Yoni Brenner.html": {
       "content_encoding": "gzip",
@@ -63115,9 +63115,9 @@
     "People/Yoshiki Okamoto.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fae93bea0cbd1d253e80c814b2628d6cd38fdcd04a58bad9e7edd7d86dc16ac3",
-      "size": 79836,
-      "source_size": 2103793
+      "sha256": "beac461abc91308ecbc108634f84332ee820e1d1e4b9266215978617031f764b",
+      "size": 79869,
+      "source_size": 2104340
     },
     "People/Yoshimasa Terui.html": {
       "content_encoding": "gzip",
@@ -63150,9 +63150,9 @@
     "People/Yuji Naka.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "09daa4096c79f6306a7f70f27d059b43c60a392206f390fe12147dc1594df30f",
-      "size": 79830,
-      "source_size": 2104184
+      "sha256": "ce456d8c41bce222b973a2e9c1cfec92543920ef3c82aad994af5465cae2f6fe",
+      "size": 79874,
+      "source_size": 2104773
     },
     "People/Yuki Kajiura.html": {
       "content_encoding": "gzip",
@@ -63185,9 +63185,9 @@
     "People/Yuzo Koshiro.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "81b328cec92990aa1400816c0e460490acbdd1d72754182b4a033e1cbf470d0c",
-      "size": 79779,
-      "source_size": 2103548
+      "sha256": "44d2f8c2cbd029d9dcac3a9861cb9b59479805eedb6d5c44b71eee332038dfc7",
+      "size": 79820,
+      "source_size": 2104137
     },
     "People/Yves B\u00e9langer.html": {
       "content_encoding": "gzip",
