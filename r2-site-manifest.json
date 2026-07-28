@@ -4371,9 +4371,9 @@
     "Companies/Namco.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "052199c1b92c674c3503424d85e58e16a3f1e1bb4a1ae1c1a2feac557fe392f1",
-      "size": 13645,
-      "source_size": 230418
+      "sha256": "a5d64c0b4a45fc21108eaf8943ae7e094935655da2e226b120717ce3a4acf5f0",
+      "size": 13668,
+      "source_size": 230671
     },
     "Companies/Naughty Dog.html": {
       "content_encoding": "gzip",
@@ -6996,44 +6996,44 @@
     "Games/Video/1980/Pac-Man.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b2f0397ac7446b8d4092ccfb81746411c509b1f6198024c4ffdc16879506ac40",
-      "size": 3289,
-      "source_size": 25655
+      "sha256": "fd9c7ccbc0ad62e6ea860fc95c8d308da2b8e11bf550e1a247381f20aad88440",
+      "size": 3484,
+      "source_size": 26270
     },
     "Games/Video/1980/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6d5232c4738f4afcd690a11abb64b2d85ae918006cb6c2f69e851326f35ca51a",
-      "size": 2648,
-      "source_size": 22777
+      "sha256": "02e201255d2eda60b5d0044bbf07e6f537bbf2f86750c03591fb6d9d35165ccf",
+      "size": 2799,
+      "source_size": 23194
     },
     "Games/Video/1982/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "769f9d017c93c94a8166e1685b39c1270bfbe4647b54f91779aee0db6852f98c",
-      "size": 2944,
-      "source_size": 23763
+      "sha256": "81912b8139e61a03763f16addd45dda36238eed2e3a812c68718cfd2d181a2a4",
+      "size": 3137,
+      "source_size": 24378
     },
     "Games/Video/1982/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b4f301cd0517a32466d7cec8b1457e86c027900f2620066fa86ca2cfff8d7fde",
-      "size": 2612,
-      "source_size": 22615
+      "sha256": "7c1e8fb3cc893872905f72d851ba50e4ebc9847afb19beef9ce3892d1a70c533",
+      "size": 2767,
+      "source_size": 23032
     },
     "Games/Video/1983/Halloween.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "051bf94f2c8bfd0e4c8942642df776d9be9a158612c743e4577a0d2beb4b668c",
-      "size": 3110,
-      "source_size": 24501
+      "sha256": "0ffb603b55e0f463d1a998a23c4ed2a3e3bc7c8922ca4e5583889c00e4fa87ae",
+      "size": 3296,
+      "source_size": 25116
     },
     "Games/Video/1983/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "11164603807b61167f7ba916212434c179fbfbce658af2dadb6dad390ee16575",
-      "size": 2648,
-      "source_size": 22775
+      "sha256": "a46cce9d69154515d22fdca6706138d9870f13bf6285d2812d5c3757b8488d59",
+      "size": 2794,
+      "source_size": 23192
     },
     "Games/Video/1984/Alien.html": {
       "content_encoding": "gzip",
@@ -12393,9 +12393,9 @@
     "Games/Video/Series/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "725a1fd85a9eb14afc93d2e8924c594ddad28baef08926b8c8def0efbfbe69d9",
-      "size": 6340,
-      "source_size": 67657
+      "sha256": "5b0cfffd7422459a7500fcbf572b1e560641025a7a02ea0188f1c10bb64e636d",
+      "size": 6387,
+      "source_size": 67910
     },
     "Games/Video/Series/Assassin's Creed.html": {
       "content_encoding": "gzip",
@@ -12778,9 +12778,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5ffa5e3850daf5e576fcb8a7a0ea33303bd4e6987cdbf378a3b0181ba250dd18",
-      "size": 924971,
-      "source_size": 12831976
+      "sha256": "575f0ac94a822431ed022a46372b295a72f0619e59757a715bea691e01d5986b",
+      "size": 925045,
+      "source_size": 12832482
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
