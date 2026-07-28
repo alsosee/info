@@ -1305,9 +1305,9 @@
     "Companies/Activision.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ada48f2c39d8ded94bd2e9f3a7872d5e7e6ddc389abc07ca222c9ab20dffa905",
-      "size": 14354,
-      "source_size": 238327
+      "sha256": "40bca14eff6ba36d486272220b4cd50ece94caf275a41f51a52ac4d916f01af8",
+      "size": 14390,
+      "source_size": 238580
     },
     "Companies/Ad Vitam Distribution.html": {
       "content_encoding": "gzip",
@@ -4497,9 +4497,9 @@
     "Companies/Nintendo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "481cdb2608a8a2e9a661a2cd4f875457e6c46bf1de6aafa1a4ab94a4b43bea54",
-      "size": 13583,
-      "source_size": 229915
+      "sha256": "79260b77cad70a41a5c8f8577d7ecf11f99beb38e83ebd44b484187c6facf462",
+      "size": 13612,
+      "source_size": 230209
     },
     "Companies/Nippon TV.html": {
       "content_encoding": "gzip",
@@ -7038,44 +7038,44 @@
     "Games/Video/1984/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2793151ce78c1b030a7c1ae420bd2cabf08a4a3a5f341defc8e2514cfc4e6e20",
-      "size": 2996,
-      "source_size": 23955
+      "sha256": "09314f10e7fa8a4d4d4a0350ad6e199eea64bbdec64aafa3d173e344b73a97ca",
+      "size": 3183,
+      "source_size": 24570
     },
     "Games/Video/1984/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "46e83b889e8854132eb91fc8bef03e75a04f4fea9f8593f599c3610a726ef9dd",
-      "size": 2625,
-      "source_size": 22621
+      "sha256": "6f894e74050d0f8dc9e382b63fee8d1b674cd89eaf197deebca4967dbae6df68",
+      "size": 2773,
+      "source_size": 23038
     },
     "Games/Video/1986/Aliens The Computer Game - Activision.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2df3bb15115663a28f999763dcbfef50748c245810bd255b1636879e043b6cfb",
-      "size": 3065,
-      "source_size": 24910
+      "sha256": "14294635bce88cf8658f7ba174f4531a4a9b12a24d55a0158eaae0ff9b95b929",
+      "size": 3350,
+      "source_size": 26539
     },
     "Games/Video/1986/Aliens The Computer Game - Software Studios.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "402c874e37d24acbc1cbe8ab05d7b12c44cbe192fb2ca6a845b12ed930b4dc00",
-      "size": 3076,
-      "source_size": 24879
+      "sha256": "0eb0398b59027e7b40daedf4734f4fb7b31224233eabdf94aa56d0b5804914b3",
+      "size": 3373,
+      "source_size": 26543
     },
     "Games/Video/1986/The Legend of Zelda.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d01b43af5eb4dc03a8edaec1dbab00626bb8c5d5440f6560dc8229c7c51df2fd",
-      "size": 3559,
-      "source_size": 27158
+      "sha256": "506b490f2f4ff363c7d7a7b89a20860a195424425063227885216f468f97dc1c",
+      "size": 3858,
+      "source_size": 28823
     },
     "Games/Video/1986/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "307f7f0906fc5db32dd3f057ba78a9ddb1a3e531a047ff483d702d6865a6072c",
-      "size": 2722,
-      "source_size": 23585
+      "sha256": "f7571deaacd45168d73985dff1e69a5ba9de92b508bb38c2e5028f41c66e8c5c",
+      "size": 2963,
+      "source_size": 25016
     },
     "Games/Video/1987/Aliens Alien 2.html": {
       "content_encoding": "gzip",
@@ -12393,9 +12393,9 @@
     "Games/Video/Series/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fa637339093f2b60535de568bdb1edd24b669da6918c32a77c69f335a12caf01",
-      "size": 6283,
-      "source_size": 66857
+      "sha256": "725a1fd85a9eb14afc93d2e8924c594ddad28baef08926b8c8def0efbfbe69d9",
+      "size": 6340,
+      "source_size": 67657
     },
     "Games/Video/Series/Assassin's Creed.html": {
       "content_encoding": "gzip",
@@ -12778,9 +12778,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8c4980657f5378f0db7d2bd5d621d288fc7b73d6735211db67e12bf90ee5ccd9",
-      "size": 924755,
-      "source_size": 12829747
+      "sha256": "5ffa5e3850daf5e576fcb8a7a0ea33303bd4e6987cdbf378a3b0181ba250dd18",
+      "size": 924971,
+      "source_size": 12831976
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
@@ -47337,9 +47337,9 @@
     "People/Koji Kondo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1cd32484f4bc6c16a3fcedbf33f0a0f377b790effcdb29aa3edb610cabccd3ce",
-      "size": 79792,
-      "source_size": 2103405
+      "sha256": "e613c1056dd1be05b16546f4ff1b77053bd1a23a9b2c37d4425867d52f401aac",
+      "size": 79824,
+      "source_size": 2103699
     },
     "People/Koshi Nakanishi.html": {
       "content_encoding": "gzip",
@@ -58663,9 +58663,9 @@
     "People/Shigeru Miyamoto.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8182e8a6d711aa7472b555533e038cbc2757820483660b52f43a33c56f8c9b99",
-      "size": 79816,
-      "source_size": 2103513
+      "sha256": "7fface6eed4be932b608b05b9911bc14ae645c6508ce40fb58a4c289cd93eeef",
+      "size": 79850,
+      "source_size": 2103807
     },
     "People/Shigeru Umebayashi.html": {
       "content_encoding": "gzip",
@@ -61736,9 +61736,9 @@
     "People/Toshihiko Nakago.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a87b8eb953dad645a3f2a0abc7d9eeec24c65d4a4172722b6e51fe9464238884",
-      "size": 79797,
-      "source_size": 2103457
+      "sha256": "90c63321674ad8161eb50d74106ee193674582f30f3aac81cc5f01b0f4baf5ff",
+      "size": 79831,
+      "source_size": 2103751
     },
     "People/Toshiko Tasaki.html": {
       "content_encoding": "gzip",
