@@ -1,0 +1,30 @@
+name: "Bob's Burgers, Season 8"
+previous: Shows/2016/Bob's Burgers, Season 7
+description: >
+  The Belcher family’s adventures take a more creative turn, involving everything from a
+  homemade parade float to a musical about their block. This season features more episodes
+  that delve into the kids’ wild imaginations and Bob and Linda’s ever-growing support for
+  their dreams.
+released: 2017-10-01
+genres:
+  - animation
+  - sitcom
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Bob%27s_Burgers
+imdb: https://www.imdb.com/title/tt1561755
+tmdb: https://www.themoviedb.org/tv/32726-bob-s-burgers/season/8
+network: Fox
+creators:
+  - Loren Bouchard
+  - Jim Dauterive
+characters:
+  - name: Bob Belcher
+    voice: H. Jon Benjamin
+  - name: Linda Belcher
+    voice: John Roberts
+  - name: Tina Belcher
+    voice: Dan Mintz
+  - name: Gene Belcher
+    voice: Eugene Mirman
+  - name: Louise Belcher
+    voice: Kristen Schaal

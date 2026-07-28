@@ -1,0 +1,27 @@
+name: Phineas and Ferb
+description: >
+  Phineas and Ferb spend their summer vacation building wildly ambitious inventions while Candace tries to expose them and Perry secretly battles Dr. Doofenshmirtz.
+released: 2007-08-17
+genres:
+  - animation
+  - adventure
+  - comedy
+  - musical
+wikipedia: https://en.wikipedia.org/wiki/Phineas_and_Ferb
+imdb: https://www.imdb.com/title/tt0852863
+tmdb: https://www.themoviedb.org/tv/1877-phineas-and-ferb/season/1
+network: Disney Channel
+creators:
+  - Dan Povenmire
+  - "Jeff \"Swampy\" Marsh"
+characters:
+  - name: Phineas Flynn
+    voice: Vincent Martella
+  - name: Ferb Fletcher
+    voice: Thomas Brodie-Sangster
+  - name: Candace Flynn
+    voice: Ashley Tisdale
+  - name: Perry the Platypus
+    voice: Dee Bradley Baker
+  - name: Heinz Doofenshmirtz
+    voice: Dan Povenmire

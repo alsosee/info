@@ -1,0 +1,29 @@
+name: "Bob's Burgers, Season 4"
+previous: Shows/2012/Bob's Burgers, Season 3
+description: >
+  The Belchers explore new territories, including a disastrous camping trip and a local
+  theater production. Tina's social life takes some unexpected turns, Louise schemes with even
+  more intensity, and Gene’s musical talents come to the forefront in some quirky ways.
+released: 2013-09-29
+genres:
+  - animation
+  - sitcom
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Bob%27s_Burgers
+imdb: https://www.imdb.com/title/tt1561755
+tmdb: https://www.themoviedb.org/tv/32726-bob-s-burgers/season/4
+network: Fox
+creators:
+  - Loren Bouchard
+  - Jim Dauterive
+characters:
+  - name: Bob Belcher
+    voice: H. Jon Benjamin
+  - name: Linda Belcher
+    voice: John Roberts
+  - name: Tina Belcher
+    voice: Dan Mintz
+  - name: Gene Belcher
+    voice: Eugene Mirman
+  - name: Louise Belcher
+    voice: Kristen Schaal

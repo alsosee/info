@@ -1,0 +1,30 @@
+name: "Arcane, Season 2"
+based_on: Games/Video/2009/League of Legends
+previous: Shows/2021/Arcane
+description: >
+  Alliances are forged, allegiances are smashed and fresh dangers emerge as the battle between
+  Piltover and Zaun inspires both glory and heartbreak.
+released: 2024-11-09
+genres:
+  - animation
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Arcane_(TV_series)
+imdb: https://www.imdb.com/title/tt11126994
+tmdb: https://www.themoviedb.org/tv/94605-arcane/season/2
+network: Netflix
+creators:
+  - Christian Linke
+  - Alex Yee
+characters:
+  - name: Vi
+    voice: Hailee Steinfeld
+  - name: Jinx
+    voice: Ella Purnell
+  - name: Caitlyn Kiramman
+    voice: Katie Leung
+  - name: Jayce Talis
+    voice: Kevin Alejandro
+  - name: Viktor
+    voice: Harry Lloyd

@@ -1,0 +1,30 @@
+name: "Bob's Burgers, Season 2"
+previous: Shows/2011/Bob's Burgers
+description: >
+  The Belcher family faces new challenges as they navigate business competitors, school
+  events, and neighborhood eccentricities. Key moments include Tina's journey into a secret
+  society, Louise's passion for revenge, and Bob's attempts to elevate his restaurant’s
+  reputation.
+released: 2012-03-11
+genres:
+  - animation
+  - sitcom
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Bob%27s_Burgers
+imdb: https://www.imdb.com/title/tt1561755
+tmdb: https://www.themoviedb.org/tv/32726-bob-s-burgers/season/2
+network: Fox
+creators:
+  - Loren Bouchard
+  - Jim Dauterive
+characters:
+  - name: Bob Belcher
+    voice: H. Jon Benjamin
+  - name: Linda Belcher
+    voice: John Roberts
+  - name: Tina Belcher
+    voice: Dan Mintz
+  - name: Gene Belcher
+    voice: Eugene Mirman
+  - name: Louise Belcher
+    voice: Kristen Schaal

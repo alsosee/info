@@ -1,0 +1,29 @@
+name: "Bob's Burgers, Season 3"
+previous: Shows/2012/Bob's Burgers, Season 2
+description: >
+  Bob and his family get caught up in various misadventures, from strange Thanksgiving
+  traditions to Tina’s literary endeavors. The Belchers deal with everything from a health
+  inspection to elaborate holiday celebrations, all while keeping their restaurant afloat.
+released: 2012-09-30
+genres:
+  - animation
+  - sitcom
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Bob%27s_Burgers
+imdb: https://www.imdb.com/title/tt1561755
+tmdb: https://www.themoviedb.org/tv/32726-bob-s-burgers/season/3
+network: Fox
+creators:
+  - Loren Bouchard
+  - Jim Dauterive
+characters:
+  - name: Bob Belcher
+    voice: H. Jon Benjamin
+  - name: Linda Belcher
+    voice: John Roberts
+  - name: Tina Belcher
+    voice: Dan Mintz
+  - name: Gene Belcher
+    voice: Eugene Mirman
+  - name: Louise Belcher
+    voice: Kristen Schaal

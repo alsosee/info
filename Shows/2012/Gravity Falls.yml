@@ -1,0 +1,29 @@
+name: Gravity Falls
+description: >
+  Twin brother and sister Dipper and Mabel Pines are sent to spend the summer with their
+  "Grunkle" Stan in the mysterious town of Gravity Falls, Oregon. Upon their arrival, they
+  sense there is something strange about the town and together they begin to unlock its
+  secrets.
+released: 2012-06-15
+genres:
+  - animation
+  - adventure
+  - mystery
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Gravity_Falls
+imdb: https://www.imdb.com/title/tt1865718
+tmdb: https://www.themoviedb.org/tv/40075-gravity-falls/season/1
+network: Disney Channel
+creators:
+  - Alex Hirsch
+characters:
+  - name: Dipper Pines
+    voice: Jason Ritter
+  - name: Mabel Pines
+    voice: Kristen Schaal
+  - name: Stan Pines
+    voice: Alex Hirsch
+  - name: Soos Ramirez
+    voice: Alex Hirsch
+  - name: Wendy Corduroy
+    voice: Linda Cardellini

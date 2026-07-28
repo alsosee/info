@@ -1,0 +1,28 @@
+name: The Office UK
+series: The Office UK
+description: >
+  The story of an office that faces closure when the company decides to downsize its branches.
+  A documentary film crew follow staff and the manager David Brent as they continue their
+  daily lives.
+released: 2001-07-09
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+  - cringe comedy
+network: BBC Two
+wikipedia: https://en.wikipedia.org/wiki/The_Office_(British_TV_series)
+imdb: https://www.imdb.com/title/tt0290978/episodes?season=1
+tmdb: https://www.themoviedb.org/tv/2996-the-office/season/1
+creators:
+  - Ricky Gervais
+  - Stephen Merchant
+characters:
+  - name: David Brent
+    actor: Ricky Gervais
+  - name: Tim Canterbury
+    actor: Martin Freeman
+  - name: Dawn Tinsley
+    actor: Lucy Davis
+  - name: Gareth Keenan
+    actor: Mackenzie Crook

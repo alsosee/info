@@ -1,0 +1,29 @@
+name: "Bob's Burgers, Season 6"
+previous: Shows/2014/Bob's Burgers, Season 5
+description: >
+  The Belchers continue to balance running the restaurant and dealing with personal escapades.
+  Highlights include a cruise adventure, Gene's innovative musical ideas, and the family's
+  encounter with a mysterious holiday visitor.
+released: 2015-09-27
+genres:
+  - animation
+  - sitcom
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Bob%27s_Burgers
+imdb: https://www.imdb.com/title/tt1561755
+tmdb: https://www.themoviedb.org/tv/32726-bob-s-burgers/season/6
+network: Fox
+creators:
+  - Loren Bouchard
+  - Jim Dauterive
+characters:
+  - name: Bob Belcher
+    voice: H. Jon Benjamin
+  - name: Linda Belcher
+    voice: John Roberts
+  - name: Tina Belcher
+    voice: Dan Mintz
+  - name: Gene Belcher
+    voice: Eugene Mirman
+  - name: Louise Belcher
+    voice: Kristen Schaal

@@ -1,0 +1,30 @@
+name: "Gravity Falls, Season 2"
+previous: Shows/2012/Gravity Falls
+description: >
+  Dipper, Mabel, Soos, and Wendy attempt to discover the identity of the author of the
+  journals, while Stan continues to work on operating the mysterious portal beneath the
+  Mystery Shack. Together, the group must stop Bill Cipher, a dream demon who wants to take
+  over the world.
+released: 2014-08-01
+genres:
+  - animation
+  - adventure
+  - mystery
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Gravity_Falls
+imdb: https://www.imdb.com/title/tt1865718
+tmdb: https://www.themoviedb.org/tv/40075-gravity-falls/season/2
+network: Disney Channel
+creators:
+  - Alex Hirsch
+characters:
+  - name: Dipper Pines
+    voice: Jason Ritter
+  - name: Mabel Pines
+    voice: Kristen Schaal
+  - name: Stan Pines
+    voice: Alex Hirsch
+  - name: Soos Ramirez
+    voice: Alex Hirsch
+  - name: Wendy Corduroy
+    voice: Linda Cardellini

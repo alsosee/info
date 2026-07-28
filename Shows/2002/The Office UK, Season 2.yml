@@ -1,0 +1,29 @@
+name: "The Office UK, Season 2"
+series: The Office UK
+previous: Shows/2001/The Office UK
+description: >
+  The second series returns to Wernham Hogg after the threat of closure, following David
+  Brent's continued self-promotion, office politics, and Tim and Dawn's complicated
+  friendship.
+released: 2002-09-30
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+  - cringe comedy
+network: BBC Two
+wikipedia: https://en.wikipedia.org/wiki/The_Office_(British_TV_series)
+imdb: https://www.imdb.com/title/tt0290978/episodes?season=2
+tmdb: https://www.themoviedb.org/tv/2996-the-office/season/2
+creators:
+  - Ricky Gervais
+  - Stephen Merchant
+characters:
+  - name: David Brent
+    actor: Ricky Gervais
+  - name: Tim Canterbury
+    actor: Martin Freeman
+  - name: Dawn Tinsley
+    actor: Lucy Davis
+  - name: Gareth Keenan
+    actor: Mackenzie Crook

@@ -1,0 +1,29 @@
+name: "Bob's Burgers, Season 7"
+previous: Shows/2015/Bob's Burgers, Season 6
+description: >
+  The family tackles new escapades, from surviving a road trip to helping Tina with her
+  growing teenage concerns. Episodes focus on the kids' unique hobbies, Bob's determination to
+  keep his business running, and Linda's unwavering support for her family.
+released: 2016-09-25
+genres:
+  - animation
+  - sitcom
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Bob%27s_Burgers
+imdb: https://www.imdb.com/title/tt1561755
+tmdb: https://www.themoviedb.org/tv/32726-bob-s-burgers/season/7
+network: Fox
+creators:
+  - Loren Bouchard
+  - Jim Dauterive
+characters:
+  - name: Bob Belcher
+    voice: H. Jon Benjamin
+  - name: Linda Belcher
+    voice: John Roberts
+  - name: Tina Belcher
+    voice: Dan Mintz
+  - name: Gene Belcher
+    voice: Eugene Mirman
+  - name: Louise Belcher
+    voice: Kristen Schaal

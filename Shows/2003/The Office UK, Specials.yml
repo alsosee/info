@@ -1,0 +1,29 @@
+name: "The Office UK, Specials"
+series: The Office UK
+previous: Shows/2002/The Office UK, Season 2
+description: >
+  The Christmas specials revisit the Wernham Hogg staff after the documentary has aired,
+  catching up with David Brent, Tim, Dawn, and Gareth as their lives move beyond the original
+  series.
+released: 2003-12-26
+genres:
+  - mockumentary
+  - sitcom
+  - workplace comedy
+  - cringe comedy
+network: BBC One
+wikipedia: https://en.wikipedia.org/wiki/The_Office_Christmas_specials
+imdb: https://www.imdb.com/title/tt0290978/episodes?season=0
+tmdb: https://www.themoviedb.org/tv/2996-the-office/season/0
+creators:
+  - Ricky Gervais
+  - Stephen Merchant
+characters:
+  - name: David Brent
+    actor: Ricky Gervais
+  - name: Tim Canterbury
+    actor: Martin Freeman
+  - name: Dawn Tinsley
+    actor: Lucy Davis
+  - name: Gareth Keenan
+    actor: Mackenzie Crook
