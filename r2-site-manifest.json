@@ -1396,9 +1396,9 @@
     "Companies/Amazon Prime Video.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4d7001962d375436f668a1ba7446063c417dd474b56f07b67838a06a82455607",
-      "size": 13839,
-      "source_size": 233649
+      "sha256": "4e3bb234ca0120bda70394c62143f66ddbfe7ee7e62199e941f1d856f74bd767",
+      "size": 13842,
+      "source_size": 233798
     },
     "Companies/Amazon Studios.html": {
       "content_encoding": "gzip",
@@ -12778,9 +12778,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "575f0ac94a822431ed022a46372b295a72f0619e59757a715bea691e01d5986b",
-      "size": 925045,
-      "source_size": 12832482
+      "sha256": "17d59da874ae5ccffca2a5d78ee8e2d2af63e6639376aa09902cdfab52352331",
+      "size": 925061,
+      "source_size": 12832929
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
@@ -35136,9 +35136,9 @@
     "People/David E. Kelley.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5eb1af8e9276c2c2a3e7ca70cb7089bac9108ba53fa29aa61ab1c287f5f14866",
-      "size": 79809,
-      "source_size": 2103526
+      "sha256": "45fc8869c7423b332e70af9cd44f07d4362dd15856b5381276c11e83d76bcaf6",
+      "size": 79815,
+      "source_size": 2103675
     },
     "People/David Ellison.html": {
       "content_encoding": "gzip",
@@ -45209,9 +45209,9 @@
     "People/Jonathan Shapiro.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9423c2866907dc08ce98aa46540649ff2a00fdbf3c96f9b2efd47e725f4f527f",
-      "size": 79838,
-      "source_size": 2103575
+      "sha256": "8e736615e7379afa3ab0408dc8635c7b2bc27095f8f5d620a70350151745bf43",
+      "size": 79845,
+      "source_size": 2103724
     },
     "People/Jonell Elliott.html": {
       "content_encoding": "gzip",
@@ -63766,9 +63766,9 @@
     "Shows/1989/The Simpsons.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a19e30207d5773dd9c8681156432041edcd5ef2872eea16a3102eac2750b23b8",
-      "size": 5067,
-      "source_size": 33696
+      "sha256": "189bb1d0c8cbc946b1ddc9e346babfcbe4c07080b954182a6ca7a91b04766ba2",
+      "size": 5095,
+      "source_size": 33766
     },
     "Shows/1989/index.html": {
       "content_encoding": "gzip",
@@ -63808,9 +63808,9 @@
     "Shows/1990/The Simpsons, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a47dedf61bc4ccbd4a4554d0893fe318748436bfe4862a1567f41a3d1758fac7",
-      "size": 5778,
-      "source_size": 36928
+      "sha256": "6c411c16a6dc15328a1d94f966cc599c967c74bcb6bbb66821b5cddfa72306ea",
+      "size": 5804,
+      "source_size": 36998
     },
     "Shows/1990/index.html": {
       "content_encoding": "gzip",
@@ -63850,9 +63850,9 @@
     "Shows/1991/The Simpsons, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8d3fc437df27bf3af62e57b1440f45ac699700ea648f8e02a930f6bdcda80670",
-      "size": 6001,
-      "source_size": 37687
+      "sha256": "66d4865ed89d23dae545e9afa692070a2cbb6ba0186f76505cb4978308f2f2c7",
+      "size": 6027,
+      "source_size": 37757
     },
     "Shows/1991/index.html": {
       "content_encoding": "gzip",
@@ -63892,9 +63892,9 @@
     "Shows/1992/The Simpsons, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "65719e3e2d5fba15c832293bbf72fe3b3cd72755c2d6a669c383aa2987795801",
-      "size": 5634,
-      "source_size": 36133
+      "sha256": "f5f376d1e5de19c6dc2dc751ccb1c8503766ca9a470a2eb6afa354cb01614234",
+      "size": 5663,
+      "source_size": 36203
     },
     "Shows/1992/index.html": {
       "content_encoding": "gzip",
@@ -63934,9 +63934,9 @@
     "Shows/1993/The Simpsons, Season 5.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9c0605fbe9e1f43795c357223413410a718e2d9d486c459d158d43e42cc3b27e",
-      "size": 6138,
-      "source_size": 37257
+      "sha256": "f8adcdaeb2d8eb1daf06ebe546030b78a97fa8c4f2d5cc56dbcde4e040a62f1b",
+      "size": 6162,
+      "source_size": 37327
     },
     "Shows/1993/index.html": {
       "content_encoding": "gzip",
@@ -63983,9 +63983,9 @@
     "Shows/1994/The Simpsons, Season 6.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "69699a1b101b02a39c8677d60e1f9781c83f5d254a99227c888f0aa20ed88dcb",
-      "size": 6300,
-      "source_size": 39271
+      "sha256": "a252cba453c0e2c5e9354864da0d560e2d639bac67d5fa40a8ab401b4a50ccb9",
+      "size": 6326,
+      "source_size": 39341
     },
     "Shows/1994/index.html": {
       "content_encoding": "gzip",
@@ -64032,9 +64032,9 @@
     "Shows/1995/The Simpsons, Season 7.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f7676eb2517a14a73c88cb3138e981994aec247a11e2981efbbf1667a0892d52",
-      "size": 6776,
-      "source_size": 39709
+      "sha256": "48b8bf577c84f071e38b50d50149b23e2b2f12c408d1047a9e99802d689b0d0d",
+      "size": 6802,
+      "source_size": 39779
     },
     "Shows/1995/index.html": {
       "content_encoding": "gzip",
@@ -64074,9 +64074,9 @@
     "Shows/1996/The Simpsons, Season 8.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "997d0fe08f6743e5ca8d255bdd47b0daa0af22d6cc3e1e22c449f2e247ff1353",
-      "size": 6519,
-      "source_size": 38617
+      "sha256": "9ba77eb9c07ee60c10651a52cab26d30ca368163764eeeeb1767e616ad05d666",
+      "size": 6547,
+      "source_size": 38687
     },
     "Shows/1996/index.html": {
       "content_encoding": "gzip",
@@ -64130,16 +64130,16 @@
     "Shows/1997/South Park.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2c8ed20bf84ae4484350da2ab40c6de791933d7d0c45be2773fc91dbad6a881d",
-      "size": 5169,
-      "source_size": 35478
+      "sha256": "e2730d6d9312adc66b0d3292070ecbdeb4adb7463977f79ba0b38aaff40de5df",
+      "size": 5196,
+      "source_size": 35549
     },
     "Shows/1997/The Simpsons, Season 9.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a93ea504a364328b64c9971946cc456f5b4001898dd5ade322c33ac4d59aae36",
-      "size": 6623,
-      "source_size": 40532
+      "sha256": "59035b3d1c1b0dd65447bf1b926fa74090ee6c754447c68db36aa35eb9b03877",
+      "size": 6651,
+      "source_size": 40602
     },
     "Shows/1997/index.html": {
       "content_encoding": "gzip",
@@ -64186,9 +64186,9 @@
     "Shows/1998/South Park, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4976ef0214c288afc654ac9369e98505dc8f7624565b472c272ff50697f231ab",
-      "size": 5971,
-      "source_size": 37980
+      "sha256": "5db9482bbe1f08b4c7b7aea7611764e7d79f00979d90422f14d5b743c9ca06d9",
+      "size": 5997,
+      "source_size": 38051
     },
     "Shows/1998/The New Addams Family.html": {
       "content_encoding": "gzip",
@@ -64200,9 +64200,9 @@
     "Shows/1998/The Simpsons, Season 10.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "81e8dcdb529d24f4976ffea0b465820e9ea3b27eb040344470e759c0c33d3130",
-      "size": 6624,
-      "source_size": 40731
+      "sha256": "5a04e4e2ac37dae3dd34f6e6bd581ddc685bae61efd3b30110cf53623672a395",
+      "size": 6651,
+      "source_size": 40802
     },
     "Shows/1998/index.html": {
       "content_encoding": "gzip",
@@ -64221,16 +64221,16 @@
     "Shows/1999/Family Guy, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "da231c0a33f6023221585323ed2a89313b4353f84586ab9a8bd5f5353b888864",
-      "size": 7917,
-      "source_size": 48066
+      "sha256": "28e2b9e4eda30f97c1ffc064fd100acda77ee69c4898b27f18efed4e315567e6",
+      "size": 7945,
+      "source_size": 48137
     },
     "Shows/1999/Family Guy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4d0fa4c2f79b7978a81814b32a59bb4bad870fa1aea7c1268705f8e6305fbc10",
-      "size": 5100,
-      "source_size": 41022
+      "sha256": "b761f2bc6da744d40f421d9c3e329118c98f6b3917ed91eed89920c4ac248cf5",
+      "size": 5127,
+      "source_size": 41093
     },
     "Shows/1999/Frasier, Season 7.html": {
       "content_encoding": "gzip",
@@ -64277,9 +64277,9 @@
     "Shows/1999/South Park, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "924001ed13d1f64b8b9f02f9cb8794b4eefa230d014581aa2739d7e362242f9a",
-      "size": 5755,
-      "source_size": 43089
+      "sha256": "ce56051037c54bf7598ad98721f136aad2bd368e17391a9a7e1e4ac44da6d178",
+      "size": 5781,
+      "source_size": 43160
     },
     "Shows/1999/SpongeBob SquarePants Series.html": {
       "content_encoding": "gzip",
@@ -64305,9 +64305,9 @@
     "Shows/1999/The Simpsons, Season 11.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7301a3c8607132cefccf82158e63259d9d38b2f0fa3a39e89be1b24510e8c8ce",
-      "size": 6971,
-      "source_size": 46796
+      "sha256": "e7ed8d8b6c4e6ffbfea9bce4b9921a6f192dd98caf7a130088b328f2d85fb39e",
+      "size": 6997,
+      "source_size": 46867
     },
     "Shows/1999/The Sopranos.html": {
       "content_encoding": "gzip",
@@ -64410,9 +64410,9 @@
     "Shows/2000/South Park, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "12c095cba599bd376b2a79dc6af7ecd85b015750d1af5140023c18277e39f70d",
-      "size": 6054,
-      "source_size": 45740
+      "sha256": "303ddf8a11378c745246a25a6ed51af16a6cdb3769737a78fae24af0b6b0e706",
+      "size": 6080,
+      "source_size": 45811
     },
     "Shows/2000/Strangers with Candy, Season 2.html": {
       "content_encoding": "gzip",
@@ -64431,9 +64431,9 @@
     "Shows/2000/The Simpsons, Season 12.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1fe3e05163efd006fba3825b109df46d9f9431dad75dd72884295b22158e56ca",
-      "size": 7125,
-      "source_size": 49178
+      "sha256": "b95390f61a3b1f75010b0a562df4fed8030bceaf9bc2450847a21d0c9894d66c",
+      "size": 7151,
+      "source_size": 49249
     },
     "Shows/2000/The Sopranos, Season 2.html": {
       "content_encoding": "gzip",
@@ -64494,9 +64494,9 @@
     "Shows/2001/Family Guy, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3d31b92870de478ab3a6ed756060df1bb2614c69d13016ddfe202752699c0f43",
-      "size": 8170,
-      "source_size": 52667
+      "sha256": "e66ddf3edee17b88ab3fa1707a32211a2a620f3438a740261ba8236197793e44",
+      "size": 8196,
+      "source_size": 52738
     },
     "Shows/2001/Frasier, Season 9.html": {
       "content_encoding": "gzip",
@@ -64557,9 +64557,9 @@
     "Shows/2001/South Park, Season 5.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fba2cbc93055f13985324f19c3a4e8160d3d5762c64ed876dca35da8849d14a9",
-      "size": 5697,
-      "source_size": 46448
+      "sha256": "18424d357665bb54e0d9fa289248ccc136c5d2e1dd0f1337ce1acbeb9278153b",
+      "size": 5722,
+      "source_size": 46519
     },
     "Shows/2001/Star Trek Enterprise.html": {
       "content_encoding": "gzip",
@@ -64571,9 +64571,9 @@
     "Shows/2001/The Simpsons, Season 13.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "de26ce37b77b4331bf2e6b0b8043997f23225296200227162bd086baa92c8ac5",
-      "size": 6920,
-      "source_size": 50484
+      "sha256": "cf8599663c2592ac0b57b219d2f024f25bba2dd694f243d9e089deedcc8da1a6",
+      "size": 6947,
+      "source_size": 50555
     },
     "Shows/2001/The Sopranos, Season 3.html": {
       "content_encoding": "gzip",
@@ -64676,16 +64676,16 @@
     "Shows/2002/South Park, Season 6.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3cbd3476c481093d8379c60a6117a2eb10829e4661faa875623b6d199d22078a",
-      "size": 5690,
-      "source_size": 44820
+      "sha256": "0ef876ba3809c4e6ab6d82c23c574442fb08449ff52a5415ee976e77ed0ef813",
+      "size": 5714,
+      "source_size": 44891
     },
     "Shows/2002/The Simpsons, Season 14.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b4de332c4b22615b73b7a9e496b1b7d1644e146b926a8893c366b23bbc8721d0",
-      "size": 6977,
-      "source_size": 48698
+      "sha256": "73315671c360542537fd86a41429d3a17d14311fe587812eaee011b1931016c7",
+      "size": 7004,
+      "source_size": 48769
     },
     "Shows/2002/The Sopranos, Season 4.html": {
       "content_encoding": "gzip",
@@ -64809,9 +64809,9 @@
     "Shows/2003/South Park, Season 7.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8da9e0b59c2812ca1c7dd1922b9a25a437730f8e48f64c019b5348d2b0653a77",
-      "size": 5514,
-      "source_size": 46101
+      "sha256": "cf4811b139eb5b82057d5b92fa5ada9f90b9164962771aac12ffbd9b39a677fa",
+      "size": 5539,
+      "source_size": 46172
     },
     "Shows/2003/The Animatrix.html": {
       "content_encoding": "gzip",
@@ -64823,9 +64823,9 @@
     "Shows/2003/The Simpsons, Season 15.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "171c3b8e26b3dcabd59ce423ca61bf9d1e801ce5cf87a95001abd12c6ef4b28d",
-      "size": 7132,
-      "source_size": 50683
+      "sha256": "0fa2b9bdbea8418b909724d0915131c0629c3e69b11c723be25bb83225f2846d",
+      "size": 7158,
+      "source_size": 50754
     },
     "Shows/2003/The West Wing, Season 5.html": {
       "content_encoding": "gzip",
@@ -64942,16 +64942,16 @@
     "Shows/2004/South Park, Season 8.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dbd2efd16d6bc37fbf1764c9ad2ff663e5911be0323de273de36974e35da3eb0",
-      "size": 5464,
-      "source_size": 46464
+      "sha256": "08e9f322b5c611c5aad2510992cac1d9ec64735f3a2fa14a5e88b7f663163987",
+      "size": 5493,
+      "source_size": 46535
     },
     "Shows/2004/The Simpsons, Season 16.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f7d5fb7800215699aea0b794dd1543dd0af98bd8aa04551ac432f7ccd3eec4ca",
-      "size": 10387,
-      "source_size": 58308
+      "sha256": "021d7010eb0d234a1c5ebc0f8c06d0a84dd30c0f657d201b207d85473f445fca",
+      "size": 10412,
+      "source_size": 58379
     },
     "Shows/2004/The Sopranos, Season 5.html": {
       "content_encoding": "gzip",
@@ -65040,9 +65040,9 @@
     "Shows/2005/Family Guy, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9dd3417abb3bb5f3b7763eaf93f9864fbf9f3c64a1a2c8aea33b16fe41795dc2",
-      "size": 10772,
-      "source_size": 67196
+      "sha256": "c4bbd248a4286a56ea2d07ec4d54c406f23fb1693738609511e25ad5ba865875",
+      "size": 10796,
+      "source_size": 67267
     },
     "Shows/2005/Grey's Anatomy, Season 2.html": {
       "content_encoding": "gzip",
@@ -65131,9 +65131,9 @@
     "Shows/2005/South Park, Season 9.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5eda1bf251585e5cc4a0da05ed96f42677ee01c10253b1120de963e70fca42b1",
-      "size": 6081,
-      "source_size": 54789
+      "sha256": "2f9b9bed6dd34f05592ba9715670cbf96adff3baac372974d5c4118b98fb5c29",
+      "size": 6108,
+      "source_size": 54860
     },
     "Shows/2005/Supernatural.html": {
       "content_encoding": "gzip",
@@ -65152,9 +65152,9 @@
     "Shows/2005/The Simpsons, Season 17.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bfba5507eedda1dbecd20813aebe825c698e1023599bac03b20f2c98cededa58",
-      "size": 11043,
-      "source_size": 66973
+      "sha256": "6664b25c4a3d2350ae17f69e3ef6b0f2ab8731b06dbfb6c0386a257647596cfd",
+      "size": 11070,
+      "source_size": 67044
     },
     "Shows/2005/The West Wing, Season 7.html": {
       "content_encoding": "gzip",
@@ -65243,9 +65243,9 @@
     "Shows/2006/Family Guy, Season 5.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8ae44f58dad07f1053174fed5be61cf8dbaf39e728e8ca3fd2bd5f11bc3df242",
-      "size": 8468,
-      "source_size": 57405
+      "sha256": "bff797bdd1ebb1b1906f2e0a308a1418306f3b69c9754aae53d603ee75bcac8e",
+      "size": 8494,
+      "source_size": 57476
     },
     "Shows/2006/Grey's Anatomy, Season 3.html": {
       "content_encoding": "gzip",
@@ -65299,16 +65299,16 @@
     "Shows/2006/South Park, Season 10.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a2949e2221c1250402279010304186591e15f6cea80d2bf2de66059410759fdf",
-      "size": 6142,
-      "source_size": 51430
+      "sha256": "f197c66362c8b9079e44c8649f98b703cc46eb1a6c5a0bcadd80db2e19d61990",
+      "size": 6168,
+      "source_size": 51502
     },
     "Shows/2006/The Simpsons, Season 18.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c7c4cb3602dcc01cb694f2a105e1940fd06004eb719dedaa77cc8c295c7e9254",
-      "size": 12026,
-      "source_size": 66154
+      "sha256": "1cb60175bc170e3116f3d8776b7a884caaac2e30937d791e617ba150fa77836e",
+      "size": 12053,
+      "source_size": 66225
     },
     "Shows/2006/The Sopranos, Season 6.html": {
       "content_encoding": "gzip",
@@ -65390,9 +65390,9 @@
     "Shows/2007/Family Guy, Season 6.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dfc8db36c1382642d726de51fcad506c98a1db27b9832eff999abbeec0c67ccd",
-      "size": 7319,
-      "source_size": 50239
+      "sha256": "8bb95e6d8ba8992acba2cf52422bfd8d1429c5c70e570c50da5f7741f43313f7",
+      "size": 7345,
+      "source_size": 50310
     },
     "Shows/2007/Grey's Anatomy, Season 4.html": {
       "content_encoding": "gzip",
@@ -65453,16 +65453,16 @@
     "Shows/2007/South Park, Season 11.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0d2722576f642b1d116166832bd3949bd3cd4934969783189f0342be141b2ad6",
-      "size": 5838,
-      "source_size": 47218
+      "sha256": "eb69be038d24cbb8fdc744eda8d94788110eb629338912568579565aec06405f",
+      "size": 5864,
+      "source_size": 47290
     },
     "Shows/2007/The Simpsons, Season 19.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9b67eee10e76b47a7a72a73411e6b20e49081947a0dbfdfe915cba2fc8e6aef6",
-      "size": 11449,
-      "source_size": 60799
+      "sha256": "3f6717724f4a6e27219869c889336c8bd22d60efc9737e3d021cb73279d81c46",
+      "size": 11476,
+      "source_size": 60870
     },
     "Shows/2007/index.html": {
       "content_encoding": "gzip",
@@ -65516,9 +65516,9 @@
     "Shows/2008/Family Guy, Season 7.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a347e59c68139590c61b793d340ef029a55403e106236b4b232161d56ec90949",
-      "size": 7813,
-      "source_size": 54021
+      "sha256": "378c16d745ed4475eb5571d3ee02dab005c4f43e82e57cd30d1836c00576a4b3",
+      "size": 7841,
+      "source_size": 54092
     },
     "Shows/2008/Fringe.html": {
       "content_encoding": "gzip",
@@ -65593,9 +65593,9 @@
     "Shows/2008/South Park, Season 12.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "87edff929306f75999f45d1815bb6cb11c019d45faa8333f4e0a00104e5a2d99",
-      "size": 6116,
-      "source_size": 50056
+      "sha256": "21037e6939f69699f949459edcd6ed9dc43ef3aa9a68a91d9adb7e0d3a186d5f",
+      "size": 6142,
+      "source_size": 50128
     },
     "Shows/2008/The Penguins of Madagascar.html": {
       "content_encoding": "gzip",
@@ -65607,9 +65607,9 @@
     "Shows/2008/The Simpsons, Season 20.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "535c203d992a32c19ba613067c4793076a5948337a5ecd91fd1fc9e38f7574e8",
-      "size": 11689,
-      "source_size": 63960
+      "sha256": "1e88e29a876551cebb34eb364be6f177e11ffb2c950fe527dcb7c41fca01f458",
+      "size": 11716,
+      "source_size": 64031
     },
     "Shows/2008/The Wire, Season 5.html": {
       "content_encoding": "gzip",
@@ -65642,9 +65642,9 @@
     "Shows/2009/Archer.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "132e6f8f2c6c5bb6d73a58fe087aaee887884bf7401bd52004c806be8b674d7d",
-      "size": 5838,
-      "source_size": 50188
+      "sha256": "b46f131a15bff3013b62a3e453b1be7a42fedfe6ef51ac18b2aeb6ef3a3dc7a6",
+      "size": 5866,
+      "source_size": 50260
     },
     "Shows/2009/Breaking Bad, Season 2.html": {
       "content_encoding": "gzip",
@@ -65691,9 +65691,9 @@
     "Shows/2009/Family Guy, Season 8.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8e127bbc1455a5b4e6eb8024ed40693c8b914dd970d097ee36cd7127975ce482",
-      "size": 7988,
-      "source_size": 56190
+      "sha256": "5b0a80a57d5eb7b85e07f694eda55401c754c4452197b182fa678e14ae4825a7",
+      "size": 8015,
+      "source_size": 56261
     },
     "Shows/2009/Fullmetal Alchemist Brotherhood.html": {
       "content_encoding": "gzip",
@@ -65768,16 +65768,16 @@
     "Shows/2009/South Park, Season 13.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ed267a77c1dc5718a5351a8f686abf5241356918654cee0d8815a9ce1bca4973",
-      "size": 5834,
-      "source_size": 50511
+      "sha256": "0e2d7a41f24e4e36a35dd7c4aaf54a5e039012330833ccfd982f5da1ee3925f4",
+      "size": 5858,
+      "source_size": 50583
     },
     "Shows/2009/The Simpsons, Season 21.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "76a941668ec95ac33de86117a4d71c1610de2ce837e78fa6fa3d7351b73ed543",
-      "size": 10893,
-      "source_size": 62803
+      "sha256": "5a492b3a0a7042a02bacdcb12210862a7195bd1ad08dc2c0241770410e3b949a",
+      "size": 10920,
+      "source_size": 62874
     },
     "Shows/2009/index.html": {
       "content_encoding": "gzip",
@@ -65845,9 +65845,9 @@
     "Shows/2010/Family Guy, Season 9.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e00651a2fc48ecd4789693700a9ccde84f648540e41fa1b89ebc262c1f8c42d7",
-      "size": 7760,
-      "source_size": 55192
+      "sha256": "3996384ef99f27803c9768c429c3f2756b4a39145bacec0b61d1eb4de7b442d3",
+      "size": 7788,
+      "source_size": 55263
     },
     "Shows/2010/Futurama, Season 6.html": {
       "content_encoding": "gzip",
@@ -65922,16 +65922,16 @@
     "Shows/2010/South Park, Season 14.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8cddfb242936a5ca6035a16377a3123af409838ec1b5150601a3fe657ddc99bd",
-      "size": 6069,
-      "source_size": 50928
+      "sha256": "ef9cc121e20bcc544be6e7b9ec72aac6a8abfc8efce09e1aa21080b2b543f8a7",
+      "size": 6094,
+      "source_size": 51000
     },
     "Shows/2010/The Simpsons, Season 22.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bcacfbc831ff4f37ecd3f7770ed20ade7e264f0f20e71a5dcab766136db057a0",
-      "size": 12127,
-      "source_size": 66346
+      "sha256": "6489204c5250f9e308abc197102844b749098304f7f6ed53767ceeb1af9a7a86",
+      "size": 12154,
+      "source_size": 66417
     },
     "Shows/2010/The Walking Dead.html": {
       "content_encoding": "gzip",
@@ -65950,16 +65950,16 @@
     "Shows/2011/Archer, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "402a3297aa156ec405887e52dadf76e8f7bb5387a4c92992507709141e498117",
-      "size": 6257,
-      "source_size": 55401
+      "sha256": "3da62b4d0ad449567050eff5e0b44e807f9cf9cc6a59334908f30a24de0998ba",
+      "size": 6284,
+      "source_size": 55473
     },
     "Shows/2011/Archer, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c4a2f31fc0b2ec47635202b43fe15455e1fd10ef64523d9224a06557aab9a4ca",
-      "size": 6127,
-      "source_size": 55406
+      "sha256": "99639d766f499ed8b590dd2428e781b6bf4ef6c62871196f9fcb9759a66ce9db",
+      "size": 6155,
+      "source_size": 55478
     },
     "Shows/2011/Black Mirror.html": {
       "content_encoding": "gzip",
@@ -66013,9 +66013,9 @@
     "Shows/2011/Family Guy, Season 10.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c27ed1adf88080ceccd84be5d81bf0a42b3b1e88b0811c0fe60d061541183362",
-      "size": 8165,
-      "source_size": 60803
+      "sha256": "8dcf720674769418023dfe43f4472473ab7c93f1dd27c8247e191a994d073118",
+      "size": 8193,
+      "source_size": 60875
     },
     "Shows/2011/Game of Thrones.html": {
       "content_encoding": "gzip",
@@ -66055,9 +66055,9 @@
     "Shows/2011/Ice Age A Mammoth Christmas.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f6defa9a2f5746f5530299951a009b20f1431e15348db6e1e723ac19dab0e98d",
-      "size": 5374,
-      "source_size": 53427
+      "sha256": "ace496dc98b806d738a1c26b1203bb69376d0e2be0f9394e0886c7ea17a2a449",
+      "size": 5407,
+      "source_size": 53521
     },
     "Shows/2011/It's Always Sunny in Philadelphia, Season 7.html": {
       "content_encoding": "gzip",
@@ -66118,16 +66118,16 @@
     "Shows/2011/South Park, Season 15.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "06f7f866b1fd5cbb9033e0e8843c57d84184401c0c745725a31b76dcf4367b15",
-      "size": 6239,
-      "source_size": 55240
+      "sha256": "0f034c2dcc3ae135b32bc373870a4a9c79b2036bb56cf5cab8f5546cf571cecc",
+      "size": 6264,
+      "source_size": 55312
     },
     "Shows/2011/The Simpsons, Season 23.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2617d12cef245e8500e793282a747a55097646d088c00112262a28a52bf9f85a",
-      "size": 10995,
-      "source_size": 67163
+      "sha256": "56a012ff3415eb6735eb182e0d92218be32d9cdf8a0001b2cb68f62cf46e32ef",
+      "size": 11021,
+      "source_size": 67234
     },
     "Shows/2011/The Walking Dead, Season 2.html": {
       "content_encoding": "gzip",
@@ -66188,9 +66188,9 @@
     "Shows/2012/Family Guy, Season 11.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "92a9728c57dbdd3204642652d7d33f47b5a1d02a46cd9c34896f3f9708c068eb",
-      "size": 7844,
-      "source_size": 52615
+      "sha256": "376e7995485f224fd3c030de69e81b3b4b937e19dfdedd11aa2af8ab8cb27653",
+      "size": 7870,
+      "source_size": 52687
     },
     "Shows/2012/Futurama, Season 7.html": {
       "content_encoding": "gzip",
@@ -66258,9 +66258,9 @@
     "Shows/2012/South Park, Season 16.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8761558211baefcf1eadbfc39dbc21176d02ca9f2610d3a07472650e222dd396",
-      "size": 6071,
-      "source_size": 47530
+      "sha256": "4d286965ca0b1179bd0d693a293bed83271cd4f972b9961b2ca6f76030512da7",
+      "size": 6096,
+      "source_size": 47602
     },
     "Shows/2012/TRON Uprising.html": {
       "content_encoding": "gzip",
@@ -66272,9 +66272,9 @@
     "Shows/2012/The Simpsons, Season 24.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "46ebb271322d256df31b3b13e6ed5efe6c4af6aaf21db905de573b0518dbdace",
-      "size": 9402,
-      "source_size": 56127
+      "sha256": "6c7ced9ecb412eb1ea8877ddc313294dbad7dfa33df1743c89d44be3a72f9676",
+      "size": 9429,
+      "source_size": 56198
     },
     "Shows/2012/index.html": {
       "content_encoding": "gzip",
@@ -66286,9 +66286,9 @@
     "Shows/2013/Archer, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "87f2d660e1032349997dde012d209f98d54a9ad60736f4e1956d3e3d5c479cd9",
-      "size": 6238,
-      "source_size": 55700
+      "sha256": "7dd20eccfa36ed07e95dbffe7c4d5890a8db293d9eae0be2fe3ea89caca69790",
+      "size": 6266,
+      "source_size": 55772
     },
     "Shows/2013/Arrested Development, Season 4.html": {
       "content_encoding": "gzip",
@@ -66349,9 +66349,9 @@
     "Shows/2013/Family Guy, Season 12.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fbcfb514b49e8eb1fc655677a962a4b3cb56dddfd03758088ae762e1ff52c032",
-      "size": 7945,
-      "source_size": 60229
+      "sha256": "43b88f4937df1946e3873d005f137872fc63a89b785ce66309bfbee5d9a96ded",
+      "size": 7972,
+      "source_size": 60301
     },
     "Shows/2013/Game of Thrones, Season 3.html": {
       "content_encoding": "gzip",
@@ -66454,9 +66454,9 @@
     "Shows/2013/South Park, Season 17.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f19124cdcd09ae128d60f0e9c03f7529d698949846f31bcbab22dd3566636f5b",
-      "size": 6226,
-      "source_size": 55164
+      "sha256": "6fbd62ffbfbc651763b3057564869c21cc78150d824f58ba8f7513bfaa64e07f",
+      "size": 6251,
+      "source_size": 55236
     },
     "Shows/2013/The Americans.html": {
       "content_encoding": "gzip",
@@ -66468,9 +66468,9 @@
     "Shows/2013/The Simpsons, Season 25.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4635ceff10f8c21cf68ec59724dec429dd11a118499972475fb15b0c2c1c1ebf",
-      "size": 9497,
-      "source_size": 63799
+      "sha256": "c0bccd038fc4863807558a1fb986092bbe5ddf5149ab0a3f802a247db0d37923",
+      "size": 9519,
+      "source_size": 63870
     },
     "Shows/2013/index.html": {
       "content_encoding": "gzip",
@@ -66496,16 +66496,16 @@
     "Shows/2014/Archer, Season 5.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3cf4ea905639d038d28d258c663be893ccdaf32d7370b841e636baf9d355e09b",
-      "size": 5999,
-      "source_size": 51370
+      "sha256": "f77c7bccf48226568b1aa02536922978cc822637869d6fdcb9ee5a2c1da06d06",
+      "size": 6043,
+      "source_size": 51497
     },
     "Shows/2014/BoJack Horseman.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6d36f552a8e184239ec16afa163031cb9c5c52c45dc2e352ead5f3014017dc5f",
-      "size": 5732,
-      "source_size": 50176
+      "sha256": "d5a010f1fd773d54048d541345b9faa223519a7d07ce63d89ee0146434352ae2",
+      "size": 5757,
+      "source_size": 50248
     },
     "Shows/2014/Brooklyn Nine-Nine, Season 2.html": {
       "content_encoding": "gzip",
@@ -66538,9 +66538,9 @@
     "Shows/2014/Family Guy, Season 13.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fe9b94e37448728d46a07cce574a057f923394f38a5aa622fb4f49282f0646c7",
-      "size": 7508,
-      "source_size": 55244
+      "sha256": "9473a419cee24b774f802bc484f4ad179647d9be071372669774fcf7cc25cd0c",
+      "size": 7534,
+      "source_size": 55316
     },
     "Shows/2014/Fargo.html": {
       "content_encoding": "gzip",
@@ -66580,9 +66580,9 @@
     "Shows/2014/Marco Polo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "adc89df94dd39c0bec7c4c09c241e25bb39cc375baebd96739255b27c68e0354",
-      "size": 6482,
-      "source_size": 56750
+      "sha256": "6251194d4101fc479eb48f24c81cceff4f63f9c72d5ee5e6b59f3042d2088eb9",
+      "size": 6489,
+      "source_size": 56759
     },
     "Shows/2014/Modern Family, Season 6.html": {
       "content_encoding": "gzip",
@@ -66615,9 +66615,9 @@
     "Shows/2014/South Park, Season 18.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c48e027a11dd9ebfc9eafcf316398b05d2cf5ff63ec96df0e92c2747aa5e6e22",
-      "size": 6049,
-      "source_size": 50945
+      "sha256": "18daf110c303594e49089dac611c52a761bf9e32af10e9068bf88defd4700810",
+      "size": 6074,
+      "source_size": 51017
     },
     "Shows/2014/The Americans, Season 2.html": {
       "content_encoding": "gzip",
@@ -66629,9 +66629,9 @@
     "Shows/2014/The Simpsons, Season 26.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6d2cac1150579131d8458ceae7a61967b16978bc119b9dc605ecd2b37035ff30",
-      "size": 8146,
-      "source_size": 57135
+      "sha256": "8e289876305c1a6f1e6b28f806fd86d73e756a8f5d91144e17c050a6f92658c0",
+      "size": 8172,
+      "source_size": 57206
     },
     "Shows/2014/True Detective.html": {
       "content_encoding": "gzip",
@@ -66657,9 +66657,9 @@
     "Shows/2015/Archer, Season 6.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6ff2679939babd19e6627796c34dc958ca8d23c302738111314a65fac40c3d3c",
-      "size": 6067,
-      "source_size": 55348
+      "sha256": "14156f48a592ff91ac78bca3400bf433d8309de4fc0e02fe57d0c880cf474c6a",
+      "size": 6093,
+      "source_size": 55420
     },
     "Shows/2015/Better Call Saul.html": {
       "content_encoding": "gzip",
@@ -66671,9 +66671,9 @@
     "Shows/2015/BoJack Horseman, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bef4753ebef726fa0447b7f463d4a7f71b51eb772085456281749120a64bae02",
-      "size": 6188,
-      "source_size": 55146
+      "sha256": "017095a307984d3f650bc5cb089107a0de18ebcabf2f532349471b5b439c7118",
+      "size": 6213,
+      "source_size": 55218
     },
     "Shows/2015/Brooklyn Nine-Nine, Season 3.html": {
       "content_encoding": "gzip",
@@ -66706,9 +66706,9 @@
     "Shows/2015/Family Guy, Season 14.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cb166d38652f00bfea377627a6dc69f66e2b1db2bc67805cf09c35b5c7d34519",
-      "size": 8255,
-      "source_size": 60875
+      "sha256": "a641db2b48fc32642fd8c8e84dc8223cc7d140ee63a585079001c8bbb8d518af",
+      "size": 8283,
+      "source_size": 60947
     },
     "Shows/2015/Fargo, Season 2.html": {
       "content_encoding": "gzip",
@@ -66818,9 +66818,9 @@
     "Shows/2015/South Park, Season 19.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8396350f53bddb2503104c999663b535d1c418171791c9ba1cdcfbed10426232",
-      "size": 6161,
-      "source_size": 55014
+      "sha256": "ed40e03501af4eae33b65416caf938d09759d169cb5a03fecf90afe67355e99e",
+      "size": 6186,
+      "source_size": 55086
     },
     "Shows/2015/The Americans, Season 3.html": {
       "content_encoding": "gzip",
@@ -66832,9 +66832,9 @@
     "Shows/2015/The Simpsons, Season 27.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0ac2b64fc35cc0f7c9b5755117e1a9c67cd0ae9184afa5736179c6ab446fc0cd",
-      "size": 9243,
-      "source_size": 63300
+      "sha256": "e8827a81515f47fe32247d3fb471b9f7cb98e45083a126fc99014077deafe657",
+      "size": 9269,
+      "source_size": 63371
     },
     "Shows/2015/True Detective, Season 2.html": {
       "content_encoding": "gzip",
@@ -66853,205 +66853,212 @@
     "Shows/2016/Agent Carter, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3bab2883bdfb84f414a1de84060a4f4488d05c6c1998e14d83bf559b097f4a38",
-      "size": 7146,
-      "source_size": 65329
+      "sha256": "8a89a5a62ac5ecb6737aa30468b8bf756ef8dc49c5a56229c438f87802f37ab0",
+      "size": 7162,
+      "source_size": 65920
     },
     "Shows/2016/Archer, Season 7.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7ce9ef63a28cef09000a83c80ab795b839c945774d139359cea51311ccf4d7b3",
-      "size": 6049,
-      "source_size": 54604
+      "sha256": "7b6ce9b115c4f198ac269d91e0918ce8c6568b2a20c0eb8b94810091a2296839",
+      "size": 6090,
+      "source_size": 55267
     },
     "Shows/2016/Atlanta.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "611c1da510d23c6f10c8138d03f0f3cd500960e67be981099fe75a06db18a0b6",
-      "size": 6555,
-      "source_size": 60425
+      "sha256": "5c9ffa0a7a1c1a5a07b8be97dd46775980453d01106dc5b2304684d8cd6d344a",
+      "size": 6571,
+      "source_size": 61016
     },
     "Shows/2016/Better Call Saul, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "243900f011de0e346533dcdc70a1c5f95b0892e47762076f43a1ad0cd2b7a27e",
-      "size": 5610,
-      "source_size": 55437
+      "sha256": "16695023a9b51b2b355d87961ee309c6ed69444d00f26365cd4e7a6517c4ba5a",
+      "size": 5626,
+      "source_size": 56028
     },
     "Shows/2016/Billions.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3c11a75a73e5051a8b48877e7f34f2cea3fde808acc9c42025f0478d14369fcb",
-      "size": 6647,
-      "source_size": 59988
+      "sha256": "e0acf1a1fda69c4ae420db76f6f2e7686245bb6257afb024f670cc934412b01b",
+      "size": 6661,
+      "source_size": 60579
     },
     "Shows/2016/Black Mirror, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ca53dd0c03c5f5dca1b249a57c60680ca2c833e3a5607dfbf30c2add6be0f3cd",
-      "size": 8614,
-      "source_size": 83525
+      "sha256": "c47c3c433792d9b3cfd93ead51e6f38916d45e8524b2baa028e9cb6e92d40883",
+      "size": 8629,
+      "source_size": 84116
     },
     "Shows/2016/BoJack Horseman, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "78d27a081ffe9d69ef526a5e7ac5782591b4d22beb87d59243d521e294c740f2",
-      "size": 6247,
-      "source_size": 54814
+      "sha256": "9f337adfab2cfdb50fe0e80c133bea287016250d235b69b26f65e66dd85a102f",
+      "size": 6288,
+      "source_size": 55477
     },
     "Shows/2016/Brooklyn Nine-Nine, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6de0078abfc466a65a71ed2d1f6bd26f598ce18be525759be97b067ec066f3af",
-      "size": 6026,
-      "source_size": 58172
+      "sha256": "2bd55fa8f4e17692b5618e214d05b83bd204549aa3e2755a38f86ca12dbe4ed0",
+      "size": 6039,
+      "source_size": 58763
     },
     "Shows/2016/Criminal Minds, Season 12.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "08df34bb84c0b3732330e82f2f43afd30abdc2ea113c90ef3303265134b594e5",
-      "size": 5198,
-      "source_size": 51088
+      "sha256": "89ed8be53da92248071630b003a80ef0cd564f8dd08fc728624809a27c1bdb5e",
+      "size": 5210,
+      "source_size": 51679
     },
     "Shows/2016/Easy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3997dbe10ac23daceb3910a947e5a159e030f4fbe6a678b6def27f73e19b4e95",
-      "size": 6686,
-      "source_size": 61671
+      "sha256": "3b3f04e43f0ce08d22721e52374f2175e7caf02b4bcd72c1dbffd9023856de84",
+      "size": 6700,
+      "source_size": 62262
     },
     "Shows/2016/Family Guy, Season 15.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "527a6e316f836069846e8aad813ffa591ea2618a396c3db6b0aca79e5589c9dd",
-      "size": 8076,
-      "source_size": 59949
+      "sha256": "77d528f6c2b3e37490e89052d7caf60dc8ede9c3f21657c764d98f392275dd3e",
+      "size": 8115,
+      "source_size": 60612
     },
     "Shows/2016/Fleabag.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ba855ae9b1a5e1d037e7504efac7b374b30aac4d8214cc404ad8fcfef11b1668",
-      "size": 6064,
-      "source_size": 57941
+      "sha256": "3c38604883b5443074c0aef6a150a7381373505d62f9f55928820507192f79e0",
+      "size": 6079,
+      "source_size": 58532
     },
     "Shows/2016/Game of Thrones, Season 6.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "616afb5778d8aa7712a0593b7a0facfc5ea6b3e64227be0a2b3960726bd83a74",
-      "size": 7496,
-      "source_size": 69409
+      "sha256": "5e9497c67bbcca46b0cbec48217a592c99467068a7a3621b3338e4bbae4c2d98",
+      "size": 7510,
+      "source_size": 70000
+    },
+    "Shows/2016/Goliath Series.html": {
+      "content_encoding": "gzip",
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e381dc0a4277b423a50952fd4b1c4a4c324ad558106646b813eddf6336f0b975",
+      "size": 4995,
+      "source_size": 50405
     },
     "Shows/2016/Goliath.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8656d27d0ec7f96bddf6a96a8767d0ea39abbd0327d3b89eb7b0dde1f1fc2b7b",
-      "size": 5761,
-      "source_size": 56901
+      "sha256": "752fa94654173621f5e6c0b97ef2e3d841c01b8fb09133b570d268b7dffd7f74",
+      "size": 5800,
+      "source_size": 57564
     },
     "Shows/2016/Grey's Anatomy, Season 13.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "32df06cea603befb3fe8930f40fd44c09400576ad8c1cd45316fc45abd6c8ea0",
-      "size": 5154,
-      "source_size": 50886
+      "sha256": "30a27d97f32d9b4d4a08d9240d7ba8adb20ceabd2ce1a106d827048eaa1121c4",
+      "size": 5169,
+      "source_size": 51477
     },
     "Shows/2016/Ice Age The Great Egg-Scapade.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8ea3cca528f259aa93a6d48bfcd3809a3549dd24dff82fd495c8e11a3564ddc8",
-      "size": 5536,
-      "source_size": 53423
+      "sha256": "18a5a50556d80a99b87d6ecba1a9eb8cc262d8d8851bf7328c8c6ae1464b7daa",
+      "size": 5595,
+      "source_size": 54111
     },
     "Shows/2016/It's Always Sunny in Philadelphia, Season 11.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4f4218749a441972d53723ec4e103174c152171a6bf5a843cd81c3e0b50917bf",
-      "size": 5634,
-      "source_size": 54736
+      "sha256": "a6d8be58983533dacadad401261633eb58ad0a7ec1079cccb399e8b92f07a47c",
+      "size": 5648,
+      "source_size": 55327
     },
     "Shows/2016/Killjoys, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bb90bda691e05f2ac6890a060a321a09e8a761d8e46a12d1e6bd41ec935822ff",
-      "size": 6468,
-      "source_size": 57070
+      "sha256": "6e86e920098b74a8322b0644ec228851bdb08ab8b60cb1c7f01d4f3d8ef483ea",
+      "size": 6487,
+      "source_size": 57661
     },
     "Shows/2016/Marco Polo, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "daa869766bd72c6d4757b9acb621324e6954db2fe41f37a2cad5d3ee93a2caac",
-      "size": 6607,
-      "source_size": 59909
+      "sha256": "3f0793183cea90f81bda02388d76f4b9883034665497bf7ab9f76c8250479720",
+      "size": 6647,
+      "source_size": 60572
     },
     "Shows/2016/Modern Family, Season 8.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ad57a2650fdba668dfae39b77a34649340d44ae9ecce5a8c4a4993599cae6c84",
-      "size": 6231,
-      "source_size": 58410
+      "sha256": "02e9d8475e75c97582012bab28d4a4f99d4e4dfc3b90966a8555e7d7ee693203",
+      "size": 6245,
+      "source_size": 59001
     },
     "Shows/2016/NCIS, Season 14.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9986b9a8e850d23fcfa9f283bd3238a5738d9d050082099afeb14780d85478ca",
-      "size": 5192,
-      "source_size": 50975
+      "sha256": "ad798f2f5d94e70dbe3a98c087b4993a36f1bbc8570f47d32694338798338a4b",
+      "size": 5205,
+      "source_size": 51566
     },
     "Shows/2016/Narcos, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b6df79486e54d668aa37fb28ca96d97826ad2ad1000eaaa2ed84ff1a19d3a62c",
-      "size": 6425,
-      "source_size": 57125
+      "sha256": "eb336c8233bf16e04dd47b18c4598f8cc81bc421a8337a4ce03b65d467571613",
+      "size": 6440,
+      "source_size": 57716
     },
     "Shows/2016/One Piece, Season 18.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e1380a7b481b4320096eacb762ba93f17330a06092329d9405443fba1d7502ac",
-      "size": 5407,
-      "source_size": 51778
+      "sha256": "833e1e27a57b701816948e99365a11ee772277c6797e52f20ed214c7396093a5",
+      "size": 5423,
+      "source_size": 52369
     },
     "Shows/2016/Rectify, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "15bdfa1540fe03f0eddcd98db6503361abb63ca82b9a89e348fbd31b7c73dbfe",
-      "size": 6537,
-      "source_size": 59059
+      "sha256": "5f1bd5b6b41c0bae0271c45179185ad73876f587e8a0cf9e9c8b695ab46c1d25",
+      "size": 6553,
+      "source_size": 59650
     },
     "Shows/2016/South Park, Season 20.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3f678e41cab15cdaa8a5b75255f192010c5f5575198ccecef2f45df17c9a0bcd",
-      "size": 6025,
-      "source_size": 54274
+      "sha256": "b972653e3786429cdfb7c0b50180775b137e1d439d12d256f2a921419efdcd44",
+      "size": 6064,
+      "source_size": 54937
     },
     "Shows/2016/Stranger Things.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e18f328278a470ecec8d06fe372501a992e94f834d9c8a4a6c3049899db6f9a2",
-      "size": 7031,
-      "source_size": 62787
+      "sha256": "2819fefabaee905e01c65d0a009c9752ccf7aa28879769db4b4d252f46d2bb64",
+      "size": 7045,
+      "source_size": 63378
     },
     "Shows/2016/The Americans, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7f919cc495255166631ee44a1e64beb9686d9accb13131a968603c0791fe2e40",
-      "size": 5790,
-      "source_size": 57000
+      "sha256": "ca35b2682c93a7f59bd97466d3a23727b9f62dc8ce48a09e6c3e02f35b8fd242",
+      "size": 5803,
+      "source_size": 57591
     },
     "Shows/2016/The Simpsons, Season 28.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9290791dfab51fd80f8f0fa92b1610af91a3cff084c29b60fdefc3aefe736016",
-      "size": 8514,
-      "source_size": 61794
+      "sha256": "1b124ea1f94f9161e4969a7fed26155d269100ef960fc6106e09a96e11c1f5b8",
+      "size": 8558,
+      "source_size": 62456
     },
     "Shows/2016/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "70c71fa82c3c923e97d08f8c5cb1951c15cab97751fa6844f536d5d29b6eafa1",
-      "size": 4511,
-      "source_size": 48381
+      "sha256": "80c5700a8c0f03320db9406e985e559f6358c98e991aedc6fd721e7bb195d781",
+      "size": 4525,
+      "source_size": 48972
     },
     "Shows/2017/All Hail King Julien Exiled.html": {
       "content_encoding": "gzip",
@@ -67063,9 +67070,9 @@
     "Shows/2017/Archer, Season 8.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "41c2502e93b57ec7dd9f2e066f8d5cc26727f8de4b628382013345b1404df860",
-      "size": 5912,
-      "source_size": 54090
+      "sha256": "81eba7810f74d36b90ca4402106cb90adff340fe09a292a9935cc19e37d545f9",
+      "size": 5959,
+      "source_size": 54222
     },
     "Shows/2017/Attack on Titan, Season 2.html": {
       "content_encoding": "gzip",
@@ -67091,9 +67098,9 @@
     "Shows/2017/BoJack Horseman, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1f9ecf659fffa50c638c416450a498a48d51fee28e479f67fb3b7f010ef65670",
-      "size": 6282,
-      "source_size": 54900
+      "sha256": "69955c972b01e16515bae07344aac8438b3384cadc0f6521b1e80db804cb15ce",
+      "size": 6307,
+      "source_size": 54972
     },
     "Shows/2017/Brooklyn Nine-Nine, Season 5.html": {
       "content_encoding": "gzip",
@@ -67126,9 +67133,9 @@
     "Shows/2017/Family Guy, Season 16.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "38bd4ad3a34a57af906a6471ded929a1a350588db6562071551af77460bc06aa",
-      "size": 7620,
-      "source_size": 58880
+      "sha256": "02c1a89faf9d851f9c856313cf75406a037404c36c8a8217d1eff3a05c0cc635",
+      "size": 7647,
+      "source_size": 58952
     },
     "Shows/2017/Game of Thrones, Season 7.html": {
       "content_encoding": "gzip",
@@ -67217,9 +67224,9 @@
     "Shows/2017/South Park, Season 21.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dfc29899daf7a953c909383399cef0cc9de6c54cfea22323c0ed73b408685b23",
-      "size": 6190,
-      "source_size": 54593
+      "sha256": "a76973eebb22b6389e98cb611551669c9e4cc859b6a52881496ef81799e7b789",
+      "size": 6216,
+      "source_size": 54665
     },
     "Shows/2017/Star Trek Discovery.html": {
       "content_encoding": "gzip",
@@ -67245,9 +67252,9 @@
     "Shows/2017/The Simpsons, Season 29.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d2297914b0282b2a8e0367e2c47f821baa85dc6dbc6cb1e17ce2cb43af2f7fdc",
-      "size": 7838,
-      "source_size": 59855
+      "sha256": "717ebba197688ebef10911ffc3e64334b4e3400b50fad7d14025adffe8bb35c8",
+      "size": 7864,
+      "source_size": 59926
     },
     "Shows/2017/index.html": {
       "content_encoding": "gzip",
@@ -67259,9 +67266,9 @@
     "Shows/2018/Archer, Season 9.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7b6aabef3b0c802f09344401e8f8c6bdbd77fede73ba0316adbbbda2ffea7622",
-      "size": 5607,
-      "source_size": 49089
+      "sha256": "9330321c33b86123f99ae44bdb9aff051fa0aa173ec92f49386cc6fbe6ec1f46",
+      "size": 5658,
+      "source_size": 49225
     },
     "Shows/2018/Arrested Development, Season 5.html": {
       "content_encoding": "gzip",
@@ -67294,9 +67301,9 @@
     "Shows/2018/BoJack Horseman, Season 5.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e6b99feddf6fa6a62a16a2bbc4be00479d2aea7260dc75b42204f12ce86bb062",
-      "size": 5950,
-      "source_size": 49848
+      "sha256": "5707852c13fb50a9a0b1a999b10afed09d2f33c88d137cd10332424d0a55644d",
+      "size": 5976,
+      "source_size": 49920
     },
     "Shows/2018/Criminal Minds, Season 14.html": {
       "content_encoding": "gzip",
@@ -67308,16 +67315,16 @@
     "Shows/2018/Family Guy, Season 17.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8825994ce040bae7e0d2f9c2ef9958207ac9ac5c0cf70e71d86dbc477c4bd921",
-      "size": 7236,
-      "source_size": 53856
+      "sha256": "7d0a43c91b600f3670497963ba20333d1e4027ea05070a5674af539bf1ece7b4",
+      "size": 7264,
+      "source_size": 53928
     },
     "Shows/2018/Goliath, Season 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cf768445ccd9ab1c10349e6c23c1e7d06a458ee8da6e0ac610ac97cbeadef1a4",
-      "size": 5402,
-      "source_size": 51400
+      "sha256": "45740d7e1f38d0e67fb33dfef96492e239119d274cf13304d4237e50de7e5a02",
+      "size": 5426,
+      "source_size": 51472
     },
     "Shows/2018/Grey's Anatomy, Season 15.html": {
       "content_encoding": "gzip",
@@ -67378,9 +67385,9 @@
     "Shows/2018/South Park, Season 22.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9d6d6587b1d84420a049dc368af456e5194ffcceb51e97d94eb1cad4aae44f08",
-      "size": 5856,
-      "source_size": 49625
+      "sha256": "8a29b6b05d6c8707b0c8cb94f597ac63b64ac1a2a7cbe3f715cfe29d6d6e9d2f",
+      "size": 5882,
+      "source_size": 49697
     },
     "Shows/2018/Star Trek Short Treks.html": {
       "content_encoding": "gzip",
@@ -67413,9 +67420,9 @@
     "Shows/2018/The Simpsons, Season 30.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "adea0a3cff67382dbc1f9d5458552c62c74bfdb56641f44661d837dea47cd873",
-      "size": 7832,
-      "source_size": 55503
+      "sha256": "eb62c730ff573f7cabd5325f1c193d8ded06ac16b60bbce17e3018156649e96e",
+      "size": 7856,
+      "source_size": 55574
     },
     "Shows/2018/index.html": {
       "content_encoding": "gzip",
@@ -67427,16 +67434,16 @@
     "Shows/2019/Archer, Season 10.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a3a6159b9a52a959c097302cf78cbef6921ea29813f34e2b0d05a949c93c502d",
-      "size": 6294,
-      "source_size": 61366
+      "sha256": "bb75fed0828690a8b65780cda89934bfa8806ba5c0f56285500bc02da36b7546",
+      "size": 6340,
+      "source_size": 61494
     },
     "Shows/2019/BoJack Horseman, Season 6.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bfe8b43fa6226d00c75a148fd45ef42273dec7c213600acc3c35b6e1f1756fef",
-      "size": 6741,
-      "source_size": 62557
+      "sha256": "0db57d266478a5e325f9e672972c973b6d00fa2776da3c036222597feda571be",
+      "size": 6767,
+      "source_size": 62629
     },
     "Shows/2019/Brooklyn Nine-Nine, Season 6.html": {
       "content_encoding": "gzip",
@@ -67476,9 +67483,9 @@
     "Shows/2019/Family Guy, Season 18.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2c09f051bc1453c11541dcecf98ba71c4f6a322f5adc9eaf39813c283c705cf9",
-      "size": 7802,
-      "source_size": 65738
+      "sha256": "2af747ba525e805df8eea5b110f33f444c44d8ccddeb38b2870af44093c8565f",
+      "size": 7828,
+      "source_size": 65810
     },
     "Shows/2019/Fleabag, Season 2.html": {
       "content_encoding": "gzip",
@@ -67497,9 +67504,9 @@
     "Shows/2019/Goliath, Season 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7eff6a9a642c2b4ffb9a75428e841c2d11541cc6876cf6dcbb1d5ea881c625c2",
-      "size": 6040,
-      "source_size": 64507
+      "sha256": "223d3d2cc392858b700479d643b8a19d28baee139508a17fe106b7c9ca6505f4",
+      "size": 6065,
+      "source_size": 64579
     },
     "Shows/2019/Good Omens.html": {
       "content_encoding": "gzip",
@@ -67595,9 +67602,9 @@
     "Shows/2019/South Park, Season 23.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "869da44069b61ef9b50cdb9f705dd264f804ef549a0360d6ef274c9f51bb9e40",
-      "size": 6377,
-      "source_size": 61495
+      "sha256": "7320aa6d530b4c2cb7e9e83758ae38048cacb6885b6782ecb07a5281b59435df",
+      "size": 6403,
+      "source_size": 61567
     },
     "Shows/2019/Stranger Things, Season 3.html": {
       "content_encoding": "gzip",
@@ -67644,9 +67651,9 @@
     "Shows/2019/The Simpsons, Season 31.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "997d79d5ec7cdb0a34a7c3630e8de32affc6c8707d77ce61ecfc55f879b3b8c2",
-      "size": 8538,
-      "source_size": 67717
+      "sha256": "554b58d9722e0b1369a66c1c7dca9cc135b30c54255cec6315fb69f4868eb1d5",
+      "size": 8562,
+      "source_size": 67788
     },
     "Shows/2019/True Detective, Season 3.html": {
       "content_encoding": "gzip",
@@ -67679,9 +67686,9 @@
     "Shows/2020/Archer, Season 11.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7b3a9d9c4c09fa607b4c5a592d316e46e486a289a1218b4df7390f45d8b2881e",
-      "size": 5973,
-      "source_size": 53747
+      "sha256": "e569981a9bc9f04aa72b9cc42ab830247b1d0881cd09b280543de69a890adef3",
+      "size": 5999,
+      "source_size": 53820
     },
     "Shows/2020/Attack on Titan, Season 4.html": {
       "content_encoding": "gzip",
@@ -67735,9 +67742,9 @@
     "Shows/2020/Family Guy, Season 19.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d0e6b834261f9c86cce9d673a98076de2f89e8a629414db2eccc3a09f247a655",
-      "size": 7403,
-      "source_size": 57942
+      "sha256": "35b6370b0ba736c2fe21a81a06e8cdda07edaed71324daad4efe275e8dd186ef",
+      "size": 7427,
+      "source_size": 58014
     },
     "Shows/2020/Grey's Anatomy, Season 17.html": {
       "content_encoding": "gzip",
@@ -67805,9 +67812,9 @@
     "Shows/2020/South Park, Season 24.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7dc5cf2341c5700caee57e8fd91601a01112ae8973f70a44d0c804c62ddf7317",
-      "size": 5333,
-      "source_size": 52060
+      "sha256": "8cd808bbc011ac046311c4be53192398eb281edbf5f1156f659fd5626b14075c",
+      "size": 5358,
+      "source_size": 52132
     },
     "Shows/2020/Star Trek Lower Decks.html": {
       "content_encoding": "gzip",
@@ -67847,9 +67854,9 @@
     "Shows/2020/The Simpsons, Season 32.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "54dcb085048c013f70821097c7cbfa51771839277a67d6a35d7dc15899f091bc",
-      "size": 7227,
-      "source_size": 58058
+      "sha256": "521b0d88a7e942d5faaac807bf7ab956d80c7fbc7c79a8270b37e2da0c4d2047",
+      "size": 7253,
+      "source_size": 58129
     },
     "Shows/2020/What We Do in the Shadows, Season 2.html": {
       "content_encoding": "gzip",
@@ -67868,9 +67875,9 @@
     "Shows/2021/Archer, Season 12.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7fd94c6cbff9c4209041bc83ecef3b5e4218d527374128459dd0cd204c26ffd4",
-      "size": 5926,
-      "source_size": 53165
+      "sha256": "9f95423c4c6292f4c67fb77ee05cac7ffe82dc03918507d773676821696bf242",
+      "size": 5955,
+      "source_size": 53238
     },
     "Shows/2021/Brooklyn Nine-Nine, Season 8.html": {
       "content_encoding": "gzip",
@@ -67917,16 +67924,16 @@
     "Shows/2021/Family Guy, Season 20.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3a52461ac9fd61c54b164b29777f35c9722c15def6c600582830f03da473c1a1",
-      "size": 7221,
-      "source_size": 57078
+      "sha256": "208f2f60c5d8f780356f16bb2b8eb331e2c0da2544d423f70d2f9e46d5837ded",
+      "size": 7247,
+      "source_size": 57150
     },
     "Shows/2021/Goliath, Season 4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c2b14369ee0c934e49bc3628026f7b460be6f511055599fa5c39ea4aec573d2f",
-      "size": 5881,
-      "source_size": 57485
+      "sha256": "0f6a77366da14f65fff763bc182e4636961a7475f5da181a8b72664ca11e51dd",
+      "size": 5906,
+      "source_size": 57557
     },
     "Shows/2021/Grey's Anatomy, Season 18.html": {
       "content_encoding": "gzip",
@@ -68036,9 +68043,9 @@
     "Shows/2021/The Simpsons, Season 33.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6b32a835ef419fa037964ec463598688e7d891954721283481303f21b7395866",
-      "size": 7100,
-      "source_size": 57390
+      "sha256": "1724a3eb95f0913550d67e7367c19dced672f4cb35ed95a83ced605785316938",
+      "size": 7127,
+      "source_size": 57461
     },
     "Shows/2021/WandaVision.html": {
       "content_encoding": "gzip",
@@ -68071,9 +68078,9 @@
     "Shows/2022/Archer, Season 13.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8a2f0f34d7219158b19ceee2a315b3590e6c2ee4d0eb8bfe2d98c86a15848eb5",
-      "size": 6112,
-      "source_size": 58871
+      "sha256": "3cf7294c2dfe74a06ed17390bed77420755e77699765136c586348d16665fe2d",
+      "size": 6139,
+      "source_size": 58944
     },
     "Shows/2022/Atlanta, Season 3.html": {
       "content_encoding": "gzip",
@@ -68127,9 +68134,9 @@
     "Shows/2022/Family Guy, Season 21.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e772c08cf312b0e3bc6f3bdbfe8726d348359613d086d4ad8b3d3ed83a18d7ce",
-      "size": 7537,
-      "source_size": 63033
+      "sha256": "b4d570b757a5bfaeb5520fc99dea6f4810636ce1b6debf0ca70e40fad26fe8ed",
+      "size": 7563,
+      "source_size": 63105
     },
     "Shows/2022/Grey's Anatomy, Season 19.html": {
       "content_encoding": "gzip",
@@ -68141,9 +68148,9 @@
     "Shows/2022/Ice Age Scrat Tales.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c115fbf3d4abfd12dc9100313f5ab829e7bf1b388fd87a1e4b84c84ef6869001",
-      "size": 5476,
-      "source_size": 56129
+      "sha256": "2249735c36efbdd58e5de3af42e9af31d40a984c4b5adb475db581e0b5e9691c",
+      "size": 5504,
+      "source_size": 56222
     },
     "Shows/2022/Law & Order, Season 21.html": {
       "content_encoding": "gzip",
@@ -68218,9 +68225,9 @@
     "Shows/2022/South Park, Season 25.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b1c51c5e70fe595c91072c868d90d26a308c26a387b3112ee3c50904ae265a4a",
-      "size": 5934,
-      "source_size": 58192
+      "sha256": "eb5dbc1db68469d8b5c40de14e579a20076e9102d919dd2486fbecadd08ee5ed",
+      "size": 5959,
+      "source_size": 58264
     },
     "Shows/2022/Star Trek Picard, Season 2.html": {
       "content_encoding": "gzip",
@@ -68260,9 +68267,9 @@
     "Shows/2022/The Simpsons, Season 34.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3368cce615702a71a50aef7f6b62f871bd9052ea43d2b5c53cd8cbb74134ca09",
-      "size": 7524,
-      "source_size": 63599
+      "sha256": "fcf0a20f76aefa6bb0885f3a825b17eb9d12499d0a3fcb2e124b461c6dafbb6a",
+      "size": 7551,
+      "source_size": 63670
     },
     "Shows/2022/Undone, Season 2.html": {
       "content_encoding": "gzip",
@@ -68295,9 +68302,9 @@
     "Shows/2023/Archer, Season 14.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5ca965df741d38a53ef1f5c84cb468ba09fb0f1d4ff321bb7940a54e83dfceb1",
-      "size": 6046,
-      "source_size": 51356
+      "sha256": "a7ab584fbfd302d276642e0ecb14b4dcca1bfd4ba7bad6e1ead6119565e23da1",
+      "size": 6073,
+      "source_size": 51429
     },
     "Shows/2023/Bob's Burgers, Season 14.html": {
       "content_encoding": "gzip",
@@ -68316,9 +68323,9 @@
     "Shows/2023/Family Guy, Season 22.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2bbecb95c571725867a79b28b187d9d10e677d3a4bc5c6f074f73fdd7c8c9d49",
-      "size": 6774,
-      "source_size": 53665
+      "sha256": "92b248af24a912e56efbf5b4ee2aecfa8f528e7b689c3c4f2c4e4a2f065700fc",
+      "size": 6801,
+      "source_size": 53737
     },
     "Shows/2023/Futurama, Season 11.html": {
       "content_encoding": "gzip",
@@ -68393,9 +68400,9 @@
     "Shows/2023/South Park, Season 26.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6d9d2f1c07e13f8169faef7a3aff6b93a030da735aead8cd1e2c57eaa7f5866b",
-      "size": 5450,
-      "source_size": 49840
+      "sha256": "fc60dbf6595c7348b8bcdd8d210e79f4077556af02f69aaa9f01195bfc1296c0",
+      "size": 5475,
+      "source_size": 49912
     },
     "Shows/2023/Star Trek Picard, Season 3.html": {
       "content_encoding": "gzip",
@@ -68449,9 +68456,9 @@
     "Shows/2023/The Simpsons, Season 35.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5a8dfbd86fd0e185e4f27af6c1293e6755e47e00f3c0c1989473753090e52df7",
-      "size": 6904,
-      "source_size": 54501
+      "sha256": "efb2315be28dc36b372609dc314634380a3415bd1b7fdf8570e6a50b25ad3e97",
+      "size": 6931,
+      "source_size": 54572
     },
     "Shows/2023/What We Do in the Shadows, Season 5.html": {
       "content_encoding": "gzip",
@@ -68610,9 +68617,9 @@
     "Shows/2024/The Simpsons, Season 36.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "65121f938b383be944f174732236fd638400e4f779cfe2f5591376834c4f4900",
-      "size": 6510,
-      "source_size": 54484
+      "sha256": "d0dd9b2d49cc941743976564d96596f6580d2b485ab8bbb11645335198f5f86b",
+      "size": 6536,
+      "source_size": 54555
     },
     "Shows/2024/True Detective, Season 4.html": {
       "content_encoding": "gzip",
@@ -68673,9 +68680,9 @@
     "Shows/2025/Family Guy, Season 23.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c8aede8a86c30c9bde687b0d47946982e0837d3f40b39d7e0c168e0e7dd183f1",
-      "size": 6680,
-      "source_size": 57757
+      "sha256": "6bf130f230e9db88e2069ee916361ba69ef56a804e372439bad2807c86a0a9e7",
+      "size": 6708,
+      "source_size": 57829
     },
     "Shows/2025/Futurama, Season 13.html": {
       "content_encoding": "gzip",
@@ -68764,16 +68771,16 @@
     "Shows/2025/South Park, Season 27.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9073b8be443e3e0e71bde0cf2df0c76e028d6098808d93d9f30d2ce36624b515",
-      "size": 5632,
-      "source_size": 54127
+      "sha256": "7f2afa27e5fa528308e92f5b4cacc7a35ef4f57e1140931be248c471264b4423",
+      "size": 5656,
+      "source_size": 54199
     },
     "Shows/2025/South Park, Season 28.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0e9cbf44db47ab14dfca4b8166e98ae01ef4af386b58d72478ea6bd0dd11f744",
-      "size": 5659,
-      "source_size": 54123
+      "sha256": "b6bdda7f5d16225933032f11047ca88ffb5fc95ab224f9c0233e8f144a9be805",
+      "size": 5683,
+      "source_size": 54195
     },
     "Shows/2025/Star Trek Scouts.html": {
       "content_encoding": "gzip",
@@ -68827,9 +68834,9 @@
     "Shows/2025/The Simpsons, Season 37.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5577d7bdcd84e9869b39c17b545c5c84f382f1171e832b042c7a2b70963917ab",
-      "size": 7310,
-      "source_size": 59005
+      "sha256": "1748377086b4944af489f46af78875fcb25cfdffe15d23d3158f2820bfed7af8",
+      "size": 7338,
+      "source_size": 59076
     },
     "Shows/2025/The Studio.html": {
       "content_encoding": "gzip",
@@ -68869,9 +68876,9 @@
     "Shows/2026/Family Guy, Season 24.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e480829bb65f754e261905dcb3c09bc0b6fe8085fd0bc7e23058163c70a318b7",
-      "size": 5737,
-      "source_size": 40543
+      "sha256": "ba6cc09d07d3da61dd43a3818ef83a53b6c095c267306f088de6faf56d6b06aa",
+      "size": 5765,
+      "source_size": 40615
     },
     "Shows/2026/Jujutsu Kaisen, Season 3.html": {
       "content_encoding": "gzip",
