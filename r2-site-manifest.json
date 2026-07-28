@@ -2061,9 +2061,9 @@
     "Companies/Capcom.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9e24e38102262d2c6bbe68049583dee1c9f7b31b34840cd0d56a535b298f2472",
-      "size": 14834,
-      "source_size": 244616
+      "sha256": "bdabd0ce3d02bb2494b1f57b9cea85d7e858e7843e1a544925f3993426a9885b",
+      "size": 14853,
+      "source_size": 244910
     },
     "Companies/Capitol Films.html": {
       "content_encoding": "gzip",
@@ -5694,9 +5694,9 @@
     "Companies/Square.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e09043f3dbd99e23071fbf09a67ccdb786e8ba0c6ce7377572b1dddd7453bafd",
-      "size": 13677,
-      "source_size": 230463
+      "sha256": "57caee8f5d71a04e62b0e4b6de92874ae13cdc14a108c391115b4ba7815da6ff",
+      "size": 13706,
+      "source_size": 230716
     },
     "Companies/St. Martin's Press.html": {
       "content_encoding": "gzip",
@@ -7080,23 +7080,23 @@
     "Games/Video/1987/Aliens Alien 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b2bbe76b0e1bc4bb0f54eb656eeeb88d81486426cbe627bbb74e30f309403147",
-      "size": 3070,
-      "source_size": 24661
+      "sha256": "e8c002f838621e0daaf2e56b266f1820ef0f335200fb1d06595b1aac84bc1fcf",
+      "size": 3299,
+      "source_size": 25783
     },
     "Games/Video/1987/Street Fighter.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a553be3b85def9b2df68a2c4b3935bb032cdeffd08627fb44a86724b0cc09aaf",
-      "size": 3689,
-      "source_size": 27850
+      "sha256": "994e4e3bd88384b05368f50ab59f5979f040ff8731fc09e65a8c1cf63c7b61fb",
+      "size": 3844,
+      "source_size": 29008
     },
     "Games/Video/1987/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9cfceb66e30e7576746ce561cfcf340b049ceeea25e66c1c6147c644859fed29",
-      "size": 2676,
-      "source_size": 23268
+      "sha256": "aa7934a2c3fedbffbc09312d92ceec391dc969a8df2f9ceb5494535e5557d29a",
+      "size": 2861,
+      "source_size": 24192
     },
     "Games/Video/1989/Fester's Quest.html": {
       "content_encoding": "gzip",
@@ -7164,9 +7164,9 @@
     "Games/Video/1991/Street Fighter II The World Warrior.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6eb6dbcc9574d65ab9baa0852dbc2376a6889aa07cd813204d43ace7837f86a7",
-      "size": 4067,
-      "source_size": 31805
+      "sha256": "252a765c672713ff9a2300ae99edcabdb242ecfa3295004136da2505541a506e",
+      "size": 4107,
+      "source_size": 32099
     },
     "Games/Video/1991/Streets of Rage.html": {
       "content_encoding": "gzip",
@@ -12393,9 +12393,9 @@
     "Games/Video/Series/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f250692509d3a6309ee7af0d6c4bf0e5d0bb2778082a0c573d4c4a5df1be96e2",
-      "size": 6263,
-      "source_size": 66604
+      "sha256": "fa637339093f2b60535de568bdb1edd24b669da6918c32a77c69f335a12caf01",
+      "size": 6283,
+      "source_size": 66857
     },
     "Games/Video/Series/Assassin's Creed.html": {
       "content_encoding": "gzip",
@@ -12645,9 +12645,9 @@
     "Games/Video/Series/Street Fighter.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4c0f374f0c8dfc439c29dbe2e4c6041561d4f0f8e27f8ce818baab833da87130",
-      "size": 5126,
-      "source_size": 51302
+      "sha256": "eeaabbc4ab49f9f7a0229be85f56c622b66bfd89fd853c68cf1303643a4ed04e",
+      "size": 5145,
+      "source_size": 51596
     },
     "Games/Video/Series/Streets of Rage.html": {
       "content_encoding": "gzip",
@@ -12778,9 +12778,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "600532b7d66e2c836b43f247136f3a42221dca63aa38bb01bf004f3eba96d0b2",
-      "size": 924660,
-      "source_size": 12828400
+      "sha256": "8c4980657f5378f0db7d2bd5d621d288fc7b73d6735211db67e12bf90ee5ccd9",
+      "size": 924755,
+      "source_size": 12829747
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
@@ -53308,9 +53308,9 @@
     "People/Nobuo Uematsu.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2c25a7a6f2c72806d22d45dbcfcd747c5dbe051ed5080bcf7a848fa39d597ecc",
-      "size": 79918,
-      "source_size": 2104804
+      "sha256": "0ac35fefce4bbbc0a5f47fc06ec0c5f2ba195f86aedba4e16431bc85f9f99002",
+      "size": 79942,
+      "source_size": 2105057
     },
     "People/Nobuyuki Hosoya.html": {
       "content_encoding": "gzip",
@@ -63108,9 +63108,9 @@
     "People/Yoshihiro Sakaguchi.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "34f7ee3bff4a83c67a080a16d00ee92700ee1a5862a7d092c959c61494d306f5",
-      "size": 79771,
-      "source_size": 2103419
+      "sha256": "6905ece55d73b18ad1591f31c2e18a77ca0b8940ff4205913623ec999bd6655c",
+      "size": 79787,
+      "source_size": 2103713
     },
     "People/Yoshiki Okamoto.html": {
       "content_encoding": "gzip",
