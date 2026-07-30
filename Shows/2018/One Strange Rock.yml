@@ -1,0 +1,92 @@
+name: One Strange Rock
+series: One Strange Rock
+description: >
+  One Strange Rock is the extraordinary story of Earth — our curiously calibrated,
+  interconnected planet — and why it is special and uniquely brimming with life among a
+  largely unknown but harsh cosmic arena. Anchoring the series is an elite group of
+  astronauts who see Earth's bigger picture; they provide unique perspectives and relate
+  personal memoirs of our planet seen from space.
+released: 2018-03-26
+rating: TV-PG
+network: National Geographic
+wikipedia: https://en.wikipedia.org/wiki/One_Strange_Rock
+imdb: https://www.imdb.com/title/tt7651892/episodes?season=1
+tmdb: https://www.themoviedb.org/tv/75782/season/1
+characters:
+  - name: Host
+    actor: Will Smith
+  - name: Chris Hadfield
+    actor: Chris Hadfield
+  - name: Jerry Linenger
+    actor: Jerry Linenger
+  - name: Mike Massimino
+    actor: Mike Massimino
+  - name: Leland Melvin
+    actor: Leland Melvin
+  - name: Nicole Stott
+    actor: Nicole Stott
+  - name: Mae Jemison
+    actor: Mae Jemison
+  - name: Jeff Hoffman
+    actor: Jeff Hoffman
+episodes:
+  - name: Gasp
+    description: >
+      For those privileged few who have seen Earth from space, the very first thing they
+      notice is the thin blue line of atmosphere that clings to our planet and sustains
+      life.
+    released: 2018-03-26
+    length: 60m
+  - name: Storm
+    description: >
+      Ever wonder how our planet got here?
+    released: 2018-04-02
+    length: 60m
+  - name: Shield
+    description: >
+      It's a David and Goliath story -- Earth's relationship with its greatest threat: our
+      seemingly benign sun.
+    released: 2018-04-09
+    length: 60m
+  - name: Genesis
+    description: >
+      Our rock is special; it's alive.
+    released: 2018-04-16
+    length: 60m
+  - name: Survival
+    description: >
+      Without the cycle of death and sacrifice, from cellular to planetary, life would not
+      be here.
+    released: 2018-04-23
+    length: 60m
+  - name: Escape
+    description: >
+      Is it possible for intelligent life to escape destruction either from the planet or
+      ourselves?
+    released: 2018-04-30
+    length: 60m
+  - name: Terraform
+    description: >
+      Ever since life emerged, microbes, plants and animals have all sculpted the planet's
+      surface and atmosphere in the strangest of ways: fish poop creates islands; dead
+      animals create mountains; and plants help create continents.
+    released: 2018-05-07
+    length: 60m
+  - name: Alien
+    description: >
+      All life on Earth started as single-cell bacteria and stayed like that for two billion
+      years.
+    released: 2018-05-14
+    length: 60m
+  - name: Awakening
+    description: >
+      Of all life on Earth, how come we're the only ones with the smarts to leave our
+      planet?
+    released: 2018-05-21
+    length: 60m
+  - name: Home
+    description: >
+      After 665 weightless days in space, NASA's most experienced astronaut, Peggy Whitson,
+      smashes through the atmosphere on her last journey home to planet Earth.
+    released: 2018-05-28
+    length: 60m

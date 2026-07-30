@@ -1,0 +1,51 @@
+name: Welcome to Earth
+series: Welcome to Earth
+description: >
+  Welcome to Earth is an epic, stunning series from Darren Aronofsky in which Will Smith
+  embarks on an awe-inspiring journey to unlock the secrets of this planet's most
+  extraordinary, unexplained phenomena.
+released: 2021-12-08
+rating: TV-PG
+genres:
+  - nature
+  - travel
+network: Disney+
+wikipedia: https://en.wikipedia.org/wiki/Welcome_to_Earth_(TV_program)
+imdb: https://www.imdb.com/title/tt13623992/episodes?season=1
+tmdb: https://www.themoviedb.org/tv/127700/season/1
+characters:
+  - name: Will Smith
+    actor: Will Smith
+episodes:
+  - name: The Silent Roar
+    description: >
+      On a remote island in the Pacific, Will Smith descends into the heart of an active
+      volcano to investigate sounds beyond human hearing.
+    released: 2021-12-08
+    length: 44m
+  - name: Descent into Darkness
+    description: >
+      Will Smith descends 3,300 feet down into the ocean to explore a hidden world of color
+      in the dark.
+    released: 2021-12-08
+    length: 39m
+  - name: Mind of the Swarm
+    description: >
+      Will Smith crosses the Serengeti to catch one of the greatest migrations on Earth.
+    released: 2021-12-08
+    length: 40m
+  - name: Power of Scent
+    description: >
+      On the trail of tiger sharks in the Pacific, Will explores the power of smell.
+    released: 2021-12-08
+    length: 37m
+  - name: Speed of Life
+    description: >
+      Will Smith discovers hidden worlds of fast and slow in the Earth's oldest desert.
+    released: 2021-12-08
+    length: 36m
+  - name: Beyond Fear
+    description: >
+      Will Smith confronts his fear of nature on powerful white-water rapids in Iceland.
+    released: 2021-12-08
+    length: 36m

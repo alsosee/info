@@ -1,0 +1,18 @@
+name: Aladdin
+description: >
+  A kindhearted street urchin named Aladdin embarks on a magical adventure after finding
+  a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for
+  the same lamp that has the power to make their deepest wishes come true.
+released: 2019-05-24
+rating: PG
+length: 2h7m
+genres:
+  - fantasy
+  - musical
+wikipedia: https://en.wikipedia.org/wiki/Aladdin_(2019_film)
+imdb: https://www.imdb.com/title/tt6139732
+tmdb: https://www.themoviedb.org/movie/420817-aladdin
+directors: Guy Ritchie
+characters:
+  - name: Genie / Mariner
+    actor: Will Smith

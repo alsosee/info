@@ -1,0 +1,22 @@
+name: Shark Tale
+description: >
+  Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile,
+  Lenny is a great white shark with a surprising secret that no sea creature would
+  guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny
+  becomes an outcast, the two form an unlikely friendship.
+released: 2004-10-01
+rating: PG
+length: 1h30m
+genres:
+  - animation
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Shark_Tale
+imdb: https://www.imdb.com/title/tt0307453
+tmdb: https://www.themoviedb.org/movie/10555-shark-tale
+directors:
+  - Bibo Bergeron
+  - Vicky Jenson
+  - Rob Letterman
+characters:
+  - name: Oscar
+    voice: Will Smith

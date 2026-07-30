@@ -1,0 +1,21 @@
+name: I Am Legend
+description: >
+  Robert Neville is a scientist who was unable to stop the spread of the terrible virus
+  that was incurable and man-made. Immune, Neville is now the last human survivor in
+  what is left of New York City and perhaps the world. For three years, Neville has
+  faithfully sent out daily radio messages, desperate to find any other survivors who
+  might be out there. But he is not alone.
+released: 2007-12-14
+rating: PG-13
+length: 1h41m
+genres:
+  - science fiction
+  - horror
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/I_Am_Legend_(film)
+imdb: https://www.imdb.com/title/tt0480249
+tmdb: https://www.themoviedb.org/movie/6479-i-am-legend
+directors: Francis Lawrence
+characters:
+  - name: Robert Neville
+    actor: Will Smith
