@@ -232,6 +232,7 @@ Companies/CD Projekt Red.yml	86d4a949
 Companies/CD Projekt.yml	b3385055
 Companies/CJ ENM.yml	2fe263e7
 Companies/CJ Entertainment.yml	633a1ca
+Companies/CTV Sci-Fi Channel.yml	eeef0dbe
 Companies/Canal+.yml	74f6cdd0
 Companies/Capcom Production Studio 1.yml	26acb0a3
 Companies/Capcom Production Studio 4.yml	d6965bac
@@ -587,6 +588,7 @@ Companies/Obsidian Entertainment.yml	409a2ce6
 Companies/Ocean Software.yml	77893d90
 Companies/OddLot Entertainment.yml	22eb59b4
 Companies/Oddball Entertainment.yml	eedc7bbf
+Companies/Offspring Entertainment.yml	5506cb99
 Companies/One Race Films.yml	eb6cb68b
 Companies/Open Road Films.yml	4198df91
 Companies/Opus Film.yml	62027499
@@ -719,6 +721,7 @@ Companies/Sierra Entertainment.yml	eec065da
 Companies/Sierra Studios.yml	80938c91
 Companies/Sikelia Productions.yml	ba729a22
 Companies/Silver Pictures.yml	ca41ef9a
+Companies/Silver Screen Partners.yml	b62ea20f
 Companies/Simon & Schuster.yml	c78bc6db
 Companies/Skydance Media.yml	7fd05a44
 Companies/Skydance Productions.yml	cdf98d5d
@@ -787,14 +790,17 @@ Companies/Tencent Pictures.yml	85bf9ead
 Companies/Terror.yml	463e9c50
 Companies/The Apatow Company.yml	6095e662
 Companies/The Bodley Head.yml	f2bbb892
+Companies/The CW.yml	d777f12a
 Companies/The Cannon Group.yml	6a1a6c29
 Companies/The Detective Agency.yml	3b48601d
 Companies/The Donners' Company.yml	6b650ef0
 Companies/The Fyzz Facility.yml	46fe65ac
+Companies/The Geffen Film Company.yml	4fdd1114
 Companies/The Kennedy/Marshall Company.yml	be5eab88
 Companies/The Littlefield Company.yml	3f4fd52c
 Companies/The Safran Company.yml	cdda7349
 Companies/The Stone Quarry.yml	14d119e
+Companies/The WB.yml	74019434
 Companies/The Weinstein Company.yml	2d77bb77
 Companies/The Zanuck Company.yml	86f0e886
 Companies/Threshold Entertainment.yml	e989381
@@ -867,6 +873,7 @@ Companies/Vicarious Visions.yml	bfa5fc16
 Companies/VideoFilmes.yml	762fe044
 Companies/Vigil Games.yml	41a69f62
 Companies/Village Roadshow Pictures.yml	7d624ca8
+Companies/Vinyl Films.yml	9428fe8e
 Companies/Vir2L Studios.yml	fa0bac2e
 Companies/Virgin Interactive Entertainment.yml	1ea3c8e4
 Companies/Virtual Studios.yml	dd1dbae3
@@ -2001,6 +2008,7 @@ Movies/1981/Mad Max 2.yml	7f810b64
 Movies/1981/On Golden Pond.yml	2d549677
 Movies/1981/Raiders Of The Lost Ark.yml	e2514a47
 Movies/1981/Reds.yml	cc4bf7e0
+Movies/1981/Taps.yml	87719b8a
 Movies/1981/The French Lieutenant's Woman.yml	15358baf
 Movies/1982/An Officer and a Gentleman.yml	294b5ab6
 Movies/1982/Blade Runner.yml	916edd9e
@@ -2013,15 +2021,18 @@ Movies/1982/Missing.yml	a9ea2652
 Movies/1982/Rocky III.yml	3f347225
 Movies/1982/Star Trek II The Wrath of Khan.yml	7abbd3fd
 Movies/1982/TRON.yml	c9a7d168
+Movies/1983/All the Right Moves.yml	aedd3b01
 Movies/1983/Fanny And Alexander.yml	57ffbe83
 Movies/1983/Flashdance.yml	f1fa492d
 Movies/1983/La Traviata.yml	cf62105
 Movies/1983/Octopussy.yml	3455cbf
 Movies/1983/Project A.yml	bbce87b
+Movies/1983/Risky Business.yml	6123ac11
 Movies/1983/Scarface.yml	e3c046a3
 Movies/1983/Star Wars Episode VI - Return of the Jedi.yml	58e5491
 Movies/1983/Tender Mercies.yml	71c9632e
 Movies/1983/Terms of Endearment.yml	34bc33db
+Movies/1983/The Outsiders.yml	7902e104
 Movies/1983/The Right Stuff.yml	f030c6fe
 Movies/1983/Trading Places.yml	1ef86ab2
 Movies/1984/A Nightmare on Elm Street.yml	abc8a953
@@ -2048,6 +2059,7 @@ Movies/1985/Brazil.yml	7b594940
 Movies/1985/Clue.yml	8ce3d1f
 Movies/1985/Cocoon.yml	4e47b33a
 Movies/1985/Friday the 13th A New Beginning.yml	bc15eb55
+Movies/1985/Legend.yml	82854f63
 Movies/1985/Mad Max 3.yml	fd7bab90
 Movies/1985/Out of Africa.yml	4851c592
 Movies/1985/Police story.yml	d705f89e
@@ -2067,6 +2079,7 @@ Movies/1986/Out Of Africa.yml	2d5ea08e
 Movies/1986/Platoon.yml	c80d4329
 Movies/1986/Quicksilver.yml	f806bbd
 Movies/1986/Star Trek IV The Voyage Home.yml	106db1a5
+Movies/1986/The Color of Money.yml	28ac84a3
 Movies/1986/The Mission.yml	f1cb0d69
 Movies/1986/The Transformers The Movie.yml	6b06caed
 Movies/1986/Top Gun.yml	51613461
@@ -2084,18 +2097,19 @@ Movies/1987/The Living Daylights.yml	f59ab20d
 Movies/1987/The Untouchables.yml	28efb057
 Movies/1988/A Nightmare on Elm Street 4 The Dream Master.yml	d3280f50
 Movies/1988/Bloodsport.yml	3103e099
+Movies/1988/Cocktail.yml	aaa24585
 Movies/1988/Dangerous Liaisons.yml	80125a7e
 Movies/1988/Die Hard.yml	76def2af
 Movies/1988/Empire Of The Sun.yml	c034b9bd
 Movies/1988/Friday the 13th Part VII The New Blood.yml	fac41731
 Movies/1988/Halloween 4 The Return of Michael Myers.yml	d67554c7
-Movies/1988/Rain Man.yml	babccc1a
+Movies/1988/Rain Man.yml	61b40dd0
 Movies/1988/Rambo III.yml	7868f85c
 Movies/1988/The Last Emperor.yml	17d71fc5
 Movies/1988/Who Framed Roger Rabbit.yml	3da7fd68
 Movies/1989/A Nightmare on Elm Street 5 The Dream Child.yml	f6534f17
 Movies/1989/Back to the Future Part II.yml	f7664f43
-Movies/1989/Born on the Fourth of July.yml	15aee5dd
+Movies/1989/Born on the Fourth of July.yml	d9482b0d
 Movies/1989/Cyborg.yml	24432c7c
 Movies/1989/Dead Poets Society.yml	e0e0ff3
 Movies/1989/Driving Miss Daisy.yml	317301a9
@@ -2115,6 +2129,7 @@ Movies/1989/The Little Mermaid.yml	b9654fa5
 Movies/1990/Back to the Future Part III.yml	100d2dab
 Movies/1990/Cinema Paradiso.yml	3ec3ac48
 Movies/1990/Dances With Wolves.yml	a98f0d19
+Movies/1990/Days of Thunder.yml	f49b8e09
 Movies/1990/Dick Tracy.yml	ad562368
 Movies/1990/Die Hard 2.yml	88e397bd
 Movies/1990/Ghost.yml	7ba0e79b
@@ -2135,9 +2150,11 @@ Movies/1991/Terminator 2: Judgment Day.yml	bf95a44b
 Movies/1991/The Addams Family.yml	c01e43c2
 Movies/1991/The Commitments.yml	ccdd3544
 Movies/1991/The Silence of the Lambs.yml	3ab216b
+Movies/1992/A Few Good Men.yml	5e2c4653
 Movies/1992/Aladdin.yml	372ada8e
 Movies/1992/Alien 3.yml	a4dd643f
 Movies/1992/Bram Stoker's Dracula.yml	355fdc96
+Movies/1992/Far and Away.yml	ce615e51
 Movies/1992/Hard Boiled.yml	df1e99c3
 Movies/1992/Home Alone 2 Lost in New York.yml	21a6eba3
 Movies/1992/Howards End.yml	e4655200
@@ -2158,6 +2175,7 @@ Movies/1993/Jurassic Park.yml	f0369cbd
 Movies/1993/Last Action Hero.yml	76efe677
 Movies/1993/Philadelphia.yml	7ca5c25a
 Movies/1993/Schindler's List.yml	109e4bf7
+Movies/1993/The Firm.yml	41883b6a
 Movies/1993/The Fugitive.yml	eb92c636
 Movies/1993/The Piano.yml	100826cd
 Movies/1993/The Wrong Trousers.yml	7142be83
@@ -2166,7 +2184,7 @@ Movies/1994/Destroyer.yml	629a37a1
 Movies/1994/Ed Wood.yml	31449005
 Movies/1994/Forrest Gump.yml	c7c112aa
 Movies/1994/Four Weddings And A Funeral.yml	bb49dfc1
-Movies/1994/Interview With The Vampire.yml	60e87366
+Movies/1994/Interview with the Vampire.yml	dd4732cd
 Movies/1994/Leon The Professional.yml	3cc3670f
 Movies/1994/Pulp Fiction.yml	76f6ae28
 Movies/1994/Speed.yml	4e66349
@@ -2197,6 +2215,7 @@ Movies/1995/The Usual Suspects.yml	370f5f73
 Movies/1995/Toy Story.yml	5c54740f
 Movies/1996/Fargo.yml	58c8ab82
 Movies/1996/Independence day.yml	465e5ce3
+Movies/1996/Jerry Maguire.yml	278b4216
 Movies/1996/Mission Impossible.yml	44a38b08
 Movies/1996/Richard III.yml	bbca4583
 Movies/1996/Scream.yml	fd3d5af7
@@ -2245,7 +2264,9 @@ Movies/1999/American Beauty.yml	3f45a092
 Movies/1999/American Pie.yml	56aed4ce
 Movies/1999/Austin Powers The Spy Who Shagged Me.yml	cacec4ba
 Movies/1999/Beau travail.yml	a1def5b
+Movies/1999/Eyes Wide Shut.yml	a62988b1
 Movies/1999/Fight Club.yml	ca0f847
+Movies/1999/Magnolia.yml	c5af4456
 Movies/1999/Sleepy Hollow.yml	2bcb058f
 Movies/1999/The Cider House Rules.yml	41e53b9d
 Movies/1999/The Matrix.yml	6e7456f5
@@ -2323,6 +2344,7 @@ Movies/2001/The Piano Teacher.yml	319ec11d
 Movies/2001/The Princess Diaries.yml	cb37dc06
 Movies/2001/The Royal Tenenbaums.yml	52d7f736
 Movies/2001/Training Day.yml	4af31427
+Movies/2001/Vanilla Sky.yml	ac3ea618
 Movies/2001/Wet Hot American Summer.yml	c9c45cea
 Movies/2001/Y tu mamá también.yml	341c5c8e
 Movies/2001/Zoolander.yml	a65353f8
@@ -2390,6 +2412,7 @@ Movies/2003/Oldboy.yml	bb61863
 Movies/2003/Pirates of the Caribbean The Curse of the Black Pearl.yml	7ad2af60
 Movies/2003/School of Rock.yml	ea3c673c
 Movies/2003/Terminator 3 Rise of the Machines.yml	6791a82e
+Movies/2003/The Last Samurai.yml	d578ff2c
 Movies/2003/The Lord Of The Rings: The Return Of The King.yml	c8228f82
 Movies/2003/The Lord of the Rings The Return of the King.yml	fbe48a4
 Movies/2003/The Matrix Reloaded.yml	b2aa24e3
@@ -2461,6 +2484,7 @@ Movies/2005/The Madagascar Penguins in a Christmas Caper.yml	8306d22f
 Movies/2005/The New World.yml	5a22143e
 Movies/2005/V for Vendetta.yml	26f4a65e
 Movies/2005/Walk The Line.yml	90fa2d3b
+Movies/2005/War of the Worlds.yml	7644e7f8
 Movies/2005/Wedding Crashers.yml	f315d600
 Movies/2005/Zathura A Space Adventure.yml	1df45ce3
 Movies/2006/American Pie Presents The Naked Mile.yml	5dc04dfa
@@ -2569,6 +2593,7 @@ Movies/2008/The Mummy Tomb of the Dragon Emperor.yml	50801f69
 Movies/2008/The Wrestler.yml	705739bf
 Movies/2008/Tropic Thunder.yml	adcad979
 Movies/2008/Twilight.yml	ccfc0646
+Movies/2008/Valkyrie.yml	ca03f955
 Movies/2008/WALL·E.yml	30079be9
 Movies/2009/3 Idiots.yml	d6f7ff3e
 Movies/2009/500 Days of Summer.yml	50076eb6
@@ -2615,6 +2640,7 @@ Movies/2010/How to Train Your Dragon.yml	40f688c8
 Movies/2010/Incendies.yml	727f0811
 Movies/2010/Inception.yml	9ebf669b
 Movies/2010/Iron Man 2.yml	830343e4
+Movies/2010/Knight and Day.yml	43f365e7
 Movies/2010/Little Fockers.yml	dede6d8d
 Movies/2010/Paranormal Activity 2 Tokyo Night.yml	bef201f1
 Movies/2010/Paranormal Activity 2.yml	58d07b9b
@@ -2698,6 +2724,7 @@ Movies/2012/Home Alone The Holiday Heist.yml	1878aa0
 Movies/2012/Hotel Transylvania.yml	3df1661c
 Movies/2012/Ice Age Continental Drift.yml	cb1ea4a3
 Movies/2012/It's Such a Beautiful Day.yml	d7de99f8
+Movies/2012/Jack Reacher.yml	20752eea
 Movies/2012/Les Misérables.yml	72462973
 Movies/2012/Life of Pi.yml	732993a5
 Movies/2012/Lincoln.yml	496df018
@@ -2711,6 +2738,7 @@ Movies/2012/Pitch Perfect.yml	626d3ad8
 Movies/2012/Prometheus.yml	2b40dc96
 Movies/2012/Resident Evil Damnation.yml	2362328e
 Movies/2012/Resident Evil Retribution.yml	ac9224c8
+Movies/2012/Rock of Ages.yml	6cd1d8be
 Movies/2012/Searching For Sugar Man.yml	738d3e3f
 Movies/2012/Silver Linings Playbook.yml	8040b8e0
 Movies/2012/Skyfall.yml	783796ca
@@ -2871,6 +2899,7 @@ Movies/2016/Hell or High Water.yml	d641862a
 Movies/2016/Hidden Figures.yml	29f814d1
 Movies/2016/Hunt for the Wilderpeople.yml	debfb987
 Movies/2016/Ice Age Collision Course.yml	b8afa43d
+Movies/2016/Jack Reacher Never Go Back.yml	53174665
 Movies/2016/Jason Bourne.yml	b8e649d8
 Movies/2016/Kung Fu Panda 3.yml	7946c131
 Movies/2016/La La Land.yml	9b79a66e
@@ -2906,6 +2935,7 @@ Movies/2016/X-Men Apocalypse.yml	5ebb95bc
 Movies/2016/Your Name.yml	247bae97
 Movies/2017/A Ghost Story.yml	51d79a80
 Movies/2017/Alien Covenant.yml	b1bd2239
+Movies/2017/American Made.yml	d4b776dd
 Movies/2017/Annabelle Creation.yml	f9839258
 Movies/2017/Atomic Blonde.yml	10668637
 Movies/2017/Baby Driver.yml	2da0bc1a
@@ -3659,6 +3689,7 @@ People/Adam Reed.yml	4fba0a80
 People/Adam Robitel.yml	160fd0a9
 People/Adam Sandler.yml	9c68640d
 People/Adam Scott.yml	cfe28ce9
+People/Adam Shankman.yml	fd85ccad
 People/Adam Siegel.yml	a5588194
 People/Adam Skorupa.yml	c118b3aa
 People/Adam Wingard.yml	1051bedb
@@ -3736,6 +3767,7 @@ People/Alec Mills.yml	75edc81d
 People/Alec Newman.yml	4e8ef2b1
 People/Alejandro Edda.yml	2d52820b
 People/Alejandro González Iñárritu.yml	3c718bc5
+People/Aleksa Palladino.yml	4cef59c1
 People/Alessandro Nivola.yml	ae734826
 People/Alex Beachum.yml	d13f45c1
 People/Alex Belcher.yml	2d00bbc8
@@ -3755,6 +3787,7 @@ People/Alex Litvak.yml	47b8708
 People/Alex Meraz.yml	b166c539
 People/Alex Siskin.yml	94de5c7c
 People/Alex Somers.yml	2613e532
+People/Alex Thomson.yml	effe7e92
 People/Alex Wilkinson.yml	72835194
 People/Alex Wolff.yml	25ac216f
 People/Alex Wurman.yml	1113e74e
@@ -3772,6 +3805,7 @@ People/Alexandra Shipp.yml	b7c06b2d
 People/Alexandre Desplat.yml	4c15f62d
 People/Alexandre Parizeau.yml	9fbf22b9
 People/Alexandria Riley.yml	8de33ac1
+People/Alexis Denisof.yml	dc6e05ab
 People/Alexis Knapp.yml	2455fc09
 People/Alfie Allen.yml	294aa3e8
 People/Alfonso Cuarón.yml	dc8e563f
@@ -3786,6 +3820,7 @@ People/Alice Braga.yml	a534f3ab
 People/Alice Brooks.yml	f625b806
 People/Alice Eve.yml	88fa2fde
 People/Alice Krige.yml	61dbb4d9
+People/Alice Playten.yml	51d7879a
 People/Alice Rohrwacher.yml	b4d50c7f
 People/Alicia Silverstone.yml	4d915cb
 People/Alicia Vikander.yml	2a3243d7
@@ -3803,6 +3838,7 @@ People/Allegra Clark.yml	628f0bc8
 People/Allen Coulter.yml	fc333ccb
 People/Allen Leech.yml	8ae04223
 People/Allison Janney.yml	2a4d2c45
+People/Allison Mack.yml	c8fda7fc
 People/Allison Shearmur.yml	7781cbdc
 People/Allon Reich.yml	be3e70e6
 People/Alvin Sargent.yml	d786ee18
@@ -3817,6 +3853,7 @@ People/Amanda Seyfried.yml	5a027e86
 People/Amanda Silver.yml	3f7bc782
 People/Amanda Warren.yml	dddcde04
 People/Amaury Nolasco.yml	bacff02f
+People/Amber Benson.yml	3f5bfdd4
 People/Amber Heard.yml	ab5ad39c
 People/Amber Midthunder.yml	2b7e753
 People/Amber Nash.yml	eca2bb3d
@@ -3827,7 +3864,9 @@ People/American McGee.yml	23a15ae6
 People/Amir Mokri.yml	fa9b9caa
 People/Aml Ameen.yml	b5c37bd7
 People/Amon Tobin.yml	d77d55c7
+People/Amy Acker.yml	e13c87b5
 People/Amy Adams.yml	3f54cdcd
+People/Amy Brenneman.yml	92fac011
 People/Amy Landecker.yml	5633dc12
 People/Amy Madigan.yml	c447f85f
 People/Amy Pascal.yml	4ff43db8
@@ -3870,6 +3909,7 @@ People/Andrew Macdonald.yml	fb0c6f6
 People/Andrew Marcus.yml	2266abca
 People/Andrew Matisziw.yml	276bbe56
 People/Andrew Miano.yml	392aa388
+People/Andrew Mondshein.yml	8f436742
 People/Andrew Prahlow.yml	2efd250f
 People/Andrew Sandham.yml	373cf4a
 People/Andrew Scott.yml	be390e97
@@ -3884,6 +3924,7 @@ People/André Turpin.yml	4ed589e6
 People/Andy Garcia.yml	8ed9c3fb
 People/Andy García.yml	903e9f21
 People/Andy Gould.yml	d0fbd3e9
+People/Andy Hallett.yml	e93dfd96
 People/Andy Muschietti.yml	767e5fa3
 People/Andy Richter.yml	9956b47a
 People/Andy Samberg.yml	ebd985cb
@@ -3892,6 +3933,7 @@ People/Andy Serkis.yml	a266f080
 People/Andy Weir.yml	43c72735
 People/Ang Lee.yml	240f1152
 People/Angela Bassett.yml	49969c54
+People/Angela Sarafyan.yml	22e1c636
 People/Angeliki Papoulia.yml	b6a30f45
 People/Angelina Jolie.yml	71f53ddf
 People/Angelique Cabral.yml	b76e8f6b
@@ -3921,6 +3963,7 @@ People/Anne V. Coates.yml	aab2c5a6
 People/Anne Walker-McBay.yml	c7e4e6a9
 People/Annet Mahendru.yml	1d96071b
 People/Annette Bening.yml	c4d34257
+People/Annette O'Toole.yml	918903dc
 People/Annie Girardot.yml	d496da5a
 People/Annie Potts.yml	5ab8d5ee
 People/Annie Wersching.yml	57df13f1
@@ -3934,6 +3977,7 @@ People/Anthony Daniels.yml	da24af13
 People/Anthony Dod Mantle.yml	36290e1e
 People/Anthony E. Zuiker.yml	3b6d45c
 People/Anthony Edwards.yml	3b7ddc76
+People/Anthony Head.yml	f2b79b1c
 People/Anthony Hemingway.yml	5454df
 People/Anthony Hopkins.yml	7dbfdd42
 People/Anthony Mackie.yml	1395a2e5
@@ -4026,11 +4070,13 @@ People/Ayelet Zurer.yml	33622f81
 People/Ayo Edebiri.yml	22836064
 People/Aziz Ansari.yml	2736238f
 People/B. J. Novak.yml	36891864
+People/B.D. Wong.yml	ace53e2d
 People/BD Wong.yml	9d180239
 People/BLANKFIELD.yml	7deadf79
 People/BT.yml	f63c66c0
 People/Babs Olusanmokun.yml	a6bba0db
 People/Barbara Broccoli.yml	6acd8f84
+People/Barbara De Fina.yml	8fe9ad1b
 People/Barbara Hershey.yml	f06a5fc9
 People/Barbara Muschietti.yml	47607d54
 People/Barbet Schroeder.yml	86614002
@@ -4107,6 +4153,7 @@ People/Bernat Vilaplana.yml	a1fd6d08
 People/Bernie Mac.yml	7450757f
 People/Bert & Bertie.yml	82c36965
 People/Bert Bates.yml	923737cc
+People/Bert Lovitt.yml	2d4454a5
 People/Bertrand Bonello.yml	725630cd
 People/Beth Ertz.yml	375753f5
 People/Beth Grant.yml	a17ca314
@@ -4312,6 +4359,7 @@ People/Callum Keith Rennie.yml	6ac30078
 People/Callum Turner.yml	5dc3cb1d
 People/Cameron Bright.yml	7e0ed2d
 People/Cameron Crovetti.yml	74c21cdd
+People/Cameron Crowe.yml	8ef490f0
 People/Cameron Diaz.yml	eb5d6324
 People/Camilla Luddington.yml	b0d3733c
 People/Camilla Rutherford.yml	d8a80699
@@ -4327,8 +4375,10 @@ People/Carlo Cresto-Dina.yml	8cf3e07c
 People/Carlo Rota.yml	eca8119
 People/Carlos Ferro.yml	9b5bc335
 People/Carlos Saldanha.yml	2593ba99
+People/Carly Chaikin.yml	57e6c9a8
 People/Carly Wray and Matthew Weiner.yml	4bfbfc2b
 People/Carmen Ejogo.yml	376618d1
+People/Carmine Coppola.yml	af2e1c9f
 People/Carole Ruggier.yml	a214e810
 People/Caroline Goodall.yml	9e0cfdd2
 People/Carolyn Jones.yml	c2a17ab9
@@ -4458,6 +4508,7 @@ People/Chris Wedge.yml	f0b466fd
 People/Chris Weitz.yml	36560224
 People/Chris Williams.yml	f5aef8d1
 People/Chris Wyatt.yml	be47e561
+People/Chris Zylka.yml	4a51cb1b
 People/Chrissie Fit.yml	455974f2
 People/Christian Antkow.yml	f1a6eb2b
 People/Christian Bale.yml	fcb74bfb
@@ -4467,6 +4518,7 @@ People/Christian Friedel.yml	94ff9c09
 People/Christian Linke.yml	612d5135
 People/Christian Sebaldt.yml	198c09b4
 People/Christian Serratos.yml	7c90d572
+People/Christian Slater.yml	959f7ce6
 People/Christian Sprenger.yml	871e7f02
 People/Christian Taylor.yml	735dd13b
 People/Christian Wagner.yml	242316a1
@@ -4483,8 +4535,11 @@ People/Christine Vachon.yml	a1b3c30
 People/Christoph Waltz.yml	6b80f6c4
 People/Christophe Beck.yml	1c878ca5
 People/Christopher Berry.yml	8c019e39
+People/Christopher C. Rogers.yml	f7cb1741
+People/Christopher Cantwell.yml	590d48ac
 People/Christopher Denham.yml	7c8df4b4
 People/Christopher Doyle.yml	59f96c56
+People/Christopher Eccleston.yml	f1e84a69
 People/Christopher Hart.yml	dadce529
 People/Christopher Heyerdahl.yml	723b64a1
 People/Christopher Judge.yml	1ab4c178
@@ -4541,6 +4596,7 @@ People/Clayton Townsend.yml	bed9cd9e
 People/Clayton Watson.yml	45e32b3
 People/Cleve Jones.yml	f82d9835
 People/Cliff Curtis.yml	a2b88004
+People/Cliff Eidelman.yml	1340f9e5
 People/Cliff Martinez.yml	74c7a4b5
 People/Clifton Collins Jr..yml	c7bd2f94
 People/Clint Bentley.yml	465f7271
@@ -4704,6 +4760,7 @@ People/Daniel Kwan.yml	a295ae74
 People/Daniel Lupi.yml	85e8c2c0
 People/Daniel Minahan.yml	80c4a2b9
 People/Daniel Neuburger.yml	bb75b42b
+People/Daniel P. Hanley.yml	3b1001c
 People/Daniel Pemberton.yml	e01d72e7
 People/Daniel Pipski.yml	3f05b17c
 People/Daniel Radcliffe.yml	c482d789
@@ -4718,6 +4775,7 @@ People/Danielle Bisutti.yml	2dc4e9ef
 People/Danielle Brooks.yml	e6417940
 People/Danielle Feinberg.yml	e6c3ae05
 People/Danielle Harris.yml	3849622f
+People/Danika Yarosh.yml	7c3ef80f
 People/Danny Aiello.yml	8828f652
 People/Danny Bensi.yml	7be24019
 People/Danny Boyle.yml	8a77d763
@@ -4779,6 +4837,7 @@ People/David Ayer.yml	c979aa81
 People/David Barron.yml	38b6f64d
 People/David Benioff.yml	dd6461c5
 People/David Berni.yml	7b05d772
+People/David Boreanaz.yml	457ab200
 People/David Bradley.yml	d6a2c52e
 People/David Brenner.yml	1b55a2e
 People/David Brevik.yml	76467df4
@@ -4798,10 +4857,12 @@ People/David Ellison.yml	fdaab440
 People/David F. Sandberg.yml	5dd28923
 People/David Fincher.yml	61b21756
 People/David Frankel.yml	364866ac
+People/David Geffen.yml	eeed77c8
 People/David Giler.yml	3c10bc
 People/David Goldfarb.yml	9bc5f055
 People/David Gordon Green.yml	f736a44c
 People/David Grann.yml	86cb94fd
+People/David Greenwalt.yml	4d66ee2f
 People/David Gyasi.yml	9be9feab
 People/David H. Steinberg.yml	e3610ccf
 People/David Handman.yml	f6ee3781
@@ -4870,6 +4931,7 @@ People/David Warner.yml	769dee17
 People/David Warshofsky.yml	198561ea
 People/David Wenham.yml	e1e2f0d5
 People/David Wilmot.yml	1a49a4fb
+People/David Wilson Barnes.yml	9956fd79
 People/David Winkler.yml	348095c4
 People/David Wu.yml	c5a143e4
 People/David X. Cohen.yml	a3901b9c
@@ -4945,6 +5007,7 @@ People/Diane Lane.yml	751484c1
 People/Dichen Lachman.yml	dd44cbda
 People/Dick Wolf.yml	70420075
 People/Diedrich Bader.yml	61083f6f
+People/Diego Boneta.yml	34100e51
 People/Diego Luna.yml	47240ffa
 People/Diego Matamoros.yml	9eaa5e2c
 People/Dileep Rao.yml	a115e78
@@ -4970,6 +5033,7 @@ People/Dominique Thorne.yml	ae001952
 People/Don Burgess.yml	bf8c3860
 People/Don Cheadle.yml	7ae19522
 People/Don Davis.yml	5146ad80
+People/Don Granger.yml	279ff15b
 People/Don Johnson.yml	11b44785
 People/Don McGill.yml	f605f44a
 People/Don Murphy.yml	9269510d
@@ -5058,6 +5122,7 @@ People/Edward L. McDonnell.yml	8d64bf22
 People/Edward Norton.yml	ab0ffb22
 People/Edward Saxon.yml	fc90a070
 People/Edward Tang.yml	1d128909
+People/Edward Zwick.yml	d7e90c8f
 People/Edwin Hodge.yml	947c9bc7
 People/Efthimis Filippou.yml	fb27e8f3
 People/Ehren Kruger.yml	e4f7be97
@@ -5104,8 +5169,10 @@ People/Ellie Cornell.yml	3846375d
 People/Ellie Kemper.yml	6b8a3adc
 People/Ellie Monahan.yml	369ba740
 People/Elliot Eisman.yml	db111e13
+People/Elliot Goldenthal.yml	beb57c40
 People/Elliot Graham.yml	e3fca7db
 People/Elliot Page.yml	d1d008d4
+People/Elliot Villar.yml	7da33370
 People/Elliott Gould.yml	59bd9c9a
 People/Elmer Bernstein.yml	2b42395c
 People/Elsa Pataky.yml	c36acc0d
@@ -5126,6 +5193,7 @@ People/Emily Rose.yml	b7168999
 People/Emily Swallow.yml	813d3846
 People/Emily VanCamp.yml	e5c450eb
 People/Emily Watson.yml	e2f5d3e9
+People/Emma Caulfield.yml	26181feb
 People/Emma Corrin.yml	458c6eae
 People/Emma Roberts.yml	2a988995
 People/Emma Stone.yml	3917fdca
@@ -5165,6 +5233,7 @@ People/Eric Stoltz.yml	18430a90
 People/Eric Stonestreet.yml	9708a253
 People/Eric Tsang.yml	b8647168
 People/Eric Zumbrunnen.yml	fcd9d91a
+People/Erica Durance.yml	2bfd87cb
 People/Erica Lee.yml	2b11517
 People/Erica Lindbeck.yml	2d5c9c7c
 People/Erich Schaefer.yml	825e8e9f
@@ -5318,6 +5387,7 @@ People/Gastón Pavlovich.yml	4845d272
 People/Gaten Matarazzo.yml	3c9d8894
 People/Gavin Drea.yml	86ae0a8a
 People/Gemma Chan.yml	407ea63b
+People/Gene Hackman.yml	ce9947e9
 People/Gene Jones.yml	8b439cfc
 People/Gene Roddenberry.yml	73da9a66
 People/Geneva Robertson-Dworet.yml	ecc69b97
@@ -5378,6 +5448,7 @@ People/Glenn Berger.yml	422e4525
 People/Glenn Garland.yml	df36b1aa
 People/Glenn Howerton.yml	402e7b4d
 People/Glenn Morshower.yml	cb270a74
+People/Glenn Quinn.yml	64d902b
 People/Glenn Stafford.yml	93e6ff96
 People/Gloria Foster.yml	5efb467c
 People/Go Shiina.yml	bb3cd3d4
@@ -5388,7 +5459,9 @@ People/Gordon Liu.yml	85c919f6
 People/Gordon Smith.yml	e4d8561e
 People/Gore Verbinski.yml	a435660c
 People/Goro.yml	47482b5b
+People/Grace Gummer.yml	bfd76d65
 People/Grace Rolek.yml	9ac1d420
+People/Graeme Manson.yml	3297650f
 People/Graeme Revell.yml	97e004eb
 People/Graham Broadbent.yml	94167477
 People/Graham Greene.yml	47f47a12
@@ -5519,6 +5592,7 @@ People/Heather Marion.yml	79acc2b0
 People/Heather Morris.yml	8e5fcbe
 People/Heitor Pereira.yml	c9b8fe21
 People/Helen Mirren.yml	3ed9d703
+People/Helen Shaver.yml	dca51c2e
 People/Helena Bonham Carter.yml	24013373
 People/Helmut Bakaitis.yml	c8f66f2d
 People/Henry Braham.yml	2e28d29c
@@ -5637,6 +5711,7 @@ People/Issa Rae.yml	4c951ea7
 People/Issey Ogata.yml	7f47d681
 People/Ivan Kyslyi.yml	a4221ab9
 People/Ivan Reitman.yml	358cd55b
+People/J. August Richards.yml	4dd4709b
 People/J. B. Smoove.yml	e1777857
 People/J. D. Evermore.yml	770883
 People/J. G. Quintel.yml	2167f867
@@ -5726,6 +5801,7 @@ People/James Hong.yml	e4efea50
 People/James Horan.yml	7de5a3ac
 People/James Horner.yml	d8fd86d8
 People/James Jude Courtney.yml	f3dff0ea
+People/James L. Brooks.yml	e5de9e83
 People/James Laxton.yml	9efae8cd
 People/James Leach.yml	75f5fa3b
 People/James M. Johnston.yml	17f84ee1
@@ -5733,6 +5809,7 @@ People/James M. Palumbo.yml	14a7a11c
 People/James Mangold.yml	5654f907
 People/James Manos Jr..yml	c646d46d
 People/James Marsden.yml	3ef93e57
+People/James Marsters.yml	a3336dd0
 People/James McAvoy.yml	f47630f2
 People/James McCaffrey.yml	efb9a9e8
 People/James McTeigue.yml	a8c43337
@@ -5781,6 +5858,7 @@ People/Jane Lynch.yml	f120d33
 People/Jane Perry.yml	38315beb
 People/Jane Seymour.yml	8b963446
 People/Janeane Garofalo.yml	206d3b39
+People/Janel Moloney.yml	1476bb93
 People/Janelle Monáe.yml	e98db8d5
 People/Janet Healy.yml	a652be9d
 People/Janet Leigh.yml	58544684
@@ -6046,6 +6124,7 @@ People/Joe Hutshing.yml	1afdb35
 People/Joe Johnston.yml	4d8e1dae
 People/Joe Keery.yml	a5a24c0e
 People/Joe Kelly.yml	d92104b6
+People/Joe Kraemer.yml	c235e033
 People/Joe Lo Truglio.yml	ba95f48b
 People/Joe M. Aguilar.yml	41625923
 People/Joe Madureira.yml	e8d5e65f
@@ -6057,6 +6136,7 @@ People/Joe Pesci.yml	e1aab838
 People/Joe Quesada.yml	bc1b4a84
 People/Joe Ranft.yml	a6410f7d
 People/Joe Robert Cole.yml	c02e57ad
+People/Joe Roth.yml	6d9311d8
 People/Joe Russo.yml	6cef3dce
 People/Joe Sachs.yml	edc1d748
 People/Joe Spinell.yml	86af72a4
@@ -6113,6 +6193,7 @@ People/John DeMita.yml	f920575f
 People/John Debney.yml	5866d28f
 People/John DiMaggio.yml	7ce3308d
 People/John F. Link.yml	3b93aa58
+People/John Fawcett.yml	480a6a75
 People/John Fio.yml	cb36e235
 People/John Francis Daley.yml	9e5fa808
 People/John Fusco.yml	11a8c54e
@@ -6121,6 +6202,7 @@ People/John Gallagher Jr..yml	cf16d426
 People/John Gilbert.yml	51aeea51
 People/John Gilroy.yml	e28b8d85
 People/John Glen.yml	244c3807
+People/John Glover.yml	3e07225d
 People/John Goldwyn.yml	486a991
 People/John Goodman.yml	44c4ed6a
 People/John Grover.yml	79fc15e2
@@ -6167,6 +6249,7 @@ People/John Refoua.yml	c70cb555
 People/John Rhys-Davies.yml	978ab046
 People/John Roberts.yml	e406bb0b
 People/John Saxon.yml	20dca72b
+People/John Schneider.yml	4422eebd
 People/John Schwab.yml	52c24c30
 People/John Schwartzman.yml	16cebb11
 People/John Seale.yml	5016f6be
@@ -6251,6 +6334,7 @@ People/Jonny Greenwood.yml	b4e5f4b3
 People/Jonny Lee Miller.yml	68344b08
 People/Joonas Suotamo.yml	923cc03f
 People/Jorah Mormont.yml	15f8f6e1
+People/Jordan Gavaris.yml	9afa946
 People/Jordan Mechner.yml	84ed0ebd
 People/Jordan Nagai.yml	6d7cab98
 People/Jordan Peele.yml	77334390
@@ -6275,6 +6359,7 @@ People/Josh Andrés Rivera.yml	d4addc
 People/Josh Brolin.yml	18ad0189
 People/Josh Cooley.yml	810145c3
 People/Josh Duhamel.yml	d410b097
+People/Josh Friedman.yml	eb77eb3d
 People/Josh Gad.yml	b302d2bc
 People/Josh Hamilton.yml	81f3a56c
 People/Josh Hartnett.yml	48adc735
@@ -6289,6 +6374,7 @@ People/Josh Schaeffer.yml	c28cde2d
 People/Josh Segarra.yml	3eb2e913
 People/Josh Stewart.yml	689f3ee
 People/Josh Stolberg.yml	b5264387
+People/Josh Vokey.yml	1c682285
 People/Joshua Brand.yml	5070f7df
 People/Joshua Close.yml	2e3a36c
 People/Joshua Hamilton.yml	930f9cca
@@ -6353,6 +6439,7 @@ People/Juno Temple.yml	77460b1c
 People/Justice Smith.yml	6c129ef9
 People/Justin Bartha.yml	130af70
 People/Justin Doble.yml	e88ef5c1
+People/Justin Hartley.yml	f5112023
 People/Justin Hurwitz.yml	56a900d1
 People/Justin Lin.yml	c0b49ab6
 People/Justin Long.yml	4cf09bf9
@@ -6488,6 +6575,7 @@ People/Kenneth Mars.yml	c7ccd1cb
 People/Kenneth Tsang.yml	30ce79d2
 People/Kenny Baker.yml	360530e9
 People/Keri Russell.yml	8d2c6331
+People/Kerry Bishé.yml	8000c67b
 People/Kerry Condon.yml	18d20108
 People/Kerry Washington.yml	d187c991
 People/Kevin Alejandro.yml	e276aa0a
@@ -6495,6 +6583,7 @@ People/Kevin Bacon.yml	c2fe2ace
 People/Kevin Bassinson.yml	bf2e261
 People/Kevin Bigley.yml	812a9a2f
 People/Kevin Bray.yml	1462df1b
+People/Kevin Carroll.yml	99305e0a
 People/Kevin Chapman.yml	479ccf5d
 People/Kevin Cloud.yml	935ee298
 People/Kevin Costner.yml	fad53847
@@ -6506,6 +6595,7 @@ People/Kevin Feige.yml	a8c48eea
 People/Kevin Greutert.yml	b7c9f2a
 People/Kevin Grevioux.yml	4af746b4
 People/Kevin Hageman.yml	cf692be4
+People/Kevin Hanchard.yml	226ebb72
 People/Kevin Hart.yml	8e5005d7
 People/Kevin J. O'Connor.yml	88575f8c
 People/Kevin James.yml	c71c2856
@@ -6564,7 +6654,9 @@ People/Kristen Connolly.yml	56797231
 People/Kristen Schaal.yml	c3c6bb06
 People/Kristen Stewart.yml	76baf23a
 People/Kristen Wiig.yml	4036184f
+People/Kristian Bruun.yml	5b0a4c8d
 People/Kristie Macosko Krieger.yml	98597dce
+People/Kristin Kreuk.yml	7e4046bf
 People/Kristin Scott Thomas.yml	85bcf52f
 People/Kristoffer Joner.yml	a79305dd
 People/Krystal Houghton Ziv.yml	797e9ff
@@ -6607,6 +6699,7 @@ People/Larry Ferguson.yml	a756328d
 People/Larry Flynt.yml	1094fb8c
 People/Larry Fong.yml	2a9b147b
 People/Larry Franco.yml	ba501706
+People/Larry Smith.yml	e9ecea8c
 People/Larry the Cable Guy.yml	5134fa53
 People/Lars Knudsen.yml	245091bc
 People/Lars von Trier.yml	d6430a6c
@@ -6632,6 +6725,7 @@ People/Lauren Vélez.yml	4c69ab03
 People/Lauren Weisberger.yml	a981863f
 People/Laurence Andries.yml	dbf5172d
 People/Laurence Fishburne.yml	f241668f
+People/Laurence Mark.yml	fbb5adff
 People/Laurent Zeitoun.yml	146fb9bc
 People/Laurie Holden.yml	2fe6d48f
 People/Laurie MacDonald.yml	edd875cc
@@ -6721,6 +6815,7 @@ People/Lionel Wigram.yml	9805d6a6
 People/Lisa Albert and Matthew Weiner.yml	85ad7256
 People/Lisa Cholodenko.yml	df8574cb
 People/Lisa Emery.yml	15188949
+People/Lisa Joy.yml	519cc891
 People/Lisa Kudrow.yml	64da4ba1
 People/Lisa Loring.yml	f87a0c20
 People/Lisa Ortiz.yml	37235bd0
@@ -6777,6 +6872,7 @@ People/Luke Bracey.yml	dbaaed24
 People/Luke Brookshier.yml	efa12425
 People/Luke Evans.yml	dfa34d36
 People/Luke Grimes.yml	d49b78d1
+People/Luke Hemsworth.yml	492b04a9
 People/Luke Kirby.yml	d642ba01
 People/Luke Macfarlane.yml	13f075e2
 People/Luke Perry.yml	e44a083c
@@ -6860,6 +6956,7 @@ People/Margaret Sixel.yml	a9caad35
 People/Margo Martindale.yml	7906fe43
 People/Margot Robbie.yml	85066f12
 People/Maria Bello.yml	2b32e3f1
+People/Maria Doyle Kennedy.yml	48b1d3e9
 People/Maria Thayer.yml	81e67614
 People/Marianne Krawczyk.yml	8dfe4e28
 People/Marianne Maddalena.yml	bce589fa
@@ -6923,6 +7020,7 @@ People/Mark Yoshikawa.yml	fd480c17
 People/Markus Mäki.yml	362f649a
 People/Marley Shelton.yml	805e6782
 People/Marlon Brando.yml	21622223
+People/Marshall Herskovitz.yml	b8591eff
 People/Martha Kelly.yml	5599641f
 People/Martha Plimpton.yml	34f9bb13
 People/Martin Amis.yml	7b280084
@@ -6941,6 +7039,7 @@ People/Martin Scorsese.yml	93068d8
 People/Martin Sheen.yml	eb712bfc
 People/Martin Short.yml	40f13ba5
 People/Martin Stig Andersen.yml	c469afdb
+People/Martin Wallström.yml	2cbb8676
 People/Martin Walsh.yml	6bbdf0d0
 People/Martin Zimmerman.yml	bb6ac34e
 People/Martina Niland.yml	b2735f1e
@@ -6949,6 +7048,7 @@ People/Martti Suosalo.yml	57e1c6c7
 People/Marty Bowen.yml	943d9caf
 People/Marty Ewing.yml	3084f13a
 People/Marty Stratton.yml	f87c4f74
+People/Mary Elizabeth Mastrantonio.yml	f66fa5fc
 People/Mary Elizabeth McGlynn.yml	c13c200c
 People/Mary Elizabeth Winstead.yml	7c052436
 People/Mary Jo Catlett.yml	eb5be49
@@ -6986,6 +7086,7 @@ People/Matt Berry.yml	d4f5dfe0
 People/Matt Bettinelli-Olpin.yml	92b6ca52
 People/Matt Bomer.yml	f6b2ab58
 People/Matt Damon.yml	b2f87d1f
+People/Matt Dillon.yml	ab53efef
 People/Matt Flannery.yml	20ca4f8d
 People/Matt Groening.yml	ec4bbd39
 People/Matt Holloway.yml	7bc295ba
@@ -7072,6 +7173,7 @@ People/Melissa Sturm.yml	bc6a833
 People/Melissanthi Mahut.yml	d916e549
 People/Melora Walters.yml	36dba3b9
 People/Menahem Golan.yml	791afddc
+People/Mercedes McNab.yml	60c8b529
 People/Meredith Dawson.yml	b4448704
 People/Merle Dandridge.yml	b3f0095
 People/Merritt Wever.yml	1fb8283c
@@ -7104,6 +7206,7 @@ People/Michael Chaves.yml	f6c41e2d
 People/Michael Chernus.yml	7c7ceefb
 People/Michael Clarke Duncan.yml	35228e0f
 People/Michael Crichton.yml	99f71daf
+People/Michael Cristofer.yml	4de5fb38
 People/Michael Cuesta.yml	b7dbe889
 People/Michael Dante DiMartino.yml	505d182b
 People/Michael De Luca.yml	351b19df
@@ -7162,6 +7265,7 @@ People/Michael Potts.yml	752429d9
 People/Michael Rapaport.yml	9803d644
 People/Michael Richards.yml	3eda8a72
 People/Michael Rooker.yml	10e57509
+People/Michael Rosenbaum.yml	9761704b
 People/Michael Salvatori.yml	bbbb5e53
 People/Michael Schaefer.yml	4ec4425
 People/Michael Schur.yml	5e1f9f70
@@ -7202,8 +7306,10 @@ People/Michelle Monaghan.yml	900aef74
 People/Michelle Murdocca.yml	963d8101
 People/Michelle Pfeiffer.yml	37d92db3
 People/Michelle Rodriguez.yml	5d6b8eb9
+People/Michelle Trachtenberg.yml	827db827
 People/Michelle Williams.yml	26c24a38
 People/Michelle Yeoh.yml	8d4685ee
+People/Mick Audsley.yml	1ffe716
 People/Mick Gordon.yml	27582f1
 People/Mickey Rourke.yml	74468d2
 People/Mickey Sumner.yml	3a2e429b
@@ -7213,11 +7319,13 @@ People/Mihai Malaimare Jr..yml	b44b0868
 People/Mihály Kormos.yml	cf9b8d9f
 People/Mihály Víg.yml	acfe3b2c
 People/Mikael Kasurinen.yml	eb1f1d54
+People/Mikael Salomon.yml	7bb9f802
 People/Mike Colter.yml	1d92c666
 People/Mike Elliott.yml	da7e840c
 People/Mike Epps.yml	d840e194
 People/Mike Faist.yml	e799f6d3
 People/Mike Gioulakis.yml	e18f10b6
+People/Mike Hill.yml	860192d1
 People/Mike Judge.yml	47756abb
 People/Mike Larocca.yml	7452ef8d
 People/Mike Medavoy.yml	78384473
@@ -7293,6 +7401,7 @@ People/Nadji Jeter.yml	b4b189a0
 People/Nancy Cartwright.yml	372e6198
 People/Nancy Grant.yml	a23d38ed
 People/Nancy Richardson.yml	393b3263
+People/Nancy Wilson.yml	6392ffd
 People/Naomi Watts.yml	22c41c81
 People/Naomie Harris.yml	2935227b
 People/Naoto Ohshima.yml	634bbad3
@@ -7338,12 +7447,14 @@ People/Neil Marshall.yml	41668486
 People/Neil Newbon.yml	d8fbc7eb
 People/Neil Patrick Harris.yml	fec24266
 People/Neil Ross.yml	4f8278c5
+People/Neil Travis.yml	7accd2b3
 People/Nelly Quettier.yml	52ce433b
 People/Neve Campbell.yml	9b8d0d45
 People/Newton Thomas Sigel.yml	eec1f404
 People/Nhut Le.yml	a9c5bf93
 People/Nia DaCosta.yml	21c68313
 People/Nic Pizzolatto.yml	33d9f9e5
+People/Nicholas Brendon.yml	6562e10e
 People/Nicholas Britell.yml	19805f50
 People/Nicholas Campbell.yml	be17938f
 People/Nicholas Colasanto.yml	179d0f62
@@ -7430,6 +7541,7 @@ People/Olga Kurylenko.yml	6494dbd2
 People/Oliver Ford Davies.yml	9b52e3f4
 People/Oliver Phelps.yml	bae207bb
 People/Oliver Platt.yml	bfa89bff
+People/Oliver Stone.yml	5c965e46
 People/Oliver Wood.yml	210f74ea
 People/Olivia Cheng.yml	b3a3c781
 People/Olivia Colman.yml	efe6bbca
@@ -7457,6 +7569,7 @@ People/Oscar Kightley.yml	d4d63f7a
 People/Oscar Nunez.yml	c69c2e5c
 People/Owen Dennis.yml	95d99516
 People/Owen Harris.yml	2f084d86
+People/Owen Roizman.yml	a588b6fb
 People/Owen Teague.yml	5a0af882
 People/Owen Wilson.yml	1c708a4a
 People/P. J. Byrne.yml	9909eece
@@ -7495,6 +7608,7 @@ People/Patrick Doyle.yml	f82f89c5
 People/Patrick Fischler.yml	d4ed0f33
 People/Patrick Fortier.yml	940f259f
 People/Patrick Fugit.yml	184734aa
+People/Patrick Heusinger.yml	23956321
 People/Patrick Lin.yml	7cc32ad8
 People/Patrick Lussier.yml	53bd30ff
 People/Patrick Macmanus.yml	31de689f
@@ -7675,6 +7789,7 @@ People/Piotr Michael.yml	791e110b
 People/Piper Curda.yml	12f68e1e
 People/Pippa Harris.yml	d7cafbc9
 People/Pom Klementieff.yml	7fda35fe
+People/Portia Doubleday.yml	3ee9aca6
 People/Portia de Rossi.yml	b02d3d9c
 People/Priah Ferguson.yml	81674c17
 People/Queen Latifah.yml	6acc644c
@@ -7735,6 +7850,7 @@ People/Raymond Chow.yml	d7ad0882
 People/Raymond Cruz.yml	22af4ccc
 People/Raymond J. Barry.yml	d736f2b9
 People/Raúl Méndez.yml	78db1c9d
+People/Rebecca De Mornay.yml	2e4cb728
 People/Rebecca Ferguson.yml	fff7a7c
 People/Rebecca Hall.yml	c096733d
 People/Rebecca Romijn.yml	d2767b36
@@ -7745,6 +7861,7 @@ People/Reda Kateb.yml	bb295340
 People/Reed Birney.yml	78ec9b43
 People/Reese Witherspoon.yml	4213daa8
 People/Reggie Watkins.yml	59c90859
+People/Regina King.yml	c2a21eef
 People/Reginald Hudlin.yml	f7fd88fb
 People/Reginald VelJohnson.yml	226b4e85
 People/Reid Scott.yml	107009db
@@ -7836,6 +7953,7 @@ People/Rob Lowe.yml	ee48ef34
 People/Rob Marshall.yml	45000b9
 People/Rob McElhenney.yml	9c7d1584
 People/Rob Nelson.yml	891417d1
+People/Rob Reiner.yml	dc8a9282
 People/Rob Simonsen.yml	fd143dd8
 People/Rob Wiethoff.yml	349eba94
 People/Rob Zombie.yml	dac7dfac
@@ -7869,6 +7987,8 @@ People/Robert Guillaume.yml	1adb9267
 People/Robert John Burke.yml	824ae805
 People/Robert Kazinsky.yml	e2d6a53b
 People/Robert Kirkman.yml	aec563c7
+People/Robert Knepper.yml	4845bd3a
+People/Robert Leighton.yml	230e5332
 People/Robert Loggia.yml	23abf8b6
 People/Robert Longstreet.yml	990cb1c9
 People/Robert Lopez.yml	ac33ffaa
@@ -7877,6 +7997,7 @@ People/Robert Mark Kamen.yml	b477bdac
 People/Robert McLachlan.yml	c0896028
 People/Robert Patrick.yml	1ff1509d
 People/Robert Pattinson.yml	23a696ca
+People/Robert Prosky.yml	5ef98357
 People/Robert Redford.yml	216df47e
 People/Robert Richardson.yml	c80d532d
 People/Robert Rodriguez.yml	4b56c854
@@ -7909,6 +8030,7 @@ People/Rodney Eastman.yml	c2a4113
 People/Rodney Rothman.yml	39783ad5
 People/Rodrigo García.yml	a89a230f
 People/Rodrigo Prieto.yml	ca5a506c
+People/Rodrigo Santoro.yml	b6dd4828
 People/Rodrigo Teixeira.yml	4458f262
 People/Roger A. Deakins.yml	ed5d89b1
 People/Roger Aaron Brown.yml	ef93558
@@ -8013,9 +8135,11 @@ People/Sam Catlin.yml	d82b15e1
 People/Sam Elliott.yml	82225323
 People/Sam Eng.yml	830b5ec5
 People/Sam Ernst.yml	52417a0e
+People/Sam Esmail.yml	baaa4c44
 People/Sam Hargrave.yml	dbf878b1
 People/Sam Jaeger.yml	f4224fa2
 People/Sam Johnson & Chris Marcil.yml	3a3932b7
+People/Sam Jones III.yml	676304cf
 People/Sam Lake.yml	97cf9f47
 People/Sam Levinson.yml	bdcd0259
 People/Sam Levy.yml	47b45c48
@@ -8061,6 +8185,7 @@ People/Sarah Clarke.yml	fdf8d860
 People/Sarah Green.yml	79da73e8
 People/Sarah Hyland.yml	7b01a50b
 People/Sarah Lafleur.yml	398cbafe
+People/Sarah Michelle Gellar.yml	e74f8d25
 People/Sarah Naftalis.yml	51a99465
 People/Sarah Paulson.yml	b746ad3f
 People/Sarah Schachner.yml	f289c227
@@ -8268,6 +8393,7 @@ People/Stellan Skarsgard.yml	c5924e07
 People/Stellan Skarsgård.yml	16626d1a
 People/Steph Green.yml	cf3f8da4
 People/Stephanie Beatriz.yml	d92cca97
+People/Stephanie Corneliussen.yml	14a9131e
 People/Stephanie Hsu.yml	45868b4
 People/Stephanie Panisello.yml	f7f41610
 People/Stephanie Sigman.yml	bd826ea3
@@ -8282,6 +8408,7 @@ People/Stephen Glover.yml	d8dbfec
 People/Stephen Goldblatt.yml	7fe79ad1
 People/Stephen Graham.yml	d1936e46
 People/Stephen Gyllenhaal.yml	94126820
+People/Stephen H. Burum.yml	b20f593f
 People/Stephen Hillenburg.yml	c2a236e2
 People/Stephen Hopkins.yml	c344f468
 People/Stephen King.yml	3663a8ec
@@ -8301,6 +8428,7 @@ People/Stephen Sommers.yml	d6ee51e
 People/Stephen Tobolowsky.yml	ecc2042c
 People/Stephen Trask.yml	b8215ca1
 People/Stephen Williams.yml	70f442fa
+People/Stephen Woolley.yml	370a5ec8
 People/Stephenie Meyer.yml	2b1ddfc6
 People/Sterling Jerins.yml	dbc45c7e
 People/Sterling K. Brown.yml	35c817ed
@@ -8340,6 +8468,7 @@ People/Steven Moffat.yml	a286f765
 People/Steven Poster.yml	338ea003
 People/Steven Price.yml	5a7f3c43
 People/Steven Rales.yml	4e752570
+People/Steven Rosenblum.yml	91c80fcc
 People/Steven Schneider.yml	f6a4245
 People/Steven Soderbergh.yml	7a884b10
 People/Steven Spielberg.yml	d2d70fe9
@@ -8349,6 +8478,7 @@ People/Steven Yeun.yml	6d8263a0
 People/Steven Zaillian.yml	ba4f3984
 People/Storm Reid.yml	6e3c40a4
 People/Strother Martin.yml	b7775437
+People/Stu Linder.yml	33512793
 People/Stuart Baird.yml	2ea28788
 People/Stuart Chatwood.yml	7438f22e
 People/Stuart Cornfeld.yml	9421904e
@@ -8373,6 +8503,7 @@ People/Susanne Lothar.yml	8ad875e9
 People/Susie Essman.yml	e77ac024
 People/Susumu Hirasawa.yml	6001e611
 People/Swen Vincke.yml	bb608454
+People/Sydney Pollack.yml	4386b3c8
 People/Sydney Sweeney.yml	d4afcce
 People/Sylvain White.yml	83b4a70d
 People/Sylvester Stallone.yml	abe4e97e
@@ -8401,6 +8532,7 @@ People/Tamaryn Payne.yml	5d1a74c
 People/Tan Dun.yml	ca5f31b3
 People/Tang Siu Lam.yml	800339be
 People/Tang Wei.yml	398b6765
+People/Tangerine Dream.yml	7f187bbe
 People/Tania Raymonde.yml	dee4fd7d
 People/Tanya Seghatchian.yml	693fd33e
 People/Taofik Kolade.yml	a26a3ce2
@@ -8412,6 +8544,7 @@ People/Taro Maki.yml	490a1df4
 People/Taron Egerton.yml	7600b5d2
 People/Tate Donovan.yml	af6721ee
 People/Tati Gabrielle.yml	8b7ee22d
+People/Tatiana Maslany.yml	cbcc0105
 People/Tatsuya Nakadai.yml	de180af2
 People/Tatsuyuki Maeda.yml	799c75d0
 People/Taylor Dearden.yml	7c3485e3
@@ -8518,6 +8651,7 @@ People/Tim Willits.yml	3206d3b
 People/Timo Tjahjanto.yml	efd72970
 People/Timothy Alverson.yml	821e96df
 People/Timothy Dalton.yml	b3f011bc
+People/Timothy Hutton.yml	4ef62b1
 People/Timothy Olyphant.yml	a531a6b1
 People/Timothy Spall.yml	6f290d84
 People/Timothée Chalamet.yml	83fc013b
@@ -8529,6 +8663,7 @@ People/Tobey Maguire.yml	2e10fe02
 People/Tobias Menzies.yml	1c03a476
 People/Tobin Bell.yml	9f1b169b
 People/Toby Ascher.yml	bae8a73d
+People/Toby Emmerich.yml	d0e0edd1
 People/Toby Gard.yml	55b99810
 People/Toby Halbrooks.yml	74b744ae
 People/Toby Haynes.yml	670b53d2
@@ -8540,6 +8675,7 @@ People/Toby Stephens.yml	df1432ed
 People/Todd A. Kessler.yml	98ea197c
 People/Todd Black.yml	efd5d01e
 People/Todd E. Miller.yml	9a430cb1
+People/Todd Field.yml	e02ca64
 People/Todd Haberkorn.yml	643fd686
 People/Todd Haynes.yml	dd31daff
 People/Todd Howard.yml	7e343792
@@ -8571,6 +8707,7 @@ People/Tom McCarthy.yml	51e63603
 People/Tom McGrath.yml	315aa128
 People/Tom Noonan.yml	fae62504
 People/Tom Pelphrey.yml	998249f6
+People/Tom Perrotta.yml	d1b6aa6b
 People/Tom Rosenberg.yml	11b9c346
 People/Tom Salta.yml	5e7a3d25
 People/Tom Sizemore.yml	af322726
@@ -8579,6 +8716,7 @@ People/Tom Smuts and Matthew Weiner.yml	a2a0dc82
 People/Tom Stern.yml	42b10b1
 People/Tom Tykwer.yml	b8015fa1
 People/Tom Waits.yml	f7feff0c
+People/Tom Welling.yml	5148bc35
 People/Tom Wheeler.yml	85d04022
 People/Tom Wilkinson.yml	1e09ebf0
 People/Tom Wu.yml	90f25357
@@ -8665,6 +8803,7 @@ People/Uma Thurman.yml	5d2906ef
 People/Uta Briesewitz.yml	ad601322
 People/Utkarsh Ambudkar.yml	11df58d0
 People/Val Kilmer.yml	5e90eb1f
+People/Valeria Golino.yml	bd342ffb
 People/Valerie Chu.yml	ad92c118
 People/Valorie Curry.yml	1b579b76
 People/Vanessa Hudgens.yml	ce554711
@@ -8694,6 +8833,7 @@ People/Vince Gilligan.yml	c1517da9
 People/Vince Vaughn.yml	825aad4e
 People/Vincent Cassel.yml	46bf6c07
 People/Vincent D'Onofrio.yml	99abaef3
+People/Vincent Kartheiser.yml	c8c00124
 People/Vincent Landay.yml	68662f38
 People/Vincent Maraval.yml	9ded23c4
 People/Vincent Martella.yml	5ff28855
@@ -8927,6 +9067,8 @@ Shows/1996/Frasier, Season 4.yml	547139ef
 Shows/1996/Law & Order, Season 7.yml	83f7b897
 Shows/1996/Seinfeld, Season 8.yml	d41e7b1
 Shows/1996/The Simpsons, Season 8.yml	297bdba6
+Shows/1997/Buffy the Vampire Slayer, Season 2.yml	ee7ca002
+Shows/1997/Buffy the Vampire Slayer.yml	9dcb0113
 Shows/1997/ER, Season 4.yml	3fbc2bf9
 Shows/1997/Frasier, Season 5.yml	3d6cc4b3
 Shows/1997/King of the Hill, Season 2.yml	ff26539f
@@ -8935,6 +9077,7 @@ Shows/1997/Law & Order, Season 8.yml	4ace7f3c
 Shows/1997/Seinfeld, Season 9.yml	f2ad4153
 Shows/1997/South Park.yml	f7ffff52
 Shows/1997/The Simpsons, Season 9.yml	d453141c
+Shows/1998/Buffy the Vampire Slayer, Season 3.yml	3272edc1
 Shows/1998/Cowboy Bebop.yml	8d992214
 Shows/1998/ER, Season 5.yml	dbc82738
 Shows/1998/Frasier, Season 6.yml	570a11d1
@@ -8943,6 +9086,8 @@ Shows/1998/Law & Order, Season 9.yml	ae70cbfe
 Shows/1998/South Park, Season 2.yml	768514c0
 Shows/1998/The New Addams Family.yml	c4b3f13c
 Shows/1998/The Simpsons, Season 10.yml	5b2e9b59
+Shows/1999/Angel.yml	1255e4d4
+Shows/1999/Buffy the Vampire Slayer, Season 4.yml	762da3e4
 Shows/1999/ER, Season 6.yml	b2f0c276
 Shows/1999/Family Guy, Season 2.yml	8b36738e
 Shows/1999/Family Guy.yml	6c8c2a7a
@@ -8959,6 +9104,8 @@ Shows/1999/Strangers with Candy.yml	430798d0
 Shows/1999/The Simpsons, Season 11.yml	5fee0bce
 Shows/1999/The Sopranos.yml	5740c834
 Shows/1999/The West Wing.yml	6bac7983
+Shows/2000/Angel, Season 2.yml	af5d9c0b
+Shows/2000/Buffy the Vampire Slayer, Season 5.yml	72f082db
 Shows/2000/CSI Crime Scene Investigation.yml	e14f789b
 Shows/2000/Curb Your Enthusiasm.yml	3f7b4a07
 Shows/2000/ER, Season 7.yml	aec544b9
@@ -8977,7 +9124,9 @@ Shows/2000/The Simpsons, Season 12.yml	550806a1
 Shows/2000/The Sopranos, Season 2.yml	2e191839
 Shows/2000/The West Wing, Season 2.yml	ffe11e81
 Shows/2001/24.yml	92648658
+Shows/2001/Angel, Season 3.yml	64161aed
 Shows/2001/Band of Brothers.yml	3a973898
+Shows/2001/Buffy the Vampire Slayer, Season 6.yml	c27f7b51
 Shows/2001/CSI Crime Scene Investigation, Season 2.yml	1911821d
 Shows/2001/Curb Your Enthusiasm, Season 2.yml	1a19d722
 Shows/2001/ER, Season 8.yml	d054c2a7
@@ -8991,6 +9140,7 @@ Shows/2001/One Piece, Season 6.yml	dc7d3f79
 Shows/2001/One Piece, Season 7.yml	6d3f800b
 Shows/2001/Samurai Jack.yml	d35894fd
 Shows/2001/Six Feet Under.yml	b131eb85
+Shows/2001/Smallville.yml	69666777
 Shows/2001/South Park, Season 5.yml	fbdfd538
 Shows/2001/Star Trek Enterprise.yml	f629d71b
 Shows/2001/The Office UK.yml	c3545fd7
@@ -8998,6 +9148,8 @@ Shows/2001/The Simpsons, Season 13.yml	8178d248
 Shows/2001/The Sopranos, Season 3.yml	230e2a58
 Shows/2001/The West Wing, Season 3.yml	aabfebd5
 Shows/2002/24, Season 2.yml	80d80c0
+Shows/2002/Angel, Season 4.yml	b3a99790
+Shows/2002/Buffy the Vampire Slayer, Season 7.yml	33a97a4c
 Shows/2002/CSI Crime Scene Investigation, Season 3.yml	37ba720e
 Shows/2002/Curb Your Enthusiasm, Season 3.yml	c666b8b6
 Shows/2002/ER, Season 9.yml	ea39ca50
@@ -9010,6 +9162,7 @@ Shows/2002/One Piece, Season 8.yml	d5217f7
 Shows/2002/Samurai Jack, Season 2.yml	ea6cc87b
 Shows/2002/Samurai Jack, Season 3.yml	cb0b00f
 Shows/2002/Six Feet Under, Season 2.yml	c9cec2ee
+Shows/2002/Smallville, Season 2.yml	eda2ba87
 Shows/2002/South Park, Season 6.yml	dd36440f
 Shows/2002/The Office UK, Season 2.yml	c30952c
 Shows/2002/The Simpsons, Season 14.yml	f578581b
@@ -9017,6 +9170,7 @@ Shows/2002/The Sopranos, Season 4.yml	4e06ed81
 Shows/2002/The West Wing, Season 4.yml	f3458c87
 Shows/2002/The Wire.yml	8ce25d19
 Shows/2003/24, Season 3.yml	a98ca9bb
+Shows/2003/Angel, Season 5.yml	5868eb88
 Shows/2003/Arrested Development.yml	ea4abc04
 Shows/2003/CSI Crime Scene Investigation, Season 4.yml	9bf2e1f8
 Shows/2003/Children of Dune.yml	3751ca8e
@@ -9030,6 +9184,7 @@ Shows/2003/Naruto, Season 3.yml	329618bf
 Shows/2003/One Piece, Season 9.yml	482bb0a2
 Shows/2003/Samurai Jack, Season 4.yml	4729cf78
 Shows/2003/Six Feet Under, Season 3.yml	509ad896
+Shows/2003/Smallville, Season 3.yml	1d8cc8ce
 Shows/2003/South Park, Season 7.yml	485868fc
 Shows/2003/The Animatrix.yml	4d017100
 Shows/2003/The Office UK, Specials.yml	67a973f1
@@ -9049,6 +9204,7 @@ Shows/2004/Naruto, Season 4.yml	77810e67
 Shows/2004/Naruto, Season 5.yml	fd9d20c4
 Shows/2004/One Piece, Season 10.yml	ff68c71b
 Shows/2004/Six Feet Under, Season 4.yml	9d710257
+Shows/2004/Smallville, Season 4.yml	9b4f3dec
 Shows/2004/South Park, Season 8.yml	47f6b71c
 Shows/2004/The Simpsons, Season 16.yml	c5e564c8
 Shows/2004/The Sopranos, Season 5.yml	3c842c52
@@ -9075,6 +9231,7 @@ Shows/2005/Naruto, Season 6.yml	2de0d3d2
 Shows/2005/Naruto, Season 7.yml	5c40b20c
 Shows/2005/One Piece, Season 11.yml	d12537ce
 Shows/2005/Six Feet Under, Season 5.yml	1adc2ec8
+Shows/2005/Smallville, Season 5.yml	ea1afd2e
 Shows/2005/South Park, Season 9.yml	d1bfde2b
 Shows/2005/Supernatural.yml	686b3a1f
 Shows/2005/The Office, Season 2.yml	baa38d46
@@ -9099,6 +9256,7 @@ Shows/2006/Law & Order, Season 17.yml	89e492b
 Shows/2006/NCIS, Season 4.yml	b8db4cb
 Shows/2006/Naruto, Season 8.yml	61b6f850
 Shows/2006/Naruto, Season 9.yml	26d91549
+Shows/2006/Smallville, Season 6.yml	9ce093ca
 Shows/2006/South Park, Season 10.yml	30c72324
 Shows/2006/The Office, Season 3.yml	200418d9
 Shows/2006/The Simpsons, Season 18.yml	15f343e2
@@ -9122,6 +9280,7 @@ Shows/2007/Mad Men.yml	15c40d5e
 Shows/2007/NCIS, Season 5.yml	59807a57
 Shows/2007/One Piece, Season 12.yml	7d6fefda
 Shows/2007/Phineas and Ferb.yml	7664dd0a
+Shows/2007/Smallville, Season 7.yml	b333b973
 Shows/2007/South Park, Season 11.yml	7ffb400c
 Shows/2007/The Office, Season 4.yml	af6b40a2
 Shows/2007/The Simpsons, Season 19.yml	3c94080
@@ -9142,6 +9301,7 @@ Shows/2008/Law & Order, Season 19.yml	4b64dc58
 Shows/2008/Mad Men, Season 2.yml	12dd42e3
 Shows/2008/NCIS, Season 6.yml	fea960d6
 Shows/2008/One Piece, Season 13.yml	ccdabbad
+Shows/2008/Smallville, Season 8.yml	11c67b62
 Shows/2008/South Park, Season 12.yml	45f49c73
 Shows/2008/The Office, Season 5.yml	96f06288
 Shows/2008/The Penguins of Madagascar.yml	f75da468
@@ -9168,6 +9328,7 @@ Shows/2009/NCIS, Season 7.yml	4d39526d
 Shows/2009/Parks and Recreation, Season 2.yml	a5f77862
 Shows/2009/Parks and Recreation.yml	3f729008
 Shows/2009/Phineas and Ferb, Season 2.yml	59064d7c
+Shows/2009/Smallville, Season 9.yml	ec86ef36
 Shows/2009/South Park, Season 13.yml	d454b88b
 Shows/2009/The Office, Season 6.yml	88a36afc
 Shows/2009/The Simpsons, Season 21.yml	a3198a6f
@@ -9194,6 +9355,7 @@ Shows/2010/NCIS, Season 8.yml	b93180a
 Shows/2010/Regular Show, Season 2.yml	9dc78cf9
 Shows/2010/Regular Show.yml	f1483abb
 Shows/2010/Sherlock.yml	54c2f3d2
+Shows/2010/Smallville, Season 10.yml	86bfe1a6
 Shows/2010/South Park, Season 14.yml	6ef59210
 Shows/2010/The Office, Season 7.yml	6874c406
 Shows/2010/The Simpsons, Season 22.yml	9759fab
@@ -9279,6 +9441,7 @@ Shows/2013/Marvel's Agents of S.H.I.E.L.D..yml	1e60b312
 Shows/2013/Modern Family, Season 5.yml	729ac2b0
 Shows/2013/NCIS, Season 11.yml	c3e69f99
 Shows/2013/One Piece, Season 16.yml	d68f4762
+Shows/2013/Orphan Black.yml	55469293
 Shows/2013/Parks and Recreation, Season 6.yml	2246ecd8
 Shows/2013/Rectify.yml	6d721e0a
 Shows/2013/Regular Show, Season 5.yml	eb4ba8b3
@@ -9302,16 +9465,19 @@ Shows/2014/Fargo.yml	6347af9
 Shows/2014/Game of Thrones, Season 4.yml	a4cdffff
 Shows/2014/Gravity Falls, Season 2.yml	33131d6c
 Shows/2014/Grey's Anatomy, Season 11.yml	75661a60
+Shows/2014/Halt and Catch Fire.yml	64c98839
 Shows/2014/Homeland, Season 4.yml	6781726d
 Shows/2014/Mad Men, Season 7.yml	a1b83d92
 Shows/2014/Marco Polo.yml	49595e39
 Shows/2014/Modern Family, Season 6.yml	6b2c7810
 Shows/2014/NCIS, Season 12.yml	72b330eb
 Shows/2014/One Piece, Season 17.yml	f98e3137
+Shows/2014/Orphan Black, Season 2.yml	9c94f8cc
 Shows/2014/Rectify, Season 2.yml	76af41b8
 Shows/2014/Regular Show, Season 6.yml	155059a6
 Shows/2014/South Park, Season 18.yml	e415c890
 Shows/2014/The Americans, Season 2.yml	3d6e3de4
+Shows/2014/The Leftovers.yml	29a8ef94
 Shows/2014/The Simpsons, Season 26.yml	3537323e
 Shows/2014/True Detective.yml	2dd4c4e3
 Shows/2015/Adventure Time, Season 7.yml	3535004d
@@ -9328,14 +9494,17 @@ Shows/2015/Family Guy, Season 14.yml	fcfb05e5
 Shows/2015/Fargo, Season 2.yml	f1554be6
 Shows/2015/Game of Thrones, Season 5.yml	f068a642
 Shows/2015/Grey's Anatomy, Season 12.yml	af1389c3
+Shows/2015/Halt and Catch Fire, Season 2.yml	c4a372b7
 Shows/2015/Homeland, Season 5.yml	4fe052eb
 Shows/2015/It's Always Sunny in Philadelphia, Season 10.yml	9a175a4c
 Shows/2015/Killjoys.yml	29a01757
 Shows/2015/Luther, Season 4.yml	4e8a33e
 Shows/2015/Modern Family, Season 7.yml	39c3317c
+Shows/2015/Mr. Robot.yml	44bbe4df
 Shows/2015/NCIS, Season 13.yml	275ffccf
 Shows/2015/Narcos.yml	7c71c670
 Shows/2015/One Punch Man.yml	76f7937
+Shows/2015/Orphan Black, Season 3.yml	e90f39be
 Shows/2015/Parks and Recreation, Season 7.yml	b657754d
 Shows/2015/Rectify, Season 3.yml	a49fa074
 Shows/2015/Regular Show, Season 7.yml	678ecd5a
@@ -9344,6 +9513,7 @@ Shows/2015/Sense8.yml	4835fb7f
 Shows/2015/South Park, Season 19.yml	4b74704b
 Shows/2015/Steven Universe, Season 2.yml	99e00110
 Shows/2015/The Americans, Season 3.yml	c4d23fb8
+Shows/2015/The Leftovers, Season 2.yml	4c41aa68
 Shows/2015/The Simpsons, Season 27.yml	301be6ee
 Shows/2015/True Detective, Season 2.yml	da48fb1c
 Shows/2016/Adventure Time, Season 8.yml	157df301
@@ -9364,14 +9534,17 @@ Shows/2016/Game of Thrones, Season 6.yml	befe05f3
 Shows/2016/Goliath Series.yml	88ed2dd1
 Shows/2016/Goliath.yml	904db8ab
 Shows/2016/Grey's Anatomy, Season 13.yml	1649c876
+Shows/2016/Halt and Catch Fire, Season 3.yml	18a7a0ef
 Shows/2016/Ice Age The Great Egg-Scapade.yml	dde2eaa7
 Shows/2016/It's Always Sunny in Philadelphia, Season 11.yml	b24d5751
 Shows/2016/Killjoys, Season 2.yml	cb902d25
 Shows/2016/Marco Polo, Season 2.yml	99a9646b
 Shows/2016/Modern Family, Season 8.yml	1443d4f
+Shows/2016/Mr. Robot, Season 2.yml	d4cbf758
 Shows/2016/NCIS, Season 14.yml	2c3533ed
 Shows/2016/Narcos, Season 2.yml	e7090cf4
 Shows/2016/One Piece, Season 18.yml	d917dcea
+Shows/2016/Orphan Black, Season 4.yml	b12ab603
 Shows/2016/Rectify, Season 4.yml	79c1c3d
 Shows/2016/Regular Show, Season 8.yml	95bd8e6a
 Shows/2016/South Park, Season 20.yml	c09be0d2
@@ -9380,6 +9553,7 @@ Shows/2016/Steven Universe, Season 4.yml	b69f03fe
 Shows/2016/Stranger Things.yml	3a0924e6
 Shows/2016/The Americans, Season 4.yml	ff98bd48
 Shows/2016/The Simpsons, Season 28.yml	dc06c671
+Shows/2016/Westworld.yml	e69172e9
 Shows/2017/Adventure Time, Season 10.yml	9ad02a9f
 Shows/2017/Adventure Time, Season 9.yml	934f1f68
 Shows/2017/All Hail King Julien Exiled.yml	27f46ba7
@@ -9396,14 +9570,17 @@ Shows/2017/Easy, Season 2.yml	275f6f07
 Shows/2017/Family Guy, Season 16.yml	7192c7d4
 Shows/2017/Game of Thrones, Season 7.yml	9d6025d5
 Shows/2017/Grey's Anatomy, Season 14.yml	2ed4fb44
+Shows/2017/Halt and Catch Fire, Season 4.yml	2cf10c7e
 Shows/2017/Homeland, Season 6.yml	234a94c5
 Shows/2017/Hotel Transylvania The Series.yml	3184f78e
 Shows/2017/It's Always Sunny in Philadelphia, Season 12.yml	cd4b048e
 Shows/2017/Legion.yml	86c4bbb1
 Shows/2017/Modern Family, Season 9.yml	f21a028b
+Shows/2017/Mr. Robot, Season 3.yml	33b3cbfa
 Shows/2017/NCIS, Season 15.yml	30fce68e
 Shows/2017/Narcos, Season 3.yml	3e08bf81
 Shows/2017/One Piece, Season 19.yml	20748103
+Shows/2017/Orphan Black, Season 5.yml	9de83c66
 Shows/2017/Ozark.yml	7db72174
 Shows/2017/Rick and Morty, Season 3.yml	597121e1
 Shows/2017/Samurai Jack, Season 5.yml	fa4e9dc1
@@ -9412,6 +9589,7 @@ Shows/2017/Star Trek Discovery.yml	273be0a1
 Shows/2017/Steven Universe, Season 5.yml	e88ea087
 Shows/2017/Stranger Things, Season 2.yml	1f1de5b5
 Shows/2017/The Americans, Season 5.yml	30fc7568
+Shows/2017/The Leftovers, Season 3.yml	224d09ac
 Shows/2017/The Simpsons, Season 29.yml	14567064
 Shows/2018/Archer, Season 9.yml	b2111663
 Shows/2018/Arrested Development, Season 5.yml	64b6a26a
@@ -9438,6 +9616,7 @@ Shows/2018/Succession.yml	f16a258d
 Shows/2018/The Americans, Season 6.yml	fc437f3e
 Shows/2018/The Purge.yml	96b679a7
 Shows/2018/The Simpsons, Season 30.yml	a3f6a33e
+Shows/2018/Westworld, Season 2.yml	629d5082
 Shows/2019/Archer, Season 10.yml	9a8c634f
 Shows/2019/BoJack Horseman, Season 6.yml	24b588f9
 Shows/2019/Bob's Burgers, Season 10.yml	2d6bb75
@@ -9458,6 +9637,7 @@ Shows/2019/It's Always Sunny in Philadelphia, Season 14.yml	61e0cdc7
 Shows/2019/Legion, Season 3.yml	19008afc
 Shows/2019/Luther, Season 5.yml	f38811df
 Shows/2019/Modern Family, Season 11.yml	f092ddd7
+Shows/2019/Mr. Robot, Season 4.yml	cbdcb771
 Shows/2019/NCIS, Season 17.yml	cd982925
 Shows/2019/One Piece, Season 20.yml	ce5a870e
 Shows/2019/One Piece, Season 21.yml	55726e3f
@@ -9473,6 +9653,7 @@ Shows/2019/The Purge, Season 2.yml	2636e801
 Shows/2019/The Simpsons, Season 31.yml	ce29b3a2
 Shows/2019/True Detective, Season 3.yml	4772d3cf
 Shows/2019/Undone.yml	57ea59d9
+Shows/2019/Watchmen.yml	3600fc98
 Shows/2019/What We Do in the Shadows.yml	97555042
 Shows/2020/Archer, Season 11.yml	ef7dcfae
 Shows/2020/Attack on Titan, Season 4.yml	a2c82474
@@ -9501,6 +9682,7 @@ Shows/2020/Ted Lasso.yml	e8d20a16
 Shows/2020/The Boys, Season 2.yml	bb21f142
 Shows/2020/The Mandalorian, Season 2.yml	7c24186c
 Shows/2020/The Simpsons, Season 32.yml	61fc1dbf
+Shows/2020/Westworld, Season 3.yml	256a7148
 Shows/2020/What We Do in the Shadows, Season 2.yml	5efdc17a
 Shows/2021/Arcane.yml	c7931ed0
 Shows/2021/Archer, Season 12.yml	11f62c81
@@ -9564,6 +9746,7 @@ Shows/2022/The Boys, Season 3.yml	3ab68809
 Shows/2022/The Simpsons, Season 34.yml	78ef851c
 Shows/2022/Undone, Season 2.yml	7e6b36df
 Shows/2022/Wednesday.yml	c0ac1bdd
+Shows/2022/Westworld, Season 4.yml	37d5aaf5
 Shows/2022/What We Do in the Shadows, Season 4.yml	6a218c8
 Shows/2023/Archer, Season 14.yml	32be11f4
 Shows/2023/Bob's Burgers, Season 14.yml	356a90c1
