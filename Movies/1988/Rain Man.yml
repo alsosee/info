@@ -1,0 +1,39 @@
+name: Rain Man
+description: >
+  A self-centered car dealer discovers that his estranged father left most of
+  his estate to an autistic brother he never knew. A cross-country trip
+  gradually changes their relationship and his understanding of family.
+released: 1988-12-16
+rating: R
+length: 2h08m
+genres:
+  - drama
+  - comedy drama
+  - buddy
+wikipedia: https://en.wikipedia.org/wiki/Rain_Man
+imdb: https://www.imdb.com/title/tt0095953
+tmdb: https://www.themoviedb.org/movie/380-rain-man
+rotten_tomatoes: https://www.rottentomatoes.com/m/rain_man
+directors: Barry Levinson
+screenplay:
+  - Barry Morrow
+  - Ronald Bass
+producers: Mark Johnson
+music: Hans Zimmer
+cinematography: John Seale
+editors: Stu Linder
+production:
+  - Barris Industries
+  - United Artists
+distributors:
+  - United Artists
+  - Metro-Goldwyn-Mayer
+characters:
+  - name: Charlie Babbitt
+    actor: Tom Cruise
+  - name: Raymond Babbitt
+    actor: Dustin Hoffman
+  - name: Susanna
+    actor: Valeria Golino
+  - name: Dr. Bruner
+    actor: Gerald R. Molen

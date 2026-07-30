@@ -1,0 +1,44 @@
+name: Jerry Maguire
+description: >
+  A successful sports agent loses his job after writing a mission statement
+  about integrity in his industry. With one loyal client and one colleague
+  beside him, he tries to rebuild his career and personal life.
+released: 1996-12-13
+rating: R
+length: 2h19m
+genres:
+  - romance
+  - comedy
+  - drama
+  - american football
+  - sport
+wikipedia: https://en.wikipedia.org/wiki/Jerry_Maguire
+imdb: https://www.imdb.com/title/tt0116695
+tmdb: https://www.themoviedb.org/movie/9390-jerry-maguire
+rotten_tomatoes: https://www.rottentomatoes.com/m/jerry_maguire
+directors: Cameron Crowe
+screenplay: Cameron Crowe
+producers:
+  - James L. Brooks
+  - Laurence Mark
+  - Richard Sakai
+  - Cameron Crowe
+music: Nancy Wilson
+cinematography: Janusz Kaminski
+editors: Joe Hutshing
+production:
+  - Gracie Films
+  - Vinyl Films
+  - TriStar Pictures
+distributors: TriStar Pictures
+characters:
+  - name: Jerry Maguire
+    actor: Tom Cruise
+  - name: Dorothy Boyd
+    actor: Renee Zellweger
+  - name: Rod Tidwell
+    actor: Cuba Gooding Jr.
+  - name: Avery Bishop
+    actor: Kelly Preston
+  - name: Ray Boyd
+    actor: Jonathan Lipnicki

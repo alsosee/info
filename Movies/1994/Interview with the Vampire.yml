@@ -1,0 +1,39 @@
+name: Interview with the Vampire
+description: >
+  A centuries-old vampire recounts his life of immortality, grief, and uneasy
+  companionship with his maker. His story moves from old New Orleans to a
+  changing modern world shaped by temptation and loneliness.
+released: 1994-11-11
+rating: R
+length: 2h03m
+genres:
+  - horror
+  - fantasy
+  - romance
+  - vampire
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/Interview_with_the_Vampire_(film)
+imdb: https://www.imdb.com/title/tt0110148
+tmdb: https://www.themoviedb.org/movie/628-interview-with-the-vampire
+rotten_tomatoes: https://www.rottentomatoes.com/m/interview_with_the_vampire
+directors: Neil Jordan
+screenplay: Anne Rice
+producers:
+  - David Geffen
+  - Stephen Woolley
+music: Elliot Goldenthal
+cinematography: Philippe Rousselot
+editors: Mick Audsley
+production: The Geffen Film Company
+distributors: Warner Bros. Pictures
+characters:
+  - name: Lestat de Lioncourt
+    actor: Tom Cruise
+  - name: Louis de Pointe du Lac
+    actor: Brad Pitt
+  - name: Claudia
+    actor: Kirsten Dunst
+  - name: Armand
+    actor: Antonio Banderas
+  - name: Daniel Molloy
+    actor: Christian Slater
