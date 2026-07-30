@@ -1,0 +1,81 @@
+name: Mr. Robot, Season 4
+description: >
+  Mr. Robot follows Elliot, a young programmer who works as a cyber-security engineer by
+  day and as a vigilante hacker by night. Elliot finds himself at a crossroads when the
+  mysterious leader of an underground hacker group recruits him to destroy the firm he
+  is paid to protect. Compelled by his personal beliefs, Elliot struggles to resist the
+  chance to take down the multinational CEOs he believes are running (and ruining) the
+  world.
+previous: Shows/2017/Mr. Robot, Season 3
+released: 2019-10-06
+rating: TV-MA
+genres:
+  - techno-thriller
+  - psychological thriller
+  - drama
+network: USA Network
+wikipedia: https://en.wikipedia.org/wiki/Mr._Robot_(season_4)
+imdb: https://www.imdb.com/title/tt4158110
+creators:
+  - Sam Esmail
+characters:
+  - name: Elliot Alderson
+    actor: Rami Malek
+  - name: Mr. Robot
+    actor: Christian Slater
+  - name: Darlene Alderson
+    actor: Carly Chaikin
+  - name: Angela Moss
+    actor: Portia Doubleday
+  - name: Tyrell Wellick
+    actor: Martin Wallström
+  - name: Phillip Price
+    actor: Michael Cristofer
+  - name: Dominique DiPierro
+    actor: Grace Gummer
+  - name: Zhi Zhang / Whiterose
+    actor: B.D. Wong
+  - name: Joanna Wellick
+    actor: Stephanie Corneliussen
+  - name: Fernando Vera
+    actor: Elliot Villar
+episodes:
+  - name: 401 Unauthorized
+    released: 2019-10-06
+    length: 60m
+  - name: 402 Payment Required
+    released: 2019-10-13
+    length: 60m
+  - name: 403 Forbidden
+    released: 2019-10-20
+    length: 60m
+  - name: 404 Not Found
+    released: 2019-10-27
+    length: 60m
+  - name: 405 Method Not Allowed
+    released: 2019-11-03
+    length: 60m
+  - name: 406 Not Acceptable
+    released: 2019-11-10
+    length: 60m
+  - name: 407 Proxy Authentication Required
+    released: 2019-11-17
+    length: 60m
+  - name: 408 Request Timeout
+    released: 2019-11-24
+    length: 60m
+  - name: 409 Conflict
+    released: 2019-12-01
+    length: 60m
+  - name: 410 Gone
+    released: 2019-12-08
+    length: 60m
+  - name: eXit
+    released: 2019-12-15
+    length: 60m
+  - name: whoami
+    released: 2019-12-22
+    length: 61m
+  - name: Hello, Elliot
+    released: 2019-12-22
+    length: 66m

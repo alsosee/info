@@ -1,0 +1,68 @@
+name: Westworld
+description: >
+  Every hero has a code.
+released: 2016-10-02
+rating: TV-MA
+genres:
+  - science fiction
+  - western
+  - drama
+  - thriller
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Westworld_(season_1)
+imdb: https://www.imdb.com/title/tt0475784
+creators:
+  - Jonathan Nolan
+  - Lisa Joy
+characters:
+  - name: Maeve Millay
+    actor: Thandiwe Newton
+  - name: Bernard Lowe
+    actor: Jeffrey Wright
+  - name: The Man in Black
+    actor: Ed Harris
+  - name: Dolores Abernathy
+    actor: Evan Rachel Wood
+  - name: Ashley Stubbs
+    actor: Luke Hemsworth
+  - name: Charlotte Hale
+    actor: Tessa Thompson
+  - name: Teddy Flood
+    actor: James Marsden
+  - name: Clementine Pennyfeather
+    actor: Angela Sarafyan
+  - name: Hector Escaton
+    actor: Rodrigo Santoro
+  - name: Dr. Robert Ford
+    actor: Anthony Hopkins
+episodes:
+  - name: The Original
+    released: 2016-10-02
+    length: 68m
+  - name: Chestnut
+    released: 2016-10-09
+    length: 60m
+  - name: The Stray
+    released: 2016-10-16
+    length: 60m
+  - name: Dissonance Theory
+    released: 2016-10-23
+    length: 60m
+  - name: Contrapasso
+    released: 2016-10-30
+    length: 60m
+  - name: The Adversary
+    released: 2016-11-06
+    length: 60m
+  - name: Trompe L'Oeil
+    released: 2016-11-13
+    length: 60m
+  - name: Trace Decay
+    released: 2016-11-20
+    length: 60m
+  - name: The Well-Tempered Clavier
+    released: 2016-11-27
+    length: 60m
+  - name: The Bicameral Mind
+    released: 2016-12-04
+    length: 90m

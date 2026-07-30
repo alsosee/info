@@ -1,0 +1,72 @@
+name: Mr. Robot, Season 3
+description: >
+  Mr. Robot follows Elliot, a young programmer who works as a cyber-security engineer by
+  day and as a vigilante hacker by night. Elliot finds himself at a crossroads when the
+  mysterious leader of an underground hacker group recruits him to destroy the firm he
+  is paid to protect. Compelled by his personal beliefs, Elliot struggles to resist the
+  chance to take down the multinational CEOs he believes are running (and ruining) the
+  world.
+previous: Shows/2016/Mr. Robot, Season 2
+released: 2017-10-11
+rating: TV-MA
+genres:
+  - techno-thriller
+  - psychological thriller
+  - drama
+network: USA Network
+wikipedia: https://en.wikipedia.org/wiki/Mr._Robot_(season_3)
+imdb: https://www.imdb.com/title/tt4158110
+creators:
+  - Sam Esmail
+characters:
+  - name: Elliot Alderson
+    actor: Rami Malek
+  - name: Mr. Robot
+    actor: Christian Slater
+  - name: Darlene Alderson
+    actor: Carly Chaikin
+  - name: Angela Moss
+    actor: Portia Doubleday
+  - name: Tyrell Wellick
+    actor: Martin Wallström
+  - name: Phillip Price
+    actor: Michael Cristofer
+  - name: Dominique DiPierro
+    actor: Grace Gummer
+  - name: Zhi Zhang / Whiterose
+    actor: B.D. Wong
+  - name: Joanna Wellick
+    actor: Stephanie Corneliussen
+  - name: Fernando Vera
+    actor: Elliot Villar
+episodes:
+  - name: eps3.0_power-saver-mode.h
+    released: 2017-10-11
+    length: 60m
+  - name: eps3.1_undo.gz
+    released: 2017-10-18
+    length: 60m
+  - name: eps3.2_legacy.so
+    released: 2017-10-25
+    length: 60m
+  - name: eps3.3_metadata.par2
+    released: 2017-11-01
+    length: 60m
+  - name: eps3.4_runtime-err0r.r00
+    released: 2017-11-08
+    length: 60m
+  - name: eps3.5_kill-pr0cess.inc
+    released: 2017-11-15
+    length: 60m
+  - name: eps3.6_fredrick+tanya.chk
+    released: 2017-11-22
+    length: 60m
+  - name: eps3.7_dont-delete-me.ko
+    released: 2017-11-29
+    length: 60m
+  - name: eps3.8_stage3.torrent
+    released: 2017-12-06
+    length: 60m
+  - name: shutdown -r
+    released: 2017-12-13
+    length: 75m

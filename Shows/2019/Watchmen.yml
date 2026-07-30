@@ -1,0 +1,66 @@
+name: Watchmen
+description: >
+  Based on the DC Comic graphic novel, Watchmen is an alternative history series
+  following a group of costumed crimefighters investigating the murder of one of their
+  own.
+released: 2019-10-20
+rating: TV-MA
+genres:
+  - superhero
+  - drama
+  - dystopian
+  - alternate history
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/Watchmen_(TV_series)
+imdb: https://www.imdb.com/title/tt7049682
+creators:
+  - Damon Lindelof
+characters:
+  - name: Angela Abar / Sister Night
+    actor: Regina King
+  - name: Adrian Veidt / Ozymandias
+    actor: Jeremy Irons
+  - name: Mr. Phillips
+    actor: Tom Mison
+  - name: Cal Abar
+    actor: Yahya Abdul-Mateen II
+  - name: Ms. Crookshanks
+    actor: Sara Vickers
+  - name: Will Reeves
+    actor: Louis Gossett, Jr.
+  - name: Red Scare
+    actor: Andrew Howard
+  - name: Detective Wade Tillman / Looking Glass
+    actor: Tim Blake Nelson
+  - name: FBI Agent Laurie Blake
+    actor: Jean Smart
+  - name: Topher Abar
+    actor: Dylan Schombing
+episodes:
+  - name: It's Summer and We're Running Out of Ice
+    released: 2019-10-20
+    length: 61m
+  - name: Martial Feats of Comanche Horsemanship
+    released: 2019-10-27
+    length: 55m
+  - name: She Was Killed by Space Junk
+    released: 2019-11-03
+    length: 53m
+  - name: If You Don't Like My Story, Write Your Own
+    released: 2019-11-10
+    length: 52m
+  - name: Little Fear of Lightning
+    released: 2019-11-17
+    length: 60m
+  - name: This Extraordinary Being
+    released: 2019-11-24
+    length: 61m
+  - name: An Almost Religious Awe
+    released: 2019-12-01
+    length: 58m
+  - name: A God Walks into Abar
+    released: 2019-12-08
+    length: 63m
+  - name: See How They Fly
+    released: 2019-12-15
+    length: 67m

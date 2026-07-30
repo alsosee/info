@@ -1,0 +1,88 @@
+name: Mr. Robot, Season 2
+description: >
+  MR. ROBOT follows Elliot Alderson (Rami Malek), a young cyber-security engineer who
+  becomes involved in the underground hacker group fsociety, after being recruited by
+  their mysterious leader (Christian Slater). Following the events of fsociety's 5/9
+  hack on multi-national company Evil Corp, the second season will explore the
+  consequences of that attack as well as the illusion of control. MR. ROBOT stars Golden
+  Globe Award and SAG® Award Nominee Malek ("The Pacific"), Golden Globe Award Winner
+  Slater ("Nymphomaniac"), Portia Doubleday ("Her"), Carly Chaikin ("Suburgatory"),
+  Martin Wallström ("Simple Simon"), Grace Gummer ("Extant"), Michael Cristofer ("Ray
+  Donovan") and Stephanie Corneliussen ("Legends of Tomorrow"). New recurring guest
+  stars include Craig Robinson ("The Office"), hip hop artist Joey Bada$$, Sandrine Holt
+  ("Fear The Walking Dead"), Michael Maize ("National Treasure: Book of Secrets"),
+  Dorothi Fox ("Run All Night") and Luke Robertson ("The Americans"). Returning cast
+  members include BD Wong ("Law & Order: SVU"), Gloria Reuben ("Saints & Sinners"),
+  Michael Drayer ("Vinyl"), Michel Gill ("House of Cards"), Ron Cephas Jones ("The
+  Blacklist"), Sunita Mani ("5 Stages"), Azhar Khan ("Veep") and Ben Rappaport ("The
+  Good Wife").
+previous: Shows/2015/Mr. Robot
+released: 2016-07-13
+rating: TV-MA
+genres:
+  - techno-thriller
+  - psychological thriller
+  - drama
+network: USA Network
+wikipedia: https://en.wikipedia.org/wiki/Mr._Robot_(season_2)
+imdb: https://www.imdb.com/title/tt4158110
+creators:
+  - Sam Esmail
+characters:
+  - name: Elliot Alderson
+    actor: Rami Malek
+  - name: Mr. Robot
+    actor: Christian Slater
+  - name: Darlene Alderson
+    actor: Carly Chaikin
+  - name: Angela Moss
+    actor: Portia Doubleday
+  - name: Tyrell Wellick
+    actor: Martin Wallström
+  - name: Phillip Price
+    actor: Michael Cristofer
+  - name: Dominique DiPierro
+    actor: Grace Gummer
+  - name: Zhi Zhang / Whiterose
+    actor: B.D. Wong
+  - name: Joanna Wellick
+    actor: Stephanie Corneliussen
+  - name: Fernando Vera
+    actor: Elliot Villar
+episodes:
+  - name: eps2.0_unm4sk-pt1.tc
+    released: 2016-07-13
+    length: 46m
+  - name: eps2.0_unm4sk-pt2.tc
+    released: 2016-07-13
+    length: 46m
+  - name: eps2.1_k3rnel-pan1c.ksd
+    released: 2016-07-20
+    length: 60m
+  - name: eps2.2_init1.asec
+    released: 2016-07-27
+    length: 60m
+  - name: eps2.3_logic-b0mb.hc
+    released: 2016-08-03
+    length: 72m
+  - name: eps2.4_m4ster-s1ave.aes
+    released: 2016-08-10
+    length: 70m
+  - name: eps2.5_h4ndshake.sme
+    released: 2016-08-17
+    length: 70m
+  - name: eps2.6_succ3ss0r.p12
+    released: 2016-08-24
+    length: 67m
+  - name: eps2.7_init5.fve
+    released: 2016-08-31
+    length: 65m
+  - name: eps2.8_h1dden-pr0cess.axx
+    released: 2016-09-07
+    length: 65m
+  - name: eps2.9_pyth0n-pt1.p7z
+    released: 2016-09-14
+    length: 70m
+  - name: eps2.9_pyth0n-pt2.p7z
+    released: 2016-09-21
+    length: 66m

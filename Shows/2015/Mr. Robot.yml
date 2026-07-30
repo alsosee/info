@@ -1,0 +1,71 @@
+name: Mr. Robot
+description: >
+  Elliot Alderson is a young cyber-security engineer at Allsafe Cybersecurity in New
+  York City; However, in his free time he's a vigilante hacker. He is recruited by
+  fsociety, a group of black hat hackers led by Mr. Robot, to help take down a large
+  corporate conglomerate, E Corp. E Corp is Allsafe's biggest client as well as
+  responsible for the death of Elliot's father, putting him in a place of divided
+  loyalties.
+released: 2015-06-24
+rating: TV-MA
+genres:
+  - techno-thriller
+  - psychological thriller
+  - drama
+network: USA Network
+wikipedia: https://en.wikipedia.org/wiki/Mr._Robot_(season_1)
+imdb: https://www.imdb.com/title/tt4158110
+creators:
+  - Sam Esmail
+characters:
+  - name: Elliot Alderson
+    actor: Rami Malek
+  - name: Mr. Robot
+    actor: Christian Slater
+  - name: Darlene Alderson
+    actor: Carly Chaikin
+  - name: Angela Moss
+    actor: Portia Doubleday
+  - name: Tyrell Wellick
+    actor: Martin Wallström
+  - name: Phillip Price
+    actor: Michael Cristofer
+  - name: Dominique DiPierro
+    actor: Grace Gummer
+  - name: Zhi Zhang / Whiterose
+    actor: B.D. Wong
+  - name: Joanna Wellick
+    actor: Stephanie Corneliussen
+  - name: Fernando Vera
+    actor: Elliot Villar
+episodes:
+  - name: eps1.0_hellofriend.mov
+    released: 2015-06-24
+    length: 60m
+  - name: eps1.1_ones-and-zer0es.mpeg
+    released: 2015-07-01
+    length: 60m
+  - name: eps1.2_d3bug.mkv
+    released: 2015-07-08
+    length: 60m
+  - name: eps1.3_da3m0ns.mp4
+    released: 2015-07-15
+    length: 60m
+  - name: eps1.4_3xpl0its.wmv
+    released: 2015-07-22
+    length: 60m
+  - name: eps1.5_br4ve-trave1er.asf
+    released: 2015-07-29
+    length: 60m
+  - name: eps1.6_v1ew-s0urce.flv
+    released: 2015-08-05
+    length: 60m
+  - name: eps1.7_wh1ter0se.m4v
+    released: 2015-08-12
+    length: 60m
+  - name: eps1.8_m1rr0r1ng.qt
+    released: 2015-08-19
+    length: 60m
+  - name: eps1.9_zer0-day.avi
+    released: 2015-09-02
+    length: 60m
