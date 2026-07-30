@@ -1,0 +1,35 @@
+name: "Ace Ventura: Pet Detective"
+description: >
+  Miami animal detective Ace Ventura is hired to find the kidnapped dolphin
+  mascot of the Miami Dolphins. His oddball investigation pulls him through
+  team politics, police hostility, and a trail of clues around the Super Bowl.
+released: 1994-02-04
+rating: PG-13
+length: 1h26m
+genres:
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Ace_Ventura:_Pet_Detective
+imdb: https://www.imdb.com/title/tt0109040
+directors: Tom Shadyac
+screenplay:
+  - Jack Bernstein
+  - Tom Shadyac
+  - Jim Carrey
+producers:
+  - James G. Robinson
+music: Ira Newborn
+cinematography: Julio Macat
+editors: Don Zimmerman
+production: Morgan Creek Productions
+distributors: Warner Bros.
+characters:
+  - name: Ace Ventura
+    actor: Jim Carrey
+  - name: Melissa Robinson
+    actor: Courteney Cox
+  - name: Emilio
+    actor: Tone Loc
+  - name: Lois Einhorn
+    actor: Sean Young
+  - name: Roger Podacter
+    actor: Troy Evans

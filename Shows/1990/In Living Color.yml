@@ -1,0 +1,28 @@
+name: In Living Color
+description: >
+  A sketch comedy series built around a large ensemble cast, recurring
+  characters, music performances, and the Fly Girls dance troupe. Jim Carrey
+  became one of its breakout performers through characters including Fire
+  Marshal Bill.
+released: 1990-04-15
+genres:
+  - sketch comedy
+  - variety
+network: Fox
+wikipedia: https://en.wikipedia.org/wiki/In_Living_Color
+imdb: https://www.imdb.com/title/tt0098830
+creators: Keenen Ivory Wayans
+production:
+  - Ivory Way Productions
+  - 20th Television
+characters:
+  - name: Various characters
+    actor: Keenen Ivory Wayans
+  - name: Various characters
+    actor: Damon Wayans
+  - name: Various characters
+    actor: Jim Carrey
+  - name: Various characters
+    actor: Kim Wayans
+  - name: Various characters
+    actor: David Alan Grier

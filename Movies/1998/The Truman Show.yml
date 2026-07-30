@@ -1,0 +1,41 @@
+name: The Truman Show
+description: >
+  Truman Burbank lives an ordinary life in a perfect seaside town without
+  knowing that every moment is being broadcast as a television show. As strange
+  details accumulate, he begins to question the world built around him.
+released: 1998-06-05
+rating: PG
+length: 1h43m
+genres:
+  - comedy-drama
+  - satire
+  - science fiction
+wikipedia: https://en.wikipedia.org/wiki/The_Truman_Show
+imdb: https://www.imdb.com/title/tt0120382
+directors: Peter Weir
+screenplay: Andrew Niccol
+producers:
+  - Scott Rudin
+  - Andrew Niccol
+  - Edward S. Feldman
+  - Adam Schroeder
+music:
+  - Burkhard Dallwitz
+  - Philip Glass
+cinematography: Peter Biziou
+editors:
+  - William Anderson
+  - Lee Smith
+production: Scott Rudin Productions
+distributors: Paramount Pictures
+characters:
+  - name: Truman Burbank
+    actor: Jim Carrey
+  - name: Meryl Burbank / Hannah Gill
+    actor: Laura Linney
+  - name: Christof
+    actor: Ed Harris
+  - name: Marlon / Louis Coltrane
+    actor: Noah Emmerich
+  - name: Sylvia / Lauren Garland
+    actor: Natascha McElhone

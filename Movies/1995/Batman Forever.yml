@@ -1,0 +1,42 @@
+name: Batman Forever
+description: >
+  Batman faces Two-Face and the Riddler as they terrorize Gotham City with a
+  device that can manipulate minds. Bruce Wayne also takes in Dick Grayson, a
+  young acrobat seeking justice for his family.
+released: 1995-06-16
+rating: PG-13
+length: 2h1m
+genres:
+  - action
+  - adventure
+  - superhero
+wikipedia: https://en.wikipedia.org/wiki/Batman_Forever
+imdb: https://www.imdb.com/title/tt0112462
+directors: Joel Schumacher
+screenplay:
+  - Lee Batchler
+  - Janet Scott Batchler
+  - Akiva Goldsman
+producers:
+  - Tim Burton
+  - Peter MacGregor-Scott
+music: Elliot Goldenthal
+cinematography: Stephen Goldblatt
+editors:
+  - Dennis Virkler
+  - Mark Stevens
+production:
+  - Warner Bros.
+  - PolyGram Filmed Entertainment
+distributors: Warner Bros.
+characters:
+  - name: Bruce Wayne / Batman
+    actor: Val Kilmer
+  - name: Edward Nygma / The Riddler
+    actor: Jim Carrey
+  - name: Harvey Dent / Two-Face
+    actor: Tommy Lee Jones
+  - name: Dr. Chase Meridian
+    actor: Nicole Kidman
+  - name: Dick Grayson / Robin
+    actor: Chris O'Donnell

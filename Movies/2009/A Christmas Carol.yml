@@ -1,0 +1,38 @@
+name: A Christmas Carol
+description: >
+  Miserly Ebenezer Scrooge is visited by spirits who force him to confront his
+  past, present, and possible future on Christmas Eve. The animated adaptation
+  uses performance capture to retell Charles Dickens's ghost story.
+released: 2009-11-06
+rating: PG
+length: 1h36m
+genres:
+  - animation
+  - christmas
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/A_Christmas_Carol_(2009_film)
+imdb: https://www.imdb.com/title/tt1067106
+directors: Robert Zemeckis
+screenplay: Robert Zemeckis
+producers:
+  - Steve Starkey
+  - Robert Zemeckis
+  - Jack Rapke
+music: Alan Silvestri
+cinematography: Robert Presley
+editors: Jeremiah O'Driscoll
+production:
+  - Walt Disney Pictures
+  - ImageMovers Digital
+distributors: Walt Disney Studios Motion Pictures
+characters:
+  - name: Ebenezer Scrooge
+    voice: Jim Carrey
+  - name: Ghost of Christmas Past
+    voice: Jim Carrey
+  - name: Ghost of Christmas Present
+    voice: Jim Carrey
+  - name: Bob Cratchit
+    voice: Gary Oldman
+  - name: Fred
+    voice: Colin Firth

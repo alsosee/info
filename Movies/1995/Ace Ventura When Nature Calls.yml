@@ -1,0 +1,34 @@
+name: "Ace Ventura: When Nature Calls"
+description: >
+  Ace Ventura comes out of seclusion to recover a sacred white bat that has gone
+  missing in Africa. The case throws him into tribal diplomacy, dangerous
+  wildlife, and another barrage of reckless detective work.
+previous: Movies/1994/Ace Ventura Pet Detective
+released: 1995-11-10
+rating: PG-13
+length: 1h30m
+genres:
+  - adventure
+  - comedy
+wikipedia: https://en.wikipedia.org/wiki/Ace_Ventura:_When_Nature_Calls
+imdb: https://www.imdb.com/title/tt0112281
+directors: Steve Oedekerk
+screenplay: Steve Oedekerk
+producers:
+  - James G. Robinson
+music: Robert Folk
+cinematography: Donald E. Thorin
+editors:
+  - Malcolm Campbell
+  - Jay Kamen
+production: Morgan Creek Productions
+distributors: Warner Bros.
+characters:
+  - name: Ace Ventura
+    actor: Jim Carrey
+  - name: Fulton Greenwall
+    actor: Ian McNeice
+  - name: Vincent Cadby
+    actor: Simon Callow
+  - name: The Wachati Princess
+    actor: Sophie Okonedo

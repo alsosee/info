@@ -1,0 +1,36 @@
+name: Fun with Dick and Jane
+description: >
+  After Dick Harper's company collapses and wipes out his family's security, he
+  and his wife Jane turn to robbery to preserve their suburban lifestyle. Their
+  desperation eventually points back toward the executive who ruined them.
+released: 2005-12-21
+rating: PG-13
+length: 1h30m
+genres:
+  - comedy
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/Fun_with_Dick_and_Jane_(2005_film)
+imdb: https://www.imdb.com/title/tt0369441
+directors: Dean Parisot
+screenplay:
+  - Judd Apatow
+  - Nicholas Stoller
+producers:
+  - Brian Grazer
+  - Jim Carrey
+music: Theodore Shapiro
+cinematography: Jerzy Zielinski
+editors: Don Zimmerman
+production:
+  - Imagine Entertainment
+  - Columbia Pictures
+distributors: Sony Pictures Releasing
+characters:
+  - name: Dick Harper
+    actor: Jim Carrey
+  - name: Jane Harper
+    actor: Tea Leoni
+  - name: Jack McCallister
+    actor: Alec Baldwin
+  - name: Frank Bascombe
+    actor: Richard Jenkins

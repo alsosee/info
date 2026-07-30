@@ -1,0 +1,39 @@
+name: Man on the Moon
+description: >
+  The film follows entertainer Andy Kaufman's rise through stand-up comedy,
+  television, performance art, and wrestling-inflected provocation. It centers
+  on Kaufman's refusal to separate his public persona from elaborate pranks.
+released: 1999-12-22
+rating: R
+length: 1h58m
+genres:
+  - biography
+  - comedy-drama
+wikipedia: https://en.wikipedia.org/wiki/Man_on_the_Moon_(film)
+imdb: https://www.imdb.com/title/tt0125664
+directors: Milos Forman
+screenplay:
+  - Scott Alexander
+  - Larry Karaszewski
+producers:
+  - Danny DeVito
+  - Michael Shamberg
+  - Stacey Sher
+music: R.E.M.
+cinematography: Anastas N. Michos
+editors:
+  - Lynzee Klingman
+  - Christopher Tellefsen
+production:
+  - Jersey Films
+  - Mutual Film Company
+distributors: Universal Pictures
+characters:
+  - name: Andy Kaufman / Tony Clifton
+    actor: Jim Carrey
+  - name: George Shapiro
+    actor: Danny DeVito
+  - name: Lynne Margulies
+    actor: Courtney Love
+  - name: Bob Zmuda
+    actor: Paul Giamatti
