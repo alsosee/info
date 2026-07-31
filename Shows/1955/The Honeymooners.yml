@@ -1,0 +1,25 @@
+name: The Honeymooners
+description: >
+  Ralph Kramden is a New York bus driver who dreams of a better life. With his
+  eccentric good friend, Ed Norton the sewer worker, he constantly tries
+  crackpot schemes to strike it rich. All the while, his exasperated wife,
+  Alice, is always there to bring him down to earth or to pick him up if he
+  beats her to it. For as much as they fight, even dunderhead Ralph knows that
+  she is the greatest and vice versa.
+released: 1955-10-01
+genres:
+  - sitcom
+network: CBS
+wikipedia: https://en.wikipedia.org/wiki/The_Honeymooners
+imdb: https://www.imdb.com/title/tt0042114
+creators:
+  - Jackie Gleason
+characters:
+  - name: Ralph Kramden
+    actor: Jackie Gleason
+  - name: Ed Norton
+    actor: Art Carney
+  - name: Alice Kramden
+    actor: Audrey Meadows
+  - name: Trixie Norton
+    actor: Joyce Randolph

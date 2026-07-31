@@ -1,0 +1,36 @@
+name: The Cosby Show, Season 2
+description: >
+  The show focuses on the Huxtables, an affluent African-American family living
+  and growing up in Brooklyn, New York.
+previous: Shows/1984/The Cosby Show
+series: The Cosby Show
+released: 1985-09-26
+rating: TV-G
+genres:
+  - comedy
+  - family
+  - sitcom
+network: NBC
+wikipedia: https://en.wikipedia.org/wiki/The_Cosby_Show
+imdb: https://www.imdb.com/title/tt0086687
+creators:
+  - Ed Weinberger
+  - Michael Leeson
+  - Bill Cosby
+characters:
+  - name: Clair Olivia Hanks Huxtable
+    actor: Phylicia Rashad
+  - name: Dr. Heathcliff "Cliff" Huxtable
+    actor: Bill Cosby
+  - name: Theodore Aloysius "Theo" Huxtable
+    actor: Malcolm-Jamal Warner
+  - name: Vanessa Huxtable
+    actor: Tempestt Bledsoe
+  - name: Rudith Lillian "Rudy" Huxtable
+    actor: Keshia Knight Pulliam
+  - name: Olivia Kendall
+    actor: Raven-Symoné
+  - name: Sondra Huxtable Tibideaux
+    actor: Sabrina Le Beauf
+  - name: Elvin Tibideaux
+    actor: Geoffrey Owens

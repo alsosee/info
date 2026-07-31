@@ -1,0 +1,37 @@
+name: The Larry Sanders Show
+description: >
+  Comic Garry Shandling draws upon his own talk show experiences to create the
+  character of Larry Sanders, a paranoid, insecure host of a late night talk
+  show. Larry, along with his obsequious TV sidekick Hank Kingsley and his
+  fiercely protective producer Artie, allows Garry Shandling and his talented
+  writers to look behind the scenes and to show us a convincing slice of behind
+  the camera life.
+released: 1992-08-15
+rating: TV-MA
+genres:
+  - drama
+  - comedy
+  - satire
+  - workplace comedy
+network: HBO
+wikipedia: https://en.wikipedia.org/wiki/The_Larry_Sanders_Show
+imdb: https://www.imdb.com/title/tt0103466
+website: https://www.hbo.com/the-larry-sanders-show
+creators:
+  - Garry Shandling
+  - Dennis Klein
+characters:
+  - name: Hank Kingsley
+    actor: Jeffrey Tambor
+  - name: Phil
+    actor: Wallace Langham
+  - name: Larry Sanders
+    actor: Garry Shandling
+  - name: Arthur
+    actor: Rip Torn
+  - name: Beverly Barnes
+    actor: Penny Johnson Jerald
+  - name: Paula
+    actor: Janeane Garofalo
+  - name: Jerry Capen
+    actor: Jeremy Piven

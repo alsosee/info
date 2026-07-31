@@ -1,0 +1,35 @@
+name: Doctor Who, Season 13
+description: Adventures across time and space with the time travelling alien and companions.
+previous: Shows/2020/Doctor Who, Season 12
+series: Doctor Who
+released: 2021-10-31
+rating: TV-PG
+genres:
+  - drama
+  - adventure
+  - science fiction
+network: BBC One
+wikipedia: https://en.wikipedia.org/wiki/Doctor_Who
+imdb: https://www.imdb.com/title/tt0436992
+website: http://www.bbc.co.uk/programmes/b006q2x0
+creators:
+  - Sydney Newman
+  - C. E. Webber
+  - Donald Wilson
+characters:
+  - name: The Eleventh Doctor
+    actor: Matt Smith
+  - name: The Tenth Doctor
+    actor: David Tennant
+  - name: Amelia "Amy" Pond
+    actor: Karen Gillan
+  - name: The Twelfth Doctor
+    actor: Peter Capaldi
+  - name: Clara Oswald
+    actor: Jenna Coleman
+  - name: Rose Tyler
+    actor: Billie Piper
+  - name: Rory Williams
+    actor: Arthur Darvill
+  - name: The Thirteenth Doctor
+    actor: Jodie Whittaker

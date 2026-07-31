@@ -1,0 +1,34 @@
+name: The Muppet Show
+description: >
+  The Muppet Show is a half-hour variety show in which Kermit the Frog and the
+  Muppets put on a weekly musical/comedy revue at the Muppet Theater.
+  Unfortunately for them, things never quite go according to plan, for the
+  Muppets or their weekly guest stars.
+released: 1976-09-20
+genres:
+  - comedy
+  - children
+  - variety show
+  - sketch comedy
+network: ITV
+wikipedia: https://en.wikipedia.org/wiki/The_Muppet_Show
+imdb: https://www.imdb.com/title/tt0074028
+creators:
+  - Jim Henson
+characters:
+  - name: Statler
+    actor: Richard Hunt
+  - name: Miss Piggy / Fozzie Bear / Animal / Sam the Eagle
+    actor: Frank Oz
+  - name: Link Hogthrob
+    actor: Jim Henson
+  - name: Gonzo / Dr. Bunsen Honeydew / Zoot
+    actor: Dave Goelz
+  - name: Rowlf the Dog
+    actor: Jim Henson
+  - name: Floyd Pepper
+    actor: Jerry Nelson
+  - name: Kermit the Frog
+    actor: Jim Henson
+  - name: Miss Piggy
+    actor: Frank Oz

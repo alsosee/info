@@ -1,0 +1,33 @@
+name: NYPD Blue, Season 3
+description: The gritty details of life as a member of a New York City police unit.
+previous: Shows/1994/NYPD Blue, Season 2
+series: NYPD Blue
+released: 1995-10-24
+rating: TV-14
+genres:
+  - drama
+  - crime
+  - police procedural
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/NYPD_Blue
+imdb: https://www.imdb.com/title/tt0106079
+creators:
+  - Steven Bochco
+  - David Milch
+characters:
+  - name: Det. Baldwin Jones
+    actor: Henry Simmons
+  - name: Sgt. Andy Sipowicz
+    actor: Dennis Franz
+  - name: Det. Greg Medavoy
+    actor: Gordon Clapp
+  - name: Lt. Arthur Fancy
+    actor: James McDaniel
+  - name: Det. James Martinez
+    actor: Nicholas Turturro
+  - name: Det. Bobby Simone
+    actor: Jimmy Smits
+  - name: A.D.A Sylvia Costas
+    actor: Sharon Lawrence
+  - name: Donna Abandando
+    actor: Gail O'Grady

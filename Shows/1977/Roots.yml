@@ -1,0 +1,39 @@
+name: Roots
+description: >
+  The epic tale of celebrated Pulitzer-prize winning author Alex Haley's
+  ancestors as portrayed in the acclaimed twelve hour mini-series Roots, was
+  first told in his 1976 bestseller Roots: The Saga of an American Family. The
+  docu-drama covers a period of history that begins in mid-1700s Gambia, West
+  Africa and concludes during post-Civil War United States, over 100 years
+  later. This 1977 miniseries eventually won 9 Emmy awards, a Golden Globe
+  award, and a Peabody award, and still stands as the most watched miniseries
+  in U.S. history.
+released: 1977-01-23
+rating: TV-14
+genres:
+  - drama
+  - historical drama
+  - miniseries
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/Roots_(1977_miniseries)
+imdb: https://www.imdb.com/title/tt0075572
+creators:
+  - Alex Haley
+  - William Blinn
+characters:
+  - name: Dr. William Reynolds
+    actor: Robert Reed
+  - name: Mathilda
+    actor: Olivia Cole
+  - name: Toby
+    actor: John Amos
+  - name: Bell Reynolds
+    actor: Madge Sinclair
+  - name: "'Chicken' George Moore"
+    actor: Ben Vereen
+  - name: Kizzy Reynolds
+    actor: Leslie Uggams
+  - name: Missy Anne Reynolds
+    actor: Sandy Duncan
+  - name: Tom Moore
+    actor: Chuck Connors

@@ -1,0 +1,33 @@
+name: The Andy Griffith Show, Season 3
+description: >
+  Down-home humor and an endearing cast of characters helped to make The Andy
+  Griffith Show one of the most beloved comedies in the history of television.
+  Introduced as a spinoff from The Danny Thomas Show in 1960, The Andy Griffith
+  Show ran for eight seasons in prime time. Widower Andy Taylor divides his
+  time between raising his young son, Opie, and his job as sheriff (and Justice
+  of the Peace) of the sleepy North Carolina town, Mayberry. Andy and Opie live
+  with Andy's Aunt Bee, who serves as a surrogate mother to both father and
+  son. Andy's nervous cousin, Barney Fife, is his deputy sheriff whose utter
+  incompetence is tolerated because Mayberry is virtually crime-free.
+previous: Shows/1961/The Andy Griffith Show, Season 2
+series: The Andy Griffith Show
+released: 1962-10-01
+genres:
+  - comedy
+  - sitcom
+network: CBS
+wikipedia: https://en.wikipedia.org/wiki/The_Andy_Griffith_Show
+imdb: https://www.imdb.com/title/tt0053479
+creators:
+  - Sheldon Leonard
+  - Aaron Ruben
+  - Danny Thomas
+characters:
+  - name: Andy Taylor
+    actor: Andy Griffith
+  - name: Opie Taylor
+    actor: Ron Howard
+  - name: Aunt Bee
+    actor: Frances Bavier
+  - name: Deputy Barney Fife
+    actor: Don Knotts

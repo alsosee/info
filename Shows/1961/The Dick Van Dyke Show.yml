@@ -1,0 +1,27 @@
+name: The Dick Van Dyke Show
+description: >
+  The Dick Van Dyke Show centers on the personal and professional lives of Rob
+  Petrie, a writer for the fictional "Alan Brady Show". The non-stop laughs
+  revolved around Rob's relationships with with fellow writers Buddy Sorrell
+  and Sally Rogers, and producer Mel Cooley. At home, we also got to chuckle
+  (and sometimes cry) over Rob's antics involving his wife, son, and neighbors.
+released: 1961-10-03
+genres:
+  - comedy
+  - sitcom
+network: CBS
+wikipedia: https://en.wikipedia.org/wiki/The_Dick_Van_Dyke_Show
+imdb: https://www.imdb.com/title/tt0054533
+creators:
+  - Carl Reiner
+characters:
+  - name: Robert 'Rob' Petrie
+    actor: Dick Van Dyke
+  - name: Laura Petrie
+    actor: Mary Tyler Moore
+  - name: Maurice B. 'Buddy' Sorrell
+    actor: Morey Amsterdam
+  - name: Sally Rogers
+    actor: Rose Marie
+  - name: Richard Rosebud 'Ritchie' Petrie
+    actor: Larry Mathews

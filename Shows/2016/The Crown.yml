@@ -1,0 +1,32 @@
+name: The Crown
+description: >
+  As a young Elizabeth becomes Queen, she must manage major political issues
+  and personal matters, which often clash in ways she never imagined.
+released: 2016-11-04
+rating: TV-MA
+genres:
+  - drama
+  - historical drama
+network: Netflix
+wikipedia: https://en.wikipedia.org/wiki/The_Crown_(TV_series)
+imdb: https://www.imdb.com/title/tt4786824
+website: https://www.netflix.com/title/80025678
+creators:
+  - Peter Morgan
+characters:
+  - name: Queen Elizabeth II
+    actor: Claire Foy
+  - name: Queen Elizabeth II
+    actor: Olivia Colman
+  - name: Queen Elizabeth II
+    actor: Imelda Staunton
+  - name: Prince Philip, Duke of Edinburgh
+    actor: Matt Smith
+  - name: Prince Philip, Duke of Edinburgh
+    actor: Tobias Menzies
+  - name: Prince Philip, Duke of Edinburgh
+    actor: Jonathan Pryce
+  - name: Princess Margaret
+    actor: Lesley Manville
+  - name: Princess Margaret
+    actor: Helena Bonham Carter

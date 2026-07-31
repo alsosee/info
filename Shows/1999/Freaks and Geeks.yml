@@ -1,0 +1,32 @@
+name: Freaks and Geeks
+description: >
+  Freaks and Geeks, the Emmy® award-winning series about the trials and
+  tribulations of high school outsiders in 1980 Michigan.
+released: 1999-09-25
+rating: TV-14
+genres:
+  - drama
+  - comedy
+  - teen comedy drama
+network: NBC
+wikipedia: https://en.wikipedia.org/wiki/Freaks_and_Geeks
+imdb: https://www.imdb.com/title/tt0193676
+creators:
+  - Paul Feig
+characters:
+  - name: Lindsay Weir
+    actor: Linda Cardellini
+  - name: Sam Weir
+    actor: John Francis Daley
+  - name: Daniel Desario
+    actor: James Franco
+  - name: Neil Schweiber
+    actor: Samm Levine
+  - name: Nick Andopolis
+    actor: Jason Segel
+  - name: Bill Haverchuck
+    actor: Martin Starr
+  - name: Jean Weir
+    actor: Becky Ann Baker
+  - name: Harold Weir
+    actor: Joe Flaherty

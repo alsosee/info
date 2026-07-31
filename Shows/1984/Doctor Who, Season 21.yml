@@ -1,0 +1,41 @@
+name: Doctor Who, Season 21
+description: >
+  Doctor Who is the longest-running science fiction TV series in history,
+  airing initially from 1963 to 1989. Doctor Who is about ideas. It pioneered
+  sophisticated mixed-level storytelling. Its format was the key to its
+  longevity: the Doctor, a mysterious traveller in space and time, travels in
+  his ship, the TARDIS. The TARDIS can take him and his companions anywhere in
+  time and space. Inevitably he finds evil at work wherever he goes..
+previous: Shows/1983/Doctor Who, Season 20
+series: Doctor Who
+released: 1984-01-05
+rating: TV-PG
+genres:
+  - action
+  - adventure
+  - science fiction
+network: BBC One
+wikipedia: https://en.wikipedia.org/wiki/Doctor_Who
+imdb: https://www.imdb.com/title/tt0056751
+website: https://www.bbc.co.uk/programmes/p0ggwr8l
+creators:
+  - Sydney Newman
+  - C. E. Webber
+  - Donald Wilson
+characters:
+  - name: The Fourth Doctor
+    actor: Tom Baker
+  - name: The First Doctor
+    actor: Richard Hurndall
+  - name: The First Doctor
+    actor: William Hartnell
+  - name: The Third Doctor
+    actor: Jon Pertwee
+  - name: The Second Doctor
+    actor: Patrick Troughton
+  - name: Alistair Gordon Lethbridge-Stewart
+    actor: Nicholas Courtney
+  - name: Sarah Jane Smith
+    actor: Elisabeth Sladen
+  - name: The Fifth Doctor
+    actor: Peter Davison

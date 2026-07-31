@@ -1,0 +1,41 @@
+name: "Homicide: Life on the Street, Season 3"
+description: >
+  One of the most critically acclaimed shows in TV history, Homicide: Life on
+  the Street reinvigorated a tired genre by focusing on the grueling work of
+  solving murders instead of an endless succession of bloody crimes and car
+  chases. Inspired by David Simon's Edgar Award-winning account of Baltimore
+  homicide detectives and brought to television by writer Paul Attanasio and
+  director Barry Levinson, Homicide boasted a powerhouse ensemble cast
+  featuring Ned Beatty, Yaphet Kotto, Richard Belzer, and breakout star Andre
+  Braugher.
+previous: Shows/1994/Homicide Life on the Street, Season 2
+series: "Homicide: Life on the Street"
+released: 1994-10-14
+rating: TV-14
+genres:
+  - drama
+  - crime
+  - mystery
+  - police procedural
+network: NBC
+wikipedia: https://en.wikipedia.org/wiki/Homicide:_Life_on_the_Street
+imdb: https://www.imdb.com/title/tt0106028
+creators:
+  - Paul Attanasio
+characters:
+  - name: Detective Meldrick Lewis
+    actor: Clark Johnson
+  - name: Detective John Munch
+    actor: Richard Belzer
+  - name: Lieutenant Al Giardello
+    actor: Yaphet Kotto
+  - name: Detective Tim Bayliss
+    actor: Kyle Secor
+  - name: Detective Frank Pembleton
+    actor: Andre Braugher
+  - name: Detective Beau Felton
+    actor: Daniel Baldwin
+  - name: Detective Stanley Bolander
+    actor: Ned Beatty
+  - name: Sergeant Kay Howard
+    actor: Melissa Leo

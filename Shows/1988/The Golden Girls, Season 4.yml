@@ -1,0 +1,27 @@
+name: The Golden Girls, Season 4
+description: >
+  The Golden Girls follows four South Florida seniors sharing a house, their
+  dreams, and a whole lot of cheesecake. Bright, promiscuous, clueless, and
+  hilarious, these lovely mismatched ladies form the perfect circle of friends.
+previous: Shows/1987/The Golden Girls, Season 3
+series: The Golden Girls
+released: 1988-10-08
+rating: TV-PG
+genres:
+  - drama
+  - comedy
+  - sitcom
+network: NBC
+wikipedia: https://en.wikipedia.org/wiki/The_Golden_Girls
+imdb: https://www.imdb.com/title/tt0088526
+creators:
+  - Susan Harris
+characters:
+  - name: Dorothy Zbornak
+    actor: Bea Arthur
+  - name: Rose Nylund
+    actor: Betty White
+  - name: Blanche Devereaux
+    actor: Rue McClanahan
+  - name: Sophia Petrillo
+    actor: Estelle Getty

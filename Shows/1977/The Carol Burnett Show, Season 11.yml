@@ -1,0 +1,28 @@
+name: The Carol Burnett Show, Season 11
+description: >
+  One of Time magazine's 100 Best TV Shows of All Time, The Carol Burnett Show
+  was a variety/sketch comedy show starring Carol Burnett, Harvey Korman, Vicki
+  Lawrence, Lyle Waggoner, and Tim Conway.
+previous: Shows/1976/The Carol Burnett Show, Season 10
+series: The Carol Burnett Show
+released: 1977-09-24
+genres:
+  - comedy
+  - variety show
+  - sketch comedy
+network: CBS
+wikipedia: https://en.wikipedia.org/wiki/The_Carol_Burnett_Show
+imdb: https://www.imdb.com/title/tt0061240
+creators:
+  - Carol Burnett
+characters:
+  - name: Carol Burnett
+    actor: Carol Burnett
+  - name: Vicki Lawrence
+    actor: Vicki Lawrence
+  - name: Harvey Korman
+    actor: Harvey Korman
+  - name: Lyle Waggoner
+    actor: Lyle Waggoner
+  - name: Tim Conway
+    actor: Tim Conway

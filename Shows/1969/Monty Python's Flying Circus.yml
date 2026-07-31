@@ -1,0 +1,34 @@
+name: Monty Python's Flying Circus
+description: >
+  The Monty Python players make their mark with a winning mix of wit,
+  ingenuity, and brilliant timing - and a penchant for mockery and
+  cross-dressing.
+released: 1969-10-05
+rating: TV-14
+genres:
+  - comedy
+  - surreal comedy
+  - sketch comedy
+network: BBC One
+wikipedia: https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus
+imdb: https://www.imdb.com/title/tt0063929
+creators:
+  - Graham Chapman
+  - John Cleese
+  - Terry Gilliam
+  - Eric Idle
+  - Terry Jones
+  - Michael Palin
+characters:
+  - name: Various Characters
+    actor: John Cleese
+  - name: Various Characters
+    actor: Eric Idle
+  - name: Various Characters
+    actor: Terry Gilliam
+  - name: Various Characters
+    actor: Graham Chapman
+  - name: Various Characters
+    actor: Terry Jones
+  - name: Various Characters
+    actor: Michael Palin
