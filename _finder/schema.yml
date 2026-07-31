@@ -405,6 +405,10 @@ content:
       type: array
       items:
         type: character
+    participants:
+      type: array
+      items:
+        type: participant
 
     # for awards
     awards:
@@ -534,5 +538,18 @@ character:
       type: array
       items:
         type: award
+participant:
+  type: object
+  properties:
+    name:
+      type: person
+      info: $name
+    role:
+      type: string
+    result:
+      type: string
+    image:
+      type: media
+      path: People/$name
 # category:
 #   type: object
