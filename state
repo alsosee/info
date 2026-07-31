@@ -335,6 +335,7 @@ Companies/EA Canada.yml	17cd0108
 Companies/EA Los Angeles.yml	3d059102
 Companies/EA Seattle.yml	43015d30
 Companies/EMJAG Productions.yml	be2f8320
+Companies/ESPN.yml	aed05a5d
 Companies/Eddie Murphy Productions.yml	5abc187a
 Companies/Edmund McMillen.yml	4cebd9f5
 Companies/Eidos Interactive.yml	39d6d943
@@ -595,6 +596,7 @@ Companies/NHK General TV.yml	79afe3ba
 Companies/NPV Entertainment.yml	a84edc5c
 Companies/NVP Entertainment.yml	f6371f44
 Companies/Namco.yml	dbe7a4c9
+Companies/National Geographic.yml	835044e0
 Companies/Naughty Dog.yml	f600e370
 Companies/Neal Street Productions.yml	c670afcf
 Companies/Nelvana.yml	145f1a59
@@ -4202,6 +4204,7 @@ People/Andrew Garfield.yml	98a82584
 People/Andrew Goodman.yml	aa59419c
 People/Andrew Howard.yml	2776990f
 People/Andrew Hulshult.yml	7b7f3b86
+People/Andrew Jarecki.yml	55db478a
 People/Andrew Lau.yml	c7d85c05
 People/Andrew Lesnie.yml	3d934a65
 People/Andrew Lincoln.yml	bb830487
@@ -4252,6 +4255,7 @@ People/Anjelica Huston.yml	fc18ce23
 People/Ann Cherkis.yml	5e18194a
 People/Ann Donahue.yml	80a9ce13
 People/Ann Dowd.yml	b1311f8c
+People/Ann Druyan.yml	7a297c53
 People/Anna Boden.yml	73fcf171
 People/Anna Camp.yml	659b9599
 People/Anna Chlumsky.yml	171834d1
@@ -4738,6 +4742,7 @@ People/Carina Lau.yml	caf08456
 People/Carl Lumbly.yml	276b7bb5
 People/Carl Mazzocone.yml	4e2646cd
 People/Carl Reiner.yml	743350ca
+People/Carl Sagan.yml	317afd90
 People/Carl V. Dupré.yml	231818e2
 People/Carl Weathers.yml	3d0f710b
 People/Carla Gugino.yml	d99537e6
@@ -5294,6 +5299,7 @@ People/David Fincher.yml	61b21756
 People/David Frankel.yml	364866ac
 People/David Garfield.yml	700cb69f
 People/David Geffen.yml	eeed77c8
+People/David Gelb.yml	1d4c9026
 People/David Giler.yml	3c10bc
 People/David Goldfarb.yml	9bc5f055
 People/David Gordon Green.yml	f736a44c
@@ -5751,6 +5757,7 @@ People/Esther García.yml	d8097871
 People/Etan Cohen.yml	40f6f86
 People/Ethan Coen.yml	28534b6d
 People/Ethan Hawke.yml	36420955
+People/Ethan Herisse.yml	6ae8cebc
 People/Ethan Peck.yml	38247969
 People/Ethan Spaulding.yml	1e319f23
 People/Ethan Suplee.yml	a715cf80
@@ -5772,6 +5779,7 @@ People/Evany Rosen.yml	ff6b7c19
 People/Ewa Puszczyńska.yml	5f85e73b
 People/Ewan McGregor.yml	ccd7af34
 People/Ewen Bremner.yml	d31ab450
+People/Ezra Edelman.yml	e59d4c45
 People/Ezra Miller.yml	4de4044b
 People/F. Gary Gray.yml	39b7ddbb
 People/F. Murray Abraham.yml	12692fcc
@@ -6472,6 +6480,7 @@ People/Jason Miller.yml	e1858c6
 People/Jason Momoa.yml	d3cc2df5
 People/Jason Reitman.yml	727bd85a
 People/Jason Ritter.yml	1f795ef9
+People/Jason Robards.yml	5dfac092
 People/Jason Schwartzman.yml	28f3557b
 People/Jason Segel.yml	58783618
 People/Jason Statham.yml	c63d12fe
@@ -7182,6 +7191,7 @@ People/Kelsey Beachum.yml	64b87915
 People/Kelsey Grammer.yml	764cb5a
 People/Kemp Powers.yml	34a788f5
 People/Ken Blackwell.yml	b346a19f
+People/Ken Burns.yml	d0791e55
 People/Ken Daurio.yml	b72ba198
 People/Ken Girotti.yml	6d2f5c44
 People/Ken Jeong.yml	52c7678b
@@ -7639,6 +7649,7 @@ People/Marc Laidlaw.yml	f460e302
 People/Marc Maron.yml	6b4c1a46
 People/Marc Platt.yml	5eb40b79
 People/Marc Shaiman.yml	40ab05e0
+People/Marc Smerling.yml	97a9ce7c
 People/Marc Toberoff.yml	1e945ae5
 People/Marc Turtletaub.yml	c21e7a9f
 People/Marcelo Zarvos.yml	1b221d3
@@ -8154,6 +8165,7 @@ People/Myha'la.yml	555cde73
 People/Mykelti Williamson.yml	aeb51d67
 People/Myron Kerstein.yml	d8673541
 People/M|O|O|N.yml	979fe5f
+People/Nadia Rochelle Pfarr.yml	5ad9939
 People/Nadine Muse.yml	2c7f8e29
 People/Nadji Jeter.yml	b4b189a0
 People/Nana Mizuki.yml	6895ad35
@@ -8212,6 +8224,7 @@ People/Neil Newbon.yml	d8fbc7eb
 People/Neil Patrick Harris.yml	fec24266
 People/Neil Ross.yml	4f8278c5
 People/Neil Travis.yml	7accd2b3
+People/Neil deGrasse Tyson.yml	1880d2d2
 People/Nell Fisher.yml	a49e7e3a
 People/Nelly Quettier.yml	52ce433b
 People/Neve Campbell.yml	9b8d0d45
@@ -9377,11 +9390,13 @@ People/Steven Rales.yml	4e752570
 People/Steven Rosenblum.yml	91c80fcc
 People/Steven Schneider.yml	f6a4245
 People/Steven Soderbergh.yml	7a884b10
+People/Steven Soter.yml	a0501aab
 People/Steven Spielberg.yml	d2d70fe9
 People/Steven Theis.yml	cff5c622
 People/Steven Weisberg.yml	5ff15c73
 People/Steven Yeun.yml	6d8263a0
 People/Steven Zaillian.yml	ba4f3984
+People/Stoney Emshwiller.yml	1556aaed
 People/Storm Reid.yml	6e3c40a4
 People/Strother Martin.yml	b7775437
 People/Stu Linder.yml	33512793
@@ -9973,6 +9988,7 @@ People/Yves Bélanger.yml	7f087465
 People/Yvette Nicole Brown.yml	6e93ce87
 People/Yvonne Orji.yml	ce266774
 People/Yvonne Strahovski.yml	e833d8ef
+People/Zac Stuart-Pontier.yml	ff31d5e6
 People/Zach Aguilar.yml	ccddcc6c
 People/Zach Callison.yml	58ec79cf
 People/Zach Cherry.yml	498ce4e2
@@ -10082,6 +10098,7 @@ Shows/1973/Star Trek The Animated Series.yml	7a1692de
 Shows/1973/The Addams Family 1973.yml	de3d3dff
 Shows/1973/The Carol Burnett Show, Season 7.yml	77932d50
 Shows/1973/The Mary Tyler Moore Show, Season 4.yml	ae3277b8
+Shows/1973/The World at War.yml	561d250b
 Shows/1974/All in the Family, Season 5.yml	ae40c5f5
 Shows/1974/Columbo, Season 4.yml	9741f1ae
 Shows/1974/Doctor Who, Season 12.yml	38bf568b
@@ -10141,6 +10158,7 @@ Shows/1979/Mobile Suit Gundam.yml	b9fd33d6
 Shows/1979/Saturday Night Live, Season 5.yml	b9aa15bd
 Shows/1979/The Jeffersons, Season 6.yml	f0ccce51
 Shows/1979/The Muppet Show, Season 4.yml	fd6bb630
+Shows/1980/Cosmos.yml	3e78f2b2
 Shows/1980/Doctor Who, Season 18.yml	69950fdc
 Shows/1980/MASH, Season 9.yml	dfdeec38
 Shows/1980/Saturday Night Live, Season 6.yml	fafec2e8
@@ -10257,6 +10275,7 @@ Shows/1990/Murder, She Wrote, Season 7.yml	1d030493
 Shows/1990/Roseanne, Season 3.yml	12227679
 Shows/1990/Saturday Night Live, Season 16.yml	290e2897
 Shows/1990/Sesame Street, Season 22.yml	8c2d16a0
+Shows/1990/The Civil War.yml	a7169c3c
 Shows/1990/The Cosby Show, Season 7.yml	206326a2
 Shows/1990/The Fresh Prince of Bel-Air.yml	c0d8b163
 Shows/1990/The Golden Girls, Season 6.yml	490c6545
@@ -10632,6 +10651,7 @@ Shows/2006/Lost, Season 3.yml	546985b2
 Shows/2006/NCIS, Season 4.yml	b8db4cb
 Shows/2006/Naruto, Season 8.yml	61b6f850
 Shows/2006/Naruto, Season 9.yml	26d91549
+Shows/2006/Planet Earth.yml	11e8916
 Shows/2006/Saturday Night Live, Season 32.yml	11d1adff
 Shows/2006/Sesame Street, Season 37.yml	b46f4b72
 Shows/2006/Smallville, Season 6.yml	9ce093ca
@@ -10890,6 +10910,7 @@ Shows/2014/Bob's Burgers, Season 5.yml	f11dac78
 Shows/2014/Brooklyn Nine-Nine, Season 2.yml	3e4959c5
 Shows/2014/CSI Crime Scene Investigation, Season 15.yml	36aa89f3
 Shows/2014/Community, Season 5.yml	c00f33b0
+Shows/2014/Cosmos, Season 2.yml	243ad7a7
 Shows/2014/Criminal Minds, Season 10.yml	aaca038
 Shows/2014/Doctor Who, Season 8.yml	2897580c
 Shows/2014/Downton Abbey, Season 5.yml	59eb004c
@@ -10925,6 +10946,7 @@ Shows/2015/Better Call Saul.yml	272a09c3
 Shows/2015/BoJack Horseman, Season 2.yml	21c79d89
 Shows/2015/Bob's Burgers, Season 6.yml	1c3fffd4
 Shows/2015/Brooklyn Nine-Nine, Season 3.yml	65c7db10
+Shows/2015/Chef's Table.yml	5114c3da
 Shows/2015/Community, Season 6.yml	f21eb095
 Shows/2015/Criminal Minds, Season 11.yml	ced0cc0f
 Shows/2015/CriticalRole.yml	e8f89edd
@@ -10957,6 +10979,7 @@ Shows/2015/Steven Universe, Season 2.yml	99e00110
 Shows/2015/The Americans, Season 3.yml	c4d23fb8
 Shows/2015/The Expanse.yml	cde1ad2a
 Shows/2015/The Good Wife, Season 7.yml	c4286d45
+Shows/2015/The Jinx.yml	4588bc69
 Shows/2015/The Leftovers, Season 2.yml	4c41aa68
 Shows/2015/The Simpsons, Season 27.yml	301be6ee
 Shows/2015/True Detective, Season 2.yml	da48fb1c
@@ -10971,6 +10994,7 @@ Shows/2016/Black Mirror, Season 3.yml	20e986cc
 Shows/2016/BoJack Horseman, Season 3.yml	1ecab515
 Shows/2016/Bob's Burgers, Season 7.yml	13296abd
 Shows/2016/Brooklyn Nine-Nine, Season 4.yml	3ca8a458
+Shows/2016/Chef's Table, Season 2.yml	d08f9af2
 Shows/2016/Criminal Minds, Season 12.yml	28d75090
 Shows/2016/Doctor Who, Season 10.yml	7c11dbd5
 Shows/2016/Easy.yml	908f99ae
@@ -10990,6 +11014,7 @@ Shows/2016/Modern Family, Season 8.yml	1443d4f
 Shows/2016/Mr. Robot, Season 2.yml	d4cbf758
 Shows/2016/NCIS, Season 14.yml	2c3533ed
 Shows/2016/Narcos, Season 2.yml	e7090cf4
+Shows/2016/O.J. Made in America.yml	34e58db5
 Shows/2016/One Piece, Season 18.yml	d917dcea
 Shows/2016/Orange Is the New Black, Season 4.yml	532935b3
 Shows/2016/Orphan Black, Season 4.yml	b12ab603
@@ -11019,6 +11044,7 @@ Shows/2017/Black Mirror, Season 4.yml	14cd1389
 Shows/2017/BoJack Horseman, Season 4.yml	5c1532b8
 Shows/2017/Bob's Burgers, Season 8.yml	2ff5b0e5
 Shows/2017/Brooklyn Nine-Nine, Season 5.yml	a58dc8d7
+Shows/2017/Chef's Table, Season 3.yml	d5097692
 Shows/2017/Criminal Minds, Season 13.yml	a44c0f58
 Shows/2017/Curb Your Enthusiasm, Season 9.yml	f25b0f95
 Shows/2017/Dark.yml	b4144e77
@@ -11056,6 +11082,7 @@ Shows/2017/The Good Place, Season 2.yml	b3e84a0c
 Shows/2017/The Handmaid's Tale.yml	2dca568f
 Shows/2017/The Leftovers, Season 3.yml	224d09ac
 Shows/2017/The Simpsons, Season 29.yml	14567064
+Shows/2017/The Vietnam War.yml	bbf8032e
 Shows/2017/This Is Us, Season 2.yml	dc5018af
 Shows/2017/Twin Peaks, Season 3.yml	8df16c7
 Shows/2017/Veep, Season 6.yml	a3957755
@@ -11067,6 +11094,8 @@ Shows/2018/Better Call Saul, Season 4.yml	f5339128
 Shows/2018/Bluey.yml	be595987
 Shows/2018/BoJack Horseman, Season 5.yml	cce86da3
 Shows/2018/Bob's Burgers, Season 9.yml	43c83930
+Shows/2018/Chef's Table, Season 4.yml	b57ecb8f
+Shows/2018/Chef's Table, Season 5.yml	e9817e8d
 Shows/2018/Criminal Minds, Season 14.yml	a7473076
 Shows/2018/Doctor Who, Season 11.yml	851aee95
 Shows/2018/Family Guy, Season 17.yml	abb86eb3
@@ -11103,6 +11132,7 @@ Shows/2019/Archer, Season 10.yml	9a8c634f
 Shows/2019/BoJack Horseman, Season 6.yml	24b588f9
 Shows/2019/Bob's Burgers, Season 10.yml	2d6bb75
 Shows/2019/Brooklyn Nine-Nine, Season 6.yml	78b8219f
+Shows/2019/Chef's Table, Season 6.yml	e6ce5170
 Shows/2019/Chernobyl.yml	839ec9a8
 Shows/2019/Dark, Season 2.yml	32fd3711
 Shows/2019/Demon Slayer Kimetsu no Yaiba.yml	ffbadc6d
@@ -11150,6 +11180,7 @@ Shows/2019/Veep, Season 7.yml	e52e1ad8
 Shows/2019/Vinland Saga.yml	e0215b1
 Shows/2019/Watchmen.yml	3600fc98
 Shows/2019/What We Do in the Shadows.yml	97555042
+Shows/2019/When They See Us.yml	15d42e5b
 Shows/2020/Archer, Season 11.yml	ef7dcfae
 Shows/2020/Attack on Titan, Season 4.yml	a2c82474
 Shows/2020/Better Call Saul, Season 5.yml	5116955
@@ -11157,6 +11188,7 @@ Shows/2020/Bluey, Season 2.yml	d63e57e
 Shows/2020/Bob's Burgers, Season 11.yml	a8fa65ad
 Shows/2020/Brooklyn Nine-Nine, Season 7.yml	e3f31c19
 Shows/2020/Central Park.yml	4b83c116
+Shows/2020/Cosmos, Season 3.yml	c6baf01b
 Shows/2020/Criminal Minds, Season 15.yml	3714d77f
 Shows/2020/Curb Your Enthusiasm, Season 10.yml	b2bef751
 Shows/2020/Dark, Season 3.yml	8e053245
@@ -11184,6 +11216,7 @@ Shows/2020/Ted Lasso.yml	e8d20a16
 Shows/2020/The Boys, Season 2.yml	bb21f142
 Shows/2020/The Crown, Season 4.yml	8a8d068d
 Shows/2020/The Expanse, Season 5.yml	cec52cb2
+Shows/2020/The Last Dance.yml	a3f1523e
 Shows/2020/The Mandalorian, Season 2.yml	7c24186c
 Shows/2020/The Queen's Gambit.yml	29bd982
 Shows/2020/The Simpsons, Season 32.yml	61fc1dbf
@@ -11325,6 +11358,7 @@ Shows/2024/Bad Monkey.yml	1faf3ef5
 Shows/2024/Batman Caped Crusader.yml	61435433
 Shows/2024/Bel-Air, Season 3.yml	4280ab6e
 Shows/2024/Bob's Burgers, Season 15.yml	a6cf4ec1
+Shows/2024/Chef's Table, Season 7.yml	9d1ffcbd
 Shows/2024/Criminal Minds, Season 17.yml	3bc62f3b
 Shows/2024/Curb Your Enthusiasm, Season 12.yml	4ce375c2
 Shows/2024/Demon Slayer Kimetsu no Yaiba, Season 5.yml	83913cb5
@@ -11344,6 +11378,7 @@ Shows/2024/Silo, Season 2.yml	4892922
 Shows/2024/Squid Game, Season 2.yml	5e46db5e
 Shows/2024/Terminator Zero.yml	254425b2
 Shows/2024/The Boys, Season 4.yml	7021e7a8
+Shows/2024/The Jinx, Season 2.yml	f3173526
 Shows/2024/The Penguin.yml	838c53b2
 Shows/2024/The Simpsons, Season 36.yml	5addf269
 Shows/2024/True Detective, Season 4.yml	28848304
@@ -11424,8 +11459,10 @@ Shows/Series/Bleach.yml	35039745
 Shows/Series/Brooklyn Nine-Nine.yml	b6182226
 Shows/Series/CSI: Crime Scene Investigation.yml	9488de66
 Shows/Series/Cheers.yml	8b4a9e72
+Shows/Series/Chef's Table.yml	7004137e
 Shows/Series/Columbo.yml	8f2fc649
 Shows/Series/Community.yml	d929f51
+Shows/Series/Cosmos.yml	e6741cdf
 Shows/Series/Criminal Minds.yml	a3516ac1
 Shows/Series/Curb Your Enthusiasm.yml	3fecb2bf
 Shows/Series/Dark.yml	e32dbec7
