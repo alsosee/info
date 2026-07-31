@@ -1,0 +1,24 @@
+name: The Prisoner
+description: >
+  A British secret agent retires from his position... and is whisked away to a
+  mysterious Village where people who know too much but can't be killed are
+  kept for the security of the State. Which State? No one knows. The unnamed
+  agent, dubbed "Number Six" since everyone in the Village, is only known by a
+  number, defies the Village authorities and alternates between trying to
+  escape and undermining his captors.
+released: 1967-10-01
+rating: TV-PG
+genres:
+  - drama
+  - science fiction
+  - mystery
+  - spy-fi
+network: ITV
+wikipedia: https://en.wikipedia.org/wiki/The_Prisoner
+imdb: https://www.imdb.com/title/tt0061287
+creators:
+  - Patrick McGoohan
+  - George Markstein
+characters:
+  - name: Number Six
+    actor: Patrick McGoohan

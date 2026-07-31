@@ -1,0 +1,35 @@
+name: Ally McBeal
+description: >
+  Tells the story of Ally McBeal, a young lawyer who found herself without a
+  job after being sexually harassed by her boss, only to end up employed by her
+  friend from college, Richard Fish, to work in the firm he created with his
+  friend John Cage, named "Cage & Fish."
+released: 1997-09-08
+rating: TV-14
+genres:
+  - drama
+  - comedy
+  - legal drama
+  - legal comedy drama
+network: Fox
+wikipedia: https://en.wikipedia.org/wiki/Ally_McBeal
+imdb: https://www.imdb.com/title/tt0118254
+creators:
+  - David E. Kelley
+characters:
+  - name: Ally McBeal
+    actor: Calista Flockhart
+  - name: Richard Fish
+    actor: Greg Germann
+  - name: Elaine Vassal
+    actor: Jane Krakowski
+  - name: John Cage
+    actor: Peter MacNicol
+  - name: Nelle Porter
+    actor: Portia de Rossi
+  - name: Renee Radick
+    actor: Lisa Nicole Carson
+  - name: Vonda Shepard
+    actor: Vonda Shepard
+  - name: Ling Woo
+    actor: Lucy Liu

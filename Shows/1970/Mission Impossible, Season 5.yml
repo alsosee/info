@@ -1,0 +1,41 @@
+name: "Mission: Impossible, Season 5"
+description: >
+  The IMF is a top-secret branch of the U.S. government that takes on missions
+  deemed "impossible" by all other agencies. Each of the team members can be
+  disavowed if necessary. Leading the team is first Daniel Briggs, and then Jim
+  Phelps. Each week they recruit a team of specialists to accomplish the
+  mission, whether it's break into an impenetrable safe, or bring a fugitive to
+  justice, or simply deal with mobsters who are beyond the reach of
+  conventional law enforcement.
+previous: Shows/1969/Mission Impossible, Season 4
+series: "Mission: Impossible"
+released: 1970-09-19
+rating: TV-PG
+genres:
+  - action
+  - adventure
+  - espionage
+  - spy-fi
+network: CBS
+wikipedia: https://en.wikipedia.org/wiki/Mission:_Impossible_(1966_TV_series)
+imdb: https://www.imdb.com/title/tt0060009
+website: https://www.cbs.com/shows/mission-impossible/
+creators:
+  - Bruce Geller
+characters:
+  - name: Barney Collier
+    actor: Greg Morris
+  - name: Willy Armitage
+    actor: Peter Lupus
+  - name: James Phelps
+    actor: Peter Graves
+  - name: Rollin Hand
+    actor: Martin Landau
+  - name: Cinnamon Carter
+    actor: Barbara Bain
+  - name: Paris
+    actor: Leonard Nimoy
+  - name: Lisa Casey
+    actor: Lynda Day George
+  - name: Daniel Briggs
+    actor: Steven Hill

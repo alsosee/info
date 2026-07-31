@@ -1,0 +1,39 @@
+name: American Crime Story
+description: >
+  Based on the book The Run of His Life: The People V. O.J. Simpson by Jeffrey
+  Toobin, the limited series is a look at the O.J. Simpson trial told from the
+  perspective of the lawyers. It explores the chaotic behind-the-scenes
+  dealings and maneuvering on both sides of the court, and how a combination of
+  prosecution overconfidence, defense shrewdness, and the LAPD's history with
+  the city's African-American community gave a jury what it needed: reasonable
+  doubt.
+released: 2016-02-02
+rating: TV-MA
+genres:
+  - drama
+  - crime
+  - true crime
+network: FX
+wikipedia: https://en.wikipedia.org/wiki/American_Crime_Story
+imdb: https://www.imdb.com/title/tt2788432
+website: http://www.fxnetworks.com/shows/american-crime-story
+creators:
+  - Scott Alexander
+  - Larry Karaszewski
+characters:
+  - name: Johnnie Cochran
+    actor: Courtney B. Vance
+  - name: O.J. Simpson
+    actor: Cuba Gooding, Jr.
+  - name: Robert Kardashian
+    actor: David Schwimmer
+  - name: Robert Shapiro
+    actor: John Travolta
+  - name: Marcia Clark
+    actor: Sarah Paulson
+  - name: Christopher Darden
+    actor: Sterling K. Brown
+  - name: Gil Garcetti
+    actor: Bruce Greenwood
+  - name: Monica Lewinsky
+    actor: Beanie Feldstein
