@@ -5,7 +5,8 @@ description: >
   Season 7 of Keeping Up with the Kardashians premiered on 2012-05-20.
 released: "2012-05-20"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=7
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

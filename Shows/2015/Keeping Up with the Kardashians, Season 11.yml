@@ -5,7 +5,8 @@ description: >
   Season 11 of Keeping Up with the Kardashians premiered on 2015-11-15.
 released: "2015-11-15"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=11
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

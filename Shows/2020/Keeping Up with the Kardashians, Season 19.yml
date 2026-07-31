@@ -5,7 +5,8 @@ description: >
   Season 19 of Keeping Up with the Kardashians premiered on 2020-09-17.
 released: "2020-09-17"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=19
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

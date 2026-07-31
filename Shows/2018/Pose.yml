@@ -3,7 +3,8 @@ description: >
   Season 1 of Pose premiered on 2018-06-03.
 released: "2018-06-03"
 length: 63m
-genres: drama
+genres:
+  - drama
 imdb: https://www.imdb.com/title/tt7562112/episodes/?season=1
 website: "https://www.fxnetworks.com/shows/pose"
 network: FX

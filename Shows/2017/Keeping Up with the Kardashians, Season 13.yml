@@ -5,7 +5,8 @@ description: >
   Season 13 of Keeping Up with the Kardashians premiered on 2017-03-12.
 released: "2017-03-12"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=13
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

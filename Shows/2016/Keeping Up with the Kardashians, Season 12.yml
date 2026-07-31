@@ -5,7 +5,8 @@ description: >
   Season 12 of Keeping Up with the Kardashians premiered on 2016-05-01.
 released: "2016-05-01"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=12
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

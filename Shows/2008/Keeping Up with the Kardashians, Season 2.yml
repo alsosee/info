@@ -5,7 +5,8 @@ description: >
   Season 2 of Keeping Up with the Kardashians premiered on 2008-03-09.
 released: "2008-03-09"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=2
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

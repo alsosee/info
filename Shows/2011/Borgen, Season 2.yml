@@ -5,7 +5,8 @@ description: >
   Season 2 of Borgen premiered on 2011-09-25.
 released: "2011-09-25"
 length: 60m
-genres: political drama
+genres:
+  - political drama
 imdb: https://www.imdb.com/title/tt1526318/episodes/?season=2
 website: "https://dr.dk/drtv/serie/borgen_293089"
 network: DR1

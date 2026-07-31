@@ -5,7 +5,8 @@ description: >
   Season 2 of Master of None premiered on 2017-05-12.
 released: "2017-05-12"
 length: 32m
-genres: comedy drama
+genres:
+  - comedy drama
 imdb: https://www.imdb.com/title/tt4635276/episodes/?season=2
 website: "https://www.netflix.com/title/80049714"
 network: Netflix

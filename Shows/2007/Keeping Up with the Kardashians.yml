@@ -3,7 +3,8 @@ description: >
   Season 1 of Keeping Up with the Kardashians premiered on 2007-10-14.
 released: "2007-10-14"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=1
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

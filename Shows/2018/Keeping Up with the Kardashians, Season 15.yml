@@ -5,7 +5,8 @@ description: >
   Season 15 of Keeping Up with the Kardashians premiered on 2018-08-05.
 released: "2018-08-05"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=15
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

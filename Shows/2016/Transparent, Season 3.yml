@@ -5,7 +5,8 @@ description: >
   Season 3 of Transparent premiered on 2016-09-23.
 released: "2016-09-23"
 length: 28m
-genres: comedy drama
+genres:
+  - comedy drama
 imdb: https://www.imdb.com/title/tt3502262/episodes/?season=3
 website: "https://www.amazon.com/dp/B017I3KWX6"
 network: Prime Video

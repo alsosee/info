@@ -5,7 +5,8 @@ description: >
   Season 8 of Keeping Up with the Kardashians premiered on 2013-06-02.
 released: "2013-06-02"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=8
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

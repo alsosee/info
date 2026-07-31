@@ -5,7 +5,8 @@ description: >
   Season 4 of Keeping Up with the Kardashians premiered on 2009-12-13.
 released: "2009-12-13"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=4
 website: "http://www.eonline.com/shows/kardashians"
 network: E!

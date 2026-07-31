@@ -5,7 +5,8 @@ description: >
   Season 16 of Keeping Up with the Kardashians premiered on 2019-03-31.
 released: "2019-03-31"
 length: 60m
-genres: reality
+genres:
+  - reality
 imdb: https://www.imdb.com/title/tt1086761/episodes/?season=16
 website: "http://www.eonline.com/shows/kardashians"
 network: E!
