@@ -1,0 +1,28 @@
+name: "Pokémon: The First Movie - Mewtwo Strikes Back"
+description: >
+  Ash, Pikachu, and other trainers are invited to a remote island by Mewtwo, a
+  powerful cloned Pokémon questioning its origins and challenging the bond
+  between humans and Pokémon.
+released: 1998-07-18
+length: 1h15m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/10228-pok-mon-the-first-movie
+directors: Kunihiko Yuyama
+screenplay: Takeshi Shudo
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Mewtwo
+    voice: Masachika Ichimura
+  - name: Misty
+    voice: Mayumi Iizuka
+  - name: Brock
+    voice: Yuji Ueda

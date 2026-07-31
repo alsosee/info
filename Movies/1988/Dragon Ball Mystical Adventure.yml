@@ -1,0 +1,30 @@
+name: "Dragon Ball: Mystical Adventure"
+description: >
+  Goku and his friends enter a martial arts tournament in the kingdom of Mifan,
+  where the search for the Dragon Balls becomes tied to a royal conspiracy.
+previous: Movies/1987/Dragon Ball Sleeping Princess in Devil's Castle
+released: 1988-07-09
+length: 46m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball:_Mystical_Adventure
+imdb: https://www.imdb.com/title/tt0142241
+tmdb: https://www.themoviedb.org/movie/116776-dragon-ball-mystical-adventure
+directors: Kazuhisa Takenouchi
+screenplay: Yoshifumi Yuki
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Krillin
+    voice: Mayumi Tanaka
+  - name: Bulma
+    voice: Hiromi Tsuru
+  - name: Master Roshi
+    voice: Kohei Miyauchi
+  - name: Tien Shinhan
+    voice: Hirotaka Suzuoki

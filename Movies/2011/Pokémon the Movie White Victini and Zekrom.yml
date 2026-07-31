@@ -1,0 +1,28 @@
+name: "Pokémon the Movie: White - Victini and Zekrom"
+description: >
+  In an alternate version of the Eindoak Town story, Ash meets Victini as Damon
+  seeks to restore the ancient kingdom with the help of Zekrom.
+previous: Movies/2011/Pokémon the Movie Black Victini and Reshiram
+released: 2011-07-16
+length: 1h36m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/88557-pok-mon-the-movie-white-victini-and-zekrom
+directors: Kunihiko Yuyama
+screenplay: Hideki Sonoda
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Victini
+    voice: Nana Mizuki
+  - name: Damon
+    voice: Shosuke Tanihara
+  - name: Iris
+    voice: Aoi Yuki

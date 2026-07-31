@@ -1,0 +1,31 @@
+name: "Dragon Ball Z: Fusion Reborn"
+description: >
+  A disaster in the Other World creates Janemba, warping reality across the
+  afterlife and Earth while Goku and Vegeta search for a way to combine their
+  strength.
+previous: Movies/1994/Dragon Ball Z Bio-Broly
+released: 1995-03-04
+length: 52m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Fusion_Reborn
+imdb: https://www.imdb.com/title/tt0142234
+tmdb: https://www.themoviedb.org/movie/39107-dragon-ball-z-fusion-reborn
+directors: Shigeyasu Yamauchi
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Vegeta
+    voice: Ryo Horikawa
+  - name: Janemba
+    voice: Tessho Genda
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Videl
+    voice: Yuko Minaguchi

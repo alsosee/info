@@ -1,0 +1,31 @@
+name: "Dragon Ball Z: Bojack Unbound"
+description: >
+  During a world martial arts tournament, Gohan and the other fighters are
+  attacked by Bojack and his crew, ancient criminals newly freed from their
+  confinement.
+previous: Movies/1993/Dragon Ball Z Broly - The Legendary Super Saiyan
+released: 1993-07-10
+length: 51m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Bojack_Unbound
+imdb: https://www.imdb.com/title/tt0142238
+tmdb: https://www.themoviedb.org/movie/39105-dragon-ball-z-bojack-unbound
+directors: Yoshihiro Ueda
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Trunks
+    voice: Takeshi Kusao
+  - name: Piccolo
+    voice: Toshio Furukawa
+  - name: Bojack
+    voice: Tessho Genda

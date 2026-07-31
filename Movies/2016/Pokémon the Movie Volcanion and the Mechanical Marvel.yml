@@ -1,0 +1,28 @@
+name: "Pokémon the Movie: Volcanion and the Mechanical Marvel"
+description: >
+  Ash is linked to Volcanion by a mysterious device as the steam Pokémon tries
+  to rescue Magearna from a mechanized kingdom.
+previous: Movies/2015/Pokémon the Movie Hoopa and the Clash of Ages
+released: 2016-07-16
+length: 1h34m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/382190-pok-mon-the-movie-volcanion-and-the-mechanical-marvel
+directors: Kunihiko Yuyama
+screenplay: Atsuhiro Tomioka
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Volcanion
+    voice: Somegoro Ichikawa
+  - name: Magearna
+    voice: Yuka Terasaki
+  - name: Serena
+    voice: Mayuki Makiguchi

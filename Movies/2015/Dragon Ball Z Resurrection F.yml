@@ -1,0 +1,32 @@
+name: "Dragon Ball Z: Resurrection 'F'"
+description: >
+  Frieza is resurrected by his remaining soldiers and returns to Earth with a
+  new form, forcing Goku, Vegeta, and their allies to face one of their oldest
+  enemies again.
+previous: Movies/2013/Dragon Ball Z Battle of Gods
+released: 2015-04-18
+rating: PG
+length: 1h34m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Resurrection_%27F%27
+imdb: https://www.imdb.com/title/tt3819668
+tmdb: https://www.themoviedb.org/movie/303857-dragon-ball-z-resurrection-f
+directors: Tadayoshi Yamamuro
+screenplay: Akira Toriyama
+music: Norihito Sumitomo
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Vegeta
+    voice: Ryo Horikawa
+  - name: Frieza
+    voice: Ryusei Nakao
+  - name: Beerus
+    voice: Koichi Yamadera
+  - name: Whis
+    voice: Masakazu Morita

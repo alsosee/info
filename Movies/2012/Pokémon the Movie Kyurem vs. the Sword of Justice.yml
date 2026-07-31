@@ -1,0 +1,29 @@
+name: "Pokémon the Movie: Kyurem vs. the Sword of Justice"
+description: >
+  Ash and his friends help Keldeo after it challenges Kyurem before it is ready,
+  forcing the young Pokémon to confront what it means to join the Swords of
+  Justice.
+previous: Movies/2011/Pokémon the Movie White Victini and Zekrom
+released: 2012-07-14
+length: 1h11m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/150213-pok-mon-the-movie-kyurem-vs-the-sword-of-justice
+directors: Kunihiko Yuyama
+screenplay: Hideki Sonoda
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Keldeo
+    voice: Shoko Nakagawa
+  - name: Kyurem
+    voice: Katsumi Takahashi
+  - name: Iris
+    voice: Aoi Yuki

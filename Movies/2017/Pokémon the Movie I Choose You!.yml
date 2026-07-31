@@ -1,0 +1,28 @@
+name: "Pokémon the Movie: I Choose You!"
+description: >
+  An alternate retelling of Ash and Pikachu's beginning sends them on a journey
+  toward Ho-Oh with new companions and a mysterious Pokémon named Marshadow.
+previous: Movies/2016/Pokémon the Movie Volcanion and the Mechanical Marvel
+released: 2017-07-15
+length: 1h38m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/436931-pok-mon-the-movie-i-choose-you
+directors: Kunihiko Yuyama
+screenplay: Shoji Yonemura
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Verity
+    voice: Shiori Sato
+  - name: Sorrel
+    voice: Kanata Hongo
+  - name: Marshadow
+    voice: Koichi Yamadera

@@ -1,0 +1,30 @@
+name: "Pokémon: Mewtwo Strikes Back - Evolution"
+description: >
+  A computer-animated remake of the first Pokémon film revisits Mewtwo's island
+  challenge to Ash, Pikachu, and other trainers.
+previous: Movies/2018/Pokémon the Movie The Power of Us
+released: 2019-07-12
+length: 1h38m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/571891-pok-mon-the-movie-mewtwo-strikes-back-evolution
+directors:
+  - Kunihiko Yuyama
+  - Motonori Sakakibara
+screenplay: Takeshi Shudo
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Mewtwo
+    voice: Masachika Ichimura
+  - name: Misty
+    voice: Mayumi Iizuka
+  - name: Brock
+    voice: Yuji Ueda

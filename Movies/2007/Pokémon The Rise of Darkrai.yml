@@ -1,0 +1,28 @@
+name: "Pokémon: The Rise of Darkrai"
+description: >
+  In Alamos Town, Ash and his friends are caught between Dialga and Palkia while
+  Darkrai is blamed for the dimensional crisis threatening the town.
+previous: Movies/2006/Pokémon Ranger and the Temple of the Sea
+released: 2007-07-14
+length: 1h30m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/25961-pok-mon-the-rise-of-darkrai
+directors: Kunihiko Yuyama
+screenplay: Hideki Sonoda
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Darkrai
+    voice: Koji Ishizaka
+  - name: Dawn
+    voice: Megumi Toyoguchi
+  - name: Brock
+    voice: Yuji Ueda

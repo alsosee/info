@@ -1,0 +1,28 @@
+name: "Pokémon 4Ever"
+description: >
+  Ash encounters a boy from the past and the time-traveling Celebi while a
+  masked hunter threatens a forest protected by legendary Pokémon.
+previous: Movies/2000/Pokémon 3 The Movie
+released: 2001-07-07
+length: 1h15m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/12600-pok-mon-4ever
+directors: Kunihiko Yuyama
+screenplay: Hideki Sonoda
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Sam
+    voice: Keiko Toda
+  - name: Celebi
+    voice: Kazuko Sugiyama
+  - name: Misty
+    voice: Mayumi Iizuka

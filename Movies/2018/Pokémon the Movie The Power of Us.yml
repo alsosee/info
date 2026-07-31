@@ -1,0 +1,30 @@
+name: "Pokémon the Movie: The Power of Us"
+description: >
+  During Fula City's Wind Festival, Ash and several residents are pulled into a
+  crisis involving Lugia, a forest fire, and the city's dependence on wind.
+previous: Movies/2017/Pokémon the Movie I Choose You!
+released: 2018-07-13
+length: 1h40m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/494407-pok-mon-the-movie-the-power-of-us
+directors: Tetsuo Yajima
+screenplay:
+  - Eiji Umehara
+  - Aya Takaha
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Risa
+    voice: Rina Kawaei
+  - name: Toren
+    voice: Gaku Hamada
+  - name: Zeraora
+    voice: Koichi Yamadera

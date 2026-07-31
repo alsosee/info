@@ -1,0 +1,31 @@
+name: "Dragon Ball Z: Cooler's Revenge"
+description: >
+  Frieza's brother Cooler comes to Earth seeking revenge against Goku, bringing
+  an elite armored squadron and a vendetta against the Saiyan who defeated his
+  family.
+previous: Movies/1991/Dragon Ball Z Lord Slug
+released: 1991-07-20
+length: 48m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Cooler%27s_Revenge
+imdb: https://www.imdb.com/title/tt0142237
+tmdb: https://www.themoviedb.org/movie/24752-dragon-ball-z-cooler-s-revenge
+directors: Mitsuo Hashimoto
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Piccolo
+    voice: Toshio Furukawa
+  - name: Cooler
+    voice: Ryusei Nakao
+  - name: Krillin
+    voice: Mayumi Tanaka

@@ -1,0 +1,31 @@
+name: "Dragon Ball Z: Lord Slug"
+description: >
+  The Namekian tyrant Lord Slug arrives on Earth with plans to transform the
+  planet into a mobile fortress, pushing Goku into a battle against an ancient
+  super Namekian.
+previous: Movies/1990/Dragon Ball Z The Tree of Might
+released: 1991-03-09
+length: 52m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Lord_Slug
+imdb: https://www.imdb.com/title/tt0142249
+tmdb: https://www.themoviedb.org/movie/39102-dragon-ball-z-lord-slug
+directors: Mitsuo Hashimoto
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Piccolo
+    voice: Toshio Furukawa
+  - name: Lord Slug
+    voice: Kenji Utsumi
+  - name: King Kai
+    voice: Joji Yanami

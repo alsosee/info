@@ -1,0 +1,30 @@
+name: "Dragon Ball Z: Bio-Broly"
+description: >
+  Goten, Trunks, and Android 18 discover that a wealthy rival has funded a
+  bio-engineered Broly clone, turning a staged match into a laboratory disaster.
+previous: Movies/1994/Dragon Ball Z Broly - Second Coming
+released: 1994-07-09
+length: 46m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Bio-Broly
+imdb: https://www.imdb.com/title/tt0142243
+tmdb: https://www.themoviedb.org/movie/39106-dragon-ball-z-bio-broly
+directors: Yoshihiro Ueda
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goten
+    voice: Masako Nozawa
+  - name: Trunks
+    voice: Takeshi Kusao
+  - name: Android 18
+    voice: Miki Ito
+  - name: Mr. Satan
+    voice: Daisuke Gori
+  - name: Broly
+    voice: Bin Shimada

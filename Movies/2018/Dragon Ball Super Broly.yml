@@ -1,0 +1,31 @@
+name: "Dragon Ball Super: Broly"
+description: >
+  Goku and Vegeta encounter Broly, a powerful Saiyan raised in exile, as Frieza's
+  schemes bring long-buried Saiyan history into a new battle.
+previous: Movies/2015/Dragon Ball Z Resurrection F
+released: 2018-12-14
+rating: PG
+length: 1h40m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Broly
+imdb: https://www.imdb.com/title/tt7961060
+tmdb: https://www.themoviedb.org/movie/503314-dragon-ball-super-broly
+directors: Tatsuya Nagamine
+screenplay: Akira Toriyama
+music: Norihito Sumitomo
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Vegeta
+    voice: Ryo Horikawa
+  - name: Broly
+    voice: Bin Shimada
+  - name: Frieza
+    voice: Ryusei Nakao
+  - name: Cheelai
+    voice: Nana Mizuki

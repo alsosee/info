@@ -1,0 +1,30 @@
+name: "Dragon Ball Z: The Return of Cooler"
+description: >
+  A resurrected Meta-Cooler threatens New Namek, forcing Goku and Vegeta to
+  fight an enemy whose new body is linked to a vast mechanical intelligence.
+previous: Movies/1991/Dragon Ball Z Cooler's Revenge
+released: 1992-03-07
+length: 45m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_Return_of_Cooler
+imdb: https://www.imdb.com/title/tt0142236
+tmdb: https://www.themoviedb.org/movie/39103-dragon-ball-z-the-return-of-cooler
+directors: Daisuke Nishio
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Vegeta
+    voice: Ryo Horikawa
+  - name: Cooler
+    voice: Ryusei Nakao
+  - name: Dende
+    voice: Tomiko Suzuki
+  - name: Piccolo
+    voice: Toshio Furukawa

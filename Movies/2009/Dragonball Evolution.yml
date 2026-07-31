@@ -1,0 +1,41 @@
+name: Dragonball Evolution
+description: >
+  A live-action adaptation follows high-school student Goku as he gathers allies
+  and searches for the Dragon Balls before the imprisoned Piccolo can use them to
+  reshape the world.
+previous: Movies/1996/Dragon Ball The Path to Power
+released: 2009-03-13
+rating: PG
+length: 1h25m
+genres:
+  - action
+  - adventure
+  - fantasy
+wikipedia: https://en.wikipedia.org/wiki/Dragonball_Evolution
+imdb: https://www.imdb.com/title/tt1098327
+tmdb: https://www.themoviedb.org/movie/14164-dragonball-evolution
+directors: James Wong
+screenplay: Ben Ramsey
+producers: Stephen Chow
+music: Brian Tyler
+cinematography: Robert McLachlan
+editors:
+  - Matthew Friedman
+  - Chris G. Willingham
+production:
+  - Dune Entertainment
+  - Star Overseas
+distributors: 20th Century Fox
+characters:
+  - name: Goku
+    actor: Justin Chatwin
+  - name: Master Roshi
+    actor: Chow Yun-fat
+  - name: Bulma
+    actor: Emmy Rossum
+  - name: Chi-Chi
+    actor: Jamie Chung
+  - name: Yamcha
+    actor: Joon Park
+  - name: Piccolo
+    actor: James Marsters

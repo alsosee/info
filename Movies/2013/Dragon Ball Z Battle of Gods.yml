@@ -1,0 +1,32 @@
+name: "Dragon Ball Z: Battle of Gods"
+description: >
+  Beerus, the God of Destruction, awakens in search of a Super Saiyan God,
+  sending Goku and his friends into a confrontation that expands the cosmic scale
+  of the Dragon Ball world.
+previous: Movies/2009/Dragonball Evolution
+released: 2013-03-30
+rating: PG
+length: 1h25m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Battle_of_Gods
+imdb: https://www.imdb.com/title/tt2263944
+tmdb: https://www.themoviedb.org/movie/126963-dragon-ball-z-battle-of-gods
+directors: Masahiro Hosoda
+screenplay: Yusuke Watanabe
+music: Norihito Sumitomo
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Vegeta
+    voice: Ryo Horikawa
+  - name: Beerus
+    voice: Koichi Yamadera
+  - name: Whis
+    voice: Masakazu Morita
+  - name: Bulma
+    voice: Hiromi Tsuru

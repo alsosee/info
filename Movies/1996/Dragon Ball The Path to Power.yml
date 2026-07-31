@@ -1,0 +1,31 @@
+name: "Dragon Ball: The Path to Power"
+description: >
+  The tenth-anniversary Dragon Ball film retells Goku's first meeting with Bulma
+  and their fight against the Red Ribbon Army in a condensed alternate version
+  of the early story.
+previous: Movies/1995/Dragon Ball Z Wrath of the Dragon
+released: 1996-03-02
+length: 1h20m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball:_The_Path_to_Power
+imdb: https://www.imdb.com/title/tt0142251
+tmdb: https://www.themoviedb.org/movie/39148-dragon-ball-the-path-to-power
+directors: Shigeyasu Yamauchi
+screenplay: Aya Matsui
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Bulma
+    voice: Hiromi Tsuru
+  - name: Master Roshi
+    voice: Kohei Miyauchi
+  - name: Yamcha
+    voice: Toru Furuya
+  - name: Commander Red
+    voice: Kenji Utsumi

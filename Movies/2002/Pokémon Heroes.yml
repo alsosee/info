@@ -1,0 +1,28 @@
+name: "Pokémon Heroes"
+description: >
+  In the canal city of Alto Mare, Ash and his friends meet Latios and Latias as
+  thieves target the city's legendary Soul Dew.
+previous: Movies/2001/Pokémon 4Ever
+released: 2002-07-13
+length: 1h11m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/33875-pok-mon-heroes
+directors: Kunihiko Yuyama
+screenplay: Hideki Sonoda
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Latias
+    voice: Megumi Hayashibara
+  - name: Bianca
+    voice: Fumiko Orikasa
+  - name: Brock
+    voice: Yuji Ueda

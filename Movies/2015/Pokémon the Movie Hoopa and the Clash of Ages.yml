@@ -1,0 +1,28 @@
+name: "Pokémon the Movie: Hoopa and the Clash of Ages"
+description: >
+  Ash meets Hoopa in Dahara City and becomes caught in a battle involving
+  legendary Pokémon summoned through Hoopa's rings.
+previous: Movies/2014/Pokémon the Movie Diancie and the Cocoon of Destruction
+released: 2015-07-18
+length: 1h19m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/350499-pok-mon-the-movie-hoopa-and-the-clash-of-ages
+directors: Kunihiko Yuyama
+screenplay: Atsuhiro Tomioka
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Hoopa
+    voice: Rie Kugimiya
+  - name: Baraz
+    voice: Tatsuya Fujiwara
+  - name: Mary
+    voice: Shoko Nakagawa

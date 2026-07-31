@@ -1,0 +1,33 @@
+name: "Dragon Ball Super: Super Hero"
+description: >
+  The revived Red Ribbon Army creates new Android warriors, drawing Piccolo and
+  Gohan into a crisis that threatens their families and the wider world.
+previous: Movies/2018/Dragon Ball Super Broly
+released: 2022-06-11
+rating: PG-13
+length: 1h39m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Super:_Super_Hero
+imdb: https://www.imdb.com/title/tt14614892
+tmdb: https://www.themoviedb.org/movie/610150-dragon-ball-super-super-hero
+directors: Tetsuro Kodama
+screenplay: Akira Toriyama
+music: Naoki Sato
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Piccolo
+    voice: Toshio Furukawa
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Vegeta
+    voice: Ryo Horikawa
+  - name: Gamma 1
+    voice: Hiroshi Kamiya
+  - name: Gamma 2
+    voice: Mamoru Miyano

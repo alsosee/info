@@ -1,0 +1,30 @@
+name: "Dragon Ball Z: Wrath of the Dragon"
+description: >
+  The Z Fighters free the warrior Tapion and confront Hirudegarn, a monster
+  whose sealed power threatens Earth after being manipulated by the sorcerer Hoi.
+previous: Movies/1995/Dragon Ball Z Fusion Reborn
+released: 1995-07-15
+length: 52m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Wrath_of_the_Dragon
+imdb: https://www.imdb.com/title/tt0142244
+tmdb: https://www.themoviedb.org/movie/39108-dragon-ball-z-wrath-of-the-dragon
+directors: Mitsuo Hashimoto
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Goten
+    voice: Masako Nozawa
+  - name: Trunks
+    voice: Takeshi Kusao
+  - name: Tapion
+    voice: Hiro Yuuki

@@ -1,0 +1,30 @@
+name: "Dragon Ball Z: Broly - Second Coming"
+description: >
+  Broly awakens on Earth and pursues Goten, Trunks, and Videl, drawing Gohan
+  into a renewed fight against the legendary Super Saiyan.
+previous: Movies/1993/Dragon Ball Z Bojack Unbound
+released: 1994-03-12
+length: 52m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Broly_%E2%80%93_Second_Coming
+imdb: https://www.imdb.com/title/tt0142239
+tmdb: https://www.themoviedb.org/movie/44251-dragon-ball-z-broly-second-coming
+directors: Shigeyasu Yamauchi
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Goten
+    voice: Masako Nozawa
+  - name: Broly
+    voice: Bin Shimada
+  - name: Trunks
+    voice: Takeshi Kusao
+  - name: Videl
+    voice: Yuko Minaguchi

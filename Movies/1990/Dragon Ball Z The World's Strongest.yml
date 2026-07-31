@@ -1,0 +1,30 @@
+name: "Dragon Ball Z: The World's Strongest"
+description: >
+  Goku and his allies face Dr. Wheelo, a scientist whose brain survives in a
+  mechanical body and who seeks the world's strongest fighter as his new host.
+previous: Movies/1989/Dragon Ball Z Dead Zone
+released: 1990-03-10
+length: 59m
+genres:
+  - action
+  - adventure
+  - anime
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_The_World%27s_Strongest
+imdb: https://www.imdb.com/title/tt0142248
+tmdb: https://www.themoviedb.org/movie/39100-dragon-ball-z-the-world-s-strongest
+directors: Daisuke Nishio
+screenplay: Takao Koyama
+music: Shunsuke Kikuchi
+production: Toei Animation
+distributors: Toei Company
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Gohan
+    voice: Masako Nozawa
+  - name: Piccolo
+    voice: Toshio Furukawa
+  - name: Master Roshi
+    voice: Kohei Miyauchi
+  - name: Dr. Wheelo
+    voice: Koji Nakata

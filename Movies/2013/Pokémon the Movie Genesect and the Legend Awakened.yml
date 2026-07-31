@@ -1,0 +1,28 @@
+name: "Pokémon the Movie: Genesect and the Legend Awakened"
+description: >
+  A group of Genesect builds a nest in a city park, drawing Mewtwo into a clash
+  that puts Ash and nearby Pokémon in the middle of a territorial conflict.
+previous: Movies/2012/Pokémon the Movie Kyurem vs. the Sword of Justice
+released: 2013-07-13
+length: 1h12m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/227679-pok-mon-the-movie-genesect-and-the-legend-awakened
+directors: Kunihiko Yuyama
+screenplay: Hideki Sonoda
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Mewtwo
+    voice: Reiko Takashima
+  - name: Red Genesect
+    voice: Koichi Yamadera
+  - name: Iris
+    voice: Aoi Yuki

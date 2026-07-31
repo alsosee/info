@@ -1,0 +1,28 @@
+name: "Pokémon the Movie 2000"
+description: >
+  Ash becomes part of an ancient prophecy when a collector disrupts the balance
+  between Articuno, Zapdos, Moltres, and Lugia across the Orange Islands.
+previous: Movies/1998/Pokémon The First Movie - Mewtwo Strikes Back
+released: 1999-07-17
+length: 1h24m
+genres:
+  - adventure
+  - anime
+  - fantasy
+tmdb: https://www.themoviedb.org/movie/12599-pok-mon-the-movie-2000
+directors: Kunihiko Yuyama
+screenplay: Takeshi Shudo
+music: Shinji Miyazaki
+production: OLM
+distributors: Toho
+characters:
+  - name: Ash Ketchum
+    voice: Rica Matsumoto
+  - name: Pikachu
+    voice: Ikue Otani
+  - name: Lugia
+    voice: Koichi Yamadera
+  - name: Misty
+    voice: Mayumi Iizuka
+  - name: Tracey Sketchit
+    voice: Tomokazu Seki
