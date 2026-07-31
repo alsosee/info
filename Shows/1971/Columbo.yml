@@ -1,0 +1,16 @@
+name: Columbo
+series: Columbo
+description: >
+  The first season of Columbo premiered on ABC on 1971-09-15.
+released: 1971-09-15
+genres:
+  - Crime
+  - Drama
+  - Mystery
+wikipedia: https://en.wikipedia.org/wiki/Columbo
+imdb: https://www.imdb.com/title/tt1466074/episodes?season=1
+tmdb: https://www.themoviedb.org/tv/873-columbo/season/1
+network: ABC
+creators:
+  - William Link
+  - Richard Levinson
