@@ -1,0 +1,43 @@
+name: "Karate Kid: Legends"
+series: The Karate Kid
+description: >
+  Li Fong moves from Beijing to New York City and is pulled into a new martial
+  arts conflict while trying to settle into his new home. Mr. Han turns to Daniel
+  LaRusso so the two mentors can help Li combine kung fu and karate for a major
+  tournament.
+previous: Movies/2010/The Karate Kid
+released: 2025-05-30
+rating: PG-13
+length: 1h34m
+genres:
+  - martial arts
+  - drama
+  - coming-of-age
+wikipedia: https://en.wikipedia.org/wiki/Karate_Kid:_Legends
+imdb: https://www.imdb.com/title/tt1674782
+tmdb: https://www.themoviedb.org/movie/1011477-karate-kid-legends
+directors: Jonathan Entwistle
+producers: Karen Rosenfelt
+screenplay: Rob Lieber
+music: Dominic Lewis
+cinematography: Justin Brown
+editors:
+  - Dana E. Glauberman
+  - Colby Parker Jr.
+production:
+  - Columbia Pictures
+  - Sunswept Entertainment
+distributors: Sony Pictures Releasing
+characters:
+  - name: Li Fong
+    actor: Ben Wang
+  - name: Mr. Han
+    actor: Jackie Chan
+  - name: Daniel LaRusso
+    actor: Ralph Macchio
+  - name: Victor Lipani
+    actor: Joshua Jackson
+  - name: Mia Lipani
+    actor: Sadie Stanley
+  - name: Dr. Fong
+    actor: Ming-Na Wen

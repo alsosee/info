@@ -1,0 +1,41 @@
+name: The Karate Kid Part II
+series: The Karate Kid
+description: >
+  Daniel LaRusso travels with Mr. Miyagi to Okinawa after Miyagi learns that his
+  father is dying. The visit forces Miyagi to face an old rivalry while Daniel
+  becomes entangled in new friendships and conflicts far from home.
+previous: Movies/1984/The Karate Kid
+released: 1986-06-20
+rating: PG
+length: 1h53m
+genres:
+  - martial arts
+  - drama
+  - coming-of-age
+wikipedia: https://en.wikipedia.org/wiki/The_Karate_Kid_Part_II
+imdb: https://www.imdb.com/title/tt0091326
+tmdb: https://www.themoviedb.org/movie/8856-the-karate-kid-part-ii
+directors: John G. Avildsen
+producers: Jerry Weintraub
+screenplay: Robert Mark Kamen
+music: Bill Conti
+cinematography: James Crabe
+editors:
+  - John G. Avildsen
+  - David Garfield
+  - Jane Kurson
+production: Delphi V Productions
+distributors: Columbia Pictures
+characters:
+  - name: Daniel LaRusso
+    actor: Ralph Macchio
+  - name: Mr. Miyagi
+    actor: Pat Morita
+  - name: Kumiko
+    actor: Tamlyn Tomita
+  - name: Chozen Toguchi
+    actor: Yuji Okumoto
+  - name: Sato Toguchi
+    actor: Danny Kamekona
+  - name: Yukie
+    actor: Nobu McCarthy

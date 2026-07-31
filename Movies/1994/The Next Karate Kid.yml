@@ -1,0 +1,41 @@
+name: The Next Karate Kid
+series: The Karate Kid
+description: >
+  Mr. Miyagi travels to Boston and becomes the guardian and mentor of Julie
+  Pierce, a teenager still grieving the loss of her parents. As Julie clashes
+  with a militaristic school security group, Miyagi helps her reconnect with the
+  karate training passed down through her family.
+previous: Movies/1989/The Karate Kid Part III
+released: 1994-09-09
+rating: PG
+length: 1h47m
+genres:
+  - martial arts
+  - drama
+  - coming-of-age
+wikipedia: https://en.wikipedia.org/wiki/The_Next_Karate_Kid
+imdb: https://www.imdb.com/title/tt0110657
+tmdb: https://www.themoviedb.org/movie/11231-the-next-karate-kid
+directors: Christopher Cain
+producers: Jerry Weintraub
+screenplay: Mark Lee
+music: Bill Conti
+cinematography: László Kovács
+editors: Ronald Roose
+production:
+  - Columbia Pictures
+  - Jerry Weintraub Productions
+distributors: Columbia Pictures
+characters:
+  - name: Mr. Miyagi
+    actor: Pat Morita
+  - name: Julie Pierce
+    actor: Hilary Swank
+  - name: Colonel Dugan
+    actor: Michael Ironside
+  - name: Louisa Pierce
+    actor: Constance Towers
+  - name: Eric McGowen
+    actor: Chris Conrad
+  - name: Ned Randall
+    actor: Michael Cavalieri

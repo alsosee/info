@@ -1,0 +1,42 @@
+name: The Karate Kid Part III
+series: The Karate Kid
+description: >
+  Daniel LaRusso returns to Los Angeles with Mr. Miyagi and is drawn into a new
+  scheme by John Kreese and Terry Silver. Their plan uses a ruthless tournament
+  champion to pressure Daniel back into competition and strain his bond with
+  Miyagi.
+previous: Movies/1986/The Karate Kid Part II
+released: 1989-06-30
+rating: PG
+length: 1h51m
+genres:
+  - martial arts
+  - drama
+wikipedia: https://en.wikipedia.org/wiki/The_Karate_Kid_Part_III
+imdb: https://www.imdb.com/title/tt0097647
+tmdb: https://www.themoviedb.org/movie/10495-the-karate-kid-part-iii
+directors: John G. Avildsen
+producers: Jerry Weintraub
+screenplay: Robert Mark Kamen
+music: Bill Conti
+cinematography: Steve Yaconelli
+editors:
+  - John G. Avildsen
+  - John Carter
+production:
+  - Columbia Pictures
+  - Weintraub International Group
+distributors: Columbia Pictures
+characters:
+  - name: Daniel LaRusso
+    actor: Ralph Macchio
+  - name: Mr. Miyagi
+    actor: Pat Morita
+  - name: Jessica Andrews
+    actor: Robyn Lively
+  - name: Terry Silver
+    actor: Thomas Ian Griffith
+  - name: John Kreese
+    actor: Martin Kove
+  - name: Mike Barnes
+    actor: Sean Kanan

@@ -1,0 +1,43 @@
+name: The Karate Kid
+series: The Karate Kid
+description: >
+  New Jersey teenager Daniel LaRusso moves to Southern California, where he is
+  targeted by students from a ruthless karate dojo. Apartment handyman Mr.
+  Miyagi teaches Daniel karate through discipline, patience, and everyday work
+  as Daniel prepares for the All-Valley tournament.
+released: 1984-06-22
+rating: PG
+length: 2h7m
+genres:
+  - martial arts
+  - drama
+  - coming-of-age
+wikipedia: https://en.wikipedia.org/wiki/The_Karate_Kid
+imdb: https://www.imdb.com/title/tt0087538
+tmdb: https://www.themoviedb.org/movie/1885-the-karate-kid
+directors: John G. Avildsen
+producers: Jerry Weintraub
+screenplay: Robert Mark Kamen
+music: Bill Conti
+cinematography: James Crabe
+editors:
+  - John G. Avildsen
+  - Walt Mulconery
+  - Bud S. Smith
+production:
+  - Delphi II Productions
+  - Jerry Weintraub Productions
+distributors: Columbia Pictures
+characters:
+  - name: Daniel LaRusso
+    actor: Ralph Macchio
+  - name: Mr. Miyagi
+    actor: Pat Morita
+  - name: Ali Mills
+    actor: Elisabeth Shue
+  - name: Johnny Lawrence
+    actor: William Zabka
+  - name: John Kreese
+    actor: Martin Kove
+  - name: Lucille LaRusso
+    actor: Randee Heller

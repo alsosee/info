@@ -1,0 +1,50 @@
+name: Ip Man 3
+description: >
+  Ip Man defends his son's school from a local crime boss and faces a challenge
+  from rival Wing Chun master Cheung Tin-chi, while his family life grows more
+  fragile under personal strain.
+previous: Movies/2010/Ip Man 2
+released: 2015-12-16
+rating: PG-13
+length: 1h45m
+genres:
+  - action
+  - biography
+  - drama
+  - martial arts
+wikipedia: https://en.wikipedia.org/wiki/Ip_Man_3
+imdb: https://www.imdb.com/title/tt2888046
+tmdb: https://www.themoviedb.org/movie/365222-ip-man-3
+directors: Wilson Yip
+screenplay:
+  - Edmond Wong
+  - Chan Tai-lee
+  - Leung Lai-yin
+producers:
+  - Raymond Wong
+  - Edmond Wong
+  - Alvina Wong
+music: Kenji Kawai
+cinematography: Kenny Tse
+editors: Cheung Ka-fai
+production:
+  - Pegasus Motion Pictures
+  - Mandarin Films
+distributors: Pegasus Motion Pictures
+characters:
+  - name: Ip Man
+    actor: Donnie Yen
+  - name: Cheung Wing-sing
+    actor: Lynn Hung
+  - name: Cheung Tin-chi
+    actor: Max Zhang
+  - name: Frank
+    actor: Mike Tyson
+  - name: Ma King-sang
+    actor: Patrick Tam
+  - name: Miss Wong
+    actor: Karena Ng
+  - name: Fatso
+    actor: Kent Cheng
+  - name: Bruce Lee
+    actor: Danny Chan Kwok-kwan

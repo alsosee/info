@@ -1,0 +1,53 @@
+name: Police Story 2
+description: >
+  Chan Ka-Kui is demoted after the fallout from his previous case, but he is
+  pulled back into danger when vengeful criminals and a bombing extortion plot
+  threaten Hong Kong.
+previous: Movies/1985/Police story
+released: 1988-08-20
+rating: PG-13
+length: 1h41m
+genres:
+  - action
+  - comedy
+  - crime
+  - thriller
+wikipedia: https://en.wikipedia.org/wiki/Police_Story_2
+imdb: https://www.imdb.com/title/tt0095403
+tmdb: https://www.themoviedb.org/movie/10753-police-story-2
+directors: Jackie Chan
+screenplay:
+  - Jackie Chan
+  - Edward Tang
+  - Paul B. Clay
+producers: Leonard Ho
+music:
+  - Michael Lai
+  - Tang Siu-lam
+cinematography:
+  - Cheung Yiu-tsou
+  - Li Yu-tang
+editors: Peter Cheung
+production: Golden Way Films
+distributors: Golden Harvest
+characters:
+  - name: Chan Ka-Kui
+    actor: Jackie Chan
+  - name: May
+    actor: Maggie Cheung
+  - name: Superintendent Raymond Li
+    actor: Lam Kwok-hung
+  - name: Bill Wong
+    actor: Bill Tung
+  - name: Deaf Criminal
+    actor: Benny Lai
+  - name: John Ko
+    actor: Charlie Cho
+  - name: Chu Tao
+    actor: Chor Yuen
+  - name: Tall Pau
+    actor: Ben Lam
+  - name: Kim
+    actor: Mars
+  - name: President Fung
+    actor: Kwan Shan
