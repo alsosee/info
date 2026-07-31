@@ -1,0 +1,32 @@
+name: The X-Files
+series: The X-Files
+description: >
+  FBI agents Fox Mulder and Dana Scully investigate unsolved cases involving
+  paranormal phenomena, alien encounters, conspiracies, and unexplained crimes.
+  Their opposing beliefs turn the X-Files into a test of faith, evidence, and
+  institutional trust.
+released: 1993-09-10
+rating: TV-14
+genres:
+  - crime
+  - drama
+  - mystery
+  - science fiction
+  - thriller
+network: FOX
+wikipedia: https://en.wikipedia.org/wiki/The_X-Files_season_1
+imdb: https://www.imdb.com/title/tt0106179
+tmdb: https://www.themoviedb.org/tv/4087-the-x-files/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_x_files/s01
+creators: Chris Carter
+characters:
+  - name: Fox Mulder
+    actor: David Duchovny
+  - name: Dana Scully
+    actor: Gillian Anderson
+  - name: Walter Skinner
+    actor: Mitch Pileggi
+  - name: Deep Throat
+    actor: Jerry Hardin
+  - name: Cigarette Smoking Man
+    actor: William B. Davis

@@ -1,0 +1,44 @@
+name: Lost
+series: Lost
+description: >
+  Survivors of Oceanic Flight 815 struggle to stay alive after crashing on a
+  mysterious island. As the group organizes itself, flashbacks reveal the lives
+  they carried with them and the island begins to reveal its own secrets.
+released: 2004-09-22
+rating: TV-14
+genres:
+  - adventure
+  - drama
+  - fantasy
+  - mystery
+  - science fiction
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/Lost_season_1
+imdb: https://www.imdb.com/title/tt0411008
+tmdb: https://www.themoviedb.org/tv/4607-lost/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/lost/s01
+creators:
+  - J. J. Abrams
+  - Jeffrey Lieber
+  - Damon Lindelof
+characters:
+  - name: Jack Shephard
+    actor: Matthew Fox
+  - name: Kate Austen
+    actor: Evangeline Lilly
+  - name: John Locke
+    actor: Terry O'Quinn
+  - name: Sayid Jarrah
+    actor: Naveen Andrews
+  - name: James "Sawyer" Ford
+    actor: Josh Holloway
+  - name: Hugo "Hurley" Reyes
+    actor: Jorge Garcia
+  - name: Sun-Hwa Kwon
+    actor: Yunjin Kim
+  - name: Jin-Soo Kwon
+    actor: Daniel Dae Kim
+  - name: Charlie Pace
+    actor: Dominic Monaghan
+  - name: Claire Littleton
+    actor: Emilie de Ravin

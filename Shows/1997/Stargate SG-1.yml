@@ -1,0 +1,31 @@
+name: Stargate SG-1
+series: Stargate SG-1
+description: >
+  After the events of Stargate, a military team uses an ancient alien gateway to
+  travel to other worlds. Their missions uncover new civilizations, dangerous
+  enemies, and a wider conflict centered on the Goa'uld.
+released: 1997-07-27
+rating: TV-14
+genres:
+  - action
+  - adventure
+  - drama
+  - science fiction
+network: Showtime
+wikipedia: https://en.wikipedia.org/wiki/Stargate_SG-1_season_1
+imdb: https://www.imdb.com/title/tt0118480
+tmdb: https://www.themoviedb.org/tv/4629-stargate-sg-1/season/1
+creators:
+  - Jonathan Glassner
+  - Brad Wright
+characters:
+  - name: Jack O'Neill
+    actor: Richard Dean Anderson
+  - name: Daniel Jackson
+    actor: Michael Shanks
+  - name: Samantha Carter
+    actor: Amanda Tapping
+  - name: Teal'c
+    actor: Christopher Judge
+  - name: George Hammond
+    actor: Don S. Davis

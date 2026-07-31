@@ -1,0 +1,38 @@
+name: Twin Peaks
+series: Twin Peaks
+description: >
+  FBI Special Agent Dale Cooper arrives in a small Washington town to investigate
+  the murder of homecoming queen Laura Palmer. The case draws him into the
+  town's secrets, eccentric residents, and increasingly uncanny mysteries.
+released: 1990-04-08
+rating: TV-MA
+genres:
+  - crime
+  - drama
+  - mystery
+  - supernatural
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/Twin_Peaks_season_1
+imdb: https://www.imdb.com/title/tt0098936
+tmdb: https://www.themoviedb.org/tv/1920-twin-peaks/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/twin_peaks/s01
+creators:
+  - Mark Frost
+  - David Lynch
+characters:
+  - name: Dale Cooper
+    actor: Kyle MacLachlan
+  - name: Harry S. Truman
+    actor: Michael Ontkean
+  - name: Audrey Horne
+    actor: Sherilyn Fenn
+  - name: Donna Hayward
+    actor: Lara Flynn Boyle
+  - name: Laura Palmer
+    actor: Sheryl Lee
+  - name: Leland Palmer
+    actor: Ray Wise
+  - name: Shelly Johnson
+    actor: Mädchen Amick
+  - name: Norma Jennings
+    actor: Peggy Lipton

@@ -1,0 +1,35 @@
+name: Battlestar Galactica
+series: Battlestar Galactica
+description: >
+  After a Cylon attack devastates the Twelve Colonies, the surviving human fleet
+  follows the aging battlestar Galactica in search of a new home. The first
+  season turns the pursuit into a political, military, and spiritual crisis.
+released: 2004-10-18
+rating: TV-14
+genres:
+  - drama
+  - military
+  - science fiction
+network: Sky One
+wikipedia: https://en.wikipedia.org/wiki/Battlestar_Galactica_(season_1)
+imdb: https://www.imdb.com/title/tt0407362
+tmdb: https://www.themoviedb.org/tv/1972-battlestar-galactica/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/battlestar_galactica/s01
+creators: Ronald D. Moore
+characters:
+  - name: William Adama
+    actor: Edward James Olmos
+  - name: Laura Roslin
+    actor: Mary McDonnell
+  - name: Kara Thrace
+    actor: Katee Sackhoff
+  - name: Lee Adama
+    actor: Jamie Bamber
+  - name: Gaius Baltar
+    actor: James Callis
+  - name: Number Six
+    actor: Tricia Helfer
+  - name: Sharon Valerii
+    actor: Grace Park
+  - name: Saul Tigh
+    actor: Michael Hogan
