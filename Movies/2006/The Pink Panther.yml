@@ -1,0 +1,46 @@
+name: The Pink Panther
+series: The Pink Panther
+description: >
+  Inspector Jacques Clouseau is assigned to investigate the murder of a famous
+  soccer coach and the theft of the Pink Panther diamond. His appointment is
+  intended to distract the press, but Clouseau pursues the case with relentless
+  confidence and accidental insight.
+previous: Movies/1993/Son of the Pink Panther
+released: 2006-02-10
+rating: PG
+length: 1h33m
+genres:
+  - comedy
+  - mystery
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/The_Pink_Panther_(2006_film)
+imdb: https://www.imdb.com/title/tt0383216
+tmdb: https://www.themoviedb.org/movie/12096-the-pink-panther
+directors: Shawn Levy
+producers: Robert Simonds
+screenplay:
+  - Len Blum
+  - Steve Martin
+music: Christophe Beck
+cinematography: Jonathan Brown
+editors:
+  - George Folsey Jr.
+  - Brad E. Wilhite
+production:
+  - Metro-Goldwyn-Mayer
+  - Columbia Pictures
+  - Robert Simonds Productions
+distributors: Sony Pictures Releasing
+characters:
+  - name: Inspector Jacques Clouseau
+    actor: Steve Martin
+  - name: Ponton
+    actor: Jean Reno
+  - name: Xania
+    actor: Beyoncé Knowles
+  - name: Chief Inspector Dreyfus
+    actor: Kevin Kline
+  - name: Yves Gluant
+    actor: Jason Statham
+  - name: Yuri
+    actor: Henry Czerny

@@ -1,0 +1,43 @@
+name: The Return of the Pink Panther
+series: The Pink Panther
+description: >
+  The Pink Panther diamond is stolen again, and Inspector Clouseau is assigned
+  to recover it despite his superior's doubts. Clouseau pursues the Phantom
+  across Europe while Chief Inspector Dreyfus becomes increasingly unstable over
+  his return.
+previous: Movies/1968/Inspector Clouseau
+released: 1975-05-21
+rating: G
+length: 1h53m
+genres:
+  - comedy
+  - mystery
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/The_Return_of_the_Pink_Panther
+imdb: https://www.imdb.com/title/tt0072081
+tmdb: https://www.themoviedb.org/movie/11843-the-return-of-the-pink-panther
+directors: Blake Edwards
+producers: Blake Edwards
+screenplay:
+  - Frank Waldman
+  - Blake Edwards
+music: Henry Mancini
+cinematography: Geoffrey Unsworth
+editors: Tom Priestley
+production:
+  - ITC Entertainment
+  - Jewel Productions
+distributors: United Artists
+characters:
+  - name: Inspector Jacques Clouseau
+    actor: Peter Sellers
+  - name: Sir Charles Lytton
+    actor: Christopher Plummer
+  - name: Lady Claudine Lytton
+    actor: Catherine Schell
+  - name: Chief Inspector Charles Dreyfus
+    actor: Herbert Lom
+  - name: Cato Fong
+    actor: Burt Kwouk
+  - name: François Chevalier
+    actor: André Maranne

@@ -1,0 +1,43 @@
+name: A Shot in the Dark
+series: The Pink Panther
+description: >
+  Inspector Clouseau investigates a murder at a wealthy household and becomes
+  convinced that the prime suspect, maid Maria Gambrelli, is innocent. His
+  increasingly absurd investigation frustrates Commissioner Dreyfus and turns a
+  country-estate mystery into slapstick chaos.
+previous: Movies/1963/The Pink Panther
+released: 1964-06-23
+rating: Approved
+length: 1h42m
+genres:
+  - comedy
+  - mystery
+  - slapstick
+wikipedia: https://en.wikipedia.org/wiki/A_Shot_in_the_Dark_(1964_film)
+imdb: https://www.imdb.com/title/tt0058586
+tmdb: https://www.themoviedb.org/movie/1594-a-shot-in-the-dark
+directors: Blake Edwards
+producers: Martin Jurow
+screenplay:
+  - Blake Edwards
+  - William Peter Blatty
+music: Henry Mancini
+cinematography: Christopher Challis
+editors: Bert Bates
+production:
+  - Mirisch-Geoffrey Productions
+  - Mirisch Films
+distributors: United Artists
+characters:
+  - name: Inspector Jacques Clouseau
+    actor: Peter Sellers
+  - name: Maria Gambrelli
+    actor: Elke Sommer
+  - name: Benjamin Ballon
+    actor: George Sanders
+  - name: Commissioner Charles Dreyfus
+    actor: Herbert Lom
+  - name: Hercule LaJoy
+    actor: Graham Stark
+  - name: François Chevalier
+    actor: André Maranne

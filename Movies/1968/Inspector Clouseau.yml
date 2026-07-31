@@ -1,0 +1,40 @@
+name: Inspector Clouseau
+series: The Pink Panther
+description: >
+  Inspector Jacques Clouseau is brought to Britain to help Scotland Yard catch a
+  gang behind a series of robberies. His assignment puts him at odds with local
+  officials while criminals exploit his reputation and methods.
+previous: Movies/1964/A Shot in the Dark
+released: 1968-07-19
+rating: G
+length: 1h36m
+genres:
+  - comedy
+  - mystery
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/Inspector_Clouseau_(film)
+imdb: https://www.imdb.com/title/tt0063135
+tmdb: https://www.themoviedb.org/movie/11573-inspector-clouseau
+directors: Bud Yorkin
+producers: Lewis J. Rachmil
+screenplay:
+  - Tom Waldman
+  - Frank Waldman
+music: Ken Thorne
+cinematography: Arthur Ibbetson
+editors: John Victor-Smith
+production:
+  - Mirisch Films
+  - The Mirisch Corporation
+distributors: United Artists
+characters:
+  - name: Inspector Jacques Clouseau
+    actor: Alan Arkin
+  - name: Superintendent Weaver
+    actor: Frank Finlay
+  - name: Lisa Morrel
+    actor: Delia Boccardo
+  - name: Addison Steele
+    actor: Barry Foster
+  - name: Commissioner Sir Charles Braithwaite
+    actor: Patrick Cargill

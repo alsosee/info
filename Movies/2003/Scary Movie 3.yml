@@ -1,0 +1,51 @@
+name: Scary Movie 3
+series: Scary Movie
+description: >
+  Cindy Campbell investigates a cursed videotape and strange crop circles while
+  alien-invasion panic spreads. The film pivots the franchise toward PG-13
+  spoof comedy, targeting supernatural horror, science fiction, and disaster
+  movie conventions.
+previous: Movies/2001/Scary Movie 2
+released: 2003-10-24
+rating: PG-13
+length: 1h24m
+genres:
+  - parody
+  - horror comedy
+  - science fiction comedy
+wikipedia: https://en.wikipedia.org/wiki/Scary_Movie_3
+imdb: https://www.imdb.com/title/tt0306047
+tmdb: https://www.themoviedb.org/movie/4256-scary-movie-3
+directors: David Zucker
+producers: Robert K. Weiss
+screenplay:
+  - Craig Mazin
+  - Pat Proft
+music: James L. Venable
+cinematography: Mark Irwin
+editors:
+  - Malcolm Campbell
+  - Jon Poll
+production:
+  - Dimension Films
+  - Brad Grey Pictures
+distributors: Dimension Films
+characters:
+  - name: Cindy Campbell
+    actor: Anna Faris
+  - name: Tom Logan
+    actor: Charlie Sheen
+  - name: Brenda Meeks
+    actor: Regina Hall
+  - name: George Logan
+    actor: Simon Rex
+  - name: President Baxter Harris
+    actor: Leslie Nielsen
+  - name: Mahalik
+    actor: Anthony Anderson
+  - name: CJ
+    actor: Kevin Hart
+  - name: Cody
+    actor: Drew Mikuska
+  - name: Tabitha
+    actor: Marny Eng

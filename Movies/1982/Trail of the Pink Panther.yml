@@ -1,0 +1,43 @@
+name: Trail of the Pink Panther
+series: The Pink Panther
+description: >
+  After Inspector Clouseau disappears while investigating another theft of the
+  Pink Panther diamond, reporter Marie Jouvet examines his life and career. Her
+  search revisits people from Clouseau's past while authorities try to determine
+  what happened to him.
+previous: Movies/1978/Revenge of the Pink Panther
+released: 1982-12-17
+rating: PG
+length: 1h36m
+genres:
+  - comedy
+  - mystery
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/Trail_of_the_Pink_Panther
+imdb: https://www.imdb.com/title/tt0084814
+tmdb: https://www.themoviedb.org/movie/9699-trail-of-the-pink-panther
+directors: Blake Edwards
+producers: Tony Adams
+screenplay:
+  - Blake Edwards
+  - Frank Waldman
+  - Tom Waldman
+music: Henry Mancini
+cinematography: Dick Bush
+editors: Alan Jones
+distributors:
+  - United Artists
+  - Metro-Goldwyn-Mayer
+characters:
+  - name: Chief Inspector Jacques Clouseau
+    actor: Peter Sellers
+  - name: Sir Charles Lytton
+    actor: David Niven
+  - name: Chief Inspector Charles Dreyfus
+    actor: Herbert Lom
+  - name: Marie Jouvet
+    actor: Joanna Lumley
+  - name: Lady Simone Lytton
+    actor: Capucine
+  - name: Cato Fong
+    actor: Burt Kwouk

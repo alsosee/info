@@ -1,0 +1,41 @@
+name: Revenge of the Pink Panther
+series: The Pink Panther
+description: >
+  A French crime boss tries to prove his power by arranging Inspector Clouseau's
+  murder, but a mistaken identity leaves Clouseau free to investigate while the
+  world believes he is dead. Clouseau uses the confusion to go undercover and
+  trace the conspiracy.
+previous: Movies/1976/The Pink Panther Strikes Again
+released: 1978-07-19
+rating: PG
+length: 1h39m
+genres:
+  - comedy
+  - crime
+  - mystery
+wikipedia: https://en.wikipedia.org/wiki/Revenge_of_the_Pink_Panther
+imdb: https://www.imdb.com/title/tt0078163
+tmdb: https://www.themoviedb.org/movie/6081-revenge-of-the-pink-panther
+directors: Blake Edwards
+producers: Blake Edwards
+screenplay:
+  - Frank Waldman
+  - Ron Clark
+  - Blake Edwards
+music: Henry Mancini
+cinematography: Ernest Day
+editors: Alan Jones
+distributors: United Artists
+characters:
+  - name: Chief Inspector Jacques Clouseau
+    actor: Peter Sellers
+  - name: Chief Inspector Charles Dreyfus
+    actor: Herbert Lom
+  - name: Cato Fong
+    actor: Burt Kwouk
+  - name: Simone Legree
+    actor: Dyan Cannon
+  - name: Philippe Douvier
+    actor: Robert Webber
+  - name: François Chevalier
+    actor: André Maranne

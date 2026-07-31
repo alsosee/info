@@ -1,0 +1,47 @@
+name: The Pink Panther 2
+series: The Pink Panther
+description: >
+  Inspector Clouseau joins an international dream team of detectives after a
+  thief known as the Tornado steals famous artifacts and threatens the Pink
+  Panther diamond. The investigation sends Clouseau across borders while his
+  methods frustrate both French officials and his new colleagues.
+previous: Movies/2006/The Pink Panther
+released: 2009-02-06
+rating: PG
+length: 1h32m
+genres:
+  - comedy
+  - mystery
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/The_Pink_Panther_2
+imdb: https://www.imdb.com/title/tt0838232
+tmdb: https://www.themoviedb.org/movie/15159-the-pink-panther-2
+directors: Harald Zwart
+producers: Robert Simonds
+screenplay:
+  - Scott Neustadter
+  - Michael H. Weber
+  - Steve Martin
+music: Christophe Beck
+cinematography: Denis Crossan
+editors: Julia Wong
+production:
+  - Metro-Goldwyn-Mayer
+  - Columbia Pictures
+  - Robert Simonds Productions
+distributors: Sony Pictures Releasing
+characters:
+  - name: Inspector Jacques Clouseau
+    actor: Steve Martin
+  - name: Ponton
+    actor: Jean Reno
+  - name: Chief Inspector Dreyfus
+    actor: John Cleese
+  - name: Nicole Durant
+    actor: Emily Mortimer
+  - name: Sonia Solandres
+    actor: Aishwarya Rai Bachchan
+  - name: Pepperidge
+    actor: Alfred Molina
+  - name: Vicenzo Brancaleone
+    actor: Andy Garcia

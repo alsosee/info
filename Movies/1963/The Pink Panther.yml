@@ -1,0 +1,38 @@
+name: The Pink Panther
+series: The Pink Panther
+description: >
+  Inspector Jacques Clouseau follows the notorious jewel thief known as the
+  Phantom to a ski resort where Princess Dala's priceless Pink Panther diamond
+  is expected to be targeted. The caper becomes a farce as Clouseau's suspicions
+  collide with romantic entanglements and hidden identities.
+released: 1963-12-18
+rating: Approved
+length: 1h55m
+genres:
+  - comedy
+  - mystery
+  - heist
+wikipedia: https://en.wikipedia.org/wiki/The_Pink_Panther_(1963_film)
+imdb: https://www.imdb.com/title/tt0057413
+tmdb: https://www.themoviedb.org/movie/936-the-pink-panther
+directors: Blake Edwards
+producers: Martin Jurow
+screenplay:
+  - Maurice Richlin
+  - Blake Edwards
+music: Henry Mancini
+cinematography: Philip H. Lathrop
+editors: Ralph E. Winters
+production: Mirisch G-E Productions
+distributors: United Artists
+characters:
+  - name: Sir Charles Lytton
+    actor: David Niven
+  - name: Inspector Jacques Clouseau
+    actor: Peter Sellers
+  - name: George Lytton
+    actor: Robert Wagner
+  - name: Princess Dala
+    actor: Claudia Cardinale
+  - name: Simone Clouseau
+    actor: Capucine

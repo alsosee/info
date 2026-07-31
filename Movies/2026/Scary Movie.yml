@@ -1,0 +1,53 @@
+name: Scary Movie
+series: Scary Movie
+description: >
+  Twenty-six years after the original Woodsboro-style chaos, the returning core
+  group is drawn back into a new wave of killers, monsters, supernatural threats,
+  and horror-franchise satire. The revival reunites original cast members while
+  targeting modern reboots, requels, elevated horror, and legacy sequels.
+previous: Movies/2013/Scary Movie 5
+released: 2026-06-05
+rating: R
+length: 1h36m
+genres:
+  - parody
+  - horror comedy
+  - slapstick
+wikipedia: https://en.wikipedia.org/wiki/Scary_Movie_6
+imdb: https://www.imdb.com/title/tt32093575
+tmdb: https://www.themoviedb.org/movie/1273221-scary-movie
+website: https://www.scarymovie.film
+directors: Michael Tiddes
+producers:
+  - Marlon Wayans
+  - Shawn Wayans
+  - Keenen Ivory Wayans
+  - Craig Wayans
+  - Rick Alvarez
+screenplay:
+  - Marlon Wayans
+  - Shawn Wayans
+  - Keenen Ivory Wayans
+  - Craig Wayans
+  - Rick Alvarez
+production:
+  - Paramount Pictures
+  - Miramax
+  - Original Film
+  - Ugly Baby Productions
+distributors: Paramount Pictures
+characters:
+  - name: Shorty Meeks
+    actor: Marlon Wayans
+  - name: Ray Wilkins
+    actor: Shawn Wayans
+  - name: Cindy Campbell
+    actor: Anna Faris
+  - name: Brenda Meeks
+    actor: Regina Hall
+  - name: Doofy Gilmore
+    actor: Dave Sheridan
+  - name: Hanson
+    actor: Chris Elliott
+  - name: Cheri Oteri
+    actor: Cheri Oteri

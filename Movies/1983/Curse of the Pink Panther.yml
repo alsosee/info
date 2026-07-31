@@ -1,0 +1,52 @@
+name: Curse of the Pink Panther
+series: The Pink Panther
+description: >
+  With Inspector Clouseau missing, the Sûreté uses a computer to select an
+  American detective to find him. Sergeant Clifton Sleigh is chosen and proves
+  nearly as inept as Clouseau while encountering figures connected to the missing
+  inspector's past.
+previous: Movies/1982/Trail of the Pink Panther
+released: 1983-08-12
+rating: PG
+length: 1h49m
+genres:
+  - comedy
+  - mystery
+  - crime
+wikipedia: https://en.wikipedia.org/wiki/Curse_of_the_Pink_Panther
+imdb: https://www.imdb.com/title/tt0085384
+tmdb: https://www.themoviedb.org/movie/36576-curse-of-the-pink-panther
+directors: Blake Edwards
+producers:
+  - Tony Adams
+  - Blake Edwards
+screenplay:
+  - Blake Edwards
+  - Geoffrey Edwards
+music: Henry Mancini
+cinematography: Dick Bush
+editors:
+  - Alan Jones
+  - Ralph E. Winters
+production:
+  - United Artists
+  - Jewel Productions
+  - Titan Productions
+distributors:
+  - United Artists
+  - Metro-Goldwyn-Mayer
+characters:
+  - name: Sergeant Clifton Sleigh
+    actor: Ted Wass
+  - name: Sir Charles Lytton
+    actor: David Niven
+  - name: Chief Inspector Charles Dreyfus
+    actor: Herbert Lom
+  - name: George Lytton
+    actor: Robert Wagner
+  - name: Lady Simone Lytton
+    actor: Capucine
+  - name: Cato Fong
+    actor: Burt Kwouk
+  - name: Chief Inspector Jacques Clouseau
+    actor: Roger Moore

@@ -1,0 +1,41 @@
+name: The Pink Panther Strikes Again
+series: The Pink Panther
+description: >
+  Chief Inspector Dreyfus escapes from a mental institution and builds an
+  elaborate criminal operation devoted to killing Clouseau. As world leaders are
+  threatened with Dreyfus's doomsday weapon, Clouseau bumbles through the
+  investigation and survives repeated assassination attempts.
+previous: Movies/1975/The Return of the Pink Panther
+released: 1976-12-15
+rating: PG
+length: 1h43m
+genres:
+  - comedy
+  - crime
+  - slapstick
+wikipedia: https://en.wikipedia.org/wiki/The_Pink_Panther_Strikes_Again
+imdb: https://www.imdb.com/title/tt0075066
+tmdb: https://www.themoviedb.org/movie/12268-the-pink-panther-strikes-again
+directors: Blake Edwards
+producers: Blake Edwards
+screenplay:
+  - Frank Waldman
+  - Blake Edwards
+music: Henry Mancini
+cinematography: Harry Waxman
+editors: Alan Jones
+production: Amjo Productions
+distributors: United Artists
+characters:
+  - name: Chief Inspector Jacques Clouseau
+    actor: Peter Sellers
+  - name: Chief Inspector Charles Dreyfus
+    actor: Herbert Lom
+  - name: Olga Bariosova
+    actor: Lesley-Anne Down
+  - name: Cato Fong
+    actor: Burt Kwouk
+  - name: Alec Drummond
+    actor: Colin Blakely
+  - name: François Chevalier
+    actor: André Maranne
