@@ -1,0 +1,14 @@
+name: The Big Bang Theory
+description: >
+  Season 1 of The Big Bang Theory premiered on 2007-09-24.
+released: "2007-09-24"
+length: 30m
+genres:
+  - sitcom
+  - comedy
+imdb: https://www.imdb.com/title/tt0898266/episodes/?season=1
+website: "http://www.cbs.com/shows/big_bang_theory"
+network: CBS
+creators:
+  - Chuck Lorre
+  - Bill Prady
