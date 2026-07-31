@@ -1,0 +1,19 @@
+name: Planet Earth
+description: >
+  David Attenborough celebrates the amazing variety of the natural world in
+  this epic documentary series, filmed over four years across 64 different
+  countries.
+released: 2006-03-05
+rating: TV-PG
+genres:
+  - nature
+  - nature documentary
+network: BBC One
+wikipedia: https://en.wikipedia.org/wiki/Planet_Earth_(2006_TV_series)
+imdb: https://www.imdb.com/title/tt0795176
+website: http://www.bbc.co.uk/programmes/b006mywy
+creators:
+  - Alastair Fothergill
+characters:
+  - name: Narrator
+    actor: David Attenborough

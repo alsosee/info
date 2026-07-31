@@ -1,0 +1,28 @@
+name: The Civil War
+description: >
+  Between 1861 and 1865, Americans made war on each other and killed each other
+  in great numbers - if only to become the kind of country that could no longer
+  conceive of how that was possible. What began as a bitter dispute over Union
+  and States' Rights, ended as a struggle over the meaning of freedom in
+  America.
+released: 1990-09-23
+rating: TV-14
+genres:
+  - war
+  - history
+network: PBS
+wikipedia: https://en.wikipedia.org/wiki/The_Civil_War_(miniseries)
+imdb: https://www.imdb.com/title/tt0098769
+creators:
+  - Ken Burns
+characters:
+  - name: Narrator
+    actor: David McCullough
+  - name: Frederick Douglass
+    actor: Morgan Freeman
+  - name: Ulysses S. Grant
+    actor: Jason Robards
+  - name: Walt Whitman
+    actor: Garrison Keillor
+  - name: Abraham Lincoln
+    actor: Sam Waterston

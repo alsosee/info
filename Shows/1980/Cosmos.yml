@@ -1,0 +1,35 @@
+name: Cosmos
+description: >
+  Astronomer Carl Sagan leads us on an engaging guided tour of the various
+  elements and cosmological theories of the universe. He brings us the Cosmos,
+  everything that ever was and ever will be, in an approach that is easily
+  accessible even for those of us that are not science wizards. This 13 part
+  series covers everything from the history of astronomy, the challenges it
+  faced at its creation, how the universe was created and how it all might end.
+  First aired in 1980, updated segments have been added to the series to
+  include recent discoveries and the current theories in astronomy. It won an
+  Emmy and a Peabody Award.
+released: 1980-09-28
+rating: TV-PG
+genres:
+  - mystery
+  - nature
+  - history
+  - science documentary
+network: PBS
+wikipedia: https://en.wikipedia.org/wiki/Cosmos_(TV_series)
+imdb: https://www.imdb.com/title/tt2395695
+website: https://www.nationalgeographic.com/tv/shows/cosmos-possible-worlds
+creators:
+  - Carl Sagan
+  - Ann Druyan
+  - Steven Soter
+characters:
+  - name: Host
+    actor: Neil deGrasse Tyson
+  - name: Host
+    actor: Carl Sagan
+  - name: Malala Yousefzai
+    actor: Nadia Rochelle Pfarr
+  - name: George Tilton
+    actor: Stoney Emshwiller
