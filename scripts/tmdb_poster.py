@@ -22,11 +22,11 @@ from io import BytesIO
 import json
 import os
 import re
+import subprocess
 import sys
 from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urlencode, urlparse
-from urllib.request import urlopen
 
 from PIL import Image
 
@@ -43,6 +43,25 @@ FORMAT_SUFFIXES = {
     "WEBP": ".webp",
 }
 YAML_SUFFIXES = {".yml", ".yaml"}
+USER_AGENT = "alsosee-info-tmdb-poster/1.0"
+
+
+def fetch_url(url: str, *, timeout: int) -> bytes:
+    command = [
+        "curl",
+        "-fsSL",
+        "--max-time",
+        str(timeout),
+        "-H",
+        f"User-Agent: {USER_AGENT}",
+        url,
+    ]
+    try:
+        return subprocess.check_output(command)
+    except subprocess.TimeoutExpired as error:
+        raise URLError("curl timed out") from error
+    except subprocess.CalledProcessError as error:
+        raise URLError(f"curl failed with exit code {error.returncode}") from error
 
 
 def load_dotenv(path: Path) -> None:
@@ -133,19 +152,26 @@ def tmdb_data(path: Path, api_key: str, *, timeout: int) -> dict | None:
         raise ValueError("TMDB_API_KEY is not set")
 
     query = urlencode({"api_key": api_key})
-    with urlopen(f"{TMDB_API}{tmdb_api_path(tmdb_url)}?{query}", timeout=timeout) as response:
-        return json.load(response)
+    return json.loads(fetch_url(f"{TMDB_API}{tmdb_api_path(tmdb_url)}?{query}", timeout=timeout))
 
 
 def validate_tmdb_data(path: Path, data: dict, *, strict: bool) -> None:
     expected_title = read_top_level_scalar(path, "name") or path.stem
+    expected_subtitle = read_top_level_scalar(path, "subtitle")
     actual_title = data.get("title") or data.get("name") or ""
     expected_norm = normalize_title(expected_title)
+    expected_subtitle_norm = normalize_title(expected_subtitle) if expected_subtitle else ""
     actual_norm = normalize_title(actual_title)
+    tmdb_url = read_tmdb_url(path) or ""
+    is_tv_season = "/season/" in urlparse(tmdb_url).path
 
     if expected_norm and actual_norm and expected_norm != actual_norm:
         # Allow files named with a shorter franchise title to use a fuller TMDB title.
-        if expected_norm not in actual_norm and actual_norm not in expected_norm:
+        if is_tv_season and actual_norm.startswith("season "):
+            pass
+        elif expected_subtitle_norm and actual_norm == expected_subtitle_norm:
+            pass
+        elif expected_norm not in actual_norm and actual_norm not in expected_norm:
             raise ValueError(
                 f'TMDB title mismatch: expected "{expected_title}", got "{actual_title}"'
             )
@@ -203,8 +229,7 @@ def remove_existing_images(output_without_suffix: Path, keep: Path) -> None:
 
 
 def save_resized_image(url: str, output_without_suffix: Path, *, timeout: int) -> Path:
-    with urlopen(url, timeout=timeout) as response:
-        image_data = response.read()
+    image_data = fetch_url(url, timeout=timeout)
 
     with Image.open(BytesIO(image_data)) as image:
         image_format = image.format or "JPEG"
