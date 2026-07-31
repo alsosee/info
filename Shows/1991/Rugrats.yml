@@ -1,0 +1,15 @@
+name: Rugrats
+description: >
+  Season 1 of Rugrats premiered on 1991-08-11.
+released: "1991-08-11"
+length: 30m
+genres:
+  - animation
+  - comedy
+  - family
+imdb: https://www.imdb.com/title/tt0101188/episodes/?season=1
+network: Nickelodeon
+creators:
+  - Arlene Klasky
+  - "Gábor Csupó"
+  - Paul Germain

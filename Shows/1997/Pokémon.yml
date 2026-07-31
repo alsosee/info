@@ -1,0 +1,16 @@
+name: "Pokémon"
+description: >
+  Season 1 of Pokémon premiered on 1997-04-01.
+released: "1997-04-01"
+length: 25m
+genres:
+  - anime
+  - adventure
+  - fantasy
+imdb: https://www.imdb.com/title/tt0168366/episodes/?season=1
+website: "https://www.tv-tokyo.co.jp/anime/pocketmonster"
+network: TV Tokyo
+creators:
+  - Satoshi Tajiri
+  - Ken Sugimori
+  - Junichi Masuda

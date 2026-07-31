@@ -1,0 +1,14 @@
+name: Blackadder
+description: >
+  Season 1 of Blackadder premiered on 1983-06-15.
+released: "1983-06-15"
+length: 30m
+genres:
+  - sitcom
+  - historical comedy
+imdb: https://www.imdb.com/title/tt0084988/episodes/?season=1
+website: "http://www.bbc.co.uk/programmes/b006xxw3"
+network: BBC One
+creators:
+  - Richard Curtis
+  - Rowan Atkinson

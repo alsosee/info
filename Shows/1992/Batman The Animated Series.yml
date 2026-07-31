@@ -1,0 +1,14 @@
+name: "Batman: The Animated Series"
+description: >
+  Season 1 of Batman: The Animated Series premiered on 1992-09-05.
+released: "1992-09-05"
+length: 30m
+genres:
+  - animation
+  - superhero
+  - action
+imdb: https://www.imdb.com/title/tt0103359/episodes/?season=1
+network: FOX
+creators:
+  - Bruce Timm
+  - Eric Radomski
