@@ -1,0 +1,13 @@
+name: The A-Team
+description: >
+  Season 1 of The A-Team premiered on 1983-01-23.
+released: "1983-01-23"
+length: 60m
+genres:
+  - action
+  - adventure
+imdb: https://www.imdb.com/title/tt0084967/episodes/?season=1
+network: NBC
+creators:
+  - Frank Lupo
+  - Stephen J. Cannell

@@ -1,0 +1,12 @@
+name: Bonanza
+description: >
+  Season 1 of Bonanza premiered on 1959-09-12.
+released: "1959-09-12"
+length: 60m
+genres:
+  - western
+  - drama
+imdb: https://www.imdb.com/title/tt0052451/episodes/?season=1
+network: NBC
+creators:
+  - David Dortort

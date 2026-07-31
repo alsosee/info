@@ -1,0 +1,12 @@
+name: Kojak
+description: >
+  Season 1 of Kojak premiered on 1973-10-24.
+released: "1973-10-24"
+length: 63m
+genres:
+  - crime
+  - drama
+imdb: https://www.imdb.com/title/tt0069599/episodes/?season=1
+network: CBS
+creators:
+  - Abby Mann

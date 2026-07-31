@@ -1,0 +1,12 @@
+name: Gilligan's Island
+description: >
+  Season 1 of Gilligan's Island premiered on 1964-09-26.
+released: "1964-09-26"
+length: 30m
+genres:
+  - sitcom
+  - comedy
+imdb: https://www.imdb.com/title/tt0057751/episodes/?season=1
+network: CBS
+creators:
+  - Sherwood Schwartz
