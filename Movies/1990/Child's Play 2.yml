@@ -1,0 +1,39 @@
+name: "Child's Play 2"
+series: "Child's Play"
+description: >
+  After Andy Barclay is placed in foster care, the Good Guy doll company
+  rebuilds Chucky to prove its product is safe. Chucky resumes his pursuit of
+  Andy, drawing Andy's foster family and older foster sister Kyle into danger.
+previous: Movies/1988/Child's Play
+released: 1990-11-09
+rating: R
+length: 1h24m
+genres:
+  - slasher
+  - supernatural horror
+wikipedia: https://en.wikipedia.org/wiki/Child%27s_Play_2
+imdb: https://www.imdb.com/title/tt0099253
+tmdb: https://www.themoviedb.org/movie/11186-child-s-play-2
+directors: John Lafia
+producers: David Kirschner
+screenplay: Don Mancini
+music: Graeme Revell
+cinematography: Stefan Czapsky
+editors: Edward Warschilka
+production:
+  - Universal Pictures
+  - David Kirschner Productions
+distributors: Universal Pictures
+characters:
+  - name: Andy Barclay
+    actor: Alex Vincent
+  - name: Kyle
+    actor: Christine Elise
+  - name: Joanne Simpson
+    actor: Jenny Agutter
+  - name: Phil Simpson
+    actor: Gerrit Graham
+  - name: Chucky
+    voice: Brad Dourif
+  - name: Grace Poole
+    actor: Grace Zabriskie

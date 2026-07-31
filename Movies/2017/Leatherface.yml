@@ -1,0 +1,47 @@
+name: Leatherface
+series: The Texas Chainsaw Massacre
+description: >
+  Years before the original massacre, young Jed Sawyer is confined to a mental
+  institution after Sheriff Hartman targets the Sawyer family. A violent escape
+  sends Jed and other patients across Texas while the events shape the man who
+  will become Leatherface.
+previous: Movies/2013/Texas Chainsaw
+released: 2017-09-14
+rating: R
+length: 1h30m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Leatherface_(2017_film)
+imdb: https://www.imdb.com/title/tt2620590
+tmdb: https://www.themoviedb.org/movie/300665-leatherface
+directors:
+  - Alexandre Bustillo
+  - Julien Maury
+producers:
+  - Carl Mazzocone
+  - Les Weldon
+screenplay: Seth M. Sherwood
+music: John Frizzell
+cinematography: Antoine Sanier
+editors:
+  - Sébastien de Sainte Croix
+  - Josh Ethier
+production:
+  - Campbell Grobman Films
+  - LF2 Productions
+  - Lionsgate
+distributors: Lionsgate
+characters:
+  - name: Jackson
+    actor: Sam Strike
+  - name: Lizzy White
+    actor: Vanessa Grasse
+  - name: Verna Sawyer
+    actor: Lili Taylor
+  - name: Hal Hartman
+    actor: Stephen Dorff
+  - name: Bud
+    actor: Sam Coleman
+  - name: Clarice
+    actor: Jessica Madsen

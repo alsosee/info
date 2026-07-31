@@ -1,0 +1,41 @@
+name: "Child's Play 3"
+series: "Child's Play"
+description: >
+  Years after the second film, teenage Andy Barclay is sent to a military
+  academy as the Good Guy doll line is relaunched. Chucky returns in a new doll
+  body and targets a younger cadet while continuing his vendetta against Andy.
+previous: Movies/1990/Child's Play 2
+released: 1991-08-30
+rating: R
+length: 1h30m
+genres:
+  - slasher
+  - supernatural horror
+wikipedia: https://en.wikipedia.org/wiki/Child%27s_Play_3
+imdb: https://www.imdb.com/title/tt0103956
+tmdb: https://www.themoviedb.org/movie/11187-child-s-play-3
+directors: Jack Bender
+producers: Robert Latham Brown
+screenplay: Don Mancini
+music:
+  - Cory Lerios
+  - John D'Andrea
+cinematography: John R. Leonetti
+editors: Edward Warschilka
+production:
+  - Universal Pictures
+  - David Kirschner Productions
+distributors: Universal Pictures
+characters:
+  - name: Andy Barclay
+    actor: Justin Whalin
+  - name: Kristin De Silva
+    actor: Perrey Reeves
+  - name: Tyler
+    actor: Jeremy Sylvers
+  - name: Chucky
+    voice: Brad Dourif
+  - name: Harold Aubrey Whitehurst
+    actor: Dean Jacobson
+  - name: Lieutenant Colonel Cochrane
+    actor: Dakin Matthews

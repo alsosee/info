@@ -1,0 +1,43 @@
+name: Cult of Chucky
+series: "Child's Play"
+description: >
+  Nica Pierce is confined to a psychiatric hospital where Chucky reappears in
+  multiple forms. Andy Barclay investigates from outside the institution while
+  Tiffany helps Chucky extend his reach.
+previous: Movies/2013/Curse of Chucky
+released: 2017-10-03
+rating: R
+length: 1h31m
+genres:
+  - slasher
+  - supernatural horror
+wikipedia: https://en.wikipedia.org/wiki/Cult_of_Chucky
+imdb: https://www.imdb.com/title/tt3280262
+tmdb: https://www.themoviedb.org/movie/393345-cult-of-chucky
+directors: Don Mancini
+producers:
+  - Ogden Gavanski
+  - David Kirschner
+screenplay: Don Mancini
+music: Joseph LoDuca
+cinematography: Michael Marshall
+editors: Randy Bricker
+production:
+  - Universal 1440 Entertainment
+  - David Kirschner Productions
+distributors: Universal Pictures Home Entertainment
+characters:
+  - name: Nica Pierce
+    actor: Fiona Dourif
+  - name: Andy Barclay
+    actor: Alex Vincent
+  - name: Chucky
+    voice: Brad Dourif
+  - name: Tiffany Valentine
+    actor: Jennifer Tilly
+  - name: Dr. Foley
+    actor: Michael Therriault
+  - name: Madeleine
+    actor: Elisabeth Rosen
+  - name: Malcolm
+    actor: Adam Hurtig

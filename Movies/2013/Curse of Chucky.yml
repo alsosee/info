@@ -1,0 +1,41 @@
+name: Curse of Chucky
+series: "Child's Play"
+description: >
+  Nica Pierce receives a mysterious Good Guy doll shortly before violence
+  erupts during a family gathering at her isolated home. As Chucky reveals his
+  connection to Nica's family, the series returns to a more direct slasher tone.
+previous: Movies/2004/Seed of Chucky
+released: 2013-09-24
+rating: R
+length: 1h37m
+genres:
+  - slasher
+  - supernatural horror
+wikipedia: https://en.wikipedia.org/wiki/Curse_of_Chucky
+imdb: https://www.imdb.com/title/tt2230358
+tmdb: https://www.themoviedb.org/movie/167032-curse-of-chucky
+directors: Don Mancini
+producers: David Kirschner
+screenplay: Don Mancini
+music: Joseph LoDuca
+cinematography: Michael Marshall
+editors: Randy Bricker
+production:
+  - Universal 1440 Entertainment
+  - David Kirschner Productions
+distributors: Universal Studios Home Entertainment
+characters:
+  - name: Nica Pierce
+    actor: Fiona Dourif
+  - name: Chucky
+    voice: Brad Dourif
+  - name: Sarah Pierce
+    actor: Chantal Quesnelle
+  - name: Ian
+    actor: Brennan Elliott
+  - name: Barb Pierce
+    actor: Danielle Bisutti
+  - name: Jill
+    actor: Maitland McConnell
+  - name: Alice
+    actor: Summer H. Howell

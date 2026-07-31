@@ -1,0 +1,39 @@
+name: "Hellraiser: Deader"
+series: Hellraiser
+description: >
+  Investigative journalist Amy Klein travels to Bucharest after finding a tape
+  connected to a cult that claims to resurrect the dead. Her search leads to the
+  Lament Configuration, Pinhead, and a power struggle over who can command the
+  Cenobites' realm.
+previous: Movies/2002/Hellraiser Hellseeker
+released: 2005-06-07
+rating: R
+length: 1h28m
+genres:
+  - supernatural horror
+  - psychological horror
+wikipedia: https://en.wikipedia.org/wiki/Hellraiser:_Deader
+imdb: https://www.imdb.com/title/tt0337636
+tmdb: https://www.themoviedb.org/movie/17455-hellraiser-deader
+directors: Rick Bota
+screenplay:
+  - Neal Marshall Stevens
+  - Tim Day
+music: Henning Lohner
+cinematography: Vivi Dragan Vasile
+editors: Anthony Adler
+production:
+  - Dimension Films
+  - Castel Film Romania
+distributors: Dimension Home Video
+characters:
+  - name: Amy Klein
+    actor: Kari Wuhrer
+  - name: Winter
+    actor: Paul Rhys
+  - name: Pinhead
+    actor: Doug Bradley
+  - name: Marla
+    actor: Georgina Rylance
+  - name: Joey
+    actor: Marc Warren

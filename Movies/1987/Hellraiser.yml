@@ -1,0 +1,38 @@
+name: Hellraiser
+series: Hellraiser
+description: >
+  After Frank Cotton escapes the Cenobites in a mutilated form, Julia Cotton
+  begins killing to restore his body. Kirsty Cotton discovers the puzzle box that
+  opened the way to the Cenobites and becomes trapped between family betrayal
+  and forces from another dimension.
+based_on:
+  - Books/1986/The Hellbound Heart
+released: 1987-09-10
+rating: R
+length: 1h34m
+genres:
+  - supernatural horror
+  - body horror
+wikipedia: https://en.wikipedia.org/wiki/Hellraiser
+imdb: https://www.imdb.com/title/tt0093177
+tmdb: https://www.themoviedb.org/movie/9003-hellraiser
+directors: Clive Barker
+screenplay: Clive Barker
+music: Christopher Young
+cinematography: Robin Vidgeon
+editors: Richard Marden
+production: Film Futures
+distributors: New World Pictures
+characters:
+  - name: Kirsty Cotton
+    actor: Ashley Laurence
+  - name: Julia Cotton
+    actor: Clare Higgins
+  - name: Larry Cotton
+    actor: Andrew Robinson
+  - name: Frank Cotton
+    actor: Sean Chapman
+  - name: Lead Cenobite
+    actor: Doug Bradley
+  - name: Chattering Cenobite
+    actor: Nicholas Vince

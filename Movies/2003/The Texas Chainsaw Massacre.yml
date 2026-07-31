@@ -1,0 +1,44 @@
+name: The Texas Chainsaw Massacre
+series: The Texas Chainsaw Massacre
+description: >
+  Five friends traveling through Texas pick up a traumatized hitchhiker and are
+  drawn toward the Hewitt family. The remake reimagines Leatherface as Thomas
+  Hewitt and follows Erin as she tries to escape the family's isolated property.
+previous: Movies/1995/Texas Chainsaw Massacre The Next Generation
+released: 2003-10-17
+rating: R
+length: 1h38m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre_(2003_film)
+imdb: https://www.imdb.com/title/tt0324216
+tmdb: https://www.themoviedb.org/movie/9373-the-texas-chainsaw-massacre
+directors: Marcus Nispel
+producers:
+  - Michael Bay
+  - Mike Fleiss
+screenplay: Scott Kosar
+music: Steve Jablonsky
+cinematography: Daniel Pearl
+editors: Glen Scantlebury
+production:
+  - New Line Cinema
+  - Platinum Dunes
+  - Radar Pictures
+distributors: New Line Cinema
+characters:
+  - name: Erin
+    actor: Jessica Biel
+  - name: Morgan
+    actor: Jonathan Tucker
+  - name: Thomas Hewitt
+    actor: Andrew Bryniarski
+  - name: Sheriff Hoyt
+    actor: R. Lee Ermey
+  - name: Pepper
+    actor: Erica Leerhsen
+  - name: Andy
+    actor: Mike Vogel
+  - name: Kemper
+    actor: Eric Balfour

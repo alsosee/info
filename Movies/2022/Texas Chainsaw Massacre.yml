@@ -1,0 +1,46 @@
+name: Texas Chainsaw Massacre
+series: The Texas Chainsaw Massacre
+description: >
+  A group of entrepreneurs arrive in the abandoned town of Harlow, Texas, hoping
+  to remake it for a new generation. Their plans disturb Leatherface, while
+  survivor Sally Hardesty returns seeking revenge for the original massacre.
+previous: Movies/2017/Leatherface
+released: 2022-02-18
+rating: R
+length: 1h21m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre_(2022_film)
+imdb: https://www.imdb.com/title/tt11755740
+tmdb: https://www.themoviedb.org/movie/632727-texas-chainsaw-massacre
+netflix: https://www.netflix.com/title/81483977
+directors: David Blue Garcia
+producers:
+  - Fede Álvarez
+  - Pat Cassidy
+  - Herbert W. Gains
+  - Ian Henkel
+  - Kim Henkel
+screenplay: Chris Thomas Devlin
+music: Colin Stetson
+cinematography: Ricardo Diaz
+editors: Christopher S. Capp
+production:
+  - Legendary Pictures
+  - Bad Hombre
+  - Exurbia Films
+distributors: Netflix
+characters:
+  - name: Melody
+    actor: Sarah Yarkin
+  - name: Lila
+    actor: Elsie Fisher
+  - name: Leatherface
+    actor: Mark Burnham
+  - name: Dante Spivey
+    actor: Jacob Latimore
+  - name: Richter
+    actor: Moe Dunford
+  - name: Sally Hardesty
+    actor: Olwen Fouéré

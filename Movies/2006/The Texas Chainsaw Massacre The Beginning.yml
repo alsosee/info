@@ -1,0 +1,45 @@
+name: "The Texas Chainsaw Massacre: The Beginning"
+series: The Texas Chainsaw Massacre
+description: >
+  Two brothers and their girlfriends cross paths with the Hewitt family during a
+  road trip before the events of the 2003 film. The prequel traces Thomas
+  Hewitt's transformation into Leatherface and Sheriff Hoyt's rise inside the
+  family.
+previous: Movies/2003/The Texas Chainsaw Massacre
+released: 2006-10-06
+rating: R
+length: 1h31m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/The_Texas_Chainsaw_Massacre:_The_Beginning
+imdb: https://www.imdb.com/title/tt0420294
+tmdb: https://www.themoviedb.org/movie/10781-the-texas-chainsaw-massacre-the-beginning
+directors: Jonathan Liebesman
+producers:
+  - Michael Bay
+  - Mike Fleiss
+screenplay: Sheldon Turner
+music: Steve Jablonsky
+cinematography: Lukas Ettlin
+editors:
+  - Jonathan Chibnall
+  - Jim May
+production:
+  - New Line Cinema
+  - Platinum Dunes
+  - Next Entertainment
+distributors: New Line Cinema
+characters:
+  - name: Chrissie
+    actor: Jordana Brewster
+  - name: Eric
+    actor: Matt Bomer
+  - name: Bailey
+    actor: Diora Baird
+  - name: Dean
+    actor: Taylor Handley
+  - name: Thomas Hewitt
+    actor: Andrew Bryniarski
+  - name: Sheriff Hoyt
+    actor: R. Lee Ermey

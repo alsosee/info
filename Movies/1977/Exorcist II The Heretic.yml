@@ -1,0 +1,39 @@
+name: "Exorcist II: The Heretic"
+series: The Exorcist
+description: >
+  Years after her possession, Regan MacNeil undergoes psychiatric treatment
+  while Father Lamont investigates Father Merrin's death. The inquiry connects
+  Regan's past to visions of Africa, a locust demon, and Merrin's earlier
+  exorcism work.
+previous: Movies/1973/The Exorcist
+released: 1977-06-17
+rating: R
+length: 1h57m
+genres:
+  - supernatural horror
+wikipedia: https://en.wikipedia.org/wiki/Exorcist_II:_The_Heretic
+imdb: https://www.imdb.com/title/tt0076009
+tmdb: https://www.themoviedb.org/movie/11586-exorcist-ii-the-heretic
+directors: John Boorman
+producers:
+  - John Boorman
+  - Richard Lederer
+screenplay: William Goodhart
+music: Ennio Morricone
+cinematography: William A. Fraker
+editors: Tom Priestley
+production: Warner Bros.
+distributors: Warner Bros.
+characters:
+  - name: Father Philip Lamont
+    actor: Richard Burton
+  - name: Regan MacNeil
+    actor: Linda Blair
+  - name: Dr. Gene Tuskin
+    actor: Louise Fletcher
+  - name: Father Lankester Merrin
+    actor: Max von Sydow
+  - name: Kokumo
+    actor: James Earl Jones
+  - name: Sharon Spencer
+    actor: Kitty Winn

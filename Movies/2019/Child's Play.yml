@@ -1,0 +1,43 @@
+name: "Child's Play"
+series: "Child's Play"
+description: >
+  In a remake continuity, Karen Barclay gives her son Andy a Buddi doll powered
+  by connected smart-home technology. After its safety limits are disabled, the
+  doll becomes violently attached to Andy and begins targeting anyone it sees as
+  a threat.
+previous: Movies/2017/Cult of Chucky
+released: 2019-06-21
+rating: R
+length: 1h30m
+genres:
+  - slasher
+  - science fiction horror
+wikipedia: https://en.wikipedia.org/wiki/Child%27s_Play_(2019_film)
+imdb: https://www.imdb.com/title/tt8663516
+tmdb: https://www.themoviedb.org/movie/533642-child-s-play
+directors: Lars Klevberg
+producers:
+  - David Katzenberg
+  - Seth Grahame-Smith
+screenplay: Tyler Burton Smith
+music: Bear McCreary
+cinematography: Brendan Uegama
+editors: Tom Elkins
+production:
+  - Orion Pictures
+  - Bron Creative
+  - KatzSmith Productions
+distributors: United Artists Releasing
+characters:
+  - name: Andy Barclay
+    actor: Gabriel Bateman
+  - name: Karen Barclay
+    actor: Aubrey Plaza
+  - name: Chucky
+    voice: Mark Hamill
+  - name: Detective Mike Norris
+    actor: Brian Tyree Henry
+  - name: Falyn
+    actor: Beatrice Kitsos
+  - name: Pugg
+    actor: Ty Consiglio

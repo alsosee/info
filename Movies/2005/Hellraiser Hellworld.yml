@@ -1,0 +1,40 @@
+name: "Hellraiser: Hellworld"
+series: Hellraiser
+description: >
+  A group of friends attend a Hellworld-themed party after becoming obsessed
+  with an online game based on the Lament Configuration. The event turns into a
+  trap where grief, revenge, and Cenobite imagery blur together.
+previous: Movies/2005/Hellraiser Deader
+released: 2005-09-06
+rating: R
+length: 1h31m
+genres:
+  - supernatural horror
+  - slasher
+wikipedia: https://en.wikipedia.org/wiki/Hellraiser:_Hellworld
+imdb: https://www.imdb.com/title/tt0354623
+tmdb: https://www.themoviedb.org/movie/12699-hellraiser-hellworld
+directors: Rick Bota
+screenplay: Carl V. Dupré
+music: Lars Anderson
+cinematography: Gabriel Kosuth
+editors: Anthony Adler
+production:
+  - Dimension Films
+  - Castel Film Romania
+distributors: Dimension Home Video
+characters:
+  - name: Chelsea
+    actor: Katheryn Winnick
+  - name: Jake
+    actor: Christopher Jacot
+  - name: Mike
+    actor: Henry Cavill
+  - name: Allison
+    actor: Anna Tolputt
+  - name: Derrick
+    actor: Khary Payton
+  - name: The Host
+    actor: Lance Henriksen
+  - name: Pinhead
+    actor: Doug Bradley

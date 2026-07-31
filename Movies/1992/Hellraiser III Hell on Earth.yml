@@ -1,0 +1,39 @@
+name: "Hellraiser III: Hell on Earth"
+series: Hellraiser
+description: >
+  Reporter Joey Summerskill investigates a series of supernatural deaths tied to
+  a nightclub owner and an occult sculpture. Pinhead breaks free from confinement
+  and begins creating new Cenobites as Joey searches for a way to restore his
+  divided human soul.
+previous: Movies/1988/Hellbound Hellraiser II
+released: 1992-09-11
+rating: R
+length: 1h33m
+genres:
+  - supernatural horror
+  - body horror
+wikipedia: https://en.wikipedia.org/wiki/Hellraiser_III:_Hell_on_Earth
+imdb: https://www.imdb.com/title/tt0104409
+tmdb: https://www.themoviedb.org/movie/11569-hellraiser-iii-hell-on-earth
+directors: Anthony Hickox
+screenplay: Peter Atkins
+music: Randy Miller
+cinematography: Gerry Lively
+editors: Christopher Cibelli
+production:
+  - Fifth Avenue Entertainment
+  - Trans Atlantic Entertainment
+distributors:
+  - Paramount Pictures
+  - Miramax Films
+characters:
+  - name: Joey Summerskill
+    actor: Terry Farrell
+  - name: Pinhead
+    actor: Doug Bradley
+  - name: Elliot Spencer
+    actor: Doug Bradley
+  - name: J. P. Monroe
+    actor: Kevin Bernhardt
+  - name: Terri
+    actor: Paula Marshall

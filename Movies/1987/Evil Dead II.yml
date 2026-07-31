@@ -1,0 +1,42 @@
+name: Evil Dead II
+series: Evil Dead
+description: >
+  Ash Williams returns to a remote cabin and again faces demonic forces released
+  by passages from the Book of the Dead. The sequel reworks the cabin setup into
+  a manic blend of supernatural horror, slapstick, and splatter comedy.
+previous: Movies/1981/The Evil Dead
+released: 1987-03-13
+rating: R
+length: 1h24m
+genres:
+  - supernatural horror
+  - horror comedy
+  - splatter
+wikipedia: https://en.wikipedia.org/wiki/Evil_Dead_II
+imdb: https://www.imdb.com/title/tt0092991
+tmdb: https://www.themoviedb.org/movie/765-evil-dead-ii
+directors: Sam Raimi
+producers: Robert Tapert
+screenplay:
+  - Sam Raimi
+  - Scott Spiegel
+music: Joseph LoDuca
+cinematography: Peter Deming
+editors: Kaye Davis
+production:
+  - Renaissance Pictures
+  - Rosebud Releasing Corporation
+distributors: Rosebud Releasing Corporation
+characters:
+  - name: Ashley Williams
+    actor: Bruce Campbell
+  - name: Annie Knowby
+    actor: Sarah Berry
+  - name: Jake
+    actor: Dan Hicks
+  - name: Bobby Joe
+    actor: Kassie Wesley DePaiva
+  - name: Linda
+    actor: Denise Bixler
+  - name: Ed Getley
+    actor: Richard Domeier

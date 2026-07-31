@@ -1,0 +1,45 @@
+name: Seed of Chucky
+series: "Child's Play"
+description: >
+  Chucky and Tiffany are revived in Hollywood while a film about their murders
+  is being made. Their child Glen tries to reunite with them, only to be pulled
+  into the killer dolls' plans for new human bodies.
+previous: Movies/1998/Bride of Chucky
+released: 2004-11-12
+rating: R
+length: 1h27m
+genres:
+  - slasher
+  - horror comedy
+  - supernatural horror
+wikipedia: https://en.wikipedia.org/wiki/Seed_of_Chucky
+imdb: https://www.imdb.com/title/tt0387575
+tmdb: https://www.themoviedb.org/movie/11249-seed-of-chucky
+directors: Don Mancini
+producers:
+  - David Kirschner
+  - Corey Sienega
+screenplay: Don Mancini
+music: Pino Donaggio
+cinematography: Vernon Layton
+editors: Chris Dickens
+production:
+  - Rogue Pictures
+  - David Kirschner Productions
+  - Castel Film Romania
+distributors: Rogue Pictures
+characters:
+  - name: Chucky
+    voice: Brad Dourif
+  - name: Tiffany Valentine
+    actor: Jennifer Tilly
+  - name: Glen
+    voice: Billy Boyd
+  - name: Glenda
+    voice: Billy Boyd
+  - name: Jennifer Tilly
+    actor: Jennifer Tilly
+  - name: Pete Peters
+    actor: John Waters
+  - name: Redman
+    actor: Redman

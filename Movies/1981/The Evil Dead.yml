@@ -1,0 +1,37 @@
+name: The Evil Dead
+series: Evil Dead
+description: >
+  Five college students travel to an isolated cabin and discover a tape
+  recording tied to an ancient book. After the recording unleashes demonic
+  forces in the woods, Ash Williams and his friends are trapped in a night of
+  possession and escalating violence.
+released: 1981-10-15
+rating: NC-17
+length: 1h25m
+genres:
+  - supernatural horror
+  - splatter
+wikipedia: https://en.wikipedia.org/wiki/The_Evil_Dead
+imdb: https://www.imdb.com/title/tt0083907
+tmdb: https://www.themoviedb.org/movie/764-the-evil-dead
+directors: Sam Raimi
+producers: Robert Tapert
+screenplay: Sam Raimi
+music: Joseph LoDuca
+cinematography: Tim Philo
+editors:
+  - Edna Ruth Paul
+  - Joel Coen
+production: Renaissance Pictures
+distributors: New Line Cinema
+characters:
+  - name: Ashley Williams
+    actor: Bruce Campbell
+  - name: Cheryl Williams
+    actor: Ellen Sandweiss
+  - name: Scotty
+    actor: Richard DeManincor
+  - name: Linda
+    actor: Betsy Baker
+  - name: Shelly
+    actor: Theresa Tilly

@@ -1,0 +1,40 @@
+name: The Exorcist III
+series: The Exorcist
+description: >
+  Lieutenant Kinderman investigates murders in Georgetown that resemble the work
+  of the executed Gemini Killer. His search leads to a psychiatric ward, where a
+  patient connected to Father Karras forces Kinderman to confront a supernatural
+  continuation of the original possession.
+previous: Movies/1977/Exorcist II The Heretic
+released: 1990-08-17
+rating: R
+length: 1h50m
+genres:
+  - supernatural horror
+  - psychological horror
+wikipedia: https://en.wikipedia.org/wiki/The_Exorcist_III
+imdb: https://www.imdb.com/title/tt0099528
+tmdb: https://www.themoviedb.org/movie/11587-the-exorcist-iii
+directors: William Peter Blatty
+producers: Carter DeHaven
+screenplay: William Peter Blatty
+music: Barry De Vorzon
+cinematography: Gerry Fisher
+editors:
+  - Peter Lee-Thompson
+  - Todd Ramsay
+production: Morgan Creek Productions
+distributors: 20th Century Fox
+characters:
+  - name: Lieutenant William F. Kinderman
+    actor: George C. Scott
+  - name: Father Joseph Dyer
+    actor: Ed Flanders
+  - name: The Gemini Killer
+    actor: Brad Dourif
+  - name: Patient X
+    actor: Jason Miller
+  - name: Father Paul Morning
+    actor: Nicol Williamson
+  - name: Dr. Temple
+    actor: Scott Wilson

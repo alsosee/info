@@ -1,0 +1,41 @@
+name: "Texas Chainsaw Massacre: The Next Generation"
+series: The Texas Chainsaw Massacre
+description: >
+  Four teenagers leaving prom are stranded in rural Texas and fall into the
+  hands of Leatherface's family. Jenny tries to survive as the family's violence
+  intersects with an increasingly strange conspiracy around them.
+previous: Movies/1990/Leatherface The Texas Chainsaw Massacre III
+released: 1995-09-22
+rating: R
+length: 1h27m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Texas_Chainsaw_Massacre:_The_Next_Generation
+imdb: https://www.imdb.com/title/tt0110978
+tmdb: https://www.themoviedb.org/movie/16780-the-return-of-the-texas-chainsaw-massacre
+directors: Kim Henkel
+producers:
+  - Kim Henkel
+  - Robert Kuhn
+screenplay: Kim Henkel
+music: Wayne Bell
+cinematography: Levie Isaacks
+editors: Sandra Adair
+production:
+  - Ultra Muchos Productions
+  - River City Films
+distributors:
+  - Columbia Pictures
+  - Cinepix Film Properties
+characters:
+  - name: Jenny
+    actor: Renée Zellweger
+  - name: Vilmer
+    actor: Matthew McConaughey
+  - name: Leatherface
+    actor: Robert Jacks
+  - name: Darla
+    actor: Tonie Perensky
+  - name: W. E.
+    actor: Joe Stevens

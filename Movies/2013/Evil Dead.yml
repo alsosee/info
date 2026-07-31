@@ -1,0 +1,47 @@
+name: Evil Dead
+series: Evil Dead
+description: >
+  Five friends gather at a remote cabin to help Mia through withdrawal and find
+  a hidden Book of the Dead in the cellar. Their reading awakens a violent
+  demonic presence that turns the cabin retreat into a brutal fight for survival.
+previous: Movies/1992/Army of Darkness
+released: 2013-04-05
+rating: R
+length: 1h31m
+genres:
+  - supernatural horror
+  - splatter
+wikipedia: https://en.wikipedia.org/wiki/Evil_Dead_(2013_film)
+imdb: https://www.imdb.com/title/tt1288558
+tmdb: https://www.themoviedb.org/movie/109428-evil-dead
+directors: Fede Álvarez
+producers:
+  - Bruce Campbell
+  - Robert Tapert
+  - Sam Raimi
+screenplay:
+  - Fede Álvarez
+  - Rodo Sayagues
+music: Roque Baños
+cinematography: Aaron Morton
+editors:
+  - Bryan Shaw
+  - Mads Larsen
+production:
+  - TriStar Pictures
+  - FilmDistrict
+  - Ghost House Pictures
+distributors: Sony Pictures Releasing
+characters:
+  - name: Mia Allen
+    actor: Jane Levy
+  - name: David Allen
+    actor: Shiloh Fernandez
+  - name: Eric
+    actor: Lou Taylor Pucci
+  - name: Olivia
+    actor: Jessica Lucas
+  - name: Natalie
+    actor: Elizabeth Blackmore
+  - name: Demon
+    voice: Rupert Degas

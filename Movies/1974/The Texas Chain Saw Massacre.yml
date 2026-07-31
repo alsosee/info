@@ -1,0 +1,46 @@
+name: The Texas Chain Saw Massacre
+series: The Texas Chainsaw Massacre
+description: >
+  A group of friends traveling through rural Texas encounter a family of killers
+  after visiting an old homestead. The film follows Sally Hardesty and her
+  companions as they are terrorized by Leatherface and his cannibalistic family.
+released: 1974-10-11
+rating: R
+length: 1h23m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre
+imdb: https://www.imdb.com/title/tt0072271
+tmdb: https://www.themoviedb.org/movie/30497-the-texas-chain-saw-massacre
+directors: Tobe Hooper
+producers: Tobe Hooper
+screenplay:
+  - Kim Henkel
+  - Tobe Hooper
+music:
+  - Wayne Bell
+  - Tobe Hooper
+cinematography: Daniel Pearl
+editors:
+  - J. Larry Carroll
+  - Sallye Richardson
+production: Vortex
+distributors: Bryanston Distributing Company
+characters:
+  - name: Sally Hardesty
+    actor: Marilyn Burns
+  - name: Franklin Hardesty
+    actor: Paul A. Partain
+  - name: Leatherface
+    actor: Gunnar Hansen
+  - name: The Hitchhiker
+    actor: Edwin Neal
+  - name: The Cook
+    actor: Jim Siedow
+  - name: Jerry
+    actor: Allen Danziger
+  - name: Kirk
+    actor: William Vail
+  - name: Pam
+    actor: Teri McMinn

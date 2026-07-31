@@ -1,0 +1,38 @@
+name: "Hellbound: Hellraiser II"
+series: Hellraiser
+description: >
+  Kirsty Cotton is taken to a psychiatric hospital after surviving the events at
+  her father's house. Dr. Channard uses Julia and the puzzle box to enter the
+  Cenobites' labyrinth, drawing Kirsty deeper into their world.
+previous: Movies/1987/Hellraiser
+released: 1988-12-23
+rating: R
+length: 1h39m
+genres:
+  - supernatural horror
+  - body horror
+wikipedia: https://en.wikipedia.org/wiki/Hellbound:_Hellraiser_II
+imdb: https://www.imdb.com/title/tt0095294
+tmdb: https://www.themoviedb.org/movie/9064-hellbound-hellraiser-ii
+directors: Tony Randel
+screenplay: Peter Atkins
+music: Christopher Young
+cinematography: Robin Vidgeon
+editors:
+  - Richard Marden
+  - Tony Randel
+production: Film Futures
+distributors: New World Pictures
+characters:
+  - name: Kirsty Cotton
+    actor: Ashley Laurence
+  - name: Julia Cotton
+    actor: Clare Higgins
+  - name: Dr. Philip Channard
+    actor: Kenneth Cranham
+  - name: Tiffany
+    actor: Imogen Boorman
+  - name: Pinhead
+    actor: Doug Bradley
+  - name: Chatterer
+    actor: Nicholas Vince

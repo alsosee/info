@@ -1,0 +1,44 @@
+name: Texas Chainsaw
+series: The Texas Chainsaw Massacre
+description: >
+  Heather Miller travels to Texas after learning she has inherited a family
+  estate connected to the Sawyer clan. The film positions itself as a direct
+  continuation of the 1974 original and brings Heather into conflict with local
+  grudges around Leatherface.
+previous: Movies/2006/The Texas Chainsaw Massacre The Beginning
+released: 2013-01-04
+rating: R
+length: 1h32m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Texas_Chainsaw_3D
+imdb: https://www.imdb.com/title/tt1572315
+tmdb: https://www.themoviedb.org/movie/76617-texas-chainsaw-3d
+directors: John Luessenhop
+producers: Carl Mazzocone
+screenplay:
+  - Adam Marcus
+  - Debra Sullivan
+  - Kirsten Elms
+music: John Frizzell
+cinematography: Anastas N. Michos
+editors: Randy Bricker
+production:
+  - Lionsgate
+  - Millennium Films
+  - Main Line Pictures
+distributors: Lionsgate
+characters:
+  - name: Heather Miller
+    actor: Alexandra Daddario
+  - name: Leatherface
+    actor: Dan Yeager
+  - name: Ryan
+    actor: Trey Songz
+  - name: Nikki
+    actor: Tania Raymonde
+  - name: Carl Hartman
+    actor: Scott Eastwood
+  - name: Burt Hartman
+    actor: Paul Rae

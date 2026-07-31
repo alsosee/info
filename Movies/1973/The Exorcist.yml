@@ -1,0 +1,39 @@
+name: The Exorcist
+series: The Exorcist
+description: >
+  Actress Chris MacNeil seeks medical and religious help after her daughter
+  Regan begins showing signs of violent possession. Father Damien Karras and
+  Father Merrin confront the demon in a case that tests faith, grief, and
+  endurance.
+released: 1973-12-26
+rating: R
+length: 2h2m
+genres:
+  - supernatural horror
+  - psychological horror
+wikipedia: https://en.wikipedia.org/wiki/The_Exorcist
+imdb: https://www.imdb.com/title/tt0070047
+tmdb: https://www.themoviedb.org/movie/9552-the-exorcist
+directors: William Friedkin
+producers: William Peter Blatty
+screenplay: William Peter Blatty
+music: Jack Nitzsche
+cinematography: Owen Roizman
+editors:
+  - Norman Gay
+  - Evan Lottman
+production: Hoya Productions
+distributors: Warner Bros.
+characters:
+  - name: Chris MacNeil
+    actor: Ellen Burstyn
+  - name: Regan MacNeil
+    actor: Linda Blair
+  - name: Father Damien Karras
+    actor: Jason Miller
+  - name: Father Lankester Merrin
+    actor: Max von Sydow
+  - name: Lieutenant William Kinderman
+    actor: Lee J. Cobb
+  - name: Burke Dennings
+    actor: Jack MacGowran

@@ -1,0 +1,39 @@
+name: The Omen
+series: The Omen
+description: >
+  American diplomat Robert Thorn secretly adopts an orphaned infant after his
+  own child dies at birth, then begins to suspect that his son Damien may be the
+  Antichrist. A series of deaths and warnings push Thorn toward a terrifying
+  investigation into Damien's origins.
+released: 1976-06-25
+rating: R
+length: 1h51m
+genres:
+  - supernatural horror
+  - mystery
+wikipedia: https://en.wikipedia.org/wiki/The_Omen
+imdb: https://www.imdb.com/title/tt0075005
+tmdb: https://www.themoviedb.org/movie/794-the-omen
+directors: Richard Donner
+producers: Harvey Bernhard
+screenplay: David Seltzer
+music: Jerry Goldsmith
+cinematography: Gilbert Taylor
+editors: Stuart Baird
+production:
+  - 20th Century Fox
+  - Mace Neufeld Productions
+distributors: 20th Century Fox
+characters:
+  - name: Robert Thorn
+    actor: Gregory Peck
+  - name: Katherine Thorn
+    actor: Lee Remick
+  - name: Damien Thorn
+    actor: Harvey Stephens
+  - name: Keith Jennings
+    actor: David Warner
+  - name: Mrs. Baylock
+    actor: Billie Whitelaw
+  - name: Father Brennan
+    actor: Patrick Troughton

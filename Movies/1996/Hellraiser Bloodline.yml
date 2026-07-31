@@ -1,0 +1,41 @@
+name: "Hellraiser: Bloodline"
+series: Hellraiser
+description: >
+  The history of the Lament Configuration is traced across generations of the
+  Lemarchand family, from its eighteenth-century creation to a future space
+  station. Pinhead pursues the bloodline as descendants try to close the gateway
+  opened by their ancestor's design.
+previous: Movies/1992/Hellraiser III Hell on Earth
+released: 1996-03-08
+rating: R
+length: 1h25m
+genres:
+  - supernatural horror
+  - science fiction horror
+wikipedia: https://en.wikipedia.org/wiki/Hellraiser:_Bloodline
+imdb: https://www.imdb.com/title/tt0116514
+tmdb: https://www.themoviedb.org/movie/8766-hellraiser-bloodline
+directors: Kevin Yagher
+screenplay: Peter Atkins
+music: Daniel Licht
+cinematography: Gerry Lively
+editors:
+  - Rod Dean
+  - Randolph K. Bricker
+production:
+  - Dimension Films
+  - Trans Atlantic Entertainment
+distributors: Miramax Films
+characters:
+  - name: Pinhead
+    actor: Doug Bradley
+  - name: Phillip Lemarchand
+    actor: Bruce Ramsay
+  - name: John Merchant
+    actor: Bruce Ramsay
+  - name: Paul Merchant
+    actor: Bruce Ramsay
+  - name: Angelique
+    actor: Valentina Vargas
+  - name: Rimmer
+    actor: Christine Harnos

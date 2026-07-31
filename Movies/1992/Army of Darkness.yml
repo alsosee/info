@@ -1,0 +1,42 @@
+name: Army of Darkness
+series: Evil Dead
+description: >
+  Ash Williams is thrown back to the Middle Ages, where he must recover the
+  Necronomicon and help a besieged kingdom fight an army of the dead. The film
+  pushes the series further into fantasy adventure and slapstick horror comedy.
+previous: Movies/1987/Evil Dead II
+released: 1992-10-09
+rating: R
+length: 1h21m
+genres:
+  - horror comedy
+  - fantasy
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Army_of_Darkness
+imdb: https://www.imdb.com/title/tt0106308
+tmdb: https://www.themoviedb.org/movie/766-army-of-darkness
+directors: Sam Raimi
+producers: Robert Tapert
+screenplay:
+  - Sam Raimi
+  - Ivan Raimi
+music: Joseph LoDuca
+cinematography: Bill Pope
+editors: Bob Murawski
+production:
+  - Dino De Laurentiis Communications
+  - Renaissance Pictures
+distributors: Universal Pictures
+characters:
+  - name: Ashley Williams
+    actor: Bruce Campbell
+  - name: Sheila
+    actor: Embeth Davidtz
+  - name: Lord Arthur
+    actor: Marcus Gilbert
+  - name: Duke Henry the Red
+    actor: Richard Grove
+  - name: Wiseman
+    actor: Ian Abercrombie
+  - name: Evil Ash
+    actor: Bruce Campbell

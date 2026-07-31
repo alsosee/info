@@ -1,0 +1,39 @@
+name: "Leatherface: The Texas Chainsaw Massacre III"
+series: The Texas Chainsaw Massacre
+description: >
+  A young couple driving through Texas and a survivalist named Benny encounter a
+  new branch of Leatherface's family. Their road trip becomes a fight through
+  isolated backwoods territory controlled by the killers.
+previous: Movies/1986/The Texas Chainsaw Massacre 2
+released: 1990-01-12
+rating: R
+length: 1h25m
+genres:
+  - slasher
+  - horror
+wikipedia: https://en.wikipedia.org/wiki/Leatherface:_The_Texas_Chainsaw_Massacre_III
+imdb: https://www.imdb.com/title/tt0099994
+tmdb: https://www.themoviedb.org/movie/25018-leatherface-the-texas-chainsaw-massacre-iii
+directors: Jeff Burr
+producers: Robert Engelman
+screenplay: David J. Schow
+music:
+  - Jim Manzie
+  - Pat Regan
+cinematography: James L. Carter
+editors: Brent A. Schoenfeld
+production: New Line Cinema
+distributors: New Line Cinema
+characters:
+  - name: Michelle
+    actor: Kate Hodge
+  - name: Benny
+    actor: Ken Foree
+  - name: Leatherface
+    actor: R. A. Mihailoff
+  - name: Ryan
+    actor: William Butler
+  - name: Tex Sawyer
+    actor: Viggo Mortensen
+  - name: Tinker Sawyer
+    actor: Joe Unger
