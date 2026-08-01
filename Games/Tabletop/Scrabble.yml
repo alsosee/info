@@ -1,0 +1,17 @@
+name: Scrabble
+description: >
+  Scrabble is a word game in which players place letter tiles on a grid to form interlocking words and score points based on letter values and premium squares.
+  Created from Alfred Mosher Butts's earlier word-game designs, it became a defining modern word board game after its commercial breakthrough in the 1950s.
+wikipedia: https://en.wikipedia.org/wiki/Scrabble
+designers:
+  - Alfred Mosher Butts
+  - James Brunot
+publishers:
+  - Selchow and Righter
+  - Hasbro
+  - Mattel
+publication: 1948
+genres:
+  - word game
+  - tile-laying
+  - board game

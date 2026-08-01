@@ -1,0 +1,18 @@
+name: Catan
+description: >
+  Catan is a multiplayer strategy board game in which players gather and trade resources to build roads, settlements, and cities on a modular island.
+  Designed by Klaus Teuber and first published as The Settlers of Catan, it was a major international breakthrough for modern Eurogames.
+wikipedia: https://en.wikipedia.org/wiki/Catan
+website: https://www.catan.com
+designers:
+  - Klaus Teuber
+publishers:
+  - Kosmos
+  - Catan Studio
+publication: 1995
+genres:
+  - strategy
+  - negotiation
+  - resource management
+  - eurogame
+  - board game

@@ -1,0 +1,16 @@
+name: "Magic: The Gathering"
+description: >
+  Magic: The Gathering is a collectible card game in which players build decks and duel as spellcasters using lands, creatures, artifacts, and other cards.
+  Created by Richard Garfield and published by Wizards of the Coast, it established the modern trading card game format.
+wikipedia: https://en.wikipedia.org/wiki/Magic%3A_The_Gathering
+website: https://magic.wizards.com
+designers:
+  - Richard Garfield
+publishers:
+  - Wizards of the Coast
+publication: 1993
+genres:
+  - collectible card game
+  - trading card game
+  - fantasy
+  - deck construction

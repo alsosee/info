@@ -1,0 +1,16 @@
+name: Codenames
+description: >
+  Codenames is a party word game in which two teams use one-word clues from their spymasters to identify their agents from a shared grid of words.
+  Designed by Vlaada Chvátil and published by Czech Games Edition, it became a widely played modern party game.
+wikipedia: https://en.wikipedia.org/wiki/Codenames_(board_game)
+website: https://codenames.game
+designers:
+  - Vlaada Chvátil
+publishers:
+  - Czech Games Edition
+publication: 2015
+genres:
+  - party game
+  - word game
+  - deduction
+  - team game

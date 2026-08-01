@@ -1,0 +1,15 @@
+name: Dominion
+description: >
+  Dominion is a card game in which players build decks during play by buying action, treasure, and victory cards from a shared supply.
+  Designed by Donald X. Vaccarino and published by Rio Grande Games, it popularized deck-building as a tabletop game genre.
+wikipedia: https://en.wikipedia.org/wiki/Dominion_(card_game)
+website: https://www.riograndegames.com/games/dominion
+designers:
+  - Donald X. Vaccarino
+publishers:
+  - Rio Grande Games
+publication: 2008
+genres:
+  - deck-building
+  - card game
+  - strategy

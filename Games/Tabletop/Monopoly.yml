@@ -1,0 +1,17 @@
+name: Monopoly
+description: >
+  Monopoly is an economics-themed board game in which players move around a board buying, trading, and developing properties while trying to bankrupt their opponents.
+  Its modern commercial form was published by Parker Brothers in the 1930s and later became one of the most widely recognized mass-market board games.
+wikipedia: https://en.wikipedia.org/wiki/Monopoly_(game)
+designers:
+  - Lizzie Magie
+  - Charles Darrow
+publishers:
+  - Parker Brothers
+  - Hasbro
+publication: 1935
+genres:
+  - economic
+  - negotiation
+  - roll-and-move
+  - board game

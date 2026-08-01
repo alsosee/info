@@ -1,0 +1,16 @@
+name: Pandemic
+description: >
+  Pandemic is a cooperative board game in which players work together as specialists trying to contain disease outbreaks across a world map.
+  Designed by Matt Leacock and published by Z-Man Games, it became one of the signature cooperative board games of the 2000s.
+wikipedia: https://en.wikipedia.org/wiki/Pandemic_(board_game)
+website: https://www.zmangames.com/game/pandemic
+designers:
+  - Matt Leacock
+publishers:
+  - Z-Man Games
+publication: 2008
+genres:
+  - cooperative
+  - strategy
+  - crisis management
+  - board game
