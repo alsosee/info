@@ -1,0 +1,13 @@
+name: "Glee"
+series: "Glee"
+description: >
+  Glee is a musical comedy about a group of ambitious and talented young adults in search of strength, acceptance and, ultimately, their voice.
+released: "2009-05-19"
+length: "60m"
+genres:
+  - "drama"
+  - "music"
+  - "romance"
+imdb: "https://www.imdb.com/title/tt1327801"
+website: "http://www.fox.com/glee"
+network: "FOX"
