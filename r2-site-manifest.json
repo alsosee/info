@@ -92357,6 +92357,13 @@
       "size": 9535,
       "source_size": 49591
     },
+    "sitemap.xml": {
+      "content_encoding": "gzip",
+      "content_type": "application/xml; charset=utf-8",
+      "sha256": "1474e7969ac5593815a403af5f6515e5f119e373f700b44733fa6c1dfab83786",
+      "size": 112123,
+      "source_size": 1342191
+    },
     "sprite.png": {
       "content_type": "image/png",
       "sha256": "bc00441b47e604e05d7462be4f2cd8a5e9c1129b78ff0a556bbb69441499c3a0",
