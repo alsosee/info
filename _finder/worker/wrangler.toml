@@ -3,6 +3,7 @@ main = "src/index.js"
 compatibility_date = "2024-02-25"
 
 routes = [
+  { pattern = "alsosee.info/sitemap.xml", zone_name = "alsosee.info" },
   { pattern = "alsosee.info/*", zone_name = "alsosee.info" }
 ]
 
