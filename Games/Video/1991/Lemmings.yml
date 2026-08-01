@@ -1,0 +1,15 @@
+name: Lemmings
+description: >
+  Lemmings is a puzzle game in which players assign limited skills to a stream of small creatures to guide enough of them safely through hazardous levels. Developed by DMA Design, it became one of the defining puzzle games of the early 1990s.
+released: 1991-02-14
+genres:
+  - Puzzle
+wikipedia: https://en.wikipedia.org/wiki/Lemmings_(video_game)
+igdb: https://www.igdb.com/games/lemmings
+developers:
+  - DMA Design
+publishers:
+  - Psygnosis
+designers:
+  - Mike Dailly
+  - David Jones

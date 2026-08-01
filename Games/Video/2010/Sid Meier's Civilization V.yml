@@ -1,0 +1,17 @@
+name: "Sid Meier's Civilization V"
+description: >
+  Sid Meier's Civilization V is a turn-based 4X strategy game that introduces hex tiles, one-unit-per-tile combat, city-states, and a reshaped diplomacy model. Its expansions and systems made it a central modern entry in the Civilization series.
+released: 2010-09-21
+genres:
+  - Simulator
+  - Strategy
+  - Turn-based strategy (TBS)
+wikipedia: https://en.wikipedia.org/wiki/Civilization_V
+igdb: https://www.igdb.com/games/sid-meier-s-civilization-v
+website: http://www.civilization.com
+developers:
+  - Firaxis Games
+publishers:
+  - 2K Games
+designers:
+  - Jon Shafer

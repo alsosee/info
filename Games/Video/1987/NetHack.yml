@@ -1,0 +1,11 @@
+name: NetHack
+description: >
+  NetHack is a single-player roguelike descended from Hack and Rogue, known for deep item interactions, procedural dungeons, and an unusually large set of emergent systems. Its long-running open development made it one of the canonical computer role-playing games.
+released: 1987-07-28
+genres:
+  - Role-playing (RPG)
+wikipedia: https://en.wikipedia.org/wiki/NetHack
+igdb: https://www.igdb.com/games/nethack
+website: http://www.nethack.org
+developers:
+  - NetHack DevTeam

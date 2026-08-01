@@ -1,0 +1,17 @@
+name: "Sid Meier's Civilization II"
+description: >
+  Sid Meier's Civilization II is a turn-based 4X strategy game in which players guide a civilization from antiquity into the future through exploration, research, diplomacy, warfare, and city development. It expanded the first Civilization with an isometric presentation and deeper systems.
+released: 1996-02-29
+genres:
+  - Strategy
+  - Turn-based strategy (TBS)
+wikipedia: https://en.wikipedia.org/wiki/Civilization_II
+igdb: https://www.igdb.com/games/sid-meiers-civilization-ii
+developers:
+  - MicroProse
+publishers:
+  - MicroProse
+designers:
+  - Brian Reynolds
+  - Douglas Caspian-Kaufman
+  - Jeff Briggs

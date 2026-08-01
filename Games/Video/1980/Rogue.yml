@@ -1,0 +1,18 @@
+name: Rogue
+description: >
+  Rogue is a dungeon-crawling role-playing game built around procedural levels, permadeath, turn-based tactics, and ASCII presentation. Its systems became the foundation for the roguelike genre and shaped decades of dungeon-crawl design.
+released: 1980-12-31
+genres:
+  - Role-playing (RPG)
+  - Strategy
+  - Adventure
+wikipedia: https://en.wikipedia.org/wiki/Rogue_(video_game)
+igdb: https://www.igdb.com/games/rogue
+developers:
+  - Artificial Intelligence Design
+publishers:
+  - Epyx
+designers:
+  - Michael Toy
+  - Glenn Wichman
+  - Ken Arnold

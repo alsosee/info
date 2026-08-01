@@ -1,0 +1,17 @@
+name: "Sid Meier's Civilization VI"
+description: >
+  Sid Meier's Civilization VI is a turn-based 4X strategy game that expands cities across map tiles through districts, wonders, and specialized improvements. It builds on the series with civic research, active city planning, and multiple expansion-era rule sets.
+released: 2016-10-20
+genres:
+  - Simulator
+  - Strategy
+  - Turn-based strategy (TBS)
+wikipedia: https://en.wikipedia.org/wiki/Civilization_VI
+igdb: https://www.igdb.com/games/sid-meiers-civilization-vi
+website: https://civilization.2k.com/civ-vi
+developers:
+  - Firaxis Games
+publishers:
+  - 2K Games
+designers:
+  - Ed Beach
