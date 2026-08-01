@@ -1,0 +1,15 @@
+name: "Final Fantasy"
+description: >
+  Final Fantasy, also known as FFI in re-releases, is the first role-playing game title in Square's flagship Final Fantasy series. The game puts players in control of four characters known as the Warriors of Light, and begins by asking the player to select the classes and names of each. The Warriors of Light can traverse the maps of dungeons and towns, which are connected by a world map, and will run into random encounters with enemies or fight bosses.
+
+released: "1987-12-18"
+genres:
+  - "role-playing (rpg)"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Final_Fantasy_(video_game)"
+igdb: "https://www.igdb.com/games/final-fantasy"
+fandom: "https://finalfantasy.fandom.com/wiki/Final_Fantasy"
+developers:
+  - "Square"
+publishers:
+  - "Square"

@@ -1,0 +1,14 @@
+name: "Sid Meier's Civilization"
+description: >
+  Sid Meier's Civilization is a turn-based strategy computer game created by Sid Meier for MicroProse in 1991.The game's objective is "...to build an empire that would stand the test of time". The game begins in 4000 BC, and the players attempt to expand and develop their empires through the ages until modern and near-future times. It is also known simply as Civilization.
+
+released: "1991-09-30"
+genres:
+  - "strategy"
+  - "turn-based strategy (tbs)"
+wikipedia: "https://en.wikipedia.org/wiki/Civilization_(video_game)"
+igdb: "https://www.igdb.com/games/sid-meiers-civilization"
+developers:
+  - "MPS Labs"
+publishers:
+  - "MicroProse"

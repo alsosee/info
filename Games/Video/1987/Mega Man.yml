@@ -1,0 +1,15 @@
+name: "Mega Man"
+description: >
+  Experience the game that started it all! Play as cybernetic hero Mega Man as you battle to stop the evil scientist Dr. Wily and his Robot Masters from taking over the world! A classic platformer in every sense of the word, Mega Man features timeless 8-bit graphics, a memorable soundtrack, and balanced but challenging gameplay that combine to create one of the most iconic video games of all time. Mega Man, known as Rockman in Japan, is a 1987 action-platform video game developed and published by Capcom for the Nintendo Entertainment System (NES). It was directed by Akira Kitamura, with Nobuyuki Matsushima as lead programmer, and is the first game of the Mega Man franchise and the original video game series. Mega Man was produced by a small team specifically for the home console market, a first for Capcom, who previously focused on arcade titles.
+
+released: "1987-12-17"
+genres:
+  - "shooter"
+  - "platform"
+wikipedia: "https://en.wikipedia.org/wiki/Mega_Man_(1987_video_game)"
+igdb: "https://www.igdb.com/games/mega-man"
+fandom: "https://megaman.fandom.com/wiki/Mega_Man_(video_game)"
+developers:
+  - "Capcom"
+publishers:
+  - "Capcom"

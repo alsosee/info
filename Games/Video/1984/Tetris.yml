@@ -1,0 +1,13 @@
+name: "Tetris"
+description: >
+  The original version of Tetris was created by Alexey Pajitnov for the Elektronika-60 computer. It was never released commercially. It was also playable on the successor DVK-1 and DVK-2 computers, although it is unknown whether that is a different version, or simply the same code running on a different computer. Minor visual differences are present, but the gameplay is the exact same.
+released: "1984-06-06"
+genres:
+  - "puzzle"
+  - "arcade"
+wikipedia: "https://en.wikipedia.org/wiki/Tetris"
+igdb: "https://www.igdb.com/games/tetris--4"
+developers:
+  - "Alexey Pajitnov"
+publishers:
+  - "ELORG"

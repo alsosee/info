@@ -1,0 +1,14 @@
+name: "SimCity"
+description: >
+  SimCity, later renamed SimCity Classic, is a city-building simulation video game, first released on February 2, 1989, and designed by Will Wright for the Macintosh computer. SimCity was Maxis's second product, which has since been ported into various personal computers and game consoles, and spawned several sequels including SimCity 2000 in 1993, SimCity 3000 in 1999, SimCity 4 in 2003, SimCity DS, SimCity Societies in 2007, and SimCity in 2013. Until the release of The Sims in 2000, the SimCity series was the best-selling line of computer games made by Maxis.
+
+released: "1989-10-03"
+genres:
+  - "simulator"
+  - "strategy"
+wikipedia: "https://en.wikipedia.org/wiki/SimCity_(1989_video_game)"
+igdb: "https://www.igdb.com/games/simcity"
+developers:
+  - "Maxis"
+publishers:
+  - "Maxis"

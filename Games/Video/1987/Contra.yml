@@ -1,0 +1,14 @@
+name: "Contra"
+description: >
+  Contra (also known as Gryzor in Oceania and Europe), is a 1987 run and gun action game developed and published by Konami originally released as a coin-operated arcade game on February 20, 1987. The game had multiple ports, including for various computer formats. Several Contra sequels were produced following the original game.
+released: "1987-02-01"
+genres:
+  - "shooter"
+  - "platform"
+  - "arcade"
+wikipedia: "https://en.wikipedia.org/wiki/Contra_(video_game)"
+igdb: "https://www.igdb.com/games/contra"
+developers:
+  - "Konami"
+publishers:
+  - "Konami"

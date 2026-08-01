@@ -1,0 +1,14 @@
+name: "Super Mario Bros."
+description: >
+  A side scrolling 2D platformer and first entry in the Super Mario franchise, Super Mario Bros. follows Italian plumber Mario as he treks across many levels of platforming challenges featuring hostile enemies to rescue Princess Peach from the evil king Bowser.
+
+released: "1985-09-13"
+genres:
+  - "platform"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Super_Mario_Bros."
+igdb: "https://www.igdb.com/games/super-mario-bros"
+developers:
+  - "Nintendo R&D4"
+publishers:
+  - "Nintendo"

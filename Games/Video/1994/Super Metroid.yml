@@ -1,0 +1,16 @@
+name: "Super Metroid"
+description: >
+  The Space Pirates, merciless agents of the evil Mother Brain, have stolen the last Metroid from a research station, and once again Mother Brain threatens the safety of the galaxy! Samus Aran must don her awesome array of high-tech weaponry to retrieve the deadly Metroid hidden deep within the cave-riddled planet Zebes. Super Metroid features excellent graphics, with a huge variety of enemies and worlds to explore. The side-view action will be familiar to many players, only now there are new weapons and items, including the Grappling Beam, which allows Samus to swing across large chasms, and the X-Ray Scope, which reveals secret passages.
+
+released: "1994-03-19"
+genres:
+  - "shooter"
+  - "platform"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Super_Metroid"
+igdb: "https://www.igdb.com/games/super-metroid"
+fandom: "https://metroid.fandom.com/wiki/Super_Metroid"
+developers:
+  - "Nintendo R&D1"
+publishers:
+  - "Nintendo"

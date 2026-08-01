@@ -1,0 +1,13 @@
+name: "Doom II"
+description: >
+  Doom II: Hell on Earth is a first-person shooter developed by id Software and released in 1994 as a sequel to the original Doom. The game continues the story, with players battling through Earth after it has been invaded by demonic forces. Gameplay remains similar to its predecessor, featuring fast-paced combat, maze-like levels, and an array of weapons, including the introduction of the powerful Super Shotgun. Doom II also adds new enemy types, such as the Arch-vile and the Mancubus, increasing the game's challenge. Initially released for MS-DOS, Doom II has since been ported to numerous platforms, becoming a cornerstone of the FPS genre.
+
+released: "1994-09-30"
+genres:
+  - "shooter"
+wikipedia: "https://en.wikipedia.org/wiki/Doom_II"
+igdb: "https://www.igdb.com/games/doom-ii-hell-on-earth"
+developers:
+  - "id Software"
+publishers:
+  - "GT Interactive Software"

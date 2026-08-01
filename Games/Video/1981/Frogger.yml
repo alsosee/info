@@ -1,0 +1,16 @@
+name: "Frogger"
+description: >
+  The object of the game is to direct frogs to their homes one by one. To do this, each frog must avoid cars while crossing a busy road and navigate a river full of hazards. Skillful players may obtain some bonuses along the way.
+released: "1981-08-01"
+genres:
+  - "platform"
+  - "arcade"
+wikipedia: "https://en.wikipedia.org/wiki/Frogger"
+igdb: "https://www.igdb.com/games/frogger"
+fandom: "https://frogger.fandom.com/wiki/Frogger_(video_game)"
+developers:
+  - "Konami"
+publishers:
+  - "Sega"
+  - "Konami"
+  - "Gremlin Industries"

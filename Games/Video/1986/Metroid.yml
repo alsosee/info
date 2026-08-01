@@ -1,0 +1,14 @@
+name: "Metroid"
+description: >
+  Metroid was first released for the Famicom Disk System, exclusively in Japan. Due to the enhanced hardware support, it features a save system, has less slowdown and better quality music. However, when comparing with its International version, it doesn't have the second quest after beating the game, the players can't use Justin Bailey Samus (Zero Suit) and it is much lenient on difficulty and endgame requirements.
+released: "1986-08-06"
+genres:
+  - "shooter"
+  - "platform"
+  - "adventure"
+igdb: "https://www.igdb.com/games/metroid--1"
+developers:
+  - "Nintendo R&D1"
+  - "Iwasaki Giken Kogyo"
+publishers:
+  - "Nintendo"

@@ -1,0 +1,15 @@
+name: "Pokémon Red and Blue"
+description: >
+  Pokémon Red, along with Pokémon Green, are the first video games in the Pokémon series of games. They are the first paired versions of Generation I. Developed over the course of several years, Red and Green established several standards for later Pokémon games and sequels. They take place in the Kanto region, with the player having to collect eight Gym Badges to become the Pokémon Champion while also completing the Pokédex by collecting all 151 Pokémon. This entry represents the paired first-generation Pokémon releases, Red Version and Blue Version.
+
+released: "1996-02-27"
+genres:
+  - "role-playing (rpg)"
+  - "turn-based strategy (tbs)"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue"
+igdb: "https://www.igdb.com/games/pokemon-red-version"
+developers:
+  - "Game Freak"
+publishers:
+  - "Nintendo"
