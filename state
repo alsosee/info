@@ -567,6 +567,7 @@ Companies/Marvel Studios.yml	6bd87b03
 Companies/Marvel Television.yml	758592a4
 Companies/Marza Animation Planet.yml	d2eb6eae
 Companies/Matt Tolmach Productions.yml	de980d3f
+Companies/Mattel.yml	11f909e3
 Companies/Maverick Films.yml	faf9d9ac
 Companies/Max.yml	da338fe4
 Companies/Maximum Effort.yml	b78fe1b
@@ -674,6 +675,7 @@ Companies/Paramount Pictures.yml	faf6084
 Companies/Paramount Vantage.yml	fb2fd33b
 Companies/Paramount+ with Showtime.yml	22f4d0d
 Companies/Paramount+.yml	f70b8fe4
+Companies/Parker Brothers.yml	19c85b8d
 Companies/Parkes+MacDonald Image Nation.yml	bef1cbef
 Companies/Parkes/MacDonald Productions.yml	d15a7803
 Companies/Participant Media.yml	e8129c7
@@ -996,6 +998,7 @@ Companies/X Verleih AG.yml	a0a065f2
 Companies/XYZ Films.yml	aa42b782
 Companies/Xbox Game Studios.yml	2b8d8a14
 Companies/Yes.yml	a733112a
+Companies/Z-Man Games.yml	f11df08d
 Companies/ZDF/Arte.yml	d933ac0b
 Companies/Zeitgeist Films.yml	c903d031
 Companies/ZeniMax Online Studios.yml	c65a245b
@@ -1009,12 +1012,25 @@ Companies/snowhydra games.yml	c49e2cb9
 Games/Awards/The Game Awards/2023.yml	7fafd0
 Games/Tabletop/Cairn.yml	4cf094b4
 Games/Tabletop/Carcassonne.yml	84e802ad
+Games/Tabletop/Catan.yml	fd475d85
 Games/Tabletop/Clue.yml	6a2d63f5
+Games/Tabletop/Codenames.yml	b49b3005
 Games/Tabletop/Cyberpunk.yml	366556d
+Games/Tabletop/Dominion.yml	33bddcfc
 Games/Tabletop/Dungeons & Dragons.yml	b3f0c9a6
 Games/Tabletop/Echoes of Revachol.yml	e9cdc297
+Games/Tabletop/Gloomhaven.yml	594ccad9
+Games/Tabletop/Magic The Gathering.yml	21ed4f6b
+Games/Tabletop/Monopoly.yml	cb446078
+Games/Tabletop/Pandemic.yml	d1791566
+Games/Tabletop/Risk.yml	c32b3f7c
 Games/Tabletop/Root.yml	778d5084
+Games/Tabletop/Scrabble.yml	53846d6c
+Games/Tabletop/Terraforming Mars.yml	497e7df8
 Games/Tabletop/The Last of Us Escape the Dark.yml	939d0
+Games/Tabletop/Ticket to Ride.yml	e6bc6cd3
+Games/Tabletop/Warhammer 40,000.yml	ba4a38a3
+Games/Tabletop/Wingspan.yml	443f32ad
 Games/Video/1972/Pong.yml	e1313c8c
 Games/Video/1978/Space Invaders.yml	bab37c51
 Games/Video/1979/Asteroids.yml	ba5b4dc0
