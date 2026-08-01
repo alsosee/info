@@ -1,0 +1,15 @@
+name: "Metroid Prime"
+description: >
+  A 3D exploration-focused metroidvania with first-person shooting mechanics and the first 3D entry in the Metroid series, Metroid Prime follows Samus Aran after the events of Metroid (1986) as she boards a Space Pirate frigate, then chases her escaping archrival Ridley into the intricately structured Tallon IV, a planet full of deadly wildlife and former home to the advanced and ancient Chozo race.
+released: "2002-11-17"
+genres:
+  - "shooter"
+  - "platform"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Metroid_Prime"
+igdb: "https://www.igdb.com/games/metroid-prime"
+fandom: "https://metroid.fandom.com/wiki/Metroid_Prime_(game)"
+developers:
+  - "Retro Studios"
+publishers:
+  - "Nintendo"

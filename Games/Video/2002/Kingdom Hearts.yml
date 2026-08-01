@@ -1,0 +1,14 @@
+name: "Kingdom Hearts"
+description: >
+  An action role-playing game developed by Square for PlayStation 2, Kingdom Hearts follows Sora as he travels across Disney-inspired worlds with Donald Duck and Goofy while battling the Heartless and searching for his missing friends.
+released: "2002-03-28"
+genres:
+  - "role-playing (rpg)"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Kingdom_Hearts_(video_game)"
+igdb: "https://www.igdb.com/games/kingdom-hearts"
+fandom: "https://kingdomhearts.fandom.com/wiki/Kingdom_Hearts_(game)"
+developers:
+  - "Square Product Development Division 1"
+publishers:
+  - "Square"

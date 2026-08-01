@@ -1,0 +1,13 @@
+name: "Super Mario Galaxy"
+description: >
+  A 3D platformer and first Wii entry in the Super Mario franchise, Super Mario Galaxy sees Mario jump across planets and galaxies with varying items, enemies, geographies and gravity mechanics in order to reach his enemy Bowser, who has attacked the Mushroom Kingdom and hijacked Princess Peach's castle with her inside.
+released: "2007-11-01"
+genres:
+  - "platform"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Super_Mario_Galaxy"
+igdb: "https://www.igdb.com/games/super-mario-galaxy"
+developers:
+  - "Nintendo Entertainment Analysis & Development"
+publishers:
+  - "Nintendo"

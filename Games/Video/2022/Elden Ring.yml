@@ -1,0 +1,15 @@
+name: "Elden Ring"
+description: >
+  Elden Ring is an action RPG developed by FromSoftware and published by Bandai Namco Entertainment, released in February 2022. Directed by Hidetaka Miyazaki, with world-building contributions from novelist George R. R. Martin, the game features an expansive open world called the Lands Between. Players assume the role of a customisable character known as the Tarnished, who must explore this world, battle formidable enemies, and seek to restore the Elden Ring to become the Elden Lord. The game builds on the challenging gameplay mechanics familiar from the Dark Souls series but introduces a more open-ended structure with vast exploration, dynamic weather, and a day-night cycle. It offers deep lore, complex characters, and an interconnected world filled with secrets, dungeons, and powerful bosses.
+
+released: "2022-02-25"
+genres:
+  - "role-playing (rpg)"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Elden_Ring"
+igdb: "https://www.igdb.com/games/elden-ring"
+developers:
+  - "FromSoftware"
+publishers:
+  - "Bandai Namco Entertainment"
+  - "FromSoftware"

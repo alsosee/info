@@ -1,0 +1,16 @@
+name: "Undertale"
+description: >
+  A small child falls into the Underground, where monsters have long been banished by humans and are hunting every human that they find. The player controls the child as they try to make it back to the Surface through hostile environments, all the while engaging with a turn-based combat system with puzzle-solving and bullet hell elements, as well as other unconventional game mechanics.
+
+released: "2015-09-15"
+genres:
+  - "puzzle"
+  - "role-playing (rpg)"
+  - "adventure"
+  - "indie"
+wikipedia: "https://en.wikipedia.org/wiki/Undertale"
+igdb: "https://www.igdb.com/games/undertale"
+developers:
+  - "tobyfox"
+publishers:
+  - "tobyfox"

@@ -1,0 +1,16 @@
+name: "Dark Souls"
+description: >
+  Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. Released in September 2011 as a spiritual sequel to Demon's Souls, it is set in a dark, medieval fantasy world. It is renowned for its challenging gameplay, intricate level design, and deep lore. Players control a customizable character known as the Chosen Undead, embarking on a perilous journey to uncover the secrets of the cursed land of Lordran. Dark Souls is known for its punishing difficulty, requiring players to carefully manage combat, stamina, and resources while navigating hostile environments filled with dangerous enemies and formidable bosses. The game features a unique multiplayer component, allowing players to leave messages for others, summon allies for cooperative play, or invade other players' worlds for PvP combat. The original release of Dark Souls received critical acclaim for its atmospheric world, innovative mechanics, and rewarding gameplay, solidifying its place as a seminal title in the action RPG genre.
+
+released: "2011-09-22"
+genres:
+  - "role-playing (rpg)"
+  - "adventure"
+wikipedia: "https://en.wikipedia.org/wiki/Dark_Souls_(video_game)"
+igdb: "https://www.igdb.com/games/dark-souls"
+fandom: "https://darksouls.fandom.com/wiki/Dark_Souls"
+developers:
+  - "FromSoftware"
+publishers:
+  - "FromSoftware"
+  - "Namco Bandai Games"

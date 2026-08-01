@@ -1,0 +1,15 @@
+name: "Mass Effect"
+description: >
+  Mass Effect is an action role-playing game set in the year 2183. The player takes the role of Commander Shepard, a customizable character who serves as Executive Officer aboard the SSV Normandy. After a routine mission goes wrong, Shepard assembles a squad and pursues a threat that escalates into a galaxy-wide conflict. The game features real-time squad-based combat where players choose companions and tactics suited to different enemy types, from biotic-wielding opponents to heavily armored machines. The game spans a large science fiction universe, with explorable locations ranging from the Citadel space station to alien homeworlds and remote outposts. Player decisions affect mission outcomes, crew relationships, and the overarching narrative across the trilogy.
+
+released: "2007-11-20"
+genres:
+  - "shooter"
+  - "role-playing (rpg)"
+wikipedia: "https://en.wikipedia.org/wiki/Mass_Effect_(video_game)"
+igdb: "https://www.igdb.com/games/mass-effect"
+developers:
+  - "BioWare"
+  - "BioWare Edmonton"
+publishers:
+  - "Microsoft Game Studios"
