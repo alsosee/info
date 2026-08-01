@@ -1,0 +1,15 @@
+name: "Alfred Hitchcock Presents, Season 7"
+series: Alfred Hitchcock Presents
+previous: Shows/1960/Alfred Hitchcock Presents, Season 6
+description: >
+  Season 7 of Alfred Hitchcock Presents premiered on 1961-10-10.
+released: "1961-10-10"
+length: 30m
+genres:
+  - anthology
+  - mystery
+  - thriller
+imdb: https://www.imdb.com/title/tt0047708/episodes/?season=7
+network: CBS
+creators:
+  - Alfred Hitchcock

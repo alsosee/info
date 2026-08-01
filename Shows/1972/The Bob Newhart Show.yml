@@ -1,0 +1,12 @@
+name: The Bob Newhart Show
+description: >
+  Season 1 of The Bob Newhart Show premiered on 1972-09-16.
+released: "1972-09-16"
+length: 30m
+genres:
+  - sitcom
+imdb: https://www.imdb.com/title/tt0068049/episodes/?season=1
+network: CBS
+creators:
+  - David Davis
+  - Lorenzo Music

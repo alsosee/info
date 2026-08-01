@@ -1,0 +1,11 @@
+name: "Beverly Hills, 90210"
+description: >
+  Season 1 of Beverly Hills, 90210 premiered on 1990-10-04.
+released: "1990-10-04"
+length: 60m
+genres:
+  - teen drama
+imdb: https://www.imdb.com/title/tt0098749/episodes/?season=1
+network: FOX
+creators:
+  - Darren Star

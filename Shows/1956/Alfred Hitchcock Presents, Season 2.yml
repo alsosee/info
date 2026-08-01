@@ -1,0 +1,15 @@
+name: "Alfred Hitchcock Presents, Season 2"
+series: Alfred Hitchcock Presents
+previous: Shows/1955/Alfred Hitchcock Presents
+description: >
+  Season 2 of Alfred Hitchcock Presents premiered on 1956-09-30.
+released: "1956-09-30"
+length: 30m
+genres:
+  - anthology
+  - mystery
+  - thriller
+imdb: https://www.imdb.com/title/tt0047708/episodes/?season=2
+network: CBS
+creators:
+  - Alfred Hitchcock

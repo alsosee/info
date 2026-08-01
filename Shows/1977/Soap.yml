@@ -1,0 +1,12 @@
+name: Soap
+description: >
+  Season 1 of Soap premiered on 1977-09-13.
+released: "1977-09-13"
+length: 30m
+genres:
+  - sitcom
+  - satire
+imdb: https://www.imdb.com/title/tt0075584/episodes/?season=1
+network: ABC
+creators:
+  - Susan Harris

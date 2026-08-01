@@ -1,0 +1,15 @@
+name: "Alfred Hitchcock Presents, Season 3"
+series: Alfred Hitchcock Presents
+previous: Shows/1956/Alfred Hitchcock Presents, Season 2
+description: >
+  Season 3 of Alfred Hitchcock Presents premiered on 1957-10-06.
+released: "1957-10-06"
+length: 30m
+genres:
+  - anthology
+  - mystery
+  - thriller
+imdb: https://www.imdb.com/title/tt0047708/episodes/?season=3
+network: CBS
+creators:
+  - Alfred Hitchcock

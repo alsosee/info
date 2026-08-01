@@ -1,0 +1,13 @@
+name: Alfred Hitchcock Presents
+description: >
+  Season 1 of Alfred Hitchcock Presents premiered on 1955-10-02.
+released: "1955-10-02"
+length: 30m
+genres:
+  - anthology
+  - mystery
+  - thriller
+imdb: https://www.imdb.com/title/tt0047708/episodes/?season=1
+network: CBS
+creators:
+  - Alfred Hitchcock

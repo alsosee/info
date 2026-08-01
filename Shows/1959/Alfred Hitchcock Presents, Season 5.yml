@@ -1,0 +1,15 @@
+name: "Alfred Hitchcock Presents, Season 5"
+series: Alfred Hitchcock Presents
+previous: Shows/1958/Alfred Hitchcock Presents, Season 4
+description: >
+  Season 5 of Alfred Hitchcock Presents premiered on 1959-09-27.
+released: "1959-09-27"
+length: 30m
+genres:
+  - anthology
+  - mystery
+  - thriller
+imdb: https://www.imdb.com/title/tt0047708/episodes/?season=5
+network: CBS
+creators:
+  - Alfred Hitchcock

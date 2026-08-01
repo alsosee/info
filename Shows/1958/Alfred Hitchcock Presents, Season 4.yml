@@ -1,0 +1,15 @@
+name: "Alfred Hitchcock Presents, Season 4"
+series: Alfred Hitchcock Presents
+previous: Shows/1957/Alfred Hitchcock Presents, Season 3
+description: >
+  Season 4 of Alfred Hitchcock Presents premiered on 1958-10-05.
+released: "1958-10-05"
+length: 30m
+genres:
+  - anthology
+  - mystery
+  - thriller
+imdb: https://www.imdb.com/title/tt0047708/episodes/?season=4
+network: CBS
+creators:
+  - Alfred Hitchcock

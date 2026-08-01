@@ -1,0 +1,12 @@
+name: Newhart
+description: >
+  Season 1 of Newhart premiered on 1982-10-25.
+released: "1982-10-25"
+length: 30m
+genres:
+  - sitcom
+imdb: https://www.imdb.com/title/tt0083455/episodes/?season=1
+network: CBS
+creators:
+  - Barry Kemp
+  - Sheldon Bull
