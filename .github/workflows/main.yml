@@ -31,6 +31,7 @@ jobs:
           repository: alsosee/info
           path: info
           token: ${{ secrets.PKG_TOKEN }}
+          fetch-depth: 0
 
       - name: Clone info state
         uses: actions/checkout@v6
@@ -64,6 +65,21 @@ jobs:
         with:
           name: FORCE
           value: ${{ github.event.inputs.force }}
+
+      - name: Restore info mtimes from Git history
+        working-directory: info
+        run: |
+          git log --name-only --format='mtime:%cI' -- . |
+          awk '
+            /^mtime:/ { date = substr($0, 7); next }
+            NF && !seen[$0]++ {
+              printf "%s\t%s\n", date, $0
+            }
+          ' |
+          while IFS="$(printf '\t')" read -r date file; do
+            [ -f "$file" ] || continue
+            touch -d "$date" "$file"
+          done
 
       - name: Run action
         uses: ./info/_finder
