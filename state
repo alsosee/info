@@ -432,6 +432,7 @@ Companies/FromSoftware.yml	2617cbf1
 Companies/Frontier Developments.yml	30692065
 Companies/Fuero Games.yml	746d9b2d
 Companies/Fuji TV.yml	59d7b15e
+Companies/Funcom.yml	430f2acf
 Companies/GK Films.yml	d515d6c
 Companies/GKIDS.yml	87a9d6df
 Companies/GSC Game World.yml	658fc2fd
@@ -1875,6 +1876,7 @@ Games/Video/2012/The Witcher Versus.yml	c46257e9
 Games/Video/2012/World of Warcraft Mists of Pandaria.yml	c8963a65
 Games/Video/2012/Worms Revolution.yml	69cc592b
 Games/Video/2012/XCOM Enemy Unknown.yml	739a46d
+Games/Video/2013/7 Days to Die.yml	3ca6b8ba
 Games/Video/2013/AVP Evolution.yml	6e8abcf
 Games/Video/2013/Aliens Colonial Marines.yml	ea4e4755
 Games/Video/2013/Arma 3.yml	2f648b9f
@@ -1885,6 +1887,7 @@ Games/Video/2013/Call of Juarez Gunslinger.yml	fe5f3bf0
 Games/Video/2013/Counter-Strike Online 2.yml	e7babbbb
 Games/Video/2013/Danmaku Unlimited 2.yml	44ef6853
 Games/Video/2013/Dead Space 3.yml	97b4f21e
+Games/Video/2013/Dont Starve.yml	35c50369
 Games/Video/2013/Dota 2.yml	f1276edc
 Games/Video/2013/Final Fantasy XIV Online.yml	75c767
 Games/Video/2013/Flappy Bird.yml	abc5322f
@@ -1904,6 +1907,7 @@ Games/Video/2013/Payday 2.yml	a09627ac
 Games/Video/2013/Plants vs. Zombies 2.yml	110eadb1
 Games/Video/2013/Pokémon X and Y.yml	caa25090
 Games/Video/2013/Prince of Persia The Shadow and the Flame.yml	55d38884
+Games/Video/2013/Project Zomboid.yml	d029e063
 Games/Video/2013/Rayman Legends.yml	517d2639
 Games/Video/2013/SpongeBob SquarePants Plankton's Robotic Revenge.yml	c47cef48
 Games/Video/2013/StarCraft II Heart of the Swarm.yml	38fbde01
@@ -2001,6 +2005,7 @@ Games/Video/2016/Beholder.yml	a7c5b3b6
 Games/Video/2016/Clash Royale.yml	8e9b0bba
 Games/Video/2016/Darkest Dungeon.yml	95bbf615
 Games/Video/2016/Dead by Daylight.yml	cb005910
+Games/Video/2016/Dont Starve Together.yml	d270f5e2
 Games/Video/2016/Doom.yml	79016f45
 Games/Video/2016/Forza Horizon 3.yml	ee6f0b3d
 Games/Video/2016/Hyper Light Drifter.yml	d2253c5b
@@ -2015,6 +2020,7 @@ Games/Video/2016/Pokémon Go.yml	f131c908
 Games/Video/2016/Shadow Tactics Blades of the Shogun.yml	fc8e19a9
 Games/Video/2016/Sid Meier's Civilization VI.yml	36492ace
 Games/Video/2016/StarCraft II Nova Covert Ops.yml	5f955418
+Games/Video/2016/Starbound.yml	694f21bf
 Games/Video/2016/Stardew Valley.yml	d9123fb9
 Games/Video/2016/Stellaris.yml	6660ab0a
 Games/Video/2016/The Witness.yml	26e8e095
@@ -2026,6 +2032,7 @@ Games/Video/2016/Tyranny.yml	8bb5faa5
 Games/Video/2016/Watch Dogs 2.yml	183aecff
 Games/Video/2016/World of Warcraft Legion.yml	32540ea9
 Games/Video/2016/Worms W.M.D.yml	9724ec4e
+Games/Video/2017/ARK Survival Evolved.yml	cbab9561
 Games/Video/2017/Alien Covenant - Arcade.yml	83a9959a
 Games/Video/2017/Alien Covenant In Utero.yml	41694448
 Games/Video/2017/Assassin's Creed Origins.yml	ab946298
@@ -2074,6 +2081,7 @@ Games/Video/2018/BattleTech.yml	f35d3ef8
 Games/Video/2018/Beat Saber.yml	66f02355
 Games/Video/2018/Celeste.yml	d1c060d9
 Games/Video/2018/Command & Conquer Rivals.yml	6bb6e78f
+Games/Video/2018/Conan Exiles.yml	d9195f67
 Games/Video/2018/Dead Cells.yml	87c39889
 Games/Video/2018/Detroit Become Human.yml	384608ac
 Games/Video/2018/Dinosaur Stampede.yml	a251c5e3
@@ -2101,6 +2109,7 @@ Games/Video/2018/Shadow of the Tomb Raider.yml	967eefe0
 Games/Video/2018/Subnautica.yml	fb7f51ae
 Games/Video/2018/Super Smash Bros. Ultimate.yml	d271c705
 Games/Video/2018/Tetris Effect.yml	3efa3886
+Games/Video/2018/The Forest.yml	591c22f8
 Games/Video/2018/This Is the Police 2.yml	23e541f8
 Games/Video/2018/Thronebreaker The Witcher Tales.yml	7ae929d2
 Games/Video/2018/Tomb Raider Arcade.yml	a819fdbd
@@ -2111,12 +2120,14 @@ Games/Video/2019/A Short Hike.yml	e3da67cd
 Games/Video/2019/Alien Blackout.yml	7ad35ea
 Games/Video/2019/Anno 1800.yml	ebbb3c23
 Games/Video/2019/Apex Legends.yml	e683ee04
+Games/Video/2019/Astroneer.yml	85d3fde6
 Games/Video/2019/Baba Is You.yml	5c7805fe
 Games/Video/2019/Blasphemous.yml	571cb4da
 Games/Video/2019/Control.yml	24b82107
 Games/Video/2019/Disco Elysium.yml	e5f6a5dc
 Games/Video/2019/Fire Emblem Three Houses.yml	c45d7ac8
 Games/Video/2019/Forza Street.yml	b7963762
+Games/Video/2019/Green Hell.yml	a6f36893
 Games/Video/2019/Ice Age Scrat's Nutty Adventure.yml	a2206dc
 Games/Video/2019/John Wick Hex.yml	814db6db
 Games/Video/2019/Manifold Garden.yml	d5dbac68
@@ -2125,6 +2136,7 @@ Games/Video/2019/Mortal Kombat 11.yml	97bf292d
 Games/Video/2019/Need for Speed Heat.yml	58f14a82
 Games/Video/2019/Outer Wilds.yml	9d0c2d4b
 Games/Video/2019/Outward.yml	865aa79d
+Games/Video/2019/Oxygen Not Included.yml	ca40ae38
 Games/Video/2019/Persona 5 Royal.yml	880ee70
 Games/Video/2019/Planet Zoo.yml	b4f26694
 Games/Video/2019/Pokémon Sword and Shield.yml	35929fae
@@ -2183,6 +2195,7 @@ Games/Video/2021/Pathfinder Wrath of the Righteous.yml	a730c8a6
 Games/Video/2021/Resident Evil Village.yml	4f98068e
 Games/Video/2021/Returnal.yml	11e97f6c
 Games/Video/2021/Road 96.yml	65200f95
+Games/Video/2021/Subnautica Below Zero.yml	ba4ca126
 Games/Video/2021/The Addams Family Mansion Mayhem.yml	204d86b8
 Games/Video/2021/The Forgotten City.yml	5193b531
 Games/Video/2021/The Witcher Monster Slayer.yml	be7f7d32
@@ -2192,6 +2205,7 @@ Games/Video/2022/Bayonetta 3.yml	22b59cd9
 Games/Video/2022/Citizen Sleeper.yml	a49c9e52
 Games/Video/2022/Elden Ring.yml	5b6bc74a
 Games/Video/2022/God of War Ragnarok.yml	db7093fe
+Games/Video/2022/Grounded.yml	502c029b
 Games/Video/2022/Jurassic World Primal Ops.yml	4f1515fc
 Games/Video/2022/Kirby and the Forgotten Land.yml	8b701697
 Games/Video/2022/Mount & Blade II Bannerlord.yml	9b3d9fa3
@@ -2202,6 +2216,7 @@ Games/Video/2022/Pokémon Scarlet and Violet.yml	e857a013
 Games/Video/2022/Prince of Persia Escape 2.yml	944c919e
 Games/Video/2022/Prodeus.yml	cb87b954
 Games/Video/2022/Quake Champions.yml	e28b4f38
+Games/Video/2022/Raft.yml	5193bc2
 Games/Video/2022/Return to Monkey Island.yml	20af76b9
 Games/Video/2022/Roach Race.yml	9d9a7b1c
 Games/Video/2022/Signalis.yml	6039bce5
@@ -2260,6 +2275,7 @@ Games/Video/2024/Mullet Madjack Deluxe Edition.yml	7ce1bee8
 Games/Video/2024/Nine Sols.yml	8553f7ab
 Games/Video/2024/Prince of Persia The Lost Crown.yml	82095566
 Games/Video/2024/STALKER 2 Heart of Chornobyl.yml	802ff255
+Games/Video/2024/Satisfactory.yml	2e978586
 Games/Video/2024/Silent Hill 2.yml	863cf481
 Games/Video/2024/SpongeBob SquarePants The Patrick Star Game.yml	c554f6a7
 Games/Video/2024/Thank Goodness You're Here!.yml	22778468
@@ -2325,6 +2341,7 @@ Games/Video/Series/Counter-Strike.yml	afe239c1
 Games/Video/Series/Darkest Dungeon.yml	9424a5e3
 Games/Video/Series/Devil May Cry.yml	56b1f3f8
 Games/Video/Series/Divinity.yml	6d2af534
+Games/Video/Series/Don't Starve.yml	ee830158
 Games/Video/Series/Dota.yml	bce6fcba
 Games/Video/Series/Dragon Quest.yml	10976f01
 Games/Video/Series/Dragon's Dogma.yml	3d83ec4d
