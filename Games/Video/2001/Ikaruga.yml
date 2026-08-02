@@ -1,0 +1,17 @@
+name: Ikaruga
+description: >
+  Ikaruga is a vertically scrolling shooter built around switching between black and white
+  polarities to absorb bullets and damage enemies. Its elegant polarity system, strict
+  scoring, and minimalist presentation made it one of the most celebrated modern shoot em ups.
+released: 2001-12-20
+genres:
+  - Shooter
+  - Puzzle
+  - Indie
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Ikaruga
+igdb: https://www.igdb.com/games/ikaruga
+developers:
+  - Treasure
+publishers:
+  - Treasure
