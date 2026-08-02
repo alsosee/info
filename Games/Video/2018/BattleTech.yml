@@ -1,0 +1,21 @@
+name: BattleTech
+description: >
+  Turn-based tactical game based on the BattleTech tabletop universe, where
+  players manage a mercenary company and command customizable BattleMechs in
+  contract battles.
+released: 2018-04-24
+series: BattleTech
+genres:
+  - turn-based strategy
+  - tactical
+wikipedia: https://en.wikipedia.org/wiki/BattleTech_(video_game)
+metacritic: https://www.metacritic.com/game/battletech/
+igdb: https://www.igdb.com/games/battletech
+website: https://www.paradoxinteractive.com/games/battletech/about
+developers: Harebrained Schemes
+publishers: Paradox Interactive
+directors: Mitch Gitelman
+designers:
+  - Jordan Weisman
+  - Mike McCain
+composers: Jon Everist
