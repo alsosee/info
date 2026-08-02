@@ -1,0 +1,16 @@
+name: Bejeweled
+description: >
+  PopCap's match-three puzzle game asks players to swap adjacent gems
+  to form rows and cascades, helping define casual web and mobile puzzle design.
+released: '2001-05-30'
+series: Bejeweled
+genres:
+- puzzle
+- match-three
+wikipedia: https://en.wikipedia.org/wiki/Bejeweled_(video_game)
+igdb: https://www.igdb.com/games/bejeweled
+developers: PopCap Games
+publishers:
+- PopCap Games
+- Electronic Arts
+designers: Jason Kapalka

@@ -1,0 +1,13 @@
+name: Flappy Bird
+description: >
+  Dong Nguyen's minimalist tap-to-fly mobile game became a viral score chase
+  built around narrow timing windows and instant restarts.
+released: '2013-05-24'
+genres:
+- arcade
+- action
+wikipedia: https://en.wikipedia.org/wiki/Flappy_Bird
+igdb: https://www.igdb.com/games/flappy-bird
+developers: .Gears
+publishers: .Gears
+designers: Dong Nguyen
