@@ -269,6 +269,7 @@ Companies/Channel 4.yml	ee3259e5
 Companies/Chartoff Productions.yml	29d842ed
 Companies/Chartoff-Winkler Productions.yml	eb926fd8
 Companies/Chernin Entertainment.yml	7c296961
+Companies/Chillingo.yml	30a10304
 Companies/China Film Group.yml	3d87df74
 Companies/Chunsoft.yml	a03963ea
 Companies/Cine+.yml	385f1bb8
@@ -460,6 +461,7 @@ Companies/HAL Laboratory.yml	365d1212
 Companies/HBO Films.yml	fcccb963
 Companies/HBO Max.yml	b8f6eacb
 Companies/HBO.yml	dcb9d2a
+Companies/Halfbrick Studios.yml	798e86a
 Companies/HanWay Films.yml	cf6474f1
 Companies/Harvey Bernhard Productions.yml	a16167e5
 Companies/Hasbro Studios.yml	cbf72d40
@@ -756,6 +758,7 @@ Companies/Pocket Books.yml	259ff67c
 Companies/Polish Film Institute.yml	49546fd3
 Companies/PolyGram Filmed Entertainment.yml	d7feee6d
 Companies/Polytron Corporation.yml	43a5c009
+Companies/PopCap Games.yml	76409333
 Companies/Practical Pictures.yml	92595a4b
 Companies/Prime Video.yml	3d2f6bee
 Companies/Private Division.yml	7e0120d6
@@ -1079,6 +1082,7 @@ Companies/Zentropa Entertainments.yml	f2763ed6
 Companies/Zero Gravity Management.yml	9b2a4b33
 Companies/Zhiv Productions.yml	8bc9ec5c
 Companies/Zide/Perry Productions.yml	de7b0789
+Companies/Zynga.yml	2df71860
 Companies/di Bonaventura Pictures.yml	af315ded
 Companies/iQue.yml	86760031
 Companies/id Software.yml	2553b6bb
@@ -1403,6 +1407,7 @@ Games/Video/2000/Tony Hawk's Pro Skater 2.yml	6032a709
 Games/Video/2001/Advance Wars.yml	41253985
 Games/Video/2001/Aliens Thanatos Encounter.yml	b57f78c2
 Games/Video/2001/Aliens versus Predator 2.yml	160ceea7
+Games/Video/2001/Bejeweled.yml	e449af5b
 Games/Video/2001/Command & Conquer Yuri's Revenge.yml	f46f4656
 Games/Video/2001/Commandos 2 Men of Courage.yml	cb6bbd65
 Games/Video/2001/Devil May Cry.yml	4ae784e2
@@ -1664,8 +1669,10 @@ Games/Video/2009/Command & Conquer Red Alert 3 Uprising.yml	fbc4c9fb
 Games/Video/2009/Command & Conquer Red Alert.yml	5d469a0
 Games/Video/2009/Deadly Creatures.yml	709d606a
 Games/Video/2009/Demon's Souls.yml	c4d505b8
+Games/Video/2009/Doodle Jump.yml	150147df
 Games/Video/2009/Dragon Age Origins.yml	9b45327c
 Games/Video/2009/Eat Lead The Return of Matt Hazard.yml	a9780bd5
+Games/Video/2009/FarmVille.yml	560311b6
 Games/Video/2009/Forza Motorsport 3.yml	979f9a8a
 Games/Video/2009/Ice Age Dawn of the Dinosaurs.yml	268dc0d3
 Games/Video/2009/League of Legends.yml	38524d98
@@ -1679,6 +1686,7 @@ Games/Video/2009/Steins;Gate.yml	cde5da81
 Games/Video/2009/The Legend of Zelda Spirit Tracks.yml	5eb4eb43
 Games/Video/2009/The Sims 3.yml	553654b9
 Games/Video/2009/Wolfenstein.yml	e0033730
+Games/Video/2009/Words with Friends.yml	1b5d4935
 Games/Video/2009/Worms 2 Armageddon.yml	554a92e6
 Games/Video/2009/Zero Escape Nine Hours Nine Persons Nine Doors.yml	6f4994ef
 Games/Video/2010/Alan Wake.yml	281e0cc2
@@ -1689,10 +1697,12 @@ Games/Video/2010/Assassin's Creed Project Legacy.yml	d5d8e316
 Games/Video/2010/BioShock 2.yml	27403c14
 Games/Video/2010/Call of Duty Black Ops.yml	30094e97
 Games/Video/2010/Command & Conquer 4 Tiberian Twilight.yml	2f19c280
+Games/Video/2010/Cut the Rope.yml	6efb7669
 Games/Video/2010/Danganronpa Trigger Happy Havoc.yml	7532779d
 Games/Video/2010/Darksiders.yml	758ac895
 Games/Video/2010/Fable III.yml	68367185
 Games/Video/2010/Fallout New Vegas.yml	bead6f6
+Games/Video/2010/Fruit Ninja.yml	4d1f1245
 Games/Video/2010/God of War Ghost of Sparta.yml	d9e8de6b
 Games/Video/2010/God of War III.yml	7ad1f96b
 Games/Video/2010/Halo Reach.yml	de2d8c79
@@ -1733,6 +1743,7 @@ Games/Video/2011/Driver San Francisco.yml	576333da
 Games/Video/2011/FIFA 12.yml	9ba55330
 Games/Video/2011/Fable Coin Golf.yml	ea0d11c1
 Games/Video/2011/Forza Motorsport 4.yml	639139f7
+Games/Video/2011/Jetpack Joyride.yml	d3426a20
 Games/Video/2011/Jurassic Park The Game.yml	bff19b1a
 Games/Video/2011/L.A. Noire.yml	3f6a50c4
 Games/Video/2011/Minecraft.yml	92ade330
@@ -1742,6 +1753,7 @@ Games/Video/2011/Payday The Heist.yml	dd236573
 Games/Video/2011/Portal 2.yml	e829a6c1
 Games/Video/2011/Shift 2 Unleashed.yml	75018329
 Games/Video/2011/SpaceChem.yml	4e0e0d60
+Games/Video/2011/Temple Run.yml	7f2f5426
 Games/Video/2011/The Binding of Isaac.yml	7e4a4bb5
 Games/Video/2011/The Elder Scrolls V Skyrim.yml	40674753
 Games/Video/2011/The Penguins of Madagascar Dr. Blowhole Returns - Again!.yml	1f8006ef
@@ -1781,6 +1793,7 @@ Games/Video/2012/Need for Speed Most Wanted.yml	7d392fe2
 Games/Video/2012/Persona 4 Golden.yml	42c259c8
 Games/Video/2012/Resident Evil 6.yml	3e4c0198
 Games/Video/2012/Spec Ops The Line.yml	15787cb1
+Games/Video/2012/Subway Surfers.yml	7fef2aa4
 Games/Video/2012/Super Hexagon.yml	52cce708
 Games/Video/2012/The House in Fata Morgana.yml	ed43f5cb
 Games/Video/2012/The Unfinished Swan.yml	2c148858
@@ -1799,6 +1812,7 @@ Games/Video/2013/Danmaku Unlimited 2.yml	44ef6853
 Games/Video/2013/Dead Space 3.yml	97b4f21e
 Games/Video/2013/Dota 2.yml	f1276edc
 Games/Video/2013/Final Fantasy XIV Online.yml	75c767
+Games/Video/2013/Flappy Bird.yml	abc5322f
 Games/Video/2013/Forza Motorsport 5.yml	4716ffb4
 Games/Video/2013/God of War Ascension.yml	957c2067
 Games/Video/2013/Grand Theft Auto V.yml	58fb0eb6
@@ -1812,6 +1826,7 @@ Games/Video/2013/Outlast.yml	551a6114
 Games/Video/2013/Papers, Please.yml	317680fa
 Games/Video/2013/Path of Exile.yml	bcdb712e
 Games/Video/2013/Payday 2.yml	a09627ac
+Games/Video/2013/Plants vs. Zombies 2.yml	110eadb1
 Games/Video/2013/Pokémon X and Y.yml	caa25090
 Games/Video/2013/Prince of Persia The Shadow and the Flame.yml	55d38884
 Games/Video/2013/Rayman Legends.yml	517d2639
@@ -1833,6 +1848,7 @@ Games/Video/2014/Assassin's Creed Memories.yml	5dcb8492
 Games/Video/2014/Assassin's Creed Rogue.yml	894c7d84
 Games/Video/2014/Assassin's Creed Unity.yml	3340a2a3
 Games/Video/2014/Counter-Strike Nexon Studio.yml	82243b6a
+Games/Video/2014/Crossy Road.yml	6cf11b80
 Games/Video/2014/Destiny.yml	46c19aa7
 Games/Video/2014/Divinity Original Sin.yml	78297a09
 Games/Video/2014/Donkey Kong Country Tropical Freeze.yml	10f8145f
@@ -1939,6 +1955,7 @@ Games/Video/2017/Divinity Original Sin II - Divine Edition.yml	fbaa26aa
 Games/Video/2017/Divinity Original Sin II.yml	cb97d707
 Games/Video/2017/Doki Doki Literature Club!.yml	84f92b19
 Games/Video/2017/Dragon Quest XI Echoes of an Elusive Age.yml	7e9cbab9
+Games/Video/2017/Fire Emblem Heroes.yml	738107cb
 Games/Video/2017/Fortnite Battle Royale.yml	c131497b
 Games/Video/2017/Forza Motorsport 7.yml	7c8ffe3
 Games/Video/2017/Friday the 13th The Game.yml	f346f7c5
@@ -7076,6 +7093,7 @@ People/Jason Hayes.yml	56937147
 People/Jason Hervey.yml	1626398
 People/Jason Huck.yml	2ad2bee0
 People/Jason Isaacs.yml	36807833
+People/Jason Kapalka.yml	310e13fa
 People/Jason Lee.yml	e5f4f56f
 People/Jason Miller.yml	e1858c6
 People/Jason Momoa.yml	d3cc2df5
@@ -9219,6 +9237,7 @@ People/Peter Lupus.yml	caafb57e
 People/Peter Lyons Collister.yml	72a63134
 People/Peter MacNicol.yml	604b43cf
 People/Peter Mayhew.yml	494c2fe
+People/Peter McConnell.yml	baa3d845
 People/Peter McNulty.yml	a209bc84
 People/Peter McRobbie.yml	75e8ad29
 People/Peter Medak.yml	d047cc50
