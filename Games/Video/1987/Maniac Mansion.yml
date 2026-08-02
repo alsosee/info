@@ -1,0 +1,15 @@
+name: Maniac Mansion
+description: >
+  Maniac Mansion is a graphic adventure game in which players control a group of teenagers exploring a strange mansion to rescue a friend. Developed by Lucasfilm Games, it introduced the SCUMM engine and helped define point-and-click adventure design.
+released: 1987-10-01
+genres:
+  - Adventure
+wikipedia: https://en.wikipedia.org/wiki/Maniac_Mansion
+igdb: https://www.igdb.com/games/maniac-mansion
+developers:
+  - Lucasfilm Games
+publishers:
+  - Lucasfilm Games
+designers:
+  - Ron Gilbert
+  - Gary Winnick

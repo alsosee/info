@@ -1,0 +1,17 @@
+name: "Dragon's Lair"
+description: >
+  Dragon's Lair is an animated arcade game in which players guide Dirk the Daring through timed action prompts inside a hand-drawn fantasy adventure. Its laserdisc animation by Don Bluth made it one of the most visually distinctive arcade games of the 1980s.
+released: 1983-06-19
+genres:
+  - Adventure
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Dragon%27s_Lair
+igdb: https://www.igdb.com/games/dragon-s-lair
+developers:
+  - Advanced Microcomputer Systems
+publishers:
+  - Cinematronics
+directors:
+  - Don Bluth
+designers:
+  - Rick Dyer

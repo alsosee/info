@@ -1,0 +1,15 @@
+name: Zork
+description: >
+  Zork is an interactive fiction adventure game in which players explore the Great Underground Empire through typed commands and puzzle solving. Originating on mainframe computers before Infocom’s commercial releases, it became one of the defining text adventures.
+released: 1977-06-01
+genres:
+  - Adventure
+wikipedia: https://en.wikipedia.org/wiki/Zork
+igdb: https://www.igdb.com/games/zork
+publishers:
+  - Infocom
+designers:
+  - Tim Anderson
+  - Marc Blank
+  - Bruce Daniels
+  - Dave Lebling

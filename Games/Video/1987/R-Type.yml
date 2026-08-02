@@ -1,0 +1,15 @@
+name: R-Type
+description: >
+  R-Type is a side-scrolling arcade shoot ’em up built around precise enemy patterns, charged shots, and the detachable Force pod. Developed by Irem, it became a foundational horizontal shooter and a major influence on arcade action games.
+released: 1987-07-01
+genres:
+  - Shooter
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/R-Type
+igdb: https://www.igdb.com/games/r-type
+developers:
+  - Irem
+publishers:
+  - Irem
+designers:
+  - Kazuma Kujo
