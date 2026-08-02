@@ -1,0 +1,17 @@
+name: Munchkin
+description: >
+  Munchkin is a satirical dungeon-crawling card game in which players fight monsters, collect treasure, gain
+  levels, and interfere with each other using take-that card effects. Designed by Steve Jackson and illustrated by
+  John Kovalic, it became one of Steve Jackson Games' signature tabletop lines.
+wikipedia: https://en.wikipedia.org/wiki/Munchkin_(card_game)
+website: https://munchkin.game
+designers:
+  - Steve Jackson
+publishers:
+  - Steve Jackson Games
+publication: 2001
+genres:
+  - card game
+  - humor
+  - dungeon crawl
+  - take-that

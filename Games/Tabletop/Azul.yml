@@ -1,0 +1,18 @@
+name: Azul
+description: >
+  Azul is an abstract strategy board game in which players draft colorful tiles and place them on personal boards
+  to complete patterns and score points. Designed by Michael Kiesling and published by Plan B Games, it became one
+  of the defining gateway strategy games of the late 2010s.
+wikipedia: https://en.wikipedia.org/wiki/Azul_(board_game)
+website: https://www.nextmove-games.com/en/azul/
+designers:
+  - Michael Kiesling
+publishers:
+  - Plan B Games
+  - Next Move Games
+publication: 2017
+genres:
+  - abstract strategy
+  - tile placement
+  - set collection
+  - board game

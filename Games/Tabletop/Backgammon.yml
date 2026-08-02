@@ -1,0 +1,12 @@
+name: Backgammon
+description: >
+  Backgammon is a two-player board game in which players move checkers according to dice rolls, race them around
+  the board, and bear them off before their opponent. It combines ancient race-game traditions with probability,
+  tactics, and risk management.
+wikipedia: https://en.wikipedia.org/wiki/Backgammon
+publication: "ancient"
+genres:
+  - race game
+  - dice
+  - strategy
+  - board game

@@ -1,0 +1,11 @@
+name: Go
+description: >
+  Go is an ancient abstract strategy board game in which two players place black and white stones on a grid,
+  competing to surround territory and capture stones. Its simple rules and deep positional complexity have made it
+  one of the most enduring games in world history.
+wikipedia: https://en.wikipedia.org/wiki/Go_(game)
+publication: "ancient"
+genres:
+  - abstract strategy
+  - territory control
+  - board game

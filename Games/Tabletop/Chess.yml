@@ -1,0 +1,11 @@
+name: Chess
+description: >
+  Chess is an abstract strategy board game in which two players move distinct pieces across an eight-by-eight
+  board with the goal of checkmating the opposing king. Its modern form developed from earlier Indian, Persian,
+  and European games and became a global competitive standard.
+wikipedia: https://en.wikipedia.org/wiki/Chess
+publication: "ancient"
+genres:
+  - abstract strategy
+  - perfect information
+  - board game
