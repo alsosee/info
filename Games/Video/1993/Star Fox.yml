@@ -1,0 +1,20 @@
+name: Star Fox
+description: >
+  Super NES rail shooter that introduced Fox McCloud's team and used the Super FX chip to bring filled-polygon 3D action to Nintendo's 16-bit hardware.
+released: 1993-02-21
+series: Star Fox
+genres:
+  - Rail shooter
+  - Action
+wikipedia: https://en.wikipedia.org/wiki/Star_Fox_(1993_video_game)
+igdb: https://www.igdb.com/games/star-fox
+developers:
+  - Nintendo EAD
+  - Argonaut Software
+publishers: Nintendo
+directors: Katsuya Eguchi
+producers: Shigeru Miyamoto
+designers:
+  - Shigeru Miyamoto
+  - Dylan Cuthbert
+composers: Hajime Hirasawa
