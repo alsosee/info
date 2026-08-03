@@ -1333,15 +1333,15 @@
     "Companies/Acclaim Entertainment.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bb8f6ae49f0a3793af9da5bb2f62650cc006f70e0f1dc44949ed11349fc4bc11",
-      "size": 16425,
-      "source_size": 292764
+      "sha256": "b4a840558b945ddd9764bc1c635e8acc424d5c0d5a03995543db17e0e90140d4",
+      "size": 16428,
+      "source_size": 292765
     },
     "Companies/Activision.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96f3eac2d03827167f63721f100705bd3db5d7d74c6e3b1300a9c25cb1099a12",
-      "size": 17880,
+      "sha256": "d7acd2ee580dce7ec39ba0c992391f9d25871199b6ff471e6caf293953bace2e",
+      "size": 17887,
       "source_size": 310793
     },
     "Companies/Ad Vitam Distribution.html": {
@@ -1494,9 +1494,9 @@
     "Companies/Ancient.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5a6373b9b49df3f833a73393c4acb7e8a9aab05c3b2cca38e5992b09a65313f2",
-      "size": 16336,
-      "source_size": 292039
+      "sha256": "82579b9af70b92985d1a8c19b27c42e6829de2372dcfeb5bc281406ab26f8f7c",
+      "size": 16337,
+      "source_size": 292040
     },
     "Companies/Animal Kingdom.html": {
       "content_encoding": "gzip",
@@ -1662,8 +1662,8 @@
     "Companies/Atari.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "596bcd2d3fddc24d9ddfd4e1164b6ea858847f089c796dc339452e69249039f7",
-      "size": 16658,
+      "sha256": "d21823da7763cea69a6aba2e5d36fa8db6b6bf76c45eea1a1dfe898d2919459a",
+      "size": 16666,
       "source_size": 295284
     },
     "Companies/Atlas Entertainment.html": {
@@ -1676,9 +1676,9 @@
     "Companies/Atlus.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "468a048d3308814ec982aae784b84ca39b9a77f490f74bc60247022d4f605d48",
-      "size": 16895,
-      "source_size": 297475
+      "sha256": "ba429331f8693c07d70dec8bf977072f4bf836accfacf378fa3f158dfa203343",
+      "size": 16897,
+      "source_size": 297771
     },
     "Companies/Atomic Monster.html": {
       "content_encoding": "gzip",
@@ -1886,9 +1886,9 @@
     "Companies/Bethesda Softworks.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "830364a97995ade5bf8403bf824924fcb611f30f41e76d362e95aea6cec74536",
-      "size": 17344,
-      "source_size": 303854
+      "sha256": "32b386221c27ebb21d33d1ebc3156f90bb6dfff75b80424425c5d719573079e1",
+      "size": 17346,
+      "source_size": 303855
     },
     "Companies/BiM Distribuzione.html": {
       "content_encoding": "gzip",
@@ -1984,9 +1984,9 @@
     "Companies/Blizzard Entertainment.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bfe37285a64060a2c1eca10669b818e1f583c467dcc8f34f4ec386f4523bdbca",
+      "sha256": "1ad5f6dc4752f3514aaa76e8fc4e84a20bf1fa2df3a7d5a47bf25b13589109d3",
       "size": 17835,
-      "source_size": 312729
+      "source_size": 312728
     },
     "Companies/Blizzard North.html": {
       "content_encoding": "gzip",
@@ -2005,8 +2005,8 @@
     "Companies/Blue Byte Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "789416f1ed7322cda183dfdaa4f050b99566ca2da2ef6411b5b3e6ea2c19b0bc",
-      "size": 16413,
+      "sha256": "1b4aceda942a35f2ca48e8011e4f46d757dceb8761de553c334210a9ac2ee51d",
+      "size": 16414,
       "source_size": 292546
     },
     "Companies/Blue Byte.html": {
@@ -2026,9 +2026,9 @@
     "Companies/BlueSky Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "972cf16a39ee0eef779c972d75e8304a0e4542ce9ed7f81748176bfa94d16e73",
-      "size": 16367,
-      "source_size": 292128
+      "sha256": "23ebca35699947bff07d0467e8f9c2ebf0e5f52edc26ec46bd10ba33d1e3163b",
+      "size": 16394,
+      "source_size": 292424
     },
     "Companies/Blueprint Pictures.html": {
       "content_encoding": "gzip",
@@ -2110,8 +2110,8 @@
     "Companies/Broderbund.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a3c51ec228d9237c89c77eed4709dc693217c0458592aee10c867baf952d4a8d",
-      "size": 16578,
+      "sha256": "bc42cf0ef88f3f71f34c940b8aedb017b477538585459f69fc59762782f36775",
+      "size": 16575,
       "source_size": 293980
     },
     "Companies/Bron Creative.html": {
@@ -2152,8 +2152,8 @@
     "Companies/Bullfrog Productions.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1833ef9a43b6d923561268e03dcab8f80ef887a4aec89010336a8e694c9bae2a",
-      "size": 16509,
+      "sha256": "9798e12882c4fd9f1ad0d5afd786057b61375d70c67b9868c6dee7da44552f0b",
+      "size": 16506,
       "source_size": 293809
     },
     "Companies/Bungeishunj\u016b.html": {
@@ -2166,7 +2166,7 @@
     "Companies/Bungie.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1073490bbefcb0ef1b2e13ec2ba595282ed192df0469bb429dd4be223c457a3c",
+      "sha256": "9926699c87d207090ea1918fd39d5af5688645ea658d26cd01fd48ef85502d05",
       "size": 16756,
       "source_size": 295262
     },
@@ -2236,9 +2236,9 @@
     "Companies/Camelot Software Planning.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "329a3538023b7578931c52a62dae193a5ab92fd3527c1c940bbe0443ef148b84",
+      "sha256": "399434db2b6985c52a4dfb9b39372b71bbfa7a255acf07bd0403f0610b077cd1",
       "size": 16493,
-      "source_size": 293375
+      "source_size": 293376
     },
     "Companies/Campbell Grobman Films.html": {
       "content_encoding": "gzip",
@@ -2278,8 +2278,8 @@
     "Companies/Capcom.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bd552b0a96304eb0ce881bc22d272d1162b3a1d1e9e05178ad5effc113dc87b8",
-      "size": 18441,
+      "sha256": "df9bd28aed98f4130c55094c552530bfdcd764a773127293b9be143693198cff",
+      "size": 18439,
       "source_size": 318741
     },
     "Companies/Capitol Films.html": {
@@ -2397,9 +2397,9 @@
     "Companies/Chunsoft.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c96b601df7cf11d2cd6f2311d0a09bebe045ed9581f1ac0f0f36ea73be48d639",
-      "size": 16539,
-      "source_size": 293438
+      "sha256": "7e5c311934a3932688a72a43c85cd89faea99bcd68057eab3db2cd0ecc79f726",
+      "size": 16544,
+      "source_size": 293439
     },
     "Companies/Cine+.html": {
       "content_encoding": "gzip",
@@ -2411,9 +2411,9 @@
     "Companies/Cinematronics.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1001836d2f7d02cdfd5c0474d3b1734fd377eed15f87d90a5066a6d357a4100e",
-      "size": 16382,
-      "source_size": 291937
+      "sha256": "183cbaf8ecc412948d39155df78c031a5cf2fafdc3f6eda8d2c91dce9586abb6",
+      "size": 16381,
+      "source_size": 291936
     },
     "Companies/Cinereach.html": {
       "content_encoding": "gzip",
@@ -2656,8 +2656,8 @@
     "Companies/DMA Design.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3ce64dcf6875157e6728d4f75a640171cd8c1c01ec317a0c7ec58751510a0748",
-      "size": 16433,
+      "sha256": "aab5d2c4899dd2b5f1c8f4184198e3b56e76e3630928e4038ac0b8a33bfb12cb",
+      "size": 16434,
       "source_size": 292990
     },
     "Companies/DNA Films.html": {
@@ -2698,9 +2698,9 @@
     "Companies/Data East.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c471df84ef1cee932affebd9ea3554010c3ac8886a85730358f4c9b5f51e0ebd",
-      "size": 16321,
-      "source_size": 291628
+      "sha256": "7b25f732ce5efdda19d3a12d806e30ca77496e3cc89d7d8d94b7103a0d6b8092",
+      "size": 16355,
+      "source_size": 291925
     },
     "Companies/David Kirschner Productions.html": {
       "content_encoding": "gzip",
@@ -2775,9 +2775,9 @@
     "Companies/Delphine Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "efd3bd90a836f86b1b454a6466585c7b9e4ef3d1fbff3e7fa3a7dcda04f087d4",
-      "size": 16372,
-      "source_size": 292009
+      "sha256": "705f17781dd601016aac2b76cbbfa89c9644b79eaa510f386f485cc524477d28",
+      "size": 16374,
+      "source_size": 292010
     },
     "Companies/Dennaton Games.html": {
       "content_encoding": "gzip",
@@ -2866,7 +2866,7 @@
     "Companies/Disney Interactive.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "23d41741e91d3981cd5bd1d92b637cbc97fd8a587afe0f7b9628302786e1af84",
+      "sha256": "22e10c00592d9db378f52f24c1546dfdd95339ef8c3711f853a68efed50518c8",
       "size": 16463,
       "source_size": 292827
     },
@@ -2985,9 +2985,9 @@
     "Companies/Dynamix.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "237d506685073270efbdc3f21790ac757ab768f3ffe7eca0638e5e5a32ce8eb0",
-      "size": 16343,
-      "source_size": 291863
+      "sha256": "940673ad9e5fcba0fa51fe03da94b18455fb5f085c36d222715e2d0176953099",
+      "size": 16345,
+      "source_size": 291864
     },
     "Companies/E!.html": {
       "content_encoding": "gzip",
@@ -3006,8 +3006,8 @@
     "Companies/EA Canada.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ea79d362c1ba8f8ef9576847f33fec5821d5c0df606554f73806963bbeed4fb5",
-      "size": 16741,
+      "sha256": "2284dd254280a28f4af7e27283f58329b84f43779b0510e60af111923672fdd9",
+      "size": 16742,
       "source_size": 296368
     },
     "Companies/EA Los Angeles.html": {
@@ -3027,8 +3027,8 @@
     "Companies/EA Sports.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fc6763debae9f65253c627a88120619e20bc2f422c410c549edc67de4ba584d8",
-      "size": 16500,
+      "sha256": "885e0a6ed8a0509907d734763eef33f2cf7f47eab325bd0377323d5b1a439949",
+      "size": 16501,
       "source_size": 293724
     },
     "Companies/EMJAG Productions.html": {
@@ -3090,8 +3090,8 @@
     "Companies/Electronic Arts.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c75d0b09ea94334215c4dd30fac2c5918698e71c68e9d750e13cc795a18578a4",
-      "size": 19232,
+      "sha256": "44e6be84b2cf0faa53123c5bbb79c9fb6c57d72329dfc1797a09616ecb950c07",
+      "size": 19230,
       "source_size": 335284
     },
     "Companies/Element Pictures.html": {
@@ -3118,9 +3118,9 @@
     "Companies/Enix.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "73b803c1250b45d1ed5045b83fc7aa92fc892f79f661d3571068fb3849ebbe6f",
-      "size": 16486,
-      "source_size": 293316
+      "sha256": "6ba961dd48a711a4d6eb78e93c4f04c068a5002500995b066ba783368d4a8d09",
+      "size": 16490,
+      "source_size": 293317
     },
     "Companies/Ensemble Studios.html": {
       "content_encoding": "gzip",
@@ -3160,7 +3160,7 @@
     "Companies/Epyx.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "79a823ae2b033297b5f605830d343f9d85d445770843646d9b9d9f542c68015a",
+      "sha256": "df0c3723c35338afb97bd6ecad9f52e7ea9e4be65b1158391edd763d5d90fa91",
       "size": 16329,
       "source_size": 291822
     },
@@ -3615,9 +3615,9 @@
     "Companies/GT Interactive Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "23ff75db3074a3dedfa61712e92b273c9b60e0ea02ef98f0f2035602dd3aa246",
-      "size": 16404,
-      "source_size": 292450
+      "sha256": "41a5327805f720d74c42ad2c7e5ff6647670642c9cd07411f9d58416a3378b2a",
+      "size": 16405,
+      "source_size": 292451
     },
     "Companies/GT Interactive.html": {
       "content_encoding": "gzip",
@@ -3804,9 +3804,9 @@
     "Companies/Gradiente.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b100dfdb8a51dc4d45d0df80d7c40c2521c706e57cd075b905a8097d9652dc39",
+      "sha256": "224b4e27b13934f1a30bb0e2571295a7a4934f43f31d671cf159a180d85f03a6",
       "size": 16582,
-      "source_size": 294388
+      "source_size": 294387
     },
     "Companies/Gramercy Pictures.html": {
       "content_encoding": "gzip",
@@ -3846,9 +3846,9 @@
     "Companies/HAL Laboratory.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fd8c8e4c084970d22990ac0c0b208b6b72a791faad3deaa15ab77756c70444b2",
-      "size": 16502,
-      "source_size": 293348
+      "sha256": "c3e9fe7996d9883a28232b06b440c1563d022a535d0c6b62a8b6061e6d3cac85",
+      "size": 16503,
+      "source_size": 293349
     },
     "Companies/HBO Films.html": {
       "content_encoding": "gzip",
@@ -3979,9 +3979,9 @@
     "Companies/Hudson Soft.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9d08451292f4e491d299fcf89ae21d9a8961283aac0d3bf8a115096b99150b94",
-      "size": 16368,
-      "source_size": 291829
+      "sha256": "973a123279115eb76e5c32911463e0f38ce1882f1bfa0611fa96a5c26de4bbb2",
+      "size": 16433,
+      "source_size": 292420
     },
     "Companies/Hughes Entertainment.html": {
       "content_encoding": "gzip",
@@ -4021,9 +4021,9 @@
     "Companies/Hyundai.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "41647add9fe92a7a0ad7d589946e1b158dc76c6050abe1a7140bdf2137ec7365",
+      "sha256": "bfb3900cdad06a6cead4dfe59f0c4ffeecc8538468b29587f31994d5bef7557f",
       "size": 16356,
-      "source_size": 291955
+      "source_size": 291953
     },
     "Companies/IAC Films.html": {
       "content_encoding": "gzip",
@@ -4189,9 +4189,9 @@
     "Companies/Interplay Productions.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bf6e00e055415e3435a819d50f0cab83350133dfcfb6ff4116f042b7b03ed42f",
-      "size": 16372,
-      "source_size": 292152
+      "sha256": "6a40b20cab37ef1d76e79d73b4235ed13fd44a62a6db2baa8bdf46b640c16f80",
+      "size": 16407,
+      "source_size": 292449
     },
     "Companies/Interscope Communications.html": {
       "content_encoding": "gzip",
@@ -4210,9 +4210,9 @@
     "Companies/Irem.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e80e8a1d022078241adab4de4be69cae9d060dca1a8c025ceb61f0aa6e46f9b6",
-      "size": 16328,
-      "source_size": 291885
+      "sha256": "501284b6dca0aed8ef1650081190100c7d55dc7003db6351400e038ec29e1a77",
+      "size": 16330,
+      "source_size": 291886
     },
     "Companies/Irrational Games.html": {
       "content_encoding": "gzip",
@@ -4420,9 +4420,9 @@
     "Companies/Konami.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4857d527a40e2ec2b922f7f030010cbc8804f6e8178f590657a8aea4ebce3a89",
-      "size": 17465,
-      "source_size": 304531
+      "sha256": "7fca654127de462effb837bde6ac073e8376bf3d57e154f2be969f1876801f46",
+      "size": 17480,
+      "source_size": 304830
     },
     "Companies/Konrad Pictures.html": {
       "content_encoding": "gzip",
@@ -4441,9 +4441,9 @@
     "Companies/LJN.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d5a5cf14a1416c6260173294c8f31936aaead3602cc9039c072c655e5f7f2adb",
-      "size": 16377,
-      "source_size": 292644
+      "sha256": "23927ed4dccf99d819a5f120436f8501a87bb2c9ead44f73c5bb970edce5ca09",
+      "size": 16373,
+      "source_size": 292645
     },
     "Companies/LStar Capital.html": {
       "content_encoding": "gzip",
@@ -4637,9 +4637,9 @@
     "Companies/LucasArts.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2dd9469d341987260f3f12f4684020dfe6869602ed9bd961d107869ba04631fb",
-      "size": 16794,
-      "source_size": 296534
+      "sha256": "c544575043210c8a78386c277c59dbe3e077f7786cca9e41ed0291010912583f",
+      "size": 16793,
+      "source_size": 296532
     },
     "Companies/Lucasfilm Games.html": {
       "content_encoding": "gzip",
@@ -4987,9 +4987,9 @@
     "Companies/Maxis.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ffb5b389bede12bca187a4e116ff711593b584649df9ac28ded04e3f00bee8fe",
-      "size": 16657,
-      "source_size": 295646
+      "sha256": "c6a17bf4d08d21fd87873f9eb5037c14c17d283b103cdf32c7ba1d3248b43f9d",
+      "size": 16653,
+      "source_size": 295645
     },
     "Companies/Media Asia Distribution.html": {
       "content_encoding": "gzip",
@@ -5050,8 +5050,8 @@
     "Companies/MicroProse.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a9ebcd6b37cb05581672469b6f9127cc4e49a7b846eb7b61e0724953c21449ff",
-      "size": 16712,
+      "sha256": "3e66dd0f6b1358f9849fd539ad8f4620e100749f1490e3615c7d438baec68aaf",
+      "size": 16708,
       "source_size": 296279
     },
     "Companies/Microgaming.html": {
@@ -5092,9 +5092,9 @@
     "Companies/Microsoft.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "eb41898e102055f6e8f7c256b191a9bd9d613f2cd6b5df507c7da51b9e2f03cb",
+      "sha256": "e47d0c0889400da60b01ec3122065ce4e3d2fd32e965519eafe35eff8525e3b5",
       "size": 16688,
-      "source_size": 295298
+      "source_size": 295297
     },
     "Companies/Micro\u00efds.html": {
       "content_encoding": "gzip",
@@ -5106,9 +5106,9 @@
     "Companies/Midway Games.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c53a04aeb11aeed03462a7c2c9d1fc675cd6bb39068dc73c9606ea5a061563f4",
-      "size": 16376,
-      "source_size": 291720
+      "sha256": "4a152b6d658701924f270cfd8726859f4206dba28751b2e4851b7ec7f225d152",
+      "size": 16377,
+      "source_size": 291721
     },
     "Companies/Midway Manufacturing.html": {
       "content_encoding": "gzip",
@@ -5120,9 +5120,9 @@
     "Companies/Midway.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "35f461d1c6eadf2c5f979a4d63ee008b70a39e34999c4d89ae676c249a24ab29",
-      "size": 16426,
-      "source_size": 292644
+      "sha256": "d37f963f0cbde854c250fff0ff6a177453be028bf431d1e07701cc760ef50447",
+      "size": 16448,
+      "source_size": 292942
     },
     "Companies/Mike Zoss Productions.html": {
       "content_encoding": "gzip",
@@ -5155,9 +5155,9 @@
     "Companies/Mindscape.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5b40b6c98b7f8d8f4aec5ba26ec688e12ad51ca96df3efbc1e6f4b85e5751059",
-      "size": 16362,
-      "source_size": 291918
+      "sha256": "278c553481b5701a57ff38040fa57e90755c18fbe40d204379936c26b5109ef6",
+      "size": 16361,
+      "source_size": 291917
     },
     "Companies/Miramax Films.html": {
       "content_encoding": "gzip",
@@ -5323,9 +5323,9 @@
     "Companies/Namco.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "becc6a5469632f76be3c8118fad0033af20b84c25069caadb16f68ffbd44f2a9",
-      "size": 16744,
-      "source_size": 296666
+      "sha256": "cb266baba5a623b4e774d357f0453848aa6cf21a7c7d746afd258b0bba15e758",
+      "size": 16740,
+      "source_size": 296665
     },
     "Companies/NanaOn-Sha.html": {
       "content_encoding": "gzip",
@@ -5505,8 +5505,8 @@
     "Companies/Nintendo EAD.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4616df19f1b8f310c83d862ac99e3698ba44cbaff261d3987d06349469f406c1",
-      "size": 16577,
+      "sha256": "483f07f9e60d69f32bffc2094d53663ce6822a9c349d5ea704f383120ed934b7",
+      "size": 16574,
       "source_size": 294667
     },
     "Companies/Nintendo EPD Production Group No. 3.html": {
@@ -5526,8 +5526,8 @@
     "Companies/Nintendo Entertainment Analysis & Development.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9c8d36cd9aff135be2b9a1fe936ea01dc8573a90d663b8e9aa18fd9a7a6e729d",
-      "size": 17050,
+      "sha256": "f110d30b874bcb49676b2735774704da19902e921db43efcf930dc6d09766dc9",
+      "size": 17048,
       "source_size": 299826
     },
     "Companies/Nintendo Entertainment Planning & Development.html": {
@@ -5540,15 +5540,15 @@
     "Companies/Nintendo R&D1.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "817ecdd4714660c5fd19a99c27d45328d7012f3c9d183588620f4d6bd6c2b350",
-      "size": 16694,
+      "sha256": "273b710cd6ae30a4e9597215c19272bd223c3fe7ff89677d84653fd5f72bba52",
+      "size": 16693,
       "source_size": 296088
     },
     "Companies/Nintendo R&D4.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4c05b98fb8c21b64f36aab8a7fa45ee0f0e994b0fbc81268559c79e9f3ac4e5f",
-      "size": 16468,
+      "sha256": "c516b1ecb4605493e3ba2347288a93fd8c0ebf3ecb81b0af9ec6337dea077b46",
+      "size": 16472,
       "source_size": 293275
     },
     "Companies/Nintendo SPD Production Group No. 2.html": {
@@ -5568,8 +5568,8 @@
     "Companies/Nintendo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "99f61b27dd5e9572e5c1303a254b9c6bd42d3484c8460d3f73661d361096ce6b",
-      "size": 19942,
+      "sha256": "334cc5c092dee91e4349cefee252dccb74355e690777d33be9794625db77c4c6",
+      "size": 19940,
       "source_size": 346864
     },
     "Companies/Nippon TV.html": {
@@ -5624,9 +5624,9 @@
     "Companies/Ocean Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ce9e47b890c6d0b4cb345e3d362e409d3355af5c58dbb52e7412dd72ced367a8",
-      "size": 16649,
-      "source_size": 295948
+      "sha256": "ea5b170a42c9a5783f022e5df1cb42d97b2b08163da73ef87d5ce7ad05e3bb7d",
+      "size": 16646,
+      "source_size": 295947
     },
     "Companies/OddLot Entertainment.html": {
       "content_encoding": "gzip",
@@ -5673,9 +5673,9 @@
     "Companies/Origin Systems.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "899cf3d80d1aa194f484c7168526c85b80af0fa236854d76d9571b4b40c5e4a7",
-      "size": 16500,
-      "source_size": 292996
+      "sha256": "aab9d12ff3ad617b9596779d42eca688acaffaeb78fb1be40d7acd4f3401cc88",
+      "size": 16502,
+      "source_size": 292998
     },
     "Companies/Original Film.html": {
       "content_encoding": "gzip",
@@ -6065,9 +6065,9 @@
     "Companies/Playtronic.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "081fdd476c526753872ef0532aa7af68837ce6fcec2658e3ce899a318aba9bde",
-      "size": 16662,
-      "source_size": 294866
+      "sha256": "63de924fcdd4aa81ad6217d85ec79e029e8b4a5b8d16190a35bd04de0c9d149b",
+      "size": 16660,
+      "source_size": 294865
     },
     "Companies/Pocket Books.html": {
       "content_encoding": "gzip",
@@ -6128,8 +6128,8 @@
     "Companies/Probe Entertainment.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4561864fa65b7c1af405a31675c87e7f99cc4b55e8e6198eca7d2bef9914e0c2",
-      "size": 16330,
+      "sha256": "8cf5e3ef14ddb4478992b106ee2c2dcdcdd337a4f36215d3fd851157691cc497",
+      "size": 16331,
       "source_size": 291907
     },
     "Companies/Produzioni Europee Associati.html": {
@@ -6177,9 +6177,9 @@
     "Companies/Psygnosis.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "45f569a2927894d2bb91c18a9351aa763b3a7f31f445143f33f428a8fb9dae6b",
-      "size": 16325,
-      "source_size": 291857
+      "sha256": "d864548720ff83040ac221b2f6574f8437c393e30f2b6fedf33692444bacb962",
+      "size": 16326,
+      "source_size": 291856
     },
     "Companies/Purple Lamp.html": {
       "content_encoding": "gzip",
@@ -6282,9 +6282,9 @@
     "Companies/Rare.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "51d2c65928b1df55f64b67e516c5b56e05981c1fd42fd395f8328e74e28dd2ec",
-      "size": 16544,
-      "source_size": 293630
+      "sha256": "ab3e1daa04c1c0320c5a2818ca98c091290453758104f1fd559d32b01f48f103",
+      "size": 16559,
+      "source_size": 294223
     },
     "Companies/RatPac Entertainment.html": {
       "content_encoding": "gzip",
@@ -6324,7 +6324,7 @@
     "Companies/Rebellion Developments.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d47af9b8b9913c6f1ad51bf1b13050e301b61d6f957647d9b290fa18cef77dab",
+      "sha256": "b9ce73b706a5b4630cc7fd13387055db94acfc87ef923deb917fc699c0775694",
       "size": 16451,
       "source_size": 292887
     },
@@ -6443,8 +6443,8 @@
     "Companies/Revolution Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "17ac083c0072fac2a3db355d5564d68de4acf3aaeee00dff45dad8cdd9c05695",
-      "size": 16430,
+      "sha256": "aa8427eb22b9c7b3713f13ab8b859a3da5103ed6bd124942e5ea3a25ea754f40",
+      "size": 16429,
       "source_size": 292519
     },
     "Companies/Revolution Studios.html": {
@@ -6744,23 +6744,23 @@
     "Companies/Sega AM2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "32976b0f5f7afe1443dff2aaa515dbd817f615c839d003cc68d94b5f52f8b596",
-      "size": 16434,
+      "sha256": "98a6ea1837e4c47425c9ef7bd8a043485b453b6e38bbddb0bf919e789aeb90f3",
+      "size": 16436,
       "source_size": 292794
     },
     "Companies/Sega Technical Institute.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b901439a4cee9e080b50db05b226fe999a314b78cfa4a34850898a9e612fc9e8",
-      "size": 16464,
-      "source_size": 292789
+      "sha256": "0dda928a95bcc0bf005a5d1f56656ac8b2bd5427fdd2cf9f30bdbca977ae62e0",
+      "size": 16465,
+      "source_size": 292790
     },
     "Companies/Sega.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "917aec7184b6c4d7d7953051d6403eaa4df1f4554ea4d2373df1b6db42dde6ef",
-      "size": 18446,
-      "source_size": 320445
+      "sha256": "97aaba3f18be61141f8688a68f13711485c5ec011dc57f29b904294c515fdaa9",
+      "size": 18476,
+      "source_size": 321338
     },
     "Companies/Seven Bucks Productions.html": {
       "content_encoding": "gzip",
@@ -6814,9 +6814,9 @@
     "Companies/Sierra On-Line.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "46fc1887b5f9fd4c6e57c58e849b93febaf8dcbc883c5b0b4d3211cf8b9d790f",
-      "size": 16387,
-      "source_size": 292010
+      "sha256": "90f05b8ca181267cc94eec41c7618b624656b15c284d499f0d8ebcc3fe43ac1e",
+      "size": 16386,
+      "source_size": 292011
     },
     "Companies/Sierra Studios.html": {
       "content_encoding": "gzip",
@@ -6856,7 +6856,7 @@
     "Companies/Simtex.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "39870252ebb9553b9af224805ad2944ef82f1c2bcd9dc9aaf0a20f5482d79bb8",
+      "sha256": "e99bec372200830708dac6f07345f43dc8948080bac8164c10526d5d0e54193c",
       "size": 16348,
       "source_size": 291900
     },
@@ -6933,8 +6933,8 @@
     "Companies/Sonic Team.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "007786867bfb2d2b3c6891f8dd3eb6c4058814f2baf2e1f622e5efa3a57b1344",
-      "size": 16448,
+      "sha256": "03572e10dd9fd411dcb6b32a7378e9565157965865e859db859e335a73583875",
+      "size": 16449,
       "source_size": 293005
     },
     "Companies/Sons of Manual.html": {
@@ -7087,9 +7087,9 @@
     "Companies/Square.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b24ada296779e1372c896665d21aadb3bb20c3729903aa367270acd5ce72f28f",
-      "size": 16766,
-      "source_size": 297708
+      "sha256": "70c3c651ccbc0193cc6f2ce924030845db8b2ef42369cdddd4d036aee3719aff",
+      "size": 16765,
+      "source_size": 297707
     },
     "Companies/St. Martin's Press.html": {
       "content_encoding": "gzip",
@@ -7332,7 +7332,7 @@
     "Companies/Taito.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "763e1f9c0eb6737ff4ab3b1402554ff84b29ad4b76f3807b201a36751f3e4069",
+      "sha256": "ac5bac581392f96d04ca469f5cf0e215108daebd92b3fce7a984cc14e4358140",
       "size": 16435,
       "source_size": 292810
     },
@@ -7395,15 +7395,15 @@
     "Companies/Team17.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "12715850f414d826749e0d032fa862fc48cfd7d24b35ba7ff1d8336e79385365",
+      "sha256": "c1cc731ce806203ecacda67bb6ee27f927c725783851b02c1e10ede69fcd4821",
       "size": 17454,
-      "source_size": 306847
+      "source_size": 306846
     },
     "Companies/Tec Toy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a9749d274af029f237d8e2d53f43e524e6618f9dc1581477c5b926aa05d260c9",
-      "size": 16357,
+      "sha256": "bf3274b3019870679760bc01d062b6fd8ca211f4d6827c657da09b9ebfd789ea",
+      "size": 16359,
       "source_size": 291893
     },
     "Companies/Tecmo.html": {
@@ -7696,8 +7696,8 @@
     "Companies/Tose.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c488f55976cee5ed6e05e95c2b5342fb32dc20d8edb18a0f4a6df4cf86281bb2",
-      "size": 16347,
+      "sha256": "33bd294cde04d65ce5ced3efef47b2b2ea0b5b6892ab1151653359a0cc3ddfea",
+      "size": 16352,
       "source_size": 291885
     },
     "Companies/Touchstone Pictures.html": {
@@ -7752,9 +7752,9 @@
     "Companies/Treasure.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "70ad9fd2634d8ac9d8826355cba8f97727a89843d01a2302e539dd7bd9f13943",
-      "size": 16412,
-      "source_size": 292521
+      "sha256": "d3f17ed5e97e81e9835d5e38a1f2e44f42c6b406356812dc7361642661216743",
+      "size": 16436,
+      "source_size": 292818
     },
     "Companies/Treyarch.html": {
       "content_encoding": "gzip",
@@ -7850,9 +7850,9 @@
     "Companies/U.S. Gold.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1c30d3c733872fb4c75bb259b5dd1f31c7b86a2bad986cebf0d4bd16c47fbdf0",
-      "size": 16362,
-      "source_size": 291916
+      "sha256": "c2e97ef52f3f8c8d8deec7d0d406d727371866e47325eafd6018be86c9974049",
+      "size": 16363,
+      "source_size": 291917
     },
     "Companies/UGC Distribution.html": {
       "content_encoding": "gzip",
@@ -8067,8 +8067,8 @@
     "Companies/Universal Interactive.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "eabed96186fe3b3b8cdac9a4d6d3b2a02085baecffe65ee25b5a4c890812fc91",
-      "size": 16358,
+      "sha256": "dc1dc0b0bbf373c535ffa0b4dd3b4d22b5dc49dcc53a2dc0963c9bd30d3a38e8",
+      "size": 16357,
       "source_size": 292065
     },
     "Companies/Universal Pictures Home Entertainment.html": {
@@ -8186,9 +8186,9 @@
     "Companies/Virgin Interactive Entertainment.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "54e109d845f7f1ac210e404a8cb2dac84e2c0e66826cdaacbbbda8c4f4130d04",
-      "size": 16752,
-      "source_size": 297203
+      "sha256": "5792333170028c5e34b992c54b4134c27d33dad35f1d7cfa85efb76da048b262",
+      "size": 16759,
+      "source_size": 297499
     },
     "Companies/Virtual Studios.html": {
       "content_encoding": "gzip",
@@ -8375,9 +8375,9 @@
     "Companies/Westwood Studios.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "33ec886db83f37bf6edf0c1a91a00754bb7523c30e55bac00baf5affa96f2a1e",
-      "size": 16668,
-      "source_size": 296469
+      "sha256": "2b37018ef18fd867b39e19cfba99b413312fa9ed0f22f6fdcf4a603c841b3c05",
+      "size": 16667,
+      "source_size": 296468
     },
     "Companies/White Rabbit Productions.html": {
       "content_encoding": "gzip",
@@ -8592,9 +8592,9 @@
     "Companies/id Software.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "20d8b3bcf872adaa4c039152f5682ea5a91b9f29583c2a5338ac5a33015fb18d",
-      "size": 16670,
-      "source_size": 295685
+      "sha256": "47d5bc8366bb20a064b4573cdbb7593c7e1835c16c3a09e9269435da90c47865",
+      "size": 16669,
+      "source_size": 295686
     },
     "Companies/index.html": {
       "content_encoding": "gzip",
@@ -9306,86 +9306,86 @@
     "Games/Video/1986/Adventure Island.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b4f33ab6c4d47b60ff94cfed05ff99641fa727a3b15903f789315591a21767b6",
-      "size": 3949,
-      "source_size": 36093
+      "sha256": "5470fc174785d6a49c2cc580c54445177ba9542be2003a2a15ce16eabd072f58",
+      "size": 4030,
+      "source_size": 36836
     },
     "Games/Video/1986/Alex Kidd in Miracle World.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6b7bfefa3505c9dcb1d109923459df72050b2ef083273ef2f6c2a256815b6104",
-      "size": 3946,
-      "source_size": 36231
+      "sha256": "54bc053af178b4ff5889b73cd4bd5549305fe67c1e96dafc43063f7ed07dfab7",
+      "size": 3965,
+      "source_size": 36739
     },
     "Games/Video/1986/Aliens The Computer Game - Activision.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b65a1f9f35e5406bbd0d121f1e621654add61461a5c187586a75d436ff37f1ca",
-      "size": 3903,
-      "source_size": 36117
+      "sha256": "2263403a3a2384785df0b96e03b09c1d983961cf69146201d51c7daf93c5637b",
+      "size": 3930,
+      "source_size": 36625
     },
     "Games/Video/1986/Aliens The Computer Game - Software Studios.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "500bb827e49184a3858026f57798d663c062d9f97a4c64c0e18d76147d6c7761",
-      "size": 3919,
-      "source_size": 36121
+      "sha256": "91443c620bae2d377e93eafe6804d030c20117c938caecf4e7266229cc49f189",
+      "size": 3945,
+      "source_size": 36629
     },
     "Games/Video/1986/Bubble Bobble.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "801bb4c3e028644978fd50de5c5eb71b63285df13c76a067b6b54ef187bec273",
-      "size": 3938,
-      "source_size": 36129
+      "sha256": "c76df472723925856ad7fb8b079c86395a404ee6974fd63b3f9d1b37359caefa",
+      "size": 3955,
+      "source_size": 36637
     },
     "Games/Video/1986/Castlevania.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "07452d0c89a47136140570145d78554bfb5de3dad7aa4b4827bd6ad3da06999e",
-      "size": 4220,
-      "source_size": 36532
+      "sha256": "2f36b09fd634eaf570688cb951e9f31f887846c80f96586b17ef1ef68dd6e007",
+      "size": 4237,
+      "source_size": 37040
     },
     "Games/Video/1986/Dragon Quest.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ae0d86ca058b91b53e73b091ee8e8e1d93c207922c3ab1befc231be4c1f4beab",
-      "size": 4267,
-      "source_size": 36617
+      "sha256": "47cf4496599fbdfdf3fa4c21b1f2881f4a0f6119efe8f0955cc5c8fbc20e5216",
+      "size": 4295,
+      "source_size": 37125
     },
     "Games/Video/1986/Kid Icarus.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8cd7ae8085447a933beea78807147f118ca2c0a38bd90be7ff873f64ddde8546",
-      "size": 4027,
-      "source_size": 36591
+      "sha256": "bc972e29ed49d5e9946abe61043efa9ca75b17b69dcba519e5bdec1299136306",
+      "size": 4054,
+      "source_size": 37099
     },
     "Games/Video/1986/Metroid.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b8d289df0b9f1183ba4df47e42d2b8a6b2e1a800cdea3ec232ce27a9f4f905f4",
-      "size": 4074,
-      "source_size": 36226
+      "sha256": "8a5584890c955ad2a9e849d7a902c3088f1467bd315c45c2d6a3fed7114d9c8c",
+      "size": 4091,
+      "source_size": 36734
     },
     "Games/Video/1986/Out Run.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cc2aeee7b68bde93f3c840fa6c8b118e905ed32d74bac383371970729b7ccb27",
-      "size": 3982,
-      "source_size": 36273
+      "sha256": "fef7d23b6e2be67539316db186e0a4f2ed9daf249bc447332ecb1a62c96c0554",
+      "size": 3997,
+      "source_size": 36781
     },
     "Games/Video/1986/The Legend of Zelda.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a035b21bac5808bbbd40c63823d902805925a9684e008d112cae8fd0914a08c0",
-      "size": 4416,
-      "source_size": 38475
+      "sha256": "84f644235edc811b54fd509889e4fa6d8b0c1776fc486af011628a0dfd792b83",
+      "size": 4439,
+      "source_size": 38983
     },
     "Games/Video/1986/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4d743c55c1ef411f40ad71e2e057192d1c8be48a88fbddb885213f7e592aa8f7",
-      "size": 3495,
-      "source_size": 34594
+      "sha256": "8f4e28bb82f95a2d1a79d32907dd40ef31e2291c5e090a3f943d79742bfbfe61",
+      "size": 3510,
+      "source_size": 35102
     },
     "Games/Video/1987/Aliens Alien 2.html": {
       "content_encoding": "gzip",
@@ -9425,7 +9425,7 @@
     "Games/Video/1987/Mega Man.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a5168160b70d0dd35f6378f4c75a14bb6f8f142ff75a6d9f55b5cba63fa23db0",
+      "sha256": "edf3bba19448b63c6ee6393d25800cad6e821eff439556a92c130a243a5b9c44",
       "size": 4337,
       "source_size": 38396
     },
@@ -9453,7 +9453,7 @@
     "Games/Video/1987/Street Fighter.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f62930ee5d7849e7b0bd5a1db9e356454514ac260fca38faf7b884763628b50d",
+      "sha256": "245ae0e6a7cf5d648250497a8ea6964a758bd2b91bc689dd8bcb307a7cd8bf3e",
       "size": 4435,
       "source_size": 40724
     },
@@ -9516,79 +9516,79 @@
     "Games/Video/1989/Bonk's Adventure.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "92997170ac1ba884846fdae586148575b9d43ea02e1dc55457f332542f74b6b7",
-      "size": 3873,
-      "source_size": 35170
+      "sha256": "f909d345c159c9904aa95d318a9b9002be922f7f7b82407c72b44e76c182f547",
+      "size": 3936,
+      "source_size": 35914
     },
     "Games/Video/1989/Chip's Challenge.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "526c307c563b810f028ab20c9fa4300e060c7e3aa73159e377cbe954388d1867",
-      "size": 3810,
-      "source_size": 34924
+      "sha256": "1ce8da9f9d18297a2c36f40109b5bc1367cfaa76b3c9f8676db9a7effb9d9aaa",
+      "size": 3825,
+      "source_size": 35433
     },
     "Games/Video/1989/Fester's Quest.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5b1739442c3af9b123d92792d75627cd3514e60e113e715a95b7252ae5211882",
-      "size": 4061,
-      "source_size": 36564
+      "sha256": "377769ad5fe7cf5015ce890d4648818e3c7b2952fb5dcc29c4926b58f534205d",
+      "size": 4076,
+      "source_size": 37074
     },
     "Games/Video/1989/Final Fight.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "747b8013017f6509fe33313d341ad9a45b20a7f5d7849f92686c9aa786e6410d",
-      "size": 4231,
-      "source_size": 36889
+      "sha256": "b5079bb23cf698bea7bde670a8bd772a19f9b77aef83c7d61af3b3de775d922f",
+      "size": 4247,
+      "source_size": 37399
     },
     "Games/Video/1989/Friday the 13th.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "35b35d99631f0fa1e3a986d28a602659a169bb98f23ae3b8bbae842012e7b9bb",
-      "size": 3930,
-      "source_size": 35349
+      "sha256": "c0320268bf56ddc08a8d653a91fae07cb15dc0310543b2ea14437b0ae809cb02",
+      "size": 3942,
+      "source_size": 35859
     },
     "Games/Video/1989/Populous.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8f16699ef69d40912c24461f09b2802e2bc24f17481d0f109b541e1498c85b8c",
-      "size": 3996,
-      "source_size": 35596
+      "sha256": "e2daab62c187013af4e6920955a50db9c3c4064b9253d7fda41e42ccb121488e",
+      "size": 4008,
+      "source_size": 36106
     },
     "Games/Video/1989/Prince of Persia.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6cf92fabcad794fa2add21b22d3bb08a67b7a887637f32eaa4ca8aaffd8c8de1",
-      "size": 3896,
-      "source_size": 35217
+      "sha256": "56b911da246ec0de9e0685e03b55dfa6e22424af02a891abd1e85126179856c7",
+      "size": 3905,
+      "source_size": 35727
     },
     "Games/Video/1989/SimCity.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "14444379c62d8b608af219198649fc14385b488ccfb534a4e06b797cae0e577a",
-      "size": 4011,
-      "source_size": 35244
+      "sha256": "541ac4a5dbf2a0f0fc9a71fa2834cf8c9330675659310e677cbc99fb44204a94",
+      "size": 4021,
+      "source_size": 35754
     },
     "Games/Video/1989/Teenage Mutant Ninja Turtles.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1a03d8a69fd18ad97955ae0e37029f2dd123e4b55dce3c172092429eef7102a5",
-      "size": 3846,
-      "source_size": 35058
+      "sha256": "8489744573bb9927fa4c9f23fd8d47f692467f1cbb35111191fe9c8ff39a4b11",
+      "size": 3855,
+      "source_size": 35568
     },
     "Games/Video/1989/Wonder Boy III The Dragons Trap.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5f951524ebc5f8177bd8f4b3f67a5aed29d0392417e416290fd443f6bb6557cc",
-      "size": 3910,
-      "source_size": 35377
+      "sha256": "93fcc032ed0f77d90fda9d6110dce76bc641097c78b7e705360cef040831594d",
+      "size": 3920,
+      "source_size": 35887
     },
     "Games/Video/1989/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f3ccb5c54314f51397999ab080b1d549e5b25e7a815e6d0f5e004cb73f0542a2",
-      "size": 3380,
-      "source_size": 33507
+      "sha256": "0b385f96afc228149f1344ece4a43897bd0ef0fbe64fc80039f1073957246d90",
+      "size": 3415,
+      "source_size": 34016
     },
     "Games/Video/1990/ActRaiser.html": {
       "content_encoding": "gzip",
@@ -9656,7 +9656,7 @@
     "Games/Video/1990/The Secret of Monkey Island.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1f27baac903fe50b89784ef4768594714db05db28652693751d1558206213027",
+      "sha256": "b9c43afee62107e52700924fe9ecc2dd3e2855f914cd227b5a071e2f5bb79be9",
       "size": 4216,
       "source_size": 36514
     },
@@ -9670,954 +9670,954 @@
     "Games/Video/1991/Another World.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bed8b875e3636d40e7030d0060ffe576cd879f484cf6aa1ce08abfda51e93f09",
-      "size": 4374,
-      "source_size": 44004
+      "sha256": "f40e70a4c6dd95c7ba92b48ee0ee8e62f37b33f0cf456d752a38ee344de97bbe",
+      "size": 4391,
+      "source_size": 45028
     },
     "Games/Video/1991/Battletoads.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "098003ca06521bc6bd2fe78c62af26be0af98653d351b83b41fe7d70322d790e",
-      "size": 4462,
-      "source_size": 44268
+      "sha256": "540024a603148ca6e8cd013d232d6ad82cccc4e44077c86558bd11dbb5d62ae4",
+      "size": 4535,
+      "source_size": 45528
     },
     "Games/Video/1991/Captain Commando.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6ad9dc41743728cf1cdfd5e7e6e76e90c7ebf01e1694e90fdaeb385528ca44d9",
-      "size": 4542,
-      "source_size": 44389
+      "sha256": "8dced9ae449802f64809e1f360a6ff1b08e167e87ba692f63622f48e5f98b199",
+      "size": 4559,
+      "source_size": 45413
     },
     "Games/Video/1991/Final Fantasy IV.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3f4d17fbd312ef92c8e8ceb19718b170727ea0e05cb160ab7887e0bc3542fb98",
-      "size": 4434,
-      "source_size": 43850
+      "sha256": "2d22b36834b8314579f3b06bfab1f39307cd713f962589f3233200675870cbfc",
+      "size": 4452,
+      "source_size": 44874
     },
     "Games/Video/1991/FreeCell.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9beda2ddd0a18b86e27502e045ba4297bb0cf2111869bf8c3c67796b7d8d1bf8",
-      "size": 4324,
-      "source_size": 43650
+      "sha256": "ea409ee3cbaabbb2d3fa759d111c76503674ffbcd25a1c61bad6d192860e2206",
+      "size": 4341,
+      "source_size": 44674
     },
     "Games/Video/1991/Joe & Mac.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "05c02ddcca4b3dfbb90d61c23d32effd0e0ab95078a607cf4f5c9909a68030ad",
-      "size": 4365,
-      "source_size": 43726
+      "sha256": "9474cb40b0b89ac4f62761d9d613aeac897eca3c397ecb42451efc12e3b0752c",
+      "size": 4440,
+      "source_size": 44986
     },
     "Games/Video/1991/Lemmings.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "91c7a5b643fc45190909b8f0b1bae5326f4b508288c03da3cb8e4da71a40c0f4",
-      "size": 4401,
-      "source_size": 43809
+      "sha256": "b40c028fd2761ae508034a50a5ff1c6bfc6f690ce518c46751f29e265be8da94",
+      "size": 4418,
+      "source_size": 44833
     },
     "Games/Video/1991/Metroid II Return of Samus.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fbfff3a90b1e458696729b6e22b2ba7eb5c0bb619898024bcab272f3a43ba1d3",
-      "size": 4358,
-      "source_size": 43852
+      "sha256": "4a307ed41249029b80fb4c3490b9840cbfbbd003fb949114bfa727849d9031f2",
+      "size": 4375,
+      "source_size": 44876
     },
     "Games/Video/1991/Monkey Island 2 LeChucks Revenge.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "35ada33c0b25abb3f7c7ba3a358436782d5870c409e8893afda02184050a9e84",
-      "size": 4533,
-      "source_size": 44838
+      "sha256": "715aed94a1d685a2d45f5a0baf44f4703aaa46b1d52af018168cdb0297a9d1b3",
+      "size": 4550,
+      "source_size": 45862
     },
     "Games/Video/1991/Sid Meier's Civilization.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f068cbbc2d9bbb036fd23607ebb91d29be13a096303cbe0abc9161d7d6ceb485",
-      "size": 4425,
-      "source_size": 43842
+      "sha256": "4e4296bfa5523c1fc5a75e9034bc8b26584a969b5c7cf0d85c6704febe9e840b",
+      "size": 4442,
+      "source_size": 44866
     },
     "Games/Video/1991/SimAnt.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "98d0ed9f81dc77147892177d1e39a0faaa7f2b924e3971188f062043ca0618bb",
-      "size": 4354,
-      "source_size": 43767
+      "sha256": "8aad6b604a2fd0d04da9eee3a5e60208ae3039c1e07aa87e41615e69b257519c",
+      "size": 4370,
+      "source_size": 44791
     },
     "Games/Video/1991/SkiFree.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c7b0df4e0ccf5747c8572588bbb5df01ad9c321b1b0770f6116dd26593d2a6a7",
-      "size": 4325,
-      "source_size": 43638
+      "sha256": "2a2878524fbc43edccf329609fcdd54345c8565c8fa9c3cc05383c549f5e985d",
+      "size": 4340,
+      "source_size": 44662
     },
     "Games/Video/1991/Sonic the Hedgehog.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "102c1fea0933907229c184411ee4b2b78a050d86e019f5b19a367276ca63d9b2",
-      "size": 4726,
-      "source_size": 45444
+      "sha256": "5c32c941a6f547221486f8f14e9a00ee68bb8ebdb0c3eabeaffc65b969845626",
+      "size": 4746,
+      "source_size": 46469
     },
     "Games/Video/1991/Street Fighter II The World Warrior.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "312ac58c368b64f76825eccc235609f1dca54c449a1340062b2a28e25fbd3040",
-      "size": 5048,
-      "source_size": 48047
+      "sha256": "c603c93b6645d4351a7b9ba1227057d4833d7e6ec9c114d18bcb52a12923cec0",
+      "size": 5068,
+      "source_size": 49071
     },
     "Games/Video/1991/Streets of Rage.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c8ad4844e8abc4c846c89ebefae04c351d0c1d196800d186a3bb70c9e07bf8f6",
-      "size": 4608,
-      "source_size": 44584
+      "sha256": "3cfe5acfb5cdc23576c3fb04ea505206838f044b821b40afaa149389e0cdb714",
+      "size": 4625,
+      "source_size": 45609
     },
     "Games/Video/1991/Super Ghouls n Ghosts.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fd631fe0bf51722b72e22e7d3603724352f2b1e4cf102fbc5a0080ca95e60312",
-      "size": 4443,
-      "source_size": 44140
+      "sha256": "4bb30ed350da67fb5d73e6d9eb7d2caebc2aad6ace8f21c7c5d33c1c88979931",
+      "size": 4469,
+      "source_size": 45164
     },
     "Games/Video/1991/The Legend of Zelda A Link to the Past.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8061fdef7c87bcda4cd55350f76f0a38f5c062caf2a57d7bd919426a1dbdfd88",
-      "size": 4405,
-      "source_size": 43929
+      "sha256": "5b72859bba060fcda6f7ad932d0b4cf70002fbdb580cc372e4a5e3520bf8fcc8",
+      "size": 4422,
+      "source_size": 44953
     },
     "Games/Video/1991/The Simpsons Arcade Game.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bd829630a0a10b03125d40f16a47769398d288e2b676415f166dce07d7d8acc6",
-      "size": 4348,
-      "source_size": 43722
+      "sha256": "f8a762bfa011ca9d7f4f3a8810d1133ee13bbbba7a7757520f7ae6c38680bda5",
+      "size": 4365,
+      "source_size": 44746
     },
     "Games/Video/1991/ToeJam & Earl.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d2b20a0c31f666e4d71de6361192a08fbb8c97cb33bf5c9bd55f9c622b905bef",
-      "size": 4366,
-      "source_size": 43786
+      "sha256": "fd2c35bb492bc1ce08effc0e35a2bade8c5d4867c2971803b005c8bdd50edaf6",
+      "size": 4382,
+      "source_size": 44810
     },
     "Games/Video/1991/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "76fca7f99689e3585940eed12fb840eaef879d92bf97585c11ccf89fff677a32",
-      "size": 3901,
-      "source_size": 42195
+      "sha256": "caacfb395b4c6604c73c156c44967cad5847f7560da277a405ddb098cc81cb94",
+      "size": 3916,
+      "source_size": 43219
     },
     "Games/Video/1992/Alien 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "274acba8a4edc4ebde84032df0fe3194c1c44d0e6770f1b2bce2515b7b47b655",
-      "size": 4620,
-      "source_size": 44589
+      "sha256": "f35b7e3838ab7986ea8ad193cf283baf4a0487438dee4d670bc4040416aadf8d",
+      "size": 4629,
+      "source_size": 45120
     },
     "Games/Video/1992/Contra III The Alien Wars.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0c8b5319325f0748ba9f857292fd2988093cd53f2271b964ee70c3f4b2da8f13",
-      "size": 4664,
-      "source_size": 44692
+      "sha256": "89d17351172e2ed1433f4b17d1e7801f9a99ae51840a2914bede9dd8746358f0",
+      "size": 4673,
+      "source_size": 45223
     },
     "Games/Video/1992/Dragon Quest V Hand of the Heavenly Bride.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "70ce52b1327168485d8787c0067e57353716b417f90c34bf0a0bd81fe56ac7c7",
-      "size": 4688,
-      "source_size": 44896
+      "sha256": "ac33c5334be98e3a14a85b44dd69649d71b16670f13310022ed08a76f96b7be4",
+      "size": 4698,
+      "source_size": 45427
     },
     "Games/Video/1992/Ecco the Dolphin.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c36f8c017bb0d89c8e696335a9ac8816cee4f69b6ce5faa4763569c18ef0aa40",
-      "size": 4664,
-      "source_size": 44792
+      "sha256": "ba852dee0a4bb875c06b511e86cbb7560c82d1495f2d7edea07a1f7c5f22273c",
+      "size": 4674,
+      "source_size": 45323
     },
     "Games/Video/1992/Flashback The Quest for Identity.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "00ed82e9875f671171629baa476ad2036785d35e3b123faa2b7e6b48063f1e63",
-      "size": 4638,
-      "source_size": 44874
+      "sha256": "6704e428a889123c93c316b0e789457e2de36cbd9ac58e636a1a6fce8aa3c6f2",
+      "size": 4647,
+      "source_size": 45405
     },
     "Games/Video/1992/Kirbys Dream Land.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8a0541a4bfe78a8536c098741a7475d2e80980e7c2ac16051183dc2a177ab2bf",
-      "size": 4642,
-      "source_size": 44643
+      "sha256": "ff2d054f44791e0cc7d22fdc5781f52797b37ff996d42f7fb6111816b3c75020",
+      "size": 4651,
+      "source_size": 45174
     },
     "Games/Video/1992/Mortal Kombat.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "841a7974fd9cf2c4f1b3a84fd2ac6d2776a27f66a04440133a42202897868db8",
-      "size": 5211,
-      "source_size": 48475
+      "sha256": "3a97d8ea2da05a23797051a35a91cd8f9c666b3e15f5282b5a9e893369be3c5b",
+      "size": 5221,
+      "source_size": 49006
     },
     "Games/Video/1992/Shining Force.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d92f6673af70d4dbaaaeccced7bcf9b761534adc822426299c6666d9a4604305",
-      "size": 4722,
-      "source_size": 45077
+      "sha256": "5d6c5f95721a8067e5a060f6997cc47339473b3c225be1b9202ac676c55085b9",
+      "size": 4730,
+      "source_size": 45608
     },
     "Games/Video/1992/Sonic the Hedgehog 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "99e18eddf77bee95ef60d2ec70beba4bddaceef18764847db3208462ef2000e8",
-      "size": 5058,
-      "source_size": 46955
+      "sha256": "01386b8a34e5f56791c3a476e074fe5d469f2efa0598d1decc30b25db0bfa469",
+      "size": 5069,
+      "source_size": 47486
     },
     "Games/Video/1992/Streets of Rage 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "69b70b9c0217f0c7c23360e15c130e9dfb39db0f511e3b53d69cbfe636f95020",
-      "size": 5087,
-      "source_size": 47085
+      "sha256": "d4cb99e7116b1ab3dae609010fa612ea7027655c6930dadd820c24699f51237b",
+      "size": 5098,
+      "source_size": 47616
     },
     "Games/Video/1992/Super Mario Kart.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6e536e5e05f84228e09920c5d8bb7063a6e2c9613c8d7b72575be9270915fd16",
-      "size": 4665,
-      "source_size": 44815
+      "sha256": "7a32c3dac89742153f061edb0b6759802ac6ae5f16ffa85612a9f7730e7c092f",
+      "size": 4674,
+      "source_size": 45346
     },
     "Games/Video/1992/The Addams Family.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ead3b6a5f274d1fd774dfe6ea07605b363641012585dbd13f270269c780bebab",
-      "size": 4917,
-      "source_size": 46652
+      "sha256": "d5cd04b3fc0156f9769b568e5b4ee6ca2b2732c995ed2009883e13973cdfca8d",
+      "size": 4928,
+      "source_size": 47183
     },
     "Games/Video/1992/The Incredible Machine.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c641048c00d7896dae647b1391da1628205e8b8ff171efd041d00da26e5451e5",
-      "size": 4678,
-      "source_size": 44836
+      "sha256": "525dad1a6123997fb773ec22709656bd236a9260431a94a8f03d1c8e7d92b617",
+      "size": 4690,
+      "source_size": 45367
     },
     "Games/Video/1992/The Lost Vikings.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "280bbd8c95caccea49db4ac172ef1e1d85e954f7f44523fdc064bf60a94f1596",
-      "size": 4739,
-      "source_size": 45260
+      "sha256": "34e0f22e57612386f48164a761b94a1cfd6d2985b27d8c6f66d7f19d28ae1de2",
+      "size": 4810,
+      "source_size": 46026
     },
     "Games/Video/1992/Ultima Underworld The Stygian Abyss.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "49f9a2f16d0499253d30f8013a3fe2d0da6c6b19cf6771968153a72af0dffabd",
-      "size": 4736,
-      "source_size": 45315
+      "sha256": "d85980ab5fff1d7c1f8e4d79211fbe58fe8a9a0b71d809356b19b3c1c4371593",
+      "size": 4747,
+      "source_size": 45846
     },
     "Games/Video/1992/Ultima VII The Black Gate.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2dae6a46af891d9b7be52e232090c3d9e6690e4ce78530cd34a0cbe5c8d34b74",
-      "size": 4768,
-      "source_size": 45376
+      "sha256": "c3d4cedc86a8684198709f10fa306ef03ef22ae38b66ca4c04c990dfd0d64ce6",
+      "size": 4779,
+      "source_size": 45907
     },
     "Games/Video/1992/Undercover Cops.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3886c638c59f9335889c70fa77cb4e266c3161762952da2bef83a60ab74571ea",
-      "size": 4775,
-      "source_size": 45315
+      "sha256": "9e4f49f7f1796f0ab67cb49078b6ce4917315f51c8fb9cbdeaec1041db7e5bd9",
+      "size": 4786,
+      "source_size": 45846
     },
     "Games/Video/1992/Wolfenstein 3D.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "593c5c1b44eaa5e665adbab161698b2495bb146f6ea679637dac274b3d606a44",
-      "size": 4679,
-      "source_size": 45079
+      "sha256": "fb46aa53e68ef31286e2cd07e89c50e31ffbeda0f89692c0b8b7df5f8c823710",
+      "size": 4689,
+      "source_size": 45610
     },
     "Games/Video/1992/X-Men Arcade.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "622a6675dc6429d410fc881b5466f8c6015e83e5d22796f6ad68650411a139ba",
-      "size": 4629,
-      "source_size": 44520
+      "sha256": "7940a1c32984bd330ad2520997926f8699d6408b8ae5367467efaee97e6de0fb",
+      "size": 4638,
+      "source_size": 45051
     },
     "Games/Video/1992/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c2a88ad9356259a1136b713f8f17e9aa21fe66571a058095a5c50b70c57d3966",
-      "size": 4185,
-      "source_size": 43100
+      "sha256": "fe6119632fb64dffdb6693e1db9c616d73d03c7245cf0ab27543de6eb04e3e72",
+      "size": 4195,
+      "source_size": 43630
     },
     "Games/Video/1993/Alien 3 - Game Boy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "32402785f2adff66db59da2984e09cd6a8ae65f037d71cd6ca0d96c24c667d7a",
-      "size": 5431,
-      "source_size": 65823
+      "sha256": "31ce690208e0f6690cf16f5f9b62d19949d8cf63fa5851eb8be1f5fc3f0b2e3b",
+      "size": 5458,
+      "source_size": 67359
     },
     "Games/Video/1993/Alien 3 - SNES.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3e5d471062fdaec614706e145bdcb36f772b1981057c241254220a946af7bcb4",
-      "size": 5431,
-      "source_size": 65921
+      "sha256": "c1ccd48368e6661c4913b017e140efa33424add447af8f8b90352108da702602",
+      "size": 5460,
+      "source_size": 67457
     },
     "Games/Video/1993/Alien 3 The Gun.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7ba05d8b345ca1feb77c6c130811d21c19404bbc50dd7c7d926f2f1eeb96daf1",
-      "size": 5416,
-      "source_size": 65851
+      "sha256": "c8e7f1554a349041c7b9cab524958474e4775e7fd8986420936bd5dae1ecccaa",
+      "size": 5442,
+      "source_size": 67387
     },
     "Games/Video/1993/Alien vs Predator - SNES.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8bcc6a73859effbdf591f7202e849a6352ec0054d22d500685f126074805876f",
-      "size": 5459,
-      "source_size": 65981
+      "sha256": "afc0512d1b23bc9ea31407a275e69479734829ffdceb21390abb1108046be367",
+      "size": 5486,
+      "source_size": 67517
     },
     "Games/Video/1993/Alien vs Predator The Last of His Clan.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0aff4a3168259cd8a27852599310aac3c94baea3cedc1f64d699dfad0c35e2ca",
-      "size": 5475,
-      "source_size": 66048
+      "sha256": "c53cd05b2a6a1846e396bf9e23a976d753951a05358426a735528e8c87fcbada",
+      "size": 5500,
+      "source_size": 67584
     },
     "Games/Video/1993/Bubsy in Claws Encounters of the Furred Kind.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6f9d8ae60699c76bfaaf6846a25fcba43a91d58198145bc4a9b3b572b9076856",
-      "size": 5562,
-      "source_size": 66445
+      "sha256": "27e05c76ea8953af4ef0c8ce537684a10b2bed480aff5ecfb9021e418dee933e",
+      "size": 5646,
+      "source_size": 68217
     },
     "Games/Video/1993/Cool Spot.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8f9467471fb65264a685b60e825c0e6c8d560a03280c9b52960099edce3019d2",
-      "size": 5496,
-      "source_size": 66056
+      "sha256": "4848e0e941739b39f04c82ecfbc32477aeecf7a3a058128bb90485ead21f952f",
+      "size": 5579,
+      "source_size": 67828
     },
     "Games/Video/1993/Day of the Tentacle.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "15f1a05e7a4bca10fbe8ce424cafefac52e38e5a3d31684f4402a182f5fafb69",
-      "size": 5478,
-      "source_size": 66048
+      "sha256": "d63bd6a30407d6b29e51980a4bc948e4759ad1089fc1c9068923c215901f6423",
+      "size": 5500,
+      "source_size": 67584
     },
     "Games/Video/1993/Daytona USA.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "184e9f166ab1743d5c7f92430b0cdf35227199009e2abaab2db35379fd185d38",
-      "size": 5586,
-      "source_size": 66517
+      "sha256": "af2dcfe713231a1d9f024d31efb54efdf82e9467e56ca27ef9116a3f928bd91c",
+      "size": 5610,
+      "source_size": 68053
     },
     "Games/Video/1993/Disney's Aladdin Genesis.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6cc8cd473f8c0beeaba24800d9ae30f4daa3f050ba4f00eb06ca382ad12610c0",
-      "size": 5562,
-      "source_size": 66514
+      "sha256": "83b662ae45e543ce2a3d04cf846604ebe18c9773cdbd7b4b9203f886ab7c33ee",
+      "size": 5592,
+      "source_size": 68050
     },
     "Games/Video/1993/Disney's Aladdin SNES.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "879274a8e5703e98b39cee6f4611fbc5a22612d98d95c83c4a0e3d5f73e573b3",
-      "size": 5514,
-      "source_size": 66329
+      "sha256": "64d43839dfa4962f8f9880201679f12aa2310b2e106b81b97ebd4f04f7e72683",
+      "size": 5546,
+      "source_size": 67865
     },
     "Games/Video/1993/Disney's Aladdin Tiger Handheld.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b19e0c0d22c5b2bc10599a5c5812849bed5036eb40a3f88cf59bdc8bf67809fd",
-      "size": 5417,
-      "source_size": 66102
+      "sha256": "680e0a03eee98082a7c6831d425d57441007b1e354aae140e02fcfffac30a99a",
+      "size": 5443,
+      "source_size": 67638
     },
     "Games/Video/1993/Disney's Aladdin Tiger Wrist Game.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6b2db72c00677cdb9bb951f1384097a2388f3809a6cf4f0bd4e71f1c533afdcb",
-      "size": 5420,
-      "source_size": 66115
+      "sha256": "9044b4ad93fb71510bc5bbfcf7f0338587a3c3577ce57e1c9de74e5bf2f7c50a",
+      "size": 5447,
+      "source_size": 67651
     },
     "Games/Video/1993/FIFA International Soccer.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f86ad383d1a400c16235e1f47b6d570e82bcaccabd42676e675a9b621f82813f",
-      "size": 5472,
-      "source_size": 66094
+      "sha256": "3404180cabdc94050420a43cfd677da94dd7201e63ede273f1d749fd64e46fb2",
+      "size": 5496,
+      "source_size": 67630
     },
     "Games/Video/1993/Gabriel Knight Sins of the Fathers.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4de65321dc6a7a1d7ddedf3080b76c82ceb1ed04378ad845cad4eeb9f0f54710",
-      "size": 5508,
-      "source_size": 66286
+      "sha256": "701c2a5a44e1369f06536dd39254f8661bfabf486f5a3ea0c1b15becf6c55e93",
+      "size": 5533,
+      "source_size": 67822
     },
     "Games/Video/1993/Gunstar Heroes.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bae6bccb0dc07cdb600a58e86c7b0e32b6f3be6374abf7dd4e52da062b74174e",
-      "size": 5489,
-      "source_size": 66007
+      "sha256": "0674c22b46f9a9bdcc1e6814cf7c21decc0b858f8abf50a961c15db12bf5dd0d",
+      "size": 5513,
+      "source_size": 67543
     },
     "Games/Video/1993/Jurassic Park - Amiga and DOS.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "953a87fabdc5a39b72871642a533f47f8cbc5dddf602bef915423af9db3d62ce",
-      "size": 5605,
-      "source_size": 66843
+      "sha256": "aa836d8fcb79f819f9c95cad75305dd8a8925ff33a8fb2bc675427b606e04fda",
+      "size": 5629,
+      "source_size": 68379
     },
     "Games/Video/1993/Jurassic Park - Game Gear and Master System.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "23e1713e719644eba883b7968297d328278650940fd354678bfab6fee194a791",
-      "size": 5537,
-      "source_size": 66470
+      "sha256": "61fbf7c4a574b7e2f7b5ba8068c4d7cfc7599772bf603b266b7a74494e7487b5",
+      "size": 5563,
+      "source_size": 68006
     },
     "Games/Video/1993/Jurassic Park - Genesis.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "67f905402ec422afb13e3034aceda174f25022876fa4d46b63d0113b721e44d1",
-      "size": 5598,
-      "source_size": 66853
+      "sha256": "e55cee7097fb7429e8fdc2916bbf7481f8aed67492f4b61b5d638a830b789e6f",
+      "size": 5622,
+      "source_size": 68389
     },
     "Games/Video/1993/Jurassic Park - NES and Game Boy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1cffc85ba32cdb236060e68c7308df7ded606bac99cf779e451b01c44fdefdb6",
-      "size": 5569,
-      "source_size": 66620
+      "sha256": "c090e871a9c68b01d46ffc97303d556a9579162003ffb2649d6a554e8cf94b16",
+      "size": 5591,
+      "source_size": 68156
     },
     "Games/Video/1993/Jurassic Park - SNES.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0d10301773fe198d233888e001ef2aa98f7a3e7f44114e2ec7f170bdd3064813",
-      "size": 5635,
-      "source_size": 67084
+      "sha256": "c5c47297ff73519db9177629629ab376d2a6d66d5fc4caa6a9cf601e0d98e37f",
+      "size": 5658,
+      "source_size": 68620
     },
     "Games/Video/1993/Jurassic Park - Sega CD.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "449cd3a2e653ef4c352fbd1c055d98d6d62ab1ef966a4c249bab65f59ce6c7e4",
-      "size": 5522,
-      "source_size": 66356
+      "sha256": "0b34531396758e75a0886aa3b87bf5c4af4a81184332183b41ca3472f48e21fd",
+      "size": 5544,
+      "source_size": 67892
     },
     "Games/Video/1993/Madden NFL 94.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ccb1ea6baa26aab97f02a0848dec704e8be0211076d3e0f48c5c8916906cd46f",
-      "size": 5482,
-      "source_size": 66011
+      "sha256": "351100e382dc8c01df5b816492a6682354e9569eff5a1f6d0ce2c00525cc9f7a",
+      "size": 5505,
+      "source_size": 67547
     },
     "Games/Video/1993/Master of Orion.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fac7d7219dedd0e1efe28f9596d36b0afae3b7018c7a8e37661ed7cd33bc2179",
-      "size": 5589,
-      "source_size": 66655
+      "sha256": "0b14c9aef6bc1336f55dca9540d6a318b9927150091563da54bddc3197a826dd",
+      "size": 5613,
+      "source_size": 68191
     },
     "Games/Video/1993/Mega Man X.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "51ece047cea808c96c487ca301befce603d7be9a09b2076fdf25525d4bfa060e",
-      "size": 5580,
-      "source_size": 66438
+      "sha256": "82ff7d6e88d2bd14c1473897a512b929c13ee94ae05bcdf9877b370ccb06b349",
+      "size": 5604,
+      "source_size": 67974
     },
     "Games/Video/1993/Myst.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cde0252113f92c07e4262a8d54ca38681f4d8ed3a14a14f26e6121eaad14caeb",
-      "size": 5746,
-      "source_size": 67590
+      "sha256": "eaa8dc8bd5a95ddd846af5ee125e218732e0a54512d94fc47cfa59244c68e15b",
+      "size": 5773,
+      "source_size": 69126
     },
     "Games/Video/1993/NBA Jam.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "86a2e6b81bcffd023839eb3b283adc0d6abebc49c2e4b0cff607c0ddbb7416df",
-      "size": 5540,
-      "source_size": 66355
+      "sha256": "867eab25b932f51e74ff84e86da3490369f19d2e290da9491b0a1abff6ede402",
+      "size": 5565,
+      "source_size": 67891
     },
     "Games/Video/1993/NHL 94.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "470b9061e83235b4b892beb8fcd880e74c53cba8b8587564cf92c722073df4e5",
-      "size": 5446,
-      "source_size": 65888
+      "sha256": "22e61f4af6910871b0334d268cd09bf9a0be3aaf622cc889b9d86a0f635d336c",
+      "size": 5471,
+      "source_size": 67424
     },
     "Games/Video/1993/Ogre Battle The March of the Black Queen.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e749551e974bc7cb0d85e49a7fa71c4b088864f4ca2a030c7e1f1c3dc999ca6f",
-      "size": 5625,
-      "source_size": 67060
+      "sha256": "d230f7f74a53549eb68ddf129adf9d40afb0f440cc1dff87e47ba8aec2d6abdf",
+      "size": 5650,
+      "source_size": 68596
     },
     "Games/Video/1993/Phantasy Star IV The End of the Millennium.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "38047540a0b817d294ad81dff02b21f2387636b05dac45511f279fd7c11451f2",
-      "size": 5477,
-      "source_size": 65958
+      "sha256": "0d7609c7c09b4da8206f7114d854a786de55e3e19db8377c55a1941fed6cd126",
+      "size": 5501,
+      "source_size": 67494
     },
     "Games/Video/1993/Prince of Persia 2 The Shadow and the Flame.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "53191ae32e169ea8e4c3cb1252a7a6ff9cf4faae4d9aa22ea66fc027d1fb6615",
-      "size": 5522,
-      "source_size": 66347
+      "sha256": "ace9b63c58e095896f037abcf7d4c5e64f3b67dce2aefd87f184d13e67423eff",
+      "size": 5545,
+      "source_size": 67883
     },
     "Games/Video/1993/Return to Zork.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4332d73799dfe2d5d8d9555c94e4eebe11f632849546509ff2f65d510164296a",
-      "size": 5613,
-      "source_size": 66832
+      "sha256": "30167b3562f4063cd8635daa7b2f4f71474827325c199fb3f01fc5216f8e0f3e",
+      "size": 5638,
+      "source_size": 68368
     },
     "Games/Video/1993/Ridge Racer.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e4733ff4d0b5928c0277070ce0353537c71b4c791bc75ef12a0bdb4238f050fb",
-      "size": 5541,
-      "source_size": 66327
+      "sha256": "29b7efbba1f7495e403acedc8dad3f26e70a186e6073c14d73aece89e55b71d1",
+      "size": 5568,
+      "source_size": 67863
     },
     "Games/Video/1993/Rocket Knight Adventures.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2bbe0d3f685f9f4acbba65b6295a20c0aac93da50d9917fb785cae7c8f452204",
-      "size": 5508,
-      "source_size": 66205
+      "sha256": "7886f038f6b9fd7a5bbcbccd583fccca7e723ca68a3de2167b131302275eef1f",
+      "size": 5593,
+      "source_size": 67977
     },
     "Games/Video/1993/Sam & Max Hit the Road.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2ddcb438313f48421836a3535621d197beee3300b756d8a24bc0e93b938c0fcf",
-      "size": 5515,
-      "source_size": 66158
+      "sha256": "0a4b9d4841939abaa7c24dbce2ae3ae9d9aee8d01fd5b6b412a0d0774511c3f9",
+      "size": 5538,
+      "source_size": 67694
     },
     "Games/Video/1993/Shining Force II.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b32d0c28ca2956362f15a88396c8e3e49eb79ac07fdf56afa705776385809818",
-      "size": 5572,
-      "source_size": 66550
+      "sha256": "c3b8dc6cea29f21abccec6360301e90df42e579fdfcd9ed580573faf255b7037",
+      "size": 5597,
+      "source_size": 68087
     },
     "Games/Video/1993/SimCity 2000.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "31cef2561f809b1d472e0c5132066204ad3a86baf04763fd0f407e8df5a7f940",
-      "size": 5526,
-      "source_size": 66225
+      "sha256": "415a2aa695e33f8edb1ff40099ea974ab40699e3bdb086e70e964a6f89de3fbe",
+      "size": 5552,
+      "source_size": 67761
     },
     "Games/Video/1993/SimFarm.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8d92d1cd7ad85affc6c6ab8b88402a8481caae4934fc70d173bc1416d7c3f8c5",
-      "size": 5438,
-      "source_size": 65956
+      "sha256": "61fb78be75a62068477fc0965928e92a713ec76ea48628d9312479459a4badbe",
+      "size": 5459,
+      "source_size": 67492
     },
     "Games/Video/1993/Star Fox.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d458f962cda3d42f1ad986df6cddebe1ace8ebc666c2b6e12188af716cd7dde6",
-      "size": 5593,
-      "source_size": 66711
+      "sha256": "eec1115136bd6c92ba16240ba3ef6a3880d07c7640700cddbbd46c1c8009bc51",
+      "size": 5619,
+      "source_size": 68247
     },
     "Games/Video/1993/The 7th Guest.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6de768332d153f2e2a19ae75619c21a093811b891d6c1e290992dafa226a7703",
-      "size": 5518,
-      "source_size": 66536
+      "sha256": "a56db1504084c28b3a56649ae72ba60023f629c02cf6adf18ecf937fbe30e2de",
+      "size": 5542,
+      "source_size": 68072
     },
     "Games/Video/1993/The Addams Family Pugsley's Scavenger Hunt.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6cd07d034825ba868765b598b74269808681a8112ca079c4b9e5fa11640520f5",
-      "size": 5800,
-      "source_size": 68249
+      "sha256": "bcd11e6270679ecf773ca25791a915206ad4a47193dd0a915bfd4b092b446976",
+      "size": 5827,
+      "source_size": 69784
     },
     "Games/Video/1993/The Legend of Zelda Links Awakening.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ef97ad9f3eb3bab25c02d37044b2a6aded8be638e17dc5a5535c639aa9497ce3",
-      "size": 5520,
-      "source_size": 66311
+      "sha256": "582f06c0e70e12bac61bdc24f380a535629a241d33da4e1c647f349cce604134",
+      "size": 5544,
+      "source_size": 67847
     },
     "Games/Video/1993/The Settlers.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6b1869e604df843f4ccad55aaa2e2a8d8d51a0d9bff30fca24e6f14d4a456967",
-      "size": 5704,
-      "source_size": 67223
+      "sha256": "90917852ac5e4aaf511b5a8ed5282b8b4afbb50fc89e4aba291da1772569a831",
+      "size": 5728,
+      "source_size": 68759
     },
     "Games/Video/1993/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d9b2b5d376231d0421be8ca2d96610bb62b52d4ffc1abfc42c1f480a24538c12",
-      "size": 5012,
-      "source_size": 64520
+      "sha256": "e9f3c8cf5edeffd491d29418ddf73b458844911bd36c9a5dee1918513e8926e3",
+      "size": 5038,
+      "source_size": 66056
     },
     "Games/Video/1994/Alien vs Predator - Jaguar.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "759f5a338050b31829a7cfdc1c79b9a677f7d66c9521e8c322f238c6aacf5813",
-      "size": 4952,
-      "source_size": 56216
+      "sha256": "e45a3fc15733511e592c8c004d72b7a550d1d509e9820c864902f9415d95f968",
+      "size": 4968,
+      "source_size": 57240
     },
     "Games/Video/1994/Alien vs. Predator - Arcade.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5be4036044dc52d9dacf498463cb005e92e6965363ec2ade44c91fd709321e48",
-      "size": 4948,
-      "source_size": 56189
+      "sha256": "4e9515a2d2e04598b06e8bbd7c850a22289db5a688db28f732420e2320ca313f",
+      "size": 4964,
+      "source_size": 57213
     },
     "Games/Video/1994/Beneath a Steel Sky.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "58292fb55b71dac729579e66d1910d0c91793e180ff145568e818d98f0652cce",
-      "size": 5481,
-      "source_size": 58721
+      "sha256": "f12c22b10b3a314dd3f32db3022edcdc00912efcd4ae5e1f6c817de83b0196f8",
+      "size": 5503,
+      "source_size": 59745
     },
     "Games/Video/1994/Disney's Activity Center Aladdin.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "72f0e6ced882f6748c863b24c91695f35496d79db48c59733f2f3a1374b8b00e",
-      "size": 4999,
-      "source_size": 56624
+      "sha256": "38cc6a5f29f93697b48d9371cb22fb38344bc7c9ece51d9691d3e2a03d6e2349",
+      "size": 5015,
+      "source_size": 57648
     },
     "Games/Video/1994/Disney's Aladdin.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "36b505a3cb98366d692e200af052f59d56869a34b422c20e10d9672db31bd34b",
-      "size": 5019,
-      "source_size": 56506
+      "sha256": "12eb8443bc15ee2d90af435c1801b973c356ab40f41dc05bc48bb3a92f851a66",
+      "size": 5036,
+      "source_size": 57530
     },
     "Games/Video/1994/Donkey Kong Country.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5987ddba95b1f9a35b56f5bc61b9c8424d79f2775c5ff87da88b4df68f0b3ba7",
-      "size": 5011,
-      "source_size": 56314
+      "sha256": "c050eef4956cc4c0fc9631971df4bf25a6e1195699242b69e0702b28aa88924e",
+      "size": 5026,
+      "source_size": 57338
     },
     "Games/Video/1994/Doom II.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d99a22be2654a9318b69dcbc62c1889b93f3acb9ad0957957e4dacdbfd111e70",
-      "size": 5222,
-      "source_size": 56568
+      "sha256": "edc149da0e2904b51923cfae6cdb5a1d7b84f1d00fa5274d8feb5c884102bd01",
+      "size": 5240,
+      "source_size": 57592
     },
     "Games/Video/1994/Dynamite Headdy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dee9278315ca6de7163f15caf3360b58fab7a4bb81abf7adfe62c13251f69516",
-      "size": 5019,
-      "source_size": 56363
+      "sha256": "763b5490f65c3342a283952161237bb07d1ab7d1dbd24eb02c56ab8a8118d181",
+      "size": 5091,
+      "source_size": 57623
     },
     "Games/Video/1994/EarthBound.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ec05c24818d8df2fded3680c1fcf9baae96adde5cf95b5924a8d760ba558b049",
-      "size": 5105,
-      "source_size": 56501
+      "sha256": "08ef739c89ab7fa72124723394d14cac2c819a10846f2f4962c934cabd7f944d",
+      "size": 5122,
+      "source_size": 57525
     },
     "Games/Video/1994/Earthworm Jim.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "847d32547254c0151e5e0edf8852404d94ad9909ae8663b3a7a6e8701f368e46",
-      "size": 5030,
-      "source_size": 56487
+      "sha256": "eda3fcc74aada52e00588ffa2332007f32c1aa38ca33db247315b2597225c521",
+      "size": 5045,
+      "source_size": 57511
     },
     "Games/Video/1994/Final Fantasy VI.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "91af09486a3ccc3888abeec27c74969ef9c1221a2f92a19b836661bc582f6887",
-      "size": 5042,
-      "source_size": 56369
+      "sha256": "66c10e19bef81492a10dad5b80e0bdadb3eab8f40ff1c0ca2c096c4575a5bb1e",
+      "size": 5058,
+      "source_size": 57393
     },
     "Games/Video/1994/Jurassic Park 2 The Chaos Continues.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "95d81809b4ef79c3967a4f6e495d672ed87ada27ca66f90eb6c895619a582f0e",
-      "size": 5092,
-      "source_size": 57191
+      "sha256": "351e8857304863dd24b3c7a335a882c64db5ce79f2d7abb3f06ba0df3dad15e2",
+      "size": 5106,
+      "source_size": 58215
     },
     "Games/Video/1994/Jurassic Park Arcade.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6afcee88fbd4c41604a320d8e32b12c3ea442a83ea0c66c5a51c640899ba4bf6",
-      "size": 5054,
-      "source_size": 56660
+      "sha256": "cf8264952942c85f9ebf236d4d120f712e7b722bdbf4679a23b9afae20f1f7a8",
+      "size": 5069,
+      "source_size": 57684
     },
     "Games/Video/1994/Jurassic Park Interactive.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1e13367eafe8553be4cc9b73fcab484add61d3f26649dc77a826813fac96857f",
-      "size": 5046,
-      "source_size": 56767
+      "sha256": "d9122c37076169b043e45284fa06ebd50811994e73ff348387a33db40e296b70",
+      "size": 5057,
+      "source_size": 57791
     },
     "Games/Video/1994/Jurassic Park Paint and Activity Center.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "baf65f19e73f2219d36876cbe6cedc523af2164c72cddecaf7c5f9209edaa950",
-      "size": 5000,
-      "source_size": 56558
+      "sha256": "4530df34e2e13286ae0a446253df21c3e425afeb77815ecad4108a730887ce11",
+      "size": 5014,
+      "source_size": 57582
     },
     "Games/Video/1994/Jurassic Park Rampage Edition.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "114d4eafedeafb10a5a463caabdb4af766a5891013c4eb6cd827fd87f147c06a",
-      "size": 5114,
-      "source_size": 57159
+      "sha256": "8c7e54e10e57fe8fd32bd3922f18283195cf7e3716227f33bec86ae9430307e2",
+      "size": 5130,
+      "source_size": 58183
     },
     "Games/Video/1994/Killer Instinct.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f3272305f23dea616ba6b77ece89430d232de347fb43f1ec79353b676c9c956b",
-      "size": 5146,
-      "source_size": 56959
+      "sha256": "dfc096a0a9c730844726fa5a40f8df42fd919bb51b927f08f99c9d2084249e17",
+      "size": 5215,
+      "source_size": 58220
     },
     "Games/Video/1994/Marathon.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4bac70d8a4c473b1a1228910937b319fef2223d338ea3af45cc2f710322991c8",
-      "size": 5247,
-      "source_size": 57352
+      "sha256": "f04d0c182b44fe7426b5e128458b42e1f2d277ba96fdc22c23d721734db9f9ca",
+      "size": 5265,
+      "source_size": 58376
     },
     "Games/Video/1994/Sid Meier's Colonization.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c5b95dcf0b0ead9d3c8cbb70901ee4f4e97b58ce01d2573417bf1e02b20032b4",
-      "size": 5017,
-      "source_size": 56506
+      "sha256": "8ccc171211d6152af69168b7c885bc0c34d45748baad50a333e780c1df657256",
+      "size": 5031,
+      "source_size": 57530
     },
     "Games/Video/1994/Sonic & Knuckles.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c8ca00f8b95a0f8cf17814b4e4e1cf0c813704f1efb197bb50f996b4cda32665",
-      "size": 5497,
-      "source_size": 59239
+      "sha256": "89e26707dba46ebf27f9f6cf294d1f18f1c01a864c95b396e078317df77b6efc",
+      "size": 5514,
+      "source_size": 60263
     },
     "Games/Video/1994/Sonic the Hedgehog 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "86158540e205109fd2a3e9fd56c7c156faae2724bbffb5673d71de0e5d5edf23",
-      "size": 5646,
-      "source_size": 60258
+      "sha256": "831250de33e1b67e7c52eb4a693f99ff6d502c08471d4853ef628e9d0b9434b1",
+      "size": 5665,
+      "source_size": 61283
     },
     "Games/Video/1994/Streets of Rage 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "522fd9d36f57304bc19fbeedb2f382132585ff9ff253c18f5f174fff56bb5494",
-      "size": 5477,
-      "source_size": 58490
+      "sha256": "60f96a526f576e49209db5bab8c272400f3b4f7feb2eae9cfe6a50b387a3eff8",
+      "size": 5497,
+      "source_size": 59515
     },
     "Games/Video/1994/Super Metroid.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "470d8337021fbcd44ebff8cd8f53e67f52aba075c1e2a2aaf2155f15e0a1fe88",
-      "size": 5272,
-      "source_size": 56738
+      "sha256": "ecb7de1ac0a2d739f4fc10a630e4615161c2210f36fad78a9560bf43a543b1fd",
+      "size": 5287,
+      "source_size": 57762
     },
     "Games/Video/1994/Tekken.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3f84bfe834154ca98abb0d485da6359396671b0fb6eb654896a5f7c666e8b19e",
-      "size": 5828,
-      "source_size": 61931
+      "sha256": "66088e9e45b2c61e59f4700b44ee9b5342fe42eae69c2f4c8e5a44c8e356a472",
+      "size": 5849,
+      "source_size": 62954
     },
     "Games/Video/1994/Tex Murphy Under a Killing Moon.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "40fe3003706d62594c5c81ec292ead18662a14aa2167a5ff78ff87b30cb07947",
-      "size": 5051,
-      "source_size": 56770
+      "sha256": "b9749ba479dcfa4e8bee12dff52a4d0b036bd27d7cd0b079f5796ac1631b2fc4",
+      "size": 5067,
+      "source_size": 57794
     },
     "Games/Video/1994/The Elder Scrolls Arena.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "10eb5d470fb368486300062f700c16ab445bcd7465516f92439b419060a679fe",
-      "size": 5517,
-      "source_size": 59072
+      "sha256": "9366537de1e28365743aabee07b6de9eb5d1a35898a46c3a2def4d5a5051d0b5",
+      "size": 5534,
+      "source_size": 60096
     },
     "Games/Video/1994/The Need for Speed.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "39e1d7d6f8ea604b6e4e6e472e1c0fce29142312997098d0d7e4d6c615691e0b",
-      "size": 5087,
-      "source_size": 56733
+      "sha256": "fab1fa1df0ddcc674aaaa337aaf000bc1c262a5d5949c170d643c20ef6d871f2",
+      "size": 5103,
+      "source_size": 57757
     },
     "Games/Video/1994/Theme Park.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3efd13075ed306aed71f6f4f946ab34944a3b3cfe344b4934ad01fdf51fc56fc",
-      "size": 5015,
-      "source_size": 56262
+      "sha256": "60ce92a9f3b766ab99f13e22214d0ef2983dbd8b795eef7366162d1747dabb76",
+      "size": 5032,
+      "source_size": 57286
     },
     "Games/Video/1994/Virtua Fighter 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ee80ae634ba002cfaedc324da22c86101c4032270b379da703b6240a3408285f",
-      "size": 5015,
-      "source_size": 56358
+      "sha256": "48af5884ba73a057929e41fd08a35ae30fd86483c2191e478698813bc813170b",
+      "size": 5035,
+      "source_size": 57382
     },
     "Games/Video/1994/Warcraft Orcs & Humans.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4cddc2406c44e72265803b606b288f43614bec94ddeccc28db62f0770f85af74",
-      "size": 5240,
-      "source_size": 57832
+      "sha256": "29714de0d0013f48bfdcc00abdb2857b49d829c053357b41508adc5ebadc3b29",
+      "size": 5258,
+      "source_size": 58855
     },
     "Games/Video/1994/Wario Land Super Mario Land 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e717f9e3f19ebb389d11ddd1ddb14c9035725bd48738a0b09f95c54d74c1020c",
-      "size": 5092,
-      "source_size": 56906
+      "sha256": "66ccdc8843caf7dcfd6a905ca764653ce55b9f46dd770fd88f46d2f67d5e5a10",
+      "size": 5108,
+      "source_size": 57930
     },
     "Games/Video/1994/X-COM UFO Defense.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8a218b4b779f7b2850afe8e39466d86746645be00d577af07bcef0dfd466a845",
-      "size": 5160,
-      "source_size": 57019
+      "sha256": "e7ac40e7f81a613ce9e6f0d216ed62029f47f5616cd090f374c83e80ee8a7fd2",
+      "size": 5176,
+      "source_size": 58043
     },
     "Games/Video/1994/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "567ee7668ba0c60c2e0f39df09efe8d0bdaa9023e327351845225619a81968e5",
-      "size": 4536,
-      "source_size": 54760
+      "sha256": "8dcdbde25df896b78803d673d17f204e9205734862a0fbf441e3ce7b0a348521",
+      "size": 4554,
+      "source_size": 55784
     },
     "Games/Video/1995/3D Pinball for Windows - Space Cadet.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8b00ab330bf8564de21373b242ef454842518f9d591c23857607e014849b9d01",
-      "size": 4485,
-      "source_size": 43175
+      "sha256": "18cb9ab7a858eb264a073c4acbb5466732d929f11faea7cdc27e6024b15ffcd9",
+      "size": 4507,
+      "source_size": 44180
     },
     "Games/Video/1995/Addams Family Values.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "73c07bb7ea115210abbbb0c8b895fbc560dd086295a8c67198ed6f7a014df2c6",
-      "size": 4827,
-      "source_size": 45157
+      "sha256": "27a3ea015ee5073799acc1f8c66b39ace6886e86ca0ed0e3f065d6e2c90b13eb",
+      "size": 4849,
+      "source_size": 46162
     },
     "Games/Video/1995/Aliens A Comic Book Adventure.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0a882663f8cc6ecbc39bac2abf68b923266ea41b22d67d9268b6877099f3b35b",
-      "size": 4487,
-      "source_size": 42963
+      "sha256": "cfeccff1b47f3e4220c5a21bfc383f16cc1f92313d67e9d41a65ecebbc37fda8",
+      "size": 4509,
+      "source_size": 43968
     },
     "Games/Video/1995/Chrono Trigger.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2fe6be2c373dcbbffe9c4ce07fa70ded5c82455849b690d03171b657fc4fbda3",
-      "size": 4620,
-      "source_size": 43127
+      "sha256": "f8ea004b071a55761249ccbea657a04bcfbc3032703e4737098747f3af62a23d",
+      "size": 4642,
+      "source_size": 44132
     },
     "Games/Video/1995/Clock Tower.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4d34927d0f1f69d0419afe739d8ab9884cdcee2aecb0e5ab658bd5e63881d424",
-      "size": 4537,
-      "source_size": 43042
+      "sha256": "2ddc9b24e0d47496b37214f54e6517e42865248b08b51bd882320b1738dedf3f",
+      "size": 4559,
+      "source_size": 44047
     },
     "Games/Video/1995/Command & Conquer.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bee99bb22b91cfd138dc4abfe327da99ea57774e521268fbe4de99aa0ea971c9",
-      "size": 4729,
-      "source_size": 44267
+      "sha256": "d8c02838053df33d6a9b69c6cba50c5421607fe545874beaf978168b50f2c92e",
+      "size": 4751,
+      "source_size": 45272
     },
     "Games/Video/1995/Discworld.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4a2a90780d619808faf9763a25a899a9947a8b44cdf23be256f68f01958b9cf7",
-      "size": 4601,
-      "source_size": 43494
+      "sha256": "a9085010eda498a83c43aab8f7ab76fed92335095716299769753a9437ebc7b5",
+      "size": 4623,
+      "source_size": 44499
     },
     "Games/Video/1995/Donkey Kong Country 2 Diddys Kong Quest.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f213b11b373e0ac1cee4104f93b89bce4d94d8e6cebf6560092c881389614132",
-      "size": 4588,
-      "source_size": 43435
+      "sha256": "0d42564d5e877efd3c9b36e0c68df98fabf7f72327ea28bf83913b8f78d4a1e6",
+      "size": 4610,
+      "source_size": 44440
     },
     "Games/Video/1995/Full Throttle.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "92352bfe196f4b16d3983b81ac7b217e34ad8e803123fb0fecc7c3991ac43478",
-      "size": 4541,
-      "source_size": 43033
+      "sha256": "1f3be03cfdb1832f29d22cb905969db5ebd94bc731d463f108d2c0c71d7b9256",
+      "size": 4562,
+      "source_size": 44038
     },
     "Games/Video/1995/I Have No Mouth, and I Must Scream.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "92e7ac1b174f26f4584a0142a0ac3eb0d06b58e57f4d87c0ffd5516cc31b1fad",
-      "size": 4600,
-      "source_size": 43608
+      "sha256": "55431fd4d07b8bee7c8e70488ae2da48b0daf6943e2d7c0107aa8639d41c4a25",
+      "size": 4623,
+      "source_size": 44613
     },
     "Games/Video/1995/MechWarrior 2 31st Century Combat.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a935a134cafa9e06d601721a7d9bc60f65e8d6f4805feb534e9222e68ce747db",
-      "size": 4569,
-      "source_size": 43391
+      "sha256": "aec29575412851358f35da93d918728fc71e7bc2cdce5dbf6c8868066d53a83c",
+      "size": 4594,
+      "source_size": 44396
     },
     "Games/Video/1995/Ristar.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5aab6455c6801e48c0b56a76f02509b36b3e5d66d1c1c1b0939571e0fe00b217",
-      "size": 4544,
-      "source_size": 43091
+      "sha256": "8236690c636fc935a85df243af9b7735e9bad28aaf2c33b189059676041b10dc",
+      "size": 4621,
+      "source_size": 44332
     },
     "Games/Video/1995/Star Wars Dark Forces.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8df273eccbed7bda858766af47023766f276164c3fcbde3b890e0e2b583ef2b7",
-      "size": 4591,
-      "source_size": 43436
+      "sha256": "64bc93e32967af9801295bde362680d96a49aed9ac56be7e8e3e248084c78deb",
+      "size": 4614,
+      "source_size": 44441
     },
     "Games/Video/1995/Super Mario World 2 Yoshis Island.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d1592dfc1ca870453188d8938472dce944729e3f4d5ff69ccf1e392407b1c113",
-      "size": 4565,
-      "source_size": 43390
+      "sha256": "8ad398637baf6eda31cdcef3289fcdaa66a17667f09cb4138ac6383fb0e3ee21",
+      "size": 4586,
+      "source_size": 44395
     },
     "Games/Video/1995/Tekken 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fcb8d7849294f5f6e22d3fb60c2ea30b6979e502c95b57e7e2dc7d43c42aac3f",
-      "size": 5697,
-      "source_size": 51262
+      "sha256": "8f7d7bf1cb3f705a88b146a9fc437740ef15a8c433bcd8a73dda9f1e9d982e8d",
+      "size": 5722,
+      "source_size": 52267
     },
     "Games/Video/1995/Vectorman.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "891a4414adbb22729c56ac1a3562c17aad746ab57c128c4090d0deede44f1840",
-      "size": 4541,
-      "source_size": 43055
+      "sha256": "e653148ab184972a7e5daba422c1f4a0689dfd17c44ff084433c82521c71f3ca",
+      "size": 4620,
+      "source_size": 44296
     },
     "Games/Video/1995/Warcraft II Tides of Darkness.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "75ab15bda4cdd64cd0d39854cd4d4afa32ac942b7dce04459e84ba44106254fe",
-      "size": 4777,
-      "source_size": 44611
+      "sha256": "7b95b4ca235f9068b8d331752e3af0fc784e5342c62585f60c81bcf949362a53",
+      "size": 4800,
+      "source_size": 45616
     },
     "Games/Video/1995/Worms.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "83e07047936f6320beaeaddc2eb7a58bceb6bae2178c2b0c8a56333f2ebbb4b3",
-      "size": 4575,
-      "source_size": 43325
+      "sha256": "4be965ef39a06f08bae341d62925d897cce5109e5c1b8427e18bac29ba8cc721",
+      "size": 4597,
+      "source_size": 44330
     },
     "Games/Video/1995/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8ccf984e1b7dbd94e5e6fab1222902f2c42890ce1b45150c7e464b2f0c1e91b3",
-      "size": 4073,
-      "source_size": 41501
+      "sha256": "c64337513342b1df1b5128748fadd7a40e927d4b1cd5eca563faf87029da795b",
+      "size": 4095,
+      "source_size": 42507
     },
     "Games/Video/1996/Alien Trilogy.html": {
       "content_encoding": "gzip",
@@ -10643,9 +10643,9 @@
     "Games/Video/1996/Command & Conquer The Covert Operations.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0344c73402a190f1a02bd398986700e4448d6aa97e6a7b127543635cb25b38b0",
-      "size": 5044,
-      "source_size": 52769
+      "sha256": "6dde31ad8e78f8c8752c47a75fd97607b0c21420680bfbbf8b9fdf0eb4445a52",
+      "size": 5043,
+      "source_size": 52768
     },
     "Games/Video/1996/Duke Nukem 3D.html": {
       "content_encoding": "gzip",
@@ -10678,8 +10678,8 @@
     "Games/Video/1996/Master of Orion II Battle at Antares.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a400f0a0e40efc298f82553d239a7275c26fdcd3aa61ad1466fc2c8b8bb5d9e4",
-      "size": 5088,
+      "sha256": "cd628cc382643dc25032256c83b8cb2afde92108977201db7a4bd2a1fe8dd577",
+      "size": 5087,
       "source_size": 52806
     },
     "Games/Video/1996/Metal Slug.html": {
@@ -10748,8 +10748,8 @@
     "Games/Video/1996/The Elder Scrolls II Daggerfall.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "46f92f086e9b2a9e28efc4e401f9b0c487fdbf748e8fc8f4d5eed157b6a94995",
-      "size": 5620,
+      "sha256": "67e123fc2aac9b0f1889ad1c7f9b52c482b84722aef40707f420611f6d5b2db8",
+      "size": 5619,
       "source_size": 55942
     },
     "Games/Video/1996/The House of the Dead.html": {
@@ -10769,7 +10769,7 @@
     "Games/Video/1996/The Settlers II Veni, Vidi, Vici.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "246c3e10726a65dd80c6f67db0e64d77b1d5ef36d12332ccdd2c7b4d9fe492ca",
+      "sha256": "47226e3ebe2fcd850c9d17cbb34f624eaa9614f76a21472f124972b32d0c9a0c",
       "size": 5369,
       "source_size": 54082
     },
@@ -10783,9 +10783,9 @@
     "Games/Video/1996/Warcraft II Beyond the Dark Portal.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f9faf00a9bf8f3578ad57f576922b412bdfecce940261481fde398bd5ba71d05",
-      "size": 5085,
-      "source_size": 53024
+      "sha256": "f1b73bd104332e236d14e909d3024dd4fba1773d3346ca37480d43d52ba7257e",
+      "size": 5084,
+      "source_size": 53023
     },
     "Games/Video/1996/Wave Race 64.html": {
       "content_encoding": "gzip",
@@ -10797,9 +10797,9 @@
     "Games/Video/1996/Worms Reinforcements.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1ee4d56e59fe3319430468c648005ec502e318f522b2d340a843b6317feb1005",
+      "sha256": "59e775ae5950f93846e21a97095d163c0f7483f37e752169678c53a276cae633",
       "size": 5005,
-      "source_size": 52423
+      "source_size": 52422
     },
     "Games/Video/1996/index.html": {
       "content_encoding": "gzip",
@@ -10867,9 +10867,9 @@
     "Games/Video/1997/Command & Conquer Sole Survivor.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c8860f840b885abe7b50387c21125683c2b7fba8fb987ffbd2296c2c5a8cfd48",
+      "sha256": "f1c58d33decfa71a49e13bd51fffd5658aa55037ab7ddf966d1b9acc7ae34e4b",
       "size": 5321,
-      "source_size": 62309
+      "source_size": 62308
     },
     "Games/Video/1997/Diablo.html": {
       "content_encoding": "gzip",
@@ -10944,8 +10944,8 @@
     "Games/Video/1997/Need for Speed II.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "03e401f81af6ce3a1fe6b1ae5f4c65269e2c4446e9a87742445359de7910b563",
-      "size": 5401,
+      "sha256": "7468c4e20a4e315d7b6c7e2b549713b630d8a23d19a86cc596414fe1b67b9036",
+      "size": 5400,
       "source_size": 62693
     },
     "Games/Video/1997/Quake II.html": {
@@ -10979,14 +10979,14 @@
     "Games/Video/1997/Tekken 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0467851524909a7211447cea71c5a0a5f7807c89352f4fcb4bd6c87735c74a65",
-      "size": 6255,
-      "source_size": 68364
+      "sha256": "9af1e0ec80d1dedce28f9853a58da4cb384426ecc5dbca08c4b62c397642aac9",
+      "size": 6254,
+      "source_size": 68363
     },
     "Games/Video/1997/The Curse of Monkey Island.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "613958dc0fc1c72eb5fcb44fed76dbec1c498767e625a40192fd208dfac8d98f",
+      "sha256": "8a16cb892856fd29bd6e4201ce9bb4c87ce9c4ed409b131b771f66f0db135fdc",
       "size": 5407,
       "source_size": 62398
     },
@@ -11042,16 +11042,16 @@
     "Games/Video/1997/Worms 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "654484db1182eff7d8aab81dd9cd1026e396f6fb7e3b0523353c67a4da78695f",
-      "size": 5344,
-      "source_size": 62398
+      "sha256": "c8d6d1e708b9970df9f9fd590ed573857d670da996f48aa6bf807ac29e4dede2",
+      "size": 5343,
+      "source_size": 62397
     },
     "Games/Video/1997/Worms The Director's Cut.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f6ff02835ae234de6a2364a888a05986d043cd122a94004aa763fa6a84feaa9a",
+      "sha256": "fc8677cd6622c04b922ca3b70609b71edeec483ecd2da7c580a6bdaf80fa9b84",
       "size": 5327,
-      "source_size": 62131
+      "source_size": 62130
     },
     "Games/Video/1997/index.html": {
       "content_encoding": "gzip",
@@ -11105,8 +11105,8 @@
     "Games/Video/1998/Daytona USA 2.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e3d66f0cb8268b8f8bb297f348106e9193988a57df6b0d4e79910ddd953fefbe",
-      "size": 5918,
+      "sha256": "01e13ccdba92b5a05ca7b97eed2a95943a259c11e11e8019c86fbe647a1864bc",
+      "size": 5919,
       "source_size": 68414
     },
     "Games/Video/1998/Disney's Math Quest with Aladdin.html": {
@@ -11217,8 +11217,8 @@
     "Games/Video/1998/Populous The Beginning.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "76146546f89e856ddb42858614200426622f94782c770151a98f9f3031256caa",
-      "size": 5957,
+      "sha256": "1b6ac9cf07bb45a010c53f02face60f831b0b2d0e27fec633e1fb16f9f96a1b1",
+      "size": 5959,
       "source_size": 68539
     },
     "Games/Video/1998/Resident Evil 2.html": {
@@ -11399,9 +11399,9 @@
     "Games/Video/1999/Command & Conquer Tiberian Sun.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "26497014ec7c0f33d7049edf4cbeef6681fc5f9730c9f86aedcb3390b04f3ebd",
-      "size": 6129,
-      "source_size": 69801
+      "sha256": "834623e0634ab998fc34b33eb1bc4d0657c7ce6c42cf31748c9b7fe2ad0100f6",
+      "size": 6126,
+      "source_size": 69800
     },
     "Games/Video/1999/Dungeon Keeper 2.html": {
       "content_encoding": "gzip",
@@ -12358,9 +12358,9 @@
     "Games/Video/2002/Command & Conquer Renegade.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "72f09f9ad8f938a2cb4edb5b0bcb7f92fb80ab4b346230827220c804226eae77",
+      "sha256": "106a6da6155f16b51affcebad5534300ee8e1d3a66e0649f097330dd83ceb62f",
       "size": 5861,
-      "source_size": 66597
+      "source_size": 66596
     },
     "Games/Video/2002/Final Fantasy XI Online.html": {
       "content_encoding": "gzip",
@@ -17706,9 +17706,9 @@
     "Games/Video/2020/Command & Conquer Remastered Collection.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "07588476f75b948b6180ecb9909dab19e52cab01db11fe1c1c6c928aef3109a2",
-      "size": 5742,
-      "source_size": 62795
+      "sha256": "6fd24dce83815eff8c48b98a1a3653350ac310d3aa810bab6a3d5fdd70a5bb2c",
+      "size": 5741,
+      "source_size": 62794
     },
     "Games/Video/2020/Crusader Kings III.html": {
       "content_encoding": "gzip",
@@ -18707,16 +18707,16 @@
     "Games/Video/2024/Warcraft I Remastered.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "22c1e5097e214df4f53a4251ad350f5e29763a5670ee9f81bec0e7b935f09e1c",
+      "sha256": "fc11541772d50ecd23499e04921f60364bf8de6c850c8cde41edbfadbb2b6020",
       "size": 5420,
       "source_size": 56145
     },
     "Games/Video/2024/Warcraft II Remastered.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "efc3041c523574e0f96561ea9ba52e61d87824d4129b478bcbc82286a778cd88",
-      "size": 5431,
-      "source_size": 56164
+      "sha256": "3903f76884a47ed45c29e4e607dab2592f724f172ef55f6cd119bc1b61ff6392",
+      "size": 5430,
+      "source_size": 56163
     },
     "Games/Video/2024/World of Warcraft Cataclysm Classic.html": {
       "content_encoding": "gzip",
@@ -19057,15 +19057,15 @@
     "Games/Video/Series/Aladdin.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bfd84405158e7892ca6d0d090d11eea544f0dee7775356a5d4100e2f36740245",
+      "sha256": "16a24cafc7681d1db999d2f8463f0cbb676faa321af9a721dd8eca49a18f7cd0",
       "size": 6157,
       "source_size": 76667
     },
     "Games/Video/Series/Alien.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "28e32cc05ebade77c98a27145e1854d77c15434d91783c77affd3414deda5fc8",
-      "size": 7157,
+      "sha256": "9f324487e723810e34571670af3ca998fb34839c89a220fa66427ccd3a02e434",
+      "size": 7159,
       "source_size": 90671
     },
     "Games/Video/Series/Anno.html": {
@@ -19127,9 +19127,9 @@
     "Games/Video/Series/Command & Conquer.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6eb6e63cdb537a3a80f7f65a8583c3386c532b1e91a857f0b11d4947685e3a2d",
-      "size": 6529,
-      "source_size": 84132
+      "sha256": "e4e8b209731d707a4113410740aa265987cf671d40cd412372d2ea77798f5b41",
+      "size": 6533,
+      "source_size": 84131
     },
     "Games/Video/Series/Counter-Strike.html": {
       "content_encoding": "gzip",
@@ -19176,9 +19176,9 @@
     "Games/Video/Series/Dragon Quest.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a2898d1adff5eee7eceffc83555da8dab3796a8d1e5c573f427fd11edb1c0cf1",
-      "size": 5918,
-      "source_size": 74316
+      "sha256": "9f3ea37734ad2705bf00d02fb3bc504c25bb41fc787dd8878d4409749c36b1c9",
+      "size": 5919,
+      "source_size": 74317
     },
     "Games/Video/Series/Dragon's Dogma.html": {
       "content_encoding": "gzip",
@@ -19211,7 +19211,7 @@
     "Games/Video/Series/FIFA.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "beb21f68f5ddb529c1a9ca4c6f976882500a3e28b5fc38eb01e5a3d5b55ba467",
+      "sha256": "df394b8a5824eb2af5f8fa8dba64aa3b5b5504ac102fc7842e4e7741ced1e388",
       "size": 5817,
       "source_size": 73660
     },
@@ -19232,8 +19232,8 @@
     "Games/Video/Series/Final Fantasy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d85ab9528d40ccded4c7cfd8073edf3cc6d6c66cf8e47099394b9a50eeb4160e",
-      "size": 5963,
+      "sha256": "915e3d3cb45a7151c5c42d0cdef0791e87b999b55efb9b62a23d1a46f9f3334d",
+      "size": 5968,
       "source_size": 75562
     },
     "Games/Video/Series/Fire Emblem.html": {
@@ -19253,14 +19253,14 @@
     "Games/Video/Series/Friday the 13th.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "85e8196945709421b59e52d6dada867cd10207912520be8272e7835b149fed8c",
-      "size": 5824,
+      "sha256": "bb229dd82e626f1e0c8fc4771d7708b120317b8084c1359d62f7ac79966f6fb2",
+      "size": 5821,
       "source_size": 73775
     },
     "Games/Video/Series/Ghosts 'n Goblins.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1f1eea6e43460826263d1371138e6d45f86c94da485093f789d741c20368b6fb",
+      "sha256": "dc7955f93016c6e5d73a9df59eb5601df9a8915ac1bf28ec59c35e62f37a258e",
       "size": 5806,
       "source_size": 73311
     },
@@ -19330,15 +19330,15 @@
     "Games/Video/Series/Jurassic Park.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8c4093985ee5090b927a28c511f1fefdb311544246804a9432f8cba0fb8ca171",
-      "size": 7056,
+      "sha256": "8770855ef4179ec1e8bc97a36d5c0575ef44d6c4c813e0689da64d4d5b6a9156",
+      "size": 7055,
       "source_size": 94006
     },
     "Games/Video/Series/Kid Icarus.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5d198dc6fa31381c5e8d386862adb66f355e03c5a121cacda1571c3161561490",
-      "size": 5774,
+      "sha256": "de945ef4ba238e65b462d026d93c286bed90b83cc71e1c7a870f64148588c4ec",
+      "size": 5778,
       "source_size": 73233
     },
     "Games/Video/Series/Madagascar.html": {
@@ -19351,7 +19351,7 @@
     "Games/Video/Series/Madden NFL.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "08c0df46d28aa1251a52418d7fc03bd2d413233fa99f841ce39ced435d82500e",
+      "sha256": "20b39f4113fec6da758de81e4582b071f453866a2162980555193a8b049550a1",
       "size": 5766,
       "source_size": 73230
     },
@@ -19365,8 +19365,8 @@
     "Games/Video/Series/Master of Orion.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e037e76784b7e1c0a408e8b075dbce082c60fe4613f2952723a6bbf90e5ac1be",
-      "size": 5793,
+      "sha256": "6187f4f40e7fb5284777684617fa03c943d4b11d03120d0d8568cddfdaf4734d",
+      "size": 5792,
       "source_size": 73318
     },
     "Games/Video/Series/Max Payne.html": {
@@ -19407,16 +19407,16 @@
     "Games/Video/Series/Monkey Island.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fe5d033218696ef08d23166f27327e89a56e30ec66a487d0eb255ec6612dc3f4",
+      "sha256": "c9b98ef5a008eb9d752e8fd90decdaf477c41622585df996a71b784b450e7717",
       "size": 5799,
       "source_size": 73316
     },
     "Games/Video/Series/Mortal Kombat.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b574eb6762ae501df6d0416a67c9189a71dfa673e9252d795c0f7ad8a7a3e823",
-      "size": 5948,
-      "source_size": 74066
+      "sha256": "b7a840b25f9bffa01db83bf564f8f98a05bcf7d3bb3ae39dd3ade656de577c65",
+      "size": 5949,
+      "source_size": 74067
     },
     "Games/Video/Series/Mount & Blade.html": {
       "content_encoding": "gzip",
@@ -19428,7 +19428,7 @@
     "Games/Video/Series/Myst.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a37570a95be88d50c024c593732198631a176ef2130a1a357c47281ed5b09619",
+      "sha256": "f1e414f59399d88a0835eeba702634d62a1f37815d8c3f63c1698adc5bd317ab",
       "size": 5753,
       "source_size": 73141
     },
@@ -19442,8 +19442,8 @@
     "Games/Video/Series/Need for Speed.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8fccf84fde65bab4e1160d21242c76fcfd4fdf713f94b03a3a2b871417fc83bd",
-      "size": 6733,
+      "sha256": "ff220aab69f8b2c1fd753502526c0f07c432843f7a8e97ee25b617c89c765353",
+      "size": 6731,
       "source_size": 85122
     },
     "Games/Video/Series/Ninja Gaiden.html": {
@@ -19498,8 +19498,8 @@
     "Games/Video/Series/Prince of Persia.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "417de68b3f976171dc0ef6f08a8e3153dff30ac6e249f0c5725dd0436e7b6391",
-      "size": 6486,
+      "sha256": "f26d49c5f1140b4bcca8213ad16f9152ebd419584cdd2ab1cf1b2ce48bb648cd",
+      "size": 6481,
       "source_size": 83523
     },
     "Games/Video/Series/Project Gotham Racing.html": {
@@ -19533,8 +19533,8 @@
     "Games/Video/Series/Ridge Racer.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f0c7f043cafcad90b937c8a900181b47ada6432579edaa0ff57cc08d537d3a94",
-      "size": 5760,
+      "sha256": "b0964440f3258b77d7294a5e481e503ad582029d96d5139d0f7773350bdad66f",
+      "size": 5759,
       "source_size": 73239
     },
     "Games/Video/Series/Rock Band.html": {
@@ -19568,8 +19568,8 @@
     "Games/Video/Series/Star Fox.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "89ae10b495e837e79ad5adbb4dc0e3bb4d584c24035b24e121d6147cbb526a22",
-      "size": 5760,
+      "sha256": "bea5ef2bfb0c81a294624cfe42029a76599e6fe163fba4f6511861d1f33b9e8d",
+      "size": 5759,
       "source_size": 73196
     },
     "Games/Video/Series/StarCraft.html": {
@@ -19582,8 +19582,8 @@
     "Games/Video/Series/Street Fighter.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5ec5381a247d59384bdd7e1388b749c815f26fd03cf1cc0fa8937f7a16036821",
-      "size": 5904,
+      "sha256": "db3f2f08e6517e61d76cad87ef19ac921ed81e1faaff11fbc0e4342fd55885e3",
+      "size": 5905,
       "source_size": 74714
     },
     "Games/Video/Series/Streets of Rage.html": {
@@ -19603,35 +19603,35 @@
     "Games/Video/Series/Tekken.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ae9dd701cbb3c163875dd110646a4dd82b531e3392cc13523b00bc4082f6447a",
-      "size": 5788,
-      "source_size": 73603
+      "sha256": "7e847d2ff48f63747f8a846b4f801a25af8602654ee16a3ea31d17a40c3fb956",
+      "size": 5787,
+      "source_size": 73602
     },
     "Games/Video/Series/The Addams Family.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "064a5e446fec1b73e740dcbb62802a86201c5b6ea3ca79322f8765b53585ad8a",
-      "size": 5985,
+      "sha256": "bbd360ee98d973b545bbbb9d40657fd0664ece730286ed11e6969ff92fc1cdb5",
+      "size": 5981,
       "source_size": 75328
     },
     "Games/Video/Series/The Elder Scrolls.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f4c162a4ad7fdb9d1b1507fb402cb1783e1bb9575f238a3f678b68bf775db6bd",
+      "sha256": "5f0c45a345e4adc68a3fac26f177f30eb8a78bba3244cb5af37615bcbec85854",
       "size": 6513,
       "source_size": 80195
     },
     "Games/Video/Series/The Settlers.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6740d97670e2f74476bd1a091f540e624ea67a76439963105ed491e7e0ae0728",
-      "size": 6129,
+      "sha256": "18a30f6bcea647562a3820fa7e817311418b1b5ecd95b73ef0d353880d972a18",
+      "size": 6128,
       "source_size": 75253
     },
     "Games/Video/Series/The Simpsons.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "84bf82ee2a8f2bc20f23087f1188e59e06fc7fa4799acb8a9c73055f3b217a21",
+      "sha256": "81704492e6348a66348fcdead3fed68db07e01a4da88ea2e9f636d7c36a584d5",
       "size": 5791,
       "source_size": 73283
     },
@@ -19694,14 +19694,14 @@
     "Games/Video/Series/Warcraft.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f95563f4d600481d64a93ca3c244bf8a496c646eb234718d367a5617bd6cb1f9",
-      "size": 6706,
-      "source_size": 85487
+      "sha256": "9ce8220ed4c917ab72387e7865c8cd60d40a7e52d4a51952e9d7717f7aa126eb",
+      "size": 6705,
+      "source_size": 85486
     },
     "Games/Video/Series/Wario Land.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "30deb77c1d5ea0c692f0f8c76ece7087108ca5d9867ee9d7d0cde5208566100e",
+      "sha256": "13ad3c316a32a1720c102528b2a63eee75795a9a2ccbfaca2fa9b777fa6b5d30",
       "size": 5768,
       "source_size": 73258
     },
@@ -19722,9 +19722,9 @@
     "Games/Video/Series/Worms.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8fdf83bfc71f9aef913137c67981a304e7c8e22904d11612cfccb6ce4ec23de9",
-      "size": 6700,
-      "source_size": 86052
+      "sha256": "c04bee98ce4dfab853486afe59d39ddb8cd2c75e5a3c7f6a5aad376f06cd5015",
+      "size": 6699,
+      "source_size": 86051
     },
     "Games/Video/Series/index.html": {
       "content_encoding": "gzip",
@@ -19750,9 +19750,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c37a46e2d5d7ffaa62803c8e23e259576b509b069628434cd0798d74e6413419",
-      "size": 1386781,
-      "source_size": 19728054
+      "sha256": "9a03669acd2148371aa46190a5b04f3d24652ddd67ba4f0b5ea52e5f483a50d5",
+      "size": 1387093,
+      "source_size": 19733092
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
@@ -23642,8 +23642,8 @@
     "Movies/1992/Aladdin.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e9901fb1dbaa10d469e2e6b3181a874088dc85ddd6d54ad28c8b867699cfbf05",
-      "size": 6533,
+      "sha256": "3c465ac4c71b576241b2f84879adf24783d17debb855634c26258b931328ad0f",
+      "size": 6532,
       "source_size": 71034
     },
     "Movies/1992/Alien 3.html": {
@@ -23852,7 +23852,7 @@
     "Movies/1993/Jurassic Park.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d7c0763217c4558b1419ae08dfed34f16a0d3da4200db593713e2e921c8c3581",
+      "sha256": "dc9604d85c8f6de89d25b47529accf1cd868c6d780fe30d8b5466cf4b82d2b82",
       "size": 6598,
       "source_size": 70630
     },
@@ -30145,7 +30145,7 @@
     "Movies/2016/Warcraft.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8ff92ba0f96d1cc85aba99592d2ec2e124fa62af6228b77f0dafa963b22238a4",
+      "sha256": "d9f54d7c4f4bf756ba8b157e3c9a7f834602e447384382aaaf2938ecf9b1f2b8",
       "size": 8935,
       "source_size": 108183
     },
@@ -36270,8 +36270,8 @@
     "People/Akira Nishitani.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f325275a5760ebd39ff01312479821833afbbd1e79322b94a5f2b65675e853fa",
-      "size": 2654,
+      "sha256": "4134d91d3fc78ee3db3c889ba1388759874ad9a0c2a713f5edd7a05c0945cf31",
+      "size": 2648,
       "source_size": 11019
     },
     "People/Akira Senju.html": {
@@ -36298,8 +36298,8 @@
     "People/Akira Yasuda.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "876888af3e31a71f863bf95f759e03a65c3315dead5991142b6e3596d4cf22f9",
-      "size": 2670,
+      "sha256": "d2028a140398a6c33225ca1c943418bd456d19b1fbba84a22ae2046d7f0e9306",
+      "size": 2666,
       "source_size": 11386
     },
     "People/Akiva Goldsman.html": {
@@ -40925,7 +40925,7 @@
     "People/Brian Reynolds.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9aa620223db0e94e6bb8f61b1e38053a701733fe0a14f1143ad6a4e1ec33c16d",
+      "sha256": "4a10ef932f22606a0d293169b531d025eb1001a07c084cc2d28bb9df7d29e1cf",
       "size": 2682,
       "source_size": 11477
     },
@@ -42143,8 +42143,8 @@
     "People/Charles Cecil.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3ffc002c29e9a2cb0835f9d24e42dda6e21a16488a472610c9d8c4bd3962ef13",
-      "size": 2728,
+      "sha256": "0331d13e1b29723e79e88a60c67300895283764ccd4a2c46629ebf8bb9aa24ce",
+      "size": 2727,
       "source_size": 11585
     },
     "People/Charles Cyphers.html": {
@@ -43606,9 +43606,9 @@
     "People/Clint Bajakian.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c2b4d22074a24b5cf1ab4d445e790f6116a956f30b2c7185dbd691eb4e0b482b",
-      "size": 2649,
-      "source_size": 10979
+      "sha256": "e73947efbbb70d0009de44d9d4ad1a45fa212ec07007265fe1f17c2208870f1c",
+      "size": 2648,
+      "source_size": 10978
     },
     "People/Clint Bentley.html": {
       "content_encoding": "gzip",
@@ -44530,9 +44530,9 @@
     "People/Dan Forden.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "48e0b3bd81ef799e2cdd86ce6f053a0773edd67ef72ce48a9b8696cfb2735187",
-      "size": 2613,
-      "source_size": 10896
+      "sha256": "c6a9a903257f11cc08d3473f669832d0beb592f64abfd9a9df01d2e5fbe94181",
+      "size": 2614,
+      "source_size": 10897
     },
     "People/Dan Gilroy.html": {
       "content_encoding": "gzip",
@@ -45398,8 +45398,8 @@
     "People/Dave Cummins.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "280c5c39791c11649dbe9116365e78b5325adc4f678963c0405ea4a97b22deaf",
-      "size": 2727,
+      "sha256": "47211817ba2ea9a79d0db7889e24a65ee90555aebc0b289b30fe4f8dc891cfa3",
+      "size": 2726,
       "source_size": 11573
     },
     "People/Dave Filoni.html": {
@@ -45902,8 +45902,8 @@
     "People/David Jones.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "10e57a47d16983730d550cc3ba307dbe663ae58b5a58e18f01a243f42ebf831e",
-      "size": 2624,
+      "sha256": "74cb253770a1868a3cd03debac5630a0a5b0c527dcbd09130f3d07732e9cf826",
+      "size": 2625,
       "source_size": 10919
     },
     "People/David Jonsson.html": {
@@ -46350,9 +46350,9 @@
     "People/David Wise.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "660df8e339a346daff9fe80677539591b12838bf0675b4446a7a078155770a74",
-      "size": 2649,
-      "source_size": 10671
+      "sha256": "706c1088400141d458372c91e312e068511ae74a82293cba9758ba9d37bdf515",
+      "size": 2692,
+      "source_size": 10968
     },
     "People/David Wu.html": {
       "content_encoding": "gzip",
@@ -47421,9 +47421,9 @@
     "People/Doug Church.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8989d93082597b93dc86f8913756b16b5fe28049af09197c7aaa364e21849c13",
-      "size": 2667,
-      "source_size": 10973
+      "sha256": "1527a7aa82c2c60a7db15bb51cbca2322b0d2af01ede7b6ec73f3c0835119804",
+      "size": 2668,
+      "source_size": 10974
     },
     "People/Doug Cockle.html": {
       "content_encoding": "gzip",
@@ -47701,9 +47701,9 @@
     "People/Ed Boon.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "22f22dd9397265e124e5e5e8e24c6deb60d473d6172adf94369f927b31c09420",
-      "size": 2707,
-      "source_size": 10751
+      "sha256": "32b6ae314afbf58bdf5ae6c493e55ad7634e9dff715ac2d637e4f5a81f82ca13",
+      "size": 2708,
+      "source_size": 10752
     },
     "People/Ed Burns.html": {
       "content_encoding": "gzip",
@@ -48723,8 +48723,8 @@
     "People/Eric Heberling.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "071e41e9820d57a17268d435aff6d8a2a0b76248212c73389fc4d22ff30a8f82",
-      "size": 2747,
+      "sha256": "d311b4a417618b988f88034dc3fb4cfe61f3d2ac889b6887ca1d780a836e2152",
+      "size": 2746,
       "source_size": 11966
     },
     "People/Eric Heisserer.html": {
@@ -49675,9 +49675,9 @@
     "People/Frank Klepacki.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "59c74bcc155973c9c02be8f1359e67afdd8325c4477e368a05249fa0081608c3",
-      "size": 2856,
-      "source_size": 13920
+      "sha256": "c0f6fc49512f3f6036f9b62f562942dcb85d9a79fbc7836badd1f7122e385094",
+      "size": 2855,
+      "source_size": 13919
     },
     "People/Frank Lupo.html": {
       "content_encoding": "gzip",
@@ -49794,7 +49794,7 @@
     "People/Fred Haslam.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96559e17f1e4ac8a297deb9a1373f169bf8f9a703f5e6f9224344e288be42202",
+      "sha256": "33e8656acc0fa2c7710d6d64ed78212e347df3239bdc35957a7e43021e0717cc",
       "size": 2608,
       "source_size": 10904
     },
@@ -50900,7 +50900,7 @@
     "People/Graeme Devine.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1ae5ab519f63b65bf793d968a6b20df21f9bf36f32ee027c7f11af2c03b37b6d",
+      "sha256": "268aa4d20fda72c645073ec116b9d9ec9e34a43ebaf3159de2eab1216d4cba10",
       "size": 2638,
       "source_size": 10968
     },
@@ -50914,9 +50914,9 @@
     "People/Graeme Norgate.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3ed4f6e4051f440bc704ecce85dd5fabbb6133132ccb523acd22f1dd6824c93e",
-      "size": 2595,
-      "source_size": 10647
+      "sha256": "bdab1b5d8d8280d571336187f6f420e5ffb34d3a5429b4bd8e1e9e7c791fa30d",
+      "size": 2623,
+      "source_size": 10944
     },
     "People/Graeme Revell.html": {
       "content_encoding": "gzip",
@@ -51229,8 +51229,8 @@
     "People/Gunpei Yokoi.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8dae8f7ddbaea9e0444bfb8ca46663e48c976737ee7d9e20559b5163a0b99bf6",
-      "size": 2687,
+      "sha256": "466a199d895636e8e55cfd4b96dc696cd54345e5c647e7803d32276dfd1068db",
+      "size": 2689,
       "source_size": 11402
     },
     "People/Gus Van Sant.html": {
@@ -51383,8 +51383,8 @@
     "People/Haiko Ruttmann.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "46d4857a812d45a0f0229144407d51159a7e7eab9160a167a9e9518312a4a52f",
-      "size": 2718,
+      "sha256": "1c2ccce38644e0d5f0ac82c2659b50c0b9f1a02b28cac7dc66dcf5e5449a4133",
+      "size": 2715,
       "source_size": 11905
     },
     "People/Hailee Steinfeld.html": {
@@ -51397,9 +51397,9 @@
     "People/Hajime Nakatani.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4a6b50d4bd9b035cd294e6d6063dfbd9068d64f941688dde884e3fa0416f9378",
-      "size": 2652,
-      "source_size": 11372
+      "sha256": "cdaa2bdd2f3f649ced83c49c9f7f283f22fceaf42a46fc82fa9dc48d56973f17",
+      "size": 2651,
+      "source_size": 11371
     },
     "People/Hajime Wakai.html": {
       "content_encoding": "gzip",
@@ -52223,16 +52223,16 @@
     "People/Hirokazu Tanaka.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "cfe7fff1726c8d5568a9beab32934454179859efa3e81a47bdea053a63edaf71",
-      "size": 2620,
+      "sha256": "91d3e91d487a55e44f3d0da623989138129c167868efb5405a1bcc9f8f223a1a",
+      "size": 2623,
       "source_size": 10935
     },
     "People/Hirokazu Yasuhara.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96b1cf9aee2e78bd3a272a529db8b9632fca39a4434fe506f552e4dae0552684",
+      "sha256": "f20be9b1397c04feafe8893e63e10f52619e9264721866368d6cf81ed1af1789",
       "size": 2710,
-      "source_size": 12152
+      "source_size": 12153
     },
     "People/Hiroki Kato.html": {
       "content_encoding": "gzip",
@@ -52258,8 +52258,8 @@
     "People/Hiroshi Kawaguchi.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0a30e57fe6fef060e5b196bf2d9d3481bb96f7dfcb7451ea63b19ecb697296ff",
-      "size": 2622,
+      "sha256": "ba19f464d5ac08bb1104bb265f726983acc336b877b809e668a293edeb56f99b",
+      "size": 2626,
       "source_size": 10954
     },
     "People/Hiroshi Kojina.html": {
@@ -52328,8 +52328,8 @@
     "People/Hisayoshi Yoshida.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "08eb57acf2e8717172e9a68a4144f535b7da144f685bcda4b657596ccbc52f3c",
-      "size": 2613,
+      "sha256": "ebf030b5302d70d617f0b51a6e2776c8521f393c9cb521f58e8474c3f9807b75",
+      "size": 2614,
       "source_size": 10985
     },
     "People/Hisko Hulsing.html": {
@@ -52349,7 +52349,7 @@
     "People/Hitoshi Sakimoto.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4507b243a444c1577fa4040253536a7ad2f74231b4ac775f9cf44dac4f51ceee",
+      "sha256": "f340b080e75527f56652ee4479bed243ee391d86d7a687348388e42358fa8e84",
       "size": 2747,
       "source_size": 12015
     },
@@ -57214,9 +57214,9 @@
     "People/John Ottman.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ae750696f95607a8404cbcbd333adca4976d86dc3cf698b0eb72953e4a6b67a0",
-      "size": 2995,
-      "source_size": 14236
+      "sha256": "4c9a054b1c468d32a575755f4b6f7e92f0d7d53c52fb007baecea11275d1ae5e",
+      "size": 2992,
+      "source_size": 14235
     },
     "People/John Paesano.html": {
       "content_encoding": "gzip",
@@ -57410,9 +57410,9 @@
     "People/John Tobias.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3ae0387c057f14f3f0919db2dece8e1848b0d3b8cc99890aedf3851c6907a483",
-      "size": 2720,
-      "source_size": 10786
+      "sha256": "a28eb6bfd4df4e52e9c3579c77f300f2c0489c0b0a7225b47686bc1b42826676",
+      "size": 2721,
+      "source_size": 10787
     },
     "People/John Toll.html": {
       "content_encoding": "gzip",
@@ -57816,9 +57816,9 @@
     "People/Jonathan Dunn.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b4db5545e348e9ede4bb11a3751014d83ba18d8ffa58dcfe4d735b4049ffab3e",
-      "size": 2751,
-      "source_size": 12433
+      "sha256": "8bc4eabf45682089c9dabcb44b3f07aa746313aaa8b7395d7a7a3eb22adbbf85",
+      "size": 2752,
+      "source_size": 12434
     },
     "People/Jonathan Frakes.html": {
       "content_encoding": "gzip",
@@ -58005,8 +58005,8 @@
     "People/Jordan Mechner.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bc87c33d5570f726feef626e68ec871c21b9e3fcb450e48a715d9e3a24d5b2d9",
-      "size": 2709,
+      "sha256": "984685cc716c367f87b9b537414c73c8bd816b37a9757bb987a326ec928b427c",
+      "size": 2704,
       "source_size": 11535
     },
     "People/Jordan Nagai.html": {
@@ -58740,7 +58740,7 @@
     "People/Jun Senoue.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "85873e050e67af5662d6db13543ef96f36b1267116259ca0d0b08d1c9608c58b",
+      "sha256": "727f5f576fc7c97801540a88dd22e5e6a36918a1cadcc6ed4841a19b9d7df7a6",
       "size": 2673,
       "source_size": 11406
     },
@@ -59377,9 +59377,9 @@
     "People/Katsuhiro Harada.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7d03fa12aa2d8dcbc4af77ff329ec58881182d18d1c6ce1cdef286e0a1740ece",
-      "size": 2677,
-      "source_size": 11194
+      "sha256": "74826271cd8b322c35b6649e1fda4d498b40ea2dce92b34d1d409b3f37def8ea",
+      "size": 2675,
+      "source_size": 11193
     },
     "People/Katsura Hashino.html": {
       "content_encoding": "gzip",
@@ -59496,8 +59496,8 @@
     "People/Keiji Terui.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dfadcf5c3a99c890096abfd1b3be3986d8518ed6450712d7d8358bb1f6073d48",
-      "size": 2685,
+      "sha256": "e1de4309f217e3a9d52a9b717520d113cba78c3d76f1a07616bee7ee2d797264",
+      "size": 2684,
       "source_size": 10988
     },
     "People/Keiko Agena.html": {
@@ -60532,8 +60532,8 @@
     "People/Koji Kondo.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8f2fe9d54efc17a0a956229b7d0acb403f3c5048c35311dbee0150ffa425aa8c",
-      "size": 2679,
+      "sha256": "4aed03aee0c3cda5e8ca1227146adb5b0ca99af441462b4b6aec948f8f3f0723",
+      "size": 2683,
       "source_size": 11416
     },
     "People/Koshi Nakanishi.html": {
@@ -60567,7 +60567,7 @@
     "People/Kozue Ishikawa.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d72eda809967e45a28187b2a08a7ffad95217df8736d8efbe768adc01eaa96ab",
+      "sha256": "fe22b0e396d6710cfc11456ed4e9013148f9f72aa397a617b6767d3bd0769103",
       "size": 2624,
       "source_size": 10975
     },
@@ -62632,9 +62632,9 @@
     "People/Lynn Harris.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7febf4913fbce3d6beabeaa3a83f9f3dfb4cd12f540df123fedc9f79d45f897b",
-      "size": 2677,
-      "source_size": 11042
+      "sha256": "e16f88a3a120ff52090c836d86ff8afcca98d35e8b45011179358ffa3c362b33",
+      "size": 2675,
+      "source_size": 11041
     },
     "People/Lynn Hobson.html": {
       "content_encoding": "gzip",
@@ -63045,7 +63045,7 @@
     "People/Marc Blank.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8d821bb4b194bef1044be55d416368933721a69ad6b2854654f209d97406728e",
+      "sha256": "9d2eef63cb4890e3b81268acf930a7ada3fe43c98344b10819fc1ec4fecbcdd8",
       "size": 2615,
       "source_size": 10850
     },
@@ -63549,7 +63549,7 @@
     "People/Mark Morgan.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "085ae3be99f9e7b45efb7886a347e3fc66f27d24d0f6e6949465f06a711282c0",
+      "sha256": "5d40c3a236c736e486050e65d5707f8430582f8b17c0c694b1ec05bd3d3ebcea",
       "size": 2792,
       "source_size": 12277
     },
@@ -63689,8 +63689,8 @@
     "People/Mark Turmell.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1cfbf440907b6e49d194f03029605d5b2624680a16cfff70fd72d0a409fbd755",
-      "size": 2617,
+      "sha256": "0c281ffafcd2f7ca372cce92f267acf730a51a547c86da01e6b875117e3c7674",
+      "size": 2616,
       "source_size": 10905
     },
     "People/Mark Vahradian.html": {
@@ -64130,16 +64130,16 @@
     "People/Masaharu Iwata.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "639371fea19c3c7ba5126ee2b26e3f33acd6aa5ddf02836cf5bb12bfc405ea8a",
-      "size": 2700,
+      "sha256": "d67f52a5d4df63ac4112500e314d4acf65c6e4e35eaa688c32878cf0a66997e8",
+      "size": 2699,
       "source_size": 11530
     },
     "People/Masahiro Kimoto.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6675fb445f8451c7d8829bc4af1603c407eb54d5980ad1c1b43f55964a566af5",
-      "size": 2626,
-      "source_size": 10959
+      "sha256": "3f5051034d188af5dc6de47d54080ec352c6c65de42b7985fd53cef239c8caee",
+      "size": 2625,
+      "source_size": 10958
     },
     "People/Masahiro Sakurai.html": {
       "content_encoding": "gzip",
@@ -64179,9 +64179,9 @@
     "People/Masamichi Abe.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6fd59ed1c1bac3cd1d1bef5cbdea22a1da3b63858910264be44241c959fe4c6c",
-      "size": 2661,
-      "source_size": 11357
+      "sha256": "e257b70cd8aab10117a0cacc8aa82161db8214c28a485231ca87069f22f2f5c0",
+      "size": 2659,
+      "source_size": 11356
     },
     "People/Masanobu Matsunaga.html": {
       "content_encoding": "gzip",
@@ -64200,16 +64200,16 @@
     "People/Masanobu Yamamoto.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8954c4141a23b3917ee5ed56b871c0906b5a46f1b1af7d410420aff9d7456646",
-      "size": 2616,
+      "sha256": "54a59005ae62e65e11fcf6c6907e80e72f17ea63bd0e545f7be0a4412e8ed596",
+      "size": 2617,
       "source_size": 10989
     },
     "People/Masanori Yamada.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "208c8b74889a24e3b000cfb9346527398647e125dc4a4cbfbe4a797087d21c0e",
-      "size": 2652,
-      "source_size": 11378
+      "sha256": "e0443eee6ff77c10c1bedfc7f81615f9e8a9cb27b093c2c97fa6bc638a7070df",
+      "size": 2651,
+      "source_size": 11377
     },
     "People/Masao Takiyama.html": {
       "content_encoding": "gzip",
@@ -64263,9 +64263,9 @@
     "People/Masato Nakamura.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5701c4100ba792fd1902854b11fd04d7391f167708c5f77bfc04080cda9a5ec8",
-      "size": 2610,
-      "source_size": 10971
+      "sha256": "71c0eebfab28afeb1427acc2a86e91bbcd8fd899078b05f5d4ff2e40d7780896",
+      "size": 2611,
+      "source_size": 10972
     },
     "People/Masaya Matsuura.html": {
       "content_encoding": "gzip",
@@ -64676,7 +64676,7 @@
     "People/Matthew Wood.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "907e5543ff991a969fecefa40e65447a9c2f5ee7dfc622689cd53b6ea39113fa",
+      "sha256": "2750cd1175974cc56fe1c3d04ccc0f1948e883d4d768867c8a454148dd571040",
       "size": 2744,
       "source_size": 11144
     },
@@ -65229,9 +65229,9 @@
     "People/Michael Berlyn.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "24dce849465bfe4169ec4c29ade2ed237bb5c3f6b58941a12f6714cf2c5d71a7",
-      "size": 2629,
-      "source_size": 10709
+      "sha256": "08a226154c64ceafe6afcc2b3d94355983802afb0dad5cd2c816998aaa87ce74",
+      "size": 2644,
+      "source_size": 11006
     },
     "People/Michael Biehn.html": {
       "content_encoding": "gzip",
@@ -66797,9 +66797,9 @@
     "People/Motohiro Kawashima.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c33e9505a75976bc268bfc7eac4061a0d6bd6448f353c8721ce23899368b45e1",
-      "size": 2616,
-      "source_size": 10988
+      "sha256": "04fc6c6f9509386d57350bf9aff556ec9eaee2b8e24712bb8c65ed547666cb36",
+      "size": 2618,
+      "source_size": 10989
     },
     "People/Motoi Sakuraba.html": {
       "content_encoding": "gzip",
@@ -66944,9 +66944,9 @@
     "People/Naofumi Hataya.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7c493498209661b363e577bd936abdb1cd7d04fb9db92cfb785ac02f5f80534f",
-      "size": 2591,
-      "source_size": 10630
+      "sha256": "1ce260d6eb4dcacc4e15cf9e0926f379926eba9030def0f834a9843920bfb3ad",
+      "size": 2623,
+      "source_size": 10926
     },
     "People/Naomi Watts.html": {
       "content_encoding": "gzip",
@@ -66965,8 +66965,8 @@
     "People/Naoto Ohshima.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a83dc4415cc275088ccea4328884699312fb0dab55faae06ab7b2c16fcb73220",
-      "size": 2598,
+      "sha256": "828419530eb064e107e7566ca013491b2718b27172391ae4c86900644ccf9e46",
+      "size": 2597,
       "source_size": 10656
     },
     "People/Nat Sanders.html": {
@@ -67910,7 +67910,7 @@
     "People/Nobuyoshi Sano.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "858060a4a2dc8103af7c480e2b4e2d40a8dbbaade0fa61e1dc886e30b0cd063f",
+      "sha256": "20a7689af5529ff85cd54d8388eb9ccd94cb60d87c0b6683b95f7a3c234cc4a4",
       "size": 2662,
       "source_size": 11378
     },
@@ -69779,8 +69779,8 @@
     "People/Peter Molyneux.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a225450ad830fb51853037ed5019270b5ca9d26c2c50f775223dbe456e409586",
-      "size": 2897,
+      "sha256": "c33663ab98088f44f68f9b64e01866c105b1426542d7346f5693498d8d9a427d",
+      "size": 2891,
       "source_size": 13854
     },
     "People/Peter Morgan.html": {
@@ -71172,9 +71172,9 @@
     "People/Richard Garriott.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6c9e8e88ac08b6c244fe10ccbc83fe98085ef0d1cdad67ea915c0daf643e2120",
-      "size": 2732,
-      "source_size": 11501
+      "sha256": "e1426004feebb092aa14fd6ea0c4127be36f8ba224472fce93a54701227ef289",
+      "size": 2734,
+      "source_size": 11502
     },
     "People/Richard Gere.html": {
       "content_encoding": "gzip",
@@ -72138,9 +72138,9 @@
     "People/Robin Beanland.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "39bc7a71f9d202cd04a141198ae7c515c33dd48a4bbf66328badc31eca8047d9",
-      "size": 2601,
-      "source_size": 10653
+      "sha256": "502df9f015fc90295271f67b921c147cd619b7169c9e446a2495ebf254969666",
+      "size": 2628,
+      "source_size": 10950
     },
     "People/Robin Budd.html": {
       "content_encoding": "gzip",
@@ -73048,7 +73048,7 @@
     "People/Sachio Ogawa.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "33c7b04e9c85b67904686fc453905d07f3f36d9d2f757463afd9233d904d29ea",
+      "sha256": "6f3c265582077587e144e0a6c352fec79c7fb7dc789d3724def34e0c19e8bd5c",
       "size": 2610,
       "source_size": 10945
     },
@@ -73699,8 +73699,8 @@
     "People/Satoshi Yokokawa.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b1df654860be7ee6a91eb939435b16b10bda738c7dce63c77487b21da1eadaf2",
-      "size": 2611,
+      "sha256": "7a05b8ef0f0812a25661c799a1f1fa9adeaa4c3257d6723a74512d56ed7357b0",
+      "size": 2612,
       "source_size": 10973
     },
     "People/Satya Bhabha.html": {
@@ -74147,9 +74147,9 @@
     "People/Seiichi Ishii.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7f1bf3fd37cb04f3b42f03cb3005013bb60ff9a032036ad6b20852ebb933f2aa",
-      "size": 2615,
-      "source_size": 10969
+      "sha256": "919146fc23122f9cf7dad8e3c8d90a6eb23a91e9641b34efaef2e0780e04b5f7",
+      "size": 2614,
+      "source_size": 10968
     },
     "People/Seith Mann.html": {
       "content_encoding": "gzip",
@@ -74553,8 +74553,8 @@
     "People/Shigeru Miyamoto.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dad8688c6b6fb1f585050303aa745e6ba40d7933ad80e784042ea8529ee0fca5",
-      "size": 2967,
+      "sha256": "25669180d5e914e7d50d930db42bb2f2ecd400ae5fedecfda9238147bd938c68",
+      "size": 2970,
       "source_size": 14757
     },
     "People/Shigeru Umebayashi.html": {
@@ -74595,8 +74595,8 @@
     "People/Shinji Hosoe.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a8c82cb49ea4793424715bfb78c14d3ed828f27ca4011d22627812b082a40fe6",
-      "size": 2649,
+      "sha256": "82bfae52560de300a13a97bab61a5dc2d767c4d94e26116626adf82fc9f27c16",
+      "size": 2650,
       "source_size": 10992
     },
     "People/Shinji Mikami.html": {
@@ -74763,8 +74763,8 @@
     "People/Sid Meier.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "710cb017dff6e210cc0fa8d03f1c1572f31bc482327ba8a4fc172f5020b66946",
-      "size": 2627,
+      "sha256": "5f8a6702abb26c834b8c251992373d41e419f0b08d1f09da7644de1defef4d3b",
+      "size": 2628,
       "source_size": 10952
     },
     "People/Siddharth Dhananjay.html": {
@@ -75652,7 +75652,7 @@
     "People/Steve Barcia.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a054156e809e7f82dbbccfa8b92778f3a78304ac38068fb13cf69e218c6bee60",
+      "sha256": "2d0b7c0ab14028513a4c3b96914e62e350429dbd30c76b9b2ce076244a258bc6",
       "size": 2642,
       "source_size": 10977
     },
@@ -76380,9 +76380,9 @@
     "People/Tadashi Sugiyama.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2a09dd6130d6ba1f170bcf048560a77ba4c95c5fc29dff7cef488e2af17113b8",
-      "size": 2628,
-      "source_size": 10952
+      "sha256": "959cc49340da9381e644a33928b952a8a63da0e51dcaeed53cdc6e96deafb590",
+      "size": 2629,
+      "source_size": 10953
     },
     "People/Taika Waititi.html": {
       "content_encoding": "gzip",
@@ -76429,8 +76429,8 @@
     "People/Takashi Iizuka.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7b7092e1e1f9c8c7efc49f8753df331a1ef9be3a9664e9f4274d454327873faf",
-      "size": 2613,
+      "sha256": "10cde0b0e82c8af7a4ed303d6f7edab415967200d2a7a3ae7cb29af108bab899",
+      "size": 2614,
       "source_size": 10961
     },
     "People/Takashi Shimura.html": {
@@ -76443,8 +76443,8 @@
     "People/Takashi Yuda.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "da862d88a506495bb13f8a16eba471c2052ab4e7f85aa09518b5f40d5de9e5ba",
-      "size": 2610,
+      "sha256": "9b6a8d2c7d40a226b046e3b7feb2950f3804b20d2153f95e6df4b498d1e0d96a",
+      "size": 2611,
       "source_size": 10941
     },
     "People/Takaya Imamura.html": {
@@ -76674,8 +76674,8 @@
     "People/Tatsuyuki Maeda.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7a5b3864db739d9b767d341150ab1a94e62f0a8cd41610d20800e69c40b1b2e7",
-      "size": 2611,
+      "sha256": "dcb9a7db3cc423b83ca2e6910b37410fca40882b8e4e25bd39f87aef8ec25c0f",
+      "size": 2612,
       "source_size": 10969
     },
     "People/Tatyana Ali.html": {
@@ -76786,8 +76786,8 @@
     "People/Ted Peterson.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3e37bea9ccabe68151b0c4f3d9f936fb48e46bbdca95db24078ca17a44b387ec",
-      "size": 2700,
+      "sha256": "4005af58bda573faee43254f18c92f321bafce369325e7c4ab59efe7d4c0b6fc",
+      "size": 2699,
       "source_size": 11472
     },
     "People/Teddy Dunn.html": {
@@ -77815,8 +77815,8 @@
     "People/Tokuro Fujiwara.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5c66e70ff42e7562e4994587f0399216f597fe5ace834b1b290711bac746b051",
-      "size": 2696,
+      "sha256": "297fe7437eddbddc188afdb3a3080a68f1aaa33f7180d3ea107ff9df8caec87c",
+      "size": 2697,
       "source_size": 11428
     },
     "People/Tom Ackerley.html": {
@@ -78228,9 +78228,9 @@
     "People/Tommy Tallarico.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f93a0fd14c6dfae6027d52d4415eb19860ddc700b65dd734f7031e52c7bd7b8b",
-      "size": 2629,
-      "source_size": 10836
+      "sha256": "c16fe4444922910ae6b42b5b78249776d045c1d8cb4bce887f5790a707803c9e",
+      "size": 2660,
+      "source_size": 11133
     },
     "People/Tomohiro Suzuki.html": {
       "content_encoding": "gzip",
@@ -78452,8 +78452,8 @@
     "People/Toshihiko Nakago.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "877440b40d135cd4422534543928a77939601d82986827d79675e497d1e43108",
-      "size": 2641,
+      "sha256": "438ea2341bf826e1c7f470ed9d0d6bf1644dfa0a3b073c2f9a86d4eb9b17816b",
+      "size": 2644,
       "source_size": 11015
     },
     "People/Toshihiko Seki.html": {
@@ -78466,7 +78466,7 @@
     "People/Toshihiro Nagoshi.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3c8dc6e76151a7f90860fdc403f4360bc1b8c80e314243bc5ae99fa38c5042c1",
+      "sha256": "b29bc0f707047ece1b62aefa66b194ce822434cd78582a4387ae0b6ee2a1231c",
       "size": 2632,
       "source_size": 10982
     },
@@ -79257,7 +79257,7 @@
     "People/Volker Wertich.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dd4bfec2fbe13f363cb3bdf6e4120e65d9bbc196b6d235aa6d9e6ed6f3f4eb21",
+      "sha256": "3d55ab5141e65cc5e47afd0df9fe24e59f3cdc32d57a8f64c1811f9cce641d7e",
       "size": 2619,
       "source_size": 10946
     },
@@ -79383,9 +79383,9 @@
     "People/Warren Lancashire.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "923bb43d78aa56306e444b4f051e7565d550cf3648fd5512e660ced7bf8f1a7a",
-      "size": 2637,
-      "source_size": 10987
+      "sha256": "762e496a61589adc994205a3846bc2c6576030dcf3966db66de1a4f9e994c666",
+      "size": 2638,
+      "source_size": 10988
     },
     "People/Warren Zide.html": {
       "content_encoding": "gzip",
@@ -79565,7 +79565,7 @@
     "People/Will Wright.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96e0ea5ffe3bb359c5aaf065a94c92e387dc1a2f61eecee65b570fd73952c4e4",
+      "sha256": "e800f7597b0ce22f01643bee852cbd304fa56cdb03fbb4944fa762c030d01011",
       "size": 2696,
       "source_size": 11822
     },
@@ -80055,8 +80055,8 @@
     "People/Yasumi Matsuno.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2a6f7bf0f808c70d3c962e5396b8196d3bf674794ebb232011693349735feed9",
-      "size": 2668,
+      "sha256": "7ceb7a6be0011c6463d1b2882a1b6ab098dba3667385002ee848149eff6c8216",
+      "size": 2667,
       "source_size": 11131
     },
     "People/Yasunori Mitsuda.html": {
@@ -80111,8 +80111,8 @@
     "People/Yoko Shimomura.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b9ee0fe2df228669d1a07ec1a451b6c8d79e7d30f2b365e1bd63c0d7fe6fb718",
-      "size": 2642,
+      "sha256": "7905600c5da609d023131699c3cf7644298f39d4a16e48702a6fdb8e35fb3958",
+      "size": 2637,
       "source_size": 10981
     },
     "People/Yoko Taro.html": {
@@ -80174,22 +80174,22 @@
     "People/Yoshie Arakawa.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0a2c3521408a66ef62a7f9696792986495d0e01494edaf20ca0e71bb0b6d9e02",
-      "size": 2610,
-      "source_size": 10917
+      "sha256": "10f73f54c0095cea7e749793e5ac3c944ccc82a926cd0573fecdf9568d3f2159",
+      "size": 2609,
+      "source_size": 10916
     },
     "People/Yoshie Takayanagi.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "15ec138c84e14bbfd9f9a91a639cb16ff46bc5e04d0f854fac9fcc3baf6d6bcb",
-      "size": 2612,
-      "source_size": 10941
+      "sha256": "6746dd81d6794442f9ab62c54f2bad5931ecac7cd5c622ac923607ca4988331d",
+      "size": 2611,
+      "source_size": 10940
     },
     "People/Yoshihiro Sakaguchi.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "38fd1efc2a8270bdb77a75c052ca949aecb09ef1a9026c877c1a267dfa6cd23f",
-      "size": 2619,
+      "sha256": "09791fb24f6bcf8a28ea9ab315804bbd354e67813cdced3d1685eb59db2a5714",
+      "size": 2615,
       "source_size": 10978
     },
     "People/Yoshihiro Ueda.html": {
@@ -80209,8 +80209,8 @@
     "People/Yoshiki Okamoto.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2869caa056b265ab05968a6015d8306d76ef2ec08dc502c4ec658a8d8e10fea0",
-      "size": 2722,
+      "sha256": "42df121426c97d9a52ee80a2f6eaae937edd75be7b965953f0a6f0b61e3029ef",
+      "size": 2717,
       "source_size": 11901
     },
     "People/Yoshimasa Terui.html": {
@@ -80272,8 +80272,8 @@
     "People/Yu Suzuki.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "caa78e36951aa4d0847eee958b3474d3320a351140dfd901deb02a579b4d6a55",
-      "size": 2716,
+      "sha256": "616405611f180da338df809a6602d1dc74225c1e20e95cf7b4fae0306637e701",
+      "size": 2722,
       "source_size": 11799
     },
     "People/Yuen Biao.html": {
@@ -80300,9 +80300,9 @@
     "People/Yuji Naka.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "83e514a6b3ea60ced6f6006103500081119c1ddb4527547ffc700a1ee6a7400b",
-      "size": 2754,
-      "source_size": 12507
+      "sha256": "8feea875a32708c48da9a46b3228a70ead5175af6484078f9384d14222622869",
+      "size": 2755,
+      "source_size": 12508
     },
     "People/Yuji Ueda.html": {
       "content_encoding": "gzip",
@@ -80377,9 +80377,9 @@
     "People/Yuzo Koshiro.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "35749c72f17e2faecef61b3a2017bd96a32cf8a82570694c2ee5ad2e3605ffb5",
-      "size": 2734,
-      "source_size": 12319
+      "sha256": "eef6d2d695f657e87669bb7809be19538dbba333ba3316342091efeb0ea2b359",
+      "size": 2736,
+      "source_size": 12320
     },
     "People/Yves B\u00e9langer.html": {
       "content_encoding": "gzip",
@@ -100277,8 +100277,8 @@
     "sitemap.xml": {
       "content_encoding": "gzip",
       "content_type": "application/xml; charset=utf-8",
-      "sha256": "3b478d7a5e3241eb6d469b17a40c7defad24ec834c5fa0fa71add30362d3664b",
-      "size": 136634,
+      "sha256": "feaa5ffbf00d50a26c5e23de9da3ec9bb6aa6a24caed2f023e239f7f8ba62c3d",
+      "size": 136646,
       "source_size": 1474286
     },
     "sprite.png": {
