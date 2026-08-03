@@ -1,0 +1,13 @@
+name: Tempest
+description: >
+  Atari vector arcade shooter in which players move around geometric tubes and webs, firing inward at enemies climbing toward the rim.
+released: 1981
+genres:
+  - Tube shooter
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Tempest_(video_game)
+igdb: https://www.igdb.com/games/tempest
+developers: Atari
+publishers: Atari
+designers:
+  - Dave Theurer

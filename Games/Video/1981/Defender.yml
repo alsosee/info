@@ -1,0 +1,14 @@
+name: Defender
+description: >
+  Williams arcade scrolling shooter in which players protect humanoids on a hostile alien planet while managing thrust, reverse movement, smart bombs, and a radar display.
+released: 1981
+genres:
+  - Scrolling shooter
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Defender_(1981_video_game)
+igdb: https://www.igdb.com/games/defender
+developers: Williams Electronics
+publishers: Williams Electronics
+designers:
+  - Eugene Jarvis
+  - Larry DeMar

@@ -1,0 +1,14 @@
+name: Centipede
+description: >
+  Atari fixed shooter where players fire through a mushroom field at segmented centipedes, spiders, fleas, and other insects descending toward the bottom of the screen.
+released: 1981
+genres:
+  - Fixed shooter
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Centipede_(video_game)
+igdb: https://www.igdb.com/games/centipede
+developers: Atari
+publishers: Atari
+designers:
+  - Dona Bailey
+  - Ed Logg

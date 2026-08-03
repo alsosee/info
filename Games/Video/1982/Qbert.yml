@@ -1,0 +1,15 @@
+name: Q*bert
+description: >
+  Gottlieb arcade puzzle-action game where Q*bert changes the colors of isometric cube pyramids while avoiding Coily and other hazards.
+released: 1982
+genres:
+  - Puzzle
+  - Action
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Q*bert
+igdb: https://www.igdb.com/games/q-bert
+developers: Gottlieb
+publishers: Gottlieb
+designers:
+  - Warren Davis
+  - Jeff Lee

@@ -1,0 +1,13 @@
+name: Missile Command
+description: >
+  Atari arcade shooter in which players defend cities from incoming ballistic missiles by launching limited counter-missiles from three bases.
+released: 1980
+genres:
+  - Shooter
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Missile_Command
+igdb: https://www.igdb.com/games/missile-command
+developers: Atari
+publishers: Atari
+designers:
+  - Dave Theurer

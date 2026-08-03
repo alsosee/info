@@ -1,0 +1,16 @@
+name: Space Harrier
+description: >
+  Sega third-person rail shooter by Yu Suzuki, built around high-speed fantasy landscapes, scaling sprites, and a motion-capable arcade cabinet.
+released: 1985
+series: Space Harrier
+genres:
+  - Rail shooter
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Space_Harrier
+igdb: https://www.igdb.com/games/space-harrier
+developers: Sega
+publishers: Sega
+designers:
+  - Yu Suzuki
+composers:
+  - Hiroshi Kawaguchi

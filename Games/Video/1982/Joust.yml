@@ -1,0 +1,13 @@
+name: Joust
+description: >
+  Williams arcade action game where mounted knights flap across floating platforms, collide by altitude, and collect eggs before enemies hatch.
+released: 1982
+genres:
+  - Action
+  - Arcade
+wikipedia: https://en.wikipedia.org/wiki/Joust_(video_game)
+igdb: https://www.igdb.com/games/joust
+developers: Williams Electronics
+publishers: Williams Electronics
+designers:
+  - John Newcomer
