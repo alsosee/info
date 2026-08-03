@@ -323,6 +323,7 @@ Companies/DR1.yml	a4319a8d
 Companies/Danish Film Institute.yml	2d826f3a
 Companies/Dark Horse Comics.yml	65527bf8
 Companies/Dark Horse Entertainment.yml	54422760
+Companies/Data East.yml	26a26208
 Companies/David Kirschner Productions.yml	1f09ac57
 Companies/Davis Entertainment.yml	c664a354
 Companies/Davis Films.yml	2110d85e
@@ -503,6 +504,7 @@ Companies/Hong Film.yml	e691a1c4
 Companies/House Productions.yml	678384f1
 Companies/Housemarque.yml	d7ccb072
 Companies/Huahua Media.yml	9a425db8
+Companies/Hudson Soft.yml	d076a3bb
 Companies/Hughes Entertainment.yml	3c9ec001
 Companies/Hulu.yml	a0c1967b
 Companies/Humble Games.yml	52b45a3b
@@ -1239,6 +1241,7 @@ Games/Video/1985/Super Mario Bros..yml	af91c0cf
 Games/Video/1985/The Oregon Trail.yml	65c6ac03
 Games/Video/1985/Ultima IV Quest of the Avatar.yml	de73bd6
 Games/Video/1985/Where in the World Is Carmen Sandiego.yml	a19f5637
+Games/Video/1986/Adventure Island.yml	e4e63b4a
 Games/Video/1986/Alex Kidd in Miracle World.yml	d78c4145
 Games/Video/1986/Aliens The Computer Game - Activision.yml	b84e2d20
 Games/Video/1986/Aliens The Computer Game - Software Studios.yml	12e01d69
@@ -1265,6 +1268,7 @@ Games/Video/1988/Dragon Quest III.yml	71bd7d8c
 Games/Video/1988/Ninja Gaiden.yml	659877cb
 Games/Video/1988/Super Mario Bros. 2.yml	ae74d8b
 Games/Video/1988/Super Mario Bros. 3.yml	1bc5c32
+Games/Video/1989/Bonk's Adventure.yml	dc9b3868
 Games/Video/1989/Chip's Challenge.yml	57ed3d6f
 Games/Video/1989/Fester's Quest.yml	7dfc11d4
 Games/Video/1989/Final Fight.yml	a0115ef2
@@ -1285,9 +1289,11 @@ Games/Video/1990/Smash TV.yml	66d4c3a8
 Games/Video/1990/Super Mario World.yml	fe9c2760
 Games/Video/1990/The Secret of Monkey Island.yml	a747bc72
 Games/Video/1991/Another World.yml	9e4100ad
+Games/Video/1991/Battletoads.yml	5529eb9a
 Games/Video/1991/Captain Commando.yml	2cb6093c
 Games/Video/1991/Final Fantasy IV.yml	348639f6
 Games/Video/1991/FreeCell.yml	5ba151b0
+Games/Video/1991/Joe & Mac.yml	9fb0586a
 Games/Video/1991/Lemmings.yml	df25aebe
 Games/Video/1991/Metroid II Return of Samus.yml	1f3744f4
 Games/Video/1991/Monkey Island 2 LeChucks Revenge.yml	e388a953
@@ -1314,6 +1320,7 @@ Games/Video/1992/Streets of Rage 2.yml	3b351eaa
 Games/Video/1992/Super Mario Kart.yml	25b67f82
 Games/Video/1992/The Addams Family.yml	16137d8c
 Games/Video/1992/The Incredible Machine.yml	26a25ccf
+Games/Video/1992/The Lost Vikings.yml	f0e0a227
 Games/Video/1992/Ultima Underworld The Stygian Abyss.yml	5ecc6949
 Games/Video/1992/Ultima VII The Black Gate.yml	56b9b352
 Games/Video/1992/Undercover Cops.yml	9f3ec1e3
@@ -1324,6 +1331,8 @@ Games/Video/1993/Alien 3 - SNES.yml	2954bc6b
 Games/Video/1993/Alien 3 The Gun.yml	4877bb2c
 Games/Video/1993/Alien vs Predator - SNES.yml	89436aaa
 Games/Video/1993/Alien vs Predator The Last of His Clan.yml	90b4d728
+Games/Video/1993/Bubsy in Claws Encounters of the Furred Kind.yml	31fb3b3c
+Games/Video/1993/Cool Spot.yml	4bdaecea
 Games/Video/1993/Day of the Tentacle.yml	ae95b996
 Games/Video/1993/Daytona USA.yml	5d8bc4fb
 Games/Video/1993/Disney's Aladdin Genesis.yml	2ec1589f
@@ -1350,6 +1359,7 @@ Games/Video/1993/Phantasy Star IV The End of the Millennium.yml	4e8fddb4
 Games/Video/1993/Prince of Persia 2 The Shadow and the Flame.yml	cec8a28b
 Games/Video/1993/Return to Zork.yml	b768fb3f
 Games/Video/1993/Ridge Racer.yml	545233bd
+Games/Video/1993/Rocket Knight Adventures.yml	d1ddf934
 Games/Video/1993/Sam & Max Hit the Road.yml	83b2f89d
 Games/Video/1993/Shining Force II.yml	e8739d2c
 Games/Video/1993/SimCity 2000.yml	9ae5cba1
@@ -1366,6 +1376,7 @@ Games/Video/1994/Disney's Activity Center Aladdin.yml	74be0d84
 Games/Video/1994/Disney's Aladdin.yml	cb908bc4
 Games/Video/1994/Donkey Kong Country.yml	7888eb9c
 Games/Video/1994/Doom II.yml	83c8a16c
+Games/Video/1994/Dynamite Headdy.yml	d4162555
 Games/Video/1994/EarthBound.yml	9b69c7f2
 Games/Video/1994/Earthworm Jim.yml	97c3e52f
 Games/Video/1994/Final Fantasy VI.yml	92205e61
@@ -1374,6 +1385,7 @@ Games/Video/1994/Jurassic Park Arcade.yml	5540a13
 Games/Video/1994/Jurassic Park Interactive.yml	362f43ec
 Games/Video/1994/Jurassic Park Paint and Activity Center.yml	2dce4f83
 Games/Video/1994/Jurassic Park Rampage Edition.yml	c3625423
+Games/Video/1994/Killer Instinct.yml	284c13f9
 Games/Video/1994/Marathon.yml	20328c84
 Games/Video/1994/Sid Meier's Colonization.yml	8a204666
 Games/Video/1994/Sonic & Knuckles.yml	9d33176e
@@ -1400,9 +1412,11 @@ Games/Video/1995/Donkey Kong Country 2 Diddys Kong Quest.yml	92a2e1c0
 Games/Video/1995/Full Throttle.yml	b2597d4f
 Games/Video/1995/I Have No Mouth, and I Must Scream.yml	de7b4f42
 Games/Video/1995/MechWarrior 2 31st Century Combat.yml	8a2391f2
+Games/Video/1995/Ristar.yml	f63d24
 Games/Video/1995/Star Wars Dark Forces.yml	e33dbcfa
 Games/Video/1995/Super Mario World 2 Yoshis Island.yml	f5b554ef
 Games/Video/1995/Tekken 2.yml	c3b25e1a
+Games/Video/1995/Vectorman.yml	af53c152
 Games/Video/1995/Warcraft II Tides of Darkness.yml	a1a423e9
 Games/Video/1995/Worms.yml	fc77499d
 Games/Video/1996/Alien Trilogy.yml	7fcf11ef
@@ -6365,6 +6379,7 @@ People/David White.yml	e89a2fb8
 People/David Wilmot.yml	1a49a4fb
 People/David Wilson Barnes.yml	9956fd79
 People/David Winkler.yml	348095c4
+People/David Wise.yml	34e0b53d
 People/David Wu.yml	c5a143e4
 People/David X. Cohen.yml	a3901b9c
 People/David Yates.yml	e7dff6cc
@@ -7016,6 +7031,7 @@ People/Grace Rolek.yml	9ac1d420
 People/Grace Zabriskie.yml	c86dac4b
 People/Graeme Devine.yml	ec4f0dde
 People/Graeme Manson.yml	3297650f
+People/Graeme Norgate.yml	abfc45a0
 People/Graeme Revell.yml	97e004eb
 People/Graham Broadbent.yml	94167477
 People/Graham Chapman.yml	e83cf36c
@@ -9060,6 +9076,7 @@ People/Michael Bay.yml	b2e6046b
 People/Michael Beach.yml	90b5a3c2
 People/Michael Bell.yml	4c62b233
 People/Michael Berg.yml	75190a96
+People/Michael Berlyn.yml	efca19bb
 People/Michael Biehn.yml	8f48e988
 People/Michael Bonvillain.yml	270c519f
 People/Michael Bowen.yml	6baff0bb
@@ -9304,6 +9321,7 @@ People/Nancy Grant.yml	a23d38ed
 People/Nancy Marchand.yml	5c57b864
 People/Nancy Richardson.yml	393b3263
 People/Nancy Wilson.yml	6392ffd
+People/Naofumi Hataya.yml	8a19eb76
 People/Naomi Watts.yml	22c41c81
 People/Naomie Harris.yml	2935227b
 People/Naoto Ohshima.yml	634bbad3
@@ -10045,6 +10063,7 @@ People/Roberto Saviano.yml	c04fe2c
 People/Roberto Schaefer.yml	d358d5df
 People/Robin Atkin Downes.yml	7d2f37c6
 People/Robin Bartlett.yml	32fb1ab5
+People/Robin Beanland.yml	c6b3297e
 People/Robin Budd.yml	985a27f9
 People/Robin Green & Mitchell Burgess.yml	27fbb642
 People/Robin Shou.yml	9284dad
