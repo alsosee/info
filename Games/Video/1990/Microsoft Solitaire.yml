@@ -1,0 +1,14 @@
+name: Microsoft Solitaire
+description: >
+  Microsoft Solitaire is the Windows version of Klondike solitaire, bundled with Windows 3.0 and widely credited with teaching mouse interaction to a mass PC audience.
+released: 1990-05-22
+genres:
+  - Card game
+  - Puzzle
+wikipedia: https://en.wikipedia.org/wiki/Microsoft_Solitaire
+igdb: https://www.igdb.com/games/microsoft-solitaire
+developers:
+  - Microsoft
+publishers:
+  - Microsoft
+designers: Wes Cherry

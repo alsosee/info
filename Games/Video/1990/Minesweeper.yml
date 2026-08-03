@@ -1,0 +1,12 @@
+name: Minesweeper
+description: >
+  Minesweeper is a logic puzzle game popularized through Microsoft Windows, asking players to clear a grid by interpreting numbered clues that reveal the locations of hidden mines.
+released: 1990
+genres:
+  - Puzzle
+wikipedia: https://en.wikipedia.org/wiki/Microsoft_Minesweeper
+igdb: https://www.igdb.com/games/minesweeper--1
+developers:
+  - Microsoft
+publishers:
+  - Microsoft

@@ -1,0 +1,13 @@
+name: "Chip's Challenge"
+description: >
+  Chip's Challenge is a tile-based puzzle game about navigating hazards, keys, monsters, and logic gates across compact maze-like levels.
+released: 1989
+genres:
+  - Puzzle
+wikipedia: https://en.wikipedia.org/wiki/Chip%27s_Challenge
+igdb: https://www.igdb.com/games/chips-challenge
+developers:
+  - Epyx
+publishers:
+  - Atari Corporation
+designers: Chuck Sommerville

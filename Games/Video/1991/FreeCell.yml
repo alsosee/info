@@ -1,0 +1,14 @@
+name: FreeCell
+description: >
+  FreeCell is a solitaire card game implementation bundled with Microsoft Windows, known for its nearly fully solvable deal set and open-information strategic play.
+released: 1991
+genres:
+  - Card game
+  - Puzzle
+wikipedia: https://en.wikipedia.org/wiki/FreeCell
+igdb: https://www.igdb.com/games/freecell
+developers:
+  - Microsoft
+publishers:
+  - Microsoft
+designers: Jim Horne
