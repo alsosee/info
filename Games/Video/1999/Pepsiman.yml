@@ -1,0 +1,15 @@
+name: Pepsiman
+description: >
+  Japan-only PlayStation action game starring Pepsi's tokusatsu-style mascot,
+  built around obstacle-dodging runner stages and remembered for its surreal
+  product-placement energy.
+released: 1999-03-04
+genres:
+  - action
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Pepsiman_(video_game)
+igdb: https://www.igdb.com/games/pepsiman--1
+developers: KID
+publishers: KID
+characters:
+  - name: Pepsiman
