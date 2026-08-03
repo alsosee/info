@@ -1,0 +1,19 @@
+name: Rocket Knight Adventures
+description: >
+  Konami action-platform game starring Sparkster, an armored opossum knight
+  whose rocket pack and sword attacks anchor fast side-scrolling stages and
+  boss fights.
+released: 1993-08-05
+series: Rocket Knight
+genres:
+  - platform
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Rocket_Knight_Adventures
+igdb: https://www.igdb.com/games/rocket-knight-adventures
+developers: Konami
+publishers: Konami
+composers:
+  - Aki Hata
+  - Kazuhiko Uehara
+characters:
+  - name: Sparkster

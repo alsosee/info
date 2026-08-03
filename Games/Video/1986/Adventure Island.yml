@@ -1,0 +1,15 @@
+name: Adventure Island
+description: >
+  Hudson Soft platform game adapted from Wonder Boy for the NES, starring
+  Master Higgins in a fruit-collecting, skateboard-riding rescue adventure that
+  launched a long-running console series.
+released: 1986-09-12
+series: Adventure Island
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Adventure_Island_(video_game)
+igdb: https://www.igdb.com/games/hudsons-adventure-island
+developers: Hudson Soft
+publishers: Hudson Soft
+characters:
+  - name: Master Higgins

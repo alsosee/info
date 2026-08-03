@@ -1,0 +1,20 @@
+name: The Lost Vikings
+description: >
+  Puzzle-platform game from Silicon & Synapse in which players switch between
+  three Vikings with complementary abilities to escape stages full of traps,
+  enemies, and environmental puzzles.
+released: 1992-04-29
+series: The Lost Vikings
+genres:
+  - platform
+  - puzzle
+wikipedia: https://en.wikipedia.org/wiki/The_Lost_Vikings
+igdb: https://www.igdb.com/games/the-lost-vikings--3
+developers: Silicon & Synapse
+publishers: Interplay Productions
+designers: Ron Millar
+composers: Charles Deenen
+characters:
+  - name: Erik the Swift
+  - name: Baleog the Fierce
+  - name: Olaf the Stout

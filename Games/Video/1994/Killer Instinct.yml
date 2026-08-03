@@ -1,0 +1,21 @@
+name: Killer Instinct
+description: >
+  Rare and Midway arcade fighting game that mixed digitized, pre-rendered
+  character graphics with long combo systems and a striking audiovisual style
+  before becoming a major Nintendo-associated franchise.
+released: 1994-10-28
+series: Killer Instinct
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Killer_Instinct_(1994_video_game)
+igdb: https://www.igdb.com/games/killer-instinct
+developers: Rare
+publishers: Midway
+designers: Chris Tilston
+composers:
+  - Robin Beanland
+  - Graeme Norgate
+characters:
+  - name: Jago
+  - name: Orchid
+  - name: Fulgore

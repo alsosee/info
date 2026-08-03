@@ -1,0 +1,16 @@
+name: Joe & Mac
+description: >
+  Data East arcade platform game, also known as Caveman Ninja, in which two
+  prehistoric heroes fight through cartoon Stone Age stages against dinosaurs
+  and rival cavemen.
+released: 1991-12-06
+series: Joe & Mac
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Joe_%26_Mac
+igdb: https://www.igdb.com/games/joe-and-mac--2
+developers: Data East
+publishers: Data East
+characters:
+  - name: Joe
+  - name: Mac

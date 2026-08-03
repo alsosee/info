@@ -1,0 +1,17 @@
+name: Ristar
+description: >
+  Sega platform game about a star with elastic arms, built around grabbing,
+  swinging, and headbutting enemies through colorful side-scrolling stages.
+released: 1995-02-16
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Ristar
+igdb: https://www.igdb.com/games/ristar
+developers: Sega
+publishers: Sega
+designers: Akira Nishino
+composers:
+  - Tomoko Sasaki
+  - Naofumi Hataya
+characters:
+  - name: Ristar

@@ -1,0 +1,22 @@
+name: Battletoads
+description: >
+  Rare beat 'em up and platform game known for its cartoon attitude, high
+  difficulty, and genre-shifting stages, especially its fast obstacle-course
+  sequences.
+released: 1991-06-01
+series: Battletoads
+genres:
+  - beat 'em up
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Battletoads_(video_game)
+igdb: https://www.igdb.com/games/battletoads
+developers: Rare
+publishers: Tradewest
+designers:
+  - Tim Stamper
+  - Chris Stamper
+composers: David Wise
+characters:
+  - name: Rash
+  - name: Zitz
+  - name: Pimple

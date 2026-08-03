@@ -1,0 +1,17 @@
+name: VectorMan
+description: >
+  Sega Genesis run-and-gun platform game from BlueSky Software, notable for
+  pre-rendered 3D-style animation and a morphing robot hero fighting through a
+  polluted future Earth.
+released: 1995-10-24
+series: VectorMan
+genres:
+  - platform
+  - run and gun
+wikipedia: https://en.wikipedia.org/wiki/Vectorman
+igdb: https://www.igdb.com/games/vectorman
+developers: BlueSky Software
+publishers: Sega
+composers: Jon Holland
+characters:
+  - name: VectorMan

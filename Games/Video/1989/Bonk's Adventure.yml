@@ -1,0 +1,20 @@
+name: "Bonk's Adventure"
+description: >
+  Hudson Soft and Red Company platform game for the TurboGrafx-16 starring a
+  headbutting caveman, giving NEC's console one of its signature mascot
+  characters.
+released: 1989-12-15
+series: Bonk
+genres:
+  - platform
+wikipedia: https://en.wikipedia.org/wiki/Bonk%27s_Adventure
+igdb: https://www.igdb.com/games/bonks-adventure
+developers:
+  - Red Company
+  - Atlus
+publishers:
+  - Hudson Soft
+  - NEC Home Electronics
+composers: Tsukasa Masuko
+characters:
+  - name: Bonk
