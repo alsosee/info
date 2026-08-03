@@ -473,6 +473,7 @@ Companies/Gold Circle Films.yml	8abc8a5f
 Companies/Gold/Miller Productions.yml	9983bdad
 Companies/Golden Harvest.yml	9f051635
 Companies/Golden Way Films.yml	520d6e67
+Companies/Good Shepherd Entertainment.yml	5dfb6586
 Companies/Gordon Company.yml	4d2e3200
 Companies/Gotham Group.yml	e8949ea6
 Companies/Gradiente.yml	5084f3f9
@@ -558,6 +559,7 @@ Companies/Kiwi Media Group.yml	2768924e
 Companies/Klei Entertainment.yml	1a4540d9
 Companies/Knowledge Adventure.yml	dbc01d4f
 Companies/Kojima Productions.yml	12a3b2c3
+Companies/Konami Computer Entertainment Japan.yml	87c1f41c
 Companies/Konami Digital Entertainment.yml	4f212c98
 Companies/Konami.yml	a0154dcb
 Companies/Konrad Pictures.yml	c0b716bd
@@ -1123,6 +1125,7 @@ Companies/Windy Hill Pictures.yml	e5c6c1fe
 Companies/WingNut Films.yml	55f88a4
 Companies/Winkler Films.yml	a06314a3
 Companies/Wit Studio.yml	c76af57e
+Companies/Wizards of the Coast.yml	cea364e0
 Companies/Working Title Films.yml	2e561461
 Companies/X Filme Creative Pool.yml	a71d5da2
 Companies/X Verleih AG.yml	a0a065f2
@@ -1468,6 +1471,7 @@ Games/Video/1998/Marvel vs. Capcom Clash of Super Heroes.yml	e01f6ad0
 Games/Video/1998/MediEvil.yml	f5b1b227
 Games/Video/1998/Metal Gear Solid.yml	ec6a1edb
 Games/Video/1998/Need for Speed III Hot Pursuit.yml	7f0f7bb8
+Games/Video/1998/Pokémon Trading Card Game.yml	a778aec3
 Games/Video/1998/Pokémon Yellow.yml	51c5316c
 Games/Video/1998/Populous The Beginning.yml	817ecc8
 Games/Video/1998/Resident Evil 2.yml	63ce9b49
@@ -1525,6 +1529,7 @@ Games/Video/1999/Vib-Ribbon.yml	54f43f84
 Games/Video/1999/Warcraft II Battle.net Edition.yml	fc6ac449
 Games/Video/1999/Warpath Jurassic Park.yml	1013bc50
 Games/Video/1999/Worms Armageddon.yml	98e721f7
+Games/Video/1999/Yu-Gi-Oh! Forbidden Memories.yml	ddcd4d3d
 Games/Video/2000/Alien Resurrection.yml	8becc332
 Games/Video/2000/Baldur's Gate II Shadows of Amn.yml	27c5010c
 Games/Video/2000/Command & Conquer Red Alert 2.yml	4a73695c
@@ -1626,6 +1631,7 @@ Games/Video/2002/Grand Theft Auto Vice City.yml	b596b24e
 Games/Video/2002/Ice Age.yml	3514e83b
 Games/Video/2002/Jurassic Park Dinosaur Battles.yml	64d50d0
 Games/Video/2002/Kingdom Hearts.yml	3dc1a97f
+Games/Video/2002/Magic The Gathering Online.yml	b7fab6e9
 Games/Video/2002/Metroid Fusion.yml	bc81b8a9
 Games/Video/2002/Metroid Prime.yml	33dabade
 Games/Video/2002/Need for Speed Hot Pursuit 2.yml	60973f10
@@ -1994,6 +2000,7 @@ Games/Video/2011/Minecraft.yml	92ade330
 Games/Video/2011/Need for Speed The Run.yml	ffb3e60
 Games/Video/2011/Paranormal Activity Sanctuary.yml	6589b47e
 Games/Video/2011/Payday The Heist.yml	dd236573
+Games/Video/2011/Pokémon Trading Card Game Online.yml	aa44688e
 Games/Video/2011/Portal 2.yml	e829a6c1
 Games/Video/2011/Pushmo.yml	74045432
 Games/Video/2011/Shift 2 Unleashed.yml	75018329
@@ -2207,6 +2214,7 @@ Games/Video/2016/Persona 5.yml	fd9f4bca
 Games/Video/2016/Planet Coaster.yml	3b72c1a3
 Games/Video/2016/Pokémon Go.yml	f131c908
 Games/Video/2016/Shadow Tactics Blades of the Shogun.yml	fc8e19a9
+Games/Video/2016/Shadowverse.yml	9a988526
 Games/Video/2016/Sid Meier's Civilization VI.yml	36492ace
 Games/Video/2016/StarCraft II Nova Covert Ops.yml	5f955418
 Games/Video/2016/Starbound.yml	694f21bf
@@ -2325,6 +2333,7 @@ Games/Video/2019/Green Hell.yml	a6f36893
 Games/Video/2019/Hell Let Loose.yml	ea8416d7
 Games/Video/2019/Ice Age Scrat's Nutty Adventure.yml	a2206dc
 Games/Video/2019/John Wick Hex.yml	814db6db
+Games/Video/2019/Magic The Gathering Arena.yml	ce3ce8d8
 Games/Video/2019/Manifold Garden.yml	d5dbac68
 Games/Video/2019/Metro Exodus.yml	a717cbd8
 Games/Video/2019/Mortal Kombat 11.yml	97bf292d
@@ -2356,12 +2365,15 @@ Games/Video/2020/Desperados III.yml	34e4ecd3
 Games/Video/2020/Doom Eternal.yml	a006f46b
 Games/Video/2020/Factorio.yml	1b4d5373
 Games/Video/2020/Genshin Impact.yml	1cc6c34f
+Games/Video/2020/Griftlands.yml	66474d0
 Games/Video/2020/Hades.yml	b1c37675
 Games/Video/2020/Half-Life Alyx.yml	23e372c6
 Games/Video/2020/Jets'n'Guns 2.yml	d69c4d39
 Games/Video/2020/Jurassic World Aftermath.yml	b09b591f
 Games/Video/2020/Jurassic World Evolution Complete Edition.yml	c31db6b
+Games/Video/2020/Legends of Runeterra.yml	7dd49694
 Games/Video/2020/Microsoft Flight Simulator.yml	80c722cf
+Games/Video/2020/Monster Train.yml	59bc168a
 Games/Video/2020/One-Punch Man A Hero Nobody Knows.yml	54e0e014
 Games/Video/2020/Ori and the Will of the Wisps.yml	c052a70f
 Games/Video/2020/Phasmophobia.yml	965b709f
@@ -2399,12 +2411,14 @@ Games/Video/2021/The Witcher Monster Slayer.yml	be7f7d32
 Games/Video/2021/World of Warcraft Burning Crusade Classic.yml	a915045f
 Games/Video/2022/Aperture Desk Job.yml	8dcdad72
 Games/Video/2022/Bayonetta 3.yml	22b59cd9
+Games/Video/2022/Card Shark.yml	55d5948b
 Games/Video/2022/Citizen Sleeper.yml	a49c9e52
 Games/Video/2022/Elden Ring.yml	5b6bc74a
 Games/Video/2022/God of War Ragnarok.yml	db7093fe
 Games/Video/2022/Grounded.yml	502c029b
 Games/Video/2022/Jurassic World Primal Ops.yml	4f1515fc
 Games/Video/2022/Kirby and the Forgotten Land.yml	8b701697
+Games/Video/2022/Marvel Snap.yml	fbe5d05
 Games/Video/2022/Mount & Blade II Bannerlord.yml	9b3d9fa3
 Games/Video/2022/Need for Speed Unbound.yml	7602b59d
 Games/Video/2022/Overwatch 2.yml	57c67112
@@ -2426,6 +2440,7 @@ Games/Video/2022/Tunic.yml	4b1ee0ca
 Games/Video/2022/Vampire Survivors.yml	bee72668
 Games/Video/2022/World of Warcraft Dragonflight.yml	d124e5a9
 Games/Video/2022/World of Warcraft Wrath of the Lich King Classic.yml	58953db1
+Games/Video/2022/Yu-Gi-Oh! Master Duel.yml	eb028f65
 Games/Video/2023/Alan Wake 2.yml	d863dcea
 Games/Video/2023/Aliens Dark Descent.yml	46f6c9ef
 Games/Video/2023/Assassin's Creed Mirage.yml	bcbff174
@@ -2471,6 +2486,7 @@ Games/Video/2024/Dystopika.yml	4882fe25
 Games/Video/2024/Knock on the Coffin Lid.yml	af481f87
 Games/Video/2024/Mullet Madjack Deluxe Edition.yml	7ce1bee8
 Games/Video/2024/Nine Sols.yml	8553f7ab
+Games/Video/2024/Pokémon Trading Card Game Pocket.yml	244466dc
 Games/Video/2024/Prince of Persia The Lost Crown.yml	82095566
 Games/Video/2024/STALKER 2 Heart of Chornobyl.yml	802ff255
 Games/Video/2024/Satisfactory.yml	2e978586
