@@ -1,0 +1,16 @@
+name: SimAnt
+description: >
+  SimAnt is a life-simulation and strategy game about managing an ant colony, gathering food, fighting rival ants, and gradually taking over a suburban yard and house.
+released: 1991
+genres:
+  - Simulation
+  - Strategy
+wikipedia: https://en.wikipedia.org/wiki/SimAnt
+igdb: https://www.igdb.com/games/simant
+developers:
+  - Maxis
+publishers:
+  - Maxis
+designers:
+  - Will Wright
+  - Fred Haslam
