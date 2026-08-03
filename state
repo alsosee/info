@@ -173,6 +173,7 @@ Companies/Arte France Cinéma.yml	1a062c5a
 Companies/Arte.yml	87bc0048
 Companies/Aspyr Media.yml	da2e19a
 Companies/Aspyr.yml	c7407b84
+Companies/Atari Games.yml	af175936
 Companies/Atari.yml	defba843
 Companies/Atlas Entertainment.yml	b92a173f
 Companies/Atlus.yml	1bed4113
@@ -1090,6 +1091,7 @@ Companies/Why Not Productions.yml	9a881210
 Companies/Wicked Witch Software.yml	c958d0a7
 Companies/Wild Atlantic Pictures.yml	ffbecfe
 Companies/Wild Bunch.yml	8efaee7c
+Companies/Williams Electronics.yml	69bddd3a
 Companies/Windy Hill Pictures.yml	e5c6c1fe
 Companies/WingNut Films.yml	55f88a4
 Companies/Winkler Films.yml	a06314a3
@@ -1166,30 +1168,44 @@ Games/Video/1972/Pong.yml	e1313c8c
 Games/Video/1977/Zork.yml	9a9c3dd4
 Games/Video/1978/Space Invaders.yml	bab37c51
 Games/Video/1979/Asteroids.yml	ba5b4dc0
+Games/Video/1980/Missile Command.yml	6294ad06
 Games/Video/1980/Pac-Man.yml	4151b63c
 Games/Video/1980/Rogue.yml	34449359
+Games/Video/1981/Centipede.yml	3b33aece
+Games/Video/1981/Defender.yml	385eee8d
 Games/Video/1981/Donkey Kong.yml	339b2704
 Games/Video/1981/Frogger.yml	c95a1b45
 Games/Video/1981/Galaga.yml	215921e9
+Games/Video/1981/Tempest.yml	94660b87
 Games/Video/1982/Alien.yml	60f25607
+Games/Video/1982/BurgerTime.yml	56576520
+Games/Video/1982/Dig Dug.yml	dd5a714a
+Games/Video/1982/Joust.yml	16b30e4a
 Games/Video/1982/Microsoft Flight Simulator.yml	a9b7b9bb
 Games/Video/1982/Ms. Pac-Man.yml	d445875c
+Games/Video/1982/Qbert.yml	f8f84ef1
+Games/Video/1982/Robotron 2084.yml	6ebae07f
 Games/Video/1983/Dragon's Lair.yml	acb5f7b4
 Games/Video/1983/Halloween.yml	6d57993c
 Games/Video/1983/M.U.L.E.yml	b1a5ed48
 Games/Video/1984/Alien.yml	9877b76f
 Games/Video/1984/Elite.yml	50dee657
 Games/Video/1984/Tetris.yml	87ba85ae
+Games/Video/1985/Gauntlet.yml	eac02e9d
 Games/Video/1985/Ghosts n Goblins.yml	d413687a
+Games/Video/1985/Paperboy.yml	539164d8
+Games/Video/1985/Space Harrier.yml	6d3444a5
 Games/Video/1985/Super Mario Bros..yml	af91c0cf
 Games/Video/1985/The Oregon Trail.yml	65c6ac03
 Games/Video/1985/Ultima IV Quest of the Avatar.yml	de73bd6
 Games/Video/1985/Where in the World Is Carmen Sandiego.yml	a19f5637
 Games/Video/1986/Aliens The Computer Game - Activision.yml	b84e2d20
 Games/Video/1986/Aliens The Computer Game - Software Studios.yml	12e01d69
+Games/Video/1986/Bubble Bobble.yml	84036fe3
 Games/Video/1986/Castlevania.yml	c1522eac
 Games/Video/1986/Dragon Quest.yml	953e7d20
 Games/Video/1986/Metroid.yml	1042d62e
+Games/Video/1986/Out Run.yml	d86fc3e6
 Games/Video/1986/The Legend of Zelda.yml	14b75b68
 Games/Video/1987/Aliens Alien 2.yml	11367919
 Games/Video/1987/Contra.yml	16cf8bb2
@@ -1213,9 +1229,11 @@ Games/Video/1989/Friday the 13th.yml	f9a0b59b
 Games/Video/1989/Populous.yml	d9bbe5ac
 Games/Video/1989/Prince of Persia.yml	835e0cb4
 Games/Video/1989/SimCity.yml	1a021bd2
+Games/Video/1989/Teenage Mutant Ninja Turtles.yml	fe3ed1eb
 Games/Video/1989/Wonder Boy III The Dragons Trap.yml	70bcda5b
 Games/Video/1990/Aliens.yml	71464329
 Games/Video/1990/Dr. Mario.yml	75c99d52
+Games/Video/1990/Smash TV.yml	66d4c3a8
 Games/Video/1990/Super Mario World.yml	fe9c2760
 Games/Video/1990/The Secret of Monkey Island.yml	a747bc72
 Games/Video/1991/Captain Commando.yml	2cb6093c
@@ -1229,6 +1247,7 @@ Games/Video/1991/Street Fighter II The World Warrior.yml	a324b311
 Games/Video/1991/Streets of Rage.yml	6cae594a
 Games/Video/1991/Super Ghouls n Ghosts.yml	38b1ea1d
 Games/Video/1991/The Legend of Zelda A Link to the Past.yml	919dfc11
+Games/Video/1991/The Simpsons Arcade Game.yml	14cbaa3d
 Games/Video/1992/Alien 3.yml	ef1bbf1b
 Games/Video/1992/Contra III The Alien Wars.yml	f5fd8a9
 Games/Video/1992/Dragon Quest V Hand of the Heavenly Bride.yml	3e200a7e
@@ -1242,6 +1261,7 @@ Games/Video/1992/Ultima Underworld The Stygian Abyss.yml	5ecc6949
 Games/Video/1992/Ultima VII The Black Gate.yml	56b9b352
 Games/Video/1992/Undercover Cops.yml	9f3ec1e3
 Games/Video/1992/Wolfenstein 3D.yml	96562921
+Games/Video/1992/X-Men Arcade.yml	3bb91c39
 Games/Video/1993/Alien 3 - Game Boy.yml	1da00e3
 Games/Video/1993/Alien 3 - SNES.yml	2954bc6b
 Games/Video/1993/Alien 3 The Gun.yml	4877bb2c
@@ -2419,6 +2439,7 @@ Games/Video/Series/Tekken.yml	e7b62521
 Games/Video/Series/The Addams Family.yml	3b0b1d08
 Games/Video/Series/The Elder Scrolls.yml	b040bfd1
 Games/Video/Series/The Settlers.yml	f57d8b73
+Games/Video/Series/The Simpsons.yml	7780c93c
 Games/Video/Series/The Sims.yml	9a14376
 Games/Video/Series/The Witcher.yml	11147ea3
 Games/Video/Series/Titanfall.yml	8636377b
@@ -5985,6 +6006,7 @@ People/Dave Hill.yml	3ef2d17c
 People/Dave Holstein.yml	cd53bd22
 People/Dave Krinsky.yml	dad177fa
 People/Dave Sheridan.yml	a39a3a0
+People/Dave Theurer.yml	2f75093e
 People/Dave Wittenberg.yml	c4d07b23
 People/Daveed Diggs.yml	6ef58dad
 People/Daveigh Chase.yml	a65b9223
@@ -6309,6 +6331,7 @@ People/Ed Guiney.yml	2b0d147c
 People/Ed Harris.yml	86da8d3e
 People/Ed Helms.yml	e8f1116f
 People/Ed Lachman.yml	4798a37
+People/Ed Logg.yml	c1b8b4e
 People/Ed O'Neill.yml	45968f97
 People/Ed Skrein.yml	ff1a9db7
 People/Ed Solomon.yml	ffc6d8cb
@@ -6515,6 +6538,7 @@ People/Ethan Spaulding.yml	1e319f23
 People/Ethan Suplee.yml	a715cf80
 People/Ethan William Childress.yml	dafa8584
 People/Etsu Tamari.yml	53e94e40
+People/Eugene Jarvis.yml	194ae255
 People/Eugene Levy.yml	ed75dfb0
 People/Eugene Mirman.yml	1288a3c3
 People/Eugenio Alabiso.yml	fdf1f514
@@ -6943,6 +6967,7 @@ People/Hirokazu Yasuhara.yml	345d7489
 People/Hiroki Kato.yml	c3c51b33
 People/Hiromi Tsuru.yml	8878f4f8
 People/Hiromichi Tanaka.yml	31cf22f6
+People/Hiroshi Kawaguchi.yml	435861fc
 People/Hiroshi Kojina.yml	4fd282ec
 People/Hiroshi Seko.yml	880149b0
 People/Hirotaka Suzuoki.yml	b907e51f
@@ -8182,6 +8207,7 @@ People/Lani Minella.yml	7403ff35
 People/Lara Flynn Boyle.yml	3ab482fb
 People/Lara Pulver.yml	aa9ff98
 People/Larry David.yml	79a225e5
+People/Larry DeMar.yml	941b3a88
 People/Larry Ferguson.yml	a756328d
 People/Larry Flynt.yml	1094fb8c
 People/Larry Fong.yml	2a9b147b
@@ -8565,6 +8591,7 @@ People/Mark Steinberg.yml	3402f8ef
 People/Mark Stevens.yml	94b231b7
 People/Mark Strong.yml	250467d9
 People/Mark Swift.yml	a067a261
+People/Mark Turmell.yml	af8ae6bd
 People/Mark Vahradian.yml	58eba527
 People/Mark Wahlberg.yml	4283331e
 People/Mark Waters.yml	f79775df
