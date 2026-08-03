@@ -269,6 +269,7 @@ Companies/Castle Rock Entertainment.yml	9cb1b6a3
 Companies/Cavia.yml	39d24176
 Companies/Centropolis Entertainment.yml	354289a9
 Companies/Channel 4.yml	ee3259e5
+Companies/Chaosium.yml	df0540c0
 Companies/Chartoff Productions.yml	29d842ed
 Companies/Chartoff-Winkler Productions.yml	eb926fd8
 Companies/Chernin Entertainment.yml	7c296961
@@ -383,6 +384,7 @@ Companies/EuroVideo Medien.yml	6ba33fc6
 Companies/EuropaCorp Distribution.yml	3fa322e2
 Companies/EuropaCorp.yml	ba4bf360
 Companies/Evil Empire.yml	422ed79c
+Companies/Evil Hat Productions.yml	5f2cbaa6
 Companies/Exient Entertainment.yml	4a60f197
 Companies/FOX.yml	164b7f65
 Companies/FX on Hulu.yml	616759f9
@@ -391,6 +393,7 @@ Companies/FXP.yml	63b94b48
 Companies/FXX.yml	d6ba6162
 Companies/Fairview Entertainment.yml	b0dd064e
 Companies/Faliro House Productions.yml	a789ab58
+Companies/Fantasy Flight Games.yml	3ff3b46f
 Companies/Feelgood Entertainment.yml	d08748dd
 Companies/Feral Interactive.yml	2538cba1
 Companies/Film Council.yml	fceda1f5
@@ -823,6 +826,7 @@ Companies/Revolution Software.yml	183b42eb
 Companies/Revolution Studios.yml	30ea8895
 Companies/Rideback.yml	20bbad08
 Companies/Right of Way Films.yml	b3935064
+Companies/Rio Grande Games.yml	2d000d45
 Companies/Riot Games.yml	e9aa11a9
 Companies/River Road Entertainment.yml	cb33758
 Companies/Roadshow Film Distributors.yml	ca921014
@@ -909,6 +913,7 @@ Companies/Square.yml	29ae8bc9
 Companies/St. Martin's Press.yml	83725c12
 Companies/Stage 6 Films.yml	adad898
 Companies/Star Overseas.yml	d33974e2
+Companies/Stonemaier Games.yml	3bf72b23
 Companies/Strike Entertainment.yml	18edcdd9
 Companies/Studio Babelsberg.yml	fb6cf2fb
 Companies/Studio Ghibli.yml	989c9f7e
@@ -1110,9 +1115,13 @@ Companies/id Software.yml	2553b6bb
 Companies/miHoYo.yml	716440fc
 Companies/snowhydra games.yml	c49e2cb9
 Games/Awards/The Game Awards/2023.yml	7fafd0
+Games/Tabletop/Agricola.yml	3797ba78
+Games/Tabletop/Apocalypse World.yml	b22d08c
+Games/Tabletop/Arkham Horror.yml	27f3c18c
 Games/Tabletop/Azul.yml	f344e2c2
 Games/Tabletop/Backgammon.yml	8e3d7891
 Games/Tabletop/Blades in the Dark.yml	affa1752
+Games/Tabletop/Brass Birmingham.yml	a11495b9
 Games/Tabletop/Cairn.yml	4cf094b4
 Games/Tabletop/Call of Cthulhu.yml	1b5ee6e
 Games/Tabletop/Carcassonne.yml	84e802ad
@@ -1124,22 +1133,32 @@ Games/Tabletop/Codenames.yml	b49b3005
 Games/Tabletop/Cyberpunk.yml	366556d
 Games/Tabletop/Diplomacy.yml	4e06aa19
 Games/Tabletop/Dominion.yml	33bddcfc
+Games/Tabletop/Dungeon World.yml	45ba50fb
 Games/Tabletop/Dungeons & Dragons.yml	b3f0c9a6
 Games/Tabletop/Echoes of Revachol.yml	e9cdc297
+Games/Tabletop/FATE Core.yml	7e4ebf6
+Games/Tabletop/Fiasco.yml	6932c98
 Games/Tabletop/Gloomhaven.yml	594ccad9
 Games/Tabletop/Go.yml	90c0efbc
 Games/Tabletop/Magic The Gathering.yml	21ed4f6b
 Games/Tabletop/Monopoly.yml	cb446078
+Games/Tabletop/Mork Borg.yml	a3c03c19
 Games/Tabletop/Munchkin.yml	2ba73509
 Games/Tabletop/Pandemic.yml	d1791566
 Games/Tabletop/Pathfinder Roleplaying Game.yml	b6788e15
+Games/Tabletop/Power Grid.yml	c106835c
+Games/Tabletop/Puerto Rico.yml	e93ce5c7
 Games/Tabletop/Risk.yml	c32b3f7c
 Games/Tabletop/Root.yml	778d5084
 Games/Tabletop/Scrabble.yml	53846d6c
+Games/Tabletop/Scythe.yml	2683eb24
+Games/Tabletop/Shadowrun.yml	13732890
+Games/Tabletop/Spirit Island.yml	479ea3a3
 Games/Tabletop/Terraforming Mars.yml	497e7df8
 Games/Tabletop/The Last of Us Escape the Dark.yml	939d0
 Games/Tabletop/Ticket to Ride.yml	e6bc6cd3
 Games/Tabletop/Twilight Imperium.yml	be6b935
+Games/Tabletop/Twilight Struggle.yml	e07ac0d6
 Games/Tabletop/Vampire The Masquerade.yml	f51fdb
 Games/Tabletop/Warhammer 40,000.yml	ba4a38a3
 Games/Tabletop/Wingspan.yml	443f32ad
