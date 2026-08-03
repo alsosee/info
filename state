@@ -137,6 +137,7 @@ Companies/AdHoc Studio.yml	3fdef506
 Companies/Adult Swim.yml	2a7ae50d
 Companies/Aggregate Films.yml	a0c3cd5a
 Companies/Akashic Media Enterprises.yml	37b805cb
+Companies/Aksys Games.yml	ecc7b9b6
 Companies/Alcon Entertainment.yml	b62fce59
 Companies/Alfred A. Knopf.yml	cf770f0f
 Companies/Alliance Atlantis.yml	97e37134
@@ -287,6 +288,7 @@ Companies/Cinereach.yml	eef6c6af
 Companies/Cinergi Pictures.yml	88fe6426
 Companies/Cinesite Studios.yml	e8c9482e
 Companies/Cinetic Media.yml	b3b848bd
+Companies/Cing.yml	369faf6e
 Companies/Climax Studios.yml	d3f6e02a
 Companies/Cloudy Productions.yml	5138b46a
 Companies/Clover Studio.yml	17ada7f
@@ -620,6 +622,7 @@ Companies/Madhouse.yml	2c67f97
 Companies/Madman Entertainment.yml	de33c30f
 Companies/Magnolia Pictures.yml	24d1f68f
 Companies/Maiden Voyage Pictures.yml	a3daf065
+Companies/Majesco Entertainment.yml	2b5dd4fc
 Companies/Malpaso Productions.yml	2035fec
 Companies/Man in a Tree Productions.yml	c54374ce
 Companies/Mandarin Films Distribution.yml	1804bedb
@@ -1776,9 +1779,12 @@ Games/Video/2005/Sid Meier's Civilization IV.yml	7afd11ae
 Games/Video/2005/SpongeBob SquarePants Lights, Camera, Pants!.yml	72cf96fc
 Games/Video/2005/SpongeBob SquarePants The Yellow Avenger.yml	83e41e00
 Games/Video/2005/Tom Clancy's Splinter Cell Chaos Theory.yml	a91b27b2
+Games/Video/2005/Trace Memory.yml	53a3b603
+Games/Video/2005/Trauma Center Under the Knife.yml	b399fb7c
 Games/Video/2005/Worms 4 Mayhem.yml	4b7446c4
 Games/Video/2006/Aliens Extermination.yml	810c137c
 Games/Video/2006/Company of Heroes.yml	21dd32ab
+Games/Video/2006/Cooking Mama.yml	7dd086d
 Games/Video/2006/DEFCON.yml	292b6a35
 Games/Video/2006/Desperados 2 Coopers Revenge.yml	f1a9fc2f
 Games/Video/2006/Dwarf Fortress.yml	d7df487f
@@ -1812,6 +1818,7 @@ Games/Video/2006/Tom Clancy's Splinter Cell Essentials.yml	94bec2a4
 Games/Video/2006/Tomb Raider Legend.yml	b549cf16
 Games/Video/2006/Tomb Raider Puzzle Paradox.yml	c0026c8a
 Games/Video/2006/TrackMania Nations.yml	13345720
+Games/Video/2006/Trauma Center Second Opinion.yml	1c33544
 Games/Video/2006/Wii Sports.yml	662523c2
 Games/Video/2006/Worms Open Warfare.yml	e4681d86
 Games/Video/2007/AVP PredAlien Builder and Game.yml	ade18a2d
@@ -1833,6 +1840,7 @@ Games/Video/2007/God of War II.yml	85ff70cd
 Games/Video/2007/Guitar Hero III Legends of Rock.yml	77457ed1
 Games/Video/2007/Half-Life 2 Episode Two.yml	d3f7fdb5
 Games/Video/2007/Halo 3.yml	84c8f3af
+Games/Video/2007/Hotel Dusk Room 215.yml	9d72302d
 Games/Video/2007/Jurassic Park Explorer.yml	dc22664a
 Games/Video/2007/Lego Star Wars The Complete Saga.yml	dc7b4df1
 Games/Video/2007/Mass Effect.yml	8cae8557
@@ -1945,6 +1953,7 @@ Games/Video/2010/Darksiders.yml	758ac895
 Games/Video/2010/Fable III.yml	68367185
 Games/Video/2010/Fallout New Vegas.yml	bead6f6
 Games/Video/2010/Fruit Ninja.yml	4d1f1245
+Games/Video/2010/Ghost Trick Phantom Detective.yml	d63925b9
 Games/Video/2010/God of War Ghost of Sparta.yml	d9e8de6b
 Games/Video/2010/God of War III.yml	7ad1f96b
 Games/Video/2010/Halo Reach.yml	de2d8c79
@@ -2061,6 +2070,7 @@ Games/Video/2012/The Witcher Versus.yml	c46257e9
 Games/Video/2012/World of Warcraft Mists of Pandaria.yml	c8963a65
 Games/Video/2012/Worms Revolution.yml	69cc592b
 Games/Video/2012/XCOM Enemy Unknown.yml	739a46d
+Games/Video/2012/Zero Escape Virtue's Last Reward.yml	e3f5bd72
 Games/Video/2013/7 Days to Die.yml	3ca6b8ba
 Games/Video/2013/A Dark Room.yml	b844417b
 Games/Video/2013/AVP Evolution.yml	6e8abcf
@@ -2184,6 +2194,7 @@ Games/Video/2015/Splatoon.yml	74b048c9
 Games/Video/2015/SpongeBob HeroPants.yml	ef047a84
 Games/Video/2015/StarCraft II Legacy of the Void.yml	800d5b7b
 Games/Video/2015/Super Mario Maker.yml	f17b7935
+Games/Video/2015/The Great Ace Attorney Adventures.yml	bbcb59e
 Games/Video/2015/The Witcher 3 Wild Hunt.yml	74668c69
 Games/Video/2015/The Witcher Battle Arena.yml	413900cc
 Games/Video/2015/Tom Clancy's Rainbow Six Siege.yml	e0b5ed1e
@@ -2229,6 +2240,7 @@ Games/Video/2016/Tyranny.yml	8bb5faa5
 Games/Video/2016/Watch Dogs 2.yml	183aecff
 Games/Video/2016/World of Warcraft Legion.yml	32540ea9
 Games/Video/2016/Worms W.M.D.yml	9724ec4e
+Games/Video/2016/Zero Escape Zero Time Dilemma.yml	bb01c583
 Games/Video/2017/ARK Survival Evolved.yml	cbab9561
 Games/Video/2017/Alien Covenant - Arcade.yml	83a9959a
 Games/Video/2017/Alien Covenant In Utero.yml	41694448
@@ -2266,6 +2278,7 @@ Games/Video/2017/Syberia 3.yml	2e147f6c
 Games/Video/2017/Tacoma.yml	8b38657b
 Games/Video/2017/Tekken 7.yml	99eb3037
 Games/Video/2017/The Elder Scrolls Legends.yml	ada7a57d
+Games/Video/2017/The Great Ace Attorney 2 Resolve.yml	2c1d0f3c
 Games/Video/2017/The Legend of Zelda Breath of the Wild.yml	2be46990
 Games/Video/2017/Torment Tides of Numenera.yml	c4546db1
 Games/Video/2017/Universal Paperclips.yml	2b8a90af
@@ -2476,6 +2489,7 @@ Games/Video/2023/Warcraft Rumble.yml	6e8a03a0
 Games/Video/2024/Akimbot.yml	98fd11cf
 Games/Video/2024/Alien Rogue Incursion.yml	af852c2b
 Games/Video/2024/Animal Well.yml	504e5ace
+Games/Video/2024/Another Code Two Memories.yml	1d1b5199
 Games/Video/2024/Astro Bot.yml	596840e0
 Games/Video/2024/Balatro.yml	d611cb5c
 Games/Video/2024/Berserk Boy.yml	7173d938
