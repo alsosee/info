@@ -100,6 +100,7 @@ Comics/Scott Pilgrim.yml	a818a750
 Comics/Sin City.yml	ac41ba57
 Comics/The Last of Us American Dreams.yml	3cd24fb4
 Companies/01 Distribution.yml	39f31bc
+Companies/11 bit studios.yml	45a7a499
 Companies/1492 Pictures.yml	414135a
 Companies/2.0 Entertainment.yml	15380107
 Companies/20th Century Animation.yml	62d342a6
@@ -279,6 +280,7 @@ Companies/China Film Group.yml	3d87df74
 Companies/Chris Sawyer Productions.yml	be78a0f
 Companies/Chunsoft.yml	a03963ea
 Companies/Cine+.yml	385f1bb8
+Companies/Cinematronics.yml	a86dc3ae
 Companies/Cinereach.yml	eef6c6af
 Companies/Cinergi Pictures.yml	88fe6426
 Companies/Cinesite Studios.yml	e8c9482e
@@ -378,6 +380,7 @@ Companies/Entertainment Film Distributors.yml	58501212
 Companies/Entertainment One.yml	27a6a749
 Companies/Eon Productions.yml	19237f57
 Companies/Epic Games.yml	d34d2fcc
+Companies/Epyx.yml	e8b4e2b3
 Companies/Escape Artists.yml	de2bf9b8
 Companies/Esperanto Filmoj.yml	b88abcc5
 Companies/Estoty.yml	9aca7257
@@ -522,6 +525,7 @@ Companies/Intelligent Systems.yml	ccd05f1a
 Companies/Interplay Entertainment.yml	793a3411
 Companies/Interplay Productions.yml	858898ea
 Companies/Interscope Communications.yml	a7eabe97
+Companies/Introversion Software.yml	d36b71a8
 Companies/Irem.yml	39a60b17
 Companies/Irrational Games.yml	428672ee
 Companies/Istituto Luce.yml	fb977148
@@ -880,6 +884,7 @@ Companies/Shueisha.yml	afbdc7de
 Companies/Sideshow.yml	68356e7b
 Companies/Sidney Kimmel Entertainment.yml	17181e18
 Companies/Sierra Entertainment.yml	eec065da
+Companies/Sierra On-Line.yml	41c6ed65
 Companies/Sierra Studios.yml	80938c91
 Companies/Sikelia Productions.yml	ba729a22
 Companies/Silver Pictures.yml	ca41ef9a
@@ -1196,6 +1201,7 @@ Games/Video/1982/Qbert.yml	f8f84ef1
 Games/Video/1982/Robotron 2084.yml	6ebae07f
 Games/Video/1983/Dragon's Lair.yml	acb5f7b4
 Games/Video/1983/Halloween.yml	6d57993c
+Games/Video/1983/Lode Runner.yml	6e8aa7f4
 Games/Video/1983/M.U.L.E.yml	b1a5ed48
 Games/Video/1984/Alien.yml	9877b76f
 Games/Video/1984/Elite.yml	50dee657
@@ -1234,6 +1240,7 @@ Games/Video/1988/Dragon Quest III.yml	71bd7d8c
 Games/Video/1988/Ninja Gaiden.yml	659877cb
 Games/Video/1988/Super Mario Bros. 2.yml	ae74d8b
 Games/Video/1988/Super Mario Bros. 3.yml	1bc5c32
+Games/Video/1989/Chip's Challenge.yml	57ed3d6f
 Games/Video/1989/Fester's Quest.yml	7dfc11d4
 Games/Video/1989/Final Fight.yml	a0115ef2
 Games/Video/1989/Friday the 13th.yml	f9a0b59b
@@ -1245,6 +1252,8 @@ Games/Video/1989/Wonder Boy III The Dragons Trap.yml	70bcda5b
 Games/Video/1990/ActRaiser.yml	59eaa718
 Games/Video/1990/Aliens.yml	71464329
 Games/Video/1990/Dr. Mario.yml	75c99d52
+Games/Video/1990/Microsoft Solitaire.yml	f4dab91f
+Games/Video/1990/Minesweeper.yml	32214a89
 Games/Video/1990/Pilotwings.yml	54e617a0
 Games/Video/1990/Smash TV.yml	66d4c3a8
 Games/Video/1990/Super Mario World.yml	fe9c2760
@@ -1252,10 +1261,12 @@ Games/Video/1990/The Secret of Monkey Island.yml	a747bc72
 Games/Video/1991/Another World.yml	9e4100ad
 Games/Video/1991/Captain Commando.yml	2cb6093c
 Games/Video/1991/Final Fantasy IV.yml	348639f6
+Games/Video/1991/FreeCell.yml	5ba151b0
 Games/Video/1991/Lemmings.yml	df25aebe
 Games/Video/1991/Metroid II Return of Samus.yml	1f3744f4
 Games/Video/1991/Monkey Island 2 LeChucks Revenge.yml	e388a953
 Games/Video/1991/Sid Meier's Civilization.yml	7d89ffd1
+Games/Video/1991/SkiFree.yml	f3f0e902
 Games/Video/1991/Sonic the Hedgehog.yml	222babac
 Games/Video/1991/Street Fighter II The World Warrior.yml	a324b311
 Games/Video/1991/Streets of Rage.yml	6cae594a
@@ -1274,6 +1285,7 @@ Games/Video/1992/Sonic the Hedgehog 2.yml	b45f9cd6
 Games/Video/1992/Streets of Rage 2.yml	3b351eaa
 Games/Video/1992/Super Mario Kart.yml	25b67f82
 Games/Video/1992/The Addams Family.yml	16137d8c
+Games/Video/1992/The Incredible Machine.yml	26a25ccf
 Games/Video/1992/Ultima Underworld The Stygian Abyss.yml	5ecc6949
 Games/Video/1992/Ultima VII The Black Gate.yml	56b9b352
 Games/Video/1992/Undercover Cops.yml	9f3ec1e3
@@ -1342,6 +1354,7 @@ Games/Video/1994/Theme Park.yml	dcd0fb14
 Games/Video/1994/Virtua Fighter 2.yml	da751673
 Games/Video/1994/Warcraft Orcs & Humans.yml	e2783ff1
 Games/Video/1994/X-COM UFO Defense.yml	898fc33f
+Games/Video/1995/3D Pinball for Windows - Space Cadet.yml	21d924af
 Games/Video/1995/Addams Family Values.yml	7e4a7f3a
 Games/Video/1995/Aliens A Comic Book Adventure.yml	8bb23682
 Games/Video/1995/Chrono Trigger.yml	b7b7a891
@@ -1553,6 +1566,7 @@ Games/Video/2001/The New Addams Family Series.yml	2d3d1ffa
 Games/Video/2001/The Settlers IV.yml	a93ab7d7
 Games/Video/2001/Tomb Raider Curse of the Sword.yml	17f08606
 Games/Video/2001/Tony Hawk's Pro Skater 3.yml	7f8fa885
+Games/Video/2001/Uplink.yml	21113a90
 Games/Video/2001/Wizardry 8.yml	60e4de12
 Games/Video/2001/Worms World Party.yml	996c6427
 Games/Video/2001/Zoo Tycoon.yml	5a43ad6c
@@ -1669,6 +1683,7 @@ Games/Video/2005/Battles of Prince of Persia.yml	d2e79e36
 Games/Video/2005/Brain Age Train Your Brain in Minutes a Day!.yml	a95ec3df
 Games/Video/2005/Call of Duty 2.yml	32df5d29
 Games/Video/2005/Condemned Criminal Origins.yml	8fa5a837
+Games/Video/2005/Darwinia.yml	9040a5c3
 Games/Video/2005/Devil May Cry 3 Dantes Awakening.yml	ac38ee59
 Games/Video/2005/FEAR.yml	6d0f78b3
 Games/Video/2005/Fable The Lost Chapters.yml	19b7dfbc
@@ -1700,6 +1715,7 @@ Games/Video/2005/Tom Clancy's Splinter Cell Chaos Theory.yml	a91b27b2
 Games/Video/2005/Worms 4 Mayhem.yml	4b7446c4
 Games/Video/2006/Aliens Extermination.yml	810c137c
 Games/Video/2006/Company of Heroes.yml	21dd32ab
+Games/Video/2006/DEFCON.yml	292b6a35
 Games/Video/2006/Desperados 2 Coopers Revenge.yml	f1a9fc2f
 Games/Video/2006/Dwarf Fortress.yml	d7df487f
 Games/Video/2006/Elite Beat Agents.yml	234611fb
@@ -1769,10 +1785,12 @@ Games/Video/2007/World of Warcraft The Burning Crusade.yml	aa590d4e
 Games/Video/2007/Worms Open Warfare 2.yml	6aab9467
 Games/Video/2007/Worms.yml	f699caad
 Games/Video/2008/Assassin's Creed Altair's Chronicles.yml	df7a40e7
+Games/Video/2008/Audiosurf.yml	9a7a2696
 Games/Video/2008/Braid.yml	240f9769
 Games/Video/2008/Command & Conquer 3 Kane's Wrath.yml	dad4c69a
 Games/Video/2008/Command & Conquer Red Alert 3.yml	61066ba1
 Games/Video/2008/Counter-Strike Online.yml	47daf81e
+Games/Video/2008/Crayon Physics Deluxe.yml	50b0ffd6
 Games/Video/2008/Dead Space.yml	aaad3427
 Games/Video/2008/Disney's Aladdin Escape from the Cave of Wonders.yml	c95b6a4c
 Games/Video/2008/Fable II Pub Games.yml	3559164d
@@ -2041,6 +2059,7 @@ Games/Video/2014/The Sims 4.yml	356c03d
 Games/Video/2014/The Talos Principle.yml	bcc6cd98
 Games/Video/2014/The Vanishing of Ethan Carter.yml	574f2243
 Games/Video/2014/The Witcher Adventure Game.yml	a50f53a1
+Games/Video/2014/This War of Mine.yml	af55f8f
 Games/Video/2014/Titanfall.yml	a5030e88
 Games/Video/2014/TowerFall Ascension.yml	f5fb120e
 Games/Video/2014/Watch Dogs.yml	c6979d45
@@ -2179,6 +2198,7 @@ Games/Video/2018/Dragon Ball FighterZ.yml	52af4be8
 Games/Video/2018/Fable Fortune.yml	a81497ff
 Games/Video/2018/Forza Horizon 4.yml	e459c7ae
 Games/Video/2018/Friday the 13th Killer Puzzle.yml	e8644952
+Games/Video/2018/Frostpunk.yml	423cccd
 Games/Video/2018/God of War.yml	5a9df80c
 Games/Video/2018/Gris.yml	e0809090
 Games/Video/2018/Gwent The Witcher Card Game.yml	a3fabfe3
@@ -5657,6 +5677,7 @@ People/Chris Carter.yml	30ac4771
 People/Chris Collins.yml	98c048cd
 People/Chris Columbus.yml	77da9ad2
 People/Chris Cooper.yml	4c8cd5e8
+People/Chris Delay.yml	2ed2e1fd
 People/Chris Diamantopoulos.yml	ac1d6035
 People/Chris Dickens.yml	c71c85af
 People/Chris Dingess.yml	a2d58253
@@ -8642,6 +8663,7 @@ People/Mark Livolsi.yml	3ac8cdf1
 People/Mark Mancina.yml	234793bd
 People/Mark Margolis.yml	bc7e6705
 People/Mark Morgan.yml	129ac5fa
+People/Mark Morris.yml	9cde6063
 People/Mark Mothersbaugh.yml	32974f47
 People/Mark Mylod.yml	5bfeb807
 People/Mark Nelson.yml	9a3c813
@@ -8994,6 +9016,7 @@ People/Michael Zegen.yml	959857ea
 People/Michael deBruyn.yml	9fc20c22
 People/Michaela Coel.yml	6019ed46
 People/Michaela Dietz.yml	8b78579b
+People/Michal Drozdowski.yml	d0142dd5
 People/Michel Aller.yml	48bc22ab
 People/Michel Ancel.yml	bc33afb3
 People/Michel Gondry.yml	1628d679
@@ -9583,6 +9606,7 @@ People/Pierre Coffin.yml	348fc3b6
 People/Pierre Shorette.yml	95d46dd8
 People/Pietro Scalia.yml	b3a9b5cd
 People/Piotr Michael.yml	791e110b
+People/Piotr Musial.yml	7d23b21a
 People/Piper Curda.yml	12f68e1e
 People/Pippa Harris.yml	d7cafbc9
 People/Polly Draper.yml	1162bc1d
