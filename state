@@ -408,6 +408,7 @@ Companies/Fairview Entertainment.yml	b0dd064e
 Companies/Faliro House Productions.yml	a789ab58
 Companies/Fantasy Flight Games.yml	3ff3b46f
 Companies/Feelgood Entertainment.yml	d08748dd
+Companies/Fellow Traveller.yml	40d51183
 Companies/Feral Interactive.yml	2538cba1
 Companies/Film Council.yml	fceda1f5
 Companies/Film Futures.yml	3153b509
@@ -562,6 +563,7 @@ Companies/Kingsgate Films.yml	fc6c0564
 Companies/Kiwi Media Group.yml	2768924e
 Companies/Klei Entertainment.yml	1a4540d9
 Companies/Knowledge Adventure.yml	dbc01d4f
+Companies/Koei.yml	7b3cce85
 Companies/Kojima Productions.yml	12a3b2c3
 Companies/Konami Computer Entertainment Japan.yml	87c1f41c
 Companies/Konami Digital Entertainment.yml	4f212c98
@@ -813,6 +815,7 @@ Companies/Prokino Filmverleih.yml	e9b709a8
 Companies/Protozoa Pictures.yml	17e58a22
 Companies/Proximity Media.yml	7e59000
 Companies/Psygnosis.yml	310cc661
+Companies/Punchline.yml	2e03763e
 Companies/Purple Lamp.yml	af459313
 Companies/Pyramide Distribution.yml	4a0ccb3a
 Companies/QC Entertainment.yml	4cbbbc21
@@ -1018,6 +1021,7 @@ Companies/Threshold Entertainment.yml	e989381
 Companies/Thunder Road Pictures.yml	fa095b4d
 Companies/Tiger Electronics.yml	2e42373f
 Companies/Titan Books.yml	bfec3fa
+Companies/Titus Interactive.yml	26b476de
 Companies/Toberoff Entertainment.yml	6a35e95
 Companies/Toei Animation.yml	cd4c2c8a
 Companies/Toei Company.yml	951be08d
@@ -1102,6 +1106,7 @@ Companies/Virtual Studios.yml	dd1dbae3
 Companies/Virtuallyz Gaming.yml	fffc1f3a
 Companies/Visceral Games.yml	c3c69486
 Companies/Visual Concepts.yml	adddf1ce
+Companies/Vivarium.yml	30215818
 Companies/Vivendi Universal Games.yml	2ec7fdb5
 Companies/Voltage Pictures.yml	1165ebe2
 Companies/WB Games.yml	e469385
@@ -1152,6 +1157,7 @@ Companies/Zhiv Productions.yml	8bc9ec5c
 Companies/Zide/Perry Productions.yml	de7b0789
 Companies/Zynga.yml	2df71860
 Companies/di Bonaventura Pictures.yml	af315ded
+Companies/iNiS.yml	74cfa46
 Companies/iQue.yml	86760031
 Companies/id Software.yml	2553b6bb
 Companies/miHoYo.yml	716440fc
@@ -1464,6 +1470,7 @@ Games/Video/1997/GoldenEye 007.yml	fd36f77
 Games/Video/1997/Gran Turismo.yml	5fea7a76
 Games/Video/1997/Grand Theft Auto.yml	313ea8b
 Games/Video/1997/Klonoa Door to Phantomile.yml	4f7b1e22
+Games/Video/1997/Moon Remix RPG Adventure.yml	12326891
 Games/Video/1997/Need for Speed II.yml	e849e00b
 Games/Video/1997/Quake II.yml	7abbfb8e
 Games/Video/1997/Riven.yml	c1e4c8f7
@@ -1495,6 +1502,7 @@ Games/Video/1998/Falcon 4.0.yml	3d85fe7c
 Games/Video/1998/Fallout 2.yml	48475e2c
 Games/Video/1998/Grim Fandango.yml	5f1b626c
 Games/Video/1998/Half-Life.yml	7b072868
+Games/Video/1998/LSD Dream Emulator.yml	6dfb74be
 Games/Video/1998/Marvel vs. Capcom Clash of Super Heroes.yml	e01f6ad0
 Games/Video/1998/MediEvil.yml	f5b1b227
 Games/Video/1998/Metal Gear Solid.yml	ec6a1edb
@@ -1528,6 +1536,7 @@ Games/Video/1999/Amerzone The Explorer's Legacy.yml	73578310
 Games/Video/1999/Ape Escape.yml	63bd7625
 Games/Video/1999/ChuChu Rocket!.yml	6b4d5111
 Games/Video/1999/Command & Conquer Tiberian Sun.yml	c74bb4fd
+Games/Video/1999/Doshin the Giant.yml	9906c65
 Games/Video/1999/Dungeon Keeper 2.yml	3b80a815
 Games/Video/1999/EverQuest.yml	942b1589
 Games/Video/1999/Final Fantasy VIII.yml	2d07c205
@@ -1536,11 +1545,13 @@ Games/Video/1999/Grand Theft Auto 2.yml	94109721
 Games/Video/1999/Half-Life Opposing Force.yml	277d36de
 Games/Video/1999/Heroes of Might and Magic III The Restoration of Erathia.yml	ac07f0b2
 Games/Video/1999/Homeworld.yml	47113690
+Games/Video/1999/Incredible Crisis.yml	a2e05b1b
 Games/Video/1999/Jagged Alliance 2.yml	2af74fb
 Games/Video/1999/Mario Golf.yml	c6c4296e
 Games/Video/1999/NBA 2K.yml	ff62ade2
 Games/Video/1999/Need for Speed High Stakes.yml	5e34141b
 Games/Video/1999/Neopets.yml	7663dae9
+Games/Video/1999/Pepsiman.yml	41041e27
 Games/Video/1999/Persona 2 Innocent Sin.yml	3cb1345
 Games/Video/1999/Planescape Torment.yml	ee2610d6
 Games/Video/1999/Pokémon Gold and Silver.yml	c316c240
@@ -1610,6 +1621,7 @@ Games/Video/2001/Devil May Cry.yml	4ae784e2
 Games/Video/2001/Dynasty Warriors 3.yml	90ac4aa6
 Games/Video/2001/Fatal Frame.yml	6a290f7f
 Games/Video/2001/Final Fantasy X.yml	8f69b70b
+Games/Video/2001/Gitaroo Man.yml	354e0394
 Games/Video/2001/Golden Sun.yml	533aa631
 Games/Video/2001/Gothic.yml	76e3d09e
 Games/Video/2001/Grand Theft Auto III.yml	a895ab5f
@@ -1627,6 +1639,7 @@ Games/Video/2001/Jurassic Park III Island Attack.yml	adaa3d7e
 Games/Video/2001/Jurassic Park III Park Builder.yml	c2c68907
 Games/Video/2001/Jurassic Park III The DNA Factor.yml	a0abc815
 Games/Video/2001/Max Payne.yml	f7567f3d
+Games/Video/2001/Mister Mosquito.yml	71db98f5
 Games/Video/2001/Onimusha Warlords.yml	b6958cd9
 Games/Video/2001/Operation Flashpoint Cold War Crisis.yml	a61eab57
 Games/Video/2001/Pikmin.yml	f9954331
@@ -1661,7 +1674,9 @@ Games/Video/2002/America's Army.yml	3adb27f6
 Games/Video/2002/Animal Crossing.yml	6b9753a0
 Games/Video/2002/Battlefield 1942.yml	fea7c1e7
 Games/Video/2002/Burnout 2 Point of Impact.yml	6d31d70f
+Games/Video/2002/Chulip.yml	60f0279d
 Games/Video/2002/Command & Conquer Renegade.yml	1dc38275
+Games/Video/2002/Cubivore Survival of the Fittest.yml	c6cf43c1
 Games/Video/2002/Final Fantasy XI Online.yml	178ff025
 Games/Video/2002/Gothic II.yml	887b14a
 Games/Video/2002/Grand Theft Auto Vice City.yml	b596b24e
@@ -1785,6 +1800,7 @@ Games/Video/2005/Club Penguin.yml	80b3f339
 Games/Video/2005/Condemned Criminal Origins.yml	8fa5a837
 Games/Video/2005/Darwinia.yml	9040a5c3
 Games/Video/2005/Devil May Cry 3 Dantes Awakening.yml	ac38ee59
+Games/Video/2005/Electroplankton.yml	6760dc61
 Games/Video/2005/FEAR.yml	6d0f78b3
 Games/Video/2005/Fable The Lost Chapters.yml	19b7dfbc
 Games/Video/2005/Fire Emblem Path of Radiance.yml	3532a62d
@@ -1816,6 +1832,7 @@ Games/Video/2005/SpongeBob SquarePants The Yellow Avenger.yml	83e41e00
 Games/Video/2005/Tom Clancy's Splinter Cell Chaos Theory.yml	a91b27b2
 Games/Video/2005/Trace Memory.yml	53a3b603
 Games/Video/2005/Trauma Center Under the Knife.yml	b399fb7c
+Games/Video/2005/We Love Katamari.yml	62d019c6
 Games/Video/2005/Worms 4 Mayhem.yml	4b7446c4
 Games/Video/2006/Aliens Extermination.yml	810c137c
 Games/Video/2006/Company of Heroes.yml	21dd32ab
@@ -1836,6 +1853,7 @@ Games/Video/2006/Microsoft Flight Simulator X.yml	f1cd68ea
 Games/Video/2006/MotorStorm.yml	9420d751
 Games/Video/2006/Need for Speed Carbon.yml	a4fd045d
 Games/Video/2006/New Super Mario Bros.yml	7be603a0
+Games/Video/2006/Odama.yml	61c213db
 Games/Video/2006/Okami.yml	8a496fe
 Games/Video/2006/Phoenix Wright Ace Attorney - Justice for All.yml	f8a4af2c
 Games/Video/2006/Pokémon Diamond and Pearl.yml	2c6794f9
@@ -2380,6 +2398,7 @@ Games/Video/2019/Fire Emblem Three Houses.yml	c45d7ac8
 Games/Video/2019/Forza Street.yml	b7963762
 Games/Video/2019/Green Hell.yml	a6f36893
 Games/Video/2019/Hell Let Loose.yml	ea8416d7
+Games/Video/2019/Hypnospace Outlaw.yml	d8baf979
 Games/Video/2019/Ice Age Scrat's Nutty Adventure.yml	a2206dc
 Games/Video/2019/John Wick Hex.yml	814db6db
 Games/Video/2019/Magic The Gathering Arena.yml	ce3ce8d8
@@ -2425,6 +2444,7 @@ Games/Video/2020/Microsoft Flight Simulator.yml	80c722cf
 Games/Video/2020/Monster Train.yml	59bc168a
 Games/Video/2020/One-Punch Man A Hero Nobody Knows.yml	54e0e014
 Games/Video/2020/Ori and the Will of the Wisps.yml	c052a70f
+Games/Video/2020/Paradise Killer.yml	fd34a6d0
 Games/Video/2020/Phasmophobia.yml	965b709f
 Games/Video/2020/Prince of Persia The Dagger of Time.yml	e7cae0e1
 Games/Video/2020/Resident Evil 3.yml	82b6cb3e
@@ -8249,6 +8269,7 @@ People/Kaya Scodelario.yml	8c2c5584
 People/Kayvan Novak.yml	cbd60440
 People/Kaz.yml	58ad3f5d
 People/Kazuma Kaneko.yml	70d05040
+People/Kazumi Totaka.yml	add4a802
 People/Kazushige Nojima.yml	6bb11758
 People/Kazuya Tsurumaki.yml	e387aceb
 People/Ke Huy Quan.yml	8a49e3a6
