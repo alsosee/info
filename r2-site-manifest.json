@@ -2313,9 +2313,9 @@
     "Companies/Chaosium.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d9135c4329e1d653517301432ab1c9884e15622e9ffea36f72404987900b0ea4",
-      "size": 15821,
-      "source_size": 280688
+      "sha256": "249ee72619f79d6554fe238242be6ec006dc5056d195d5d18dcf33a4aa99fa9c",
+      "size": 15877,
+      "source_size": 280926
     },
     "Companies/Chartoff Productions.html": {
       "content_encoding": "gzip",
@@ -3132,9 +3132,9 @@
     "Companies/Evil Hat Productions.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0f11a1a0ad9a2c4b2a23919165032354c49773d9e2d2d95a61d82edbe57824a1",
-      "size": 15854,
-      "source_size": 280790
+      "sha256": "ace16748c67b4146feaf411aa47127aba3c1e130ee53c1fc9bcd3d5746112167",
+      "size": 15890,
+      "source_size": 281038
     },
     "Companies/Exient Entertainment.html": {
       "content_encoding": "gzip",
@@ -3195,9 +3195,9 @@
     "Companies/Fantasy Flight Games.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "373b584948643f91bc18ece38cb41c9bbbaf4107b32babf11a0f0e29255bf5c3",
-      "size": 15866,
-      "source_size": 280798
+      "sha256": "dcfbd406506dbf192ae5df527d9220164fd334a95cab0c290fef58229b10a07e",
+      "size": 15879,
+      "source_size": 281036
     },
     "Companies/Feelgood Entertainment.html": {
       "content_encoding": "gzip",
@@ -3804,9 +3804,9 @@
     "Companies/Hasbro.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ce77808b3e16c3936dae5687f90c76d76641a8eeb3ad338c6085a57556fa73e8",
-      "size": 16167,
-      "source_size": 283883
+      "sha256": "1dfcefb84fa284f88b00fb99a8e1301ed196efd3d10bf5455497065131b6963d",
+      "size": 16164,
+      "source_size": 283881
     },
     "Companies/Heavy Iron Studios.html": {
       "content_encoding": "gzip",
@@ -4805,9 +4805,9 @@
     "Companies/Mattel.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1bd71ad07c57858ecb36bcf3e8568642b874ffb1a1a27fbe8b0c3a0d34eeda97",
-      "size": 15865,
-      "source_size": 280710
+      "sha256": "b455ec9d04214a97e1c3405f4427ccd6c1b27a800a1ccae66ae3d61c3afb592f",
+      "size": 15863,
+      "source_size": 280709
     },
     "Companies/Maverick Films.html": {
       "content_encoding": "gzip",
@@ -5673,9 +5673,9 @@
     "Companies/Parker Brothers.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "28eaad3815b1bd37fd58f4223fa9cf77936e4ec309c66f750dffe93734629d13",
-      "size": 15878,
-      "source_size": 281157
+      "sha256": "732917305fb11f89cbab876d9b7312cf4287a8b836b7952d5e1ff8709dc556f6",
+      "size": 15875,
+      "source_size": 281156
     },
     "Companies/Parkes+MacDonald Image Nation.html": {
       "content_encoding": "gzip",
@@ -6275,9 +6275,9 @@
     "Companies/Rio Grande Games.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a0386597f6b0272fee80683c0977427f1b2c70ad8d56586464b7c4951362ac3f",
-      "size": 15850,
-      "source_size": 280840
+      "sha256": "235a9e89d6e6c9e118f3cb4f48f6c71da3310590933224d9de2086489c138590",
+      "size": 15897,
+      "source_size": 281428
     },
     "Companies/Riot Games.html": {
       "content_encoding": "gzip",
@@ -6891,9 +6891,9 @@
     "Companies/Stonemaier Games.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a271db9e816c1b9f001f83b6f8da9bc12029dc29b66dbd73eea3032d006c2b5d",
-      "size": 15838,
-      "source_size": 280732
+      "sha256": "de6a71f6d96ddbc6ba4769db4cdd77112cbfc37f0f73a3c782ecd38f1ff6d090",
+      "size": 15861,
+      "source_size": 281026
     },
     "Companies/Strike Entertainment.html": {
       "content_encoding": "gzip",
@@ -8207,9 +8207,9 @@
     "Companies/Z-Man Games.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ada93028187b09bf9c03d042b3fa85a3beffa836d478926ef4575e2f020bfb99",
-      "size": 15846,
-      "source_size": 280852
+      "sha256": "0b83c0fc0a9d1a99d05683e9067036ff10804a6e713754e6142500f5c96d3dfb",
+      "size": 15875,
+      "source_size": 281146
     },
     "Companies/ZDF/Arte.html": {
       "content_encoding": "gzip",
@@ -8347,338 +8347,338 @@
     "Games/Tabletop/Agricola.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "82f39d13389b9d06a790906c518c5685e84c50347f4607c2d4d6a275b1c6fe07",
-      "size": 5237,
-      "source_size": 41348
+      "sha256": "705f13719f1f71e344879afe3d86f27815e47137f8bafef3d86acc7138a48175",
+      "size": 5746,
+      "source_size": 48297
     },
     "Games/Tabletop/Apocalypse World.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e532ce8e26ad7ffab59495d92312d63705473597f11e33020e1f6cc6669fbac3",
-      "size": 5201,
-      "source_size": 41449
+      "sha256": "6c640774f914a29f4564be188290d86fa06844332958d17f103593247eae0333",
+      "size": 5714,
+      "source_size": 48399
     },
     "Games/Tabletop/Arkham Horror.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "66e7bb32d37abf5405b807660533b9c0627ea15c06bbebfcf2b6c14c6450b24d",
-      "size": 5242,
-      "source_size": 41436
+      "sha256": "08afe0a79c98e0c493cd5f40e83643774ecd639c177aac388ea8b0a4c283cbd0",
+      "size": 5740,
+      "source_size": 48381
     },
     "Games/Tabletop/Azul.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c36a56d7fb32e4d3f184a194235b9b3b01520bf4717d2eaa3fcf297e5f357894",
-      "size": 5313,
-      "source_size": 41660
+      "sha256": "7f19c774503e75ded3f9e1297c68923d4ce89b23cb25d9d9356d03701e1beb0a",
+      "size": 5767,
+      "source_size": 48376
     },
     "Games/Tabletop/Backgammon.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "5d2422dc48037460ad29c24059e2f12228d915cf78660dbbd23dc0256b8f8bd7",
-      "size": 5196,
-      "source_size": 41193
+      "sha256": "3cebbcac13f5ba141038dd1b92dbf5de34d8b4d392f2a15fc529d3ed9fa4aaf4",
+      "size": 5641,
+      "source_size": 47910
     },
     "Games/Tabletop/Blades in the Dark.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "96f7a231186f6f1d65823cca4aed5254959e6fe55ab3c7f1594a2a4ebed40954",
-      "size": 5297,
-      "source_size": 41668
+      "sha256": "e19357dafde1583d6bd31252ddffa5fba16fef3811fc7c71a59de1373439fdf2",
+      "size": 5726,
+      "source_size": 48350
     },
     "Games/Tabletop/Brass Birmingham.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "62358f38d815e67ccbeaf68b34a7f3aeff5971648a6b81591f01c6bdadaf99f5",
-      "size": 5278,
-      "source_size": 41579
+      "sha256": "82442e18154b28f1b55190931e70307e43d7e65b6d95fdda2fa9f4df3a69f4ed",
+      "size": 5763,
+      "source_size": 48519
     },
     "Games/Tabletop/Cairn.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b2b7af5d05dc8d05c6656bdc4c658e2ab90b20d64028d458fa7afd4cb0f0af64",
-      "size": 5201,
-      "source_size": 41138
+      "sha256": "2c0c656b440d94832de6f332acf8466d6c93a0c10c31c9dc2cfb10e43153bc1a",
+      "size": 5638,
+      "source_size": 47855
     },
     "Games/Tabletop/Call of Cthulhu.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d297e810da1f6cdca3daff2cb130d41ed62ab770b903a676d90487c71d00edc3",
-      "size": 5331,
-      "source_size": 41752
+      "sha256": "0b3aa826147fd1a282c98b5c399b9b73dbb4b8161ae290103db55d5c430940c2",
+      "size": 5768,
+      "source_size": 48469
     },
     "Games/Tabletop/Carcassonne.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e2d08636ac986d158d2c02c122e98565afa10d4eeac4001b0a2b951cbd4b759c",
-      "size": 5304,
-      "source_size": 41541
+      "sha256": "74abc30a18df6746a0ea36c1881814f99f2ec4347e5bbb12efd24f156f987a45",
+      "size": 5748,
+      "source_size": 48258
     },
     "Games/Tabletop/Cards Against Humanity.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "19ecca29701d055049b96caf20ddbb4aa24a9cbf83978bd19976bd2318d2b476",
-      "size": 5378,
-      "source_size": 42102
+      "sha256": "bacfbc057c7ef7fb2a6c2a0059d4c8ba1bbed445789b7f0494462a4a6049ab38",
+      "size": 5818,
+      "source_size": 48819
     },
     "Games/Tabletop/Catan.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ca9677ef7b88f85bc853179428d1abd6bc49dee16e27e1e6460ddb6c0ad81e00",
-      "size": 5314,
-      "source_size": 41642
+      "sha256": "609f552bb09ba4ce7081f5fa2e7b1b48d26b2fe3c1ae3b93045e927fea1c3d90",
+      "size": 5758,
+      "source_size": 48360
     },
     "Games/Tabletop/Chess.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "fb5356c958df07ebfc69b00d909a2fcc3bf602ccfc674f7e4647850a59cd4b7a",
-      "size": 5233,
-      "source_size": 41173
+      "sha256": "2d434cea10f0ab6f2b40850f36e206adcf38231e89053d6da48fec86ea287e5f",
+      "size": 5674,
+      "source_size": 47890
     },
     "Games/Tabletop/Clue.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0acd487d9e0e467e4958384b5b80d3cc24f5daa6174cd634468930c32cd3c134",
-      "size": 5416,
-      "source_size": 42056
+      "sha256": "b411caf1f403aac50f6505f3b3f32ad37b7f0c996aa5faa6c4cc5033e3ff629f",
+      "size": 5862,
+      "source_size": 48773
     },
     "Games/Tabletop/Codenames.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "20abf4534d9fef0c259c34e711234d16ecd25897b565ba70b2439216b5d847b7",
-      "size": 5277,
-      "source_size": 41560
+      "sha256": "f689e499169d1fed7efa841756b88c4108061298d74679eb4dbea0045427f2ac",
+      "size": 5721,
+      "source_size": 48276
     },
     "Games/Tabletop/Cyberpunk.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "d1c7997341b047d917927f4100e48023f40ce83bc2201e29b0f5d8b23b8a3f19",
-      "size": 5384,
-      "source_size": 42263
+      "sha256": "849bb35ba5c56c25372fcf30a4c21e4927fc877f2c25f93f45597408c566a1d3",
+      "size": 5834,
+      "source_size": 48979
     },
     "Games/Tabletop/Diplomacy.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "9e4b11f8be5314ca5d629908c59aba12507a24df5fef771f32d4c40049f3773c",
-      "size": 5300,
-      "source_size": 41631
+      "sha256": "b79ce03817fdae64f6dd71eed426122ccd233e7eb128604c37173acc4bbcc112",
+      "size": 5745,
+      "source_size": 48349
     },
     "Games/Tabletop/Dominion.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0e28fb36594731fb148057089c8b32bef982ff71a4171dd5522d2d27ffd84b0f",
-      "size": 5296,
-      "source_size": 41592
+      "sha256": "650963d311399e119230905c594739d4bcefe0ef92cafaafd588f5ae0b4dec43",
+      "size": 5738,
+      "source_size": 48309
     },
     "Games/Tabletop/Dungeon World.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "6d0d8535bb6631ba64c10a6e71138c05b85f2b08cf4764bde6709caab6e747fc",
-      "size": 5229,
-      "source_size": 41429
+      "sha256": "efe60d63f71c2d2548fe53de92801483916ba241c52c35ce092502470cd20937",
+      "size": 5721,
+      "source_size": 48374
     },
     "Games/Tabletop/Dungeons & Dragons.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3b3f9016941607b7848b2cb641542815d52d97c91a4efaff55621a50202336b4",
-      "size": 5367,
-      "source_size": 42584
+      "sha256": "d89575a01c417957b402e95705298802e385737768c5b1746a307332bdc6c761",
+      "size": 5810,
+      "source_size": 49301
     },
     "Games/Tabletop/Echoes of Revachol.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "ff38f0c582c09bd84ab8a7a6eaa9057a10af072df0381467fc0b691e05830ee6",
-      "size": 5255,
-      "source_size": 41482
+      "sha256": "52f2de9530e09e51d4d752ce047c801698edec2e0d481ee8fb01a175374b1e7d",
+      "size": 5696,
+      "source_size": 48199
     },
     "Games/Tabletop/FATE Core.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "16c6e05d5a800bd0a745a68bf740a66a666a4e3b6c104f13972e59e4eea8fe91",
-      "size": 5294,
-      "source_size": 41587
+      "sha256": "d60009a0a5dcf27cb2d06eed8da7c737570044bd2993160db4fcbdf7f173148b",
+      "size": 5779,
+      "source_size": 48532
     },
     "Games/Tabletop/Fiasco.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e152c1b22efb5caedc24bd3fbd8dfcd2c3c97e7c4a2c38dfa3cedc1a11bec5eb",
-      "size": 5251,
-      "source_size": 41355
+      "sha256": "dcc59b19c2c7181c91e9b1b4c37115306fab4cce413e1d99c892ec96cfec581b",
+      "size": 5747,
+      "source_size": 48304
     },
     "Games/Tabletop/Gloomhaven.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4f92b4825e4003e5784a91cdd80c3e34c8905d7c1d2cb5c70f54b4aad6e000fa",
-      "size": 5301,
-      "source_size": 41677
+      "sha256": "597edfb715d5eaf73e32c4eff719dacb32ed8feda591c2b91a29fd9aac45f9e3",
+      "size": 5752,
+      "source_size": 48394
     },
     "Games/Tabletop/Go.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "f3d40e734dbccda9d8548e965c071643333f6383ce4e864076dfc4162a282df9",
-      "size": 5215,
-      "source_size": 41147
+      "sha256": "cc56d8d0cf398ea3536817f2630469effd57666a03e44b512d7b5b43d977030b",
+      "size": 5656,
+      "source_size": 47864
     },
     "Games/Tabletop/Magic The Gathering.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c447ce4047655dde44d94dd7fb22bb01e93306de52b6b6267b217213a2f4b24a",
-      "size": 5291,
-      "source_size": 41672
+      "sha256": "b0ef7e8660942d34aa84f882f1f8ba0d5abfde4a20aa5eb6bfa0e86c043524f2",
+      "size": 5731,
+      "source_size": 48389
     },
     "Games/Tabletop/Monopoly.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "7d2b638ffe7baaff952ae0430065f28134a69fce5e9eba31ef3ab16f966bbd3c",
-      "size": 5347,
-      "source_size": 41706
+      "sha256": "7afa9428b5bc2ce146e6aac08565b29b2f845879bfec827dc0e2b2f8e8a14142",
+      "size": 5792,
+      "source_size": 48423
     },
     "Games/Tabletop/Mork Borg.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1b81377fa9e07da181c9998ee72f7516c6de369e031fa90b9b5c11524635c773",
-      "size": 5241,
-      "source_size": 41435
+      "sha256": "7c445aa3e1772f6febfe17f7bb0dc36cd4c3499febb939a4282b8541fab33520",
+      "size": 5733,
+      "source_size": 48379
     },
     "Games/Tabletop/Munchkin.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "0cd6d2205622b817f2810769fff3d3c76a9a85ce437cb3d20fbeca43fbebb650",
-      "size": 5298,
-      "source_size": 41583
+      "sha256": "74d340af31f4e4fe8107b6c876b1d1cac12f3b00a19d7264098d3793c9aa7f4a",
+      "size": 5737,
+      "source_size": 48301
     },
     "Games/Tabletop/Pandemic.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a85f3fd2c18832d45beed62eaf0fda69d83e091789f37a0cdcefcf4e33592a61",
-      "size": 5313,
-      "source_size": 41625
+      "sha256": "92a864a2dc0ea6b2d4a9d2bfbd41d7c92d393749b86255e664258ff908d864bd",
+      "size": 5750,
+      "source_size": 48342
     },
     "Games/Tabletop/Pathfinder Roleplaying Game.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2b00594bf002b96dc108b0f823bd46436e3111e837aa83ffb00ff47e4750eacf",
-      "size": 5259,
-      "source_size": 41657
+      "sha256": "e004fbb62fcf2bd0267e54010d5915a356a0c461c9687c312e891d274d345624",
+      "size": 5702,
+      "source_size": 48374
     },
     "Games/Tabletop/Power Grid.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "31a2631b1e8e19a6e0fcbfb366fa1588b6a0c344014b4c8b9eee992ab9911bec",
-      "size": 5229,
-      "source_size": 41341
+      "sha256": "bb1161838ec169f65d7a8fdc82c126f97f87ed5fd029817467dac94d309af68d",
+      "size": 5730,
+      "source_size": 48290
     },
     "Games/Tabletop/Puerto Rico.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1ba60f971b9822b78ca32188b1f112be183cd788ae490f44191056f34ea3151c",
-      "size": 5271,
-      "source_size": 41463
+      "sha256": "aecf9bfd5800108380856642d8c6cbfb91e1bdb470a7a8f6a0223b10f46c85a4",
+      "size": 5769,
+      "source_size": 48412
     },
     "Games/Tabletop/Risk.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "1a4054c7acb44dab0d20fadac7957bb5fde682da4cb1c512b6e2d694ad2181ff",
-      "size": 5318,
-      "source_size": 41652
+      "sha256": "2bd4836e3b658f558a19423b4fe2e4524e3e829d97138d9c9efde76d689f214b",
+      "size": 5757,
+      "source_size": 48369
     },
     "Games/Tabletop/Root.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "dbdb7cd1182e3a25d5960d34c7ae196c5965f1fd4da4bf9a44f35489d51bbb2f",
-      "size": 5242,
-      "source_size": 41461
+      "sha256": "f93f86e92180c3182c8527d73dcbdbbb64a6ff0d49acf43117656f357dc4157d",
+      "size": 5685,
+      "source_size": 48178
     },
     "Games/Tabletop/Scrabble.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a1c6d1ad2da7390073ed0f56d5a8b8828f03d0be1f821d7002210990f7c14bc4",
-      "size": 5334,
-      "source_size": 41710
+      "sha256": "6b9483124332cd7cf56d22031b68e8b4158c341e3ac06774654d183effd2af5b",
+      "size": 5774,
+      "source_size": 48427
     },
     "Games/Tabletop/Scythe.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "b4f16a6ba53b7d1f1fb21f12cfc7e0a78160fdafc17057d3fa385a51751c9055",
-      "size": 5227,
-      "source_size": 41349
+      "sha256": "b50c6f92c53801ddab6a86359b7a213e1ef6b16033e5ca1d373fce62bc9c49a3",
+      "size": 5722,
+      "source_size": 48298
     },
     "Games/Tabletop/Shadowrun.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "358fab272e51f0b8be6295d0b39620cdf1bf49bbc837a0df63e592a3ddbfda22",
-      "size": 5235,
-      "source_size": 41506
+      "sha256": "ed9068da39ef83cbccea9e2fea055735e3b37f79f8407cdc6f6ecb6b1941c294",
+      "size": 5736,
+      "source_size": 48454
     },
     "Games/Tabletop/Spirit Island.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c9a525f07440b64e2b4cf9a70a8244f65a4c1826417139999475fbc23bb35b72",
-      "size": 5205,
-      "source_size": 41265
+      "sha256": "90c8e8dcf182be52a3f1c99744f5a1674221e41ad6570d2973c4dd6652461323",
+      "size": 5704,
+      "source_size": 48215
     },
     "Games/Tabletop/Terraforming Mars.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "2b4959842be907d2c9719367fdae6fa14ae5108636c4fb1ef63c0172d3fb366f",
-      "size": 5319,
-      "source_size": 41754
+      "sha256": "edaa098676b59b0a0f11b532344eddf94c66d77875092a45f8c1eab5074dda48",
+      "size": 5768,
+      "source_size": 48471
     },
     "Games/Tabletop/The Last of Us Escape the Dark.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "403e7d827ebca69e0cf412a5ba8ca57aa44277569ca4f5418db2685405b1d417",
-      "size": 5472,
-      "source_size": 42619
+      "sha256": "1a627d417cafde83fe96c650270ed34790ccbb789b31a0c3c16fdbcd9717fb53",
+      "size": 5933,
+      "source_size": 49335
     },
     "Games/Tabletop/Ticket to Ride.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "8a086ad84704797268530fdfcedbe13dca53d0c729728faed030843298cbde59",
-      "size": 5306,
-      "source_size": 41629
+      "sha256": "e92c73d6623ee18949eea704da7934edf603a07ec631e939bb280fe2e75c78a9",
+      "size": 5763,
+      "source_size": 48382
     },
     "Games/Tabletop/Twilight Imperium.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "266a513cc0ff9a5fbfa63e91a30436395a3175ff2ade9a253fc2ecb2b5a5c804",
-      "size": 5353,
-      "source_size": 41828
+      "sha256": "513c2c3a7739989b56345dfdce87d2e7cdf9cbf356f5b32de07e49d2c9c18dd2",
+      "size": 5804,
+      "source_size": 48545
     },
     "Games/Tabletop/Twilight Struggle.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3e7fbf0e2252a5ea68bbb39957e811e97c7ff6d612e91faecefdc48f36eef200",
-      "size": 5219,
-      "source_size": 41361
+      "sha256": "70c8d5e444162e19d889db19d2f77fd8a06fcd9825884cbdaabf340935009db1",
+      "size": 5722,
+      "source_size": 48311
     },
     "Games/Tabletop/Vampire The Masquerade.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3f6f0db6680b442669dbd2d754d3b127eb3399e42876174c3e1ed09b1dbea22f",
-      "size": 5300,
-      "source_size": 41751
+      "sha256": "7094d382fe8ec8fb3f3f4428a45980dec1fc844433362ef9ffbac435683982ff",
+      "size": 5760,
+      "source_size": 48469
     },
     "Games/Tabletop/Warhammer 40,000.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "29a0afec8d1702d0e4ed048ce6a9793f21dbec1cb1024863e5e284f5d3cfddd9",
-      "size": 5288,
-      "source_size": 41640
+      "sha256": "5c76a03385ad4a141b3d48f01caeb01c3d256f9730eb2b4a22489bbeb7e9a724",
+      "size": 5745,
+      "source_size": 48358
     },
     "Games/Tabletop/Wingspan.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "49526357dec22840a98888325b1d751685404d676802c164836ef0c47eff82d1",
-      "size": 5312,
-      "source_size": 41650
+      "sha256": "28bc3292ca31a1dd73d4277936d14655f25848a5e1d6b17e4630f34bdb554ada",
+      "size": 5759,
+      "source_size": 48367
     },
     "Games/Tabletop/index.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "a76f03a5f2a2ada0f026aa918778eae7260c776dbb666e6c91ad8c5b009f48f9",
-      "size": 4791,
-      "source_size": 39996
+      "sha256": "1bdaf6f3e3ad7d33a9507a6c7ba21b005fbe5e348edf150bb4fd7b2e3795b5e0",
+      "size": 5235,
+      "source_size": 46713
     },
     "Games/Video/1972/Pong.html": {
       "content_encoding": "gzip",
@@ -10713,7 +10713,7 @@
     "Games/Video/2000/Baldur's Gate II Shadows of Amn.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "11e6f3dc9295f80cbb5170f6a0df0359e7d7c48388bb39614d241b2275e492ab",
+      "sha256": "6984481079ee28d480f3e0d4ffb04fb51df5102c4b8f12c1c22d32316231b311",
       "size": 5880,
       "source_size": 56920
     },
@@ -14325,8 +14325,8 @@
     "Games/Video/2013/The Last of Us.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "e87b87715ad7b04436d2ccb51e02b83628dd5ca270d49e65a750ec6e65d5ac8c",
-      "size": 7381,
+      "sha256": "db4a022a79bd3d17ec1481da2f5bf96be079f1cc84f5adc4b7565fdaa460faa4",
+      "size": 7383,
       "source_size": 80798
     },
     "Games/Video/2013/The Legend of Zelda A Link Between Worlds.html": {
@@ -16075,9 +16075,9 @@
     "Games/Video/2020/Cyberpunk 2077.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "65d7b327d90e2a6676931da6952adde556be2a8bf1e8831e27ba0c6cf7fd4a94",
-      "size": 6795,
-      "source_size": 66378
+      "sha256": "f9994bec5f8977aa874bb234b7b63773220e6dc8252741b456b6107802e4250e",
+      "size": 6800,
+      "source_size": 66377
     },
     "Games/Video/2020/Desperados III.html": {
       "content_encoding": "gzip",
@@ -16642,8 +16642,8 @@
     "Games/Video/2023/Baldur's Gate 3.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "bedd63232fce5538ebc004e907486208625c7ab065b5ff50f5db596da848824c",
-      "size": 6798,
+      "sha256": "5c18f57da20879abf25d947e056d308c553d4ee472ee24bf88afec95cc528e98",
+      "size": 6797,
       "source_size": 69258
     },
     "Games/Video/2023/Counter-Strike 2.html": {
@@ -17944,9 +17944,9 @@
     "Missing.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c258c6b6ac1a151b7cb5a30fd10ae82657a3eaedef8c44f1822c046bb92d48f8",
-      "size": 1367046,
-      "source_size": 19503435
+      "sha256": "12755bea5cde7c475844a7a43e789279e818c9e61044beceb0d82b3c28ce2c49",
+      "size": 1367244,
+      "source_size": 19505330
     },
     "Movies/1895/Train Arrival.html": {
       "content_encoding": "gzip",
@@ -30579,7 +30579,7 @@
     "Movies/2023/Dungeons & Dragons Honor among thieves.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "3c5cecd716e4b86328fb24c3db42eaba668c3d71ec9b185774bf6d2a56d8b55a",
+      "sha256": "e6128983055ee8a1975f3bf4af104f41136c4d1064d278fa367dfbfa584a644b",
       "size": 9407,
       "source_size": 114544
     },
@@ -64291,9 +64291,9 @@
     "People/Mike Pondsmith.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "c42e3f3affc462e8892597eaa26190f8f35ae654ac4fecde841824485539c0ac",
-      "size": 2733,
-      "source_size": 11164
+      "sha256": "50783264a4cd6cf7fdfe3c15448e7da5988c4f96cfe1eaa071995d32516743a1",
+      "size": 2738,
+      "source_size": 11163
     },
     "People/Mike Reagan.html": {
       "content_encoding": "gzip",
@@ -71340,8 +71340,8 @@
     "People/Sandy Petersen.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "891c44a8404740095fd3b6514a05694263fe2a29ced9bec5ff23c46f741adca0",
-      "size": 2642,
+      "sha256": "30539edef0cf773c6a63009a7f04453446999de3d0e3f875971a3c1035ae5cf8",
+      "size": 2643,
       "source_size": 10920
     },
     "People/Sansa Stark.html": {
@@ -98030,8 +98030,8 @@
     "sitemap.xml": {
       "content_encoding": "gzip",
       "content_type": "application/xml; charset=utf-8",
-      "sha256": "e074aa19483270230db58307f35805a0d1c0684cd8cd4bab4360bc7b774120aa",
-      "size": 132255,
+      "sha256": "1dc08fe822f2fdb0c3e7fab68b6078490f508950db81f6d58f1afd017429e045",
+      "size": 132233,
       "source_size": 1437554
     },
     "sprite.png": {
