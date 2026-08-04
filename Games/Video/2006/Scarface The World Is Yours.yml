@@ -1,0 +1,18 @@
+name: "Scarface: The World Is Yours"
+description: >
+  Scarface: The World Is Yours is an open-world action game that imagines an
+  alternate continuation of Tony Montana's story, rebuilding a criminal empire
+  across Miami after the events of the film.
+based_on:
+  - Movies/1983/Scarface
+released: 2006-07-25
+genres:
+  - shooter
+  - adventure
+  - open world
+  - licensed game
+igdb: https://www.igdb.com/games/scarface-the-world-is-yours
+developers:
+  - Radical Entertainment
+publishers:
+  - Sierra Entertainment

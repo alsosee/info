@@ -1,0 +1,19 @@
+name: Mad Max
+description: >
+  Mad Max is an open-world vehicular combat and action game set in the film
+  series' wasteland, centered on building the Magnum Opus and fighting through
+  desert strongholds and road battles.
+based_on:
+  - Movies/Series/Mad Max
+released: 2015-09-01
+genres:
+  - racing
+  - action-adventure
+  - vehicular combat
+  - licensed game
+igdb: https://www.igdb.com/games/mad-max
+developers:
+  - Avalanche Studios
+publishers:
+  - Feral Interactive
+  - WB Games

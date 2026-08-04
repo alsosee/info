@@ -1,0 +1,19 @@
+name: The Godfather
+description: >
+  The Godfather is an open-world crime game based on the film trilogy,
+  placing a new Corleone associate into missions that intersect with the
+  events and characters of the movies.
+based_on:
+  - Movies/Series/The Godfather
+released: 2006-03-21
+genres:
+  - shooter
+  - adventure
+  - open world
+  - licensed game
+igdb: https://www.igdb.com/games/the-godfather--1
+developers:
+  - Headgate Studios
+  - Page 44 Studios
+publishers:
+  - Electronic Arts

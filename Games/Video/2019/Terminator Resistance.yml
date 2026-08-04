@@ -1,0 +1,18 @@
+name: "Terminator: Resistance"
+description: >
+  Terminator: Resistance is a first-person shooter and RPG set in the future
+  war against Skynet, following a Resistance soldier through stealth, combat,
+  scavenging, and story choices.
+based_on:
+  - Movies/Series/Terminator
+released: 2019-11-14
+genres:
+  - shooter
+  - role-playing
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/terminator-resistance
+developers:
+  - Teyon
+publishers:
+  - Reef Entertainment

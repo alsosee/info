@@ -1,0 +1,19 @@
+name: Enter the Matrix
+description: >
+  Enter the Matrix is an action game set alongside The Matrix Reloaded,
+  following Niobe and Ghost through combat, driving, and hacking missions that
+  connect directly to the film's story.
+based_on:
+  - Movies/Series/The Matrix
+released: 2003-05-14
+genres:
+  - fighting
+  - shooter
+  - action-adventure
+  - licensed game
+igdb: https://www.igdb.com/games/enter-the-matrix
+developers:
+  - Shiny Entertainment
+publishers:
+  - Atari Europe
+  - Infogrames

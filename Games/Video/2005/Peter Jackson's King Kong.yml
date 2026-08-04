@@ -1,0 +1,17 @@
+name: "Peter Jackson's King Kong: The Official Game of the Movie"
+description: >
+  Peter Jackson's King Kong is a film tie-in action adventure that alternates
+  between human survival sequences on Skull Island and playable King Kong
+  encounters against dinosaurs and other threats.
+based_on:
+  - Movies/2005/King Kong
+released: 2005-11-17
+genres:
+  - shooter
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/peter-jackson-s-king-kong-the-official-game-of-the-movie
+developers:
+  - Ubisoft Montpellier
+publishers:
+  - Ubisoft Entertainment

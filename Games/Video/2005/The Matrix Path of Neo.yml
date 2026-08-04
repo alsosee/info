@@ -1,0 +1,18 @@
+name: "The Matrix: Path of Neo"
+description: >
+  The Matrix: Path of Neo is an action game that lets players control Neo
+  through a reworked version of the film trilogy, mixing martial arts,
+  gunplay, and cinematic set pieces.
+based_on:
+  - Movies/Series/The Matrix
+released: 2005-10-04
+genres:
+  - shooter
+  - beat 'em up
+  - action
+  - licensed game
+igdb: https://www.igdb.com/games/the-matrix-path-of-neo
+developers:
+  - Shiny Entertainment
+publishers:
+  - Atari, Inc.

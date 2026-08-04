@@ -1,0 +1,22 @@
+name: "The Chronicles of Riddick: Escape from Butcher Bay"
+description: >
+  The Chronicles of Riddick: Escape from Butcher Bay is a first-person action
+  and stealth game starring Riddick, serving as a prison-break prequel to the
+  films with melee combat, stealth, and shooter elements.
+based_on:
+  - Movies/Series/The Chronicles of Riddick
+released: 2004-06-01
+genres:
+  - shooter
+  - stealth
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/the-chronicles-of-riddick-escape-from-butcher-bay
+developers:
+  - Tigon Studios
+  - Starbreeze Studios
+  - Virtual Programming
+publishers:
+  - Vivendi Games
+  - Sierra Entertainment
+  - Virtual Programming

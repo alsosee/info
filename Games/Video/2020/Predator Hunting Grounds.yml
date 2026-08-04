@@ -1,0 +1,18 @@
+name: "Predator: Hunting Grounds"
+description: >
+  Predator: Hunting Grounds is an asymmetrical multiplayer shooter in which a
+  fireteam completes jungle objectives while one player hunts them as the
+  Predator.
+based_on:
+  - Movies/Series/Predator
+released: 2020-04-24
+genres:
+  - shooter
+  - multiplayer
+  - asymmetrical multiplayer
+  - licensed game
+igdb: https://www.igdb.com/games/predator-hunting-grounds
+developers:
+  - Illfonic
+publishers:
+  - Illfonic

@@ -1,0 +1,20 @@
+name: "Ghostbusters: The Video Game"
+description: >
+  Ghostbusters: The Video Game is a third-person action game written with Dan
+  Aykroyd and Harold Ramis, reuniting the original team for a new paranormal
+  investigation after the first two films.
+based_on:
+  - Movies/Series/Ghostbusters
+released: 2009-06-16
+genres:
+  - shooter
+  - adventure
+  - comedy
+  - licensed game
+igdb: https://www.igdb.com/games/ghostbusters-the-video-game
+developers:
+  - Threewave Software
+  - Terminal Reality
+publishers:
+  - Sony Computer Entertainment
+  - Atari, Inc.

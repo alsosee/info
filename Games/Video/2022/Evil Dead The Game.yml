@@ -1,0 +1,18 @@
+name: "Evil Dead: The Game"
+description: >
+  Evil Dead: The Game is an asymmetrical multiplayer horror game that brings
+  survivors and Deadites from across the Evil Dead films and television series
+  into cooperative combat and possession-driven matches.
+based_on:
+  - Movies/Series/Evil Dead
+released: 2022-05-13
+genres:
+  - shooter
+  - horror
+  - asymmetrical multiplayer
+  - licensed game
+igdb: https://www.igdb.com/games/evil-dead-the-game--1
+developers:
+  - Saber Interactive
+publishers:
+  - Boss Team Games
