@@ -1,0 +1,18 @@
+name: "X-Men Origins: Wolverine - Uncaged Edition"
+description: >
+  X-Men Origins: Wolverine - Uncaged Edition is a violent action game based on
+  the Wolverine film, emphasizing fast melee combat, regeneration, and expanded
+  comic-inspired set pieces.
+based_on:
+  - Movies/2009/X-Men Origins Wolverine
+released: 2009-05-01
+genres:
+  - beat 'em up
+  - action-adventure
+  - superhero
+  - licensed game
+igdb: https://www.igdb.com/games/x-men-origins-wolverine-uncaged-edition
+developers:
+  - Raven Software
+publishers:
+  - Activision

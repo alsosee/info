@@ -1,0 +1,20 @@
+name: "Scott Pilgrim vs. the World: The Game"
+description: >
+  Scott Pilgrim vs. the World: The Game is a side-scrolling beat 'em up based
+  on Bryan Lee O'Malley's comics and the film adaptation, with pixel art,
+  chiptune music, RPG progression, and local co-op.
+based_on:
+  - Comics/Scott Pilgrim
+  - Movies/2010/Scott Pilgrim vs. the World
+released: 2010-08-10
+genres:
+  - fighting
+  - role-playing
+  - beat 'em up
+  - arcade
+igdb: https://www.igdb.com/games/scott-pilgrim-vs-the-world-the-game
+developers:
+  - Ubisoft Montreal
+  - Ubisoft Chengdu
+publishers:
+  - Ubisoft Entertainment

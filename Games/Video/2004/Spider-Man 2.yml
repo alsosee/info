@@ -1,0 +1,20 @@
+name: Spider-Man 2
+description: >
+  Spider-Man 2 is an open-world superhero action game based on the film,
+  remembered for its physics-driven web-swinging through Manhattan and its
+  citywide crime-fighting structure.
+based_on:
+  - Movies/2004/Spider-Man 2
+released: 2004-06-28
+genres:
+  - beat 'em up
+  - adventure
+  - open world
+  - superhero
+igdb: https://www.igdb.com/games/spider-man-2
+developers:
+  - Treyarch
+  - Activision
+publishers:
+  - Taito
+  - Activision
