@@ -452,6 +452,7 @@ Companies/Freeform.yml	4313cd17
 Companies/Frenesy Film Company.yml	691981dc
 Companies/Frictional Games.yml	2a461a84
 Companies/Friday Four.yml	551cbfa3
+Companies/Frogwares.yml	b4cbd802
 Companies/FromSoftware.yml	2617cbf1
 Companies/Frontier Developments.yml	30692065
 Companies/Fuero Games.yml	746d9b2d
@@ -1119,6 +1120,7 @@ Companies/Vigil Games.yml	41a69f62
 Companies/Village Roadshow Pictures.yml	7d624ca8
 Companies/Vinyl Films.yml	9428fe8e
 Companies/Vir2L Studios.yml	fa0bac2e
+Companies/Virgin Games.yml	93f04f7a
 Companies/Virgin Interactive Entertainment.yml	1ea3c8e4
 Companies/Virtual Studios.yml	dd1dbae3
 Companies/Virtuallyz Gaming.yml	fffc1f3a
@@ -1148,6 +1150,7 @@ Companies/Weappy Studio.yml	1109bfb6
 Companies/Wega Film.yml	9983331b
 Companies/Well Go USA Entertainment.yml	e43e4750
 Companies/Wendy Finerman Productions.yml	964c5961
+Companies/Westlake Interactive.yml	13c44b75
 Companies/Westwood Pacific.yml	8b9f935b
 Companies/Westwood Studios.yml	a7e970c1
 Companies/White Rabbit Productions.yml	ee781a68
@@ -1351,6 +1354,7 @@ Games/Video/1991/ToeJam & Earl.yml	622c8fd9
 Games/Video/1992/Alien 3.yml	ef1bbf1b
 Games/Video/1992/Contra III The Alien Wars.yml	f5fd8a9
 Games/Video/1992/Dragon Quest V Hand of the Heavenly Bride.yml	3e200a7e
+Games/Video/1992/Dune II The Building of a Dynasty.yml	9fa69e93
 Games/Video/1992/Ecco the Dolphin.yml	5272f1fe
 Games/Video/1992/Flashback The Quest for Identity.yml	c8250050
 Games/Video/1992/Kirbys Dream Land.yml	77871d23
@@ -1534,6 +1538,7 @@ Games/Video/1998/Dance Dance Revolution.yml	c2856fb5
 Games/Video/1998/Daytona USA 2.yml	2f31ba36
 Games/Video/1998/Disney's Math Quest with Aladdin.yml	bd8e72a4
 Games/Video/1998/Disney's ReadingQuest With Aladdin.yml	48078c1c
+Games/Video/1998/Dune 2000.yml	10c3c847
 Games/Video/1998/ESP Ra.De..yml	7beaaa4a
 Games/Video/1998/F-Zero X.yml	26950d72
 Games/Video/1998/Falcon 4.0.yml	3d85fe7c
@@ -1617,6 +1622,7 @@ Games/Video/1999/Warpath Jurassic Park.yml	1013bc50
 Games/Video/1999/Worms Armageddon.yml	98e721f7
 Games/Video/1999/Yu-Gi-Oh! Forbidden Memories.yml	ddcd4d3d
 Games/Video/2000/Alien Resurrection.yml	8becc332
+Games/Video/2000/American McGee's Alice.yml	81688435
 Games/Video/2000/Baldur's Gate II Shadows of Amn.yml	27c5010c
 Games/Video/2000/Command & Conquer Red Alert 2.yml	4a73695c
 Games/Video/2000/Command & Conquer Tiberian Sun Firestorm.yml	9008864a
@@ -1656,10 +1662,12 @@ Games/Video/2001/Arcanum Of Steamworks and Magick Obscura.yml	1777fff
 Games/Video/2001/Bejeweled.yml	e449af5b
 Games/Video/2001/Black & White.yml	adc5bc53
 Games/Video/2001/Burnout.yml	3b2801b9
+Games/Video/2001/Clive Barker's Undying.yml	b2a35bad
 Games/Video/2001/Command & Conquer Yuri's Revenge.yml	f46f4656
 Games/Video/2001/Commandos 2 Men of Courage.yml	cb6bbd65
 Games/Video/2001/Devil May Cry.yml	4ae784e2
 Games/Video/2001/Dynasty Warriors 3.yml	90ac4aa6
+Games/Video/2001/Emperor Battle for Dune.yml	8817eeb8
 Games/Video/2001/Fatal Frame.yml	6a290f7f
 Games/Video/2001/Final Fantasy X.yml	8f69b70b
 Games/Video/2001/Gitaroo Man.yml	354e0394
@@ -1764,6 +1772,7 @@ Games/Video/2003/EVE Online.yml	449f946e
 Games/Video/2003/Enter the Matrix.yml	2da1ff9
 Games/Video/2003/Fatal Frame II Crimson Butterfly.yml	93d4c538
 Games/Video/2003/Finding Nemo.yml	128d0027
+Games/Video/2003/Harry Potter Quidditch World Cup.yml	5f63c6df
 Games/Video/2003/Jurassic Park Institute Tour Dinosaur Rescue.yml	d50e95b2
 Games/Video/2003/Jurassic Park Operation Genesis.yml	3dc48e78
 Games/Video/2003/Kingdom of Loathing.yml	df6c4743
@@ -1827,6 +1836,7 @@ Games/Video/2004/The Elder Scrolls Travels Dawnstar.yml	ce85fd63
 Games/Video/2004/The Elder Scrolls Travels Shadowkey.yml	5b939383
 Games/Video/2004/The Incredibles.yml	af2a4f65
 Games/Video/2004/The Legend of Zelda The Minish Cap.yml	89884215
+Games/Video/2004/The Lord of the Rings The Battle for Middle-earth.yml	595bdd52
 Games/Video/2004/The Sims 2.yml	e7056886
 Games/Video/2004/The SpongeBob SquarePants Movie.yml	5bfa438e
 Games/Video/2004/Tom Clancy's Splinter Cell Pandora Tomorrow.yml	c366da5b
@@ -1847,6 +1857,7 @@ Games/Video/2005/Alien vs. Predator 3D.yml	22fa2907
 Games/Video/2005/Battlefield 2.yml	69aab8aa
 Games/Video/2005/Battles of Prince of Persia.yml	d2e79e36
 Games/Video/2005/Brain Age Train Your Brain in Minutes a Day!.yml	a95ec3df
+Games/Video/2005/Call of Cthulhu Dark Corners of the Earth.yml	b90c501e
 Games/Video/2005/Call of Duty 2.yml	32df5d29
 Games/Video/2005/Club Penguin.yml	80b3f339
 Games/Video/2005/Condemned Criminal Origins.yml	8fa5a837
@@ -1928,6 +1939,7 @@ Games/Video/2006/The Blackwell Legacy.yml	36079da8
 Games/Video/2006/The Elder Scrolls IV Oblivion.yml	dd652c
 Games/Video/2006/The Godfather.yml	4b1f9c66
 Games/Video/2006/The Legend of Zelda Twilight Princess.yml	20bb9df4
+Games/Video/2006/The Lord of the Rings The Battle for Middle-earth II.yml	f94a47da
 Games/Video/2006/Tom Clancy's Splinter Cell Double Agent.yml	397701b0
 Games/Video/2006/Tom Clancy's Splinter Cell Essentials.yml	94bec2a4
 Games/Video/2006/Tomb Raider Legend.yml	b549cf16
@@ -1973,6 +1985,7 @@ Games/Video/2007/Super Mario Galaxy.yml	6b45af58
 Games/Video/2007/Supreme Commander.yml	1b781740
 Games/Video/2007/Team Fortress 2.yml	1fa999ee
 Games/Video/2007/The Legend of Zelda Phantom Hourglass.yml	7af32105
+Games/Video/2007/The Lord of the Rings Online.yml	badfdd5b
 Games/Video/2007/The Witcher.yml	79da20a0
 Games/Video/2007/Tomb Raider Anniversary.yml	df7dda60
 Games/Video/2007/World of Warcraft The Burning Crusade.yml	aa590d4e
@@ -2103,6 +2116,7 @@ Games/Video/2010/World of Warcraft Cataclysm.yml	ed4ea12d
 Games/Video/2010/Worms Battle Islands.yml	edb5e6fa
 Games/Video/2010/Worms Reloaded.yml	3629b0b3
 Games/Video/2010/Xenoblade Chronicles.yml	8cd120da
+Games/Video/2011/Alice Madness Returns.yml	6514928a
 Games/Video/2011/Aliens Infestation.yml	c59e24e8
 Games/Video/2011/Assassin's Creed Multiplayer Rearmed.yml	67a984ed
 Games/Video/2011/Assassin's Creed Recollection.yml	4da6fe19
@@ -2504,6 +2518,7 @@ Games/Video/2019/Superliminal.yml	e95d7058
 Games/Video/2019/Terminator Resistance.yml	cded5cc0
 Games/Video/2019/The Addams Family Mystery Mansion.yml	fe7a09da
 Games/Video/2019/The Outer Worlds.yml	ab66c7bc
+Games/Video/2019/The Sinking City.yml	43660dd2
 Games/Video/2019/Vacation Simulator.yml	e1c53f51
 Games/Video/2019/World of Warcraft Classic.yml	ed3db750
 Games/Video/2020/Animal Crossing New Horizons.yml	3b15eb1d
@@ -2645,6 +2660,7 @@ Games/Video/2024/Call of Duty Black Ops 6.yml	3918092a
 Games/Video/2024/Doom + Doom II.yml	d7d453d0
 Games/Video/2024/Dragons Dogma 2.yml	f96dcdff
 Games/Video/2024/Dystopika.yml	4882fe25
+Games/Video/2024/Harry Potter Quidditch Champions.yml	d0464baf
 Games/Video/2024/Knock on the Coffin Lid.yml	af481f87
 Games/Video/2024/Mullet Madjack Deluxe Edition.yml	7ce1bee8
 Games/Video/2024/Nine Sols.yml	8553f7ab
