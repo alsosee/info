@@ -1,0 +1,15 @@
+name: Cars
+description: >
+  Cars is a racing adventure game based on Pixar's film, letting players race
+  through Radiator Springs and surrounding locations as Lightning McQueen and
+  other characters.
+released: 2006-06-06
+genres:
+  - racing
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/cars
+developers:
+  - Rainbow Studios
+publishers:
+  - THQ
