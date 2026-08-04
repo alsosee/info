@@ -1,0 +1,33 @@
+name: Twelve Minutes
+description: >
+  A man is trapped in a repeating twelve-minute time loop inside his apartment
+  in a top-down interactive thriller built around observation, dialogue, and
+  repeated attempts to alter events.
+released: 2021-08-19
+genres:
+  - point-and-click
+  - puzzle
+  - adventure
+  - indie
+wikipedia: https://en.wikipedia.org/wiki/Twelve_Minutes
+metacritic: https://www.metacritic.com/game/twelve-minutes/
+igdb: https://www.igdb.com/games/twelve-minutes
+website: https://twelveminutesgame.com/
+steam: https://store.steampowered.com/app/1097200/Twelve_Minutes/
+developers: Luis Antonio
+publishers:
+  - Annapurna Interactive
+  - Netflix
+directors: Luis Antonio
+designers: Luis Antonio
+writers:
+  - Luis Antonio
+  - Steve Lerner
+composers: Neil Bones
+characters:
+  - name: Husband
+    voice: James McAvoy
+  - name: Wife
+    voice: Daisy Ridley
+  - name: Police Officer
+    voice: Willem Dafoe

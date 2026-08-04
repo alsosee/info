@@ -1,0 +1,34 @@
+name: Not for Broadcast
+description: >
+  A live-action propaganda simulator puts players in a television control room,
+  choosing camera feeds, censoring language, queuing adverts, and shaping a
+  nightly news broadcast under political pressure.
+released: 2022-01-25
+genres:
+  - point-and-click
+  - simulator
+  - adventure
+  - indie
+wikipedia: https://en.wikipedia.org/wiki/Not_for_Broadcast
+metacritic: https://www.metacritic.com/game/not-for-broadcast/
+igdb: https://www.igdb.com/games/not-for-broadcast
+website: https://www.notforbroadcastgame.com/
+steam: https://store.steampowered.com/app/1147550/Not_For_Broadcast/
+developers: NotGames
+publishers: tinyBuild
+directors:
+  - Alex Paterson
+  - Jay Orbaum
+writers:
+  - Alex Paterson
+  - Jay Orbaum
+composers: Jono Bacon
+characters:
+  - name: Jeremy Donaldson
+    actor: Paul Baverstock
+  - name: Megan Wolfe
+    actor: Andrea Valls
+  - name: Alan James
+    actor: Rob Crouch
+  - name: Jenny
+    actor: Sarah Boulter

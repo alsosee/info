@@ -1,0 +1,39 @@
+name: The Callisto Protocol
+description: >
+  Cargo pilot Jacob Lee tries to survive a biophage outbreak inside Black Iron
+  Prison on Jupiter's moon Callisto in a cinematic third-person survival horror
+  game.
+released: 2022-12-02
+genres:
+  - shooter
+  - adventure
+  - survival horror
+wikipedia: https://en.wikipedia.org/wiki/The_Callisto_Protocol
+metacritic: https://www.metacritic.com/game/the-callisto-protocol/
+igdb: https://www.igdb.com/games/the-callisto-protocol
+website: https://callisto.sds.com/
+steam: https://store.steampowered.com/app/1544020/The_Callisto_Protocol/
+developers: Striking Distance Studios
+publishers:
+  - Krafton
+  - Skybound Games
+directors: Glen Schofield
+writers:
+  - R. Eric Lieb
+  - Glen Schofield
+composers: Finishing Move Inc.
+characters:
+  - name: Jacob Lee
+    actor: Josh Duhamel
+  - name: Dani Nakamura
+    actor: Karen Fukuhara
+  - name: Max Barrow
+    actor: Jeff Schine
+  - name: Elias Porter
+    actor: Zeke Alton
+  - name: Captain Leon Ferris
+    actor: Sam Witwer
+  - name: Warden Duncan Cole
+    actor: James C. Mathis III
+  - name: Dr. Caitlyn Mahler
+    actor: Louise Barnes

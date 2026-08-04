@@ -1,0 +1,35 @@
+name: Heavy Rain
+description: >
+  Four playable characters investigate the Origami Killer in a choice-driven
+  interactive drama built around branching scenes, quick-time events, and
+  performance-captured character work.
+released: 2010-02-18
+genres:
+  - adventure
+  - interactive drama
+wikipedia: https://en.wikipedia.org/wiki/Heavy_Rain
+metacritic: https://www.metacritic.com/game/heavy-rain/
+igdb: https://www.igdb.com/games/heavy-rain
+website: https://www.quanticdream.com/en/heavy-rain
+steam: https://store.steampowered.com/app/960910/Heavy_Rain/
+epic: https://store.epicgames.com/en-US/p/heavy-rain
+developers: Quantic Dream
+publishers:
+  - Sony Computer Entertainment
+  - Quantic Dream
+directors: David Cage
+writers: David Cage
+composers: Normand Corbeil
+characters:
+  - name: Ethan Mars
+    actor: Pascal Langdale
+  - name: Madison Paige
+    actor: Jacqui Ainsley
+  - name: Norman Jayden
+    actor: Leon Ockenden
+  - name: Scott Shelby
+    actor: Sam Douglas
+  - name: Lauren Winter
+    actor: Aurélie Bancilhon
+  - name: Carter Blake
+    actor: Nigel Barber
