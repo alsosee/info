@@ -1,0 +1,16 @@
+name: GURPS
+description: >
+  GURPS, the Generic Universal RolePlaying System, is a universal tabletop RPG
+  designed to support characters and campaigns across many genres with a shared
+  point-buy character system and 3d6 resolution.
+wikipedia: https://en.wikipedia.org/wiki/GURPS
+website: https://www.sjgames.com/gurps/
+designers:
+  - Steve Jackson
+publishers:
+  - Steve Jackson Games
+publication: 1986
+genres:
+  - tabletop role-playing game
+  - universal system
+  - generic

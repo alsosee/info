@@ -1,0 +1,21 @@
+name: "Android: Netrunner"
+description: >
+  Android: Netrunner is an asymmetric living card game in which a corporate
+  player protects servers while a runner player uses programs and bluffing to
+  breach them. Fantasy Flight Games reworked Richard Garfield's Netrunner into
+  its Android setting, creating one of the defining modern two-player card
+  games.
+wikipedia: https://en.wikipedia.org/wiki/Android:_Netrunner
+designers:
+  - Richard Garfield
+  - Lukas Litzsinger
+  - Damon Stone
+  - Michael Boggs
+publishers:
+  - Fantasy Flight Games
+publication: 2012
+genres:
+  - living card game
+  - cyberpunk
+  - asymmetric
+  - deck construction
