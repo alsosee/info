@@ -443,6 +443,7 @@ Companies/Frakas Productions.yml	6292cee6
 Companies/France 2 Cinéma.yml	d0fc753
 Companies/France 2.yml	a560baa3
 Companies/France 3 Cinéma.yml	26143018
+Companies/Free League Publishing.yml	6451b2d5
 Companies/Freeform.yml	4313cd17
 Companies/Frenesy Film Company.yml	691981dc
 Companies/Frictional Games.yml	2a461a84
@@ -678,6 +679,7 @@ Companies/Mirisch Films.yml	9582abd3
 Companies/Mobius Digital.yml	85527fb2
 Companies/Moho Film.yml	d34ccbef
 Companies/Momentum Pictures.yml	92c16910
+Companies/Mongoose Publishing.yml	974424a0
 Companies/Monkeypaw Productions.yml	3f60e1ed
 Companies/Monolith Productions.yml	5fd0a4d8
 Companies/Moon Studios.yml	940a51ae
@@ -824,6 +826,7 @@ Companies/Pyramide Distribution.yml	4a0ccb3a
 Companies/QC Entertainment.yml	4cbbbc21
 Companies/Quad Productions.yml	928df0a1
 Companies/Quebico.yml	a73ae3da
+Companies/R. Talsorian Games.yml	659ceb23
 Companies/RAI Cinema.yml	91071aff
 Companies/RT Features.yml	227b3894
 Companies/RTÉ.yml	5e4766b4
@@ -952,6 +955,7 @@ Companies/Square.yml	29ae8bc9
 Companies/St. Martin's Press.yml	83725c12
 Companies/Stage 6 Films.yml	adad898
 Companies/Star Overseas.yml	d33974e2
+Companies/Steve Jackson Games.yml	e6ce7b91
 Companies/Stonemaier Games.yml	3bf72b23
 Companies/Stress Level Zero.yml	8298f49d
 Companies/Strike Entertainment.yml	18edcdd9
@@ -1169,12 +1173,15 @@ Companies/miHoYo.yml	716440fc
 Companies/snowhydra games.yml	c49e2cb9
 Games/Awards/The Game Awards/2023.yml	7fafd0
 Games/Tabletop/Agricola.yml	3797ba78
+Games/Tabletop/Android Netrunner.yml	eb90880b
 Games/Tabletop/Apocalypse World.yml	b22d08c
 Games/Tabletop/Arkham Horror.yml	27f3c18c
 Games/Tabletop/Azul.yml	f344e2c2
 Games/Tabletop/Backgammon.yml	8e3d7891
 Games/Tabletop/Blades in the Dark.yml	affa1752
+Games/Tabletop/Blood on the Clocktower.yml	7ec4f68e
 Games/Tabletop/Brass Birmingham.yml	a11495b9
+Games/Tabletop/Burning Wheel.yml	71006f70
 Games/Tabletop/Cairn.yml	4cf094b4
 Games/Tabletop/Call of Cthulhu.yml	1b5ee6e
 Games/Tabletop/Carcassonne.yml	84e802ad
@@ -1183,6 +1190,8 @@ Games/Tabletop/Catan.yml	fd475d85
 Games/Tabletop/Chess.yml	a85bf0d1
 Games/Tabletop/Clue.yml	6a2d63f5
 Games/Tabletop/Codenames.yml	b49b3005
+Games/Tabletop/Cyberpunk 2020.yml	998d4cb5
+Games/Tabletop/Cyberpunk Red.yml	cd4c453a
 Games/Tabletop/Cyberpunk.yml	366556d
 Games/Tabletop/Diplomacy.yml	4e06aa19
 Games/Tabletop/Dominion.yml	33bddcfc
@@ -1191,25 +1200,35 @@ Games/Tabletop/Dungeons & Dragons.yml	b3f0c9a6
 Games/Tabletop/Echoes of Revachol.yml	e9cdc297
 Games/Tabletop/FATE Core.yml	7e4ebf6
 Games/Tabletop/Fiasco.yml	6932c98
+Games/Tabletop/GURPS.yml	1736fade
 Games/Tabletop/Gloomhaven.yml	594ccad9
 Games/Tabletop/Go.yml	90c0efbc
+Games/Tabletop/Ironsworn.yml	16d77c67
+Games/Tabletop/Legend of the Five Rings.yml	98bfe5a6
 Games/Tabletop/Magic The Gathering.yml	21ed4f6b
 Games/Tabletop/Monopoly.yml	cb446078
 Games/Tabletop/Mork Borg.yml	a3c03c19
 Games/Tabletop/Munchkin.yml	2ba73509
+Games/Tabletop/Numenera.yml	4fe83a80
 Games/Tabletop/Pandemic.yml	d1791566
+Games/Tabletop/Paranoia.yml	151d85fa
 Games/Tabletop/Pathfinder Roleplaying Game.yml	b6788e15
 Games/Tabletop/Power Grid.yml	c106835c
 Games/Tabletop/Puerto Rico.yml	e93ce5c7
+Games/Tabletop/Rifts.yml	95bba2b9
 Games/Tabletop/Risk.yml	c32b3f7c
 Games/Tabletop/Root.yml	778d5084
 Games/Tabletop/Scrabble.yml	53846d6c
 Games/Tabletop/Scythe.yml	2683eb24
 Games/Tabletop/Shadowrun.yml	13732890
 Games/Tabletop/Spirit Island.yml	479ea3a3
+Games/Tabletop/Tales from the Loop.yml	ead5c093
+Games/Tabletop/Ten Candles.yml	cd243ade
 Games/Tabletop/Terraforming Mars.yml	497e7df8
 Games/Tabletop/The Last of Us Escape the Dark.yml	939d0
+Games/Tabletop/The One Ring Roleplaying Game.yml	764862f6
 Games/Tabletop/Ticket to Ride.yml	e6bc6cd3
+Games/Tabletop/Traveller.yml	9f338f52
 Games/Tabletop/Twilight Imperium.yml	be6b935
 Games/Tabletop/Twilight Struggle.yml	e07ac0d6
 Games/Tabletop/Vampire The Masquerade.yml	f51fdb
@@ -8399,6 +8418,7 @@ People/Kevin James.yml	c71c2856
 People/Kevin King Templeton.yml	753b5638
 People/Kevin King-Templeton.yml	d8438e7
 People/Kevin Larsen.yml	b91d7954
+People/Kevin Long.yml	d486c722
 People/Kevin Manthei.yml	76f47e35
 People/Kevin Michael Richardson.yml	cbbe031a
 People/Kevin Nolting.yml	81c6cd67
@@ -9968,6 +9988,7 @@ People/Richard Donner.yml	5b6e5ff1
 People/Richard E. Grant.yml	533772d0
 People/Richard Farrese.yml	643e8d5e
 People/Richard Francis-Bruce.yml	9bf37d50
+People/Richard Garfield.yml	36611efb
 People/Richard Garriott.yml	12f6906e
 People/Richard Gere.yml	80206ff8
 People/Richard Griffiths.yml	ee8120b8
@@ -10622,6 +10643,7 @@ People/Steve Guttenberg.yml	141e93ab
 People/Steve Ince.yml	ad1f8a48
 People/Steve J. Palmer.yml	bb1ac545
 People/Steve Jablonsky.yml	47b758c8
+People/Steve Jackson.yml	90761730
 People/Steve Jobs.yml	741cb6bd
 People/Steve Kahan.yml	ec2350ee
 People/Steve Kanaly.yml	a4529832
