@@ -1,0 +1,19 @@
+name: Dune 2000
+description: >
+  Dune 2000 is a remake and modernization of Dune II, returning to the battle
+  for Arrakis with full-motion video briefings, updated presentation, and
+  streamlined real-time strategy systems.
+based_on:
+  - Books/1965/Dune
+previous: Games/Video/1992/Dune II The Building of a Dynasty
+released: 1998-09-01
+genres:
+  - real-time strategy
+  - strategy
+  - science fiction
+igdb: https://www.igdb.com/games/dune-2000
+developers:
+  - Westwood Studios
+publishers:
+  - Electronic Arts
+  - Westwood Studios

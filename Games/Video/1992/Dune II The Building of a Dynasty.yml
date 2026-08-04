@@ -1,0 +1,17 @@
+name: "Dune II: The Building of a Dynasty"
+description: >
+  Dune II: The Building of a Dynasty is a landmark real-time strategy game set
+  on Arrakis, defining the base-building, resource-harvesting, and faction-war
+  structure that shaped the RTS genre.
+based_on:
+  - Books/1965/Dune
+released: 1992-12-01
+genres:
+  - real-time strategy
+  - strategy
+  - science fiction
+igdb: https://www.igdb.com/games/dune-ii-the-building-of-a-dynasty
+developers:
+  - Westwood Studios
+publishers:
+  - Virgin Games

@@ -1,0 +1,18 @@
+name: "Harry Potter: Quidditch World Cup"
+description: >
+  Harry Potter: Quidditch World Cup is a sports game built around the wizarding
+  sport, moving from Hogwarts house matches to an international tournament with
+  national teams and broom-based arcade play.
+based_on:
+  - Movies/Series/Harry Potter
+released: 2003-10-28
+genres:
+  - sport
+  - arcade
+  - fantasy
+  - licensed game
+igdb: https://www.igdb.com/games/harry-potter-quidditch-world-cup
+developers:
+  - Electronic Arts UK
+publishers:
+  - Electronic Arts

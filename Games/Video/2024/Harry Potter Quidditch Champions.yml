@@ -1,0 +1,19 @@
+name: "Harry Potter: Quidditch Champions"
+description: >
+  Harry Potter: Quidditch Champions is a competitive arcade sports game
+  focused on Quidditch positions, team play, and online matches in the
+  Wizarding World.
+based_on:
+  - Movies/Series/Harry Potter
+released: 2024-09-03
+genres:
+  - sport
+  - arcade
+  - fantasy
+  - licensed game
+igdb: https://www.igdb.com/games/harry-potter-quidditch-champions
+developers:
+  - Unbroken Studios
+publishers:
+  - Portkey Games
+  - Warner Bros. Games

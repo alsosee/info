@@ -1,0 +1,20 @@
+name: "The Lord of the Rings: The Battle for Middle-earth"
+description: >
+  The Lord of the Rings: The Battle for Middle-earth is a real-time strategy
+  game based on Peter Jackson's film trilogy, recreating large battles across
+  Middle-earth with heroes, armies, and faction campaigns.
+based_on:
+  - Movies/2001/The Lord of the Rings The Fellowship of the Ring
+  - Movies/2002/The Lord of the Rings The Two Towers
+  - Movies/2003/The Lord of the Rings The Return of the King
+released: 2004-12-06
+genres:
+  - real-time strategy
+  - strategy
+  - fantasy
+  - licensed game
+igdb: https://www.igdb.com/games/the-lord-of-the-rings-the-battle-for-middle-earth
+developers:
+  - EA Los Angeles
+publishers:
+  - Electronic Arts

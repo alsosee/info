@@ -1,0 +1,19 @@
+name: "Emperor: Battle for Dune"
+description: >
+  Emperor: Battle for Dune is a 3D real-time strategy sequel in Westwood's
+  Dune line, continuing the war between Atreides, Harkonnen, and Ordos with
+  campaign choices and cinematic faction missions.
+based_on:
+  - Books/1965/Dune
+previous: Games/Video/1998/Dune 2000
+released: 2001-06-12
+genres:
+  - real-time strategy
+  - strategy
+  - science fiction
+igdb: https://www.igdb.com/games/emperor-battle-for-dune
+developers:
+  - Westwood Studios
+  - Intelligent Games
+publishers:
+  - Electronic Arts
