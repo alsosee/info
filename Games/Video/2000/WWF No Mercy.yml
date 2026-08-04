@@ -1,0 +1,33 @@
+name: WWF No Mercy
+description: >
+  WWF No Mercy brings AKI's Nintendo 64 wrestling system to a large Attitude
+  Era roster, with championship story modes and multiplayer wrestling built
+  around real WWF performers.
+released: 2000-11-17
+genres:
+  - fighting
+  - sports
+  - wrestling
+wikipedia: https://en.wikipedia.org/wiki/WWF_No_Mercy
+igdb: https://www.igdb.com/games/wwf-no-mercy
+developers:
+  - AKI Corporation
+  - Asmik Ace Entertainment
+publishers: THQ
+characters:
+  - name: The Rock
+    actor: Dwayne Johnson
+  - name: Stone Cold Steve Austin
+    actor: Steve Austin
+  - name: Triple H
+    actor: Triple H
+  - name: The Undertaker
+    actor: Mark Calaway
+  - name: Mankind
+    actor: Mick Foley
+  - name: Kane
+    actor: Glenn Jacobs
+  - name: Chris Jericho
+    actor: Chris Jericho
+  - name: Kurt Angle
+    actor: Kurt Angle

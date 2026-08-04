@@ -1,0 +1,34 @@
+name: "Wu-Tang: Shaolin Style"
+description: >
+  Wu-Tang: Shaolin Style is a four-player fighting game built around the
+  Wu-Tang Clan's members, martial-arts mythology, and a licensed hip-hop
+  soundtrack.
+released: 1999-10-31
+genres:
+  - fighting
+  - beat 'em up
+wikipedia: https://en.wikipedia.org/wiki/Wu-Tang:_Shaolin_Style
+igdb: https://www.igdb.com/games/wu-tang-shaolin-style
+developers: Paradox Development
+publishers:
+  - Activision
+  - Success
+characters:
+  - name: RZA
+    actor: RZA
+  - name: GZA
+    actor: GZA
+  - name: Method Man
+    actor: Method Man
+  - name: Raekwon
+    actor: Raekwon
+  - name: Ghostface Killah
+    actor: Ghostface Killah
+  - name: Inspectah Deck
+    actor: Inspectah Deck
+  - name: U-God
+    actor: U-God
+  - name: Masta Killa
+    actor: Masta Killa
+  - name: Ol' Dirty Bastard
+    actor: Ol' Dirty Bastard

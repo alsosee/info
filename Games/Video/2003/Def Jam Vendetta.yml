@@ -1,0 +1,29 @@
+name: Def Jam Vendetta
+description: >
+  Def Jam Vendetta combines AKI-style wrestling with Def Jam Recordings'
+  roster, casting rappers as playable fighters in a story-driven underground
+  tournament.
+released: 2003-04-01
+genres:
+  - fighting
+  - sports
+wikipedia: https://en.wikipedia.org/wiki/Def_Jam_Vendetta
+metacritic: https://www.metacritic.com/game/def-jam-vendetta/
+igdb: https://www.igdb.com/games/def-jam-vendetta
+developers:
+  - AKI Corporation
+  - EA Canada
+publishers: EA Sports BIG
+characters:
+  - name: DMX
+    actor: DMX
+  - name: Ludacris
+    actor: Ludacris
+  - name: Method Man
+    actor: Method Man
+  - name: Redman
+    actor: Redman
+  - name: Ghostface Killah
+    actor: Ghostface Killah
+  - name: Scarface
+    actor: Scarface

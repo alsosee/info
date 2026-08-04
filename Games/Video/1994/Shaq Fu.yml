@@ -1,0 +1,18 @@
+name: Shaq Fu
+description: >
+  Shaquille O'Neal stars in a one-on-one fighting game that sends his fictional
+  avatar into an alternate dimension, making it one of the most visible
+  celebrity-athlete game tie-ins of the 16-bit era.
+released: 1994-10-28
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Shaq_Fu
+igdb: https://www.igdb.com/games/shaq-fu--1
+developers: Delphine Software
+publishers:
+  - Electronic Arts
+  - Ocean Software
+  - Black Pearl Software
+characters:
+  - name: Shaquille O'Neal
+    actor: Shaquille O'Neal

@@ -1,0 +1,19 @@
+name: "Jackie Chan: Stuntmaster"
+description: >
+  Jackie Chan stars in a PlayStation beat 'em up built around his screen
+  persona, combining martial-arts combat, platforming, and stunt-driven action
+  across New York stages.
+released: 2000-03-28
+genres:
+  - fighting
+  - platform
+  - beat 'em up
+wikipedia: https://en.wikipedia.org/wiki/Jackie_Chan_Stuntmaster
+igdb: https://www.igdb.com/games/jackie-chan-stuntmaster
+developers: Radical Entertainment
+publishers:
+  - Midway Home Entertainment
+  - Sony Computer Entertainment Europe
+characters:
+  - name: Jackie Chan
+    actor: Jackie Chan

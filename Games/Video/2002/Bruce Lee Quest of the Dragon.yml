@@ -1,0 +1,16 @@
+name: "Bruce Lee: Quest of the Dragon"
+description: >
+  Bruce Lee: Quest of the Dragon casts a fictionalized Lee in an Xbox
+  martial-arts action game built around hand-to-hand combat and the iconography
+  of Lee's screen legacy.
+released: 2002-07-02
+genres:
+  - fighting
+  - beat 'em up
+wikipedia: https://en.wikipedia.org/wiki/Bruce_Lee:_Quest_of_the_Dragon
+igdb: https://www.igdb.com/games/bruce-lee-quest-of-the-dragon
+developers: Ronin Entertainment
+publishers: Universal Interactive Studios
+characters:
+  - name: Bruce Lee
+    actor: Bruce Lee

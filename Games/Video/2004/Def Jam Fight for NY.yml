@@ -1,0 +1,38 @@
+name: "Def Jam: Fight for NY"
+description: >
+  The sequel expands Def Jam Vendetta into a larger celebrity-filled street
+  fighting game with rappers, actors, and created fighters competing for control
+  of New York's underground scene.
+previous: Games/Video/2003/Def Jam Vendetta
+released: 2004-09-20
+genres:
+  - fighting
+  - sports
+wikipedia: https://en.wikipedia.org/wiki/Def_Jam:_Fight_for_NY
+metacritic: https://www.metacritic.com/game/def-jam-fight-for-ny/
+igdb: https://www.igdb.com/games/def-jam-fight-for-ny
+developers:
+  - EA Canada
+  - AKI Corporation
+publishers: Electronic Arts
+characters:
+  - name: D-Mob
+    actor: Christopher Judge
+  - name: Crow
+    actor: Snoop Dogg
+  - name: Blaze
+    actor: Method Man
+  - name: Doc
+    actor: Redman
+  - name: Sticky Fingaz
+    actor: Sticky Fingaz
+  - name: Ludacris
+    actor: Ludacris
+  - name: Busta Rhymes
+    actor: Busta Rhymes
+  - name: Ice-T
+    actor: Ice-T
+  - name: Xzibit
+    actor: Xzibit
+  - name: Henry Rollins
+    actor: Henry Rollins
