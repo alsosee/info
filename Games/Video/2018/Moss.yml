@@ -1,0 +1,16 @@
+name: Moss
+description: >
+  Third-person virtual reality adventure starring Quill, a small mouse guided
+  through diorama-like puzzle and combat spaces by the player.
+released: 2018-02-27
+series: Moss
+genres:
+  - adventure
+  - puzzle
+  - virtual reality
+wikipedia: https://en.wikipedia.org/wiki/Moss_(video_game)
+igdb: https://www.igdb.com/games/moss
+developers: Polyarc
+publishers: Polyarc
+characters:
+  - name: Quill

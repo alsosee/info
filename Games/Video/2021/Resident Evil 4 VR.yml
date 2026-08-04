@@ -1,0 +1,17 @@
+name: Resident Evil 4 VR
+description: >
+  Virtual reality adaptation of Resident Evil 4 for Meta Quest, rebuilding the
+  2005 survival-action game around first-person aiming, motion controls, and
+  VR inventory handling.
+based_on:
+  - Games/Video/2005/Resident Evil 4
+released: 2021-10-21
+series: Resident Evil
+genres:
+  - survival horror
+  - shooter
+  - virtual reality
+wikipedia: https://en.wikipedia.org/wiki/Resident_Evil_4#VR_version
+igdb: https://www.igdb.com/games/resident-evil-4-vr
+developers: Armature Studio
+publishers: Capcom
