@@ -497,6 +497,7 @@ Companies/HAL Laboratory.yml	365d1212
 Companies/HBO Films.yml	fcccb963
 Companies/HBO Max.yml	b8f6eacb
 Companies/HBO.yml	dcb9d2a
+Companies/Half Mermaid.yml	a80fdd7f
 Companies/Halfbrick Studios.yml	798e86a
 Companies/HanWay Films.yml	cf6474f1
 Companies/Harmonix.yml	f3f9a0b6
@@ -831,6 +832,7 @@ Companies/Purple Lamp.yml	af459313
 Companies/Pyramide Distribution.yml	4a0ccb3a
 Companies/QC Entertainment.yml	4cbbbc21
 Companies/Quad Productions.yml	928df0a1
+Companies/Quantic Dream.yml	a9d51cda
 Companies/Quebico.yml	a73ae3da
 Companies/R. Talsorian Games.yml	659ceb23
 Companies/RAI Cinema.yml	91071aff
@@ -895,6 +897,7 @@ Companies/SNK.yml	342d1362
 Companies/Saban Entertainment.yml	27a24f0d
 Companies/Saber Interactive.yml	d507a2ef
 Companies/Sailor Bear.yml	a368287e
+Companies/Sam Barlow.yml	983f61bf
 Companies/Samuel Goldwyn Films.yml	b50f39ea
 Companies/Sandrew Metronome.yml	1028b972
 Companies/Santa Monica Studio.yml	8d4d000c
@@ -981,6 +984,7 @@ Companies/Sunswept Entertainment.yml	3fa090ae
 Companies/SuperNowa.yml	4811c02
 Companies/Supercell.yml	50fa96bd
 Companies/Supergiant Games.yml	1bfc406d
+Companies/Supermassive Games.yml	eece0d3a
 Companies/Superscape.yml	246f87ef
 Companies/Sveriges Television.yml	9ffe17b0
 Companies/Syfy.yml	73cdf7d2
@@ -1185,6 +1189,7 @@ Companies/iQue.yml	86760031
 Companies/id Software.yml	2553b6bb
 Companies/miHoYo.yml	716440fc
 Companies/snowhydra games.yml	c49e2cb9
+Companies/tinyBuild.yml	d10353e3
 Games/Awards/The Game Awards/2023.yml	7fafd0
 Games/Tabletop/Agricola.yml	3797ba78
 Games/Tabletop/Android Netrunner.yml	eb90880b
@@ -2088,6 +2093,7 @@ Games/Video/2010/God of War Ghost of Sparta.yml	d9e8de6b
 Games/Video/2010/God of War III.yml	7ad1f96b
 Games/Video/2010/Halo Reach.yml	de2d8c79
 Games/Video/2010/Happy Wheels.yml	2791ef5d
+Games/Video/2010/Heavy Rain.yml	2a46d938
 Games/Video/2010/Jurassic Park - Gameloft.yml	4e1b61ba
 Games/Video/2010/Lara Croft and the Guardian of Light.yml	b9a28702
 Games/Video/2010/Metro 2033.yml	d21888ed
@@ -2210,6 +2216,7 @@ Games/Video/2013/Aliens Colonial Marines.yml	ea4e4755
 Games/Video/2013/Arma 3.yml	2f648b9f
 Games/Video/2013/Assassin's Creed IV Black Flag.yml	6c7c990d
 Games/Video/2013/Assassin's Creed Pirates.yml	cfe58099
+Games/Video/2013/Beyond Two Souls.yml	f31898d5
 Games/Video/2013/BioShock Infinite.yml	9cf0eb37
 Games/Video/2013/Call of Juarez Gunslinger.yml	fe5f3bf0
 Games/Video/2013/Cookie Clicker.yml	dd0c635d
@@ -2262,6 +2269,7 @@ Games/Video/2014/Assassin's Creed Rogue.yml	894c7d84
 Games/Video/2014/Assassin's Creed Unity.yml	3340a2a3
 Games/Video/2014/Assetto Corsa.yml	ef369c7b
 Games/Video/2014/Bayonetta 2.yml	c0ac7f77
+Games/Video/2014/Call of Duty Advanced Warfare.yml	19fece73
 Games/Video/2014/Counter-Strike Nexon Studio.yml	82243b6a
 Games/Video/2014/Crossy Road.yml	6cf11b80
 Games/Video/2014/Destiny.yml	46c19aa7
@@ -2304,6 +2312,7 @@ Games/Video/2015/Cities Skylines.yml	9386f414
 Games/Video/2015/Crypt of the NecroDancer.yml	2a8276c0
 Games/Video/2015/Fallout 4.yml	d0151be9
 Games/Video/2015/Forza Motorsport 6.yml	6608827f
+Games/Video/2015/Her Story.yml	9bdbb1bd
 Games/Video/2015/Hotline Miami 2 Wrong Number.yml	9f582154
 Games/Video/2015/Jurassic Park Arcade.yml	dd9a9fc8
 Games/Video/2015/Jurassic World Online Slot.yml	c89a8b24
@@ -2346,6 +2355,7 @@ Games/Video/2016/Assassin's Creed Chronicles Russia.yml	d5ab9e97
 Games/Video/2016/Assassin's Creed Identity.yml	10337eee
 Games/Video/2016/Battlefield 1.yml	f7fbfe7f
 Games/Video/2016/Beholder.yml	a7c5b3b6
+Games/Video/2016/Call of Duty Infinite Warfare.yml	97958ce5
 Games/Video/2016/Clash Royale.yml	8e9b0bba
 Games/Video/2016/Darkest Dungeon.yml	95bbf615
 Games/Video/2016/Dead by Daylight.yml	cb005910
@@ -2363,6 +2373,7 @@ Games/Video/2016/Oxenfree.yml	cd5ad0ce
 Games/Video/2016/Persona 5.yml	fd9f4bca
 Games/Video/2016/Planet Coaster.yml	3b72c1a3
 Games/Video/2016/Pokémon Go.yml	f131c908
+Games/Video/2016/Quantum Break.yml	fe8f3b
 Games/Video/2016/Shadow Tactics Blades of the Shogun.yml	fc8e19a9
 Games/Video/2016/Shadowverse.yml	9a988526
 Games/Video/2016/Sid Meier's Civilization VI.yml	36492ace
@@ -2515,8 +2526,10 @@ Games/Video/2019/Sekiro Shadows Die Twice.yml	b12d0551
 Games/Video/2019/Slay the Spire.yml	1da4d15d
 Games/Video/2019/Star Wars Jedi Fallen Order.yml	dc82613f
 Games/Video/2019/Superliminal.yml	e95d7058
+Games/Video/2019/Telling Lies.yml	6e34f34
 Games/Video/2019/Terminator Resistance.yml	cded5cc0
 Games/Video/2019/The Addams Family Mystery Mansion.yml	fe7a09da
+Games/Video/2019/The Dark Pictures Anthology Man of Medan.yml	a1040abd
 Games/Video/2019/The Outer Worlds.yml	ab66c7bc
 Games/Video/2019/The Sinking City.yml	43660dd2
 Games/Video/2019/Vacation Simulator.yml	e1c53f51
@@ -2560,6 +2573,7 @@ Games/Video/2020/Watch Dogs Legion.yml	7bfef373
 Games/Video/2020/World of Warcraft Shadowlands.yml	b801d368
 Games/Video/2020/Worms Rumble.yml	17c71d12
 Games/Video/2021/Aliens Fireteam Elite.yml	640eadd5
+Games/Video/2021/Far Cry 6.yml	6b0e7322
 Games/Video/2021/Farming Simulator 22.yml	2d50f8f5
 Games/Video/2021/Forza Horizon 5.yml	deb4afa2
 Games/Video/2021/Guilty Gear Strive.yml	15746c6
@@ -2576,8 +2590,10 @@ Games/Video/2021/Returnal.yml	11e97f6c
 Games/Video/2021/Road 96.yml	65200f95
 Games/Video/2021/Subnautica Below Zero.yml	ba4ca126
 Games/Video/2021/The Addams Family Mansion Mayhem.yml	204d86b8
+Games/Video/2021/The Dark Pictures Anthology House of Ashes.yml	bdcd6ac3
 Games/Video/2021/The Forgotten City.yml	5193b531
 Games/Video/2021/The Witcher Monster Slayer.yml	be7f7d32
+Games/Video/2021/Twelve Minutes.yml	db0e3634
 Games/Video/2021/World of Warcraft Burning Crusade Classic.yml	a915045f
 Games/Video/2022/Aperture Desk Job.yml	8dcdad72
 Games/Video/2022/Bayonetta 3.yml	22b59cd9
@@ -2588,12 +2604,14 @@ Games/Video/2022/Elden Ring.yml	5b6bc74a
 Games/Video/2022/Evil Dead The Game.yml	f677a3b5
 Games/Video/2022/God of War Ragnarok.yml	db7093fe
 Games/Video/2022/Grounded.yml	502c029b
+Games/Video/2022/Immortality.yml	e6d37b5c
 Games/Video/2022/Jurassic World Primal Ops.yml	4f1515fc
 Games/Video/2022/Kirby and the Forgotten Land.yml	8b701697
 Games/Video/2022/Marvel Snap.yml	fbe5d05
 Games/Video/2022/Marvel's Midnight Suns.yml	8bde282
 Games/Video/2022/Mount & Blade II Bannerlord.yml	9b3d9fa3
 Games/Video/2022/Need for Speed Unbound.yml	7602b59d
+Games/Video/2022/Not for Broadcast.yml	24191a6f
 Games/Video/2022/Overwatch 2.yml	57c67112
 Games/Video/2022/Pentiment.yml	2dc42a70
 Games/Video/2022/Pokémon Scarlet and Violet.yml	e857a013
@@ -2607,8 +2625,10 @@ Games/Video/2022/Signalis.yml	6039bce5
 Games/Video/2022/Stray.yml	bba9df3e
 Games/Video/2022/Syberia The World Before.yml	a6dc7cdb
 Games/Video/2022/Teenage Mutant Ninja Turtles Shredder's Revenge.yml	fa6110db
+Games/Video/2022/The Callisto Protocol.yml	3fa8bd58
 Games/Video/2022/The Case of the Golden Idol.yml	22988df2
 Games/Video/2022/The Last of Us Part I.yml	3a8539cf
+Games/Video/2022/The Quarry.yml	cb41c1
 Games/Video/2022/Triangle Strategy.yml	3dec8936
 Games/Video/2022/Tunic.yml	4b1ee0ca
 Games/Video/2022/Vampire Survivors.yml	bee72668
@@ -2802,6 +2822,7 @@ Games/Video/Series/Streets of Rage.yml	a9885ffd
 Games/Video/Series/Syberia.yml	b3174812
 Games/Video/Series/Tekken.yml	e7b62521
 Games/Video/Series/The Addams Family.yml	3b0b1d08
+Games/Video/Series/The Dark Pictures Anthology.yml	5ba8e61b
 Games/Video/Series/The Elder Scrolls.yml	b040bfd1
 Games/Video/Series/The Settlers.yml	f57d8b73
 Games/Video/Series/The Simpsons.yml	7780c93c
@@ -5123,6 +5144,7 @@ People/Alessandro Nivola.yml	ae734826
 People/Alex Beachum.yml	d13f45c1
 People/Alex Belcher.yml	2d00bbc8
 People/Alex Borstein.yml	ac0c43ea
+People/Alex Fernandez.yml	66134640
 People/Alex Ferns.yml	1179f630
 People/Alex Gansa.yml	60af3db3
 People/Alex Garcia.yml	6019b95d
@@ -5194,6 +5216,7 @@ People/Alison Tatlock.yml	4f7bcd17
 People/Alix Wilton Regan.yml	fcb72f74
 People/Allan Burns.yml	95226c74
 People/Allan Manings.yml	63ed26a0
+People/Allan Scott.yml	f616c35
 People/Allegra Clark.yml	628f0bc8
 People/Allen Coulter.yml	fc333ccb
 People/Allen Leech.yml	8ae04223
@@ -5223,6 +5246,7 @@ People/Amber Heard.yml	ab5ad39c
 People/Amber Midthunder.yml	2b7e753
 People/Amber Nash.yml	eca2bb3d
 People/Amber Templemore.yml	edae3516
+People/Amelia Gray.yml	1e5e80d7
 People/Amelia Tyler.yml	f4ab58ef
 People/America Ferrera.yml	d5800b7b
 People/American McGee.yml	23a15ae6
@@ -5698,6 +5722,7 @@ People/Brandon Trost.yml	a1a8bda
 People/Branko Lustig.yml	cd86eccc
 People/Brannon Braga.yml	9a779390
 People/Brant Englestein.yml	c5f62302
+People/Brenda Song.yml	383041cc
 People/Brendan Fraser.yml	99fc54f1
 People/Brendan Gleeson.yml	bc7170ba
 People/Brendan Hunt.yml	1380e742
@@ -5713,6 +5738,7 @@ People/Brett Goldstein.yml	8b8a10a8
 People/Brett Johnson and Matthew Weiner.yml	ad77c409
 People/Brett Jutkiewicz.yml	1616e49e
 People/Brett Ratner.yml	5448262e
+People/Brian Bloom.yml	df8bcd8
 People/Brian Bright.yml	3e014c7
 People/Brian Cox.yml	4e48913c
 People/Brian De Palma.yml	a6f9b927
@@ -6174,6 +6200,7 @@ People/Courtenay Taylor.yml	89f01098
 People/Courteney Cox.yml	bf476e00
 People/Courtney B. Vance.yml	680d4d72
 People/Courtney Eaton.yml	103f9f05
+People/Courtney Hope.yml	c64f8a0b
 People/Craig Alpert.yml	d4202c23
 People/Craig Armstrong.yml	90685782
 People/Craig Bierko.yml	11c37c72
@@ -6405,6 +6432,7 @@ People/David Brenner.yml	1b55a2e
 People/David Brevik.yml	76467df4
 People/David Buckley.yml	e9104a7e
 People/David Burrows.yml	b278ebea
+People/David Cage.yml	4204d54e
 People/David Carradine.yml	475bbe95
 People/David Chase and Matthew Weiner.yml	f1a97117
 People/David Chase.yml	8d3ad833
@@ -6923,6 +6951,7 @@ People/Eugenio Alabiso.yml	fdf1f514
 People/Euros Lyn.yml	2a0ab8f7
 People/Eva Mendes.yml	bf1040a5
 People/Evan Call.yml	12b0d4de
+People/Evan Evagora.yml	6b92cf63
 People/Evan Goldberg.yml	24368b8d
 People/Evan Jonigkeit.yml	4e9b0269
 People/Evan Parke.yml	d076790b
@@ -6953,6 +6982,7 @@ People/Felix Chong.yml	d1f99c64
 People/Fenton Bailey.yml	c505429e
 People/Ferdia Walsh-Peelo.yml	e7e9db55
 People/Filippo Beck Peccoz.yml	d425882c
+People/Finishing Move Inc..yml	6b3c3348
 People/Finn Bennett.yml	deaf9b3f
 People/Finn Wittrock.yml	31798117
 People/Finn Wolfhard.yml	501c8115
@@ -7133,6 +7163,7 @@ People/Glen Mazzara.yml	94e83bdc
 People/Glen Morgan.yml	7cd4ea51
 People/Glen Powell.yml	8ff2d26a
 People/Glen Scantlebury.yml	c5f57fcd
+People/Glen Schofield.yml	46608826
 People/Glenn Berger.yml	422e4525
 People/Glenn Eichler.yml	f916340b
 People/Glenn Ficarra.yml	904870f4
@@ -7169,6 +7200,7 @@ People/Graham Greene.yml	47f47a12
 People/Graham King.yml	bc7fb977
 People/Graham McTavish.yml	fa435494
 People/Graham Phillips.yml	36d11651
+People/Graham Reznick.yml	c24c6452
 People/Graham Yost.yml	1727f0a3
 People/Grant Curtis.yml	d0572fae
 People/Grant Heslov.yml	12832aec
@@ -7239,6 +7271,7 @@ People/Halle Berry.yml	4c44473b
 People/Halley Gross.yml	1570bd66
 People/Hallie Foote.yml	4b0d4cce
 People/Halsted Sullivan.yml	d29e1643
+People/Halston Sage.yml	15e0e400
 People/Hamish Linklater.yml	758b769e
 People/Hana Hayes.yml	968f3263
 People/Hana Mae Lee.yml	2166139e
@@ -7409,6 +7442,7 @@ People/Ian Currie.yml	9b74bfb5
 People/Ian Goldberg.yml	1dd9bed7
 People/Ian Hamilton.yml	bf57bf10
 People/Ian Holm.yml	f6156fa1
+People/Ian Livingstone.yml	360b6db9
 People/Ian McDiarmid.yml	dfea5eb8
 People/Ian McKellen.yml	113f0ace
 People/Ian McNeice.yml	659aa466
@@ -8776,6 +8810,7 @@ People/Lochlyn Munro.yml	a86cfb9a
 People/Logan Cunningham.yml	60629b18
 People/Logan Kim.yml	a37aa60f
 People/Logan Lerman.yml	e4e9548
+People/Logan Marshall-Green.yml	31fef685
 People/Lois Smith.yml	edc8dc1a
 People/Lola Dueñas.yml	b160e398
 People/Lola Kirke.yml	aa13554b
@@ -9223,6 +9258,7 @@ People/Michael Chaves.yml	f6c41e2d
 People/Michael Chernus.yml	7c7ceefb
 People/Michael Chiklis.yml	2b18419c
 People/Michael Clarke Duncan.yml	35228e0f
+People/Michael Condrey.yml	bbd51356
 People/Michael Crichton.yml	99f71daf
 People/Michael Cristofer.yml	4de5fb38
 People/Michael Cuesta.yml	b7dbe889
@@ -9382,6 +9418,7 @@ People/Mike White.yml	d1df6fa4
 People/Mikee W. Goodman.yml	a441aa1
 People/Mikey Madison.yml	f43ac3c
 People/Miki Johnson.yml	cc1b063
+People/Mikko Rautalahti.yml	3704ebdd
 People/Mikołaj Stroiński.yml	b20bce81
 People/Mila Kunis.yml	4a372983
 People/Miles Davis.yml	b78b0513
@@ -9447,6 +9484,7 @@ People/M|O|O|N.yml	979fe5f
 People/Nadia Rochelle Pfarr.yml	5ad9939
 People/Nadine Muse.yml	2c7f8e29
 People/Nadji Jeter.yml	b4b189a0
+People/Nainita Desai.yml	9f081838
 People/Nana Mizuki.yml	6895ad35
 People/Nancy Cartwright.yml	372e6198
 People/Nancy Grant.yml	a23d38ed
@@ -9682,6 +9720,7 @@ People/Park Ji-hwan.yml	9d11b905
 People/Parker Posey.yml	33c61e8
 People/Parker Sawyers.yml	7dab2e7b
 People/Pascal Caucheteux.yml	6487491c
+People/Pascal Langdale.yml	4c85455f
 People/Pat Casey.yml	b0365f07
 People/Pat Healy.yml	39ad7e58
 People/Pat Morita.yml	ee05ed2
@@ -9917,6 +9956,7 @@ People/Pierre Shorette.yml	95d46dd8
 People/Pietro Scalia.yml	b3a9b5cd
 People/Piotr Michael.yml	791e110b
 People/Piotr Musial.yml	7d23b21a
+People/Pip Torrens.yml	2d6359d5
 People/Piper Curda.yml	12f68e1e
 People/Pippa Harris.yml	d7cafbc9
 People/Polly Draper.yml	1162bc1d
@@ -10342,6 +10382,7 @@ People/Sally Phillips.yml	d688ca58
 People/Sally Wainwright.yml	8b99acf4
 People/Salma Hayek.yml	411c06e0
 People/Sam Bain.yml	686b7691
+People/Sam Barlow.yml	9a43991b
 People/Sam Catlin.yml	d82b15e1
 People/Sam Elliott.yml	82225323
 People/Sam Eng.yml	830b5ec5
