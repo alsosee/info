@@ -1,0 +1,27 @@
+name: Attack on Titan
+description: >
+  Omega Force's Attack on Titan adapts the anime's early arcs into high-speed
+  action, using omni-directional mobility gear to target Titans across open
+  battlefields.
+based_on:
+  - Shows/2013/Attack on Titan
+released: 2016-02-18
+genres:
+  - beat 'em up
+  - action
+wikipedia: https://en.wikipedia.org/wiki/Attack_on_Titan_(video_game)
+metacritic: https://www.metacritic.com/game/attack-on-titan/
+igdb: https://www.igdb.com/games/attack-on-titan
+developers: Omega Force
+publishers: Koei Tecmo Games
+characters:
+  - name: Eren Yeager
+    voice: Bryce Papenbrook
+  - name: Mikasa Ackerman
+    voice: Trina Nishimura
+  - name: Armin Arlert
+    voice: Josh Grelle
+  - name: Levi Ackerman
+    voice: Matthew Mercer
+  - name: Hange Zoë
+    voice: Jessica Calvello

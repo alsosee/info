@@ -1,0 +1,24 @@
+name: Jump Force
+description: >
+  Jump Force is a crossover arena fighter that brings Weekly Shonen Jump heroes
+  and villains into 3D team battles, combining characters from Dragon Ball,
+  One Piece, Naruto, Bleach, Hunter x Hunter, and other manga series.
+released: 2019-02-14
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Jump_Force
+metacritic: https://www.metacritic.com/game/jump-force/
+igdb: https://www.igdb.com/games/jump-force
+developers: Spike Chunsoft
+publishers: Bandai Namco Entertainment
+characters:
+  - name: Goku
+    voice: Masako Nozawa
+  - name: Monkey D. Luffy
+    voice: Mayumi Tanaka
+  - name: Naruto Uzumaki
+    voice: Junko Takeuchi
+  - name: Ichigo Kurosaki
+    voice: Masakazu Morita
+  - name: Gon Freecss
+    voice: Megumi Han

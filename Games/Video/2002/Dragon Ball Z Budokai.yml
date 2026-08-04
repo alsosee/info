@@ -1,0 +1,32 @@
+name: "Dragon Ball Z: Budokai"
+description: >
+  Dragon Ball Z: Budokai adapts major Dragon Ball Z story arcs into a
+  PlayStation 2 fighting game, combining cinematic story scenes with one-on-one
+  battles and unlockable series characters.
+based_on:
+  - Shows/1989/Dragon Ball Z
+released: 2002-11-02
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai
+metacritic: https://www.metacritic.com/game/dragon-ball-z-budokai/
+igdb: https://www.igdb.com/games/dragon-ball-z-budokai
+developers:
+  - Dimps
+  - Pyramid
+publishers:
+  - Bandai
+  - Atari
+characters:
+  - name: Goku
+    voice: Sean Schemmel
+  - name: Vegeta
+    voice: Christopher Sabat
+  - name: Gohan
+    voice: Stephanie Nadolny
+  - name: Piccolo
+    voice: Christopher Sabat
+  - name: Frieza
+    voice: Linda Young
+  - name: Cell
+    voice: Dameon Clarke

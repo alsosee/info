@@ -1,0 +1,31 @@
+name: "One Piece: Pirate Warriors 4"
+description: >
+  Pirate Warriors 4 updates the One Piece musou formula with larger battlefields,
+  aerial combat, giant characters, and story arcs through Whole Cake Island and
+  Wano.
+based_on:
+  - Shows/1999/One Piece
+released: 2020-03-26
+genres:
+  - beat 'em up
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/One_Piece:_Pirate_Warriors_4
+metacritic: https://www.metacritic.com/game/one-piece-pirate-warriors-4/
+igdb: https://www.igdb.com/games/one-piece-pirate-warriors-4
+website: https://www.bandainamcoent.com/games/one-piece-pirate-warriors-4
+steam: https://store.steampowered.com/app/1089090/ONE_PIECE_PIRATE_WARRIORS_4/
+developers: Koei Tecmo Games
+publishers: Bandai Namco Entertainment
+characters:
+  - name: Monkey D. Luffy
+    voice: Colleen Clinkenbeard
+  - name: Roronoa Zoro
+    voice: Christopher R. Sabat
+  - name: Nami
+    voice: Luci Christian
+  - name: Sanji
+    voice: Eric Vale
+  - name: Trafalgar Law
+    voice: Matthew Mercer
+  - name: Kaido
+    voice: David Sobolov

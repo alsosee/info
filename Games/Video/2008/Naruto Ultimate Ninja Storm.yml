@@ -1,0 +1,27 @@
+name: "Naruto: Ultimate Ninja Storm"
+description: >
+  CyberConnect2's first Ultimate Ninja Storm game turns Naruto's early story
+  into a cinematic 3D arena fighter with free-roaming village segments and
+  high-speed jutsu battles.
+based_on:
+  - Shows/2002/Naruto
+released: 2008-11-04
+genres:
+  - fighting
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Naruto:_Ultimate_Ninja_Storm
+metacritic: https://www.metacritic.com/game/naruto-ultimate-ninja-storm/
+igdb: https://www.igdb.com/games/naruto-ultimate-ninja-storm
+developers: CyberConnect2
+publishers: Bandai Namco Entertainment
+characters:
+  - name: Naruto Uzumaki
+    voice: Maile Flanagan
+  - name: Sasuke Uchiha
+    voice: Yuri Lowenthal
+  - name: Sakura Haruno
+    voice: Kate Higgins
+  - name: Kakashi Hatake
+    voice: Dave Wittenberg
+  - name: Gaara
+    voice: Liam O'Brien

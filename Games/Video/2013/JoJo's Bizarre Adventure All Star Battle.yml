@@ -1,0 +1,25 @@
+name: "JoJo's Bizarre Adventure: All Star Battle"
+description: >
+  CyberConnect2's All Star Battle is a stylized fighting game that brings
+  characters from multiple JoJo's Bizarre Adventure parts into one-on-one
+  battles with manga-inspired presentation.
+released: 2013-08-29
+genres:
+  - fighting
+  - arcade
+wikipedia: https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure:_All_Star_Battle
+metacritic: https://www.metacritic.com/game/jojos-bizarre-adventure-all-star-battle/
+igdb: https://www.igdb.com/games/jojo-s-bizarre-adventure-all-star-battle
+developers: CyberConnect2
+publishers: Bandai Namco Entertainment
+characters:
+  - name: Jonathan Joestar
+    voice: Kazuyuki Okitsu
+  - name: Joseph Joestar
+    voice: Tomokazu Sugita
+  - name: Jotaro Kujo
+    voice: Daisuke Ono
+  - name: Dio Brando
+    voice: Takehito Koyasu
+  - name: Giorno Giovanna
+    voice: Daisuke Namikawa

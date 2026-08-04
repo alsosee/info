@@ -1,0 +1,31 @@
+name: "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles"
+description: >
+  The Hinokami Chronicles adapts Demon Slayer's early anime arcs and Mugen Train
+  story into a CyberConnect2 arena fighter with cinematic story battles and
+  versus modes.
+based_on:
+  - Shows/2019/Demon Slayer Kimetsu no Yaiba
+released: 2021-10-14
+genres:
+  - fighting
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba_%E2%80%93_The_Hinokami_Chronicles
+metacritic: https://www.metacritic.com/game/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles/
+igdb: https://www.igdb.com/games/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles
+website: https://demonslayer-hinokami.sega.com/
+steam: https://store.steampowered.com/app/1490890/Demon_Slayer_Kimetsu_no_Yaiba_The_Hinokami_Chronicles/
+developers: CyberConnect2
+publishers:
+  - Aniplex
+  - Sega
+characters:
+  - name: Tanjiro Kamado
+    voice: Zach Aguilar
+  - name: Nezuko Kamado
+    voice: Abby Trott
+  - name: Zenitsu Agatsuma
+    voice: Aleks Le
+  - name: Inosuke Hashibira
+    voice: Bryce Papenbrook
+  - name: Giyu Tomioka
+    voice: Johnny Yong Bosch

@@ -1,0 +1,29 @@
+name: "Naruto Shippuden: Ultimate Ninja Storm 4"
+description: >
+  Ultimate Ninja Storm 4 adapts the climax of Naruto Shippuden with cinematic
+  arena battles, team switching, large-scale boss fights, and a roster spanning
+  the series' final arcs.
+based_on:
+  - Shows/2002/Naruto
+released: 2016-02-04
+genres:
+  - fighting
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Naruto_Shippuden:_Ultimate_Ninja_Storm_4
+metacritic: https://www.metacritic.com/game/naruto-shippuden-ultimate-ninja-storm-4/
+igdb: https://www.igdb.com/games/naruto-shippuden-ultimate-ninja-storm-4
+website: https://www.bandainamcoent.com/games/naruto-shippuden-ultimate-ninja-storm-4
+steam: https://store.steampowered.com/app/349040/NARUTO_SHIPPUDEN_Ultimate_Ninja_STORM_4/
+developers: CyberConnect2
+publishers: Bandai Namco Entertainment
+characters:
+  - name: Naruto Uzumaki
+    voice: Maile Flanagan
+  - name: Sasuke Uchiha
+    voice: Yuri Lowenthal
+  - name: Sakura Haruno
+    voice: Kate Higgins
+  - name: Kakashi Hatake
+    voice: Dave Wittenberg
+  - name: Madara Uchiha
+    voice: Neil Kaplan

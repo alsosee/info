@@ -1,0 +1,31 @@
+name: "Dragon Ball: Sparking! Zero"
+description: >
+  Sparking! Zero revives the Budokai Tenkaichi arena-fighting line with modern
+  presentation, destructible stages, a large Dragon Ball roster, and cinematic
+  episode battles.
+based_on:
+  - Movies/Series/Dragon Ball
+previous: Games/Video/2007/Dragon Ball Z Budokai Tenkaichi 3
+released: 2024-10-11
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball:_Sparking!_Zero
+metacritic: https://www.metacritic.com/game/dragon-ball-sparking-zero/
+igdb: https://www.igdb.com/games/dragon-ball-sparking-zero
+website: https://en.bandainamcoent.eu/dragon-ball/dragon-ball-sparking-zero
+steam: https://store.steampowered.com/app/1790600/DRAGON_BALL_Sparking_ZERO/
+developers: Spike Chunsoft
+publishers: Bandai Namco Entertainment
+characters:
+  - name: Goku
+    voice: Sean Schemmel
+  - name: Vegeta
+    voice: Christopher Sabat
+  - name: Gohan
+    voice: Kyle Hebert
+  - name: Piccolo
+    voice: Christopher Sabat
+  - name: Frieza
+    voice: Daman Mills
+  - name: Broly
+    voice: Johnny Yong Bosch

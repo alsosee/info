@@ -1,0 +1,32 @@
+name: "Dragon Ball Z: Budokai Tenkaichi 3"
+description: >
+  Budokai Tenkaichi 3 is a 3D arena fighter with a very large Dragon Ball
+  roster, flight-heavy combat, transformations, and story battles drawn across
+  Dragon Ball, Dragon Ball Z, GT, and related films.
+based_on:
+  - Shows/1989/Dragon Ball Z
+released: 2007-10-04
+genres:
+  - fighting
+wikipedia: https://en.wikipedia.org/wiki/Dragon_Ball_Z:_Budokai_Tenkaichi_3
+metacritic: https://www.metacritic.com/game/dragon-ball-z-budokai-tenkaichi-3/
+igdb: https://www.igdb.com/games/dragon-ball-z-budokai-tenkaichi-3
+developers: Spike
+publishers:
+  - Namco Bandai Games
+  - Atari
+characters:
+  - name: Goku
+    voice: Sean Schemmel
+  - name: Vegeta
+    voice: Christopher Sabat
+  - name: Gohan
+    voice: Kyle Hebert
+  - name: Piccolo
+    voice: Christopher Sabat
+  - name: Frieza
+    voice: Linda Young
+  - name: Cell
+    voice: Dameon Clarke
+  - name: Broly
+    voice: Vic Mignogna
