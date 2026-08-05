@@ -1,0 +1,16 @@
+name: "Samurai Jack: Battle Through Time"
+description: >
+  Samurai Jack: Battle Through Time is a 3D action game set across the
+  animated series' timelines, sending Jack through hack-and-slash battles
+  against Aku's forces with weapons and allies from the show.
+based_on:
+  - Shows/2001/Samurai Jack
+released: 2020-08-21
+series: Samurai Jack
+genres:
+  - action-adventure
+  - hack and slash
+  - licensed game
+igdb: https://www.igdb.com/games/samurai-jack-battle-through-time
+developers: Soleil
+publishers: Adult Swim Games

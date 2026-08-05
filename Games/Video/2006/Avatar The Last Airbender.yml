@@ -1,0 +1,18 @@
+name: "Avatar: The Last Airbender"
+description: >
+  Avatar: The Last Airbender is an action-RPG adaptation of the Nickelodeon
+  series, letting players control Aang, Katara, Sokka, and Haru through
+  elemental combat, exploration, and party progression.
+based_on:
+  - Shows/2005/Avatar The Last Airbender
+released: 2006-10-10
+series: "Avatar: The Last Airbender"
+genres:
+  - role-playing
+  - action-adventure
+  - licensed game
+igdb: https://www.igdb.com/games/avatar-the-last-airbender
+developers:
+  - Tose
+  - THQ Studio Oz
+publishers: THQ

@@ -1,0 +1,17 @@
+name: The Simpsons Game
+description: >
+  The Simpsons Game is an original platform action-adventure written with the
+  show's writers, sending the Simpson family through a self-aware parody of
+  game genres, industry clichés, and Springfield set pieces.
+based_on:
+  - Shows/1989/The Simpsons
+released: 2007-10-30
+series: The Simpsons
+genres:
+  - platformer
+  - action-adventure
+  - comedy
+  - licensed game
+igdb: https://www.igdb.com/games/the-simpsons-game
+developers: EA Redwood Shores
+publishers: Electronic Arts

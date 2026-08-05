@@ -1,0 +1,19 @@
+name: "Rick and Morty: Virtual Rick-ality"
+description: >
+  Rick and Morty: Virtual Rick-ality is a VR adventure from Owlchemy Labs and
+  Adult Swim Games, using clone-Rick lab tasks, absurd puzzles, and show-style
+  improvisational chaos.
+based_on:
+  - Shows/2013/Rick and Morty
+released: 2017-04-20
+series: Rick and Morty
+genres:
+  - virtual reality
+  - puzzle
+  - adventure
+  - comedy
+igdb: https://www.igdb.com/games/rick-and-morty-virtual-rick-ality
+developers:
+  - Owlchemy Labs
+  - Other Ocean Interactive
+publishers: Adult Swim Games

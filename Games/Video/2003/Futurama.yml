@@ -1,0 +1,19 @@
+name: Futurama
+description: >
+  Futurama is a third-person platform adventure based on the animated series,
+  following Fry, Bender, Leela, and Zoidberg through an original Planet
+  Express story that plays like a lost episode.
+based_on:
+  - Shows/1999/Futurama
+released: 2003-08-01
+series: Futurama
+genres:
+  - platformer
+  - puzzle
+  - comedy
+  - licensed game
+igdb: https://www.igdb.com/games/futurama
+developers: Unique Development Studios
+publishers:
+  - Fox Interactive
+  - VU Games
