@@ -1,0 +1,17 @@
+name: Neon Genesis Evangelion 2
+description: >
+  Neon Genesis Evangelion 2 is a life-simulation and strategy game that lets
+  players inhabit Evangelion characters, manage daily choices, and influence
+  scenarios built around Eva operations and NERV relationships.
+based_on:
+  - Shows/1995/Neon Genesis Evangelion
+released: 2003-11-20
+series: Neon Genesis Evangelion
+genres:
+  - simulation
+  - strategy
+  - licensed game
+igdb: https://www.igdb.com/games/neon-genesis-evangelion-2
+license: Neon Genesis Evangelion
+developers: Alfa System
+publishers: Bandai

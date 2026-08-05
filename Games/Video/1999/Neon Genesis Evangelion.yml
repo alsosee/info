@@ -1,0 +1,16 @@
+name: Neon Genesis Evangelion
+description: >
+  Neon Genesis Evangelion is Bandai's Nintendo 64 action game based on the
+  anime, recreating Eva battles, synchronization sequences, and story moments
+  through mission-based set pieces.
+based_on:
+  - Shows/1995/Neon Genesis Evangelion
+released: 1999-06-25
+series: Neon Genesis Evangelion
+genres:
+  - action
+  - licensed game
+igdb: https://www.igdb.com/games/neon-genesis-evangelion
+license: Neon Genesis Evangelion
+developers: Bandai
+publishers: Bandai

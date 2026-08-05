@@ -1,0 +1,20 @@
+name: "Mobile Suit Gundam: Zeonic Front"
+description: >
+  Mobile Suit Gundam: Zeonic Front is a tactical action game set during the One
+  Year War, putting players in command of Zeon mobile suit squads through
+  mission planning, positioning, and real-time combat.
+based_on:
+  - Shows/1979/Mobile Suit Gundam
+released: 2001-09-06
+series: Mobile Suit Gundam
+genres:
+  - tactical action
+  - mecha
+  - licensed game
+igdb: https://www.igdb.com/games/mobile-suit-gundam-zeonic-front
+license: Mobile Suit Gundam
+developers: Sunrise Interactive
+publishers: Bandai
+composers:
+  - Tomohisa Ishikawa
+  - Takanori Arima

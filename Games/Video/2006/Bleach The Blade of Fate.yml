@@ -1,0 +1,22 @@
+name: "Bleach: The Blade of Fate"
+description: >
+  Bleach: The Blade of Fate is a Nintendo DS fighting game from Treasure,
+  translating the anime's Soul Reaper battles into fast tag mechanics, special
+  attacks, and card-assisted systems.
+based_on:
+  - Shows/2004/Bleach
+released: 2006-01-26
+series: Bleach
+genres:
+  - fighting
+  - licensed game
+igdb: https://www.igdb.com/games/bleach-the-blade-of-fate
+license: Bleach
+developers: Treasure
+publishers:
+  - Sega
+  - Shonen Jump
+  - Viz Media
+composers:
+  - Norio Hanzawa
+  - Satoshi Murata

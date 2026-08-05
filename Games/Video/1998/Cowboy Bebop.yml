@@ -1,0 +1,17 @@
+name: Cowboy Bebop
+description: >
+  Cowboy Bebop is a Bandai PlayStation action game based on the anime series,
+  focusing on spaceflight combat and bounty-hunting missions with the Bebop
+  crew.
+based_on:
+  - Shows/1998/Cowboy Bebop
+released: 1998-05-14
+series: Cowboy Bebop
+genres:
+  - action
+  - shooter
+  - licensed game
+igdb: https://www.igdb.com/games/cowboy-bebop
+license: Cowboy Bebop
+developers: BEC
+publishers: Bandai

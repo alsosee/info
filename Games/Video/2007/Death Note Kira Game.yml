@@ -1,0 +1,17 @@
+name: "Death Note: Kira Game"
+description: >
+  Death Note: Kira Game is a Nintendo DS social deduction and adventure game
+  based on the anime and manga, casting players into Kira investigation rounds
+  built around suspicion, roles, and hidden identities.
+based_on:
+  - Shows/2006/Death Note
+released: 2007-02-15
+series: Death Note
+genres:
+  - adventure
+  - social deduction
+  - licensed game
+igdb: https://www.igdb.com/games/death-note-kira-game
+license: Death Note
+developers: Konami
+publishers: Konami
