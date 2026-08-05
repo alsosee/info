@@ -1,0 +1,23 @@
+name: Ripper
+description: >
+  Ripper is a cyberpunk FMV point-and-click adventure about a New York crime
+  reporter investigating a Jack the Ripper-inspired serial killer, mixing
+  live-action suspects, puzzle rooms, and first-person exploration.
+released: 1996-02-29
+genres:
+  - point-and-click
+  - puzzle
+  - adventure
+  - interactive movie
+igdb: https://www.igdb.com/games/ripper
+developers: Take-Two Interactive
+publishers: Take-Two Interactive
+characters:
+  - name: Vince Magnotta
+    actor: Christopher Walken
+  - name: Hamilton Wofford
+    actor: Burgess Meredith
+  - name: Clare Burton
+    actor: Karen Allen
+  - name: Joey Falconetti
+    actor: David Patrick Kelly

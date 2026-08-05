@@ -1,0 +1,29 @@
+name: "Tex Murphy: Overseer"
+description: >
+  Tex Murphy: Overseer retells Tex Murphy's first case with upgraded FMV,
+  3D environments, and DVD-era production values, framing the story as Tex
+  recounts a dangerous investigation into the Linsky family.
+previous: Games/Video/1996/Tex Murphy The Pandora Directive
+released: 1998-02-28
+series: Tex Murphy
+genres:
+  - adventure
+  - mystery
+  - interactive movie
+igdb: https://www.igdb.com/games/tex-murphy-overseer
+developers: Access Software
+publishers: Access Software
+writers:
+  - Aaron Conners
+  - Chris Jones
+characters:
+  - name: Tex Murphy
+    actor: Chris Jones
+  - name: J. Saint Gideon
+    actor: Michael York
+  - name: Sylvia Linsky
+    actor: Rebecca Broussard
+  - name: Big Jim Slade
+    actor: Richard Norton
+  - name: Sonny Fletcher
+    actor: Henry Darrow

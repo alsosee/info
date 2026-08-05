@@ -1,0 +1,30 @@
+name: "Tex Murphy: The Pandora Directive"
+description: >
+  Tex Murphy: The Pandora Directive is an FMV detective adventure with
+  branching story paths, multiple endings, first-person exploration, and a
+  noir science-fiction mystery built around alien-conspiracy evidence.
+previous: Games/Video/1994/Tex Murphy Under a Killing Moon
+released: 1996-07-31
+series: Tex Murphy
+genres:
+  - point-and-click
+  - adventure
+  - mystery
+  - interactive movie
+igdb: https://www.igdb.com/games/tex-murphy-the-pandora-directive
+developers: Access Software
+publishers: Access Software
+designers:
+  - Chris Jones
+  - Aaron Conners
+characters:
+  - name: Tex Murphy
+    actor: Chris Jones
+  - name: Jackson Cross
+    actor: Barry Corbin
+  - name: Gordon Fitzpatrick
+    actor: Kevin McCarthy
+  - name: Regan Madsen
+    actor: Tanya Roberts
+  - name: Thomas Malloy
+    actor: John Agar

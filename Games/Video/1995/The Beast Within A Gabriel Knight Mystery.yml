@@ -1,0 +1,24 @@
+name: "The Beast Within: A Gabriel Knight Mystery"
+description: >
+  The Beast Within: A Gabriel Knight Mystery shifts Jane Jensen's series into
+  full-motion video, alternating between Gabriel and Grace as they investigate
+  werewolf killings, Bavarian history, and Wagnerian occult threads.
+previous: Games/Video/1993/Gabriel Knight Sins of the Fathers
+released: 1995-06-30
+series: Gabriel Knight
+genres:
+  - point-and-click
+  - adventure
+  - mystery
+  - interactive movie
+igdb: https://www.igdb.com/games/the-beast-within-a-gabriel-knight-mystery
+developers: Sierra On-Line
+publishers: Sierra On-Line
+writers: Jane Jensen
+characters:
+  - name: Gabriel Knight
+    actor: Dean Erickson
+  - name: Grace Nakimura
+    actor: Joanne Takahashi
+  - name: Friedrich von Glower
+    actor: Peter J. Lucas

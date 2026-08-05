@@ -1,0 +1,26 @@
+name: "Privateer 2: The Darkening"
+description: >
+  Privateer 2: The Darkening is a space trading and combat simulator with
+  live-action story sequences, sending an amnesiac pilot through the
+  Tri-System's criminal, corporate, and political intrigue.
+released: 1996-12-13
+series: Wing Commander
+genres:
+  - space combat
+  - space trading
+  - simulation
+  - interactive movie
+igdb: https://www.igdb.com/games/privateer-2-the-darkening
+developers: EA Manchester
+publishers: Electronic Arts
+characters:
+  - name: Lev Arris
+    actor: Clive Owen
+  - name: Joe Kane
+    actor: John Hurt
+  - name: David Hassan
+    actor: Christopher Walken
+  - name: Xavier Shondi
+    actor: Jürgen Prochnow
+  - name: Rhinehart
+    actor: David Warner

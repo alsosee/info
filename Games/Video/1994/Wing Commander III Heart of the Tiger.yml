@@ -1,0 +1,23 @@
+name: "Wing Commander III: Heart of the Tiger"
+description: >
+  Wing Commander III: Heart of the Tiger is a space combat simulator built
+  around live-action FMV story scenes, putting the Terran-Kilrathi war into a
+  cinematic campaign led by a Hollywood cast.
+released: 1994-12-31
+series: Wing Commander
+genres:
+  - space combat
+  - simulation
+  - interactive movie
+igdb: https://www.igdb.com/games/wing-commander-iii-heart-of-the-tiger
+developers: Origin Systems
+publishers: Electronic Arts
+characters:
+  - name: Christopher Blair
+    actor: Mark Hamill
+  - name: Geoffrey Tolwyn
+    actor: Malcolm McDowell
+  - name: James Taggart
+    actor: John Rhys-Davies
+  - name: Todd Marshall
+    actor: Tom Wilson

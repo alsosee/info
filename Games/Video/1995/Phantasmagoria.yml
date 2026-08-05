@@ -1,0 +1,21 @@
+name: Phantasmagoria
+description: >
+  Phantasmagoria is Roberta Williams' live-action horror adventure for
+  Sierra, following a writer in a haunted mansion through FMV scenes,
+  point-and-click exploration, and supernatural puzzle sequences.
+released: 1995-08-01
+genres:
+  - point-and-click
+  - adventure
+  - horror
+  - interactive movie
+igdb: https://www.igdb.com/games/phantasmagoria
+developers: Sierra On-Line
+publishers:
+  - Sierra On-Line
+  - Activision
+characters:
+  - name: Adrienne Delaney
+    actor: Victoria Morsell
+  - name: Don Gordon
+    actor: David Homb
