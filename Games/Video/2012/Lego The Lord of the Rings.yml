@@ -1,0 +1,22 @@
+name: LEGO The Lord of the Rings
+description: >
+  LEGO The Lord of the Rings adapts Peter Jackson's film trilogy into a
+  LEGO action-adventure with cooperative play, puzzle-platforming, character
+  abilities, and an explorable Middle-earth hub.
+based_on:
+  - Movies/2001/The Lord of the Rings The Fellowship of the Ring
+  - Movies/2002/The Lord of the Rings The Two Towers
+  - Movies/2003/The Lord of the Rings The Return of the King
+released: 2012-11-13
+series: LEGO The Lord of the Rings
+genres:
+  - action-adventure
+  - puzzle
+  - platformer
+  - licensed game
+igdb: https://www.igdb.com/games/lego-the-lord-of-the-rings
+license: LEGO; The Lord of the Rings
+developers: Traveller's Tales
+publishers:
+  - WB Games
+  - Feral Interactive

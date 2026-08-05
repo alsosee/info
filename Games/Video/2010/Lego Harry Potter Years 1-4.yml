@@ -1,0 +1,23 @@
+name: "LEGO Harry Potter: Years 1-4"
+description: >
+  LEGO Harry Potter: Years 1-4 adapts the first four Harry Potter stories as
+  a cooperative LEGO action-adventure, turning Hogwarts classes, spells,
+  puzzles, and film set pieces into humorous brick-built levels.
+based_on:
+  - Movies/2001/Harry Potter and the Philosopher's Stone
+  - Movies/2002/Harry Potter and the Chamber of Secrets
+  - Movies/2004/Harry Potter and the Prisoner of Azkaban
+  - Movies/2005/Harry Potter and the Goblet of Fire
+released: 2010-06-25
+series: LEGO Harry Potter
+genres:
+  - action-adventure
+  - puzzle
+  - platformer
+  - licensed game
+igdb: https://www.igdb.com/games/lego-harry-potter-years-1-4
+license: LEGO; Harry Potter
+developers: Traveller's Tales
+publishers:
+  - WB Games
+  - Feral Interactive
