@@ -1,0 +1,19 @@
+name: "Guitar Hero: Metallica"
+description: >
+  Guitar Hero: Metallica is a band-focused rhythm game centered on Metallica's
+  catalog, live staging, and heavy metal influences within the Guitar Hero World
+  Tour band-performance framework.
+previous: Games/Video/2008/Guitar Hero Aerosmith
+released: 2009-03-29
+series: Guitar Hero
+genres:
+  - rhythm
+  - music
+  - licensed game
+igdb: https://www.igdb.com/games/guitar-hero-metallica
+license: Metallica
+developers:
+  - Neversoft Entertainment
+  - Budcat Creations
+publishers: Activision
+composers: Metallica

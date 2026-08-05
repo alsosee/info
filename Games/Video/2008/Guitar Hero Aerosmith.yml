@@ -1,0 +1,22 @@
+name: "Guitar Hero: Aerosmith"
+description: >
+  Guitar Hero: Aerosmith is a band-focused rhythm game built around Aerosmith's
+  career, combining the group's songs with related guest acts and Guitar Hero's
+  guitar-controller performance.
+previous: Games/Video/2007/Guitar Hero III Legends of Rock
+released: 2008-06-27
+series: Guitar Hero
+genres:
+  - rhythm
+  - music
+  - licensed game
+igdb: https://www.igdb.com/games/guitar-hero-aerosmith
+license: Aerosmith
+developers:
+  - Neversoft Entertainment
+  - Vicarious Visions
+  - Budcat Creations
+publishers:
+  - Activision
+  - Aspyr Media
+composers: Aerosmith

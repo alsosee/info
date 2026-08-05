@@ -1,0 +1,18 @@
+name: "Guitar Hero: Van Halen"
+description: >
+  Guitar Hero: Van Halen is a band-focused rhythm game featuring Van Halen's
+  songs alongside guest tracks, using Guitar Hero's full-band instrument setup.
+previous: Games/Video/2009/Guitar Hero Metallica
+released: 2009-12-22
+series: Guitar Hero
+genres:
+  - rhythm
+  - music
+  - licensed game
+igdb: https://www.igdb.com/games/guitar-hero-van-halen
+license: Van Halen
+developers:
+  - Underground Development
+  - Neversoft Entertainment
+publishers: Activision
+composers: Van Halen

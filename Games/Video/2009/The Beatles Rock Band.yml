@@ -1,0 +1,24 @@
+name: "The Beatles: Rock Band"
+description: >
+  The Beatles: Rock Band is a band-focused rhythm game built around the music,
+  visual history, and studio evolution of the Beatles, using Rock Band's
+  instrument and vocal harmony systems.
+based_on:
+  - Bands/The Beatles
+released: 2009-09-09
+series: Rock Band
+genres:
+  - rhythm
+  - music
+  - licensed game
+igdb: https://www.igdb.com/games/the-beatles-rock-band
+license: The Beatles
+developers:
+  - Harmonix Music Systems
+  - Pi Studios
+publishers:
+  - MTV Games
+  - Electronic Arts
+directors: Chris Foster
+designers: Dan Teasdale
+composers: The Beatles
