@@ -1,0 +1,20 @@
+name: "The Lord of the Rings: Conquest"
+description: >
+  The Lord of the Rings: Conquest is a class-based action game that turns
+  large battles from the film trilogy into playable infantry, archer, mage,
+  scout, and hero scenarios across good and evil campaigns.
+based_on:
+  - Movies/2001/The Lord of the Rings The Fellowship of the Ring
+  - Movies/2002/The Lord of the Rings The Two Towers
+  - Movies/2003/The Lord of the Rings The Return of the King
+released: 2009-01-09
+series: The Lord of the Rings
+genres:
+  - action
+  - hack and slash
+  - fantasy
+  - licensed game
+igdb: https://www.igdb.com/games/the-lord-of-the-rings-conquest
+authors: J. R. R. Tolkien
+developers: Pandemic Studios
+publishers: Electronic Arts

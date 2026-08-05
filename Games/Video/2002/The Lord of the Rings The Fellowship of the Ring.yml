@@ -1,0 +1,22 @@
+name: "The Lord of the Rings: The Fellowship of the Ring"
+description: >
+  The Lord of the Rings: The Fellowship of the Ring is an action-adventure
+  adaptation of Tolkien's first Lord of the Rings novel, following Frodo,
+  Aragorn, and Gandalf through story chapters built around exploration,
+  combat, and puzzle solving.
+based_on:
+  - Books/1954/The Fellowship of the Ring
+released: 2002-09-26
+series: The Lord of the Rings
+genres:
+  - action-adventure
+  - fantasy
+  - licensed game
+igdb: https://www.igdb.com/games/the-lord-of-the-rings-the-fellowship-of-the-ring
+authors: J. R. R. Tolkien
+developers:
+  - Surreal Software
+  - The Whole Experience
+publishers:
+  - Black Label Games
+  - Universal Interactive Studios

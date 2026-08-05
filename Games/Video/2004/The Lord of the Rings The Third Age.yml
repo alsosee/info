@@ -1,0 +1,20 @@
+name: "The Lord of the Rings: The Third Age"
+description: >
+  The Lord of the Rings: The Third Age is a turn-based role-playing game set
+  alongside the film trilogy's journey through Middle-earth, with an original
+  party crossing major locations from the War of the Ring.
+based_on:
+  - Movies/2001/The Lord of the Rings The Fellowship of the Ring
+  - Movies/2002/The Lord of the Rings The Two Towers
+  - Movies/2003/The Lord of the Rings The Return of the King
+released: 2004-11-02
+series: The Lord of the Rings
+genres:
+  - role-playing
+  - turn-based tactics
+  - fantasy
+  - licensed game
+igdb: https://www.igdb.com/games/the-lord-of-the-rings-the-third-age
+authors: J. R. R. Tolkien
+developers: EA Redwood Shores
+publishers: Electronic Arts

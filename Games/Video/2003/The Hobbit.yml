@@ -1,0 +1,20 @@
+name: The Hobbit
+description: >
+  The Hobbit is an action-adventure platform game based on Tolkien's novel,
+  following Bilbo Baggins through puzzle-driven levels, combat encounters,
+  and treasure hunting across Middle-earth.
+based_on:
+  - Books/1937/The Hobbit
+released: 2003-11-11
+series: Middle-earth
+genres:
+  - platform
+  - adventure
+  - fantasy
+  - licensed game
+igdb: https://www.igdb.com/games/the-hobbit
+authors: J. R. R. Tolkien
+developers: Inevitable Entertainment
+publishers:
+  - Vivendi Universal Games
+  - Sierra Entertainment
