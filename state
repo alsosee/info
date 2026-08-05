@@ -131,6 +131,7 @@ Companies/AMC.yml	a80cdb9c
 Companies/APJAC Productions.yml	5fd7c0ab
 Companies/AWE Games.yml	7d0fe879
 Companies/AWE Productions.yml	195173bf
+Companies/Access Software.yml	24fce00c
 Companies/Acclaim Entertainment.yml	b33d6ce2
 Companies/Activision.yml	e6efb635
 Companies/Ad Vitam Distribution.yml	29261276
@@ -729,6 +730,7 @@ Companies/Neo Art & Logic.yml	b30996a4
 Companies/Neon.yml	d295dec7
 Companies/Netflix.yml	3c4489ac
 Companies/NetherRealm Studios.yml	e739eb54
+Companies/Neversoft Entertainment.yml	1c99b95f
 Companies/Neversoft.yml	ea3e10
 Companies/New Line Cinema.yml	8414c468
 Companies/New Regency.yml	6fb6ca13
@@ -955,6 +957,7 @@ Companies/Sky 1.yml	135214b1
 Companies/Sky Atlantic.yml	e3ad2ba1
 Companies/Skydance Media.yml	7fd05a44
 Companies/Skydance Productions.yml	cdf98d5d
+Companies/Sledgehammer Games.yml	b53c812f
 Companies/Slightly Mad Studios.yml	7acd0b94
 Companies/Smart Egg Pictures.yml	4fe5b166
 Companies/Smilebit.yml	1ca4695
@@ -1479,6 +1482,7 @@ Games/Video/1994/Theme Park.yml	dcd0fb14
 Games/Video/1994/Virtua Fighter 2.yml	da751673
 Games/Video/1994/Warcraft Orcs & Humans.yml	e2783ff1
 Games/Video/1994/Wario Land Super Mario Land 3.yml	c33764a1
+Games/Video/1994/Wing Commander III Heart of the Tiger.yml	7f7ced8f
 Games/Video/1994/X-COM UFO Defense.yml	898fc33f
 Games/Video/1995/3D Pinball for Windows - Space Cadet.yml	21d924af
 Games/Video/1995/Addams Family Values.yml	7e4a7f3a
@@ -1491,10 +1495,12 @@ Games/Video/1995/Donkey Kong Country 2 Diddys Kong Quest.yml	92a2e1c0
 Games/Video/1995/Full Throttle.yml	b2597d4f
 Games/Video/1995/I Have No Mouth, and I Must Scream.yml	de7b4f42
 Games/Video/1995/MechWarrior 2 31st Century Combat.yml	8a2391f2
+Games/Video/1995/Phantasmagoria.yml	f5fa1aa0
 Games/Video/1995/Ristar.yml	f63d24
 Games/Video/1995/Star Wars Dark Forces.yml	e33dbcfa
 Games/Video/1995/Super Mario World 2 Yoshis Island.yml	f5b554ef
 Games/Video/1995/Tekken 2.yml	c3b25e1a
+Games/Video/1995/The Beast Within A Gabriel Knight Mystery.yml	cbd19373
 Games/Video/1995/Vectorman.yml	af53c152
 Games/Video/1995/Warcraft II Tides of Darkness.yml	a1a423e9
 Games/Video/1995/Worms.yml	fc77499d
@@ -1513,10 +1519,13 @@ Games/Video/1996/PaRappa the Rapper.yml	5f09f386
 Games/Video/1996/Panzer Dragoon II Zwei.yml	18764120
 Games/Video/1996/Pilotwings 64.yml	71295e81
 Games/Video/1996/Pokémon Red and Blue.yml	5180abe4
+Games/Video/1996/Privateer 2 The Darkening.yml	956d9812
 Games/Video/1996/Quake.yml	9c8f77ab
 Games/Video/1996/Resident Evil.yml	c7d40171
+Games/Video/1996/Ripper.yml	62da287a
 Games/Video/1996/Sid Meier's Civilization II.yml	b955717b
 Games/Video/1996/Super Mario 64.yml	b036243b
+Games/Video/1996/Tex Murphy The Pandora Directive.yml	8f447af
 Games/Video/1996/The Elder Scrolls II Daggerfall.yml	b46666fc
 Games/Video/1996/The House of the Dead.yml	aebdef8e
 Games/Video/1996/The Logical Journey of the Zoombinis.yml	5415497c
@@ -1524,6 +1533,7 @@ Games/Video/1996/The Settlers II Veni, Vidi, Vici.yml	a20de173
 Games/Video/1996/Tomb Raider.yml	b494f98c
 Games/Video/1996/Warcraft II Beyond the Dark Portal.yml	22a749c9
 Games/Video/1996/Wave Race 64.yml	272e27f3
+Games/Video/1996/Wing Commander IV The Price of Freedom.yml	a44b88b8
 Games/Video/1996/Worms Reinforcements.yml	17eb0a04
 Games/Video/1997/Age of Empires.yml	fb313a2d
 Games/Video/1997/An Elder Scrolls Legend Battlespire.yml	a7885559
@@ -1600,6 +1610,7 @@ Games/Video/1998/StarCraft Retribution.yml	9695029c
 Games/Video/1998/StarCraft.yml	da02d9ef
 Games/Video/1998/Starsiege Tribes.yml	b6847a80
 Games/Video/1998/Suikoden II.yml	64f5e04c
+Games/Video/1998/Tex Murphy Overseer.yml	a1f48409
 Games/Video/1998/The Elder Scrolls Adventures Redguard.yml	a2183b2f
 Games/Video/1998/The House of the Dead 2.yml	f41af157
 Games/Video/1998/The Legend of Zelda Ocarina of Time.yml	4ad67563
@@ -2199,6 +2210,7 @@ Games/Video/2011/Assassin's Creed Recollection.yml	4da6fe19
 Games/Video/2011/Assassin's Creed Revelations.yml	7a3fe58e
 Games/Video/2011/Batman Arkham City.yml	da94a231
 Games/Video/2011/Battlefield 3.yml	b52acc37
+Games/Video/2011/Call of Duty Modern Warfare 3.yml	34f8afca
 Games/Video/2011/Danmaku Unlimited.yml	41573ddb
 Games/Video/2011/Dark Souls.yml	a6b50766
 Games/Video/2011/Dead Space 2.yml	91b62a4d
@@ -2292,6 +2304,7 @@ Games/Video/2013/Assassin's Creed IV Black Flag.yml	6c7c990d
 Games/Video/2013/Assassin's Creed Pirates.yml	cfe58099
 Games/Video/2013/Beyond Two Souls.yml	f31898d5
 Games/Video/2013/BioShock Infinite.yml	9cf0eb37
+Games/Video/2013/Call of Duty Ghosts.yml	d2ee8c49
 Games/Video/2013/Call of Juarez Gunslinger.yml	fe5f3bf0
 Games/Video/2013/Cookie Clicker.yml	dd0c635d
 Games/Video/2013/Counter-Strike Online 2.yml	e7babbbb
@@ -2842,6 +2855,7 @@ Games/Video/Series/Battlefield.yml	e1ee0abf
 Games/Video/Series/Bayonetta.yml	a1b75158
 Games/Video/Series/Boneworks.yml	cdc13f9f
 Games/Video/Series/Burnout.yml	e519a356
+Games/Video/Series/Call of Duty.yml	5da69bbd
 Games/Video/Series/Clash.yml	e38b6cf3
 Games/Video/Series/Command & Conquer.yml	a9353ace
 Games/Video/Series/Counter-Strike.yml	afe239c1
@@ -2863,6 +2877,7 @@ Games/Video/Series/Final Fantasy.yml	ac7d90ca
 Games/Video/Series/Fire Emblem.yml	5d7adbc
 Games/Video/Series/Forza.yml	adccd450
 Games/Video/Series/Friday the 13th.yml	f7896a81
+Games/Video/Series/Gabriel Knight.yml	69be8e62
 Games/Video/Series/Ghosts 'n Goblins.yml	69c58ecf
 Games/Video/Series/God of War.yml	5d7dac1c
 Games/Video/Series/Gothic.yml	289a3e5d
@@ -2917,6 +2932,7 @@ Games/Video/Series/Streets of Rage.yml	a9885ffd
 Games/Video/Series/Syberia.yml	b3174812
 Games/Video/Series/Teenage Mutant Ninja Turtles.yml	2ef1e00
 Games/Video/Series/Tekken.yml	e7b62521
+Games/Video/Series/Tex Murphy.yml	3b55b701
 Games/Video/Series/The Addams Family.yml	3b0b1d08
 Games/Video/Series/The Dark Pictures Anthology.yml	5ba8e61b
 Games/Video/Series/The Elder Scrolls.yml	b040bfd1
@@ -2936,6 +2952,7 @@ Games/Video/Series/Warcraft.yml	93c1dceb
 Games/Video/Series/Wario Land.yml	3f4c4493
 Games/Video/Series/WarioWare.yml	647557d1
 Games/Video/Series/Watch Dogs.yml	e5d4c429
+Games/Video/Series/Wing Commander.yml	d06efa61
 Games/Video/Series/Worms.yml	f75671cb
 Movies/1895/Train Arrival.yml	3d8af402
 Movies/1903/Train Bulgary.yml	7b4b6d5c
@@ -5090,6 +5107,7 @@ People/A. J. Cook.yml	6a24bfd9
 People/A.J. Dix.yml	dd4dfa62
 People/Aaron Ashmore.yml	a422659
 People/Aaron Cammarata.yml	23d8d285
+People/Aaron Conners.yml	426383f0
 People/Aaron Dem.yml	101c310
 People/Aaron Eckhart.yml	435ecb12
 People/Aaron Ehasz.yml	4f5adcef
@@ -6111,6 +6129,7 @@ People/Chris Evans.yml	c3c7bcad
 People/Chris G. Willingham.yml	176b14ad
 People/Chris Hanley.yml	4f3a1f16
 People/Chris Hemsworth.yml	3c026b19
+People/Chris Jones.yml	b088e5ac
 People/Chris Lebenzon.yml	51507e06
 People/Chris Long.yml	f8501663
 People/Chris Lowell.yml	23c09798
@@ -8472,6 +8491,7 @@ People/Kane Hodder.yml	a6d6beb4
 People/Kara Hayward.yml	b8615308
 People/Karan Soni.yml	714bfede
 People/Karel Roden.yml	a4457b02
+People/Karen Allen.yml	73586a86
 People/Karen Disher.yml	5813300b
 People/Karen Fukuhara.yml	65c09f8e
 People/Karen Gaviola.yml	802690b2
@@ -8645,6 +8665,7 @@ People/Kevin King-Templeton.yml	d8438e7
 People/Kevin Larsen.yml	b91d7954
 People/Kevin Long.yml	d486c722
 People/Kevin Manthei.yml	76f47e35
+People/Kevin McCarthy.yml	19484d42
 People/Kevin Michael Richardson.yml	cbbe031a
 People/Kevin Nolting.yml	81c6cd67
 People/Kevin Peter Hall.yml	c58d2aa3
@@ -10014,6 +10035,7 @@ People/Peter Gvozdas.yml	d5519e29
 People/Peter Hoar.yml	1980db5a
 People/Peter Honess.yml	74732256
 People/Peter Horton.yml	21e4056e
+People/Peter J. Lucas.yml	a09a896f
 People/Peter Jackson.yml	fe0a5d49
 People/Peter Jessop.yml	52f5a7b2
 People/Peter Lambert.yml	e89d56da
@@ -11012,6 +11034,7 @@ People/Tang Wei.yml	398b6765
 People/Tangerine Dream.yml	7f187bbe
 People/Tania Raymonde.yml	dee4fd7d
 People/Tanya Moodie.yml	65f2b0ef
+People/Tanya Roberts.yml	576f65d7
 People/Tanya Seghatchian.yml	693fd33e
 People/Taofik Kolade.yml	a26a3ce2
 People/Tara Butters.yml	4cfb0070
@@ -11242,6 +11265,7 @@ People/Tom Waldman.yml	49fbb29e
 People/Tom Welling.yml	5148bc35
 People/Tom Wheeler.yml	85d04022
 People/Tom Wilkinson.yml	1e09ebf0
+People/Tom Wilson.yml	8322d9a9
 People/Tom Wu.yml	90f25357
 People/Tomandandy.yml	754cac09
 People/Tomas Alfredson.yml	5b943a47
