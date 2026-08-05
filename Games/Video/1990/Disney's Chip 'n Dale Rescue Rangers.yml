@@ -1,0 +1,18 @@
+name: "Disney's Chip 'n Dale Rescue Rangers"
+description: >
+  Disney's Chip 'n Dale Rescue Rangers is a cooperative Capcom platformer for
+  the NES, turning the animated detective series into box-throwing stages for
+  Chip and Dale.
+based_on:
+  - Shows/1989/Chip 'n Dale Rescue Rangers
+released: 1990-06-08
+series: Chip 'n Dale Rescue Rangers
+genres:
+  - platformer
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/disneys-chip-n-dale-rescue-rangers--1
+developers: Capcom
+publishers:
+  - Capcom
+  - Playtronic

@@ -1,0 +1,16 @@
+name: "Toy Story 3: The Video Game"
+description: >
+  Toy Story 3: The Video Game adapts the Pixar film with story levels and an
+  open-ended Toy Box mode, letting players build, customize, and play around
+  a western toy-town sandbox.
+based_on:
+  - Movies/2010/Toy Story 3
+released: 2010-06-15
+series: Toy Story
+genres:
+  - platformer
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/toy-story-3-the-video-game
+developers: Avalanche Software
+publishers: Disney Interactive Studios

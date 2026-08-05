@@ -1,0 +1,16 @@
+name: "Disney's DuckTales"
+description: >
+  Disney's DuckTales is Capcom's NES platformer based on the animated series,
+  sending Scrooge McDuck across treasure-hunting stages built around his
+  signature pogo-cane movement.
+released: 1989-09-14
+series: DuckTales
+genres:
+  - platformer
+  - licensed game
+igdb: https://www.igdb.com/games/disneys-ducktales--2
+license: DuckTales
+developers: Capcom
+publishers:
+  - Capcom
+  - Walt Disney Computer Software

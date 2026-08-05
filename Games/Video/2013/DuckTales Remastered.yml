@@ -1,0 +1,18 @@
+name: "DuckTales: Remastered"
+description: >
+  DuckTales: Remastered rebuilds Capcom's NES platformer with hand-drawn
+  animation, new voice work, expanded story scenes, and updated versions of
+  Scrooge McDuck's treasure-hunting stages.
+remake_of: Games/Video/1989/Disney's DuckTales
+released: 2013-08-13
+series: DuckTales
+genres:
+  - platformer
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/ducktales-remastered
+license: DuckTales
+developers: WayForward Technologies
+publishers:
+  - Capcom
+  - Disney Interactive
