@@ -1,0 +1,18 @@
+name: "Sid Meier's Pirates!"
+description: >
+  Sid Meier's Pirates! is an open-ended pirate adventure that blends sailing,
+  trading, sword fighting, naval combat, and role-playing into a systemic
+  career across the Spanish Main.
+released: 1987-05-08
+series: Pirates!
+genres:
+  - strategy
+  - simulation
+  - adventure
+  - role-playing
+igdb: https://www.igdb.com/games/sid-meiers-pirates
+developers: MicroProse
+publishers:
+  - MicroProse
+  - Ultra Games
+designers: Sid Meier

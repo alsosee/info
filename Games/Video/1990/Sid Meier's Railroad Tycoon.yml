@@ -1,0 +1,17 @@
+name: "Sid Meier's Railroad Tycoon"
+description: >
+  Sid Meier's Railroad Tycoon is a business simulation and strategy game
+  about building routes, buying trains, connecting cities, hauling cargo, and
+  competing against rival railroad barons.
+released: 1990-01-01
+series: Railroad Tycoon
+genres:
+  - business simulation
+  - strategy
+  - management
+igdb: https://www.igdb.com/games/sid-meier-s-railroad-tycoon
+developers: MPS Labs
+publishers: MicroProse
+designers:
+  - Sid Meier
+  - Bruce Shelley
