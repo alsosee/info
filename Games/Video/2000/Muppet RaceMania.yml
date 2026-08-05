@@ -1,0 +1,22 @@
+name: Muppet RaceMania
+description: >
+  Muppet RaceMania is a kart racing game built around Muppet characters,
+  vehicles, and film-inspired tracks, with arcade racing, collectibles, and
+  multiplayer modes.
+based_on:
+  - Shows/1976/The Muppet Show
+released: 2000-10-03
+series: The Muppets
+genres:
+  - racing
+  - kart racing
+  - licensed game
+igdb: https://www.igdb.com/games/muppet-racemania
+license: The Muppets
+developers:
+  - Traveller's Tales
+  - Jim Henson Interactive
+publishers:
+  - Sony Computer Entertainment Europe
+  - Midway Games
+composers: Andy Blythe and Marten Joustra

@@ -1,0 +1,21 @@
+name: "Labyrinth: The Computer Game"
+description: >
+  Labyrinth: The Computer Game is a Lucasfilm Games adventure based on Jim
+  Henson's fantasy film, combining an early graphical interface with dialogue,
+  puzzle solving, and a race against time inside the labyrinth.
+released: 1986-12-31
+series: Labyrinth
+genres:
+  - adventure
+  - puzzle
+  - licensed game
+igdb: https://www.igdb.com/games/labyrinth-the-computer-game
+license: Labyrinth
+developers: Lucasfilm Games
+publishers:
+  - Activision
+  - Pack-In-Video
+designers:
+  - David Fox
+  - Douglas Adams
+  - Christopher Cerf

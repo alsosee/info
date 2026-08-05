@@ -1,0 +1,20 @@
+name: Animaniacs
+description: >
+  Animaniacs is Konami's Super NES platformer based on the animated series,
+  following Yakko, Wakko, and Dot through studio-lot stages full of slapstick
+  hazards, collectibles, and character-specific moves.
+based_on:
+  - Shows/1993/Animaniacs
+released: 1994-11-01
+series: Animaniacs
+genres:
+  - platformer
+  - action
+  - licensed game
+igdb: https://www.igdb.com/games/animaniacs
+license: Animaniacs
+developers: Konami
+publishers:
+  - Konami
+  - Playtronic
+composers: Harumi Ueko

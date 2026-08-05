@@ -1,0 +1,22 @@
+name: Muppet Monster Adventure
+description: >
+  Muppet Monster Adventure is a 3D platformer starring Robin the Frog in a
+  monster-themed Muppet story, mixing character transformations, collectibles,
+  and spooky parody worlds.
+based_on:
+  - Shows/1976/The Muppet Show
+released: 2000-10-20
+series: The Muppets
+genres:
+  - platformer
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/muppet-monster-adventure
+license: The Muppets
+developers:
+  - Magenta Software
+  - Jim Henson Interactive
+publishers:
+  - Sony Computer Entertainment Europe
+  - Midway Games
+composers: Michael Giacchino
