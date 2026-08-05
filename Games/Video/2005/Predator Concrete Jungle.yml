@@ -1,0 +1,19 @@
+name: "Predator: Concrete Jungle"
+description: >
+  Predator: Concrete Jungle is a third-person action game that casts players as
+  a Yautja hunter using stealth, melee weapons, and alien technology across a
+  crime-ridden future city.
+based_on:
+  - Movies/Series/Predator
+released: 2005-04-15
+series: Predator
+genres:
+  - action
+  - stealth
+  - licensed game
+igdb: https://www.igdb.com/games/predator-concrete-jungle
+license: Predator
+developers: Eurocom Entertainment Software
+publishers:
+  - Vivendi Universal Games
+  - Sierra Entertainment

@@ -1,0 +1,16 @@
+name: Who Framed Roger Rabbit
+description: >
+  Who Framed Roger Rabbit is a licensed adventure game based on the film,
+  mixing top-down exploration, clue gathering, and cartoon hazards across Los
+  Angeles and Toontown.
+based_on:
+  - Movies/1988/Who Framed Roger Rabbit
+released: 1989-09-01
+series: Who Framed Roger Rabbit
+genres:
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/who-framed-roger-rabbit
+license: Who Framed Roger Rabbit
+developers: Rare
+publishers: LJN Toys

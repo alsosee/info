@@ -1,0 +1,22 @@
+name: "Indiana Jones and the Emperor's Tomb"
+description: >
+  Indiana Jones and the Emperor's Tomb is a third-person action-adventure game
+  that follows Indy across globe-trotting ruins, brawler combat, traps, and
+  artifact hunts before the events of The Temple of Doom.
+based_on:
+  - Movies/Series/Indiana Jones
+released: 2003-02-24
+series: Indiana Jones
+genres:
+  - action-adventure
+  - licensed game
+igdb: https://www.igdb.com/games/indiana-jones-and-the-emperor-s-tomb
+license: Indiana Jones
+developers:
+  - The Collective
+  - TransGaming
+publishers:
+  - LucasArts
+  - Aspyr Media
+directors: David Bogan
+composers: Clint Bajakian

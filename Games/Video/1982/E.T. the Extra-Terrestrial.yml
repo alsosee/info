@@ -1,0 +1,17 @@
+name: E.T. the Extra-Terrestrial
+description: >
+  E.T. the Extra-Terrestrial is Atari's film tie-in for the Atari 2600, a
+  historically notorious adventure game about collecting phone pieces while
+  avoiding agents and scientists.
+based_on:
+  - Movies/1982/E.T. the Extra-Terrestrial
+released: 1982-12-01
+series: E.T. the Extra-Terrestrial
+genres:
+  - adventure
+  - licensed game
+igdb: https://www.igdb.com/games/e-t-the-extra-terrestrial
+license: E.T. the Extra-Terrestrial
+developers: Atari
+publishers: Atari
+designers: Howard Scott Warshaw

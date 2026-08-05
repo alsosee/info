@@ -1,0 +1,17 @@
+name: Jaws Unleashed
+description: >
+  Jaws Unleashed is an open-world action game that lets players control the
+  shark across Amity Island waters, attacking boats, wildlife, and objectives
+  in a loose continuation of the film franchise.
+based_on:
+  - Movies/1975/Jaws
+released: 2006-05-23
+series: Jaws
+genres:
+  - action
+  - open world
+  - licensed game
+igdb: https://www.igdb.com/games/jaws-unleashed
+license: Jaws
+developers: Appaloosa Interactive
+publishers: Majesco Entertainment

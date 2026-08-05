@@ -1,0 +1,22 @@
+name: "Back to the Future: The Game"
+description: >
+  Back to the Future: The Game is Telltale's episodic adventure sequel to the
+  film trilogy, using dialogue choices and environmental puzzles in a new
+  time-travel story with Marty McFly and Doc Brown.
+based_on:
+  - Movies/Series/Back to the Future
+released: 2010-12-22
+series: Back to the Future
+genres:
+  - adventure
+  - episodic
+  - licensed game
+igdb: https://www.igdb.com/games/back-to-the-future-the-game
+license: Back to the Future
+developers: Telltale Games
+publishers: Telltale Games
+designers: Dave Grossman
+writers:
+  - Michael Stemmle
+  - Andy Hartzell
+composers: Jared Emerson-Johnson

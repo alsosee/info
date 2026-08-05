@@ -1,0 +1,27 @@
+name: Indiana Jones and the Fate of Atlantis
+description: >
+  Indiana Jones and the Fate of Atlantis is a LucasArts point-and-click
+  adventure that sends Indy and Sophia Hapgood searching for the lost city of
+  Atlantis through dialogue puzzles, branching paths, and pulp archaeology.
+based_on:
+  - Movies/Series/Indiana Jones
+released: 1992-06-01
+series: Indiana Jones
+genres:
+  - adventure
+  - point-and-click
+  - licensed game
+igdb: https://www.igdb.com/games/indiana-jones-and-the-fate-of-atlantis--1
+license: Indiana Jones
+developers: LucasArts
+publishers:
+  - LucasArts
+  - U.S. Gold
+  - Disney Interactive
+designers:
+  - Hal Barwood
+  - Noah Falstein
+composers:
+  - Clint Bajakian
+  - Peter McConnell
+  - Michael Land
