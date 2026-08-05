@@ -137,6 +137,7 @@ Companies/Activision.yml	e6efb635
 Companies/Ad Vitam Distribution.yml	29261276
 Companies/Ad Vitam Production.yml	d605c122
 Companies/AdHoc Studio.yml	3fdef506
+Companies/Adult Swim Games.yml	783b057c
 Companies/Adult Swim.yml	2a7ae50d
 Companies/Aggregate Films.yml	a0c3cd5a
 Companies/Akashic Media Enterprises.yml	37b805cb
@@ -1494,6 +1495,7 @@ Games/Video/1995/Discworld.yml	b28ccb0a
 Games/Video/1995/Donkey Kong Country 2 Diddys Kong Quest.yml	92a2e1c0
 Games/Video/1995/Full Throttle.yml	b2597d4f
 Games/Video/1995/I Have No Mouth, and I Must Scream.yml	de7b4f42
+Games/Video/1995/MTV's Beavis and Butt-Head in Virtual Stupidity.yml	ac4e6f8
 Games/Video/1995/MechWarrior 2 31st Century Combat.yml	8a2391f2
 Games/Video/1995/Phantasmagoria.yml	f5fa1aa0
 Games/Video/1995/Ristar.yml	f63d24
@@ -1833,6 +1835,7 @@ Games/Video/2003/EVE Online.yml	449f946e
 Games/Video/2003/Enter the Matrix.yml	2da1ff9
 Games/Video/2003/Fatal Frame II Crimson Butterfly.yml	93d4c538
 Games/Video/2003/Finding Nemo.yml	128d0027
+Games/Video/2003/Futurama.yml	dd2c089a
 Games/Video/2003/Harry Potter Quidditch World Cup.yml	5f63c6df
 Games/Video/2003/Jurassic Park Institute Tour Dinosaur Rescue.yml	d50e95b2
 Games/Video/2003/Jurassic Park Operation Genesis.yml	3dc48e78
@@ -1976,6 +1979,7 @@ Games/Video/2005/Worms 4 Mayhem.yml	4b7446c4
 Games/Video/2006/24 The Game.yml	ef5d93b4
 Games/Video/2006/Agatha Christie Murder on the Orient Express.yml	8d2fc445
 Games/Video/2006/Aliens Extermination.yml	810c137c
+Games/Video/2006/Avatar The Last Airbender.yml	2fa7be04
 Games/Video/2006/Cars.yml	2d012ed4
 Games/Video/2006/Company of Heroes.yml	21dd32ab
 Games/Video/2006/Cooking Mama.yml	7dd086d
@@ -1983,6 +1987,7 @@ Games/Video/2006/DEFCON.yml	292b6a35
 Games/Video/2006/Desperados 2 Coopers Revenge.yml	f1a9fc2f
 Games/Video/2006/Dwarf Fortress.yml	d7df487f
 Games/Video/2006/Elite Beat Agents.yml	234611fb
+Games/Video/2006/Family Guy Video Game!.yml	e7ed2501
 Games/Video/2006/Final Fantasy XII.yml	732105ac
 Games/Video/2006/Gears of War.yml	e7d079bb
 Games/Video/2006/God Hand.yml	4ee1a284
@@ -2061,6 +2066,7 @@ Games/Video/2007/Supreme Commander.yml	1b781740
 Games/Video/2007/Team Fortress 2.yml	1fa999ee
 Games/Video/2007/The Legend of Zelda Phantom Hourglass.yml	7af32105
 Games/Video/2007/The Lord of the Rings Online.yml	badfdd5b
+Games/Video/2007/The Simpsons Game.yml	c39d44b
 Games/Video/2007/The Witcher.yml	79da20a0
 Games/Video/2007/Tomb Raider Anniversary.yml	df7dda60
 Games/Video/2007/World of Warcraft The Burning Crusade.yml	aa590d4e
@@ -2243,6 +2249,7 @@ Games/Video/2011/Tom Clancy's Splinter Cell 3D.yml	fdc259e4
 Games/Video/2011/Tom Clancy's Splinter Cell Classic Trilogy HD.yml	753ed41c
 Games/Video/2011/Worms Crazy Golf.yml	e963f2c4
 Games/Video/2011/Worms Ultimate Mayhem.yml	b3d660f8
+Games/Video/2012/Adventure Time Hey Ice King! Why'd You Steal Our Garbage?!.yml	18a33cab
 Games/Video/2012/Assassin's Creed III Liberation.yml	17d2672b
 Games/Video/2012/Assassin's Creed III.yml	a0254ca4
 Games/Video/2012/Asuras Wrath.yml	528483e0
@@ -2379,11 +2386,13 @@ Games/Video/2014/Middle-earth Shadow of Mordor.yml	edf105e5
 Games/Video/2014/Monument Valley.yml	28e57cbd
 Games/Video/2014/Penguins of Madagascar.yml	f438421f
 Games/Video/2014/Sherlock Holmes Crimes & Punishments.yml	49cd7698
+Games/Video/2014/South Park The Stick of Truth.yml	dc0c2ce
 Games/Video/2014/Sunset Overdrive.yml	ad86c1b5
 Games/Video/2014/The Binding of Isaac Rebirth.yml	edffeee9
 Games/Video/2014/The Elder Scrolls Online.yml	aa42c2d5
 Games/Video/2014/The Evil Within.yml	312adf3e
 Games/Video/2014/The Last of Us Left Behind.yml	718fd7cb
+Games/Video/2014/The Legend of Korra.yml	1015beb8
 Games/Video/2014/The Sims 4.yml	356c03d
 Games/Video/2014/The Talos Principle.yml	bcc6cd98
 Games/Video/2014/The Vanishing of Ethan Carter.yml	574f2243
@@ -2521,8 +2530,10 @@ Games/Video/2017/Opus Magnum.yml	2e1c9855
 Games/Video/2017/PUBG Battlegrounds.yml	104c7e89
 Games/Video/2017/Paranormal Activity The Lost Soul.yml	4cd5a4ec
 Games/Video/2017/Resident Evil 7 Biohazard.yml	48bc465e
+Games/Video/2017/Rick and Morty Virtual Rick-ality.yml	cd1a344b
 Games/Video/2017/Robo Recall.yml	be642236
 Games/Video/2017/Sonic Mania.yml	2d8c27ec
+Games/Video/2017/South Park The Fractured but Whole.yml	f21bc173
 Games/Video/2017/Space Pirate Trainer.yml	481e405
 Games/Video/2017/StarCraft Remastered.yml	b6c68e4c
 Games/Video/2017/SteamWorld Dig 2.yml	35df66ff
@@ -2660,6 +2671,7 @@ Games/Video/2020/Phasmophobia.yml	965b709f
 Games/Video/2020/Predator Hunting Grounds.yml	faf41729
 Games/Video/2020/Prince of Persia The Dagger of Time.yml	e7cae0e1
 Games/Video/2020/Resident Evil 3.yml	82b6cb3e
+Games/Video/2020/Samurai Jack Battle Through Time.yml	9066b98d
 Games/Video/2020/SnowRunner.yml	b7d97d54
 Games/Video/2020/Spiritfarer.yml	8c012d0e
 Games/Video/2020/SpongeBob SquarePants Battle for Bikini Bottom - Rehydrated.yml	6d55ca1c
@@ -2924,6 +2936,7 @@ Games/Video/Series/Rock Band.yml	e94092bd
 Games/Video/Series/S.T.A.L.K.E.R..yml	9ed9aae0
 Games/Video/Series/Sherlock Holmes.yml	73423467
 Games/Video/Series/Sonic the Hedgehog.yml	f6214b63
+Games/Video/Series/South Park.yml	a16d4f26
 Games/Video/Series/SpongeBob SquarePants.yml	c9a47af8
 Games/Video/Series/Star Fox.yml	fee78e8e
 Games/Video/Series/StarCraft.yml	5534126d
