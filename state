@@ -215,6 +215,7 @@ Companies/Basic Pictures.yml	ceede11e
 Companies/Bay Films.yml	a3715b9e
 Companies/Bazmark Productions.yml	7aa804ea
 Companies/Beenox.yml	62e05afa
+Companies/Beethoven & Dinosaur.yml	3266f45
 Companies/Behaviour Interactive.yml	e2b32341
 Companies/BenderSpink.yml	30def75b
 Companies/Bethesda Game Studios.yml	8f79ff82
@@ -256,6 +257,7 @@ Companies/Bravo.yml	33333d8d
 Companies/Broderbund.yml	49a6bd0d
 Companies/Bron Creative.yml	b3537f65
 Companies/Brownstone Productions.yml	184af0f1
+Companies/Budcat Creations.yml	596fc676
 Companies/Buena Vista International.yml	ec6c9b0a
 Companies/Buena Vista Pictures Distribution.yml	b7e87376
 Companies/Buena Vista Pictures.yml	955e1fc4
@@ -463,6 +465,7 @@ Companies/France 2 Cinéma.yml	d0fc753
 Companies/France 2.yml	a560baa3
 Companies/France 3 Cinéma.yml	26143018
 Companies/Free League Publishing.yml	6451b2d5
+Companies/FreeStyleGames.yml	9fb9e44
 Companies/Freeform.yml	4313cd17
 Companies/Frenesy Film Company.yml	691981dc
 Companies/Frictional Games.yml	2a461a84
@@ -517,6 +520,7 @@ Companies/HBO.yml	dcb9d2a
 Companies/Half Mermaid.yml	a80fdd7f
 Companies/Halfbrick Studios.yml	798e86a
 Companies/HanWay Films.yml	cf6474f1
+Companies/Harmonix Music Systems.yml	4ca7f13d
 Companies/Harmonix.yml	f3f9a0b6
 Companies/Harvey Bernhard Productions.yml	a16167e5
 Companies/Hasbro Interactive.yml	a5d5842d
@@ -823,6 +827,7 @@ Companies/Perfect World Pictures.yml	85797608
 Companies/Permut Presentations.yml	b6b72a7
 Companies/Phantom Four Films.yml	8c7afecf
 Companies/Phoenix Pictures.yml	b67892f4
+Companies/Pi Studios.yml	5d21c23
 Companies/Pierrot.yml	57f76846
 Companies/Piki Films.yml	f05010f3
 Companies/Piller Segan Shepherd.yml	11ffb78a
@@ -1132,6 +1137,7 @@ Companies/Ubisoft Montreal.yml	5df58a5c
 Companies/Ubisoft Nadeo.yml	c5fc7d8b
 Companies/Ubisoft Paris.yml	c568f46
 Companies/Ubisoft Quebec.yml	4bbd5ab1
+Companies/Ubisoft San Francisco.yml	bb67300c
 Companies/Ubisoft Shanghai.yml	58c611b
 Companies/Ubisoft Singapore.yml	90cdb4a8
 Companies/Ubisoft Sofia.yml	c0039650
@@ -1880,6 +1886,7 @@ Games/Video/2003/Harry Potter Quidditch World Cup.yml	5f63c6df
 Games/Video/2003/Indiana Jones and the Emperor's Tomb.yml	fa9d24f3
 Games/Video/2003/Jurassic Park Institute Tour Dinosaur Rescue.yml	d50e95b2
 Games/Video/2003/Jurassic Park Operation Genesis.yml	3dc48e78
+Games/Video/2003/Karaoke Revolution.yml	b64c2fde
 Games/Video/2003/Kingdom of Loathing.yml	df6c4743
 Games/Video/2003/Madden NFL 2004.yml	cf9ecec7
 Games/Video/2003/MapleStory.yml	e9e64e55
@@ -1940,6 +1947,7 @@ Games/Video/2004/Red Dead Revolver.yml	4415ac04
 Games/Video/2004/Rome Total War.yml	ca327b97
 Games/Video/2004/Shrek 2.yml	fc3e9e3
 Games/Video/2004/Silent Hill 4 The Room.yml	32da8445
+Games/Video/2004/SingStar.yml	54235ca0
 Games/Video/2004/Spider-Man 2.yml	d3207f56
 Games/Video/2004/Star Wars Battlefront.yml	3b466043
 Games/Video/2004/Star Wars Knights of the Old Republic II - The Sith Lords.yml	af3efbdb
@@ -2142,6 +2150,7 @@ Games/Video/2008/Fable II.yml	d36ab453
 Games/Video/2008/Fallout 3.yml	dfc6a873
 Games/Video/2008/God of War Chains of Olympus.yml	d7f2f5c0
 Games/Video/2008/Grand Theft Auto IV.yml	a3e82a27
+Games/Video/2008/Guitar Hero Aerosmith.yml	8e326147
 Games/Video/2008/Inazuma Eleven.yml	df393914
 Games/Video/2008/Left 4 Dead.yml	dc11495a
 Games/Video/2008/Lost Via Domus.yml	cb8cd7d3
@@ -2181,6 +2190,7 @@ Games/Video/2009/Canabalt.yml	dd7c7d25
 Games/Video/2009/Command & Conquer Red Alert 3 Commander's Challenge.yml	4f25ea88
 Games/Video/2009/Command & Conquer Red Alert 3 Uprising.yml	fbc4c9fb
 Games/Video/2009/Command & Conquer Red Alert.yml	5d469a0
+Games/Video/2009/DJ Hero.yml	dce2f5b7
 Games/Video/2009/Deadly Creatures.yml	709d606a
 Games/Video/2009/Demon's Souls.yml	c4d505b8
 Games/Video/2009/Doodle Jump.yml	150147df
@@ -2189,6 +2199,8 @@ Games/Video/2009/Eat Lead The Return of Matt Hazard.yml	a9780bd5
 Games/Video/2009/FarmVille.yml	560311b6
 Games/Video/2009/Forza Motorsport 3.yml	979f9a8a
 Games/Video/2009/Ghostbusters The Video Game.yml	fdede35c
+Games/Video/2009/Guitar Hero Metallica.yml	25828393
+Games/Video/2009/Guitar Hero Van Halen.yml	b7e4afd3
 Games/Video/2009/Ice Age Dawn of the Dinosaurs.yml	268dc0d3
 Games/Video/2009/Just Dance.yml	8ed50ffe
 Games/Video/2009/Killzone 2.yml	5f5bd0d4
@@ -2201,6 +2213,7 @@ Games/Video/2009/Resident Evil 5.yml	345f7bce
 Games/Video/2009/STALKER Call of Pripyat.yml	2543386c
 Games/Video/2009/SpongeBob's Truth or Square.yml	e9c81883
 Games/Video/2009/Steins;Gate.yml	cde5da81
+Games/Video/2009/The Beatles Rock Band.yml	90dbedac
 Games/Video/2009/The Legend of Zelda Spirit Tracks.yml	5eb4eb43
 Games/Video/2009/The Lord of the Rings Conquest.yml	c4c839c1
 Games/Video/2009/The Sims 3.yml	553654b9
@@ -2221,6 +2234,7 @@ Games/Video/2010/BioShock 2.yml	27403c14
 Games/Video/2010/Call of Duty Black Ops.yml	30094e97
 Games/Video/2010/Command & Conquer 4 Tiberian Twilight.yml	2f19c280
 Games/Video/2010/Cut the Rope.yml	6efb7669
+Games/Video/2010/DJ Hero 2.yml	81d280f8
 Games/Video/2010/Dance Central.yml	4936e299
 Games/Video/2010/Danganronpa Trigger Happy Havoc.yml	7532779d
 Games/Video/2010/Dante's Inferno.yml	158b106
@@ -2233,6 +2247,7 @@ Games/Video/2010/Fruit Ninja.yml	4d1f1245
 Games/Video/2010/Ghost Trick Phantom Detective.yml	d63925b9
 Games/Video/2010/God of War Ghost of Sparta.yml	d9e8de6b
 Games/Video/2010/God of War III.yml	7ad1f96b
+Games/Video/2010/Green Day Rock Band.yml	5afa76d1
 Games/Video/2010/Halo Reach.yml	de2d8c79
 Games/Video/2010/Happy Wheels.yml	2791ef5d
 Games/Video/2010/Heavy Rain.yml	2a46d938
@@ -2242,6 +2257,7 @@ Games/Video/2010/Lara Croft and the Guardian of Light.yml	b9a28702
 Games/Video/2010/Lego Harry Potter Years 1-4.yml	3a7f2667
 Games/Video/2010/Metal Gear Solid Peace Walker.yml	80e89808
 Games/Video/2010/Metro 2033.yml	d21888ed
+Games/Video/2010/Michael Jackson The Experience.yml	f0e4e728
 Games/Video/2010/NBA 2K11.yml	cdde6acc
 Games/Video/2010/Need for Speed Hot Pursuit.yml	42090cca
 Games/Video/2010/Need for Speed World.yml	3b101444
@@ -2301,6 +2317,7 @@ Games/Video/2011/Payday The Heist.yml	dd236573
 Games/Video/2011/Pokémon Trading Card Game Online.yml	aa44688e
 Games/Video/2011/Portal 2.yml	e829a6c1
 Games/Video/2011/Pushmo.yml	74045432
+Games/Video/2011/Rocksmith.yml	37758277
 Games/Video/2011/Shift 2 Unleashed.yml	75018329
 Games/Video/2011/SpaceChem.yml	4e0e0d60
 Games/Video/2011/Temple Run.yml	7f2f5426
@@ -2776,6 +2793,7 @@ Games/Video/2021/Road 96.yml	65200f95
 Games/Video/2021/Sherlock Holmes Chapter One.yml	686a6217
 Games/Video/2021/Subnautica Below Zero.yml	ba4ca126
 Games/Video/2021/The Addams Family Mansion Mayhem.yml	204d86b8
+Games/Video/2021/The Artful Escape.yml	5c8f4d4d
 Games/Video/2021/The Dark Pictures Anthology House of Ashes.yml	bdcd6ac3
 Games/Video/2021/The Forgotten City.yml	5193b531
 Games/Video/2021/The Witcher Monster Slayer.yml	be7f7d32
@@ -2945,6 +2963,7 @@ Games/Video/Series/Call of Duty.yml	5da69bbd
 Games/Video/Series/Clash.yml	e38b6cf3
 Games/Video/Series/Command & Conquer.yml	a9353ace
 Games/Video/Series/Counter-Strike.yml	afe239c1
+Games/Video/Series/DJ Hero.yml	ef136e8b
 Games/Video/Series/Darkest Dungeon.yml	9424a5e3
 Games/Video/Series/Devil May Cry.yml	56b1f3f8
 Games/Video/Series/Discworld.yml	bec10331
@@ -6225,6 +6244,7 @@ People/Chris Dickens.yml	c71c85af
 People/Chris Dingess.yml	a2d58253
 People/Chris Elliott.yml	13025b79
 People/Chris Evans.yml	c3c7bcad
+People/Chris Foster.yml	a8aabb9f
 People/Chris G. Willingham.yml	176b14ad
 People/Chris Hanley.yml	4f3a1f16
 People/Chris Hemsworth.yml	3c026b19
@@ -8378,6 +8398,7 @@ People/John Wright.yml	a3834ebf
 People/John de Mol.yml	c0efb74d
 People/John-Henry Butterworth.yml	9fde340c
 People/Johnny Depp.yml	7ede5a78
+People/Johnny Galvatron.yml	b5268973
 People/Johnny Hardwick.yml	e4266bab
 People/Johnny Klimek.yml	853290d5
 People/Johnny Simmons.yml	2bb85ed3
@@ -8473,6 +8494,7 @@ People/Joseph Shirley.yml	94a85ff4
 People/Joseph Staten.yml	80f3c75
 People/Joseph Trapanese.yml	8f1c027e
 People/Joseph Weisberg.yml	ed2491e2
+People/Josh Abrahams.yml	c6c47618
 People/Josh Andrés Rivera.yml	d4addc
 People/Josh Brolin.yml	18ad0189
 People/Josh Charles.yml	e55fca3d
@@ -9551,6 +9573,7 @@ People/Michael J. Duthie.yml	16902494
 People/Michael J. Fox.yml	1d38885c
 People/Michael J. Wilson.yml	ee49ffa5
 People/Michael Jace.yml	a018fa67
+People/Michael Jackson.yml	b5f80ac5
 People/Michael Jacobs.yml	7321ec37
 People/Michael K. Williams.yml	295b8081
 People/Michael Kahn.yml	a478f69d
