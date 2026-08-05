@@ -480,6 +480,7 @@ Companies/Galaxy International Releasing.yml	d9295620
 Companies/Game Freak.yml	b5dd268b
 Companies/Gameloft.yml	fd66c8eb
 Companies/Gary Sanchez Productions.yml	830d2673
+Companies/Gathering of Developers.yml	a7b4d438
 Companies/Gaumont Buena Vista International.yml	a24e8279
 Companies/Gaumont.yml	cc56bef4
 Companies/Gearbox Publishing.yml	540353dd
@@ -641,6 +642,7 @@ Companies/MGM/UA Entertainment Co..yml	4324b21a
 Companies/MK Productions.yml	35b5a106
 Companies/MK2 Diffusion.yml	eda554f
 Companies/MK2.yml	3092f1c2
+Companies/MPS Labs.yml	dc42902c
 Companies/MRC Television.yml	e60e4d88
 Companies/MRC.yml	b0f364c4
 Companies/MTV Games.yml	4ae54527
@@ -744,6 +746,7 @@ Companies/Next Entertainment World.yml	c92d2227
 Companies/Nickelodeon Animation Studio.yml	b164d571
 Companies/Nickelodeon Movies.yml	85aad9f5
 Companies/Nickelodeon.yml	7ba0f88f
+Companies/Nightdive Studios.yml	7d2306b3
 Companies/Nightfall Productions.yml	b131df62
 Companies/Nintendo EAD Software Development Group No.1.yml	fd240f3a
 Companies/Nintendo EAD Software Development Group No.2.yml	330f72d2
@@ -1339,6 +1342,7 @@ Games/Video/1987/Mega Man.yml	c6acbdb0
 Games/Video/1987/NetHack.yml	78b63b4c
 Games/Video/1987/Phantasy Star.yml	81770ec
 Games/Video/1987/R-Type.yml	e9b2a37e
+Games/Video/1987/Sid Meier's Pirates!.yml	a413500e
 Games/Video/1987/Street Fighter.yml	67e87a75
 Games/Video/1987/Tecmo Bowl.yml	25aad8e0
 Games/Video/1987/Zelda II The Adventure of Link.yml	7f5a13d1
@@ -1351,6 +1355,7 @@ Games/Video/1989/Chip's Challenge.yml	57ed3d6f
 Games/Video/1989/Fester's Quest.yml	7dfc11d4
 Games/Video/1989/Final Fight.yml	a0115ef2
 Games/Video/1989/Friday the 13th.yml	f9a0b59b
+Games/Video/1989/Herzog Zwei.yml	6e180fde
 Games/Video/1989/Populous.yml	d9bbe5ac
 Games/Video/1989/Prince of Persia.yml	835e0cb4
 Games/Video/1989/SimCity.yml	1a021bd2
@@ -1363,6 +1368,8 @@ Games/Video/1990/Michael Jackson's Moonwalker.yml	56b1d488
 Games/Video/1990/Microsoft Solitaire.yml	f4dab91f
 Games/Video/1990/Minesweeper.yml	32214a89
 Games/Video/1990/Pilotwings.yml	54e617a0
+Games/Video/1990/Sid Meier's Covert Action.yml	c9545cb4
+Games/Video/1990/Sid Meier's Railroad Tycoon.yml	877d5d65
 Games/Video/1990/SimEarth.yml	ca8102d9
 Games/Video/1990/Smash TV.yml	66d4c3a8
 Games/Video/1990/Super Mario World.yml	fe9c2760
@@ -1468,6 +1475,7 @@ Games/Video/1994/Jurassic Park Interactive.yml	362f43ec
 Games/Video/1994/Jurassic Park Paint and Activity Center.yml	2dce4f83
 Games/Video/1994/Jurassic Park Rampage Edition.yml	c3625423
 Games/Video/1994/Killer Instinct.yml	284c13f9
+Games/Video/1994/Magic Carpet.yml	40f0461
 Games/Video/1994/Marathon.yml	20328c84
 Games/Video/1994/Shaq Fu.yml	c8fb5887
 Games/Video/1994/Sid Meier's Colonization.yml	8a204666
@@ -1527,6 +1535,7 @@ Games/Video/1996/Resident Evil.yml	c7d40171
 Games/Video/1996/Ripper.yml	62da287a
 Games/Video/1996/Sid Meier's Civilization II.yml	b955717b
 Games/Video/1996/Super Mario 64.yml	b036243b
+Games/Video/1996/Syndicate Wars.yml	b026eee3
 Games/Video/1996/Tex Murphy The Pandora Directive.yml	8f447af
 Games/Video/1996/The Elder Scrolls II Daggerfall.yml	b46666fc
 Games/Video/1996/The House of the Dead.yml	aebdef8e
@@ -1562,6 +1571,7 @@ Games/Video/1997/Moon Remix RPG Adventure.yml	12326891
 Games/Video/1997/Need for Speed II.yml	e849e00b
 Games/Video/1997/Quake II.yml	7abbfb8e
 Games/Video/1997/Riven.yml	c1e4c8f7
+Games/Video/1997/Sid Meier's Gettysburg!.yml	1210a336
 Games/Video/1997/Star Fox 64.yml	a07cd01e
 Games/Video/1997/Street Fighter III 2nd Impact.yml	67c59752
 Games/Video/1997/Tekken 3.yml	be87ad83
@@ -1600,6 +1610,7 @@ Games/Video/1998/Panzer Dragoon Saga.yml	82b6c799
 Games/Video/1998/Pokémon Trading Card Game.yml	a778aec3
 Games/Video/1998/Pokémon Yellow.yml	51c5316c
 Games/Video/1998/Populous The Beginning.yml	817ecc8
+Games/Video/1998/Railroad Tycoon II.yml	2ac35dbd
 Games/Video/1998/Resident Evil 2.yml	63ce9b49
 Games/Video/1998/Ridge Racer Type 4.yml	a97ebbf9
 Games/Video/1998/Rugrats Search for Reptar.yml	fc03015d
@@ -1967,6 +1978,7 @@ Games/Video/2005/SpongeBob SquarePants Lights, Camera, Pants!.yml	72cf96fc
 Games/Video/2005/SpongeBob SquarePants The Yellow Avenger.yml	83e41e00
 Games/Video/2005/The Incredible Hulk Ultimate Destruction.yml	7e3cac5e
 Games/Video/2005/The Matrix Path of Neo.yml	d33c2ac2
+Games/Video/2005/The Movies.yml	83d3ed51
 Games/Video/2005/The Punisher.yml	1b1d1047
 Games/Video/2005/The Warriors.yml	7fb4fc73
 Games/Video/2005/Tom Clancy's Splinter Cell Chaos Theory.yml	a91b27b2
@@ -2226,6 +2238,7 @@ Games/Video/2011/Driver San Francisco.yml	576333da
 Games/Video/2011/FIFA 12.yml	9ba55330
 Games/Video/2011/Fable Coin Golf.yml	ea0d11c1
 Games/Video/2011/Forza Motorsport 4.yml	639139f7
+Games/Video/2011/From Dust.yml	6488caf3
 Games/Video/2011/Gemini Rue.yml	f9a29a1e
 Games/Video/2011/Jetpack Joyride.yml	d3426a20
 Games/Video/2011/Jurassic Park The Game.yml	bff19b1a
@@ -2929,6 +2942,7 @@ Games/Video/Series/Portal.yml	80d03cc4
 Games/Video/Series/Prince of Persia.yml	77a09ca9
 Games/Video/Series/Project Gotham Racing.yml	33573cce
 Games/Video/Series/Quake.yml	9b2a0c89
+Games/Video/Series/Railroad Tycoon.yml	b1fcf440
 Games/Video/Series/Rayman.yml	a1a70ee2
 Games/Video/Series/Resident Evil.yml	55fe259a
 Games/Video/Series/Ridge Racer.yml	903eb2e7
@@ -7016,6 +7030,7 @@ People/Enver Gjokaj.yml	a66356f
 People/Eric Balfour.yml	90592dd3
 People/Eric Bana.yml	b64e8392
 People/Eric Bress.yml	82914d4a
+People/Eric Chahi.yml	63df8cd6
 People/Eric Clapton.yml	68148dd3
 People/Eric Dane.yml	1048c1b1
 People/Eric Darnell.yml	df652dd7
