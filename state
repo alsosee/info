@@ -187,6 +187,7 @@ Companies/Atari.yml	defba843
 Companies/Atlas Entertainment.yml	b92a173f
 Companies/Atlus.yml	1bed4113
 Companies/Atomic Monster.yml	e07a5bb3
+Companies/Avalanche Software.yml	7436f1a3
 Companies/B-Reel Films.yml	291722d7
 Companies/BA Entertainment.yml	e21f4b6a
 Companies/BAC Films.yml	c3916e28
@@ -361,6 +362,7 @@ Companies/Dimension Home Video.yml	4d1f9b84
 Companies/Dimps.yml	aa31837a
 Companies/Dino De Laurentiis Corporation.yml	b0bf691b
 Companies/Disney Channel.yml	218826a1
+Companies/Disney Interactive Studios.yml	f1b37471
 Companies/Disney Interactive.yml	debd001c
 Companies/Disney+.yml	fa913ce
 Companies/Disney.yml	4ea7818d
@@ -575,6 +577,7 @@ Companies/Jerry Weintraub Productions.yml	9dc7701f
 Companies/Jersey Films.yml	96d019ed
 Companies/Jewel Productions.yml	ebb779ea
 Companies/Jinks/Cohen Company.yml	49d01b59
+Companies/Jupiter.yml	2f54d15a
 Companies/K/O Paper Products.yml	c6325967
 Companies/KNM.yml	a854189b
 Companies/KatzSmith Productions.yml	4ce897d
@@ -1352,6 +1355,7 @@ Games/Video/1988/Super Mario Bros. 2.yml	ae74d8b
 Games/Video/1988/Super Mario Bros. 3.yml	1bc5c32
 Games/Video/1989/Bonk's Adventure.yml	dc9b3868
 Games/Video/1989/Chip's Challenge.yml	57ed3d6f
+Games/Video/1989/Disney's DuckTales.yml	4b180c44
 Games/Video/1989/Fester's Quest.yml	7dfc11d4
 Games/Video/1989/Final Fight.yml	a0115ef2
 Games/Video/1989/Friday the 13th.yml	f9a0b59b
@@ -1363,6 +1367,8 @@ Games/Video/1989/Teenage Mutant Ninja Turtles.yml	fe3ed1eb
 Games/Video/1989/Wonder Boy III The Dragons Trap.yml	70bcda5b
 Games/Video/1990/ActRaiser.yml	59eaa718
 Games/Video/1990/Aliens.yml	71464329
+Games/Video/1990/Castle of Illusion Starring Mickey Mouse.yml	61b75fdc
+Games/Video/1990/Disney's Chip 'n Dale Rescue Rangers.yml	16be42dc
 Games/Video/1990/Dr. Mario.yml	75c99d52
 Games/Video/1990/Michael Jackson's Moonwalker.yml	56b1d488
 Games/Video/1990/Microsoft Solitaire.yml	f4dab91f
@@ -1396,6 +1402,7 @@ Games/Video/1991/The Simpsons Arcade Game.yml	14cbaa3d
 Games/Video/1991/ToeJam & Earl.yml	622c8fd9
 Games/Video/1992/Alien 3.yml	ef1bbf1b
 Games/Video/1992/Contra III The Alien Wars.yml	f5fd8a9
+Games/Video/1992/Disney's Darkwing Duck.yml	a0614080
 Games/Video/1992/Dragon Quest V Hand of the Heavenly Bride.yml	3e200a7e
 Games/Video/1992/Dune II The Building of a Dynasty.yml	9fa69e93
 Games/Video/1992/Ecco the Dolphin.yml	5272f1fe
@@ -1427,6 +1434,7 @@ Games/Video/1993/Disney's Aladdin Genesis.yml	2ec1589f
 Games/Video/1993/Disney's Aladdin SNES.yml	ed4f81f9
 Games/Video/1993/Disney's Aladdin Tiger Handheld.yml	e0d09c5
 Games/Video/1993/Disney's Aladdin Tiger Wrist Game.yml	6b7015fb
+Games/Video/1993/Disney's Goof Troop.yml	29811b72
 Games/Video/1993/FIFA International Soccer.yml	d3cb3492
 Games/Video/1993/Gabriel Knight Sins of the Fathers.yml	2a9e68db
 Games/Video/1993/Gunstar Heroes.yml	4f972249
@@ -1896,6 +1904,7 @@ Games/Video/2004/Halo 2.yml	a4e9d90e
 Games/Video/2004/Harry Potter and the Prisoner of Azkaban.yml	31c4e252
 Games/Video/2004/Jets'n'Guns.yml	ba5b386a
 Games/Video/2004/Katamari Damacy.yml	697ffe5c
+Games/Video/2004/Kingdom Hearts Chain of Memories.yml	40a5ccef
 Games/Video/2004/Lumines Puzzle Fusion.yml	991dcaa5
 Games/Video/2004/Metroid Prime 2 Echoes.yml	23dfb277
 Games/Video/2004/Metroid Zero Mission.yml	71605bb4
@@ -1957,6 +1966,7 @@ Games/Video/2005/Guitar Hero.yml	3d149b6a
 Games/Video/2005/Half-Life 2 Lost Coast.yml	28487373
 Games/Video/2005/Haunting Ground.yml	3084e627
 Games/Video/2005/Killer7.yml	9531d7fa
+Games/Video/2005/Kingdom Hearts II.yml	c23580c3
 Games/Video/2005/Madagascar Operation Penguin.yml	fc20162b
 Games/Video/2005/Madagascar.yml	3e94b8ed
 Games/Video/2005/Mario Kart DS.yml	8b00fac9
@@ -2180,6 +2190,7 @@ Games/Video/2010/Danganronpa Trigger Happy Havoc.yml	7532779d
 Games/Video/2010/Dante's Inferno.yml	158b106
 Games/Video/2010/Darksiders.yml	758ac895
 Games/Video/2010/Doctor Who The Adventure Games.yml	b26416a2
+Games/Video/2010/Epic Mickey.yml	19ea9551
 Games/Video/2010/Fable III.yml	68367185
 Games/Video/2010/Fallout New Vegas.yml	bead6f6
 Games/Video/2010/Fruit Ninja.yml	4d1f1245
@@ -2190,6 +2201,7 @@ Games/Video/2010/Halo Reach.yml	de2d8c79
 Games/Video/2010/Happy Wheels.yml	2791ef5d
 Games/Video/2010/Heavy Rain.yml	2a46d938
 Games/Video/2010/Jurassic Park - Gameloft.yml	4e1b61ba
+Games/Video/2010/Kingdom Hearts Birth by Sleep.yml	1401dbb7
 Games/Video/2010/Lara Croft and the Guardian of Light.yml	b9a28702
 Games/Video/2010/Lego Harry Potter Years 1-4.yml	3a7f2667
 Games/Video/2010/Metro 2033.yml	d21888ed
@@ -2213,6 +2225,7 @@ Games/Video/2010/StarCraft II Wings of Liberty.yml	540ca23b
 Games/Video/2010/Super Mario Galaxy 2.yml	c85ebafb
 Games/Video/2010/The Penguins of Madagascar.yml	7936195e
 Games/Video/2010/Tom Clancy's Splinter Cell Conviction.yml	f2009537
+Games/Video/2010/Toy Story 3 The Video Game.yml	f526ecd8
 Games/Video/2010/Transformers War for Cybertron.yml	b7ceae4a
 Games/Video/2010/VVVVVV.yml	e4d2756b
 Games/Video/2010/Vanquish.yml	8d4d80e4
@@ -2331,8 +2344,10 @@ Games/Video/2013/Counter-Strike Online 2.yml	e7babbbb
 Games/Video/2013/Danmaku Unlimited 2.yml	44ef6853
 Games/Video/2013/Dead Space 3.yml	97b4f21e
 Games/Video/2013/Deadpool.yml	39edbb56
+Games/Video/2013/Disney Infinity.yml	ce69a79
 Games/Video/2013/Dont Starve.yml	35c50369
 Games/Video/2013/Dota 2.yml	f1276edc
+Games/Video/2013/DuckTales Remastered.yml	ef3beb26
 Games/Video/2013/Final Fantasy XIV Online.yml	75c767
 Games/Video/2013/Flappy Bird.yml	abc5322f
 Games/Video/2013/Forza Motorsport 5.yml	4716ffb4
@@ -2382,6 +2397,7 @@ Games/Video/2014/Call of Duty Advanced Warfare.yml	19fece73
 Games/Video/2014/Counter-Strike Nexon Studio.yml	82243b6a
 Games/Video/2014/Crossy Road.yml	6cf11b80
 Games/Video/2014/Destiny.yml	46c19aa7
+Games/Video/2014/Disney Infinity 2.0.yml	8451ccfb
 Games/Video/2014/Divinity Original Sin.yml	78297a09
 Games/Video/2014/Donkey Kong Country Tropical Freeze.yml	10f8145f
 Games/Video/2014/Dragon Age Inquisition.yml	ec1c753e
@@ -2422,6 +2438,7 @@ Games/Video/2015/Axiom Verge.yml	eb244711
 Games/Video/2015/Bloodborne.yml	a33035fa
 Games/Video/2015/Cities Skylines.yml	9386f414
 Games/Video/2015/Crypt of the NecroDancer.yml	2a8276c0
+Games/Video/2015/Disney Infinity 3.0.yml	2400065b
 Games/Video/2015/Fallout 4.yml	d0151be9
 Games/Video/2015/Forza Motorsport 6.yml	6608827f
 Games/Video/2015/Her Story.yml	9bdbb1bd
@@ -2628,6 +2645,7 @@ Games/Video/2019/Hypnospace Outlaw.yml	d8baf979
 Games/Video/2019/Ice Age Scrat's Nutty Adventure.yml	a2206dc
 Games/Video/2019/John Wick Hex.yml	814db6db
 Games/Video/2019/Jump Force.yml	fa638fc2
+Games/Video/2019/Kingdom Hearts III.yml	f1570bbb
 Games/Video/2019/Magic The Gathering Arena.yml	ce3ce8d8
 Games/Video/2019/Manifold Garden.yml	d5dbac68
 Games/Video/2019/Metro Exodus.yml	a717cbd8
@@ -2887,12 +2905,14 @@ Games/Video/Series/Counter-Strike.yml	afe239c1
 Games/Video/Series/Darkest Dungeon.yml	9424a5e3
 Games/Video/Series/Devil May Cry.yml	56b1f3f8
 Games/Video/Series/Discworld.yml	bec10331
+Games/Video/Series/Disney Infinity.yml	83b7f6b1
 Games/Video/Series/Divinity.yml	6d2af534
 Games/Video/Series/Don't Starve.yml	ee830158
 Games/Video/Series/Dota.yml	bce6fcba
 Games/Video/Series/Dragon Quest.yml	10976f01
 Games/Video/Series/Dragon's Dogma.yml	3d83ec4d
 Games/Video/Series/Drakengard.yml	246b59b6
+Games/Video/Series/DuckTales.yml	6ef78dae
 Games/Video/Series/Dungeon Keeper.yml	88702f03
 Games/Video/Series/Earth Defense Force.yml	3d2f8d4d
 Games/Video/Series/FIFA.yml	e8886baa
@@ -2916,6 +2936,7 @@ Games/Video/Series/Jets'n'Guns.yml	529c748
 Games/Video/Series/Job Simulator.yml	7d43d715
 Games/Video/Series/Jurassic Park.yml	d7d2607d
 Games/Video/Series/Kid Icarus.yml	3820d97c
+Games/Video/Series/Kingdom Hearts.yml	a66c791c
 Games/Video/Series/Madagascar.yml	13ee4382
 Games/Video/Series/Madden NFL.yml	234fddfb
 Games/Video/Series/Marathon.yml	7d46ffbf
@@ -11036,6 +11057,7 @@ People/TC Carson.yml	b9e5f56f
 People/Tadanobu Asano.yml	2082a3b9
 People/Tadashi Satomi.yml	b33e1b60
 People/Tadashi Sugiyama.yml	485221b9
+People/Tai Yasue.yml	f5ce275f
 People/Taika Waititi.yml	22d1a087
 People/Taishi Senda.yml	40df83eb
 People/Taissa Farmiga.yml	cdc48257
@@ -11046,6 +11068,7 @@ People/Takashi Iizuka.yml	2bf6a560
 People/Takashi Shimura.yml	a4fc33a9
 People/Takashi Yuda.yml	aa087880
 People/Takaya Imamura.yml	cece7fda
+People/Takeharu Ishimoto.yml	c4e04c5d
 People/Takehiro Hira.yml	a1c9b14c
 People/Takeshi Kusao.yml	1c32b8f2
 People/Takeshi Seyama.yml	782e4025
@@ -11132,6 +11155,7 @@ People/Tessho Genda.yml	3468d108
 People/Tetsuo Yajima.yml	950e1b7c
 People/Tetsurō Araki.yml	cc568d5e
 People/Tetsuya Mizuguchi.yml	69f3c2df
+People/Tetsuya Nomura.yml	bba04dc0
 People/Tetsuya Shibata.yml	96bfcb81
 People/Tetsuya Takahashi.yml	8a89ba71
 People/Teyonah Parris.yml	1b4c48a8
@@ -11475,6 +11499,7 @@ People/Waris Ahluwalia.yml	44705e8
 People/Warren Brown.yml	50888852
 People/Warren Ellis.yml	ef034a08
 People/Warren Lancashire.yml	1a8f4f5c
+People/Warren Spector.yml	94b49d4d
 People/Warren Zide.yml	4d53317d
 People/Wayne Bell.yml	29990405
 People/Wayne Duvall.yml	a0bfac5d
