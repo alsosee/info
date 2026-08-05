@@ -130,6 +130,7 @@ Companies/AKI Corporation.yml	206ab7b2
 Companies/AMC.yml	a80cdb9c
 Companies/APJAC Productions.yml	5fd7c0ab
 Companies/AWE Games.yml	7d0fe879
+Companies/AWE Productions.yml	195173bf
 Companies/Acclaim Entertainment.yml	b33d6ce2
 Companies/Activision.yml	e6efb635
 Companies/Ad Vitam Distribution.yml	29261276
@@ -227,6 +228,7 @@ Companies/Bizarre Creations.yml	b6cce496
 Companies/Black Bear Pictures.yml	1aff3f53
 Companies/Black Flame.yml	ee5e6e3e
 Companies/Black Isle Studios.yml	6958baf2
+Companies/Black Label Games.yml	1f8dcd9a
 Companies/Black Ops Entertainment.yml	6dd83665
 Companies/Blinding Edge Pictures.yml	6e116814
 Companies/Blizzard Entertainment.yml	e6f23bc7
@@ -379,6 +381,7 @@ Companies/E!.yml	59f59055
 Companies/EA Black Box.yml	65a93fe1
 Companies/EA Canada.yml	17cd0108
 Companies/EA Los Angeles.yml	3d059102
+Companies/EA Redwood Shores.yml	83e9b738
 Companies/EA Seattle.yml	43015d30
 Companies/EA Sports BIG.yml	4a7a71ea
 Companies/EA Sports.yml	d300d0db
@@ -782,6 +785,7 @@ Companies/PT Merantau Films.yml	3af672c9
 Companies/Pacific Data Images.yml	c0dbf5e0
 Companies/Pacific Western Productions.yml	c7c8bae9
 Companies/Page 114.yml	35f71df0
+Companies/Pandemic Studios.yml	90e5ad46
 Companies/Pandora Film.yml	861cf7f8
 Companies/Paradis Films.yml	5b195f57
 Companies/Paradox Development Studio.yml	e9777b65
@@ -1035,6 +1039,7 @@ Companies/Templeton Media.yml	1bffbec
 Companies/Tencent Pictures.yml	85bf9ead
 Companies/Terror.yml	463e9c50
 Companies/Teyon.yml	34b3fbc4
+Companies/The Adventure Company.yml	affe97b9
 Companies/The Apatow Company.yml	6095e662
 Companies/The Behemoth.yml	924f0bd2
 Companies/The Bodley Head.yml	f2bbb892
@@ -1122,6 +1127,7 @@ Companies/United International Pictures.yml	7427893d
 Companies/United Plankton Pictures.yml	734b72f2
 Companies/Universal 1440 Entertainment.yml	26b1f8df
 Companies/Universal Content Productions.yml	85bba23f
+Companies/Universal Interactive Studios.yml	328acdfc
 Companies/Universal Interactive.yml	e6a1360c
 Companies/Universal Pictures Home Entertainment.yml	92f620f6
 Companies/Universal Pictures International.yml	a5929997
@@ -1604,6 +1610,7 @@ Games/Video/1999/Amerzone The Explorer's Legacy.yml	73578310
 Games/Video/1999/Ape Escape.yml	63bd7625
 Games/Video/1999/ChuChu Rocket!.yml	6b4d5111
 Games/Video/1999/Command & Conquer Tiberian Sun.yml	c74bb4fd
+Games/Video/1999/Discworld Noir.yml	89d07e37
 Games/Video/1999/Disney's Tarzan.yml	d2dea773
 Games/Video/1999/Doshin the Giant.yml	9906c65
 Games/Video/1999/Dungeon Keeper 2.yml	3b80a815
@@ -1786,6 +1793,7 @@ Games/Video/2002/Super Mario Sunshine.yml	477cb537
 Games/Video/2002/Syberia.yml	aa7eac6a
 Games/Video/2002/The Elder Scrolls III Morrowind.yml	fd4f6177
 Games/Video/2002/The Legend of Zelda The Wind Waker.yml	a16a98b5
+Games/Video/2002/The Lord of the Rings The Fellowship of the Ring.yml	3b4a6c5a
 Games/Video/2002/The Thing.yml	d2dd0c23
 Games/Video/2002/Tom Clancy's Splinter Cell.yml	c125eaa6
 Games/Video/2002/Tomb Raider The Prophecy.yml	adbff08a
@@ -1826,6 +1834,7 @@ Games/Video/2003/Silent Hill 3.yml	da8e9bda
 Games/Video/2003/SpongeBob SquarePants Battle for Bikini Bottom.yml	87813518
 Games/Video/2003/Star Wars Knights of the Old Republic.yml	b1fa72af
 Games/Video/2003/The Elder Scrolls Travels Stormhold.yml	dab6469b
+Games/Video/2003/The Hobbit.yml	966b014a
 Games/Video/2003/The Simpsons Hit & Run.yml	f61a4e04
 Games/Video/2003/Tom Clancy's Rainbow Six 3 Raven Shield.yml	113a199d
 Games/Video/2003/Tomb Raider The Angel of Darkness.yml	e81436c2
@@ -1876,6 +1885,7 @@ Games/Video/2004/The Elder Scrolls Travels Shadowkey.yml	5b939383
 Games/Video/2004/The Incredibles.yml	af2a4f65
 Games/Video/2004/The Legend of Zelda The Minish Cap.yml	89884215
 Games/Video/2004/The Lord of the Rings The Battle for Middle-earth.yml	595bdd52
+Games/Video/2004/The Lord of the Rings The Third Age.yml	3ec53db2
 Games/Video/2004/The Sims 2.yml	e7056886
 Games/Video/2004/The SpongeBob SquarePants Movie.yml	5bfa438e
 Games/Video/2004/The X-Files Resist or Serve.yml	213e254d
@@ -1892,6 +1902,7 @@ Games/Video/2004/Worms Golf.yml	3aa32de6
 Games/Video/2004/X-Men Legends.yml	955fbcf3
 Games/Video/2005/50 Cent Bulletproof.yml	b1d6f481
 Games/Video/2005/Advance Wars Dual Strike.yml	665910db
+Games/Video/2005/Agatha Christie And Then There Were None.yml	6fdcc9
 Games/Video/2005/Aladdin Pinball.yml	5d8222ba
 Games/Video/2005/Aladdin's Wonders of the World.yml	b9165ce
 Games/Video/2005/Alien vs. Predator 3D.yml	22fa2907
@@ -1946,6 +1957,7 @@ Games/Video/2005/Ultimate Spider-Man.yml	75b27132
 Games/Video/2005/We Love Katamari.yml	62d019c6
 Games/Video/2005/Worms 4 Mayhem.yml	4b7446c4
 Games/Video/2006/24 The Game.yml	ef5d93b4
+Games/Video/2006/Agatha Christie Murder on the Orient Express.yml	8d2fc445
 Games/Video/2006/Aliens Extermination.yml	810c137c
 Games/Video/2006/Cars.yml	2d012ed4
 Games/Video/2006/Company of Heroes.yml	21dd32ab
@@ -2025,6 +2037,7 @@ Games/Video/2007/Portal.yml	77cf5d3
 Games/Video/2007/Prince of Persia Classic.yml	2c99fc24
 Games/Video/2007/Prince of Persia Rival Swords.yml	5346e0b6
 Games/Video/2007/STALKER Shadow of Chernobyl.yml	2c571b12
+Games/Video/2007/Sherlock Holmes The Awakened.yml	58304395
 Games/Video/2007/Skate.yml	79de4d2d
 Games/Video/2007/Super Mario Galaxy.yml	6b45af58
 Games/Video/2007/Supreme Commander.yml	1b781740
@@ -2110,6 +2123,7 @@ Games/Video/2009/STALKER Call of Pripyat.yml	2543386c
 Games/Video/2009/SpongeBob's Truth or Square.yml	e9c81883
 Games/Video/2009/Steins;Gate.yml	cde5da81
 Games/Video/2009/The Legend of Zelda Spirit Tracks.yml	5eb4eb43
+Games/Video/2009/The Lord of the Rings Conquest.yml	c4c839c1
 Games/Video/2009/The Sims 3.yml	553654b9
 Games/Video/2009/Wolfenstein.yml	e0033730
 Games/Video/2009/Words with Friends.yml	1b5d4935
@@ -2128,6 +2142,7 @@ Games/Video/2010/Command & Conquer 4 Tiberian Twilight.yml	2f19c280
 Games/Video/2010/Cut the Rope.yml	6efb7669
 Games/Video/2010/Dance Central.yml	4936e299
 Games/Video/2010/Danganronpa Trigger Happy Havoc.yml	7532779d
+Games/Video/2010/Dante's Inferno.yml	158b106
 Games/Video/2010/Darksiders.yml	758ac895
 Games/Video/2010/Doctor Who The Adventure Games.yml	b26416a2
 Games/Video/2010/Fable III.yml	68367185
@@ -2397,6 +2412,7 @@ Games/Video/2015/Undertale.yml	1e9c92a8
 Games/Video/2015/Until Dawn.yml	248e191d
 Games/Video/2015/Worms 4.yml	fd0c90b5
 Games/Video/2015/Worms World Party Remastered.yml	ff3dc79e
+Games/Video/2016/Agatha Christie The ABC Murders.yml	1b42b68f
 Games/Video/2016/Aliens vs. Pinball.yml	48837dcb
 Games/Video/2016/American Truck Simulator.yml	262b1e92
 Games/Video/2016/Arizona Sunshine.yml	468a5b0b
@@ -2469,6 +2485,7 @@ Games/Video/2017/Little Nightmares.yml	5f982034
 Games/Video/2017/Lone Echo.yml	e0b0694e
 Games/Video/2017/Mario Kart 8 Deluxe.yml	51dbeb93
 Games/Video/2017/Metroid Samus Returns.yml	88a1717b
+Games/Video/2017/Middle-earth Shadow of War.yml	90f6a535
 Games/Video/2017/Need for Speed Payback.yml	6c098999
 Games/Video/2017/Nex Machina.yml	8dd5f7ef
 Games/Video/2017/NieR Automata.yml	220b077a
@@ -2644,6 +2661,7 @@ Games/Video/2021/Resident Evil 4 VR.yml	58d44578
 Games/Video/2021/Resident Evil Village.yml	4f98068e
 Games/Video/2021/Returnal.yml	11e97f6c
 Games/Video/2021/Road 96.yml	65200f95
+Games/Video/2021/Sherlock Holmes Chapter One.yml	686a6217
 Games/Video/2021/Subnautica Below Zero.yml	ba4ca126
 Games/Video/2021/The Addams Family Mansion Mayhem.yml	204d86b8
 Games/Video/2021/The Dark Pictures Anthology House of Ashes.yml	bdcd6ac3
@@ -2797,6 +2815,7 @@ Games/Video/2026/Saros.yml	3508ae5f
 Games/Video/2026/World of Warcraft Midnight.yml	a596ac27
 Games/Video/2027/Fable.yml	71ade44a
 Games/Video/Series/Advance Wars.yml	ab9e2604
+Games/Video/Series/Agatha Christie.yml	50bc26e8
 Games/Video/Series/Aladdin.yml	76f0dda2
 Games/Video/Series/Alien.yml	9bb69e6a
 Games/Video/Series/Anno.yml	b5c7c9cd
@@ -2812,6 +2831,7 @@ Games/Video/Series/Command & Conquer.yml	a9353ace
 Games/Video/Series/Counter-Strike.yml	afe239c1
 Games/Video/Series/Darkest Dungeon.yml	9424a5e3
 Games/Video/Series/Devil May Cry.yml	56b1f3f8
+Games/Video/Series/Discworld.yml	bec10331
 Games/Video/Series/Divinity.yml	6d2af534
 Games/Video/Series/Don't Starve.yml	ee830158
 Games/Video/Series/Dota.yml	bce6fcba
@@ -2848,6 +2868,7 @@ Games/Video/Series/Max Payne.yml	886457c9
 Games/Video/Series/Metal Slug.yml	9b2bfeb2
 Games/Video/Series/Metro.yml	e4b2f371
 Games/Video/Series/Microsoft Flight Simulator.yml	3c759a95
+Games/Video/Series/Middle-earth.yml	7b9d6a51
 Games/Video/Series/Midnight Club.yml	ecd19f16
 Games/Video/Series/Monkey Island.yml	e0c154c0
 Games/Video/Series/Mortal Kombat.yml	9524e71f
@@ -2870,6 +2891,7 @@ Games/Video/Series/Resident Evil.yml	55fe259a
 Games/Video/Series/Ridge Racer.yml	903eb2e7
 Games/Video/Series/Rock Band.yml	e94092bd
 Games/Video/Series/S.T.A.L.K.E.R..yml	9ed9aae0
+Games/Video/Series/Sherlock Holmes.yml	73423467
 Games/Video/Series/Sonic the Hedgehog.yml	f6214b63
 Games/Video/Series/SpongeBob SquarePants.yml	c9a47af8
 Games/Video/Series/Star Fox.yml	fee78e8e
@@ -2881,6 +2903,7 @@ Games/Video/Series/Tekken.yml	e7b62521
 Games/Video/Series/The Addams Family.yml	3b0b1d08
 Games/Video/Series/The Dark Pictures Anthology.yml	5ba8e61b
 Games/Video/Series/The Elder Scrolls.yml	b040bfd1
+Games/Video/Series/The Lord of the Rings.yml	ca94b101
 Games/Video/Series/The Settlers.yml	f57d8b73
 Games/Video/Series/The Simpsons.yml	7780c93c
 Games/Video/Series/The Sims.yml	9a14376
@@ -5128,6 +5151,7 @@ People/Adrienne King.yml	e8ca6255
 People/Adèle Exarchopoulos.yml	95d32d6e
 People/Affonso Gonçalves.yml	3f6ea328
 People/Agata Kulesza.yml	59e114d6
+People/Agatha Christie.yml	2888b60a
 People/Age & Scarpelli.yml	3bbe851e
 People/Agnes Moorehead.yml	a7b92ce6
 People/Agnieszka Holland.yml	30bfb282
@@ -5509,6 +5533,7 @@ People/Art Linson.yml	7a6d3a6
 People/Art Marcum.yml	db7b7b
 People/Art Metrano.yml	59f2ca60
 People/Arthur Coburn.yml	57164b5d
+People/Arthur Conan Doyle.yml	f5f2cf46
 People/Arthur Darvill.yml	6e67d24e
 People/Arthur M. Sarkissian.yml	ae1a1674
 People/Arthur P. Jacobs.yml	51268774
@@ -11029,6 +11054,7 @@ People/Terry Louise Fisher.yml	5bfca967
 People/Terry McDonough.yml	71111e9c
 People/Terry Notary.yml	9448825a
 People/Terry O'Quinn.yml	160d75f1
+People/Terry Pratchett.yml	723c4e9d
 People/Terry Rawlings.yml	90a6259e
 People/Terry Rossio.yml	e4d90e65
 People/Tessa Ross.yml	ce1fb688
