@@ -1,0 +1,27 @@
+name: Buffy the Vampire Slayer
+description: >
+  Buffy the Vampire Slayer is an Xbox action-adventure game set in Sunnydale,
+  using third-person combat, staking mechanics, and an original story tied to
+  the television series.
+based_on:
+  - Shows/1997/Buffy the Vampire Slayer
+released: 2002-08-18
+genres:
+  - beat 'em up
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_(Xbox_video_game)
+metacritic: https://www.metacritic.com/game/buffy-the-vampire-slayer/
+igdb: https://www.igdb.com/games/buffy-the-vampire-slayer
+developers: The Collective
+publishers: Fox Interactive
+characters:
+  - name: Buffy Summers
+    voice: Giselle Loren
+  - name: Xander Harris
+    voice: Nicholas Brendon
+  - name: Willow Rosenberg
+    voice: Alyson Hannigan
+  - name: Rupert Giles
+    voice: Anthony Stewart Head
+  - name: Spike
+    voice: James Marsters

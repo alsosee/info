@@ -1,0 +1,29 @@
+name: "Game of Thrones: A Telltale Games Series"
+description: >
+  Telltale's Game of Thrones follows House Forrester during the War of the Five
+  Kings, using choice-driven adventure episodes set alongside events and
+  characters from the HBO series.
+based_on:
+  - Shows/2011/Game of Thrones
+released: 2014-12-02
+genres:
+  - point-and-click
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Game_of_Thrones_(2014_video_game)
+metacritic: https://www.metacritic.com/game/game-of-thrones-a-telltale-games-series/
+igdb: https://www.igdb.com/games/game-of-thrones-a-telltale-games-series
+developers: Telltale Games
+publishers:
+  - HBO
+  - Telltale Games
+characters:
+  - name: Tyrion Lannister
+    actor: Peter Dinklage
+  - name: Cersei Lannister
+    actor: Lena Headey
+  - name: Margaery Tyrell
+    actor: Natalie Dormer
+  - name: Ramsay Snow
+    actor: Iwan Rheon
+  - name: Gared Tuttle
+    actor: Daniel Kendrick

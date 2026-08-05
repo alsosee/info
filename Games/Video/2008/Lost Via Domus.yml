@@ -1,0 +1,27 @@
+name: "Lost: Via Domus"
+description: >
+  Lost: Via Domus follows an original Oceanic 815 survivor through a
+  puzzle-adventure story that revisits island locations, Dharma Initiative
+  mysteries, and flashback structure from the television series.
+based_on:
+  - Shows/2004/Lost
+released: 2008-02-26
+genres:
+  - puzzle
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Lost:_Via_Domus
+metacritic: https://www.metacritic.com/game/lost-via-domus/
+igdb: https://www.igdb.com/games/lost-via-domus
+developers: Ubisoft Montreal
+publishers: Ubisoft Entertainment
+characters:
+  - name: Elliott Maslow
+    actor: Robin Atkin Downes
+  - name: Jack Shephard
+    actor: Matthew Fox
+  - name: Kate Austen
+    actor: Evangeline Lilly
+  - name: John Locke
+    actor: Terry O'Quinn
+  - name: James "Sawyer" Ford
+    actor: Josh Holloway

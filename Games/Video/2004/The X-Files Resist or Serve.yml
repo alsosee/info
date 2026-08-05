@@ -1,0 +1,26 @@
+name: "The X-Files: Resist or Serve"
+description: >
+  Resist or Serve puts Mulder and Scully into a survival-horror case involving
+  a small-town infection, alternating playable agents and original story
+  material written to resemble episodes of the television series.
+based_on:
+  - Shows/1993/The X-Files
+released: 2004-03-18
+genres:
+  - shooter
+  - adventure
+  - survival horror
+wikipedia: https://en.wikipedia.org/wiki/The_X-Files:_Resist_or_Serve
+metacritic: https://www.metacritic.com/game/the-x-files-resist-or-serve/
+igdb: https://www.igdb.com/games/the-x-files-resist-or-serve
+developers: Black Ops Entertainment
+publishers: Vivendi Universal Games
+characters:
+  - name: Fox Mulder
+    actor: David Duchovny
+  - name: Dana Scully
+    actor: Gillian Anderson
+  - name: Walter Skinner
+    actor: Mitch Pileggi
+  - name: The Smoking Man
+    actor: William B. Davis

@@ -1,0 +1,26 @@
+name: "The Sopranos: Road to Respect"
+description: >
+  Road to Respect follows Joey LaRocca, the fictional son of Salvatore "Big
+  Pussy" Bonpensiero, through an action-adventure story set around the DiMeo
+  crime family and featuring cast members from The Sopranos.
+based_on:
+  - Shows/1999/The Sopranos
+released: 2006-11-07
+genres:
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_Sopranos:_Road_to_Respect
+metacritic: https://www.metacritic.com/game/the-sopranos-road-to-respect/
+igdb: https://www.igdb.com/games/the-sopranos-road-to-respect
+developers: 7 Studios
+publishers: THQ
+characters:
+  - name: Joey LaRocca
+    actor: Christian Maelen
+  - name: Tony Soprano
+    actor: James Gandolfini
+  - name: Paulie Gualtieri
+    actor: Tony Sirico
+  - name: Silvio Dante
+    actor: Steven Van Zandt
+  - name: Christopher Moltisanti
+    actor: Michael Imperioli

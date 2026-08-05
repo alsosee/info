@@ -1,0 +1,29 @@
+name: "Buffy the Vampire Slayer: Chaos Bleeds"
+description: >
+  Chaos Bleeds is a multi-character action-adventure sequel that sends Buffy,
+  Willow, Xander, Spike, Faith, and Sid through a First Evil storyline spanning
+  Sunnydale and alternate realities.
+based_on:
+  - Shows/1997/Buffy the Vampire Slayer
+released: 2003-08-27
+genres:
+  - beat 'em up
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer:_Chaos_Bleeds
+metacritic: https://www.metacritic.com/game/buffy-the-vampire-slayer-chaos-bleeds/
+igdb: https://www.igdb.com/games/buffy-the-vampire-slayer-chaos-bleeds
+developers: Eurocom Entertainment Software
+publishers:
+  - Fox Interactive
+  - Vivendi Universal Games
+characters:
+  - name: Buffy Summers
+    voice: Giselle Loren
+  - name: Willow Rosenberg
+    voice: Alyson Hannigan
+  - name: Xander Harris
+    voice: Nicholas Brendon
+  - name: Spike
+    voice: James Marsters
+  - name: Faith Lehane
+    voice: Eliza Dushku

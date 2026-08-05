@@ -1,0 +1,30 @@
+name: "24: The Game"
+description: >
+  24: The Game bridges seasons of the television series with a third-person
+  action story built around CTU missions, interrogations, driving sequences,
+  and real-time presentation.
+based_on:
+  - Shows/2001/24
+released: 2006-02-28
+genres:
+  - shooter
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/24:_The_Game
+metacritic: https://www.metacritic.com/game/24-the-game/
+igdb: https://www.igdb.com/games/24-the-game
+developers: SCE Cambridge Studio
+publishers:
+  - Sony Computer Entertainment Europe
+  - 2K Games
+composers: Sean Callery
+characters:
+  - name: Jack Bauer
+    actor: Kiefer Sutherland
+  - name: Tony Almeida
+    actor: Carlos Bernard
+  - name: Chloe O'Brian
+    actor: Mary Lynn Rajskub
+  - name: Kim Bauer
+    actor: Elisha Cuthbert
+  - name: David Palmer
+    actor: Dennis Haysbert

@@ -1,0 +1,25 @@
+name: "Star Trek: Bridge Commander"
+description: >
+  Bridge Commander is a starship command simulator that puts players in command
+  of Federation vessels during a tactical campaign with bridge-crew orders,
+  ship systems, and real-time space combat.
+based_on:
+  - Movies/Series/Star Trek
+released: 2002-02-27
+genres:
+  - simulator
+  - strategy
+  - tactical
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Bridge_Commander
+metacritic: https://www.metacritic.com/game/star-trek-bridge-commander/
+igdb: https://www.igdb.com/games/star-trek-bridge-commander
+developers: Totally Games
+publishers: Activision
+characters:
+  - name: Jean-Luc Picard
+    voice: Patrick Stewart
+  - name: Data
+    voice: Brent Spiner
+  - name: Saffi Larsen
+    voice: Martha Hackett

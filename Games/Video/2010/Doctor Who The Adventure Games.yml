@@ -1,0 +1,26 @@
+name: "Doctor Who: The Adventure Games"
+description: >
+  The Adventure Games is an episodic Doctor Who adventure series led by the
+  Eleventh Doctor and Amy Pond, combining exploration, puzzles, stealth, and
+  BBC-produced story episodes.
+based_on:
+  - Shows/2005/Doctor Who
+released: 2010-06-05
+genres:
+  - puzzle
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Doctor_Who:_The_Adventure_Games
+igdb: https://www.igdb.com/games/doctor-who-the-adventure-games
+developers: Sumo Digital
+publishers:
+  - BBC Wales Interactive
+  - BBC Worldwide Digital Entertainment
+characters:
+  - name: The Doctor
+    actor: Matt Smith
+  - name: Amy Pond
+    actor: Karen Gillan
+  - name: Rory Williams
+    actor: Arthur Darvill
+  - name: River Song
+    actor: Alex Kingston

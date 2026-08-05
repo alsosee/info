@@ -1,0 +1,29 @@
+name: The X-Files Game
+description: >
+  The X-Files Game is a live-action interactive adventure in which FBI agent
+  Craig Willmore investigates the disappearance of Mulder and Scully through
+  full-motion video scenes and evidence-based choices.
+based_on:
+  - Shows/1993/The X-Files
+released: 1998-05-31
+genres:
+  - point-and-click
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/The_X-Files_Game
+metacritic: https://www.metacritic.com/game/the-x-files-game/
+igdb: https://www.igdb.com/games/the-x-files-game--1
+developers: HyperBole Studios
+publishers:
+  - Fox Interactive
+  - Sony Computer Entertainment Europe
+characters:
+  - name: Craig Willmore
+    actor: Jordan Lee Williams
+  - name: Dana Scully
+    actor: Gillian Anderson
+  - name: Fox Mulder
+    actor: David Duchovny
+  - name: Walter Skinner
+    actor: Mitch Pileggi
+  - name: X
+    actor: Steven Williams

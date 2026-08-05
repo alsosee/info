@@ -1,0 +1,33 @@
+name: Star Trek Online
+description: >
+  Star Trek Online is a massively multiplayer online role-playing game set in
+  the Star Trek universe, combining captain progression, away-team missions, and
+  starship combat across Federation, Klingon, Romulan, and later-era storylines.
+based_on:
+  - Movies/Series/Star Trek
+released: 2010-02-02
+genres:
+  - role-playing
+  - simulator
+  - strategy
+  - tactical
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek_Online
+metacritic: https://www.metacritic.com/game/star-trek-online/
+igdb: https://www.igdb.com/games/star-trek-online
+website: https://www.playstartrekonline.com/
+steam: https://store.steampowered.com/app/9900/Star_Trek_Online/
+developers: Cryptic Studios
+publishers:
+  - Atari
+  - Perfect World Entertainment
+  - Gearbox Publishing
+characters:
+  - name: Spock
+    voice: Leonard Nimoy
+  - name: Emergency Medical Hologram
+    voice: Robert Picardo
+  - name: Worf
+    voice: Michael Dorn
+  - name: Seven of Nine
+    voice: Jeri Ryan

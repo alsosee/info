@@ -1,0 +1,29 @@
+name: "CSI: Crime Scene Investigation"
+description: >
+  CSI: Crime Scene Investigation adapts the forensic procedural into a
+  first-person adventure game where players collect evidence, process lab work,
+  and solve cases alongside the Las Vegas CSI team.
+based_on:
+  - Shows/2000/CSI Crime Scene Investigation
+released: 2003-03-26
+genres:
+  - puzzle
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/CSI:_Crime_Scene_Investigation_(video_game)
+metacritic: https://www.metacritic.com/game/csi-crime-scene-investigation/
+igdb: https://www.igdb.com/games/csi-crime-scene-investigation
+developers:
+  - 369 Interactive
+  - EPCConnect
+publishers: Aspyr Media
+characters:
+  - name: Gil Grissom
+    actor: William Petersen
+  - name: Catherine Willows
+    actor: Marg Helgenberger
+  - name: Nick Stokes
+    actor: George Eads
+  - name: Warrick Brown
+    actor: Gary Dourdan
+  - name: Sara Sidle
+    actor: Jorja Fox

@@ -1,0 +1,28 @@
+name: "Prison Break: The Conspiracy"
+description: >
+  The Conspiracy retells the first season of Prison Break from the perspective
+  of Company agent Tom Paxton, mixing stealth, brawling, and story scenes inside
+  Fox River State Penitentiary.
+based_on:
+  - Shows/2005/Prison Break
+released: 2010-03-26
+genres:
+  - puzzle
+  - beat 'em up
+  - adventure
+wikipedia: https://en.wikipedia.org/wiki/Prison_Break:_The_Conspiracy
+metacritic: https://www.metacritic.com/game/prison-break-the-conspiracy/
+igdb: https://www.igdb.com/games/prison-break-the-conspiracy
+developers: ZootFly
+publishers: Deep Silver
+characters:
+  - name: Tom Paxton
+    actor: David Garrison
+  - name: Michael Scofield
+    actor: Wentworth Miller
+  - name: Lincoln Burrows
+    actor: Dominic Purcell
+  - name: John Abruzzi
+    actor: Peter Stormare
+  - name: Theodore "T-Bag" Bagwell
+    actor: Robert Knepper

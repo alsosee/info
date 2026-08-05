@@ -1,0 +1,32 @@
+name: "Star Trek: Voyager - Elite Force"
+description: >
+  Elite Force is a first-person shooter set aboard the USS Voyager, following
+  the Hazard Team through Borg, Hirogen, and alien-ship missions in a story tied
+  to Star Trek: Voyager.
+based_on:
+  - Shows/1995/Star Trek Voyager
+released: 2000-09-20
+genres:
+  - shooter
+wikipedia: https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force
+metacritic: https://www.metacritic.com/game/star-trek-voyager-elite-force/
+igdb: https://www.igdb.com/games/star-trek-voyager-elite-force
+developers:
+  - Raven Software
+  - Pipe Dream Interactive
+  - Westlake Interactive
+publishers:
+  - Activision
+  - Aspyr Media
+  - Majesco Entertainment
+characters:
+  - name: Kathryn Janeway
+    voice: Kate Mulgrew
+  - name: Tuvok
+    voice: Tim Russ
+  - name: Seven of Nine
+    voice: Jeri Ryan
+  - name: The Doctor
+    voice: Robert Picardo
+  - name: Neelix
+    voice: Ethan Phillips
