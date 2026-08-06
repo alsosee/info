@@ -1,4 +1,5 @@
 name: The Bear
+series: The Bear
 description: >
   Carmen "Carmy" Berzatto, a young chef from the fine-dining world, comes home to Chicago to run his family's sandwich shop after a heartbreaking death in his family.
   As he fights to transform both the shop and himself, he works alongside a rough-around-the-edges kitchen crew that ultimately reveal themselves as his chosen family.
@@ -12,6 +13,7 @@ wikipedia: https://en.wikipedia.org/wiki/The_Bear_(TV_series)
 imdb: https://www.imdb.com/title/tt14452776
 tmdb: https://www.themoviedb.org/tv/136315
 trailer: https://www.youtube.com/watch?v=gBll9Y9IskE
+hulu: https://www.hulu.com/series/the-bear-05eb6a8e-90ed-4947-8c0b-e6536cbddd5f
 creators: Christopher Storer
 producers:
   - Joanna Calo
@@ -41,3 +43,71 @@ characters:
     actor: Jon Bernthal
   - name: Uncle Jimmy
     actor: Oliver Platt
+episodes:
+  - name: System
+    description: >
+      Carmy attempts to retrain the employees of The Original Beef of Chicagoland, but is faced with resistance and brings in a talented young chef to help.
+    released: 2022-06-23
+    length: 28m
+    directors: Christopher Storer
+    writers: Christopher Storer
+
+  - name: Hands
+    description: >
+      A surprise health inspection reveals cracks in the restaurant's foundation as Carmy clashes with Richie.
+    released: 2022-06-23
+    length: 31m
+    directors: Christopher Storer
+    writers: Christopher Storer
+
+  - name: Brigade
+    description: >
+      Carmy attends Al-Anon while Sydney struggles to gain the kitchen staff's respect.
+    released: 2022-06-23
+    length: 29m
+    directors: Joanna Calo
+    writers: Christopher Storer
+
+  - name: Dogs
+    description: >
+      Carmy and Richie cater a children's birthday party while Tina and Sydney work together and Marcus experiments with desserts.
+    released: 2022-06-23
+    length: 30m
+    directors: Christopher Storer
+    writers: Sofya Levitsky-Weitz
+
+  - name: Sheridan
+    description: >
+      Problems mount in the kitchen, and Sydney looks for practical ways to keep service moving.
+    released: 2022-06-23
+    length: 25m
+    directors: Joanna Calo
+    writers: Karen Joseph Adcock
+
+  - name: Ceres
+    description: >
+      Richie notices changes in the neighborhood while Sugar and Carmy try to bring order to the office.
+    released: 2022-06-23
+    length: 31m
+    directors: Joanna Calo
+    writers:
+      - Catherine Schetina
+      - Rene Gube
+
+  - name: Review
+    description: >
+      A difficult day in the kitchen pushes tensions among the staff higher.
+    released: 2022-06-23
+    length: 20m
+    directors: Christopher Storer
+    writers: Joanna Calo
+
+  - name: Braciole
+    description: >
+      The restaurant's problems come to a head as Carmy faces a major decision about its future.
+    released: 2022-06-23
+    length: 48m
+    directors: Christopher Storer
+    writers:
+      - Christopher Storer
+      - Joanna Calo
