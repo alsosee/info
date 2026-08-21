@@ -2,6 +2,7 @@ name: "Assassin's Creed Black Flag Resynced"
 description: >
   Remake of Assassin's Creed IV: Black Flag, returning to Edward Kenway's Caribbean
   pirate story with modernized visuals, systems, and expanded narrative material.
+remake_of: Games/Video/2013/Assassin's Creed IV Black Flag
 previous: Games/Video/2025/Assassin's Creed Shadows
 released: 2026-07-09
 series: Assassin's Creed
@@ -9,9 +10,19 @@ genres:
   - action-adventure
   - stealth
 wikipedia: https://en.wikipedia.org/wiki/Assassin%27s_Creed#Assassin's_Creed_Black_Flag_Resynced
+imdb: https://www.imdb.com/title/tt42073974
+steam: https://store.steampowered.com/app/3751950/Assassins_Creed_Black_Flag_Resynced/
 igdb: https://www.igdb.com/games/assassins-creed-black-flag-resynced
+website: https://www.ubisoft.com/en-us/game/assassins-creed/black-flag-resynced
 developers: Ubisoft Singapore
 publishers: Ubisoft
+directors:
+  - Richard Knight
+  - Paul Fu
+writers: Darby McDevitt
+composers:
+  - Brian Tyler
+  - Stephen Lukach
 characters:
   - name: Edward Kenway
     actor: Matt Ryan
