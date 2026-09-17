@@ -1,0 +1,116 @@
+name: President Curtis
+description: >
+  A Rick and Morty spin-off following President Andre Curtis and his White
+  House staff as they handle interdimensional diplomacy, paranormal
+  investigations, and unexplained crises that Rick Sanchez usually avoids.
+released: 2026-07-26
+rating: TV-14
+genres:
+  - animation
+  - adventure
+  - comedy
+  - science fiction
+network: Adult Swim
+wikipedia: https://en.wikipedia.org/wiki/President_Curtis_(TV_series)
+imdb: https://www.imdb.com/title/tt37692332
+rotten_tomatoes: https://www.rottentomatoes.com/tv/president_curtis/s01
+max: https://www.hbomax.com/show/a3313dd3-2d1f-4072-8525-1434643403a8
+trailer: https://www.youtube.com/watch?v=KuSbjxrKvUc
+creators:
+  - James Siciliano
+  - Dan Harmon
+music: Ryan Elder
+production:
+  - Pug Party
+  - Harmonious Claptrap
+  - Williams Street
+characters:
+  - name: President Andre Curtis
+    voice: Keith David
+  - name: Rho Banks
+    voice: Stephanie Beatriz
+  - name: Special Agent Francis O'Doyle
+    voice: Jim Rash
+  - name: Special Agent Alan Chomps
+    voice: Dan Bakkedahl
+  - name: Dr. Finch
+    voice: David Cross
+  - name: Janice
+    voice: Alanna Ubach
+episodes:
+  - name: Pilot
+    description: >
+      President Curtis goes head-to-head with the CIA over a secret tape while
+      Rho Banks begins her first day as White House Chief of Staff.
+    released: 2026-07-26
+    length: 24m
+    directors: Fill Marc Sagadraca
+    writers:
+      - Dan Harmon
+      - James Siciliano
+  - name: Triangle
+    description: >
+      After a dead Loch Ness monster washes ashore, Curtis, Banks, and O'Doyle
+      investigate a secret monster prison in the Bermuda Triangle.
+    released: 2026-08-02
+    length: 24m
+    directors: Bryan Newton
+    writers: Anne Lane
+  - name: Ex
+    description: >
+      Curtis attends his ex-wife's inauguration gala while Banks and O'Doyle
+      are sent to a fully immersive job evaluation facility.
+    released: 2026-08-09
+    length: 24m
+    directors: Juan Meza-León
+    writers: James Siciliano
+  - name: Purchase
+    description: >
+      A discovery tied to the Louisiana Purchase sends Curtis and his team into
+      a race to protect the United States from an old territorial threat.
+    released: 2026-08-16
+    length: 24m
+    directors: Erik Kling
+    writers: Brian Prodi Flynn
+  - name: David
+    description: >
+      After clashing with his own party, Curtis travels to Camp David for a
+      strange test of his presidential confidence.
+    released: 2026-08-23
+    length: 24m
+    directors: Mollie Helms
+    writers: Malloy Moseley
+  - name: Hollow
+    description: >
+      When America faces a national energy crisis, Curtis and his team venture
+      deep into Hollow Earth to search for a solution.
+    released: 2026-08-30
+    length: 24m
+    directors: Juan Meza-León
+    writers: Danielle Uhlarik
+  - name: Ghosts
+    description: >
+      O'Doyle enters Banks' computer brain to help with a malware infection
+      while Curtis gives Abraham Lincoln's ghost a powerful gift.
+    released: 2026-09-06
+    length: 24m
+    directors: Erik Kling
+    writers: Haley Daniels
+  - name: Knox
+    description: >
+      A robbery at Fort Knox sends Curtis and the FBI after the culprit while
+      O'Doyle confronts figures from his past.
+    released: 2026-09-13
+    length: 24m
+  - name: Synths
+    description: >
+      With Christmas spirit running low across the country, Curtis tries to
+      restore cheer by deploying custom-designed synthetic beings.
+    released: 2026-09-20
+    length: 24m
+  - name: Timber
+    description: >
+      When a murderous American legend resurfaces, Curtis faces a challenge
+      that tests both his response and his public image.
+    released: 2026-09-27
+    length: 24m
