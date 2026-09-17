@@ -1,0 +1,48 @@
+name: The Flintstones
+series: The Flintstones
+description: >
+  Fred and Wilma Flintstone live a Stone Age version of suburban life in Bedrock,
+  where modern conveniences are powered by prehistoric creatures and everyday
+  domestic problems become animated sitcom chaos. The first season introduces
+  Fred, Wilma, Barney, Betty, and Dino through bowling nights, schemes, neighbors,
+  and family comedy.
+released: 1960-09-30
+rating: TV-G
+length: 25m
+genres:
+  - animation
+  - comedy
+  - family
+  - sitcom
+network: ABC
+wikipedia: https://en.wikipedia.org/wiki/The_Flintstones
+imdb: https://www.imdb.com/title/tt0053502
+tmdb: https://www.themoviedb.org/tv/1996-the-flintstones/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/the_flintstones/s01
+website: https://www.warnerbros.com/tv/flintstones-season-1
+creators:
+  - William Hanna
+  - Joseph Barbera
+directors:
+  - William Hanna
+  - Joseph Barbera
+writers:
+  - Warren Foster
+  - Michael Maltese
+  - Joseph Barbera
+producers:
+  - William Hanna
+  - Joseph Barbera
+music: Hoyt Curtin
+production: Hanna-Barbera Productions
+characters:
+  - name: Fred Flintstone
+    voice: Alan Reed
+  - name: Wilma Flintstone
+    voice: Jean Vander Pyl
+  - name: Barney Rubble
+    voice: Mel Blanc
+  - name: Betty Rubble
+    voice: Bea Benaderet
+  - name: Dino
+    voice: Mel Blanc
