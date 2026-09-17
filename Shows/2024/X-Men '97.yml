@@ -1,0 +1,151 @@
+name: "X-Men '97"
+description: >
+  A revival and continuation of X-Men: The Animated Series, following the X-Men
+  after Professor Xavier's departure from Earth. In the first season, the team
+  faces new uncertainty under Magneto's leadership while a renewed Sentinel
+  threat builds against mutantkind.
+series: "X-Men '97"
+released: 2024-03-20
+rating: TV-14
+genres:
+  - action
+  - adventure
+  - science fiction
+  - superhero
+network: Disney+
+wikipedia: https://en.wikipedia.org/wiki/X-Men_%2797_season_1
+imdb: https://www.imdb.com/title/tt16026746
+tmdb: https://www.themoviedb.org/tv/138502-x-men-97/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/x_men_97/s01
+creators: Beau DeMayo
+directors:
+  - Jake Castorena
+  - Chase Conley
+  - Emi Yonemura
+  - Emi-Emmett Yonemura
+writers:
+  - Beau DeMayo
+  - Charley Feldman
+  - JB Ballard
+  - Anthony Sellitti
+music: The Newton Brothers
+production:
+  - Marvel Studios Animation
+characters:
+  - name: Scott Summers / Cyclops
+    voice: Ray Chase
+  - name: Jean Grey
+    voice: Jennifer Hale
+  - name: Ororo Munroe / Storm
+    voice: Alison Sealy-Smith
+  - name: Logan / Wolverine
+    voice: Cal Dodd
+  - name: Morph
+    voice: J. P. Karliak
+  - name: Rogue
+    voice: Lenore Zann
+  - name: Dr. Henry "Hank" McCoy / Beast
+    voice: George Buza
+  - name: Remy LeBeau / Gambit
+    voice: A. J. LoCascio
+  - name: Jubilation Lee / Jubilee
+    voice: Holly Chou
+  - name: Lucas Bishop
+    voice: Isaac Robinson-Smith
+  - name: Erik "Magnus" Lehnsherr / Magneto
+    voice: Matthew Waterson
+  - name: Professor Charles Xavier
+    voice: Ross Marquand
+  - name: Kurt Wagner / Nightcrawler
+    voice: Adrian Hough
+episodes:
+  - name: To Me, My X-Men
+    description: >
+      One year after Professor Xavier leaves Earth, the X-Men defend a young
+      mutant from anti-mutant forces and investigate the return of Sentinel
+      technology.
+    released: 2024-03-20
+    directors: Jake Castorena
+    writers: Beau DeMayo
+  - name: Mutant Liberation Begins
+    description: >
+      Magneto attempts to prove he can honor Xavier's ideals while the X-Men
+      confront public distrust and a violent challenge at the United Nations.
+    released: 2024-03-20
+    directors: Chase Conley
+    writers: Beau DeMayo
+  - name: Fire Made Flesh
+    description: >
+      Jean Grey's return exposes a disturbing mystery tied to Mister Sinister,
+      forcing the team to protect Cyclops's newborn son.
+    released: 2024-03-27
+    directors: Emi Yonemura
+    writers:
+      - Beau DeMayo
+      - Charley Feldman
+  - name: Motendo
+    description: >
+      Jubilee and Roberto are pulled into a retro video game world as Jubilee
+      wrestles with growing older and her place on the team.
+    released: 2024-04-03
+    directors: Chase Conley
+    writers:
+      - Beau DeMayo
+      - Charley Feldman
+  - name: "Lifedeath - Part 1"
+    description: >
+      Storm accompanies Forge to his ranch, where his attempt to restore her
+      powers is complicated by painful revelations and a supernatural threat.
+    released: 2024-04-03
+    directors: Chase Conley
+    writers:
+      - Beau DeMayo
+      - Charley Feldman
+  - name: Remember It
+    description: >
+      The X-Men visit Genosha as the mutant nation prepares to join the United
+      Nations, putting old relationships and new political hopes under pressure.
+    released: 2024-04-10
+    directors: Emi Yonemura
+    writers: Beau DeMayo
+  - name: "Lifedeath - Part 2"
+    description: >
+      Xavier faces a test of loyalty among the Shi'ar while Storm confronts the
+      Adversary and the fear surrounding her lost powers.
+    released: 2024-04-17
+    directors: Chase Conley
+    writers: Charley Feldman
+  - name: Bright Eyes
+    description: >
+      In the aftermath of Genosha, Rogue searches for answers while the X-Men
+      uncover evidence of a secret advanced Sentinel program.
+    released: 2024-04-24
+    directors: Emi-Emmett Yonemura
+    writers:
+      - Charley Feldman
+      - JB Ballard
+  - name: "Tolerance Is Extinction - Part 1"
+    description: >
+      Cable warns the X-Men about Bastion's plan for a long war against mutants
+      as Prime Sentinels begin threatening mutants around the world.
+    released: 2024-05-01
+    directors: Chase Conley
+    writers:
+      - Beau DeMayo
+      - Anthony Sellitti
+  - name: "Tolerance Is Extinction - Part 2"
+    description: >
+      Xavier returns to a divided team as the X-Men split their efforts between
+      confronting Magneto and stopping Bastion's Sentinel network.
+    released: 2024-05-08
+    directors: Emi-Emmett Yonemura
+    writers: Anthony Sellitti
+  - name: "Tolerance Is Extinction - Part 3"
+    description: >
+      The X-Men make a final stand to prevent Bastion's plan and Asteroid M
+      from triggering a new catastrophe for humans and mutants.
+    released: 2024-05-15
+    directors: Chase Conley
+    writers:
+      - Beau DeMayo
+      - Anthony Sellitti
