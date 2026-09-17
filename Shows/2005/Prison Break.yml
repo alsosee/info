@@ -9,5 +9,36 @@ genres:
   - "crime"
   - "thriller"
 imdb: "https://www.imdb.com/title/tt0455275"
+tmdb: https://www.themoviedb.org/tv/2288-prison-break/season/1
+rotten_tomatoes: https://www.rottentomatoes.com/tv/prison_break/s01
+wikipedia: https://en.wikipedia.org/wiki/Prison_Break_season_1
 website: "http://www.fox.com/prisonbreak"
 network: "FOX"
+creators: Paul Scheuring
+music:
+  - Ramin Djawadi
+production:
+  - Adelstein/Parouse Productions
+  - Original Film
+  - 20th Century Fox Television
+characters:
+  - name: Michael Scofield
+    actor: Wentworth Miller
+  - name: Lincoln Burrows
+    actor: Dominic Purcell
+  - name: Veronica Donovan
+    actor: Robin Tunney
+  - name: John Abruzzi
+    actor: Peter Stormare
+  - name: Fernando Sucre
+    actor: Amaury Nolasco
+  - name: L.J. Burrows
+    actor: Marshall Allman
+  - name: Brad Bellick
+    actor: Wade Williams
+  - name: Paul Kellerman
+    actor: Paul Adelstein
+  - name: Theodore "T-Bag" Bagwell
+    actor: Robert Knepper
+  - name: Sara Tancredi
+    actor: Sarah Wayne Callies

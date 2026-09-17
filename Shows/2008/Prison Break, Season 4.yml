@@ -10,5 +10,34 @@ genres:
   - "crime"
   - "thriller"
 imdb: "https://www.imdb.com/title/tt0455275"
+tmdb: https://www.themoviedb.org/tv/2288-prison-break/season/4
+rotten_tomatoes: https://www.rottentomatoes.com/tv/prison_break/s04
+wikipedia: https://en.wikipedia.org/wiki/Prison_Break_season_4
 website: "http://www.fox.com/prisonbreak"
 network: "FOX"
+creators: Paul Scheuring
+music:
+  - Ramin Djawadi
+production:
+  - Adelstein/Parouse Productions
+  - Original Film
+  - 20th Century Fox Television
+characters:
+  - name: Michael Scofield
+    actor: Wentworth Miller
+  - name: Lincoln Burrows
+    actor: Dominic Purcell
+  - name: Sara Tancredi
+    actor: Sarah Wayne Callies
+  - name: Fernando Sucre
+    actor: Amaury Nolasco
+  - name: Alexander Mahone
+    actor: William Fichtner
+  - name: Brad Bellick
+    actor: Wade Williams
+  - name: Theodore "T-Bag" Bagwell
+    actor: Robert Knepper
+  - name: Donald Self
+    actor: Michael Rapaport
+  - name: Gretchen Morgan
+    actor: Jodi Lyn O'Keefe

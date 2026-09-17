@@ -10,5 +10,38 @@ genres:
   - "crime"
   - "thriller"
 imdb: "https://www.imdb.com/title/tt0455275"
+tmdb: https://www.themoviedb.org/tv/2288-prison-break/season/5
+rotten_tomatoes: https://www.rottentomatoes.com/tv/prison_break/s05
+wikipedia: https://en.wikipedia.org/wiki/Prison_Break_season_5
 website: "http://www.fox.com/prisonbreak"
 network: "FOX"
+creators: Paul Scheuring
+music:
+  - Ramin Djawadi
+production:
+  - 20th Century Fox Television
+  - Adelstein Productions
+  - Dawn Olmstead Productions
+  - One Light Road Productions
+  - Original Film
+characters:
+  - name: Michael Scofield
+    actor: Wentworth Miller
+  - name: Lincoln Burrows
+    actor: Dominic Purcell
+  - name: Sara Scofield
+    actor: Sarah Wayne Callies
+  - name: Paul Kellerman
+    actor: Paul Adelstein
+  - name: Benjamin Miles "C-Note" Franklin
+    actor: Rockmond Dunbar
+  - name: Theodore "T-Bag" Bagwell
+    actor: Robert Knepper
+  - name: Fernando Sucre
+    actor: Amaury Nolasco
+  - name: Jacob Anton Ness
+    actor: Mark Feuerstein
+  - name: Sheba
+    actor: Inbar Lavi
+  - name: David "Whip" Martin
+    actor: Augustus Prew
