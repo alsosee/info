@@ -99445,7 +99445,7 @@
     "Shows/2018/Maniac.html": {
       "content_encoding": "gzip",
       "content_type": "text/html; charset=utf-8",
-      "sha256": "4d958739f4da24a94a51edffacfcd03613092907c8c6bd165a82611a7c51e281",
+      "sha256": "f111be9c18b5681319830cb37c6de1290893dbc348887236802a57efbac2843a",
       "size": 14002,
       "source_size": 190289
     },
@@ -105296,8 +105296,8 @@
     "sitemap.xml": {
       "content_encoding": "gzip",
       "content_type": "application/xml; charset=utf-8",
-      "sha256": "a56abb4ee594d9dc86548015ef0c3ef35de9fa8f0631a532fbf9993946fc676c",
-      "size": 146057,
+      "sha256": "b50e8b6cc5ff4cdcc610a473c94c9982f27a11491ad720a46555359e3872f42f",
+      "size": 146075,
       "source_size": 1554423
     },
     "sprite.png": {
