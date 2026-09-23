@@ -96,12 +96,20 @@ def tracked_yaml() -> list[Path]:
     return [ROOT / item.decode() for item in raw.split(b"\0") if item]
 
 
-def replace_scalars(text: str, replacements: dict[str, str]) -> tuple[str, int]:
+def replace_scalars(
+    text: str,
+    replacements: dict[str, str],
+    *,
+    preserve_name: bool = False,
+) -> tuple[str, int]:
     result: list[str] = []
     changed = 0
     for line in text.splitlines(keepends=True):
         match = SCALAR_LINE.match(line)
         if not match:
+            result.append(line)
+            continue
+        if preserve_name and match.group("prefix").lstrip().startswith("name:"):
             result.append(line)
             continue
         raw_value = match.group("value")
@@ -173,7 +181,11 @@ def main() -> int:
             text = path.read_text(encoding="utf-8")
         except FileNotFoundError:
             continue
-        updated, count = replace_scalars(text, replacements)
+        updated, count = replace_scalars(
+            text,
+            replacements,
+            preserve_name=path.parent == ROOT / "Companies",
+        )
         updated, splits = split_company_scalars(updated)
         if updated != text:
             edits[path] = updated
