@@ -10,3 +10,51 @@
 /Comics/2009/One%20Punch%20Man /Comics/One%20Punch%20Man
 /Comics/2013/The%20Last%20of%20Us%20American%20Dreams /Comics/The%20Last%20of%20Us%20American%20Dreams
 /Comics/2020/Cyberpunk%202077%20Trauma%20Team /Comics/Cyberpunk%202077%20Trauma%20Team
+
+# Canonical entity paths
+/Companies/FOX /Companies/Fox 301
+/Companies/20th%20Century-Fox /Companies/20th%20Century%20Fox 301
+/Companies/Ubi%20Soft /Companies/Ubisoft 301
+/People/Stellan%20Skarsgard /People/Stellan%20Skarsg%C3%A5rd 301
+/People/Karla%20Sofia%20Gascon /People/Karla%20Sof%C3%ADa%20Gasc%C3%B3n 301
+
+# Company names containing slashes use slash-free paths
+/Companies/1C/Cenega /Companies/1C-Cenega 301
+/Companies/Adelstein/Parouse%20Productions /Companies/Adelstein-Parouse%20Productions 301
+/Companies/Bill/Phillips%20Productions /Companies/Bill-Phillips%20Productions 301
+/Companies/B%C3%B3rd%20Scann%C3%A1n%20na%20h%C3%89ireann/Irish%20Film%20Board /Companies/B%C3%B3rd%20Scann%C3%A1n%20na%20h%C3%89ireann-Irish%20Film%20Board 301
+/Companies/Craven/Maddalena%20Films /Companies/Craven-Maddalena%20Films 301
+/Companies/Cruise/Wagner%20Productions /Companies/Cruise-Wagner%20Productions 301
+/Companies/Don%20Simpson/Jerry%20Bruckheimer%20Films /Companies/Don%20Simpson-Jerry%20Bruckheimer%20Films 301
+/Companies/Emmett/Furla/Oasis%20Films /Companies/Emmett-Furla-Oasis%20Films 301
+/Companies/Gold/Miller%20Productions /Companies/Gold-Miller%20Productions 301
+/Companies/Green/Epstein%20Productions /Companies/Green-Epstein%20Productions 301
+/Companies/Hear/Say%20Productions /Companies/Hear-Say%20Productions 301
+/Companies/Jinks/Cohen%20Company /Companies/Jinks-Cohen%20Company 301
+/Companies/K/O%20Paper%20Products /Companies/K-O%20Paper%20Products 301
+/Companies/Lego%20System%20A/S /Companies/Lego%20System%20A-S 301
+/Companies/MGM/UA%20Distribution%20Co. /Companies/MGM-UA%20Distribution%20Co. 301
+/Companies/MGM/UA%20Entertainment%20Co. /Companies/MGM-UA%20Entertainment%20Co. 301
+/Companies/MacDonald/Parkes%20Productions /Companies/Parkes-MacDonald%20Productions 301
+/Companies/Michaels/Goldwyn /Companies/Michaels-Goldwyn 301
+/Companies/NB/GG%20Pictures /Companies/NB-GG%20Pictures 301
+/Companies/Neufeld/Rehme%20Productions /Companies/Neufeld-Rehme%20Productions 301
+/Companies/PDI/DreamWorks /Companies/PDI-DreamWorks 301
+/Companies/Parkes/MacDonald%20Productions /Companies/Parkes-MacDonald%20Productions 301
+/Companies/Rocklin/Faust%20Productions /Companies/Rocklin-Faust%20Productions 301
+/Companies/Roth/Arnold%20Productions /Companies/Roth-Arnold%20Productions 301
+/Companies/Roth/Kirschenbaum%20Films /Companies/Roth-Kirschenbaum%20Films 301
+/Companies/Steve%20Roth/Oak%20Productions /Companies/Steve%20Roth-Oak%20Productions 301
+/Companies/The%20Affleck/Middleton%20Project /Companies/The%20Affleck-Middleton%20Project 301
+/Companies/The%20Kennedy/Marshall%20Company /Companies/The%20Kennedy-Marshall%20Company 301
+/Companies/Tolkin/Ruddy%20Productions /Companies/Tolkin-Ruddy%20Productions 301
+/Companies/Unison/Paladin /Companies/Unison-Paladin 301
+/Companies/WDR/Arte /Companies/WDR-Arte 301
+/Companies/Witt/Thomas%20Productions /Companies/Witt-Thomas%20Productions 301
+/Companies/ZA/UM /Companies/ZA-UM 301
+/Companies/ZDF/ARTE /Companies/ZDF-Arte 301
+/Companies/ZDF/Arte /Companies/ZDF-Arte 301
+/Companies/Zadan/Meron%20Production /Companies/Zadan-Meron%20Production 301
+/Companies/Zanuck/Brown%20Company /Companies/Zanuck-Brown%20Company 301
+/Companies/Zide/Perry%20Productions /Companies/Zide-Perry%20Productions 301
+/Companies/Zucker/Abrahams/Zucker%20Productions /Companies/Zucker-Abrahams-Zucker%20Productions 301
