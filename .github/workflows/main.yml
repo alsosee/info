@@ -93,7 +93,7 @@ jobs:
           search_index: info
           search_master_key: ${{ secrets.MEILISEARCH_MASTER_KEY }}
           search_state: ./state/state
-          ignorefile: .ignore
+          ignorefile: ./info/.ignore
           force: ${{ env.FORCE }}
 
       - name: Deploy static site to Cloudflare R2
