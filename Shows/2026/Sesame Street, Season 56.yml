@@ -9,7 +9,9 @@ rating: TV-Y
 genres:
   - children
   - educational
-network: Netflix / PBS Kids
+network:
+  - Netflix
+  - PBS Kids
 wikipedia: https://en.wikipedia.org/wiki/Sesame_Street
 imdb: https://www.imdb.com/title/tt0063951
 website: https://www.netflix.com/title/83075543

@@ -64,7 +64,6 @@ episodes:
     length: 50m
     imdb: https://www.imdb.com/title/tt10230444
     wikipedia: https://en.wikipedia.org/wiki/New_World_Order_(The_Falcon_and_the_Winter_Soldier)
-    directors: Kari Skogland
     writers: Malcolm Spellman
     characters:
       - name: Sam Wilson
@@ -87,7 +86,6 @@ episodes:
     length: 50m
     imdb: https://www.imdb.com/title/tt13130300
     wikipedia: https://en.wikipedia.org/wiki/The_Star-Spangled_Man
-    directors: Kari Skogland
     writers: Michael Kastelein
     characters:
       - name: Sam Wilson
@@ -110,7 +108,6 @@ episodes:
     length: 54m
     imdb: https://www.imdb.com/title/tt13130302
     wikipedia: https://en.wikipedia.org/wiki/Power_Broker_(The_Falcon_and_the_Winter_Soldier)
-    directors: Kari Skogland
     writers: Derek Kolstad
     characters:
       - name: Sam Wilson
@@ -133,7 +130,6 @@ episodes:
     length: 54m
     imdb: https://www.imdb.com/title/tt13130304
     wikipedia: https://en.wikipedia.org/wiki/The_Whole_World_Is_Watching
-    directors: Kari Skogland
     writers: Derek Kolstad
     characters:
       - name: Sam Wilson
@@ -158,7 +154,6 @@ episodes:
     length: 61m
     imdb: https://www.imdb.com/title/tt13130306
     wikipedia: https://en.wikipedia.org/wiki/Truth_(The_Falcon_and_the_Winter_Soldier)
-    directors: Kari Skogland
     writers: Dalan Musson
     characters:
       - name: Sam Wilson
@@ -181,7 +176,6 @@ episodes:
     length: 51m
     imdb: https://www.imdb.com/title/tt13130310
     wikipedia: https://en.wikipedia.org/wiki/One_World,_One_People
-    directors: Kari Skogland
     writers:
       - Malcolm Spellman
       - Josef Sawyer

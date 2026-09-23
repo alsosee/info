@@ -29,7 +29,7 @@ production:
   - Lorimar Television
   - DawnField Entertainment
   - The Konigsberg & Sanitsky Company
-  - Green/Epstein Productions
+  - Green-Epstein Productions
 characters:
   - name: Pennywise
     actor: Tim Curry
@@ -59,7 +59,6 @@ episodes:
       In 1960, the children who become the Losers Club investigate a series of disappearances and frightening visions in Derry.
     released: 1990-11-18
     length: 1h36m
-    directors: Tommy Lee Wallace
     writers:
       - Lawrence D. Cohen
       - Tommy Lee Wallace
@@ -68,5 +67,4 @@ episodes:
       Thirty years later, the adult Losers return to Derry after a new wave of attacks suggests that the creature has awakened again.
     released: 1990-11-20
     length: 1h36m
-    directors: Tommy Lee Wallace
     writers: Tommy Lee Wallace

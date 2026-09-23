@@ -1,4 +1,11 @@
 name: "Fargo"
+directors:
+  - Adam Bernstein
+  - Randall Einhorn
+  - Colin Bucksey
+  - Scott Winant
+  - Matt Shakman
+series: Fargo
 released: 2014-04-15
 genres:
   - Anthology

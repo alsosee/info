@@ -1,4 +1,6 @@
 name: "Easy, Season 3"
+directors: Joe Swanberg
+series: Easy
 description: >
   The third and final season of the anthology series explores the evolving relationships and personal journeys of its Chicago-based characters as they face new challenges and conclusions.
 previous: Shows/2017/Easy, Season 2
@@ -19,7 +21,6 @@ episodes:
     released: 2019-05-10
     length: 30m
     imdb: https://www.imdb.com/title/tt8266352/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Kyle
@@ -36,7 +37,6 @@ episodes:
     released: 2019-05-10
     length: 29m
     imdb: https://www.imdb.com/title/tt8893714/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Hugh
@@ -53,7 +53,6 @@ episodes:
     released: 2019-05-10
     length: 26m
     imdb: https://www.imdb.com/title/tt8862552/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Chase
@@ -70,7 +69,6 @@ episodes:
     released: 2019-05-10
     length: 26m
     imdb: https://www.imdb.com/title/tt8876642/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Annie
@@ -85,7 +83,6 @@ episodes:
     released: 2019-05-10
     length: 30m
     imdb: https://www.imdb.com/title/tt8355312/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Kyle
@@ -102,7 +99,6 @@ episodes:
     released: 2019-05-10
     length: 30m
     imdb: https://www.imdb.com/title/tt8345554/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Jacob Malco
@@ -117,7 +113,6 @@ episodes:
     released: 2019-05-10
     length: 30m
     imdb: https://www.imdb.com/title/tt9165412/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Skrap
@@ -132,7 +127,6 @@ episodes:
     released: 2019-05-10
     length: 30m
     imdb: https://www.imdb.com/title/tt8354484/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Jeff
@@ -149,7 +143,6 @@ episodes:
     released: 2019-05-10
     length: 30m
     imdb: https://www.imdb.com/title/tt8864444/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Sophie

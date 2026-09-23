@@ -83,8 +83,6 @@ episodes:
     released: 2020-03-05
     length: 57m
     imdb: https://www.imdb.com/title/tt8888568
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland
   - name: Episode 2
@@ -94,8 +92,6 @@ episodes:
     released: 2020-03-05
     length: 50m
     imdb: https://www.imdb.com/title/tt8888570
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland
   - name: Episode 3
@@ -105,8 +101,6 @@ episodes:
     released: 2020-03-12
     length: 43m
     imdb: https://www.imdb.com/title/tt8888572
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland
   - name: Episode 4
@@ -116,8 +110,6 @@ episodes:
     released: 2020-03-19
     length: 46m
     imdb: https://www.imdb.com/title/tt8888574
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland
   - name: Episode 5
@@ -127,8 +119,6 @@ episodes:
     released: 2020-03-26
     length: 46m
     imdb: https://www.imdb.com/title/tt8888578
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland
   - name: Episode 6
@@ -138,8 +128,6 @@ episodes:
     released: 2020-04-02
     length: 52m
     imdb: https://www.imdb.com/title/tt8888580
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland
   - name: Episode 7
@@ -149,8 +137,6 @@ episodes:
     released: 2020-04-09
     length: 52m
     imdb: https://www.imdb.com/title/tt8888584
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland
   - name: Episode 8
@@ -160,7 +146,5 @@ episodes:
     released: 2020-04-16
     length: 51m
     imdb: https://www.imdb.com/title/tt8888582
-    directors:
-      - Alex Garland
     writers:
       - Alex Garland

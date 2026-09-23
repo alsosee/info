@@ -71,7 +71,6 @@ episodes:
     length: 30m
     imdb: https://www.imdb.com/title/tt9601584
     wikipedia: https://en.wikipedia.org/wiki/Filmed_Before_a_Live_Studio_Audience
-    directors: Matt Shakman
     writers: Jac Schaeffer
   - name: Don't Touch That Dial
     description: >
@@ -80,7 +79,6 @@ episodes:
     length: 37m
     imdb: https://www.imdb.com/title/tt10161310
     wikipedia: https://en.wikipedia.org/wiki/Don%27t_Touch_That_Dial
-    directors: Matt Shakman
     writers: Gretchen Enders
   - name: Now in Color
     description: >
@@ -89,7 +87,6 @@ episodes:
     length: 33m
     imdb: https://www.imdb.com/title/tt10161312
     wikipedia: https://en.wikipedia.org/wiki/Now_in_Color
-    directors: Matt Shakman
     writers: Megan McDonnell
   - name: We Interrupt This Program
     description: >
@@ -98,7 +95,6 @@ episodes:
     length: 35m
     imdb: https://www.imdb.com/title/tt10161316
     wikipedia: https://en.wikipedia.org/wiki/We_Interrupt_This_Program
-    directors: Matt Shakman
     writers:
       - Bobak Esfarjani
       - Megan McDonnell
@@ -109,7 +105,6 @@ episodes:
     length: 41m
     imdb: https://www.imdb.com/title/tt10161318
     wikipedia: https://en.wikipedia.org/wiki/On_a_Very_Special_Episode...
-    directors: Matt Shakman
     writers:
       - Peter Cameron
       - Mackenzie Dohr
@@ -120,7 +115,6 @@ episodes:
     length: 38m
     imdb: https://www.imdb.com/title/tt10161320
     wikipedia: https://en.wikipedia.org/wiki/All-New_Halloween_Spooktacular%21
-    directors: Matt Shakman
     writers:
       - Chuck Hayward
       - Peter Cameron
@@ -131,7 +125,6 @@ episodes:
     length: 38m
     imdb: https://www.imdb.com/title/tt13776690
     wikipedia: https://en.wikipedia.org/wiki/Breaking_the_Fourth_Wall_(WandaVision)
-    directors: Matt Shakman
     writers: Cameron Squires
   - name: Previously On
     description: >
@@ -140,7 +133,6 @@ episodes:
     length: 46m
     imdb: https://www.imdb.com/title/tt13776714
     wikipedia: https://en.wikipedia.org/wiki/Previously_On
-    directors: Matt Shakman
     writers: Laura Donney
   - name: The Series Finale
     description: >
@@ -149,5 +141,4 @@ episodes:
     length: 50m
     imdb: https://www.imdb.com/title/tt13778978
     wikipedia: https://en.wikipedia.org/wiki/The_Series_Finale
-    directors: Matt Shakman
     writers: Jac Schaeffer

@@ -1,4 +1,5 @@
 name: "Undone, Season 2"
+series: Undone
 description: >
   The second season follows Alma as she looks deeper into her family's past
   and pulls Becca into a search for truths that could reshape their present.
@@ -63,7 +64,6 @@ episodes:
     released: 2022-04-29
     length: 26m
     imdb: https://www.imdb.com/title/tt11369486/
-    directors: Hisko Hulsing
     writers: Kate Purdy
   - name: The Painting
     description: >
@@ -72,7 +72,6 @@ episodes:
     released: 2022-04-29
     length: 24m
     imdb: https://www.imdb.com/title/tt18967676/
-    directors: Hisko Hulsing
     writers: Elijah Aron
   - name: Mexico
     description: >
@@ -81,7 +80,6 @@ episodes:
     released: 2022-04-29
     length: 24m
     imdb: https://www.imdb.com/title/tt18967864/
-    directors: Hisko Hulsing
     writers: Gonzalo Cordova
   - name: Reflections
     description: >
@@ -90,7 +88,6 @@ episodes:
     released: 2022-04-29
     length: 23m
     imdb: https://www.imdb.com/title/tt18967866/
-    directors: Hisko Hulsing
     writers: April Shih
   - name: Lungs
     description: >
@@ -99,7 +96,6 @@ episodes:
     released: 2022-04-29
     length: 24m
     imdb: https://www.imdb.com/title/tt18967868/
-    directors: Hisko Hulsing
     writers: Carmiel Banasky
   - name: Help Me
     description: >
@@ -108,7 +104,6 @@ episodes:
     released: 2022-04-29
     length: 24m
     imdb: https://www.imdb.com/title/tt18967872/
-    directors: Hisko Hulsing
     writers: Mehar Sethi
   - name: Rectify
     description: >
@@ -117,7 +112,6 @@ episodes:
     released: 2022-04-29
     length: 25m
     imdb: https://www.imdb.com/title/tt18967874/
-    directors: Hisko Hulsing
     writers:
       - Elijah Aron
       - Patrick Metcalf
@@ -128,5 +122,4 @@ episodes:
     released: 2022-04-29
     length: 23m
     imdb: https://www.imdb.com/title/tt18967876/
-    directors: Hisko Hulsing
     writers: Kate Purdy

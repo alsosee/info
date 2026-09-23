@@ -1,4 +1,5 @@
 name: "Luther, Season 4"
+series: Luther
 description: >
   Living a reclusive life on the edge of the coast, Luther is pulled back to London 
   by news of a cannibalistic serial killer whose crimes are baffling the police. 
@@ -43,7 +44,6 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt4230038
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_4_(2015)
-    directors: Sam Miller
     writers: Neil Cross
   - name: Episode 2
     description: >
@@ -52,5 +52,4 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt4551900
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_4_(2015)
-    directors: Sam Miller
     writers: Neil Cross

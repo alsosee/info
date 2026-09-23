@@ -1,4 +1,5 @@
 name: Good Omens
+directors: Douglas Mackinnon
 description: >
   An angel named Aziraphale and a demon named Crowley, who have lived on Earth since the
   Garden of Eden, form an unlikely alliance to prevent Armageddon and protect the comfortable
@@ -51,7 +52,6 @@ episodes:
     released: 2019-05-31
     length: 52m
     imdb: https://www.imdb.com/title/tt7091742/
-    directors: Douglas Mackinnon
     writers: Neil Gaiman
 
   - name: The Book
@@ -59,7 +59,6 @@ episodes:
     released: 2019-05-31
     length: 57m
     imdb: https://www.imdb.com/title/tt8172156/
-    directors: Douglas Mackinnon
     writers: Neil Gaiman
 
   - name: Hard Times
@@ -67,7 +66,6 @@ episodes:
     released: 2019-05-31
     length: 58m
     imdb: https://www.imdb.com/title/tt8172158/
-    directors: Douglas Mackinnon
     writers: Neil Gaiman
 
   - name: Saturday Morning Funtime
@@ -75,7 +73,6 @@ episodes:
     released: 2019-05-31
     length: 57m
     imdb: https://www.imdb.com/title/tt8071704/
-    directors: Douglas Mackinnon
     writers: Neil Gaiman
 
   - name: The Doomsday Option
@@ -83,7 +80,6 @@ episodes:
     released: 2019-05-31
     length: 53m
     imdb: https://www.imdb.com/title/tt8172160/
-    directors: Douglas Mackinnon
     writers: Neil Gaiman
 
   - name: The Very Last Day of the Rest of Their Lives
@@ -91,5 +87,4 @@ episodes:
     released: 2019-05-31
     length: 55m
     imdb: https://www.imdb.com/title/tt8172162/
-    directors: Douglas Mackinnon
     writers: Neil Gaiman

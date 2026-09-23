@@ -1,4 +1,5 @@
 name: "Luther, Season 2"
+series: Luther
 description: >
   After a leave of absence following the death of his ex-wife, DCI John Luther returns to the police force. 
   He joins a new unit, the Serious and Serial, and is immediately tasked with catching a masked killer 
@@ -51,7 +52,6 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt1770018
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_2_(2011)
-    directors: Sam Miller
     writers: Neil Cross
   - name: Episode 2
     description: >
@@ -60,7 +60,6 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt1983242
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_2_(2011)
-    directors: Sam Miller
     writers: Neil Cross
   - name: Episode 3
     description: >
@@ -69,7 +68,6 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt1983243
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_2_(2011)
-    directors: Sam Miller
     writers: Neil Cross
   - name: Episode 4
     description: >
@@ -78,5 +76,4 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt1983244
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_2_(2011)
-    directors: Sam Miller
     writers: Neil Cross

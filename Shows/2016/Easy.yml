@@ -1,4 +1,6 @@
 name: "Easy"
+directors: Joe Swanberg
+series: Easy
 description: >
   An anthology series set in Chicago that explores the lives of various residents as they navigate modern complexities of love, relationships, sex, and technology.
 released: 2016-09-22
@@ -18,7 +20,6 @@ episodes:
     released: 2016-09-22
     length: 26m
     imdb: https://www.imdb.com/title/tt5981510/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Kyle
@@ -31,7 +32,6 @@ episodes:
     released: 2016-09-22
     length: 28m
     imdb: https://www.imdb.com/title/tt5981512/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Chase
@@ -44,7 +44,6 @@ episodes:
     released: 2016-09-22
     length: 29m
     imdb: https://www.imdb.com/title/tt5981514/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Jeff
@@ -61,7 +60,6 @@ episodes:
     released: 2016-09-22
     length: 30m
     imdb: https://www.imdb.com/title/tt5981516/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Gabi
@@ -76,7 +74,6 @@ episodes:
     released: 2016-09-22
     length: 30m
     imdb: https://www.imdb.com/title/tt5981518/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Jacob Malco
@@ -89,7 +86,6 @@ episodes:
     released: 2016-09-22
     length: 26m
     imdb: https://www.imdb.com/title/tt5981520/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Tom
@@ -104,7 +100,6 @@ episodes:
     released: 2016-09-22
     length: 26m
     imdb: https://www.imdb.com/title/tt5981522/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Sophie
@@ -121,7 +116,6 @@ episodes:
     released: 2016-09-22
     length: 27m
     imdb: https://www.imdb.com/title/tt5981524/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Matt

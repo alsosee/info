@@ -1,4 +1,6 @@
 name: "Easy, Season 2"
+directors: Joe Swanberg
+series: Easy
 description: >
   The second season of the anthology series continues to follow the lives of various Chicagoans as they navigate modern complexities of love, relationships, and culture.
 previous: Shows/2016/Easy
@@ -19,7 +21,6 @@ episodes:
     released: 2017-12-01
     length: 29m
     imdb: https://www.imdb.com/title/tt7254446/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Lindsay
@@ -38,7 +39,6 @@ episodes:
     released: 2017-12-01
     length: 26m
     imdb: https://www.imdb.com/title/tt7557546/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Kyle
@@ -55,7 +55,6 @@ episodes:
     released: 2017-12-01
     length: 26m
     imdb: https://www.imdb.com/title/tt6884762/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Sally
@@ -70,7 +69,6 @@ episodes:
     released: 2017-12-01
     length: 30m
     imdb: https://www.imdb.com/title/tt6844892/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Jeff
@@ -87,7 +85,6 @@ episodes:
     released: 2017-12-01
     length: 30m
     imdb: https://www.imdb.com/title/tt6673254/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Jacob Malco
@@ -104,7 +101,6 @@ episodes:
     released: 2017-12-01
     length: 30m
     imdb: https://www.imdb.com/title/tt7322222/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Grace
@@ -123,7 +119,6 @@ episodes:
     released: 2017-12-01
     length: 30m
     imdb: https://www.imdb.com/title/tt6835959/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Chase
@@ -138,7 +133,6 @@ episodes:
     released: 2017-12-01
     length: 30m
     imdb: https://www.imdb.com/title/tt7511280/
-    directors: Joe Swanberg
     writers: Joe Swanberg
     characters:
       - name: Annie

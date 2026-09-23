@@ -1,4 +1,5 @@
 name: "True Detective: Night Country"
+directors: "Issa López"
 series: True Detective
 previous: Shows/2019/True Detective, Season 3
 description: >
@@ -18,25 +19,19 @@ creators: Issa Lopez
 episodes:
   - name: Part 1
     released: 2024-01-14
-    directors: Issa López
     writers: Issa López
   - name: Part 2
     released: 2024-01-21
-    directors: Issa López
     writers: Issa López
   - name: Part 3
     released: 2024-01-28
-    directors: Issa López
     writers: "Story by: Issa López / Teleplay by: Issa López and Alan Page Arriaga"
   - name: Part 4
     released: 2024-02-04
-    directors: Issa López
     writers: Namsi Khan and Chris Mundy and Issa López
   - name: Part 5
     released: 2024-02-09
-    directors: Issa López
     writers: "Katrina Albright & Wenonah Wilms and Chris Mundy & Issa López"
   - name: Part 6
     released: 2024-02-18
-    directors: Issa López
     writers: Issa López

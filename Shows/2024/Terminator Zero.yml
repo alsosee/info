@@ -19,7 +19,13 @@ rotten_tomatoes: https://www.rottentomatoes.com/tv/terminator_zero
 netflix: https://www.netflix.com/title/81217220
 fandom: https://terminator.fandom.com/wiki/Terminator_Zero
 creators: Mattson Tomlin
-directors: Masashi Kudō
+directors:
+  - "Masashi Kudō"
+  - "Mineo Ōe"
+  - Haruka Tanaka
+  - Shigeki Hatakeyama
+  - Tomomi Takeuchi
+  - Yuta Maruyama
 writers: Mattson Tomlin
 production:
   - Production I.G

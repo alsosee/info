@@ -9,7 +9,9 @@ genres:
   - nature
   - history
   - science documentary
-network: Fox / National Geographic Channel
+network:
+  - Fox
+  - National Geographic Channel
 wikipedia: https://en.wikipedia.org/wiki/Cosmos_(TV_series)
 imdb: https://www.imdb.com/title/tt2395695
 website: https://www.nationalgeographic.com/tv/shows/cosmos-possible-worlds

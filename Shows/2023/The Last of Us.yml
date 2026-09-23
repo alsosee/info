@@ -1,4 +1,5 @@
 name: The Last of Us
+series: The Last of Us
 description: >
   Joel (a smuggler) is tasked with escorting the immune teenager Ellie across a post-apocalyptic United States.
 genres:
@@ -21,12 +22,13 @@ writers:
 directors:
   - Kantemir Balagov
   - Johan Renck
-  - Jasmila Žbanić
+  - "Jasmila Žbanić"
   - Ali Abbasi
   - Neil Druckmann
   - Peter Hoar
   - Jeremy Webb
   - Liza Johnson
+  - Craig Mazin
 composers: Gustavo Santaolalla
 wikipedia: https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)
 twitter: https://twitter.com/TheLastofUsHBO

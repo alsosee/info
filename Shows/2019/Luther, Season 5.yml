@@ -1,4 +1,5 @@
 name: "Luther, Season 5"
+series: Luther
 description: >
   A new wave of gruesome murders in London leads DCI John Luther to suspect a killer 
   with a twisted psychological motive. While hunting the murderer, Luther is also 
@@ -48,7 +49,6 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt7044124
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_5_(2019)
-    directors: Jamie Payne
     writers: Neil Cross
   - name: Episode 2
     description: >
@@ -57,7 +57,6 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt8143990
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_5_(2019)
-    directors: Jamie Payne
     writers: Neil Cross
   - name: Episode 3
     description: >
@@ -66,7 +65,6 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt8143994
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_5_(2019)
-    directors: Jamie Payne
     writers: Neil Cross
   - name: Episode 4
     description: >
@@ -75,5 +73,4 @@ episodes:
     length: 60m
     imdb: https://www.imdb.com/title/tt8143998
     wikipedia: https://en.wikipedia.org/wiki/Luther_(TV_series)#Series_5_(2019)
-    directors: Jamie Payne
     writers: Neil Cross
