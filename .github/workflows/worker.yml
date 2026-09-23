@@ -42,3 +42,8 @@ jobs:
           apiToken: ${{ secrets.CF_API_TOKEN }}
           accountId: ${{ secrets.CF_ACCOUNT_ID }}
           command: deploy --config _finder/worker/wrangler.toml
+
+      - name: Purge redirect source URLs
+        env:
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: python3 .github/scripts/purge_redirect_cache.py
