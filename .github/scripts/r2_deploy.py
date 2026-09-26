@@ -194,14 +194,16 @@ def build_changed_upload_trees(upload_entries, staging):
     return groups
 
 
-def sync_group(group, bucket, endpoint_url, dry_run):
+def upload_group(group, bucket, endpoint_url, dry_run):
+    # The manifest already selected these files by content hash. Copy every
+    # selected file so equal-sized replacements cannot be skipped.
     args = [
-        's3', 'sync', str(group['root']), f's3://{bucket}',
+        's3', 'cp', str(group['root']), f's3://{bucket}',
+        '--recursive',
         '--endpoint-url', endpoint_url,
         '--content-type', group['content_type'],
         '--no-progress',
         '--only-show-errors',
-        '--size-only',
     ]
     if group.get('content_encoding'):
         args.extend(['--content-encoding', group['content_encoding']])
@@ -292,10 +294,10 @@ def main():
 
     groups = build_changed_upload_trees(upload_entries, staging)
     if args.dry_run:
-        print(f'Dry run: skipping {len(groups)} grouped R2 syncs')
+        print(f'Dry run: skipping {len(groups)} grouped R2 uploads')
     else:
         for group in groups.values():
-            sync_group(group, args.bucket, args.endpoint_url, False)
+            upload_group(group, args.bucket, args.endpoint_url, False)
     if delete_candidates and not args.dry_run:
         delete_keys(delete_candidates, args.bucket, args.endpoint_url, False)
 
